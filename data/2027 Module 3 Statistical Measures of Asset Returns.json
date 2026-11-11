@@ -1,0 +1,2339 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6107,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 39,
+  "hidden_question_count": 0,
+  "points": 4,
+  "points_possible": 37,
+  "correct_questions_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 3: Statistical Measures of Asset Returns",
+    "topic_id": 1031,
+    "topic": "CFA-26-02-LI-C: Quantitative Methods",
+    "subtopic_id": 6107,
+    "subtopic": "Module 3: Statistical Measures of Asset Returns",
+    "question_count": 39,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 799,
+        "name": "Warehouse Course: Quantitative Methods 26-LI",
+        "code": "Warehouse Course: Quantitative Methods 26-LI",
+        "module_id": 4106,
+        "question_count": 23,
+        "type": "warehouse"
+      },
+      {
+        "id": 838,
+        "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+        "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+        "module_id": 4624,
+        "question_count": 14,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 39.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "014fe0fb8b6e4589",
+    "ordered_item_ids": [
+      "54403",
+      "54404",
+      "54405",
+      "54406",
+      "54407",
+      "54408",
+      "54409",
+      "54410",
+      "54411",
+      "54412",
+      "54413",
+      "54414",
+      "54415",
+      "54416",
+      "53125",
+      "53126",
+      "53127",
+      "53128",
+      "53129",
+      "53130",
+      "53131",
+      "53132",
+      "53133",
+      "53134",
+      "53135",
+      "53519",
+      "53520",
+      "53521",
+      "53522",
+      "53523",
+      "53524",
+      "53525",
+      "53526",
+      "53527",
+      "53528",
+      "53529",
+      "53530",
+      "53531",
+      "53532"
+    ],
+    "visible_item_ids": [
+      "53125",
+      "53126",
+      "53127",
+      "53128",
+      "53129",
+      "53130",
+      "53131",
+      "53132",
+      "53133",
+      "53134",
+      "53135",
+      "53519",
+      "53520",
+      "53521",
+      "53522",
+      "53523",
+      "53524",
+      "53525",
+      "53526",
+      "53527",
+      "53528",
+      "53529",
+      "53530",
+      "53531",
+      "53532",
+      "54403",
+      "54404",
+      "54405",
+      "54406",
+      "54407",
+      "54408",
+      "54409",
+      "54410",
+      "54411",
+      "54412",
+      "54413",
+      "54414",
+      "54415",
+      "54416"
+    ]
+  },
+  "items": [
+    {
+      "id": "54403",
+      "entry": {
+        "title": "ITEM_20170421165",
+        "feedback": {},
+        "itemBody": "<p>A graphical depiction of a continuous distribution shows the left tail to be longer than the right tail. The distribution is <i>best</i> described as having:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5dde0c7a-53ad-4a2a-ab3e-c703e76edd36"
+        },
+        "answerFeedback": {
+          "5dde0c7a-53ad-4a2a-ab3e-c703e76edd36": "<p>Correct. A negatively skewed distribution appears as if the left tail has been pulled away from the mean. The average magnitude of negative deviations from the mean is larger than the average magnitude of positive deviations.</p>",
+          "d2f0e412-e203-493b-8af5-2b77c3400f40": "<p>Incorrect. A negatively skewed distribution appears as if the left tail has been pulled away from the mean.</p>",
+          "f767dd31-5fe2-4b69-9628-538634b9bf4d": "<p>Incorrect. Kurtosis refers to relative peakedness of a distribution; leptokurtosis means more peaked than normal.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f767dd31-5fe2-4b69-9628-538634b9bf4d",
+              "itemBody": "<p>A. leptokurtosis.</p>",
+              "position": 1
+            },
+            {
+              "id": "d2f0e412-e203-493b-8af5-2b77c3400f40",
+              "itemBody": "<p>B. positive skewness.</p>",
+              "position": 2
+            },
+            {
+              "id": "5dde0c7a-53ad-4a2a-ab3e-c703e76edd36",
+              "itemBody": "<p>C. negative skewness.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54404",
+      "entry": {
+        "title": "ITEM_CFA-L1-00262",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following sample returns for a security:</p>\n<table style=\"border-collapse: collapse; width: 80px; border-style: solid;\" border=\"1\"><colgroup><col width=\"100%\"></colgroup>\n<tbody>\n<tr style=\"height: 29px;\">\n<td style=\"text-align: center; width: 75px; max-width: 75px; height: 29px;\"><strong>Return</strong></td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 75px; max-width: 75px; text-align: center; height: 29px;\">−2%</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 75px; max-width: 75px; text-align: center; height: 29px;\">−1%</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 75px; max-width: 75px; text-align: center; height: 29px;\">1%</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 75px; max-width: 75px; text-align: center; height: 29px;\">2%</td>\n</tr>\n</tbody>\n</table>\n<p>The mean absolute deviation of the sample returns is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "23ed562e-98a0-47db-b06f-9a65cf1cf8cb"
+        },
+        "answerFeedback": {
+          "17d398f8-f381-44f5-8b2c-ce08c91e42c1": "<p>Incorrect because the mean absolute deviation, MAD, is less than standard deviation of returns in the sample. The mean absolute deviation, MAD, is calculated as: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mfenced open=\"|\" close=\"|\"><mrow><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mi>n</mi></mfrac></math>, where the sample mean, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>X</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><msub><mi>x</mi><mi>i</mi></msub></mrow><mi>n</mi></mfrac></math>, which results in MAD = 1.50% while sample standard deviation <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi><mo>=</mo><msqrt><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover><msup><mo>)</mo><mn>2</mn></msup></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac></msqrt></math> = 1.83% therefore MAD is less than standard deviation of sample returns.</p>",
+          "23ed562e-98a0-47db-b06f-9a65cf1cf8cb": "<p>Correct because the mean absolute deviation of 1.5% is less than the sample standard deviation of 1.83%. The mean absolute deviation, MAD, is calculated as:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mfenced open=\"|\" close=\"|\"><mrow><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mi>n</mi></mfrac></math>, where the sample mean,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>X</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><msub><mi>x</mi><mi>i</mi></msub></mrow><mi>n</mi></mfrac></math>. As the sample mean is:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>X</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mfenced><mrow><mo>-</mo><mn>2</mn><mo>-</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>2</mn></mrow></mfenced><mn>4</mn></mfrac><mo>=</mo><mn>0</mn></math>, the calculation of MAD is:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced open=\"|\" close=\"|\"><mrow><mo>-</mo><mn>2</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mo>+</mo><mfenced open=\"|\" close=\"|\"><mrow><mo>-</mo><mn>1</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mo>+</mo><mfenced open=\"|\" close=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mo>+</mo><mfenced open=\"|\" close=\"|\"><mrow><mn>2</mn><mo>-</mo><mn>0</mn></mrow></mfenced></mrow><mn>4</mn></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>2</mn></mrow><mn>4</mn></mfrac></math>&nbsp;= 1.5000%, while the sample standard deviation of <i>n</i> observations, <i>X<sub>i</sub></i>, is&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi><mo>=</mo><msqrt><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover><msup><mo>)</mo><mn>2</mn></msup></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac></msqrt></math>&nbsp;, here:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><msup><mfenced><mrow><mo>-</mo><mn>2</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mo>-</mo><mn>1</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>1</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>2</mn><mo>-</mo><mn>0</mn></mrow></mfenced><mn>2</mn></msup></mrow><mrow><mn>4</mn><mo>-</mo><mn>1</mn></mrow></mfrac></msqrt><mo>=</mo><msqrt><mfrac><mrow><mn>4</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>+</mo><mn>4</mn></mrow><mn>3</mn></mfrac></msqrt><mo>=</mo><msqrt><mn>3</mn><mo>.</mo><mn>3333</mn></msqrt></math>&nbsp;= 1.8257%.</p>",
+          "475aa684-2d6d-4252-994b-b0e0656ff83a": "<p>Incorrect because the mean absolute deviation, MAD, is less than standard deviation of returns in the sample. The mean absolute deviation, MAD, is calculated as:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mfenced open=\"|\" close=\"|\"><mrow><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mi>n</mi></mfrac></math>, where the sample mean,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>X</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><msub><mi>x</mi><mi>i</mi></msub></mrow><mi>n</mi></mfrac></math>, which results in MAD = 1.50% while sample standard deviation&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi><mo>=</mo><msqrt><mfrac><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>-</mo><mover><mi>x</mi><mo>¯</mo></mover><msup><mo>)</mo><mn>2</mn></msup></mrow><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfrac></msqrt></math>&nbsp;= 1.83% therefore MAD is less than standard deviation of sample returns.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "23ed562e-98a0-47db-b06f-9a65cf1cf8cb",
+              "itemBody": "<p>A. less than the sample standard deviation.</p>",
+              "position": 1
+            },
+            {
+              "id": "475aa684-2d6d-4252-994b-b0e0656ff83a",
+              "itemBody": "<p>B. equal to the sample standard deviation.</p>",
+              "position": 2
+            },
+            {
+              "id": "17d398f8-f381-44f5-8b2c-ce08c91e42c1",
+              "itemBody": "<p>C. greater than the sample standard deviation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54405",
+      "entry": {
+        "title": "ITEM_2019B Quant 05EJT 12U3",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following returns for seven funds:</p>\n<table style=\"border-collapse: collapse; width: 370px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">12%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">7%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">5%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">4%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">8%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">3%</td>\n<td style=\"width: 50px; max-width: 50px; text-align: center;\">3%</td>\n</tr>\n</tbody>\n</table>\n<p>The second quartile return is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4990d702-6a7f-4109-a48e-b7e208540312"
+        },
+        "answerFeedback": {
+          "0e4e7259-d430-4a7c-bf54-59eceb1d2b94": "<p>Incorrect because the mean is mistaken as the 50<sup>th</sup> percentile or second quartile; mean return = (12% + 8% + 7% + 5% + 4% + 3% + 3%)/7 = 6%.</p>",
+          "4990d702-6a7f-4109-a48e-b7e208540312": "<p>Correct because the formula for the position of a percentile in an array with <i>n</i> entries sorted in ascending order is <i>L<sub>y</sub></i> = ( <i>n</i> + 1) × <i>y</i>/100, where <i>y</i> is the percentage point at which we are dividing the distribution and <i>L<sub>y</sub></i> is the location ( <i>L</i>) of the percentile ( <i>P<sub>y</sub></i>) in the array sorted in ascending order.&nbsp;With seven entries, the location of the second quartile, or 50<sup>th</sup> percentile, is: <i>L<sub>y</sub></i> = (7 + 1) × 50/100 = 4. When placing the funds' returns in ascending order (3%; 3%; 4%; 5%; 7%; 8%; 12%), the return of the 4<sup>th</sup> fund is 5%.<br>Alternatively, candidates might realize that the second quartile or 50<sup>th</sup> percentile is the median. The median is the value of the middle item of a set of items that has been sorted into ascending or descending order. In an odd-numbered sample of <i>n</i> items, the median occupies the ( <i>n</i> + 1)/2 position.&nbsp;Hence, the median return is 5%.</p>",
+          "e108e2fb-0c0c-411c-b423-a55891689c16": "<p>Incorrect because it confuses the location of the second quartile, which is calculated as <i>L<sub>y</sub></i> = (7 + 1) × 50/100 = 4, with the value of the second quartile, which is the return of the 4<sup>th</sup> fund after placing the funds’ returns in ascending order. 4% also corresponds to the return of the 4<sup>th</sup> fund (the middle fund) when the array has not been sorted in ascending order, which a candidate might interpret as the 50<sup>th</sup> percentile (the median).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e108e2fb-0c0c-411c-b423-a55891689c16",
+              "itemBody": "<p>A. 4%.</p>",
+              "position": 1
+            },
+            {
+              "id": "4990d702-6a7f-4109-a48e-b7e208540312",
+              "itemBody": "<p>B. 5%.</p>",
+              "position": 2
+            },
+            {
+              "id": "0e4e7259-d430-4a7c-bf54-59eceb1d2b94",
+              "itemBody": "<p>C. 6%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54406",
+      "entry": {
+        "title": "ITEM_CFA-L1-10470",
+        "feedback": {},
+        "itemBody": "<p>An analyst observes the following EPS for four companies: –£0.50, £0.50, £2.50, and £5.50. The 50th percentile of the EPS values is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b95108b2-f4a6-4b9b-b08e-fc17f1ebda20"
+        },
+        "answerFeedback": {
+          "7c584aba-c2ed-461c-a78a-0a90272ef4b2": "<p>Incorrect because it is the position (or location) of the 50th percentile instead of the 50th percentile: (4 + 1) × 50/100 = 2.5. The formula for the position (or location) of a percentile in an array with n entries sorted in ascending order is L<sub>y</sub> = (n + 1)(y/100) where y is the percentage point at which we are dividing the distribution and L<sub>y</sub> is the location (L) of the percentile (P<sub>y</sub>) in the array sorted in ascending order. The value of L<sub>y</sub> may or may not be a whole number. When L<sub>y</sub> is not a whole number or integer, L<sub>y</sub> lies between the two closest integer numbers (one above and one below), and we use linear interpolation between those two places to determine P<sub>y</sub>.</p>",
+          "8e5e13fb-db09-4bee-8212-64014c221fc5": "<p>Incorrect because it is the location of the median; n/2 = 4/2. Alternatively, it is also the average EPS; (–£0.50 + £0.50 + £2.50 + £5.50)/4 = £2.00.</p>",
+          "b95108b2-f4a6-4b9b-b08e-fc17f1ebda20": "<p>Correct because the 50<sup>th</sup> percentile is the median, which is the average of the two middle items; (£0.50 + £2.50)/2 = £1.50. In an odd-numbered sample of n items, the median occupies the (n + 1)/2 position. In an even-numbered sample, we define the median as the mean of the values of items occupying the n/2 and (n + 2)/2 positions (the two middle items).&nbsp;Calculating the median may also be&nbsp;more complex; to do so, we need to order the observations from smallest to largest, determine whether the sample size is even or odd and, on that basis, apply one of two calculations. Alternatively, the 50th percentile when L<sub>y</sub> is not a whole number or integer, L<sub>y</sub> lies between the two closest integer numbers (one above and one below), and we use linear interpolation between those two places to determine P<sub>y</sub>.&nbsp;That is, L<sub>y</sub> = (n + 1)(y/100) = (4 + 1)(50/100) = 2.5. Hence, 2 is the closest integer below the calculated location and 3 is the closest integer above the calculated location. Using linear interpolation, P<sub>50</sub> = £0.50 + (£2.50 – £0.50) × (2.5 – 2) = £1.50.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b95108b2-f4a6-4b9b-b08e-fc17f1ebda20",
+              "itemBody": "<p>A. £1.50.</p>",
+              "position": 1
+            },
+            {
+              "id": "8e5e13fb-db09-4bee-8212-64014c221fc5",
+              "itemBody": "<p>B. £2.00.</p>",
+              "position": 2
+            },
+            {
+              "id": "7c584aba-c2ed-461c-a78a-0a90272ef4b2",
+              "itemBody": "<p>C. £2.50.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54407",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.07-Quant-Leonida-02",
+        "feedback": {},
+        "itemBody": "<p>An analyst calculates the following statistics for a sample with 100 observations:</p>\n<table style=\"border-collapse: collapse; width: 194px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<th style=\"width: 123.391px; max-width: 117px;\" scope=\"col\">&nbsp;</th>\n<th style=\"width: 69.6094px; max-width: 66px; text-align: center;\" scope=\"col\"><strong>Value</strong></th>\n</tr>\n<tr>\n<td style=\"width: 123.391px; max-width: 117px;\">First quartile</td>\n<td style=\"width: 69.6094px; max-width: 66px; text-align: center;\">11</td>\n</tr>\n<tr>\n<td style=\"width: 123.391px; max-width: 117px;\">Second quartile</td>\n<td style=\"width: 69.6094px; max-width: 66px; text-align: center;\">62</td>\n</tr>\n<tr>\n<td style=\"width: 123.391px; max-width: 117px;\">Third quartile</td>\n<td style=\"width: 69.6094px; max-width: 66px; text-align: center;\">93</td>\n</tr>\n<tr>\n<td style=\"width: 123.391px; max-width: 117px;\">Fourth quartile</td>\n<td style=\"width: 69.6094px; max-width: 66px; text-align: center;\">359</td>\n</tr>\n</tbody>\n</table>\n<p>The interquartile range of the sample is equal to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f619c97c-206b-4af4-bfa8-9e98059d5043"
+        },
+        "answerFeedback": {
+          "a15fc3ae-bbcb-44f3-a8c5-9b4ac2f7ddab": "<p>Incorrect because it is the range of the four numbers given, and not the interquartile range.&nbsp;<i>Q</i><sub>4</sub> − <i>Q</i><sub>1&nbsp;</sub>= 359&nbsp;− 11 = 348.</p>",
+          "cabba91f-e55d-403e-aaff-10afeda189f7": "<p>Incorrect because it is the difference between the third quartile and the second quartile, <i>Q</i><sub><i>3</i></sub> − <i>Q</i><sub>2</sub> = 93 − 62 = 31. The <b>interquartile range</b> (IQR) is the difference between the third quartile and the first quartile.</p>",
+          "f619c97c-206b-4af4-bfa8-9e98059d5043": "<p>Correct because the <b>interquartile range</b> (IQR) is the difference between the third quartile and the first quartile, or IQR = <i>Q</i><sub>3</sub> − <i>Q</i><sub>1</sub>&nbsp;= 93&nbsp;– 11 = 82. <b>Quartiles</b> divide the distribution into quarters.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cabba91f-e55d-403e-aaff-10afeda189f7",
+              "itemBody": "<p>A. 31.</p>",
+              "position": 1
+            },
+            {
+              "id": "f619c97c-206b-4af4-bfa8-9e98059d5043",
+              "itemBody": "<p>B. 82.</p>",
+              "position": 2
+            },
+            {
+              "id": "a15fc3ae-bbcb-44f3-a8c5-9b4ac2f7ddab",
+              "itemBody": "<p>C. 348.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54408",
+      "entry": {
+        "title": "ITEM_CFA-L1-02983",
+        "feedback": {},
+        "itemBody": "<p>Which of the following measures <i>best</i> quantifies the amount of risk per unit of mean return?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "48474851-6c45-44fd-8599-ab14960e5795"
+        },
+        "answerFeedback": {
+          "3a8d864b-3c8a-41b1-be23-d468cba1d6fa": "<p>Incorrect because the Sharpe ratio is the average return in excess of the risk-free rate divided by the standard deviation of returns. This ratio measures the excess return earned per unit of standard deviation of return.&nbsp;Therefore, the Sharpe ratio does not quantify the amount of risk per unit of mean return.</p>",
+          "48474851-6c45-44fd-8599-ab14960e5795": "<p>Correct because the coefficient of variation, CV, is the ratio of the standard deviation of a set of observations to their mean value. When the observations are returns, for example, the coefficient of variation measures the amount of risk (standard deviation) per unit of mean return.</p>",
+          "e84085b4-b962-4733-8623-28ea016737ca": "<p>Incorrect because the standard deviation measures risk, but it does not quantify the amount of risk per unit of mean return. Variance is defined as the average of the squared deviations around the mean. Standard deviation is the positive square root of the variance.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3a8d864b-3c8a-41b1-be23-d468cba1d6fa",
+              "itemBody": "<p>A. Sharpe ratio</p>",
+              "position": 1
+            },
+            {
+              "id": "e84085b4-b962-4733-8623-28ea016737ca",
+              "itemBody": "<p>B. Standard deviation</p>",
+              "position": 2
+            },
+            {
+              "id": "48474851-6c45-44fd-8599-ab14960e5795",
+              "itemBody": "<p>C. Coefficient of variation</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54409",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Quant-Georgiou-17",
+        "feedback": {},
+        "itemBody": "<p>An analyst discards the lowest 2.5% and the highest 2.5% of values in a sample, and computes the mean of the remaining 95% of values. The resulting mean is <i>best</i> described as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ab16666d-9428-405b-92ad-e2eb1f832757"
+        },
+        "answerFeedback": {
+          "39f084b8-e5ee-4f6e-affa-3f5deeb5ce2e": "<p>Incorrect because the winsorized mean is calculated by assigning a stated percentage of the lowest values equal to one specified low value and a stated percentage of the highest values equal to one specified high value, and then it computes a mean from the restated data. For example, a 95% winsorized mean sets the bottom 2.5% of values equal to the value at or below which 2.5% of all the values lie (as will be seen shortly, this is called the '2.5th percentile'&nbsp;value) and the top 2.5% of values equal to the value at or below which 97.5% of all the values lie (the '97.5th percentile'&nbsp;value).</p>",
+          "ab16666d-9428-405b-92ad-e2eb1f832757": "<p>Correct because the trimmed mean is computed by excluding a stated small percentage of the lowest and highest values and then computing an arithmetic mean of the remaining values. For example, a 5% trimmed mean discards the lowest 2.5% and the highest 2.5% of values and computes the mean of the remaining 95% of values.</p>",
+          "eca961f7-f192-4965-957b-9f6d750bf9e6": "<p>Incorrect because the harmonic mean is the value obtained by summing the reciprocals of the observations—terms of the form 1/<i>X<sub>i</sub></i>—then averaging that sum by dividing it by the number of observations <i>n</i>, and, finally, taking the reciprocal of the average.&nbsp;The harmonic mean may be viewed as a special type of weighted mean in which an observation’s weight is inversely proportional to its magnitude. The harmonic mean does not exclude or replace any outliers.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ab16666d-9428-405b-92ad-e2eb1f832757",
+              "itemBody": "<p>A. trimmed mean.</p>",
+              "position": 1
+            },
+            {
+              "id": "eca961f7-f192-4965-957b-9f6d750bf9e6",
+              "itemBody": "<p>B. harmonic mean.</p>",
+              "position": 2
+            },
+            {
+              "id": "39f084b8-e5ee-4f6e-affa-3f5deeb5ce2e",
+              "itemBody": "<p>C. winsorized mean.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54410",
+      "entry": {
+        "title": "ITEM_CFA-L1-01930",
+        "feedback": {},
+        "itemBody": "<p>Ranked in ascending order, the 19<sup>th</sup> observation in a sample of 75 is in the second:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8e469478-ad1d-40f7-9bf3-a54208ec6b32"
+        },
+        "answerFeedback": {
+          "8e469478-ad1d-40f7-9bf3-a54208ec6b32": "<p>Correct because the 19<sup>th</sup> observation is located at the 25<sup>th</sup> percentile;</p>\n<p><math> <mrow> <msub> <mi>L</mi> <mi>y</mi> </msub> <mo>=</mo><mfenced> <mrow> <mn>1</mn><mo>+</mo><mi>n</mi></mrow> </mfenced><mfenced> <mrow> <mfrac> <mi>y</mi> <mrow> <mn>100</mn></mrow> </mfrac> </mrow> </mfenced></mrow> </math> <math> <mrow> <mn>19</mn><mo>=</mo><mfenced> <mrow> <mn>1</mn><mo>+</mo><mn>75</mn></mrow> </mfenced><mfenced> <mrow> <mfrac> <mi>y</mi> <mrow> <mn>100</mn></mrow> </mfrac> </mrow> </mfenced><mo>;</mo><mo>&nbsp;</mo><mi>y</mi><mo>=</mo><mfenced> <mrow> <mfrac> <mrow> <mn>19</mn><mo>×</mo><mn>100</mn></mrow> <mrow> <mn>1</mn><mo>+</mo><mn>75</mn></mrow> </mfrac> </mrow> </mfenced><mo>=</mo><mn>25.0</mn></mrow> </math></p>\n<p>which is in the second quintile. The second quintile includes observations that are above the 20<sup>th</sup> percentile and at or below the 40<sup>th</sup> percentile.</p>",
+          "b2a2d1a2-32b1-44aa-b72c-9922f02dacbe": "<p>Incorrect because the second quartile includes observations that are above the 25<sup>th</sup> percentile and at or below the 50<sup>th</sup> percentile. Because the 19<sup>th</sup> observation is at the 25<sup>th</sup> percentile, it is in the first quartile.</p>",
+          "f7c47646-ab6b-4580-8f5d-531b46ee6df3": "<p>Incorrect because the second decile includes observations that are above the 10<sup>th</sup> percentile and at or below the 20<sup>th</sup> percentile. The 19<sup>th</sup> observation is in the second group of ten observations, but it is not in the second decile because there are only 75 observations in the sample.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f7c47646-ab6b-4580-8f5d-531b46ee6df3",
+              "itemBody": "<p>A. decile.</p>",
+              "position": 1
+            },
+            {
+              "id": "8e469478-ad1d-40f7-9bf3-a54208ec6b32",
+              "itemBody": "<p>B. quintile.</p>",
+              "position": 2
+            },
+            {
+              "id": "b2a2d1a2-32b1-44aa-b72c-9922f02dacbe",
+              "itemBody": "<p>C. quartile.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54411",
+      "entry": {
+        "title": "ITEM_CFA-L1-06832",
+        "feedback": {},
+        "itemBody": "<p>If a unimodal return distribution is negatively skewed, which of the following <i>most likely</i> has the highest value?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2ca62acf-c2d4-4ece-b81e-5d5c43f32677"
+        },
+        "answerFeedback": {
+          "2ca62acf-c2d4-4ece-b81e-5d5c43f32677": "<p>Correct because for the continuous&nbsp;negatively skewed unimodal distribution, the mean is less than the median, which is less than the mode. Therefore, the mode has the highest value.</p>",
+          "ad67f794-eecb-4971-a204-b84736c45924": "<p>Incorrect because the mode, not the median, is the measure with the highest value for a continuous&nbsp;negatively skewed unimodal distribution.&nbsp;</p>",
+          "bcd24b80-95e7-4398-8215-4bb29c92e09a": "<p>Incorrect because the mode, not the mean, is the measure with the highest value for a continuous negatively skewed unimodal distribution.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bcd24b80-95e7-4398-8215-4bb29c92e09a",
+              "itemBody": "<p>A. Mean</p>",
+              "position": 1
+            },
+            {
+              "id": "2ca62acf-c2d4-4ece-b81e-5d5c43f32677",
+              "itemBody": "<p>B. Mode</p>",
+              "position": 2
+            },
+            {
+              "id": "ad67f794-eecb-4971-a204-b84736c45924",
+              "itemBody": "<p>C. Median</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54412",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Niininen-20",
+        "feedback": {},
+        "itemBody": "<p>For a continuous positively skewed unimodal distribution:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "93bb39fe-0c5f-494d-b09e-ba79c87acf0f"
+        },
+        "answerFeedback": {
+          "2dda1401-ed08-4a32-9c45-2706eadfe650": "<p>Incorrect because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean. For the continuous negatively skewed unimodal distribution, the mean is less than the median, which is less than the mode.</p>",
+          "35cbbaee-bf35-4204-b8ff-df291b9f449d": "<p>Incorrect because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.</p>",
+          "93bb39fe-0c5f-494d-b09e-ba79c87acf0f": "<p>Correct because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "93bb39fe-0c5f-494d-b09e-ba79c87acf0f",
+              "itemBody": "<p>A. both the mode and the median are less than the mean.</p>",
+              "position": 1
+            },
+            {
+              "id": "2dda1401-ed08-4a32-9c45-2706eadfe650",
+              "itemBody": "<p>B. both the mode and the median are greater than the mean.</p>",
+              "position": 2
+            },
+            {
+              "id": "35cbbaee-bf35-4204-b8ff-df291b9f449d",
+              "itemBody": "<p>C. the mode is less than the mean and the median is greater than the mean.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54413",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Niininen-17",
+        "feedback": {},
+        "itemBody": "<p>A portfolio has a mean return of 1.0% and a standard deviation of returns of 2.7%. If the specified minimum target return is 1.0%, the sample target semideviation is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "98d1a673-c02c-455b-ac08-565d30f705a7"
+        },
+        "answerFeedback": {
+          "98d1a673-c02c-455b-ac08-565d30f705a7": "<p>Correct because the target downside deviation = [Σ(<i>X<sub>i</sub>&nbsp;– B</i>)<sup>2</sup>/(<i>n –</i> 1)]<sup>0.5</sup>,<sup> </sup>where <i>X<sub>i</sub></i>&nbsp;are the periodic returns below the target return, <i>B</i>&nbsp;is the target return, and <i>n</i>&nbsp;is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation.&nbsp;</p>",
+          "d284cfe7-b48c-4214-b618-77f2da4591fd": "<p>Incorrect because the target downside deviation = [Σ(<i>X<sub>i</sub>&nbsp;– B</i>)<sup>2</sup>/(<i>n –</i> 1)]<sup>0.5</sup>,<sup> </sup>where <i>X<sub>i</sub></i>&nbsp;are the periodic returns below the target return, <i>B</i>&nbsp;is the target return, and <i>n</i>&nbsp;is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation.&nbsp;</p>",
+          "ed4626aa-7071-45ad-a9c9-77aca2ae7b0b": "<p>Incorrect because the target downside deviation = [Σ(<i>X<sub>i</sub>&nbsp;– B</i>)<sup>2</sup>/(<i>n –</i> 1)]<sup>0.5</sup>,<sup> </sup>where <i>X<sub>i</sub></i>&nbsp;are the periodic returns below the target return, <i>B</i>&nbsp;is the target return, and <i>n</i>&nbsp;is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98d1a673-c02c-455b-ac08-565d30f705a7",
+              "itemBody": "<p>A. less than 2.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "d284cfe7-b48c-4214-b618-77f2da4591fd",
+              "itemBody": "<p>B. equal to 2.7%.</p>",
+              "position": 2
+            },
+            {
+              "id": "ed4626aa-7071-45ad-a9c9-77aca2ae7b0b",
+              "itemBody": "<p>C. greater than 2.7%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54414",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Conover-15",
+        "feedback": {},
+        "itemBody": "<p>The correlation&nbsp;between two variables measures:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a3d3854b-e50a-4f4e-83f5-74dd4c001176"
+        },
+        "answerFeedback": {
+          "3c14c945-d41c-4c33-8ec9-a488435195c8": "<p>Incorrect because the correlation coefficient is a measure of the linear association between two variables.&nbsp;It does not measure non-linear relationships between variables.&nbsp;</p>",
+          "a3d3854b-e50a-4f4e-83f5-74dd4c001176": "<p>Correct because the correlation coefficient is a measure of the linear association between two variables; it would not be appropriate to use the correlation coefficient to measure the non-linear relationship between variables.</p>",
+          "bb526bdc-63b1-43c1-9ffd-30545fde0a57": "<p>Incorrect because the correlation coefficient is a measure of the linear association between two variables. It does not measure non-linear relationships between variables.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a3d3854b-e50a-4f4e-83f5-74dd4c001176",
+              "itemBody": "<p>A. only their linear relationship.</p>",
+              "position": 1
+            },
+            {
+              "id": "3c14c945-d41c-4c33-8ec9-a488435195c8",
+              "itemBody": "<p>B. only their non-linear relationship.</p>",
+              "position": 2
+            },
+            {
+              "id": "bb526bdc-63b1-43c1-9ffd-30545fde0a57",
+              "itemBody": "<p>C. both their linear and non-linear relationships.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54415",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Quant-Georgiou-07",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">A portfolio has the following annual returns over five years:</span></p>\n<table style=\"border-collapse: collapse; width: 186px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong>Year</strong></span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong>Annual Return</strong></span></td>\n</tr>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">1</span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">−23%</span></td>\n</tr>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">2</span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">20%</span></td>\n</tr>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">3</span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">3%</span></td>\n</tr>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">4</span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">13%</span></td>\n</tr>\n<tr style=\"height: 29.5px;\">\n<td style=\"width: 61px; text-align: center; max-width: 61px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">5</span></td>\n<td style=\"width: 117px; text-align: center; max-width: 117px; height: 29.5px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">−1%</span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">If the portfolio manager has a target annual return of 6%, the portfolio's target downside deviation is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f41bbfb0-1e51-4be7-8b52-db32578eb264"
+        },
+        "answerFeedback": {
+          "e1a5f943-fe13-4eaf-8314-2338943d02c3": "<p>Incorrect because it uses the correct formula but instead of dividing by <i>n </i>– 1, <span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\">the sum of squared negative deviations from the target&nbsp;is divided by <i>n</i></span>.&nbsp;</p><p>Observations for years 1, 3, and 5 are below the target. Thus, target downside deviation = [((–23% –6%)<sup>2</sup> + (3% – 6%)<sup>2</sup> + (–1% – 6%)<sup>2</sup>)/4]<sup>½</sup></p><p>= [((–29%)<sup>2</sup> + (–3%)<sup>2</sup> + (–7%)<sup>2</sup>)/5]<sup>½</sup>&nbsp;</p><p>= [(841%<sup>2</sup>&nbsp;+ 9%<sup>2</sup> + 49%<sup>2</sup>)/5]<sup>½</sup>&nbsp;</p><p>= (899%<sup>2</sup>/5)<sup>½</sup></p><p>= (179.8%<sup>2</sup>)<sup>½</sup></p><p>= 13.41%&nbsp;≈&nbsp;13%.&nbsp;</p>",
+          "efd231f7-8858-48bb-85f0-8befa1f42824": "<p>Incorrect because it does not subtract the target return from the annual return.&nbsp;</p><p>Observations for years 1, 3, and 5 are below the target; [((–23%)<sup>2</sup> + (3%)<sup>2</sup> + (–1%)<sup>2</sup> )/4]<sup>½</sup></p><p>= [(529%<sup>2</sup>&nbsp;+ 9%<sup>2</sup>&nbsp;+ 1%<sup>2</sup>)/4]<sup>½</sup></p><p>= (539%<sup>2</sup>/4)<sup>½</sup></p><p>= (134.75%<sup>2</sup>)<sup>½</sup></p><p>= 11.61%&nbsp;≈ 12%.&nbsp;</p>",
+          "f41bbfb0-1e51-4be7-8b52-db32578eb264": "<p>Correct because t<b>he target downside deviation</b>, also referred to as the target semideviation, is a measure of dispersion of the observations (here, returns) below the target. To calculate a sample target semideviation, we first specify the target. After identifying observations below the target, we find the sum of the squared negative deviations from the target, divide that sum by the total number of observations in the sample minus 1, and, finally, take the square root.</p><p>Observations for years 1, 3, and 5 are below the target. Thus, target downside deviation = [((–23% –6%)<sup>2</sup> + (3% – 6%)<sup>2</sup> + (–1% –6%)<sup>2</sup>)/4]<sup>½</sup></p><p>= [((–29%)<sup>2</sup> + (–3%)<sup>2</sup> + (–7%)<sup>2</sup>)/4]<sup>½</sup>&nbsp;</p><p>= [(841%<sup>2</sup>&nbsp;+ 9%<sup>2</sup> + 49%<sup>2</sup>)/4]<sup>½</sup></p><p>= (899%<sup>2</sup>/4)<sup>½</sup></p><p>= (224.75%<sup>2</sup>)<sup>½</sup></p><p>= 14.99%&nbsp;≈&nbsp;15%.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "efd231f7-8858-48bb-85f0-8befa1f42824",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">A. 12%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "e1a5f943-fe13-4eaf-8314-2338943d02c3",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">B. 13%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "f41bbfb0-1e51-4be7-8b52-db32578eb264",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">C. 15%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54416",
+      "entry": {
+        "title": "ITEM_2019BQuant06AOT",
+        "feedback": {},
+        "itemBody": "<p>The coefficient of variation of a portfolio’s monthly returns is <i>best</i> defined as the ratio of the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "10dd7f6e-2984-40b8-a7d5-f384d6d34d31"
+        },
+        "answerFeedback": {
+          "10dd7f6e-2984-40b8-a7d5-f384d6d34d31": "<p>Correct because the coefficient of variation<b> </b>is the ratio of the standard deviation of a set of observations to their mean value.</p>",
+          "53c9a18b-7d0d-4ab3-befd-da6dee9a0068": "<p>Incorrect because it is the inverse of the Sharpe ratio, not the coefficient of variation. The Sharpe ratio measures the reward, in terms of mean excess return, per unit of risk, as measured by standard deviation of return. The numerator of the Sharpe measure is the portfolio’s mean return minus the mean return on the risk-free asset over the sample period. We call this difference the mean excess return on a portfolio.</p>",
+          "bd2a520e-d9bf-4cfd-a47b-49023031f115": "<p>Incorrect because it defines the Sharpe ratio, not the coefficient of variation. The Sharpe ratio measures the reward, in terms of mean excess return, per unit of risk, as measured by standard deviation of return.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "10dd7f6e-2984-40b8-a7d5-f384d6d34d31",
+              "itemBody": "<p>A. standard deviation of the portfolio’s returns to the mean return.</p>",
+              "position": 1
+            },
+            {
+              "id": "bd2a520e-d9bf-4cfd-a47b-49023031f115",
+              "itemBody": "<p>B. mean excess portfolio return to the standard deviation of returns.</p>",
+              "position": 2
+            },
+            {
+              "id": "53c9a18b-7d0d-4ab3-befd-da6dee9a0068",
+              "itemBody": "<p>C. standard deviation of the portfolio’s returns to the mean excess return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8764,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4624,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53125",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Consider the results of an analysis focusing on the market capitalizations of a sample of 100 firms:</p>\n<div id=\"CFA2463-R-s02-EXH-2-11\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 1<span style=\"display: block;\">Market Capitalization of a Sample of 100 Firms</span></h2>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-bottom: 1px solid #000000;\">\n<thead>\n<tr style=\"border-top: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom;\" rowspan=\"2\"><strong>Bin</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\" rowspan=\"2\"><strong>Cumulative Percentage of Sample (%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\" colspan=\"2\"><strong>Market Capitalization (euro billions)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\" rowspan=\"2\"><strong>Number of Observations</strong></th>\n</tr>\n<tr style=\"border-bottom: 1px solid #000000;\">\n<th style=\"text-align: center; vertical-align: top;\"><strong>Lower Bound</strong></th>\n<th style=\"text-align: center; vertical-align: top;\"><strong>Upper Bound</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">1</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n<td style=\"text-align: center; vertical-align: bottom;\">0.28</td>\n<td style=\"text-align: center; vertical-align: bottom;\">15.45</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">2</td>\n<td style=\"text-align: center; vertical-align: bottom;\">10</td>\n<td style=\"text-align: center; vertical-align: bottom;\">15.45</td>\n<td style=\"text-align: center; vertical-align: bottom;\">21.22</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">3</td>\n<td style=\"text-align: center; vertical-align: bottom;\">15</td>\n<td style=\"text-align: center; vertical-align: bottom;\">21.22</td>\n<td style=\"text-align: center; vertical-align: bottom;\">29.37</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">4</td>\n<td style=\"text-align: center; vertical-align: bottom;\">20</td>\n<td style=\"text-align: center; vertical-align: bottom;\">29.37</td>\n<td style=\"text-align: center; vertical-align: bottom;\">32.57</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">5</td>\n<td style=\"text-align: center; vertical-align: bottom;\">25</td>\n<td style=\"text-align: center; vertical-align: bottom;\">32.57</td>\n<td style=\"text-align: center; vertical-align: bottom;\">34.72</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">6</td>\n<td style=\"text-align: center; vertical-align: bottom;\">30</td>\n<td style=\"text-align: center; vertical-align: bottom;\">34.72</td>\n<td style=\"text-align: center; vertical-align: bottom;\">37.58</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">7</td>\n<td style=\"text-align: center; vertical-align: bottom;\">35</td>\n<td style=\"text-align: center; vertical-align: bottom;\">37.58</td>\n<td style=\"text-align: center; vertical-align: bottom;\">39.90</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">8</td>\n<td style=\"text-align: center; vertical-align: bottom;\">40</td>\n<td style=\"text-align: center; vertical-align: bottom;\">39.90</td>\n<td style=\"text-align: center; vertical-align: bottom;\">41.57</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">9</td>\n<td style=\"text-align: center; vertical-align: bottom;\">45</td>\n<td style=\"text-align: center; vertical-align: bottom;\">41.57</td>\n<td style=\"text-align: center; vertical-align: bottom;\">44.86</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">10</td>\n<td style=\"text-align: center; vertical-align: bottom;\">50</td>\n<td style=\"text-align: center; vertical-align: bottom;\">44.86</td>\n<td style=\"text-align: center; vertical-align: bottom;\">46.88</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">11</td>\n<td style=\"text-align: center; vertical-align: bottom;\">55</td>\n<td style=\"text-align: center; vertical-align: bottom;\">46.88</td>\n<td style=\"text-align: center; vertical-align: bottom;\">49.40</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">12</td>\n<td style=\"text-align: center; vertical-align: bottom;\">60</td>\n<td style=\"text-align: center; vertical-align: bottom;\">49.40</td>\n<td style=\"text-align: center; vertical-align: bottom;\">51.27</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">13</td>\n<td style=\"text-align: center; vertical-align: bottom;\">65</td>\n<td style=\"text-align: center; vertical-align: bottom;\">51.27</td>\n<td style=\"text-align: center; vertical-align: bottom;\">53.58</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">14</td>\n<td style=\"text-align: center; vertical-align: bottom;\">70</td>\n<td style=\"text-align: center; vertical-align: bottom;\">53.58</td>\n<td style=\"text-align: center; vertical-align: bottom;\">56.66</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">15</td>\n<td style=\"text-align: center; vertical-align: bottom;\">75</td>\n<td style=\"text-align: center; vertical-align: bottom;\">56.66</td>\n<td style=\"text-align: center; vertical-align: bottom;\">58.34</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">16</td>\n<td style=\"text-align: center; vertical-align: bottom;\">80</td>\n<td style=\"text-align: center; vertical-align: bottom;\">58.34</td>\n<td style=\"text-align: center; vertical-align: bottom;\">63.10</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">17</td>\n<td style=\"text-align: center; vertical-align: bottom;\">85</td>\n<td style=\"text-align: center; vertical-align: bottom;\">63.10</td>\n<td style=\"text-align: center; vertical-align: bottom;\">67.06</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">18</td>\n<td style=\"text-align: center; vertical-align: bottom;\">90</td>\n<td style=\"text-align: center; vertical-align: bottom;\">67.06</td>\n<td style=\"text-align: center; vertical-align: bottom;\">73.00</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">19</td>\n<td style=\"text-align: center; vertical-align: bottom;\">95</td>\n<td style=\"text-align: center; vertical-align: bottom;\">73.00</td>\n<td style=\"text-align: center; vertical-align: bottom;\">81.62</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">20</td>\n<td style=\"text-align: center; vertical-align: bottom;\">100</td>\n<td style=\"text-align: center; vertical-align: bottom;\">81.62</td>\n<td style=\"text-align: center; vertical-align: bottom;\">96.85</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53126",
+      "entry": {
+        "title": "CFA2463-R-s02-Q15",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The tenth percentile corresponds to the lowest 10 percent of the observations in the sample, which are in bins 1 and 2.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The tenth percentile corresponds to observations in bin(s):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "321cdb93-df8c-4de2-890c-3a2b13fde1a8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3d80d693-1f3e-499c-8523-0fb45169932a",
+              "itemBody": "A. 2.",
+              "position": 1
+            },
+            {
+              "id": "321cdb93-df8c-4de2-890c-3a2b13fde1a8",
+              "itemBody": "B. 1 and 2.",
+              "position": 2
+            },
+            {
+              "id": "4a911cd4-51b7-44a7-a9c1-7bcd4a3798f6",
+              "itemBody": "C. 19 and 20.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53125"
+    },
+    {
+      "id": "53127",
+      "entry": {
+        "title": "CFA2463-R-s02-Q16",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The second quintile corresponds to the second 20 percent of observations. The first 20 percent consists of bins 1 through 4. The second 20 percent of observations consists of bins 5 through 8.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The second quintile corresponds to observations in bin(s):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0d879004-9097-4546-a39e-73bb1e5d2aae"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ba157bc0-880f-467b-995d-59cfea2850aa",
+              "itemBody": "A. 8.",
+              "position": 1
+            },
+            {
+              "id": "0d879004-9097-4546-a39e-73bb1e5d2aae",
+              "itemBody": "B. 5, 6, 7, and 8.",
+              "position": 2
+            },
+            {
+              "id": "de365d94-7c5b-463b-aa3f-4eb21860ceba",
+              "itemBody": "C. 6, 7, 8, 9, and 10.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53125"
+    },
+    {
+      "id": "53128",
+      "entry": {
+        "title": "CFA2463-R-s02-Q17",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. A quartile consists of 25 percent of the data, and the last 25 percent of the 20 bins are 16 through 20.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fourth quartile corresponds to observations in bin(s):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d42fa911-bec6-4b77-8533-c4dec9577552"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb576b75-9bd8-43ba-b611-3ee92289e222",
+              "itemBody": "A. 17.",
+              "position": 1
+            },
+            {
+              "id": "85a414aa-ad74-420b-b9e5-89b05d20ee93",
+              "itemBody": "B. 17, 18, 19, and 20.",
+              "position": 2
+            },
+            {
+              "id": "d42fa911-bec6-4b77-8533-c4dec9577552",
+              "itemBody": "C. 16, 17, 18, 19, and 20.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53125"
+    },
+    {
+      "id": "53129",
+      "entry": {
+        "title": "CFA2463-R-s02-Q18",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The center of the 20 bins is represented by the market capitalization of the highest value of the 10th bin and the lowest value of the 11th bin, which is 46.88.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The median is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "951d5080-d8fa-453d-8734-ff376dd192fa"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b214bf0f-d0a0-4508-82c6-68c996116d42",
+              "itemBody": "A. 44.86.",
+              "position": 1
+            },
+            {
+              "id": "951d5080-d8fa-453d-8734-ff376dd192fa",
+              "itemBody": "B. 46.88.",
+              "position": 2
+            },
+            {
+              "id": "a925d94a-f209-485a-aa0f-05ed269a17b0",
+              "itemBody": "C. 49.40.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53125"
+    },
+    {
+      "id": "53130",
+      "entry": {
+        "title": "CFA2463-R-s02-Q19",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The interquartile range is the difference between the lowest value in the second quartile and the highest value in the third quartile. The lowest value of the second quartile is 34.72, and the highest value of the third quartile is 58.34. Therefore, the interquartile range is 58.34 − 34.72 = 23.62.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The interquartile range is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "663e9b75-5fa8-4111-b359-b1da74d84840"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bd00cee8-0df3-4a18-bdb6-dec3ed612aae",
+              "itemBody": "A. 20.76.",
+              "position": 1
+            },
+            {
+              "id": "663e9b75-5fa8-4111-b359-b1da74d84840",
+              "itemBody": "B. 23.62.",
+              "position": 2
+            },
+            {
+              "id": "6a733821-230f-4160-9ffd-c8e2e28c0493",
+              "itemBody": "C. 25.52.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53125"
+    },
+    {
+      "id": "53131",
+      "entry": {
+        "title": "CFA2463-R-s02-Q20",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Quintiles divide a distribution into fifths, with the fourth quintile occurring at the point at which 80 percent of the observations lie below it. The fourth quintile is equivalent to the 80th percentile. To find the <em>y</em>th percentile (<em>P<sub>y</sub>\n               </em>), we first must determine its location. The formula for the location (<em>L<sub>y</sub>\n               </em>) of a <em>y</em>th percentile in an array with <em>n</em> entries sorted in ascending order is L<sub>y</sub> = (<em>n</em> + 1) × (<em>y</em>/100). In this case, <em>n</em> = 10 and <em>y</em> = 80%, so</p>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2463-R-s02-E-3-\">\n               <em>L</em>\n               <sub>80</sub> = (10 + 1) × (80/100) = 11 × 0.8 = 8.8.</div>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">With the data arranged in ascending order (−40.33 percent, −5.02 percent, 9.57 percent, 10.02 percent, 12.34 percent, 15.25 percent, 16.54 percent, 20.65 percent, 27.37 percent, and 30.79 percent), the 8.8th position would be between the eighth and ninth entries, 20.65 percent and 27.37 percent, respectively. Using linear interpolation, <em>P</em>\n               <sub>80</sub> = <em>X</em>\n               <sub>8</sub> + (<em>L<sub>y</sub>\n               </em> − 8) × (<em>X</em>\n               <sub>9</sub> − <em>X</em>\n               <sub>8</sub>),</p>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2463-R-s02-E-3-___1\">\n               <em>P</em>\n               <sub>80</sub> = 20.65 + (8.8 − 8) × (27.37 − 20.65)</div>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2463-R-s02-E-3-___2\">= 20.65 + (0.8 × 6.72) = 20.65 + 5.38</div>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2463-R-s02-E-3-___3\">= 26.03 percent.</div>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Exhibit 1 shows the annual MSCI World Index total returns for a 10-year period.</p>\n<div id=\"CFA2463-R-s02-EXH-3-12\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 1<span style=\"display: block;\">MSCI World Index Returns</span></h2>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; width: 46.0486%; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 19.967%;\">Year 1</td>\n<td style=\"text-align: left; vertical-align: top; width: 26.4026%;\">15.25%</td>\n<td style=\"text-align: left; vertical-align: top; width: 6.96422%;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.0301%;\">Year 6</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.3421%;\">30.79%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 19.967%;\">Year 2</td>\n<td style=\"text-align: left; vertical-align: top; width: 26.4026%;\">10.02%</td>\n<td style=\"text-align: left; vertical-align: top; width: 6.96422%;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.0301%;\">Year 7</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.3421%;\">12.34%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 19.967%;\">Year 3</td>\n<td style=\"text-align: left; vertical-align: top; width: 26.4026%;\">20.65%</td>\n<td style=\"text-align: left; vertical-align: top; width: 6.96422%;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.0301%;\">Year 8</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.3421%;\">−5.02%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 19.967%;\">Year 4</td>\n<td style=\"text-align: left; vertical-align: top; width: 26.4026%;\">9.57%</td>\n<td style=\"text-align: left; vertical-align: top; width: 6.96422%;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.0301%;\">Year 9</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.3421%;\">16.54%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 19.967%;\">Year 5</td>\n<td style=\"text-align: left; vertical-align: top; width: 26.4026%;\">−40.33%</td>\n<td style=\"text-align: left; vertical-align: top; width: 6.96422%;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.0301%;\">Year 10</td>\n<td style=\"text-align: left; vertical-align: top; width: 23.3421%;\">27.37%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fourth quintile return for the MSCI World Index is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c96700a4-4786-4266-a71d-c9fa2cf799f1"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9c365fb4-87e6-4611-af43-4212ce9a1be6",
+              "itemBody": "A. 20.65 percent.",
+              "position": 1
+            },
+            {
+              "id": "c96700a4-4786-4266-a71d-c9fa2cf799f1",
+              "itemBody": "B. 26.03 percent.",
+              "position": 2
+            },
+            {
+              "id": "ee57a46f-873e-4713-a8ef-054c41abae12",
+              "itemBody": "C. 27.37 percent.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53132",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A fund had the following experience over the past 10 years:</p>\n<div id=\"CFA2463-R-s03-EXH-2-18\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 1<span style=\"display: block;\">Performance over 10 Years</span></h2>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\">\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\"><strong>Return</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">1</td>\n<td style=\"text-align: center; vertical-align: bottom;\">4.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">2</td>\n<td style=\"text-align: center; vertical-align: bottom;\">6.0%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">3</td>\n<td style=\"text-align: center; vertical-align: bottom;\">1.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">4</td>\n<td style=\"text-align: center; vertical-align: bottom;\">−2.0%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">5</td>\n<td style=\"text-align: center; vertical-align: bottom;\">0.0%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">6</td>\n<td style=\"text-align: center; vertical-align: bottom;\">4.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">7</td>\n<td style=\"text-align: center; vertical-align: bottom;\">3.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">8</td>\n<td style=\"text-align: center; vertical-align: bottom;\">2.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">9</td>\n<td style=\"text-align: center; vertical-align: bottom;\">5.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\">10</td>\n<td style=\"text-align: center; vertical-align: bottom;\">4.0%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53133",
+      "entry": {
+        "title": "CFA2463-R-s03-Q13",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The fund’s standard deviation of returns is calculated as follows:</p>\n<div id=\"CFA2463-R-s03-T-2-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Deviation from Mean</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Deviation Squared</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0150</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000225</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">6.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0300</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000900</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">1.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−0.0150</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000225</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−2.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−0.0500</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.002500</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">5</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−0.0300</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000900</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">6</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0150</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000225</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">7</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">3.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0050</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000025</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">8</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">2.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−0.0050</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000025</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">9</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">5.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0250</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000625</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">10</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0100</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000100</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">Mean</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">3.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">Sum</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>0.005750</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The standard deviation is the square root of the sum of the squared deviations, divided by <em>n</em> − 1:</p>\n<div id=\"CFA2463-R-s03-E-2-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <mi>s</mi> <mo>=</mo> <msqrt> <mrow> <mstyle><mfrac> <mrow> <mn>0.005750</mn> </mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>10</mn> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo></mrow> </mrow> </mfrac></mstyle> </mrow> </msqrt> </mrow> </semantics></math> = 2.5276%.</div>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fund’s standard deviation of returns over the 10 years is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "77bb5d0f-4685-4746-893a-1d6f99bb0197"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "531dc0a0-f145-4e19-8728-cc337a59118e",
+              "itemBody": "A. 2.40 percent.",
+              "position": 1
+            },
+            {
+              "id": "77bb5d0f-4685-4746-893a-1d6f99bb0197",
+              "itemBody": "B. 2.53 percent.",
+              "position": 2
+            },
+            {
+              "id": "23041c7b-f871-46ae-aa1e-e6716fa6a291",
+              "itemBody": "C. 7.58 percent.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53132"
+    },
+    {
+      "id": "53134",
+      "entry": {
+        "title": "CFA2463-R-s03-Q14",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The target semideviation of the returns over the 10 years with a target of 2 percent is calculated as follows:</p>\n<div id=\"CFA2463-R-s03-T-2-g\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Deviation Squared below Target of 2% </strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">6.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">1.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000025</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">−2.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.001600</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">5</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.000400</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">6</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">7</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">3.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">8</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">2.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">9</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">5.5%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">10</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">4.0%</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\">Sum</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\">0.002025</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The target semideviation is the square root of the sum of the squared deviations from the target, divided by <em>n</em> − 1:</p>\n<div id=\"CFA2463-R-s03-E-2-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><em>s</em> <sub>Target</sub> = <math><semantics> <mrow> <msqrt> <mrow> <mstyle><mfrac> <mrow> <mn>0.002025</mn> </mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>10</mn> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo></mrow> </mrow> </mfrac></mstyle> </mrow> </msqrt> </mrow> </semantics></math> = 1.5%.</div>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The target semideviation of the returns over the 10 years, if the target is 2 percent, is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b106dde0-d2ec-46c3-a0d3-8b4228c45cd2"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fa065849-418f-4b46-a3d0-00b6adf57ad1",
+              "itemBody": "A. 1.42 percent.",
+              "position": 1
+            },
+            {
+              "id": "b106dde0-d2ec-46c3-a0d3-8b4228c45cd2",
+              "itemBody": "B. 1.50 percent.",
+              "position": 2
+            },
+            {
+              "id": "c830415a-2160-49f4-a573-104e799a4083",
+              "itemBody": "C. 2.01 percent.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53132"
+    },
+    {
+      "id": "53135",
+      "entry": {
+        "title": "CFA2463-R-s03-Q15",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The CV is the ratio of the standard deviation to the mean, where a higher CV implies greater risk per unit of return.</p>\n<div id=\"CFA2463-R-s03-E-2-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>CV</mtext> </mrow> <mrow> <mi>U</mi> <mi>T</mi> <mi>I</mi> <mi>L</mi> </mrow> </msub> <mo>=</mo> <mstyle><mfrac> <mi>s</mi> <mover> <mi>X</mi> <mo>¯</mo> </mover> </mfrac></mstyle> <mo>=</mo> <mstyle><mfrac> <mrow> <mn>1.23</mn> <mtext>%</mtext> </mrow> <mrow> <mn>2.10</mn> <mtext>%</mtext> </mrow> </mfrac></mstyle> <mo>=</mo> <mn>0.59</mn> </mrow> </semantics></math> ,</div>\n<div id=\"CFA2463-R-s03-E-2-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>CV</mtext> </mrow> <mrow> <mi>M</mi> <mi>A</mi> <mi>T</mi> <mi>R</mi> </mrow> </msub> <mo>=</mo> <mstyle><mfrac> <mi>s</mi> <mover> <mi>X</mi> <mo>¯</mo> </mover> </mfrac></mstyle> <mo>=</mo> <mstyle><mfrac> <mrow> <mn>1.35</mn> <mtext>%</mtext> </mrow> <mrow> <mn>1.25</mn> <mtext>%</mtext> </mrow> </mfrac></mstyle> <mo>=</mo> <mn>1.08</mn> </mrow> </semantics></math> ,</div>\n<div id=\"CFA2463-R-s03-E-2-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>CV</mtext> </mrow> <mrow> <mi>I</mi> <mi>N</mi> <mi>D</mi> <mi>U</mi> </mrow> </msub> <mo>=</mo> <mstyle><mfrac> <mi>s</mi> <mover> <mi>X</mi> <mo>¯</mo> </mover> </mfrac></mstyle> <mo>=</mo> <mstyle><mfrac> <mrow> <mn>1.52</mn> <mtext>%</mtext> </mrow> <mrow> <mn>3.01</mn> <mtext>%</mtext> </mrow> </mfrac></mstyle> <mo>=</mo> <mn>0.51</mn> </mrow> </semantics></math> .</div>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Consider the mean monthly return and the standard deviation for three industry sectors, as shown in <strong>Exhibit 2</strong>:</p>\n<div id=\"CFA2463-R-s03-EXH-2-19\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 2<span style=\"display: block;\">Mean Monthly Return and Standard Deviations</span></h2>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-bottom: 1px solid #000000;\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom;\"><strong>Sector</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\"><strong>Mean Monthly Return</strong> <br><strong>(%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom;\"><strong>Standard Deviation of Return</strong> <br><strong>(%)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">Utilities (UTIL)</td>\n<td style=\"text-align: center; vertical-align: top;\">2.10</td>\n<td style=\"text-align: center; vertical-align: top;\">1.23</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">Materials (MATR)</td>\n<td style=\"text-align: center; vertical-align: top;\">1.25</td>\n<td style=\"text-align: center; vertical-align: top;\">1.35</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">Industrials (INDU)</td>\n<td style=\"text-align: center; vertical-align: top;\">3.01</td>\n<td style=\"text-align: center; vertical-align: top;\">1.52</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Based on the coefficient of variation (CV), the riskiest sector is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b784feb6-bd69-4628-9de1-9ac8abb74cc0"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98d5d077-905d-40f6-8d69-7ec337253a46",
+              "itemBody": "A. utilities.",
+              "position": 1
+            },
+            {
+              "id": "b784feb6-bd69-4628-9de1-9ac8abb74cc0",
+              "itemBody": "B. materials.",
+              "position": 2
+            },
+            {
+              "id": "abe41423-d9a2-4b36-8690-07dbf550060c",
+              "itemBody": "C. industrials.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7982,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": "53132"
+    },
+    {
+      "id": "53519",
+      "entry": {
+        "title": "ITEM_20170421061",
+        "feedback": {},
+        "itemBody": "<p>For a positively skewed unimodal distribution, which of the following measures is <i>most</i> accurately described as the largest?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6d946afa-8d08-40d9-8682-ad32c298fb93"
+        },
+        "answerFeedback": {
+          "0ae34017-ad71-4bae-84a4-0af4aca3c7bf": "<p>Incorrect. For the positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.</p>",
+          "6d946afa-8d08-40d9-8682-ad32c298fb93": "<p>Correct. For a positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.</p>",
+          "f45e779f-7836-4db3-b6df-4f7cbfdc4002": "<p>Incorrect. For the positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f45e779f-7836-4db3-b6df-4f7cbfdc4002",
+              "itemBody": "<p>A. Median</p>",
+              "position": 1
+            },
+            {
+              "id": "6d946afa-8d08-40d9-8682-ad32c298fb93",
+              "itemBody": "<p>B. Mean</p>",
+              "position": 2
+            },
+            {
+              "id": "0ae34017-ad71-4bae-84a4-0af4aca3c7bf",
+              "itemBody": "<p>C. Mode</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53520",
+      "entry": {
+        "title": "ITEM_20170421063",
+        "feedback": {},
+        "itemBody": "<p>Equity return distributions are <i>best</i> described as being:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b33e6ecc-962a-4f4e-8aff-49dc1b73085d"
+        },
+        "answerFeedback": {
+          "4532f11f-68e6-46a7-9cb2-24457d8788da": "<p>Incorrect. Most equity return series have been found to be leptokurtic.</p>",
+          "935ad220-f3d5-4018-a1f5-bf3e47ed3123": "<p>Incorrect. Most equity return series have been found to be leptokurtic.</p>",
+          "b33e6ecc-962a-4f4e-8aff-49dc1b73085d": "<p>Correct. Most equity return distributions are best described as being leptokurtic (i.e., more peaked than normal).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b33e6ecc-962a-4f4e-8aff-49dc1b73085d",
+              "itemBody": "<p>A. leptokurtic.</p>",
+              "position": 1
+            },
+            {
+              "id": "4532f11f-68e6-46a7-9cb2-24457d8788da",
+              "itemBody": "<p>B. platykurtic.</p>",
+              "position": 2
+            },
+            {
+              "id": "935ad220-f3d5-4018-a1f5-bf3e47ed3123",
+              "itemBody": "<p>C. mesokurtic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53521",
+      "entry": {
+        "title": "ITEM_20170421095",
+        "feedback": {},
+        "itemBody": "<p>A portfolio manager would like to calculate the compound rate of return on an investment. Which of the following mean returns will he <i>most likely</i> use?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c7366ec6-0971-4293-84a0-ce9e9f580682"
+        },
+        "answerFeedback": {
+          "25298927-69eb-4815-b3d7-89290a646812": "<p>Incorrect. The harmonic mean may be viewed as a special type of weighted mean in which an observation’s weight is inversely proportional to its magnitude. The harmonic mean is a relatively specialized concept of the mean that is appropriate when averaging ratios (“amount per unit”) when the ratios are repeatedly applied to a fixed quantity to yield a variable number of units.</p>",
+          "c7366ec6-0971-4293-84a0-ce9e9f580682": "<p>Correct. The geometric mean return represents the growth rate or compound rate of return on an investment.</p>",
+          "d8c82d41-a5e5-4a34-856c-5eb179db4515": "<p>Incorrect. The arithmetic mean return reflects the average of the single-periods performance.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c7366ec6-0971-4293-84a0-ce9e9f580682",
+              "itemBody": "<p>A. Geometric</p>",
+              "position": 1
+            },
+            {
+              "id": "25298927-69eb-4815-b3d7-89290a646812",
+              "itemBody": "<p>B. Harmonic</p>",
+              "position": 2
+            },
+            {
+              "id": "d8c82d41-a5e5-4a34-856c-5eb179db4515",
+              "itemBody": "<p>C. Arithmetic</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53522",
+      "entry": {
+        "title": "ITEM_20170421040",
+        "feedback": {},
+        "itemBody": "<p>The figure below shows the histogram for the distribution of weekly returns on an index.</p>\n<p>&nbsp;</p>\n<p><img id=\"92027\" style=\"width: clamp(250px, 100%, 800px); height: auto; display: block;\" src=\"https://learn.cfainstitute.org//courses/799/files/92027/preview?verifier=qdEDS8KsPTM9yOOoO7xPUEJMLHjKMHpDJQA5sRTV\" alt=\"A bar graph with a X axis labeled Return intervals and a Y axis labeled Frequency.\" data-old-link=\"/courses/799/files/92027/preview?verifier=qdEDS8KsPTM9yOOoO7xPUEJMLHjKMHpDJQA5sRTV\"></p>\n<details id=\"20170421040-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; margin-top: 20px;\">\n<summary class=\"dp-panel-outside-panel\">Expand / Collapse Extended Description</summary>\n<p class=\"dp-panel-outside-panel\">The bars rise in large intervals from zero to the top of the graph by about a third of the way along the X axis. From its peak, the bars decrease in size at smaller intervals creating a curve that leans to the left.</p>\n</details>\n<p>The median of the returns on the index, if compared to the mean, will <i>most likely</i> be:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "15238f27-36c2-4eda-ba55-2c25c7da1b96"
+        },
+        "answerFeedback": {
+          "15238f27-36c2-4eda-ba55-2c25c7da1b96": "<p><strong>Correct.</strong> The histogram clearly shows that the return distribution of the index is positively skewed (skewed to the right) and is unimodal (it has one most frequently occurring value). For a positively skewed unimodal distribution, the median is always less than the mean.</p>",
+          "9b16f443-a857-43fe-a48f-7aab00919b57": "<p>Incorrect. By looking at the histogram, it is clear that the return distribution of the index is positively skewed (skewed to the right) and is unimodal (it has one most frequently occurring value). For a positively skewed unimodal distribution, the median is always less than the mean.</p>",
+          "f487e30d-a4ea-423a-b12b-951b90f8d85f": "<p>Incorrect. By looking at the histogram, it is clear that the return distribution of the index is positively skewed (skewed to the right) and is unimodal (it has one most frequently occurring value). For a positively skewed unimodal distribution, the median is always less than the mean.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "15238f27-36c2-4eda-ba55-2c25c7da1b96",
+              "itemBody": "<p>A. smaller.</p>",
+              "position": 1
+            },
+            {
+              "id": "9b16f443-a857-43fe-a48f-7aab00919b57",
+              "itemBody": "<p>B. equal.</p>",
+              "position": 2
+            },
+            {
+              "id": "f487e30d-a4ea-423a-b12b-951b90f8d85f",
+              "itemBody": "<p>C. greater.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53523",
+      "entry": {
+        "title": "ITEM_20170421014",
+        "feedback": {},
+        "itemBody": "<div>\n<p>The following 10 observations are a sample drawn from an approximately normal population:</p>\n<table style=\"border-collapse: collapse; width: 552px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 128.133px; max-width: 120px;\"><strong>Observation</strong></td>\n<td style=\"width: 45.9141px; max-width: 43px; text-align: center;\"><strong>1</strong></td>\n<td style=\"width: 43.7734px; max-width: 41px; text-align: center;\"><strong>2</strong></td>\n<td style=\"width: 38.4375px; max-width: 36px; text-align: center;\"><strong>3</strong></td>\n<td style=\"width: 40.5703px; max-width: 38px; text-align: center;\"><strong>4</strong></td>\n<td style=\"width: 43.7734px; max-width: 41px; text-align: center;\"><strong>5</strong></td>\n<td style=\"width: 40.5703px; max-width: 38px; text-align: center;\"><strong>6</strong></td>\n<td style=\"width: 45.9141px; max-width: 43px; text-align: center;\"><strong>7</strong></td>\n<td style=\"width: 37.3672px; max-width: 35px; text-align: center;\"><strong>8</strong></td>\n<td style=\"width: 41.6406px; max-width: 39px; text-align: center;\"><strong>9</strong></td>\n<td style=\"width: 44.9062px; max-width: 42px; text-align: center;\"><strong>10</strong></td>\n</tr>\n<tr>\n<td style=\"width: 128.133px; max-width: 120px;\">Value</td>\n<td style=\"width: 45.9141px; max-width: 43px; text-align: center;\">–3</td>\n<td style=\"width: 43.7734px; max-width: 41px; text-align: center;\">–11</td>\n<td style=\"width: 38.4375px; max-width: 36px; text-align: center;\">3</td>\n<td style=\"width: 40.5703px; max-width: 38px; text-align: center;\">–18</td>\n<td style=\"width: 43.7734px; max-width: 41px; text-align: center;\">18</td>\n<td style=\"width: 40.5703px; max-width: 38px; text-align: center;\">20</td>\n<td style=\"width: 45.9141px; max-width: 43px; text-align: center;\">–6</td>\n<td style=\"width: 37.3672px; max-width: 35px; text-align: center;\">9</td>\n<td style=\"width: 41.6406px; max-width: 39px; text-align: center;\">2</td>\n<td style=\"width: 44.9062px; max-width: 42px; text-align: center;\">–16</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>The sample standard deviation is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "723c3bac-e015-4bf5-b629-197396c43943"
+        },
+        "answerFeedback": {
+          "2514c876-18d2-4178-baa9-c5d973155e36": "<p>Incorrect. It is calculated by dividing by 11 rather than 9.</p>",
+          "723c3bac-e015-4bf5-b629-197396c43943": "<p><strong>Correct.</strong> The sample mean is:</p>\n<p><math style=\"font-family: stix; font-size: 24pt;\"> <mover> <mi>X</mi> <mo>¯</mo> </mover> <mo>=</mo> <mfrac> <mrow> <munderover> <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <msub> <mi>X</mi> <mi>i</mi> </msub> </mrow> <mi>n</mi> </mfrac> </math></p>\n<p style=\"margin-left: 1.618em;\">= (−3 − 11 + 3 − 18 + 18 + 20 − 6 + 9 + 2 − 16)/10</p>\n<p style=\"margin-left: 1.618em;\">= −2.00/10 = −0.20</p>\n<p>The sample variance is:</p>\n<p><math style=\"font-family: stix; font-size: 24pt;\"> <mstyle> <msup> <mi>s</mi> <mn>2</mn> </msup> <mo>=</mo> <mfrac> <mrow> <munderover> <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <msup> <mrow> <mo>(</mo> <msub> <mi>X</mi> <mi>i</mi> </msub> <mo>−</mo> <mover> <mi>X</mi> <mo>¯</mo> </mover> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mrow> <mo>(</mo> <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo>)</mo> </mrow> </mfrac> </mstyle> </math></p>\n<p>The sample standard deviation is the (positive) square root of the sample variance.</p>\n<div>\n<table border=\"1\">\n<thead>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\"><strong>Value</strong></td>\n<td style=\"text-align: center; vertical-align: bottom;\"><strong>Difference vs. Mean</strong><br><strong>[Value − (−0.20)]</strong></td>\n<td style=\"text-align: center; vertical-align: bottom;\"><strong>Difference Squared</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">−3</td>\n<td style=\"text-align: center; vertical-align: top;\">−2.8</td>\n<td style=\"text-align: center; vertical-align: top;\">7.84</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">−11</td>\n<td style=\"text-align: center; vertical-align: top;\">−10.8</td>\n<td style=\"text-align: center; vertical-align: top;\">116.64</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">3</td>\n<td style=\"text-align: center; vertical-align: top;\">3.2</td>\n<td style=\"text-align: center; vertical-align: top;\">10.24</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">−18</td>\n<td style=\"text-align: center; vertical-align: top;\">−17.8</td>\n<td style=\"text-align: center; vertical-align: top;\">316.84</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">18</td>\n<td style=\"text-align: center; vertical-align: top;\">18.2</td>\n<td style=\"text-align: center; vertical-align: top;\">331.24</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">20</td>\n<td style=\"text-align: center; vertical-align: top;\">20.2</td>\n<td style=\"text-align: center; vertical-align: top;\">408.04</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">−6</td>\n<td style=\"text-align: center; vertical-align: top;\">−5.8</td>\n<td style=\"text-align: center; vertical-align: top;\">33.64</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">9</td>\n<td style=\"text-align: center; vertical-align: top;\">9.2</td>\n<td style=\"text-align: center; vertical-align: top;\">84.64</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">2</td>\n<td style=\"text-align: center; vertical-align: top;\">2.2</td>\n<td style=\"text-align: center; vertical-align: top;\">4.84</td>\n</tr>\n<tr>\n<td style=\"text-align: center; vertical-align: top;\">−16</td>\n<td style=\"text-align: center; vertical-align: top;\">−15.8</td>\n<td style=\"text-align: center; vertical-align: top;\">249.64</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\" colspan=\"2\">Sum of squared differences</td>\n<td style=\"text-align: center; vertical-align: top;\">1563.6</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\" colspan=\"2\">Divided by <em>n</em> − 1</td>\n<td style=\"text-align: center; vertical-align: top;\">173.7333333</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\" colspan=\"2\">Square root</td>\n<td style=\"text-align: center; vertical-align: top;\">13.18079411</td>\n</tr>\n</tbody>\n</table>\n</div>",
+          "c90dc1a5-2680-4d03-8dd9-6b526f9486a2": "<p>Incorrect. It is calculated by dividing by 10 rather than 9.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "723c3bac-e015-4bf5-b629-197396c43943",
+              "itemBody": "<p>A. 13.18.</p>",
+              "position": 1
+            },
+            {
+              "id": "2514c876-18d2-4178-baa9-c5d973155e36",
+              "itemBody": "<p>B. 11.92.</p>",
+              "position": 2
+            },
+            {
+              "id": "c90dc1a5-2680-4d03-8dd9-6b526f9486a2",
+              "itemBody": "<p>C. 12.50.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53524",
+      "entry": {
+        "title": "ITEM_20170421019",
+        "feedback": {},
+        "itemBody": "<p>For a given expected return and standard deviation, investors are most likely to be attracted to return distributions that are:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b7440d06-1a00-4ea6-af42-61113fc527fb"
+        },
+        "answerFeedback": {
+          "115fdd2f-e104-4f10-8236-bf293efb6e91": "<p>Incorrect. Investors are most likely to be attracted to positively skewed return distributions. For a given expected return and standard deviation, investors are less likely to be attracted by a negative skew because the mean return lies below the median. Relative to the mean return, negative skew amounts to limited, though frequent, upside returns compared with somewhat unlimited, but less frequent, downside returns.</p>",
+          "24c734b1-64d6-42d4-8f39-5f40e619ea7e": "<p>Incorrect. For a given expected return and standard deviation, investors are most likely to be attracted by a positive skew because the mean return lies above the median. Relative to the mean return, positive skew amounts to limited, though frequent, downside returns compared with somewhat unlimited, but less frequent, upside returns. In a normal distribution, median and mean are equal.</p>",
+          "b7440d06-1a00-4ea6-af42-61113fc527fb": "<p>Correct. For a given expected return and standard deviation, investors are most likely to be attracted by a positive skew because the mean return lies above the median. Relative to the mean return, positive skew amounts to limited, though frequent, downside returns compared with somewhat unlimited, but less frequent, upside returns.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "115fdd2f-e104-4f10-8236-bf293efb6e91",
+              "itemBody": "<p>A. negatively skewed.</p>",
+              "position": 1
+            },
+            {
+              "id": "b7440d06-1a00-4ea6-af42-61113fc527fb",
+              "itemBody": "<p>B. positively skewed.</p>",
+              "position": 2
+            },
+            {
+              "id": "24c734b1-64d6-42d4-8f39-5f40e619ea7e",
+              "itemBody": "<p>C. normal.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53525",
+      "entry": {
+        "title": "ITEM_20170421118",
+        "feedback": {},
+        "itemBody": "<div>\n<p>A risk manager would like to calculate the coefficient of variation of a portfolio. The following table reports the annual returns of the portfolio and of the risk-free rate over the most recent five years:</p>\n<table style=\"border-collapse: collapse; width: 388px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\"><strong>Year</strong></td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\"><strong>Portfolio Return</strong></td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\"><strong>Risk-Free Rate</strong></td>\n</tr>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">1</td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\">4.0%</td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\">2.0%</td>\n</tr>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">2</td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\">–1.0%</td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\">1.5%</td>\n</tr>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">3</td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\">7.0%</td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\">1.0%</td>\n</tr>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">4</td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\">11.0%</td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\">1.0%</td>\n</tr>\n<tr>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">5</td>\n<td style=\"text-align: center; width: 164px; max-width: 164px;\">2.0%</td>\n<td style=\"text-align: center; width: 158px; max-width: 158px;\">0.5%</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>The coefficient of variation of the portfolio is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "754cef0e-eeb1-471e-bf7f-d5b6775fb198"
+        },
+        "answerFeedback": {
+          "2f31e3cf-e310-4069-b2f6-33239b2e065d": "<p>Incorrect. It is the Sharpe ratio, not the coefficient of variation. First calculate the mean annual risk-free return over the five years:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\"><semantics> <mrow> <msub> <mover> <mi>R</mi> <mo>¯</mo> </mover> <mi>F</mi> </msub> <mo>=</mo><mfrac> <mrow> <mn>2.0</mn><mi>%</mi><mo>+</mo><mn>1.5</mn><mi>%</mi><mo>+</mo><mn>1.0</mn><mi>%</mi><mo>+</mo><mn>1.0</mn><mi>%</mi><mo>+</mo><mn>0.5</mn><mi>%</mi></mrow> <mn>5</mn> </mfrac> </mrow></semantics></math> = 1.2%</p>\n<p>Then calculate the Sharpe ratio with the following formula:</p>\n<p style=\"margin-left: 1.618em;\"><em>S<sub>h</sub></em> = <math style=\"font-family: Arial;\"><semantics> <mrow> <mfrac> <mrow> <msub> <mover> <mi>R</mi> <mo>¯</mo> </mover> <mi>p</mi> </msub> <mo>−</mo><msub> <mover> <mi>R</mi> <mo>¯</mo> </mover> <mi>F</mi> </msub> </mrow> <mrow> <msub> <mi>s</mi> <mi>p</mi> </msub> </mrow> </mfrac> <mo>=</mo><mfrac> <mrow> <mn>4.6</mn><mi>%</mi><mo>−</mo><mn>1.2</mn><mi>%</mi></mrow> <mrow> <mn>4.62</mn><mi>%</mi></mrow> </mfrac> </mrow></semantics></math> = 0.74</p>",
+          "754cef0e-eeb1-471e-bf7f-d5b6775fb198": "<p>Correct. First calculate the sample mean return as follows:&nbsp;<math style=\"font-family: Arial; font-size: 16pt;\"> <semantics> <mrow> <mover> <mi>X</mi> <mo>¯</mo> </mover> <mo>=</mo> <mfrac> <mrow> <mstyle> <munderover> <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msub> <mi>X</mi> <mi>i</mi> </msub> </mrow> </mstyle> </mrow> <mi>n</mi> </mfrac> </mrow> </semantics> </math> where</p>\n<p style=\"margin-left: 1.618em;\"><em>n</em> = the number of observations in the sample</p>\n<p style=\"margin-left: 1.618em;\"><em>i</em> = the index for the year</p>\n<p style=\"margin-left: 1.618em;\"><em>X<sub>i</sub></em> = is the return in year <em>i</em></p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial; font-size: 16pt;\"> <semantics> <mtable> <mtr> <mtd> <mover> <mi>X</mi> <mo>¯</mo> </mover> <mo>=</mo> <mfrac> <mrow> <mrow> <mo>(</mo> <mrow> <mn>4.0</mn> <mi>%</mi> <mo>−</mo> <mn>1.0</mn> <mi>%</mi> <mo>+</mo> <mn>7.0</mn> <mi>%</mi> <mo>+</mo> <mn>11.0</mn> <mi>%</mi> <mo>+</mo> <mn>2.0</mn> <mi>%</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mn>5</mn> </mfrac> </mtd> </mtr> <mtr> <mtd> <mo>=</mo> <mfrac> <mrow> <mn>23.0</mn> <mi>%</mi> </mrow> <mn>5</mn> </mfrac> </mtd> </mtr> <mtr> <mtd> <mo>=</mo> <mn>4.6</mn> <mi>%</mi> </mtd> </mtr> </mtable> </semantics> </math></p>\n<p>Then calculate the sample standard deviation with the following formula:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-size: 16pt;\"> <mi>s</mi> <mo>=</mo> <msqrt> <mrow> <mfrac> <mrow> <munderover> <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <msup> <mrow> <mo>(</mo> <msub> <mi>X</mi> <mi>i</mi> </msub> <mo>−</mo> <mover> <mi>X</mi> <mo>¯</mo> </mover> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mrow> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </msqrt> </math></p>\n<div>\n<table>\n<thead>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom;\"><strong>Year</strong></td>\n<td style=\"text-align: center; vertical-align: top;\"><math style=\"font-family: Arial;\"> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <msub> <mi>X</mi> <mi>i</mi> </msub> <mo>−</mo> <mover> <mi>X</mi> <mo>¯</mo> </mover> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </math></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">1</td>\n<td style=\"text-align: left; vertical-align: top;\">(4.0% − 4.6%)<sup>2</sup> = 0.00004</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">2</td>\n<td style=\"text-align: left; vertical-align: top;\">(−1.0% − 4.6%)<sup>2</sup> = 0.00314</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">3</td>\n<td style=\"text-align: left; vertical-align: top;\">(7.0% − 4.6%)<sup>2</sup> = 0.00058</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">4</td>\n<td style=\"text-align: left; vertical-align: top;\">(11.0% − 4.6%)<sup>2</sup> = 0.00410</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top;\">5</td>\n<td style=\"text-align: left; vertical-align: top;\">(2.0% − 4.6%)<sup>2</sup> = 0.00068</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"margin-left: 1.618em;\"><em>s</em> = <math style=\"font-size: 16pt;\"> <semantics> <mrow> <msqrt> <mrow> <mfrac> <mrow> <mn>0.00004</mn> <mo>+</mo> <mn>0.00314</mn> <mo>+</mo> <mn>0.00058</mn> <mo>+</mo> <mn>0.00410</mn> <mo>+</mo> <mn>0.00068</mn> </mrow> <mrow> <mn>5</mn> <mo>−</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </msqrt> </mrow> </semantics> </math> = 4.62%</p>\n<p>The coefficient of variation (CV) is calculated with the following formula:</p>\n<p style=\"margin-left: 1.618em;\">CV = <math style=\"font-family: Arial; font-size: 16pt;\"> <semantics> <mrow> <mfrac> <mi>s</mi> <mover> <mi>X</mi> <mo>¯</mo> </mover> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>4.62</mn> <mi>%</mi> </mrow> <mrow> <mn>4.6</mn> <mi>%</mi> </mrow> </mfrac> </mrow> </semantics> </math> = 1.0</p>",
+          "788300a1-4665-4bfa-8806-102e0075dd67": "<p>Incorrect. In the formula for the standard deviation, it uses <em>n</em> instead of “<em>n</em> − 1” in the denominator:</p>\n<p style=\"margin-left: 1.618em;\"><em>s</em> = <math style=\"font-family: Arial;\"><semantics> <mrow> <msqrt> <mrow> <mfrac> <mrow> <mn>0.00004</mn><mo>+</mo><mn>0.00314</mn><mo>+</mo><mn>0.00058</mn><mo>+</mo><mn>0.00410</mn><mo>+</mo><mn>0.00068</mn></mrow> <mn>5</mn> </mfrac> </mrow> </msqrt> </mrow></semantics></math> = 4.13%</p>\n<p>Then, calculate the CV:</p>\n<p style=\"margin-left: 1.618em;\">CV = <math style=\"font-family: Arial;\"><semantics> <mrow> <mfrac> <mrow> <mn>4.13</mn><mi>%</mi></mrow> <mrow> <mn>4.6</mn><mi>%</mi></mrow> </mfrac> </mrow></semantics></math> = 0.90</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2f31e3cf-e310-4069-b2f6-33239b2e065d",
+              "itemBody": "<p>A. 0.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "788300a1-4665-4bfa-8806-102e0075dd67",
+              "itemBody": "<p>B. 0.90.</p>",
+              "position": 2
+            },
+            {
+              "id": "754cef0e-eeb1-471e-bf7f-d5b6775fb198",
+              "itemBody": "<p>C. 1.00.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53526",
+      "entry": {
+        "title": "ITEM_20170421160",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most</i> accurate? The first quintile generally exceeds the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "21a5b0d5-580a-4c3b-bbab-83fc8bda5c79"
+        },
+        "answerFeedback": {
+          "027a2109-806d-43db-8f9a-2892198b02fd": "<p>Incorrect. The first quintile is the 20th percentile. The first decile is the 10th percentile, the first quartile is the 25th percentile, and the median is the 50th percentile.</p>",
+          "21a5b0d5-580a-4c3b-bbab-83fc8bda5c79": "<p>Correct. The first quintile is the 20th percentile (a percentile indicates the value below which a given percentage of observations in a group fall). The first decile is the 10th percentile, the first quartile is the 25th percentile, and the median is the 50th percentile. Although it is possible that these various percentiles or some subsets of them might be equal (for example, the 10th percentile possibly could be equal to the 20th percentile), in general, the order from smallest to largest would be: first decile, first quintile, first quartile, median.</p>",
+          "c1e6f7a4-28ce-4c41-a645-e37aab1efc9f": "<p>Incorrect. The first quintile is the 20th percentile. The first decile is the 10th percentile, the first quartile is the 25th percentile, and the median is the 50th percentile.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "027a2109-806d-43db-8f9a-2892198b02fd",
+              "itemBody": "<p>A. first quartile.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1e6f7a4-28ce-4c41-a645-e37aab1efc9f",
+              "itemBody": "<p>B. median.</p>",
+              "position": 2
+            },
+            {
+              "id": "21a5b0d5-580a-4c3b-bbab-83fc8bda5c79",
+              "itemBody": "<p>C. first decile.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53527",
+      "entry": {
+        "title": "ITEM_20170421166",
+        "feedback": {},
+        "itemBody": "<div>\n<p>The following table shows the volatility of a series of funds that belong to the same peer group, ranked in ascending order:</p>\n<table style=\"border-collapse: collapse; width: 241px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\"><strong>Fund</strong></td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\"><strong>Volatility (%)</strong></td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 1</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">9.81</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 2</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">10.12</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 3&nbsp;</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">10.84</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 4</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">11.33</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 5</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">12.25</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 6</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">13.39</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 7</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">13.42</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 8</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">13.99</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 9</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">14.47</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 10</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">14.85</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 11</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">15.00</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 12</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">17.36</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 93px; max-width: 93px; height: 29px;\">Fund 13</td>\n<td style=\"text-align: center; width: 138px; max-width: 138px; height: 29px;\">17.98</td>\n</tr>\n</tbody>\n</table>\n<div>The approximate value of the first quintile is <i>closest</i> to:</div>\n</div>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c343636b-b77e-4a6c-9438-fb1fb139c4c1"
+        },
+        "answerFeedback": {
+          "70bc3975-f518-4c2e-a187-a81b3c54add2": "<p>Incorrect. The position of the first quintile is found with the following formula:</p><p style=\"margin-left:1.618em\"><em>L<sub>y</sub></em> = (<em>n</em> + 1) × (<em>y</em>/100)</p><p><em>L</em><sub>20</sub> = (13 + 1) × (20/100) = 2.80. 2.80 is then rounded up to 3 and the volatility of Fund 3 is taken. That corresponds to 10.84%.</p>",
+          "c343636b-b77e-4a6c-9438-fb1fb139c4c1": "<p>Correct. The position of the first quintile is found with the following formula:</p><p><em>L<sub>y</sub></em> = (<em>n</em> + 1) × (<em>y</em>/100),where</p><p style=\"margin-left:1.618em\"><em>y</em> = the percentage point at which the distribution is divided. In this case, <em>y</em> = 20, which corresponds to the 20th percentile (first quintile)</p><p style=\"margin-left:1.618em\"><em>n</em> = the number of observations (funds) in the peer group. In this case, <em>n</em> = 13</p><p style=\"margin-left:1.618em\"><em>L</em><sub>20</sub> = the location of the 20th percentile (first quintile)</p><p style=\"margin-left:1.618em\"><em>L</em><sub>20</sub> = (13 + 1) × (20/100) = 2.80.</p><p>Therefore, the location of the first quintile is between the volatility of Fund 2 and Fund 3 (because they are ranked in ascending order).</p><p>Linear interpolation is used to find the approximate value of the first quintile:</p><p><em>P<sub>20</sub></em> ≈ <em>X</em><sub>2</sub> + (2.80 − 2) × (<em>X</em><sub>3</sub> − <em>X</em><sub>2</sub>) where</p><p style=\"margin-left:1.618em\"><em>X</em><sub>2</sub> = the volatility of Fund 2</p><p style=\"margin-left:1.618em\"><em>X</em><sub>3</sub> = the volatility of Fund 3</p><p style=\"margin-left:1.618em\"><em>P</em><sub>20</sub> = the approximate value of the first quintile</p><p style=\"margin-left:1.618em\"><em>P</em><sub>20</sub> ≈ 10.12% + (2.80 − 2) × (10.84% − 10.12%) = 10.70%</p>",
+          "e37c4f4e-d92f-4ef2-b46b-8406e763c704": "<p>Incorrect. It is the approximate value of the first <em>quartile</em>. The position of the first quartile is found as follows: <em>L</em><sub>25</sub> = (13 + 1) × (25/100) = 3.50. So, the location of the first quartile is between the volatility of Fund 3 and Fund 4. Linear interpolation is used to find the approximate value of the first quartile:</p><p style=\"margin-left:1.618em\"><em>P</em><sub>25</sub> ≈ <em>X<sub>3</sub></em> + (3.50 − 3) × (<em>X<sub>4</sub></em> − <em>X<sub>3</sub></em>)</p><p style=\"margin-left:1.618em\"><em>P<sub>25</sub></em> ≈ 10.84% + (3.50 − 3) × (11.33% − 10.84%) = 11.09%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c343636b-b77e-4a6c-9438-fb1fb139c4c1",
+              "itemBody": "<p>A. 10.70%.</p>",
+              "position": 1
+            },
+            {
+              "id": "e37c4f4e-d92f-4ef2-b46b-8406e763c704",
+              "itemBody": "<p>B. 11.09%.</p>",
+              "position": 2
+            },
+            {
+              "id": "70bc3975-f518-4c2e-a187-a81b3c54add2",
+              "itemBody": "<p>C. 10.84%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53528",
+      "entry": {
+        "title": "ITEM_2019BQuant07EJT",
+        "feedback": {},
+        "itemBody": "<p>For a set of return observations, the coefficient of variation is <i>best</i> described as a measure of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "47a5fab7-11e3-4409-b12a-ed699ae2dac6"
+        },
+        "answerFeedback": {
+          "3043413b-a1db-4f6d-a801-db3c1129f742": "<p>Incorrect because it describes the Sharpe ratio, not the coefficient of variation. The Sharpe ratio measures the reward, in terms of mean excess return, per unit of risk,&nbsp;where mean excess return is defined as the average rate of return in excess of the risk-free rate.</p>",
+          "47a5fab7-11e3-4409-b12a-ed699ae2dac6": "<p>Correct because when the observations are returns, the coefficient of variation measures the amount of risk (standard deviation) per unit of mean return.</p>",
+          "f1a52573-cf01-4ff9-8db7-7c1a6c6aba44": "<p>Incorrect because it describes the mean absolute deviation (MAD), not the coefficient of variation. The MAD is defined as the mean of the absolute values of deviations from the sample mean.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "47a5fab7-11e3-4409-b12a-ed699ae2dac6",
+              "itemBody": "<p>A. risk per unit of mean return.</p>",
+              "position": 1
+            },
+            {
+              "id": "3043413b-a1db-4f6d-a801-db3c1129f742",
+              "itemBody": "<p>B. mean excess return earned per unit of risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "f1a52573-cf01-4ff9-8db7-7c1a6c6aba44",
+              "itemBody": "<p>C. average absolute deviation around the mean return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53529",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Ermogenous-16",
+        "feedback": {},
+        "itemBody": "<p>The correlation coefficient:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7cef8bc8-4844-45e6-b6bc-b454af791ddb"
+        },
+        "answerFeedback": {
+          "32cca305-9c94-4c12-ad1a-bfa82ee87bc3": "<p>Incorrect because correlation may also be an unreliable measure when outliers are present in one or both of the variables. As we have seen, outliers are small numbers of observations at either extreme (small or large) of a sample. The correlation may be quite sensitive to outliers.</p>",
+          "7cef8bc8-4844-45e6-b6bc-b454af791ddb": "<p>Correct because the correlation coefficient expresses the strength of the linear relationship between the two random variables.</p>",
+          "9d9077ea-ea93-493a-9b6a-f7bf5584635f": "<p>Incorrect because correlation ranges from –1 and +1 for two random variables, <i>X</i> and <i>Y</i>.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9d9077ea-ea93-493a-9b6a-f7bf5584635f",
+              "itemBody": "<p>A. ranges from 0 to 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "32cca305-9c94-4c12-ad1a-bfa82ee87bc3",
+              "itemBody": "<p>B. is not affected by outliers.</p>",
+              "position": 2
+            },
+            {
+              "id": "7cef8bc8-4844-45e6-b6bc-b454af791ddb",
+              "itemBody": "<p>C. indicates the strength of the linear relationship between two random variables.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53530",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Ermogenous-19",
+        "feedback": {},
+        "itemBody": "<p>A return distribution with negative skew and a mean of zero <i>most likely&nbsp;</i>has:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f7ea9f54-54d8-4331-841c-18a0bf41a950"
+        },
+        "answerFeedback": {
+          "abbd2fe7-c75d-4756-97d7-029b19d0d21c": "<p>Incorrect because a&nbsp;return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses.</p>",
+          "d7d3cc41-a2d8-4174-ab00-bd76226d420e": "<p>Incorrect because&nbsp;a return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses.</p>",
+          "f7ea9f54-54d8-4331-841c-18a0bf41a950": "<p>Correct because&nbsp;a&nbsp;return distribution with negative skew has frequent small gains and a few extreme losses.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f7ea9f54-54d8-4331-841c-18a0bf41a950",
+              "itemBody": "<p>A. frequent small gains and a few extreme losses.</p>",
+              "position": 1
+            },
+            {
+              "id": "abbd2fe7-c75d-4756-97d7-029b19d0d21c",
+              "itemBody": "<p>B. frequent small losses and a few extreme gains.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7d3cc41-a2d8-4174-ab00-bd76226d420e",
+              "itemBody": "<p>C. frequent extreme losses and a few small gains.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53531",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Quant-Tomter-08",
+        "feedback": {},
+        "itemBody": "<p>Which of the following visualizations is <i>most</i> appropriate for interpreting the correlation between two variables?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "300a09d3-aaab-4329-8d5b-7bcd501f4e4c"
+        },
+        "answerFeedback": {
+          "300a09d3-aaab-4329-8d5b-7bcd501f4e4c": "<p>Correct because scatter plots are a very useful tool for the sensible interpretation of a correlation coefficient. A scatter plot is a type of graph for visualizing the joint variation in two numerical variables. It is a useful tool for displaying and understanding potential relationships between the variables.</p>",
+          "accf36ac-bb7d-481b-80c5-82201fcb2e4c": "<p>Incorrect because a clustered bar chart is useful for displaying a frequency distribution, not correlation. In the case of two categorical variables, we need an enhanced version of the bar chart, called a grouped bar chart (also known as a clustered bar chart), to show joint frequencies.</p>",
+          "fa680bb8-61ec-4287-a712-2c45ecd5aa42": "<p>Incorrect because a tree-map is useful for displaying a frequency distribution, not correlation. In addition to bar charts and grouped bar charts, another graphical tool for displaying categorical data is a tree-map. It consists of a set of colored rectangles to represent distinct groups, and the area of each rectangle is proportional to the value of the corresponding group.&nbsp;The tree-map can represent data with additional dimensions by displaying a set of nested rectangles.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fa680bb8-61ec-4287-a712-2c45ecd5aa42",
+              "itemBody": "<p>A. Tree-map</p>",
+              "position": 1
+            },
+            {
+              "id": "300a09d3-aaab-4329-8d5b-7bcd501f4e4c",
+              "itemBody": "<p>B. Scatter plot</p>",
+              "position": 2
+            },
+            {
+              "id": "accf36ac-bb7d-481b-80c5-82201fcb2e4c",
+              "itemBody": "<p>C. Clustered bar chart</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53532",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Quant-Tomter-10",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a portfolio's returns:</p>\n<table style=\"border-collapse: collapse; width: 152px; border-style: solid;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\"><strong>Year</strong></td>\n<td style=\"width: 85px; max-width: 85px; text-align: center;\"><strong>Return</strong></td>\n</tr>\n<tr style=\"text-align: center;\"></tr>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\">1</td>\n<td style=\"width: 85px; max-width: 85px; text-align: center;\">6%</td>\n</tr>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\">2</td>\n<td style=\"width: 85px; max-width: 85px; text-align: center;\">7%</td>\n</tr>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\">3</td>\n<td style=\"width: 85px; max-width: 85px; text-align: center;\">3%</td>\n</tr>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\">4</td>\n<td style=\"width: 85px; max-width: 85px; text-align: center;\">2%</td>\n</tr>\n<tr>\n<td style=\"width: 62px; max-width: 62px; text-align: center;\">5</td>\n<td style=\"width: 85px; text-align: center; max-width: 85px;\">4%</td>\n</tr>\n<tr></tr>\n</tbody>\n</table>\n<p>If the target return is 5%, the target downside deviation is <i>closest</i> to:&nbsp;</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4bbd1752-6eba-4c32-a5da-435409cb0c5d"
+        },
+        "answerFeedback": {
+          "15519631-553f-4d5c-9f73-d2db8d2a0233": "<p>Incorrect because <i>n</i> (5) is used in the calculation instead of <i>n</i>&nbsp;– 1: (14/5)<sup>0.5</sup>, resulting in 1.67% ≈ 1.7%.&nbsp;</p>",
+          "4bbd1752-6eba-4c32-a5da-435409cb0c5d": "<p>Correct because the formula for target downside deviation is [Σ(<i>X<sub>i</sub></i> – <i>B</i>)<sup>2</sup>/(<i>n</i>&nbsp;– 1)]<sup>0.5</sup>, where <i>X<sub>i</sub></i> is the return for the period, <i>B</i> is the target return and <i>n</i> is the total number of sample observations. Moreover, the summation is taken over only those observations (<i>X<sub>i</sub></i>) that are less than or equal to the target <i>B</i>.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:407px\"><tbody>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\"><b>Year</b></td>\n<td style=\"width:101px; max-width:101px; text-align:center\"><b>Return (%)</b></td>\n<td style=\"width:133px; max-width:133px; text-align:center\"><b>Deviations from the target</b></td>\n<td style=\"width:101px; max-width:101px; text-align:center\"><b>Squared deviations</b></td>\n</tr>\n<tr style=\"text-align:center\"></tr>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\">1</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">6</td>\n<td style=\"width:133px; max-width:133px; text-align:center\">0</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">0</td>\n</tr>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\">2</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">7</td>\n<td style=\"width:133px; max-width:133px; text-align:center\">0</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">0</td>\n</tr>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\">3</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">3</td>\n<td style=\"width:133px; max-width:133px; text-align:center\">–2</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">4</td>\n</tr>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\">4</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">2</td>\n<td style=\"width:133px; max-width:133px; text-align:center\">–3</td>\n<td style=\"width:101px; max-width:101px; text-align:center\">9</td>\n</tr>\n<tr>\n<td style=\"width:63px; max-width:63px; text-align:center\">5</td>\n<td style=\"width:101px; text-align:center; max-width:101px\">4</td>\n<td style=\"width:133px; text-align:center; max-width:133px\">–1</td>\n<td style=\"width:101px; text-align:center; max-width:101px\">1</td>\n</tr>\n</tbody></table><p>Since the sum of squared deviations is 14, the target downside deviation = [14/(5&nbsp;– 1)]<sup>0.5</sup>, resulting in 1.87% ≈ 1.9%.</p>",
+          "59b87308-ed03-42f6-abb0-077040fbd83a": "<p>Incorrect because all the returns are used in the calculation, not just the returns below the target. In other words, the standard deviation from the target return is calculated.&nbsp;Since the sum of all squared deviations is 14 + 5 = 19, the target downside deviation is calculated as: [19/(5&nbsp;– 1)]<sup>0.5</sup>, resulting in 2.18% ≈ 2.2%.</p><p>This answer is also closest if <i>n</i> is assumed to be the number of observations used in the correct calculation (3): (14/3)<sup>0.5</sup>, resulting in 2.16% ≈ 2.2%.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "15519631-553f-4d5c-9f73-d2db8d2a0233",
+              "itemBody": "<p>A. 1.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "4bbd1752-6eba-4c32-a5da-435409cb0c5d",
+              "itemBody": "<p>B. 1.9%.</p>",
+              "position": 2
+            },
+            {
+              "id": "59b87308-ed03-42f6-abb0-077040fbd83a",
+              "itemBody": "<p>C. 2.2%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8565,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4106,
+      "stimulusQuizEntryId": ""
+    }
+  ],
+  "responses": {},
+  "scored_data": {
+    "points": 4,
+    "points_possible": 37
+  },
+  "curriculum_year": "2027",
+  "has_2027_updates": false,
+  "new_2027_questions_count": 0
+}

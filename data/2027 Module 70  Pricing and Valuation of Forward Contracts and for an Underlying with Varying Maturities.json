@@ -1,0 +1,925 @@
+{
+  "user_id": 239466,
+  "quiz_id": 5982,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 15,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 5: Pricing and Valuation of Forward Contracts and for an Underlying with Varying Maturities",
+    "topic_id": 1037,
+    "topic": "CFA-26-02-LI-C: Derivatives",
+    "subtopic_id": 5982,
+    "subtopic": "Module 5: Pricing and Valuation of Forward Contracts and for an Underlying with Varying Maturities",
+    "question_count": 15,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 853,
+        "name": "Warehouse Course: Derivatives 26-LI",
+        "code": "Warehouse Course: Derivatives 26-LI",
+        "module_id": 4486,
+        "question_count": 10,
+        "type": "warehouse"
+      },
+      {
+        "id": 844,
+        "name": "Practice Pack Warehouse: Derivatives 26-LI",
+        "code": "Practice Pack Warehouse: Derivatives 26-LI",
+        "module_id": 4739,
+        "question_count": 4,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 15.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "aa4818af926fa45f",
+    "ordered_item_ids": [
+      "56290",
+      "56291",
+      "56292",
+      "56293",
+      "51132",
+      "51133",
+      "51134",
+      "51135",
+      "51136",
+      "51137",
+      "51138",
+      "53926",
+      "53927",
+      "53928",
+      "53929"
+    ],
+    "visible_item_ids": [
+      "56290",
+      "56291",
+      "56292",
+      "56293",
+      "51132",
+      "51133",
+      "51134",
+      "51135",
+      "51136",
+      "51137",
+      "51138",
+      "53926",
+      "53927",
+      "53928",
+      "53929"
+    ]
+  },
+  "items": [
+    {
+      "id": "56290",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Vervloet-05",
+        "feedback": {},
+        "itemBody": "<p>Two-year&nbsp;and three-year government benchmark zero-coupon bonds are priced at 96&nbsp;and 93 (per 100 face value), respectively. The implied one-year forward rate in two years’ time is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b595fa3b-79ed-4958-bd72-b8579eb6d46a"
+        },
+        "answerFeedback": {
+          "b595fa3b-79ed-4958-bd72-b8579eb6d46a": "<p>Correct because a&nbsp;discount factor may also be interpreted as the price of a zero-coupon cash flow or bond. The price equivalent of a zero rate is the present value of a currency unit on a future date, known as a discount factor. The discount factor for period <i>i</i> (DF<i><sub>i</sub></i>) is: DF<i><sub>i</sub></i> = 1 / (1+z<sub><i>i</i></sub>).&nbsp;Accordingly, the equivalent zero rate is:</p><p>DF<sub>2</sub> = 0.96 = 1 / (1 + z<sub>2</sub>)<sup>2</sup>; and z<sub>2</sub> = 2.0621%&nbsp;</p><p>DF<sub>3</sub> = 0.93 = 1 / (1 + z<sub>3</sub>)<sup>3</sup>; and z<sub>3</sub> =&nbsp; 2.4485%&nbsp;</p><p>The implied forward rate between period A and period B is denoted as IFR<sub>A,B–A</sub>. It is a forward rate on a bond that starts in period A and ends in period B&nbsp;a general formula for the relationship between the two spot rates (z<sub>A</sub>, z<sub>B</sub>) and the implied forward rate (IFR<sub>A,B–A</sub>):&nbsp;(1 + z<sub>A</sub>)<sup>A</sup> × (1 + IFR<sub>A,B–A</sub>)<sup>B–A</sup> = (1 + z<sub>B</sub>)<sup>B</sup>.</p><p>(1.020621)<sup>2</sup>&nbsp;× (1&nbsp;+&nbsp;IFR<sub>2,3–2</sub>)<sup>3–2</sup> = (1.024485)<sup>3</sup></p><p>(1&nbsp;+&nbsp;IFR<sub>2,1</sub>)&nbsp;= (1.024485)<sup>3&nbsp;</sup>/ (1.020621)<sup>2</sup>&nbsp;</p><p>(1&nbsp;+&nbsp;IFR<sub>2,1</sub>)&nbsp;= (1.075269 / 1.041667)</p><p>1&nbsp;+&nbsp;IFR<sub>2,1</sub>&nbsp;= 1.032258</p><p>IFR<sub>2,1</sub>&nbsp;= 1.032258&nbsp;– 1 = 3.2258%&nbsp;≈ 3.23%.</p>",
+          "dcffd423-e98b-406c-82dd-ed2697c34643": "<p>Incorrect because it calculates the&nbsp;equivalent zero rate as:</p><p>z<sub>2</sub> = (100 – DF<sub>2</sub>)<sub> </sub>/ 2; or = (100 – 96) / 2 = 2.0000%&nbsp;</p><p>z<sub>3</sub> = (100 – DF<sub>3</sub>)<sub> </sub>/ 3; or = (100 – 93) / 3&nbsp;= 2.3333%</p><p>Accordingly,</p><p>(1.020000)<sup>2</sup>&nbsp;× (1&nbsp;+&nbsp;IFR<sub>2,1</sub>)<sup>1</sup>&nbsp;= (1.023333)<sup>3</sup></p><p>(1&nbsp;+&nbsp;IFR<sub>2,1</sub>)&nbsp;= (1.023333)<sup>3&nbsp;</sup>/ (1.020000)<sup>2</sup>&nbsp;</p><p>(1&nbsp;+&nbsp;IFR<sub>2,1</sub>)&nbsp;= (1.071646 / 1.04040)</p><p>1&nbsp;+&nbsp;IFR<sub>2,1</sub>&nbsp;= 1.030033</p><p>IFR<sub>2,1</sub>&nbsp;= 1.030033&nbsp;– 1 = 3.0033%&nbsp;≈ 3.00%.</p>",
+          "e45a54a7-9ebf-4666-9d7a-1522ba92029d": "<p>Incorrect because the implied forward rate is calculated as follows:</p><p>DF<sub>2</sub> = 0.96 = 1 / (1 + z<sub>2</sub>)<sup>2</sup>; and z<sub>2</sub> = 2.0621%&nbsp;</p><p>DF<sub>3</sub> = 0.93 = 1 / (1 + z<sub>3</sub>)<sup>3</sup>; and z<sub>3</sub> =&nbsp; 2.4485%&nbsp;</p><p>Accordingly,</p><p>IFR<sub>2,1</sub>&nbsp;= (1.024485)<sup>3&nbsp;</sup>– (1.020621)<sup>2</sup>&nbsp;</p><p>IFR<sub>2,1</sub>&nbsp;= (1.075269 – 1.041667)</p><p>IFR<sub>2,1</sub>&nbsp;= 0.033602&nbsp;= 3.3602%&nbsp;≈ 3.36%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dcffd423-e98b-406c-82dd-ed2697c34643",
+              "itemBody": "<p>A. 3.00%.</p>",
+              "position": 1
+            },
+            {
+              "id": "b595fa3b-79ed-4958-bd72-b8579eb6d46a",
+              "itemBody": "<p>B. 3.23%.</p>",
+              "position": 2
+            },
+            {
+              "id": "e45a54a7-9ebf-4666-9d7a-1522ba92029d",
+              "itemBody": "<p>C. 3.36%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4739,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56291",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-14",
+        "feedback": {},
+        "itemBody": "<p>A forward agreement has the following terms:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<td>Spot price at inception</td>\n<td style=\"text-align: right;\">$275</td>\n</tr>\n<tr>\n<td>Forward price</td>\n<td style=\"text-align: right;\">$285</td>\n</tr>\n<tr>\n<td>Number of shares</td>\n<td style=\"text-align: right;\">2,000</td>\n</tr>\n</tbody>\n</table>\n<p>At expiration, if the spot price is $282, the value to the seller is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a1aef7d9-cd7c-493a-a937-cf40f90880f8"
+        },
+        "answerFeedback": {
+          "2fb0d65d-ef83-4770-bb9a-cea97a139c3a": "<p>Incorrect because the spot price at inception is used instead of at settlement:</p><p>≠ <i>F</i><sub>0</sub>(<i>T</i>) – <i>S</i><sub>0</sub> = $282 – $275 = $7.</p><p>Hence the total value is $7 × 2,000 shares = $14,000.</p>",
+          "a1aef7d9-cd7c-493a-a937-cf40f90880f8": "<p>Correct because the value at expiration for the seller:</p><p>= <i>F</i><sub>0</sub>(<i>T</i>)&nbsp;– <i>S<sub>T</sub></i>&nbsp;= $285&nbsp;– $282 = $3.</p><p>Hence the total value is $3 × 2,000 shares = $6,000.</p>",
+          "c77eb466-3b91-4a65-8863-6001ea9abd02": "<p>Incorrect because this is the value at expiration for the buyer:</p><p>=&nbsp;<i>S<sub>T</sub></i>&nbsp;–&nbsp;<i>F</i><sub>0</sub>(<i>T</i>) = $282&nbsp;– $285 =&nbsp;–$3.</p><p>Hence total value is –$3 × 2,000 shares =&nbsp;–$6,000.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c77eb466-3b91-4a65-8863-6001ea9abd02",
+              "itemBody": "<p>A. –$6,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "a1aef7d9-cd7c-493a-a937-cf40f90880f8",
+              "itemBody": "<p>B. $6,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "2fb0d65d-ef83-4770-bb9a-cea97a139c3a",
+              "itemBody": "<p>C. $14,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4739,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56292",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-Deriv-Hambusch-04",
+        "feedback": {},
+        "itemBody": "<p>An investor observes that the price of an underlying&nbsp;asset is&nbsp;$20. The investor immediately enters into forward contract to purchase the underlying asset in one year at a price of $10. At contract initiation, the value of the forward contract is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "84793f6c-afb1-4da4-92c9-17f77b748909"
+        },
+        "answerFeedback": {
+          "790502f7-b12c-40a7-b311-e8e897f186d5": "<p>Incorrect because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. Therefore, this answer choice represents the value of the forward contract at expiration, not at initiation, i.e., $20 - $10 = $10. &nbsp;By contrast, the value of the forward at initiation is zero, as described in the response rationale for the correct answer.</p>",
+          "84793f6c-afb1-4da4-92c9-17f77b748909": "<p>Correct because when a forward contract is initiated, neither party pays anything to the other. It is a valueless contract, neither an asset nor a liability. Therefore, its value at initiation is zero.</p>",
+          "9dde9cfb-7a61-4e9d-8051-48a1bad7dac3": "<p>Incorrect because this answer choice incorrectly assumes that the forward value at contract initiation is the sum of spot price at contract initiation plus forward price at contract initiation, i.e., $20 + $10 = $30. By contrast, the value of the forward at initiation is zero, as described in the response rationale for the correct answer.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "84793f6c-afb1-4da4-92c9-17f77b748909",
+              "itemBody": "<p>A. $0.</p>",
+              "position": 1
+            },
+            {
+              "id": "790502f7-b12c-40a7-b311-e8e897f186d5",
+              "itemBody": "<p>B. $10.</p>",
+              "position": 2
+            },
+            {
+              "id": "9dde9cfb-7a61-4e9d-8051-48a1bad7dac3",
+              "itemBody": "<p>C. $30.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4739,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56293",
+      "entry": {
+        "title": "ITEM_CFA-L1-09260",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">The spot price of an asset is $70.00. If the annual risk-free rate is 2.50%, the 9-month forward price is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "393d1658-9387-40c9-afbc-f18ab685f4dd"
+        },
+        "answerFeedback": {
+          "2e656786-dcdd-4fb5-a0f1-3bf492e00a4a": "<p>Incorrect because the forward price is the spot price compounded at the risk-free rate over the life of the contract or <em>F</em><sub>0</sub>(<em>T</em>) = <em>S</em><sub>0</sub> (1+ <em>r)</em><sup><em>T</em></sup>&nbsp;where <em>S</em><sub>0</sub> is the current spot price, <em>r</em> is the risk-free rate and <em>T</em> is time. Therefore, the 9-month forward price is not equal to the spot price divided by (1+ <em>r)</em><sup><em>T</em></sup>or £70.00 / (1+.025)<sup>0.75</sup> = £68.72.&nbsp;</p>",
+          "393d1658-9387-40c9-afbc-f18ab685f4dd": "<p>Correct because the forward price is the spot price compounded at the risk-free rate over the life of the contract&nbsp;or <em>F</em><sub>0</sub>(<em>T</em>) = <em>S</em><sub>0</sub> (1+ <em>r)</em><sup><em>T</em></sup>&nbsp;where <em>S</em><sub>0</sub> is the current spot price, <em>r</em> is the risk-free rate and <em>T</em> is time. Therefore, the 9-month forward price is equal to £70.00 (1+.025)<sup>0.75</sup> = £71.31.&nbsp;</p>",
+          "d31e989a-4fa9-475e-b9f4-aa48a05ab6f2": "<p>Incorrect because the forward price is the spot price compounded at the risk-free rate over the life of the contract&nbsp;or <em>F</em><sub>0</sub>(<em>T</em>) = <em>S</em><sub>0</sub> (1+ <em>r)</em><sup><em>T</em></sup>&nbsp;where <em>S</em><sub>0</sub> is the current spot price, <em>r</em> is the risk-free rate and <em>T</em> is time. Therefore, the 9-month forward price is not equal to the spot price multiplied by (1+ <em>r)</em> (omitting time) or £70.00 (1+.025) = £71.75.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2e656786-dcdd-4fb5-a0f1-3bf492e00a4a",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">$68.72.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "393d1658-9387-40c9-afbc-f18ab685f4dd",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">$71.31.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "d31e989a-4fa9-475e-b9f4-aa48a05ab6f2",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">$71.75.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4739,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51132",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Baywhite Financial is a broker-dealer and wealth management firm that helps its\n               clients manage their portfolios using stand-alone derivative strategies. A new\n               Baywhite analyst is asked to evaluate the following client situations.</p>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51133",
+      "entry": {
+        "title": "CFA2458-s03-P_Q1",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">1. B is correct. The forward contract MTM value between inception and maturity, <em>V<sub>t</sub> </em>(<em>T</em>), is equal to the difference between the current spot price (adjusted by costs and benefits through maturity) and the present value of the forward price.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">2. C is correct. The forward price, <em>F</em><sub>0</sub>(<em>T</em>), is the future value of the underlying asset spot price (<em>S</em><sub>0</sub>) compounded at the risk-free rate incorporating the present value of the costs and benefits of asset ownership.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">3. A is correct. Under no-arbitrage conditions for a given underlying spot price, <em>S</em><sub>0</sub>, adjusted by the costs and benefits, risk-free rate (<em>r</em>), and forward price, <em>F</em><sub>0</sub>(<em>T</em>), the forward contract MTM value at inception, <em>V</em><sub>0</sub>(<em>T</em>), should be equal to zero (ignoring transaction costs).</p>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Match the following definitions with their corresponding forward pricing or valuation component.</p>\n<div id=\"CFA2458-s03-T-2-g\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; width: 100.064%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1002%;\">1. Equal to the difference between the current spot price (adjusted by remaining costs and benefits through maturity) and the present value of the forward price</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 35.9236%;\">A. Forward contract MTM value at inception, <em>V</em><sub>0</sub>(<em>T</em>)</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1002%;\">2. Future value of the underlying asset spot price (<em>S</em><sub>0</sub>) compounded at the risk-free rate incorporating the present value of the costs and benefits of asset ownership</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 35.9236%;\">B. Forward contract MTM value between inception and maturity, <em>V<sub>t</sub></em>(<em>T</em>)</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 64.1002%;\">3. Under no-arbitrage conditions for a given underlying spot price, S<sub>0</sub>, adjusted by the costs and benefits, risk-free rate (<em>r</em>), and forward price, <em>F</em><sub>0</sub>(<em>T</em>), this should be equal to zero (ignoring transaction costs).</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 35.9236%;\">C. Forward price, <em>F</em><sub>0</sub>(<em>T</em>)</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "51134",
+      "entry": {
+        "title": "CFA2458-s03-Q7",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The original VIVU spot price (<em>S</em>\n                  <sub>0</sub>) at <em>t</em> = 0 must equal the present value of the\n                  forward price discounted at the risk-free rate, so an immediate fall in the spot\n                  price to <em>S</em>\n                  <sub>0</sub>\n                  <sup>-</sup> &lt; <em>S</em>\n                  <sub>0</sub> results in an MTM gain for the forward contract seller. A is not\n                  correct, since a higher risk-free rate will reduce the contract MTM from the\n                  client’s perspective by reducing the PV of <em>F</em>\n                  <sub>0</sub>(<em>T</em>), while C will also reduce the forward contract\n                  MTM from the seller’s perspective.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A Baywhite client currently owns 5,000 common non-dividend-paying shares of\n                  Vivivyu Inc. (VIVU), a digital media company, at a spot price of USD173 per share.\n                  The client enters into a forward commitment to sell half of its VIVU position in\n                  six months at a price of USD175.58. Which of the following market events is most\n                  likely to result in the greatest gain in the VIVU forward contract MTM value from\n                  the client’s perspective?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "79003c03-4ac6-448a-9d93-add7f10c2a6d"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4e845802-ba41-4c3f-a70d-496850ececad",
+              "itemBody": "A. An increase in the risk-free rate",
+              "position": 1
+            },
+            {
+              "id": "79003c03-4ac6-448a-9d93-add7f10c2a6d",
+              "itemBody": "B. An immediate decline in the VIVU spot price following contract inception",
+              "position": 2
+            },
+            {
+              "id": "223676ff-ba9f-4bbe-aa20-76dba4e4ba8f",
+              "itemBody": "C. A steady rise in the spot price of VIVU stock over time",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "51135",
+      "entry": {
+        "title": "CFA2458-s03-Q8",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. A decline in the interest rate differential between MXN and USD will\n                  cause the client to realize an MTM loss on the MXN/USD forward contract, while B\n                  states that this decline will result in an MTM gain. A is incorrect as the forward\n                  price, <em>F</em>\n                  <sub>0</sub>(<em>T</em>), is not adjusted during the contract life.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Specifically, the original MXN/USD forward exchange rate at inception is equal to\n                  20.20 (= 19.8248e<sup>(.0425 – 0.005) × 0.5</sup>). If the MXN rate were to\n                  decline by 50 bps immediately after the contract is agreed, a new MXN/USD forward\n                  contract would be at a forward exchange rate of 20.15 (= 19.8248e<sup>(.0375 –\n                     0.005) × 0.5</sup>). The MXN would weaken or depreciate against the USD. Since\n                  the MXN seller has locked in a forward sale at the original 20.20 versus the new\n                  20.15 rate, the seller’s MTM loss is equal to 0.05, or MXN50,000 per MXN1,000,000\n                  (= 0.05 × 1,000,000) notional amount.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A Baywhite client has entered into a long six-month MXN/USD FX forward\n                  contract—that is, an agreement to sell MXN and buy USD. The MXN/USD spot exchange\n                  rate at inception is 19.8248 (MXN19.8248 = USD1), the six-month MXN risk-free rate\n                  is 4.25%, and the six-month USD risk-free rate is 0.5%. Baywhite’s market\n                  strategist predicts that the Mexican central bank (Banco de Mexico) will surprise\n                  the market with a 50 bp short-term rate cut at its upcoming meeting. Which of the\n                  following statements best describes how the client’s existing FX forward contract\n                  will be impacted if this prediction is realized and other parameters remain\n                  unchanged?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "682d80ca-697b-474c-bff9-3123ebb0db26"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "03372177-4550-47e1-8380-3e85d34b1514",
+              "itemBody": "A. The lower interest rate differential between MXN and USD will cause the MXN/USD contract forward rate to be adjusted downward.",
+              "position": 1
+            },
+            {
+              "id": "10a623c1-077c-4841-8231-79663b8bacee",
+              "itemBody": "B. The client will realize an MTM gain on the FX forward contract due to the decline in the MXN versus USD interest rate differential.",
+              "position": 2
+            },
+            {
+              "id": "682d80ca-697b-474c-bff9-3123ebb0db26",
+              "itemBody": "C. The lower interest rate differential between MXN and USD will cause the client to realize an MTM loss on the MXN/USD forward contract.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "51136",
+      "entry": {
+        "title": "CFA2458-s03-Q9",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The one-year annual rate equals the one-year zero rate, as it\n                  involves a single cash flow at maturity (<em>z<sub>1</sub>\n                  </em> = <em>r<sub>1</sub>\n                  </em>). Since the breakeven reinvestment rate involves a single cash flow at\n                  maturity, substitute the one-year rate (<em>r<sub>1</sub>\n                  </em>) into the two-year bond price equation to solve for\n                        <em>z<sub>2</sub>\n                  </em>, then set (1 + <em>r<sub>1</sub>\n                  </em>) × (1 + breakeven reinvestment rate) = (1 + <em>z<sub>2</sub>\n                  </em>)<sup>2</sup> and solve for the breakeven reinvestment rate\n                        (<em>IFR<sub>1,1</sub>\n                  </em>).</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A client seeking advice on her fixed-income portfolio observes the price and\n                  yield-to-maturity of one-year (<em>r<sub>1</sub>\n                  </em>) and two-year (<em>r<sub>2</sub>\n                  </em>) annual coupon government benchmark bonds currently available in the\n                  market. Which of the following statements best describes how the analyst can\n                  determine a breakeven reinvestment rate in one year’s time to help decide whether\n                  to invest now for one or two years? </p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2b7e9f6e-f806-4462-a27f-c2163ad40f22"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "743bc041-99a7-4d1f-aaef-efe7de0be110",
+              "itemBody": "A. As the two-year rate involves intermediate cash flows, divide the square root of (1 + r2 ) by (1 + r1 ) and subtract 1 to arrive at a breakeven reinvestment rate for one year in one year’s time.",
+              "position": 1
+            },
+            {
+              "id": "05b076c2-5844-4cb0-95db-ed5c17c66c6d",
+              "itemBody": "B. Since the first year’s returns are compounded in the second year, set (1 + r1 ) multiplied by 1 plus the breakeven reinvestment rate equal to (1 + r2 )2 and solve for the breakeven reinvestment rate.",
+              "position": 2
+            },
+            {
+              "id": "2b7e9f6e-f806-4462-a27f-c2163ad40f22",
+              "itemBody": "C. Since the breakeven reinvestment involves a zero-coupon cash flow, first substitute the one-year rate (r1 ) into the two-year bond price equation to solve for the two-year spot or zero rate (z2 ), then set (1 + r1 ) × (1 + breakeven reinvestment rate) = (1 + z2 )2 and solve for the breakeven reinvestment rate.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "51137",
+      "entry": {
+        "title": "CFA2458-s03-Q10",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. As Baywhite faces exposure to a rise in one-month MRR over the next\n                  30 days, it should enter into the FRA as a fixed-rate payer in order to benefit\n                  from a rise in one-month MRR above the FRA rate and offset its higher borrowing\n                  cost. Both B and C are incorrect, as the fixed-rate <em>receiver</em> in\n                  an FRA does not benefit but rather must make a higher payment upon settlement if\n                  MRR rises.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Baywhite Financial seeks to gain a competitive advantage by making margin loans at fixed rates for up to 60 days to its investor clients. Since Baywhite borrows at a variable one-month market reference rate to finance these client loans, the firm enters into one-month FRA contracts on one-month MRR to hedge the interest rate exposure of its margin loan book. Which of the following statements best describes Baywhite’s interest rate exposure and the FRA position it should take to hedge that exposure?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "98ba99fd-b646-4be3-8596-6ac5197c9c5f"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98ba99fd-b646-4be3-8596-6ac5197c9c5f",
+              "itemBody": "<p>A. Baywhite faces exposure to a <em>rise </em>in one-month MRR over the next 30 days, so it should enter into the FRA as a fixed-rate <em>payer </em>in order to benefit from a rise in one-month MRR above the FRA rate and offset its higher borrowing cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "e6acab51-3b93-4e7a-9391-a2944096a85e",
+              "itemBody": "<p>B. Baywhite faces exposure to a <em>rise </em>in one-month MRR over the next 30 days, so it should enter into the FRA as a fixed-rate <em>receiver </em>in order to benefit from a rise in one-month MRR above the FRA rate and offset its higher borrowing cost.</p>",
+              "position": 2
+            },
+            {
+              "id": "54fe24bc-37ce-4e89-bcf2-aa0e2e98a3fe",
+              "itemBody": "<p>C. Baywhite faces exposure to a <em>decline </em>in one-month MRR over the next 30 days, so it should enter into the FRA as a fixed-rate <em>receiver </em>in order to benefit from a rise in one-month MRR above the FRA rate and offset its higher borrowing cost.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "51138",
+      "entry": {
+        "title": "CFA2458-s03-Q11",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The APR of the monthly compounded two-month rate is 1.499%. Dividing\n                     (1.01499/12)<sup>2</sup> by (1.012/12) equals 1.001499. Subtracting 1 and then\n                  multiplying by 12 gives 1.7982%. Thus, the approximate forward rate is 1.80%. B is\n                  incorrect because this is a simple average of the two spot rates. C is incorrect\n                  because this result is derived from simply dividing (1.01499/12) by (1.012/12),\n                  then subtracting 1, and then multiplying by 12.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Baywhite observes that one-month MRR is 1.2% and two-month MRR is 1.5%. Which of the following rates is closest to the forward rate that Baywhite would expect on 1m1m forward rate agreement?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9a6cf8a8-9974-45ee-8a6e-e197a95ecbc4"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9a6cf8a8-9974-45ee-8a6e-e197a95ecbc4",
+              "itemBody": "A. 1.80%",
+              "position": 1
+            },
+            {
+              "id": "5d859cd2-1f87-4c71-a12d-8d0298d0a78e",
+              "itemBody": "B. 1.35%",
+              "position": 2
+            },
+            {
+              "id": "5f237783-020b-40c2-829d-9b35f09d6569",
+              "itemBody": "C. 3.55%",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8257,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": "51132"
+    },
+    {
+      "id": "53926",
+      "entry": {
+        "title": "ITEM_20170601002",
+        "feedback": {},
+        "itemBody": "<p>There are two forward contracts, contract 1 and contract 2, on the same underlying. The underlying makes no cash payments, does not yield any nonfinancial benefits, and does not incur any storage costs. Contract 1 expires in one year, and contract 2 expires in two years. It is<i> most likely</i> that the price of contract 1:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7f1a8cee-795d-4c03-a560-bef6c46001c1"
+        },
+        "answerFeedback": {
+          "2fea0a79-8006-43ee-9894-2775064dc2a1": "<p>Incorrect. The price of contract 1 will be less than the price of contract 2.</p>",
+          "4b9d3777-6e48-472b-90bb-8180e083e7ab": "<p>Incorrect. The price of contract 1 will be less than the price of contract 2.</p>",
+          "7f1a8cee-795d-4c03-a560-bef6c46001c1": "<p><strong>Correct.</strong> The forward price is the spot price compounded at the risk-free rate over the life of the contract. Because contract 2 has the longer life, compounding will lead to a larger value.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7f1a8cee-795d-4c03-a560-bef6c46001c1",
+              "itemBody": "<p>A. is less than the price of contract 2.</p>",
+              "position": 1
+            },
+            {
+              "id": "2fea0a79-8006-43ee-9894-2775064dc2a1",
+              "itemBody": "<p>B. is equal to the price of contract 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "4b9d3777-6e48-472b-90bb-8180e083e7ab",
+              "itemBody": "<p>C. exceeds the price of contract 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8690,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53927",
+      "entry": {
+        "title": "ITEM_20170601045",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-size:16px\">Over time, a forward contract <i>most likely</i> has variable:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ad10214f-8d18-4f21-8168-83bae5ca0c96"
+        },
+        "answerFeedback": {
+          "33c5ca45-1f8c-4a3b-9bfd-1e4802172f40": "<p><span style=\"font-size:16px\">Incorrect because the price is constant, but value varies with changes in the price of the underlying.</span></p>",
+          "4ea07d61-191a-4d8a-ab42-9e66e7d12145": "<p><span style=\"font-size:16px\">Incorrect because the price is constant, but value varies with changes in the price of the underlying.</span></p>",
+          "ad10214f-8d18-4f21-8168-83bae5ca0c96": "<p><span style=\"font-size:16px\">Correct because the price of a forward contract remains constant throughout its life. It is set as part of the contract specifications. The value varies with changes in the price of the underlying.</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ad10214f-8d18-4f21-8168-83bae5ca0c96",
+              "itemBody": "<p>A. <span style=\"font-size:16px\">value and constant price.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "4ea07d61-191a-4d8a-ab42-9e66e7d12145",
+              "itemBody": "<p>B. <span style=\"font-size:16px\">price and constant value.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "33c5ca45-1f8c-4a3b-9bfd-1e4802172f40",
+              "itemBody": "<p>C. <span style=\"font-size:16px\">value and variable price.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8690,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53928",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Pirie-16",
+        "feedback": {},
+        "itemBody": "<p>All else being equal, if the risk-free rate increases immediately after the&nbsp;inception of a forward contract, the value of the contract to the forward buyer will:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4dee87a8-66d0-46b6-aafc-94c0ecd62764"
+        },
+        "answerFeedback": {
+          "3aedfd20-dc9c-4d68-9256-b46f64ca6d6e": "<p>Incorrect because the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If <i>S<sub>t</sub></i> is the spot price of the underlying asset at time <i>t</i>, the equation&nbsp;shows the forward contract MTM value at time<i> t, V<sub>t</sub></i>(<i>T</i>), from the long forward position's perspective: <i>V<sub>t</sub></i>(<i>T</i>) = <i>S<sub>t</sub></i> − <i>F</i><sub>0</sub>(<i>T</i>)(1 + <i>r</i>)<sup>–(</sup><i><sup>T – t</sup></i><sup>)</sup>.</p>",
+          "4dee87a8-66d0-46b6-aafc-94c0ecd62764": "<p>Correct because the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If <i>S<sub>t</sub></i> is the spot price of the underlying asset at time <i>t</i>, the equation&nbsp;shows the forward contract MTM value at time<i> t, V<sub>t</sub></i>(<i>T</i>), from the long forward position's perspective: <i>V<sub>t</sub></i>(<i>T</i>) = <i>S<sub>t</sub></i> − <i>F</i><sub>0</sub>(<i>T</i>)(1 + <i>r</i>)<sup>–(</sup><i><sup>T – t</sup></i><sup>)</sup>.</p>",
+          "94dc7977-3094-4f83-81ea-a47581f66f15": "<p>Incorrect because the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the&nbsp;value to the buyer. If <i>S<sub>t</sub></i> is the spot price of the underlying asset at time <i>t</i>, the equation&nbsp;shows the forward contract MTM value at time<i> t, V<sub>t</sub></i>(<i>T</i>), from the long forward position's perspective: <i>V<sub>t</sub></i>(<i>T</i>) = <i>S<sub>t</sub></i> − <i>F</i><sub>0</sub>(<i>T</i>)(1 + <i>r</i>)<sup>–(</sup><i><sup>T – t</sup></i><sup>)</sup>.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3aedfd20-dc9c-4d68-9256-b46f64ca6d6e",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "94dc7977-3094-4f83-81ea-a47581f66f15",
+              "itemBody": "<p>B. stay&nbsp;the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "4dee87a8-66d0-46b6-aafc-94c0ecd62764",
+              "itemBody": "<p>C. increase.&nbsp;</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8690,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53929",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-Deriv-Quaid-12",
+        "feedback": {},
+        "itemBody": "<p>The value of a forward contract at initiation is <i>most likely</i> equal to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "85e9b689-145f-49fc-aab0-3f4820075c64"
+        },
+        "answerFeedback": {
+          "50e7c7bb-6ce5-47ce-82c9-569e8736cc85": "<p>Incorrect because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. Because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiated is zero. Therefore, the value of a forward contract at initiation is not equal to the spot price minus the forward price.</p>",
+          "85e9b689-145f-49fc-aab0-3f4820075c64": "<p>Correct because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiated is zero.</p>",
+          "dc5a46e6-a098-4af4-b7fa-06bf24a5a090": "<p>Incorrect because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. Because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiated is zero. Therefore, the value of a forward contract at initiation is not equal to the forward price minus the spot price.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "85e9b689-145f-49fc-aab0-3f4820075c64",
+              "itemBody": "<p>A. zero.</p>",
+              "position": 1
+            },
+            {
+              "id": "50e7c7bb-6ce5-47ce-82c9-569e8736cc85",
+              "itemBody": "<p>B. the spot price minus the forward price.</p>",
+              "position": 2
+            },
+            {
+              "id": "dc5a46e6-a098-4af4-b7fa-06bf24a5a090",
+              "itemBody": "<p>C. the forward price minus the spot price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8690,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4486,
+      "stimulusQuizEntryId": ""
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": false,
+  "new_2027_questions_count": 0
+}

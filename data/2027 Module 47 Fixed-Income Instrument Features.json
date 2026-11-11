@@ -1,0 +1,1698 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6330,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 34,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 1: Fixed-Income Instrument Features",
+    "topic_id": 1036,
+    "topic": "CFA-26-02-LI-C: Fixed Income",
+    "subtopic_id": 6330,
+    "subtopic": "Module 1: Fixed-Income Instrument Features",
+    "question_count": 34,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 852,
+        "name": "Warehouse Course: Fixed Income 26-LI",
+        "code": "Warehouse Course: Fixed Income 26-LI",
+        "module_id": 4463,
+        "question_count": 8,
+        "type": "warehouse"
+      },
+      {
+        "id": 843,
+        "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "module_id": 4680,
+        "question_count": 3,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 34.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "2326522037a96455",
+    "ordered_item_ids": [
+      "55019",
+      "55020",
+      "55021",
+      "51146",
+      "51147",
+      "51148",
+      "51149",
+      "51150",
+      "51151",
+      "53805",
+      "53806",
+      "53807"
+    ],
+    "visible_item_ids": [
+      "55019",
+      "55020",
+      "55021",
+      "51146",
+      "51147",
+      "51148",
+      "51149",
+      "51150",
+      "51151",
+      "53805",
+      "53806",
+      "53807"
+    ]
+  },
+  "items": [
+    {
+      "id": "55019",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-FI-Kashyap-02",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is&nbsp;<i>most likely&nbsp;</i>a negative covenant?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b1350fc5-ac97-41b4-8b97-09cf303356c6"
+        },
+        "answerFeedback": {
+          "667e14cc-ea5c-4de9-b156-7c9d7438b807": "<p>Incorrect because affirmative covenants are typically administrative in nature. For example, frequently used affirmative covenants include what the issuer will do with the proceeds from the bond issue and the promise of making the contractual payments. The issuer may also promise to comply with all laws and regulations.</p>",
+          "b1350fc5-ac97-41b4-8b97-09cf303356c6": "<p>Correct because negative pledges prevent the issuance of debt that would be senior to or rank in priority ahead of the existing bondholders’ debt. This is a negative covenant.</p>",
+          "ec908b87-4a5c-47b8-a635-d4acde9bb318": "<p>Incorrect because affirmative covenants are typically administrative in nature. For example, a pari passu (or “equal footing”) clause, which ensures that a debt obligation is treated the same as the borrower’s other senior debt instruments.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "667e14cc-ea5c-4de9-b156-7c9d7438b807",
+              "itemBody": "<p>A. The issuer must comply with all laws and regulations.</p>",
+              "position": 1
+            },
+            {
+              "id": "b1350fc5-ac97-41b4-8b97-09cf303356c6",
+              "itemBody": "<p>B. The issuance of new debt must be junior to existing bondholder&nbsp;debt.</p>",
+              "position": 2
+            },
+            {
+              "id": "ec908b87-4a5c-47b8-a635-d4acde9bb318",
+              "itemBody": "<p>C. New debt obligations&nbsp;are treated the same as the borrower’s other senior debt instruments.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8858,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4680,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55020",
+      "entry": {
+        "title": "ITEM_CFA-L1-06204",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">A 2-year treasury note is <i>best</i> classified as a(n):</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bdb7d586-36c3-4e35-ab32-a1a541a38000"
+        },
+        "answerFeedback": {
+          "1254fa19-1839-48e8-bed1-8cca891d2467": "<p>Incorrect because asset-backed securities (ABS) are created from a process called securitization, which involves moving assets from the owner of the assets into a special legal entity. This special legal entity then uses the securitized assets as guarantees to back (secure) a bond issue, leading to the creation of ABS.&nbsp;Treasury notes are not asset-backed securities.</p>",
+          "4450fe6f-3a51-4798-b764-55cb6ea1aaa3": "<p>Incorrect because fixed-income securities with maturities at issuance (original maturity) of one year or less are known as money market securities.&nbsp;A two-year treasury note is not a money market security.</p>",
+          "bdb7d586-36c3-4e35-ab32-a1a541a38000": "<p>Correct because fixed-income securities with original maturities that are longer than one year are called capital market securities.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1254fa19-1839-48e8-bed1-8cca891d2467",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">asset-backed security.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "bdb7d586-36c3-4e35-ab32-a1a541a38000",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">capital market security.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "4450fe6f-3a51-4798-b764-55cb6ea1aaa3",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">money market security.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8858,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4680,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55021",
+      "entry": {
+        "title": "ITEM_CFA-L1-10118",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Which of the following is <i>most likely</i> a zero-coupon bond? A bond with a par value of £1,000 that was issued in a positive yield market at:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "45bd9190-5614-4982-85cd-c3511e9ef811"
+        },
+        "answerFeedback": {
+          "441b8d58-4996-4b62-b9ad-6873fbd1f895": "<p>Incorrect because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. This bond is issued at a premium (and not at a discount) to the redemption value, therefore it is unlikely to be a zero-coupon bond.</p>",
+          "45bd9190-5614-4982-85cd-c3511e9ef811": "<p>Correct because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. Out of all the answer choices, this is the only bond that is issued at a discount to its redemption value, therefore it is the most likely to be a zero-coupon bond.</p>",
+          "a56cb564-6f8f-4e5c-853d-a0ad30a26b56": "<p>Incorrect because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. This bond is issued at the same price as (and not at a discount to) the redemption value, therefore it is unlikely to be a zero-coupon bond.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "45bd9190-5614-4982-85cd-c3511e9ef811",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">£920.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "a56cb564-6f8f-4e5c-853d-a0ad30a26b56",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">£1,000.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "441b8d58-4996-4b62-b9ad-6873fbd1f895",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">£1,100.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8858,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4680,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51146",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Antelas AG is a German emerging technology company focused on manufacturing process design. The firm has developed several valuable patents related to micromachining and metal 3D printing technology and derives its revenue through licensing royalties and consultation services. Antelas recently issued the following debt instrument:</p>\n<div id=\"CFA2431-R-s03-T-2-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"><strong>Antelas AG Four-Year Floating-Rate Notes (The “Notes”)</strong> <br><br><strong>Prospectus Summary</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Issuer:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Antelas AG</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Settlement Date:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">[T + 5 Business Days]</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Maturity Date:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">[Four Years from Settlement Date]</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Principal Amount:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">EUR250 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Interest:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">MRR plus 250 bps p.a.</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Interest Payment:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Commencing three months from [Settlement Date] to be paid quarterly with final payment on [Maturity Date]</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Seniority:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">The Notes are secured and unsubordinated obligations of Antelas AG and will rank pari passu with all other secured and unsubordinated indebtedness.</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"><strong>Business Days:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Frankfurt</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51147",
+      "entry": {
+        "title": "CFA2431-R-s03-Q6",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The notes mature (the date Antelas AG will pay the final coupon and principal amount) four years after the trade settlement date, and the coupon rate is variable, determined by the MRR plus a fixed 250 bp spread.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">“Four years” and “MRR plus 250 bps p.a.” refer, respectively, to which bond features as of the settlement date?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "80cbace9-fc37-479f-820b-7364b215946c"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "80cbace9-fc37-479f-820b-7364b215946c",
+              "itemBody": "A. Time to maturity and coupon rate",
+              "position": 1
+            },
+            {
+              "id": "66c5ae8a-7564-4ddc-8174-5a7f7664af5a",
+              "itemBody": "B. Coupon frequency and current yield",
+              "position": 2
+            },
+            {
+              "id": "1b87e7d0-5447-41a0-925e-02f69a08b40e",
+              "itemBody": "C. Time to maturity and contingency provision",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": "51146"
+    },
+    {
+      "id": "51148",
+      "entry": {
+        "title": "CFA2431-R-s03-Q7",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Secured corporate bonds rely on the operating cash flows of the firm as their primary source for interest and principal payments and a legal claim on assets as a secondary source of payment.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is incorrect because asset-backed securities (ABS) are issued by special-purpose entities created to take ownership in loans or receivables, the cash flows from which are used to pay interest and principal to investors.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is incorrect because it describes <em>unsecured</em>, not secured, corporate debt.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements <em>best</em> describes the source(s) of repayment for the Antelas AG floating-rate notes?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "96a387e7-272c-4633-8e08-18343c2e4585"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3df506ee-5b52-4be0-8ecf-796a31f7c34f",
+              "itemBody": "<p>A. Since the notes are secured (or backed) by Antelas AG’s assets, the floating-rate notes would be considered asset-backed securities.</p>",
+              "position": 1
+            },
+            {
+              "id": "c60139af-7ca0-4b3b-8831-b20b2a5aae3a",
+              "itemBody": "<p>B. The Antelas AG notes rely on the operating cash flows of the firm as their <em>sole </em>source for interest and principal payments.</p>",
+              "position": 2
+            },
+            {
+              "id": "96a387e7-272c-4633-8e08-18343c2e4585",
+              "itemBody": "<p>C. The Antelas AG notes rely on the operating cash flows of the firm as their <em>primary </em>source for interest and principal payments.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": "51146"
+    },
+    {
+      "id": "51149",
+      "entry": {
+        "title": "CFA2431-R-s03-Q8",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. For the Antelas AG FRN, the spread is fixed at 250 bps and the coupon will only change with changes in the MRR.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Antelas AG’s issuer-specific credit spread rises by 25 bps p.a. one year after the FRN issuance. Which of the following <em>best</em> describes how Antelas AG’s FRN coupon would change as a result?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a8f9c03c-7833-4890-8117-d6b526eeac96"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5ce1ed0f-324e-4792-b16f-6827e45f5df5",
+              "itemBody": "A. Antelas AG’s FRN coupon payment to investors will immediately increase by 25 bps p.a.",
+              "position": 1
+            },
+            {
+              "id": "3d3961f8-e4d9-4bb0-bfb9-0a3ff21c4d88",
+              "itemBody": "B. Antelas AG’s FRN coupon payment to investors will increase by 25 bps p.a. but will not become effective until the next full debt coupon period begins.",
+              "position": 2
+            },
+            {
+              "id": "a8f9c03c-7833-4890-8117-d6b526eeac96",
+              "itemBody": "C. Antelas AG’s FRN coupon will remain unchanged.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": "51146"
+    },
+    {
+      "id": "51150",
+      "entry": {
+        "title": "CFA2431-R-s03-Q9",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. On the maturity date, Antelas AG pays investors the final FRN coupon payment plus the bond’s principal amount. The FRN coupon comprises MRR plus the issuer-specific spread.</p>\n               <ul id=\"CFA2431-R-s03-L2\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n                  <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                     <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                        <strong>FRN coupon rate:</strong> MRR plus spread, or 0.25% + 2.50%= 2.75%</p>\n                  </li>\n                  <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                     <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                        <strong>Annual interest expense:</strong> Principal × FRN coupon, or €EUR250,000,000 × 2.75% = EUR6,875,000</p>\n                  </li>\n                  <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                     <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                        <strong>Quarterly interest expense:</strong> Annual interest expense/4, or EUR6,875,000/4 = EUR1,718,750</p>\n                  </li>\n                  <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                     <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                        <strong>Principal Amount:</strong> EUR250,000,000</p>\n                  </li>\n                  <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                     <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                        <strong>Total Payment</strong> = EUR250,000,000 + EUR1,718,750 = 251,718,750</p>\n                  </li>\n               </ul>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Calculate the value of Antelas’s payment to bondholders on the maturity date if the MRR is 0.25% p.a. for the final interest period.</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "453a2b9a-e647-4612-917c-e544ba5230f7"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "125ae533-00f7-4c8a-8481-c4963c94aa2e",
+              "itemBody": "A. EUR1,718,750",
+              "position": 1
+            },
+            {
+              "id": "453a2b9a-e647-4612-917c-e544ba5230f7",
+              "itemBody": "B. EUR251,718,750",
+              "position": 2
+            },
+            {
+              "id": "f2df3713-33ab-4915-a358-a94712b31f8c",
+              "itemBody": "C. EUR256,875,000",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": "51146"
+    },
+    {
+      "id": "51151",
+      "entry": {
+        "title": "CFA2431-R-s03-Q10",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Antelas AG’s existing secured, unsubordinated debt has a pari passu (or “equal footing”) clause, which ensures that this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is incorrect because the priority of payments is unrelated to the timing of issuance.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is incorrect because the pari passu clause ensures equal footing for similar new debt.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Antelas decides to raise new secured, unsubordinated debt. Which of the following best describes the priority of payments between the issuer’s new debt and its existing debt?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5ac10417-12f9-48fa-9dae-ee97e513191c"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5ac10417-12f9-48fa-9dae-ee97e513191c",
+              "itemBody": "A. Because the Antelas AG notes have a pari passu (or “equal footing”) clause, this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.",
+              "position": 1
+            },
+            {
+              "id": "eb8374a5-ed9b-4a6c-90ce-1525aea6a8eb",
+              "itemBody": "B. Because the existing debt was issued earlier, it would receive priority over the new debt in terms of the payment of interest and principal.",
+              "position": 2
+            },
+            {
+              "id": "27edc0eb-d151-4b18-939c-f67e07aca970",
+              "itemBody": "C. We do not have enough information to answer this question; the necessary information would be provided in the indenture for new secured, unsubordinated notes.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8233,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": "51146"
+    },
+    {
+      "id": "53805",
+      "entry": {
+        "title": "ITEM_20170607030",
+        "feedback": {},
+        "itemBody": "<p>An analyst reviews a corporate bond indenture that contains these two covenants:</p><ol>\n<li><p>The borrower will pay interest semiannually and principal at maturity.</p></li>\n<li><p>The borrower will not incur additional debt if its debt-to-capital ratio is more than 50%.</p></li>\n</ol><p>What types of covenants are these?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3da1b8f8-eae9-49ec-8a44-d03657c44d2f"
+        },
+        "answerFeedback": {
+          "137c66d0-2f9a-4b1b-9734-40b107c1c865": "<p>Incorrect because Covenant 1 is affirmative, and Covenant 2 is negative.</p>",
+          "3da1b8f8-eae9-49ec-8a44-d03657c44d2f": "<p>Correct because paying interest and principal is one of the most common affirmative covenants.&nbsp;Negative covenants set forth certain limitations and restrictions on the borrower’s activities.&nbsp;Affirmative covenants specify what issuers are required to do, whereas negative covenants specify what issuers are prohibited from doing. Affirmative covenants are typically administrative in nature. For example, common affirmative covenants include the use of proceeds from the bond issue, the provision of timely financial reports, and permitting bondholders to redeem their bonds at a premium to par if the issuer is acquired.</p>",
+          "93ae4c7e-0ae1-45b6-ae30-08c738e08afe": "<p>Incorrect because Covenant 1 is affirmative, and Covenant 2 is negative.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "93ae4c7e-0ae1-45b6-ae30-08c738e08afe",
+              "itemBody": "<p>A. Both are affirmative covenants.</p>",
+              "position": 1
+            },
+            {
+              "id": "3da1b8f8-eae9-49ec-8a44-d03657c44d2f",
+              "itemBody": "<p>B. Covenant 1 is affirmative, and Covenant 2 is negative.</p>",
+              "position": 2
+            },
+            {
+              "id": "137c66d0-2f9a-4b1b-9734-40b107c1c865",
+              "itemBody": "<p>C. Covenant 1 is negative, and Covenant 2 is affirmative.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8650,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53806",
+      "entry": {
+        "title": "ITEM_20170607089",
+        "feedback": {},
+        "itemBody": "<p>David Smith purchased a mortgage-backed security with a coupon rate of 8% and a par value of $1,000 for $960. Coupon payments are made monthly. The monthly interest payment is <i>closest to</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1a125eaf-6109-41eb-b491-d5254bc92427"
+        },
+        "answerFeedback": {
+          "1a125eaf-6109-41eb-b491-d5254bc92427": "<p>Correct because the annual coupon is 8% × $1,000 = $80. The coupon payments are made monthly, and therefore $80/12 = $6.67 is paid twelve times a year.</p>",
+          "6a930edf-f1c5-4c42-9bf0-66f7ba4254cf": "<p>Incorrect because $6.94 is based on the following calculation: 8%/960 × 1,000 × 100/12 = $6.94.</p>",
+          "72bc6ea0-22e8-48d3-9b52-faf5d9923c60": "<p>Incorrect because $6.40 is the monthly payment derived using the purchase price instead of par value: 8% × $960/12 = $6.40.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "72bc6ea0-22e8-48d3-9b52-faf5d9923c60",
+              "itemBody": "<p>A. $6.40.</p>",
+              "position": 1
+            },
+            {
+              "id": "1a125eaf-6109-41eb-b491-d5254bc92427",
+              "itemBody": "<p>B. $6.67.</p>",
+              "position": 2
+            },
+            {
+              "id": "6a930edf-f1c5-4c42-9bf0-66f7ba4254cf",
+              "itemBody": "<p>C. $6.94.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8650,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53807",
+      "entry": {
+        "title": "ITEM_20170607108",
+        "feedback": {},
+        "itemBody": "<p>Which type of fixed-income security is <i>most likely</i> to have coupon payments that reset periodically?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0182161e-6135-4b76-ab47-58254c554fb4"
+        },
+        "answerFeedback": {
+          "0182161e-6135-4b76-ab47-58254c554fb4": "<p><strong>Correct.</strong> A floating-rate bond does not have a fixed coupon rate over its life. Instead, its coupon payments reset periodically according to some reference rate.</p>",
+          "dd153662-eab4-4f12-b715-4123cb7110bb": "<p>Incorrect because a convertible bond gives the bondholder the right to convert the bond into a specified number of shares of the issuer’s common shares.</p>",
+          "df33084f-5108-4c8e-bc56-75d8687e1d51": "<p>Incorrect because a callable bond gives issuers the ability to retire debt prior to maturity. It does not have a feature of resetting coupon payments periodically according to the reference rate.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "df33084f-5108-4c8e-bc56-75d8687e1d51",
+              "itemBody": "<p>A. Callable bonds</p>",
+              "position": 1
+            },
+            {
+              "id": "0182161e-6135-4b76-ab47-58254c554fb4",
+              "itemBody": "<p>B. Floating-rate notes</p>",
+              "position": 2
+            },
+            {
+              "id": "dd153662-eab4-4f12-b715-4123cb7110bb",
+              "itemBody": "<p>C. Convertible bonds</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8650,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4463,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-47-1",
+      "entry": {
+        "title": "2027-Mod47-Q1",
+        "itemBody": "<p>A non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If \nthe YTM were to increase instantaneously by 80 bps, the price of the bond would \ndecrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price \nof the bond would increase by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The absolute amount of the price increase would be more than the \nabsolute amount of the price decrease for the same absolute change in YTM \nbecause of the convex relationship between bond price and yield. \nA is incorrect because of the positive convex relationship between bond price and \nyield. For a given level of yield change, the price rise for that given amount of yield \ndecrease will be larger than the price decline for that amount of yield increase. \nB is incorrect because the relationship between bond price and yield is not linear.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f224d4a0-9858-4e55-a12d-a1834148256f",
+              "itemBody": "<p>A. less than 11%.</p>",
+              "position": 1
+            },
+            {
+              "id": "3ebdce8a-4527-4ddc-bf60-e9c2712c129b",
+              "itemBody": "<p>B. exactly 11%.</p>",
+              "position": 2
+            },
+            {
+              "id": "436a4048-de08-4a37-8de7-00be4587c330",
+              "itemBody": "<p>C. more than 11%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "436a4048-de08-4a37-8de7-00be4587c330"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-2",
+      "entry": {
+        "title": "2027-Mod47-Q2",
+        "itemBody": "<p>Exceptions to the maturity effect exist for bonds that have:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Exceptions to the maturity effect are rare and occur only for low-\ncoupon (but not zero-coupon) long-term bonds trading at a discount. \nB is incorrect because the maturity effect holds for bonds that have short \nmaturities and high coupons. \nC is incorrect because the maturity effect always holds on bonds priced at a \npremium above par value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7ec083f7-12af-4631-ab96-70949033d69b",
+              "itemBody": "<p>A. long maturities, make small coupon payments, and trade at a discount.</p>",
+              "position": 1
+            },
+            {
+              "id": "45fc3b71-b4d7-4fb4-a163-68afbbad034b",
+              "itemBody": "<p>B. short maturities, have high coupon rates, and trade at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "4a9c6e73-c6fa-454f-91d9-b31248931f40",
+              "itemBody": "<p>C. long maturities, have high coupon rates, and trade at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7ec083f7-12af-4631-ab96-70949033d69b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-3",
+      "entry": {
+        "title": "2027-Mod47-Q3",
+        "itemBody": "<p>With a constant market discount rate, as a non-callable, fixed-coupon bond \napproaches maturity:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Any bond trading at a discount will increase in price because of the \npull-to-par effect. \nA is incorrect because the price–yield relationship generally becomes less convex as \na bond approaches maturity. \nC is incorrect because a high-coupon bond trading at a premium will decrease in \nprice as it approaches maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "08323c36-0c90-4041-865d-393e622d5f16",
+              "itemBody": "<p>A. the price–yield relationship will become more convex.</p>",
+              "position": 1
+            },
+            {
+              "id": "4ef45d7b-987f-498f-8a83-83d7f2194e09",
+              "itemBody": "<p>B. a low-coupon bond trading at a discount will increase in price.</p>",
+              "position": 2
+            },
+            {
+              "id": "d06e5a87-4999-46b6-a166-24d0d212ea08",
+              "itemBody": "<p>C. a high-coupon bond trading at a premium will increase in price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4ef45d7b-987f-498f-8a83-83d7f2194e09"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-4",
+      "entry": {
+        "title": "2027-Mod47-Q4",
+        "itemBody": "<p>A fixed-income analyst is pricing a bond using the following equation. \n𝑃𝑉 = 3\n(1 + 0.0275)1 + 3\n(1 + 0.0275)2 + ⋯ + 103\n(1 + 0.0275)40 \n \nThe bond’s price, relative to par, is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The bond’s periodic coupon rate exceeds the periodic market discount \nrate, or its coupon rate is “excessive” relative to the market. Therefore, the bond \nwill trade at a premium to par. \nB is incorrect. For the bond to trade at par, the coupon rate and market discount \nrate (yield-to-maturity) must be equal. \nC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have \nto be higher than the coupon rate. \n  \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 6 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8221b6ee-c794-4fe6-ab27-3cdc781872e0",
+              "itemBody": "<p>A. greater than 100.</p>",
+              "position": 1
+            },
+            {
+              "id": "6985ed25-8525-4836-b479-d1fa3a384639",
+              "itemBody": "<p>B. exactly 100.</p>",
+              "position": 2
+            },
+            {
+              "id": "4b8f9b7e-acfe-44a2-a9e4-d21d9f16255e",
+              "itemBody": "<p>C. less than 100.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8221b6ee-c794-4fe6-ab27-3cdc781872e0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-5",
+      "entry": {
+        "title": "2027-Mod47-Q5",
+        "itemBody": "<p>A four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading \nat a price of 102.581. The bond’s annualized yield-to-maturity is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Two approaches to calculating the yield-to-maturity are calculating an \nIRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic \nIRR is annualized by multiplying by two. \nPeriod Cash Flow YIELD Function   \n0 –102.581 Settlement date 01-01-2000 \n1 1 Maturity date 01-01-2004 \n2 1 Coupon 0.02 \n3 1 Price 102.581 \n4 1 Redemption 100 \n5 1 Coupon frequency 2 \n6 1 Yield 1.34% \n7 1    \n8  101    \nPeriodic IRR 0.67%    \nAnnualized IRR 1.34%    \n \nA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity. \nC is incorrect. Note that this choice can be eliminated because the bond is trading at \na premium; thus, its yield-to-maturity is lower than its coupon rate of 2.0%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "35684c14-c5d4-4c1b-9a34-497eaf6a0de3",
+              "itemBody": "<p>A. 0.67%.</p>",
+              "position": 1
+            },
+            {
+              "id": "58f50edf-418a-4830-a624-9b0c286dc787",
+              "itemBody": "<p>B. 1.34%.</p>",
+              "position": 2
+            },
+            {
+              "id": "cf32e793-6123-432c-8ba9-b7338ee44344",
+              "itemBody": "<p>C. 2.22%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "58f50edf-418a-4830-a624-9b0c286dc787"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-6",
+      "entry": {
+        "title": "2027-Mod47-Q6",
+        "itemBody": "<p>Consider two bonds that are identical except for their coupon rates. The bond that \nwill have the highest interest rate risk most likely has the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A lower coupon rate means that more of the bond’s value comes from \nrepayment of face value, which occurs at the end of the bond’s life.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "31d0ab4e-dac2-4b1e-bc2f-33f47f317f34",
+              "itemBody": "<p>A. lowest coupon rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "d898c716-87d8-4f6e-b59c-ed7cb7bc0483",
+              "itemBody": "<p>B. coupon rate closest to its market yield.</p>",
+              "position": 2
+            },
+            {
+              "id": "d856bb67-1986-4aed-9708-4853412849c5",
+              "itemBody": "<p>C. C. highest coupon rate.\nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "31d0ab4e-dac2-4b1e-bc2f-33f47f317f34"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-7",
+      "entry": {
+        "title": "2027-Mod47-Q7",
+        "itemBody": "<p>The market value of an 18-year zero-coupon bond with a maturity value of $1,000 \ndiscounted at a 12% annual interest rate with semi-annual compounding is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The value of a zero-coupon bond is \nFace value\n(1 + 𝑟)𝑁  \n \nwhere r is the market discount rate per period, and N is the number of evenly spaced \nperiods to maturity. The value of the zero-coupon bond is \n1,000\n(1 + 0.12/2)18×2 = 122.7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2ac64f6f-c60f-412f-9083-cf67564bb03a",
+              "itemBody": "<p>A. $122.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "d27e769f-afbb-49ae-ae31-d68a92b6525f",
+              "itemBody": "<p>B. $130.04.</p>",
+              "position": 2
+            },
+            {
+              "id": "12733efe-34c1-4cdd-9d08-6c8599ccce83",
+              "itemBody": "<p>C. $192.86.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2ac64f6f-c60f-412f-9083-cf67564bb03a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-8",
+      "entry": {
+        "title": "2027-Mod47-Q8",
+        "itemBody": "<p>An investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% \nand mature in 10 years, at an annual yield to maturity of 12%. The bonds will most \nlikely be selling at:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The coupon rate on the bonds is lower than the yield to maturity, \nimplying that the bonds should be selling at a price lower than their par value —that \nis, at a discount.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ce3192de-c600-47e4-9dc8-69fa64d3e322",
+              "itemBody": "<p>A. par.</p>",
+              "position": 1
+            },
+            {
+              "id": "85054949-9c6d-45c9-bb52-24069c13ebcd",
+              "itemBody": "<p>B. a premium.</p>",
+              "position": 2
+            },
+            {
+              "id": "2746dbaf-fcc7-42f0-8894-acc2ede8c83e",
+              "itemBody": "<p>C. a discount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2746dbaf-fcc7-42f0-8894-acc2ede8c83e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-9",
+      "entry": {
+        "title": "2027-Mod47-Q9",
+        "itemBody": "<p>An investor sells a bond at the quoted price of $98.00. In addition, she receives \naccrued interest of $4.40. The flat price of the bond is equal to the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The agreed-on bond price excluding accrued interest is referred to as \nthe flat price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7834fcaf-e77a-498f-b4aa-a04361641f7a",
+              "itemBody": "<p>A. par value plus accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "b651cd86-ea69-44fa-9aa4-e2f990ffe223",
+              "itemBody": "<p>B. accrued interest plus the agreed-on bond price.</p>",
+              "position": 2
+            },
+            {
+              "id": "984d46d3-a78c-4105-bdb2-fdf0a88d9fb2",
+              "itemBody": "<p>C. agreed-on bond price excluding accrued interest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "984d46d3-a78c-4105-bdb2-fdf0a88d9fb2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-10",
+      "entry": {
+        "title": "2027-Mod47-Q10",
+        "itemBody": "<p>A credit analyst is least likely to use matrix pricing to estimate the required yield \nand price of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Matrix pricing is most suited to pricing inactively traded bonds and newly \nunderwritten bonds. A credit analyst is least likely to use matrix pricing to price an \nactively traded bond. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5880b90b-6e22-43dd-adbb-7a8cf7fb9420",
+              "itemBody": "<p>A. newly underwritten bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "c284713d-77fe-4869-9739-9e5e0878d1fe",
+              "itemBody": "<p>B. actively traded speculative grade bond.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7ad0f9b-ebfc-402f-a381-c69b9b2cec97",
+              "itemBody": "<p>C. inactively traded investment grade bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c284713d-77fe-4869-9739-9e5e0878d1fe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-11",
+      "entry": {
+        "title": "2027-Mod47-Q11",
+        "itemBody": "<p>The maturity effect is least likely to hold for a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In some situations, the maturity effect may not hold for a low -coupon \nbond that is trading below par.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "435cd76d-f765-4e6d-9579-bcbc6ee0a352",
+              "itemBody": "<p>A. zero-coupon bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "5236ce1c-7745-4d59-bad1-9e2e004abc5a",
+              "itemBody": "<p>B. low-coupon, long-term bond trading at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "82be0d22-017d-4e8a-97c6-efd7db2fb556",
+              "itemBody": "<p>C. low-coupon, long-term bond trading at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5236ce1c-7745-4d59-bad1-9e2e004abc5a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-12",
+      "entry": {
+        "title": "2027-Mod47-Q12",
+        "itemBody": "<p>Bonds are quoted using the</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6159af32-0e2b-4932-bd5c-fd29103f0cb1",
+              "itemBody": "<p>A. full price and settled using the flat price.</p>",
+              "position": 1
+            },
+            {
+              "id": "d30e99d2-018e-4913-9d10-3aeb7841fea5",
+              "itemBody": "<p>B. flat price and settled using the full price.</p>",
+              "position": 2
+            },
+            {
+              "id": "6d6b9ecd-1adf-4d79-ad55-1cd9c6a0e74c",
+              "itemBody": "<p>C. \"dirty\" price and settled using the invoice price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d30e99d2-018e-4913-9d10-3aeb7841fea5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-13",
+      "entry": {
+        "title": "2027-Mod47-Q13",
+        "itemBody": "<p>Which of the following does not depend on the market discount rate? A bond's:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the accrued interest part of the full price does not depend on \nthe yield-to-maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0130d27d-fe5c-4c94-bc17-01f15d85a005",
+              "itemBody": "<p>A. flat price</p>",
+              "position": 1
+            },
+            {
+              "id": "93ed0862-92be-4731-8fb5-1ee82d52e33b",
+              "itemBody": "<p>B. full price</p>",
+              "position": 2
+            },
+            {
+              "id": "b992340f-4e91-49b2-af1f-8ffe0710ee5a",
+              "itemBody": "<p>C. accrued interest</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b992340f-4e91-49b2-af1f-8ffe0710ee5a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-14",
+      "entry": {
+        "title": "2027-Mod47-Q14",
+        "itemBody": "<p>All else being equal, the absolute value of the percentage price change for an \noption-free bond is most likely: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 3 of 8</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect). \n \n15. correct because the value of a bond is calculated as: \nPV = [PMT ÷ (1+r)^1] + [PMT ÷(1+r)^2] +...+ [(PMT + FV) ÷(1+r)^N) \nwhere: \nPV = present value, or the price of the bond  \nPMT = coupon payment per period  \nFV = future value paid at maturity, or the par value of the bond  \nr = market discount rate, or required rate of return per period  \nN = number of evenly spaced periods to maturity \nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = \n$108, Solve for I, is equal to 1.114% semi -annually, or 2.228% on an annual basis. If \nthe yield to maturity decreases by 100 bps, the price of the bond after one year is  \ncomputed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve \nPV, is equal to $107.43. \nTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7974c5f8-4b77-4f7a-ac16-8c2e19609e72",
+              "itemBody": "<p>A. less when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 1
+            },
+            {
+              "id": "e4db5caa-8dd8-4c6c-905c-4d0a198ca92c",
+              "itemBody": "<p>B. the same whether the market discount rate decreases or increases by the same \namount.</p>",
+              "position": 2
+            },
+            {
+              "id": "fe23be13-0369-4135-8571-cecf3178abcc",
+              "itemBody": "<p>C. greater when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fe23be13-0369-4135-8571-cecf3178abcc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-15",
+      "entry": {
+        "title": "2027-Mod47-Q15",
+        "itemBody": "<p>A bond has the following characteristics: \nTime to maturity 3 years \nCoupon rate 12% \nPayment period Semiannual \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value \nis closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because \n𝑃𝑉 = 6\n(1 + 0.02)1 + 6\n(1 + 0.02)2 + 6\n(1 + 0.02)3 + 6\n(1 + 0.02)4 + 6\n(1 + 0.02)5 + 6 + 100\n(1 + 0.02)6 \n= 122.4057 ≈ 122.41</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ee95b9a4-fb71-4c93-96b2-ad50c0261e4d",
+              "itemBody": "<p>A. 122.20.</p>",
+              "position": 1
+            },
+            {
+              "id": "800566ff-789a-47d8-b64b-3f6967b40183",
+              "itemBody": "<p>B. 122.41.</p>",
+              "position": 2
+            },
+            {
+              "id": "b45ebf0a-d540-4425-adf3-5319ff180792",
+              "itemBody": "<p>C. 122.53.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "800566ff-789a-47d8-b64b-3f6967b40183"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-16",
+      "entry": {
+        "title": "2027-Mod47-Q16",
+        "itemBody": "<p>An analyst gathers the following information about a bond that pays interest \nannually: \nCoupon rate 4% \nTime-to-maturity 3 years \nPar value $100,000 \n \nIf the market discount rate is 5%, the market value of this bond is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the price of the bond is the present value of the promised cash \nflows and is calculated as follows: \nPrice of bond = 4,000/(1 +5%)^1 + 4,000/(1+5%)^2 + 104,000/(1+5%)^3 = 3,809.5238 \n+ 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, \nI = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. \n \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "30fda7a5-fb75-4b52-8a49-64af6bc35a56",
+              "itemBody": "<p>A. $89,839.</p>",
+              "position": 1
+            },
+            {
+              "id": "c02ea60f-7f3a-40f9-8dc5-1bcf21f3bbbb",
+              "itemBody": "<p>B. $97,277.</p>",
+              "position": 2
+            },
+            {
+              "id": "285357c7-4b62-44f8-b2bb-c21bffd2b582",
+              "itemBody": "<p>C. $102,775.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c02ea60f-7f3a-40f9-8dc5-1bcf21f3bbbb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-17",
+      "entry": {
+        "title": "2027-Mod47-Q17",
+        "itemBody": "<p>An analyst gathers the following information: \n  Time to Maturity Yield to Maturity \nBond 1 Three years 3.4% \nBond 2 Eight years 5.4% \n \nBased only on this information, the estimated market discount rate for a 5-year \nbond with similar credit quality is: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 4 of 8</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quote d or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times -to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "89c90844-daae-4a8f-929d-acbe505c202b",
+              "itemBody": "<p>A. 4.2%.</p>",
+              "position": 1
+            },
+            {
+              "id": "7561057c-fcd6-48e5-ae8e-4b518f38b6f5",
+              "itemBody": "<p>B. 4.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "ce0a0ad2-9406-47c7-ac84-06c3386c997a",
+              "itemBody": "<p>C. 4.6%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "89c90844-daae-4a8f-929d-acbe505c202b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-18",
+      "entry": {
+        "title": "2027-Mod47-Q18",
+        "itemBody": "<p>Matrix pricing is most likely used to estimate the price of a bond that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times -to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "059d33a1-ca77-44cc-9c5a-144d1c146aaf",
+              "itemBody": "<p>A. is highly liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "af0cbb88-9275-43c6-801c-f964f918e09f",
+              "itemBody": "<p>B. is not yet issued.</p>",
+              "position": 2
+            },
+            {
+              "id": "cc60d91c-0522-4d85-af06-be2a197a5ab4",
+              "itemBody": "<p>C. has unknown credit quality.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "af0cbb88-9275-43c6-801c-f964f918e09f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-19",
+      "entry": {
+        "title": "2027-Mod47-Q19",
+        "itemBody": "<p>The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7fa0703b-f9c0-4c78-a068-4592c8ada0c9",
+              "itemBody": "<p>A. less than 100 basis points.</p>",
+              "position": 1
+            },
+            {
+              "id": "78bfd1fc-1545-4638-b0e6-b65f14564053",
+              "itemBody": "<p>B. 100 basis points.</p>",
+              "position": 2
+            },
+            {
+              "id": "0b6d8f84-2af5-4256-bbe2-3a592a37fcfc",
+              "itemBody": "<p>C. more than 100 basis points.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0b6d8f84-2af5-4256-bbe2-3a592a37fcfc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-20",
+      "entry": {
+        "title": "2027-Mod47-Q20",
+        "itemBody": "<p>An analyst gathers the following information about three option-free bonds: \n Bond 1 Bond 2 Bond 3 \nCoupon rate 5% 3% 3% \nMaturity (years) 15 10 15 \n \nAll else being equal, if the market discount rate decreases by 50 basis points, the \nbond most likely to experience the greatest percentage price change is:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same time -to-maturity, a lower -coupon bond has a \ngreater percentage price change than a higher -coupon bond when their market \ndiscount rates change by the same amount (the coupon effect). Bond 3 has the same \ntime-to-maturity as Bond 1 but a  lower coupon, thus Bond 3 would experience a \ngreater percentage price change compared to Bond 1. Also, generally, for the same \ncoupon rate, a longer -term bond has a greater percentage price change than a \nshorter-term bond when their market discount rates change by the same amount (the \nmaturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, \nthus Bond 3 would experience a greater percentage price change compared to Bond \n2.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e04f289-320c-452e-a52b-2fef8dac8569",
+              "itemBody": "<p>A. Bond 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "9401c270-27df-43bf-a53d-eb44d7258e4d",
+              "itemBody": "<p>B. Bond 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "41157c32-f0bd-4168-8d5d-0dd70863984b",
+              "itemBody": "<p>C. Bond 3.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "41157c32-f0bd-4168-8d5d-0dd70863984b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-21",
+      "entry": {
+        "title": "2027-Mod47-Q21",
+        "itemBody": "<p>The flat price of a bond:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because it is the flat price that is 'pulled to par' along the constant-yield \nprice trajectory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e6f6b183-fdc2-4931-820d-9c6ad574072d",
+              "itemBody": "<p>A. is also referred to as the \"dirty\" price.</p>",
+              "position": 1
+            },
+            {
+              "id": "b2c2e695-d3e6-4895-90b8-780098dce6d3",
+              "itemBody": "<p>B. is \"pulled to par\" along the constant-yield price trajectory.</p>",
+              "position": 2
+            },
+            {
+              "id": "7270587e-e2f9-48be-b072-e9f45f7349fd",
+              "itemBody": "<p>C. includes interest which is received by the seller on the settlement date.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b2c2e695-d3e6-4895-90b8-780098dce6d3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-47-22",
+      "entry": {
+        "title": "2027-Mod47-Q22",
+        "itemBody": "<p>A bond is traded in between its coupon payment dates. Which of the following is true?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The flat price, quoted by bond dealers, is the full price less accrued \ninterest. Accrued interest is not included in the flat price. \nA is incorrect. The buyer must pay the full price, which already includes accrued \ninterest. \nB is incorrect. The flat price is the quoted price. \nYield and Yield Spread Measures for Fixed-Rate Bonds \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose.  \n \n1. A bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, \nand is currently trading at 97.28. The semi-annual bond basis yield is closest to: \nA. 1.055%. \nB. 2.121%. \nC. 4.242%. \n \n2. An analyst is analyzing  a three -year, 2.25% annual coupon bond issued by QWE  \nCompany. Currently, the bond’s yield -to-maturity is 2.707%. The three -year swap  \nrate is 1.840%. The government spot rates are presented in the table. \nMaturity Government Spot Rate \n1Y 0.90% \n2Y 1.26% \n3Y 1.90% \n \nThe G-Spread (in basis points) for the QWE bond is closest to: \nA. 80. \nB. 87. \nC. 135. \n \n3. The I-spread (in basis points) for the QWE bond is closest to: \nA. 46. \nB. 80. \nC. 87. \n \n4. If the price of the QWE bond is 98.70% of par, its Z -spread (in basis points) is  \nclosest to: \nA. 80. \nB. 82. \nC. 87. \n \n5. Consider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. \nIf the bond currently sells for $96.47, the yield to maturity is closest to: \nA. 8.37%. \nB. 8.29%. \nC. 7.41%. \n \n6. Stellar Corp. recently issued $100 par value deferred coupon bonds, which will make \nno coupon payments in the next four years. Regular annual coupon payments at a rate \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 2 of 6 \n \nof 8% will then be made until the bonds mature at the end of 10 years. If the bonds \nare currently priced at $87.00, their yield to maturity is closest to: \nA. 6.0%. \nB. 8.0%. \nC. 10.1%. \n \n7. For a coupon bond with a negative yield, compounding more frequently within the \nyear results in a yield-to-maturity that is: \nA. more negative. \nB. the same. \nC. less negative.  \n \n8. The yield spread over an interpolated sovereign bond is best described as a(n): \nA. I-spread. \nB. G-spread. \nC. Z-spread. \n \n9. An analyst gathers the following information about a callable bond that pays \ninterest annually: \nCurrent price 105 per 100 of par value \nTime-to-maturity 4 years \nCoupon rate 4% \nCall price at year 2 103 per 100 of par value \nCall price at year 3 101 per 100 of par value \n \nThis bond's yield to worst is the: \nA. yield to maturity. \nB. yield to first call. \nC. yield to second call. \n \n10. The stated annual yield to maturity on a semiannual bond basis is 3.66%. The \neffective annual yield is closest to: \nA. 3.63%. \nB. 3.69%. \nC. 7.45%. \n \n11. A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted \nto a quarterly periodicity, the APR is closest to: \nA. 1.98%. \nB. 3.92%. \nC. 7.92%. \n12. The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the: \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 3 of 6 \n \nA. I-spread. \nB. Z-spread. \nC. option-adjusted spread. \n \n13. The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of \n$100 and currently priced at $85.70 is closest to: \nA. 4.50%. \nB. 5.25%. \nC. 5.93%. \n \n14. The factor least likely to influence the yield spread on an option -free, fixed-rate \nbond is a change in the: \nA. credit risk of the issuer. \nB. expected inflation rate. \nC. liquidity of the bond. \n \n  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 4 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "00ea7f22-6343-4849-b0b8-25ec9927b107",
+              "itemBody": "<p>A. The buyer must pay the full price plus the accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "d24e941b-3a5e-4936-8469-974b6ce5521c",
+              "itemBody": "<p>B. The bond’s quoted price is greater than its flat price.</p>",
+              "position": 2
+            },
+            {
+              "id": "d1a59465-4411-4720-b258-9c4d231702fb",
+              "itemBody": "<p>C. Accrued interest is not included in the flat price. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d1a59465-4411-4720-b258-9c4d231702fb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}

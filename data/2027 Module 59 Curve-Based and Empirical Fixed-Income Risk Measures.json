@@ -1,0 +1,2928 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6386,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 54,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 13: Curve-Based and Empirical Fixed-Income Risk Measures",
+    "topic_id": 1036,
+    "topic": "CFA-26-02-LI-C: Fixed Income",
+    "subtopic_id": 6386,
+    "subtopic": "Module 13: Curve-Based and Empirical Fixed-Income Risk Measures",
+    "question_count": 54,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 852,
+        "name": "Warehouse Course: Fixed Income 26-LI",
+        "code": "Warehouse Course: Fixed Income 26-LI",
+        "module_id": 4475,
+        "question_count": 16,
+        "type": "warehouse"
+      },
+      {
+        "id": 843,
+        "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "module_id": 4692,
+        "question_count": 17,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 54.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "d1a938a45a332c0a",
+    "ordered_item_ids": [
+      "55114",
+      "55115",
+      "55116",
+      "55117",
+      "55118",
+      "55119",
+      "55120",
+      "55121",
+      "55122",
+      "55123",
+      "55124",
+      "55125",
+      "55126",
+      "55127",
+      "55128",
+      "55129",
+      "55130",
+      "51198",
+      "51199",
+      "51200",
+      "51201",
+      "51202",
+      "51203",
+      "51204",
+      "51205",
+      "51206",
+      "53829",
+      "53830",
+      "53831",
+      "53832",
+      "53833",
+      "53834",
+      "53835",
+      "53836"
+    ],
+    "visible_item_ids": [
+      "55114",
+      "55115",
+      "55116",
+      "55117",
+      "55118",
+      "55119",
+      "55120",
+      "55121",
+      "55122",
+      "55123",
+      "55124",
+      "55125",
+      "55126",
+      "55127",
+      "55128",
+      "55129",
+      "55130",
+      "51198",
+      "51199",
+      "51200",
+      "51201",
+      "51202",
+      "51203",
+      "51204",
+      "51205",
+      "51206",
+      "53829",
+      "53830",
+      "53831",
+      "53832",
+      "53833",
+      "53834",
+      "53835",
+      "53836"
+    ]
+  },
+  "items": [
+    {
+      "id": "55114",
+      "entry": {
+        "title": "ITEM_2019B-FI-07AXT",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a bond currently trading at par:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Change in Benchmark Curve</strong></th>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Price per 100 of Par Value</strong></th>\n</tr>\n<tr>\n<td style=\"text-align: center;\">+25 bps</td>\n<td style=\"text-align: center;\">98</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">−25 bps</td>\n<td style=\"text-align: center;\">103</td>\n</tr>\n</tbody>\n</table>\n<p>The effective duration of this bond is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5d41b0a3-d3f1-43d9-88da-ba07c3be879f"
+        },
+        "answerFeedback": {
+          "3f7e5ad5-b91c-40e8-a0b0-8e511b9a093b": "<p>Incorrect because it omits the basis point change × 100 from the calculation.<br>Effective duration ≠ (PV<sub>-</sub> – PV<sub>+</sub>)/2 = (103 – 98)/2 = 2.5.&nbsp;</p>",
+          "449bc062-9cef-4c2d-8ba6-b788a43ae0db": "<p>Incorrect because it is the difference in the prices (103 – 98 = 5).&nbsp;</p>",
+          "5d41b0a3-d3f1-43d9-88da-ba07c3be879f": "<p>Correct because the effective duration is calculated as (PV<sub>-</sub> – PV<sub>+</sub>)/(2 × ∆Curve × PV<sub>0</sub>), where: PV<sub>-</sub> = the bond price when the benchmark yield is decreased, PV<sub>+</sub> = the bond price when the benchmark yield is increased, and PV<sub>0</sub> = then current bond price.<br>Effective duration = (103 – 98)/(2 × 0.0025 × 100) = 10.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3f7e5ad5-b91c-40e8-a0b0-8e511b9a093b",
+              "itemBody": "<p>A. 2.5.</p>",
+              "position": 1
+            },
+            {
+              "id": "449bc062-9cef-4c2d-8ba6-b788a43ae0db",
+              "itemBody": "<p>B. 5.0.</p>",
+              "position": 2
+            },
+            {
+              "id": "5d41b0a3-d3f1-43d9-88da-ba07c3be879f",
+              "itemBody": "<p>C. 10.0.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55115",
+      "entry": {
+        "title": "ITEM_CFA-L1-05130",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Among three otherwise comparable bonds, the bond with the highest price is <i>most likely</i> to be:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "29bb2969-51fb-49a3-97c5-141d16bb8d0e"
+        },
+        "answerFeedback": {
+          "29bb2969-51fb-49a3-97c5-141d16bb8d0e": "<p>Correct because the price of a putable bond is always higher than that of an otherwise comparable non-putable bond. The price difference is the value of the embedded put option and the price of the non-callable bond is always greater than that of the callable bond with otherwise identical features.</p>",
+          "50913161-6a3c-4b4c-b68e-e4f949d8e2f3": "<p>Incorrect because the price of a putable bond is always higher than that of an otherwise comparable non-putable bond. The price difference is the value of the embedded put option.</p>",
+          "debb6b42-5640-4e68-9467-ac4f2217dee9": "<p>Incorrect because the price of the non-callable bond is always greater than that of the callable bond with otherwise identical features.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "29bb2969-51fb-49a3-97c5-141d16bb8d0e",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">putable.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "50913161-6a3c-4b4c-b68e-e4f949d8e2f3",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">callable.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "debb6b42-5640-4e68-9467-ac4f2217dee9",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">option-free.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55116",
+      "entry": {
+        "title": "ITEM_CFA-L1-03750",
+        "feedback": {},
+        "itemBody": "<p>With respect to a bond with an embedded option, for parallel shifts in the benchmark yield curve, effective duration <i>most likely</i> indicates the same interest rate sensitivity as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "78c283af-b56d-4c5c-bd5e-8a9555c9391a"
+        },
+        "answerFeedback": {
+          "78c283af-b56d-4c5c-bd5e-8a9555c9391a": "<p>Correct because for parallel shifts in the benchmark yield curve, key rate durations will indicate the same interest rate sensitivity as effective duration.</p>",
+          "9c2ef881-ced8-4829-a33c-e17b4230dd6b": "<p>Incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a <i>yield duration</i> statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity (ΔYield).&nbsp;Additionally, The calculation of the modified duration (ModDur) statistic of a bond requires a simple adjustment to Macaulay duration. It is the Macaulay duration statistic divided by one plus the yield per period.&nbsp;Thus, the Macaulay duration, as a mathematical derivative of modified duration, is also a measure of risk in terms of the change in a bond's own yield-to-maturity. This question refers to changes in the benchmark yield curve, not the bond's own yield-to-maturity; therefore, modified duration is an incorrect measure.</p>",
+          "c294b977-8ba3-4a1d-b764-fb08217156eb": "<p>Incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a &gt;<i>yield duration</i> statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity (ΔYield). This question refers to changes in the benchmark yield curve, not the bond's own yield to maturity; therefore, modified duration is an incorrect measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c294b977-8ba3-4a1d-b764-fb08217156eb",
+              "itemBody": "<p>A. modified duration.</p>",
+              "position": 1
+            },
+            {
+              "id": "78c283af-b56d-4c5c-bd5e-8a9555c9391a",
+              "itemBody": "<p>B. key rate durations.</p>",
+              "position": 2
+            },
+            {
+              "id": "9c2ef881-ced8-4829-a33c-e17b4230dd6b",
+              "itemBody": "<p>C. Macaulay duration.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55117",
+      "entry": {
+        "title": "ITEM_CFA-L1-03397",
+        "feedback": {},
+        "itemBody": "<p>All else being equal, when the market interest rate falls below a bond's coupon rate, potential price appreciation is <i>most</i> limited for a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ed60c6d1-0377-41b5-83e8-b06362c3278b"
+        },
+        "answerFeedback": {
+          "26a6f0e5-7b4e-4bec-be0a-922224974623": "<p>Incorrect because the presence of an embedded option reduces the sensitivity of the bond price to changes in the benchmark yield curve, assuming no change in credit risk. An option-free bond serves as the base case, whereas with a call, price appreciation is limited when market rates go below the coupon rate and with a put, price depreciation is limited when market rates go above the coupon rate.&nbsp;</p>",
+          "dd12c3b4-6f99-4778-be5f-05544f7d3785": "<p>Incorrect because if interest rates are low compared with the coupon rate, the value of the put option is low and the impact of a change in the benchmark yield on the putable bond's price is very similar to the impact on the price of a non-putable bond, e.g., not limited. Furthermore, a rational investor would not exercise the put option when the market interest rate is lower than the coupon rate of the bond.&nbsp;</p>",
+          "ed60c6d1-0377-41b5-83e8-b06362c3278b": "<p>Correct because when interest rates are low, the effective duration of the callable bond is lower than that of the otherwise comparable non-callable bond because the callable bond price does not increase as much when benchmark yields fall. The presence of the call option limits price appreciation especially when interest rates are falling and the bond is more likely to be called.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dd12c3b4-6f99-4778-be5f-05544f7d3785",
+              "itemBody": "<p>A. putable bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "ed60c6d1-0377-41b5-83e8-b06362c3278b",
+              "itemBody": "<p>B. callable bond.</p>",
+              "position": 2
+            },
+            {
+              "id": "26a6f0e5-7b4e-4bec-be0a-922224974623",
+              "itemBody": "<p>C. option-free bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55118",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Hu-01",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a bond which is currently trading at 95.35 per 100 par:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Benchmark Yield</strong></th>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Bond Price</strong></th>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3.50%</td>\n<td style=\"text-align: center;\">99.50</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">4.00%</td>\n<td style=\"text-align: center;\">95.35</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">4.50%</td>\n<td style=\"text-align: center;\">92.25</td>\n</tr>\n</tbody>\n</table>\n<p>The effective duration of the bond is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "43277f27-90c3-45b2-a064-e0468635fca6"
+        },
+        "answerFeedback": {
+          "1490a748-ef07-48fa-bcef-8e45ea3ccce3": "<p>Incorrect because the effective duration is incorrectly calculated as</p><p>EffDur = [(PV<sub>0</sub>) – (PV<sub>+</sub>)] / [(Δ Curve) × (PV<sub><span style=\"font-size:small\">0</span></sub>)] = (95.35 – 92.25) / (0.005 × 95.35) = 6.50.</p>",
+          "43277f27-90c3-45b2-a064-e0468635fca6": "<p>Correct because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve.</p><p>EffDur = [(PV<sub>–</sub><sub> </sub>) – (PV<sub>+</sub>)] / [2 × (ΔCurve) × (PV<sub>0</sub>)]</p><p>With PV<sub>0</sub> = 95.35, PV<sub>– </sub>= 99.50, PV<sub>+</sub>&nbsp;= 92.25,</p><p>EffDur<sub> </sub>= (99.50&nbsp;– 92.25) / (2 × 0.005 × 95.35) = 7.60.</p>",
+          "741adeaf-dbdc-401a-b7b4-1ddf078351b2": "<p>Incorrect because the effective duration is incorrectly calculated as</p><p>EffDur = [(PV<sub>–</sub><sub> </sub>) – (PV<sub>0</sub>)] / [(Δ Curve) × (PV<sub>0</sub>)] = (99.50 – 95.35) / (0.005 × 95.35) = 8.70.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1490a748-ef07-48fa-bcef-8e45ea3ccce3",
+              "itemBody": "<p>A. 6.5.</p>",
+              "position": 1
+            },
+            {
+              "id": "43277f27-90c3-45b2-a064-e0468635fca6",
+              "itemBody": "<p>B. 7.6.</p>",
+              "position": 2
+            },
+            {
+              "id": "741adeaf-dbdc-401a-b7b4-1ddf078351b2",
+              "itemBody": "<p>C. 8.7.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55119",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Roberts-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is a curve&nbsp;duration measure?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8ff68acb-4e7b-4e9e-bc46-be7df6adc674"
+        },
+        "answerFeedback": {
+          "34d3e3cb-d479-4261-970f-5ddd81bb68ff": "<p>Incorrect because Macaulay duration is a weighted average of the time to receipt of<br>the bond’s promised payments, where the weights are the shares of the full price that<br>correspond to each of the bond’s promised future payments.</p>",
+          "8ff68acb-4e7b-4e9e-bc46-be7df6adc674": "<p>Correct because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve.</p>",
+          "c6531016-8c7f-464d-964a-5b2ab02810a9": "<p>Incorrect because modified duration is&nbsp;a yield duration statistic. There are several types of bond duration. In general, these can be divided into yield duration and curve duration. Yield duration is the sensitivity of the bond price with respect to the bond’s own yield- to- maturity.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c6531016-8c7f-464d-964a-5b2ab02810a9",
+              "itemBody": "<p>A. Modified duration</p>",
+              "position": 1
+            },
+            {
+              "id": "8ff68acb-4e7b-4e9e-bc46-be7df6adc674",
+              "itemBody": "<p>B. Effective duration</p>",
+              "position": 2
+            },
+            {
+              "id": "34d3e3cb-d479-4261-970f-5ddd81bb68ff",
+              "itemBody": "<p>C. Macaulay duration</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55120",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Salazar-02",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a 6% coupon bond currently trading at par:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<thead>\n<tr>\n<th scope=\"col\">Benchmark Rate</th>\n<th scope=\"col\">Price per 100 of Par Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">5.9%</td>\n<td style=\"text-align: center;\">100.75</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">6.0%</td>\n<td style=\"text-align: center;\">100.00</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">6.1%</td>\n<td style=\"text-align: center;\">&nbsp; 99.26</td>\n</tr>\n</tbody>\n</table>\n<p>The bond's effective duration is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "04cd019e-e65c-455e-b6d9-8d6d916e5ea7"
+        },
+        "answerFeedback": {
+          "04cd019e-e65c-455e-b6d9-8d6d916e5ea7": "<p>Correct because effective duration = (PV<sub>+ </sub>− PV<sub>- </sub>) / (2 × Δcurve × PV<sub>0</sub>) = ( 100.75 − 99.26) / (2 × 0.001 × 100.00) = 7.45.</p>",
+          "1cc01c1f-0325-44a9-b4f5-876af828afae": "<p>Incorrect because it uses the current price instead of the price if interest rates increase in the numerator = (PV<sub>+ </sub>− PV<sub>0 </sub>) / (2 × Δcurve × PV<sub>0</sub>) = ( 100.75 − 100.00) / ( 2 × 0.001 × 100.00) = 3.75.</p>",
+          "2633f5c3-f277-4de6-b1d6-865fc5f3d886": "<p>Incorrect because it uses the current price instead of the price if interest rates increase in the numerator and fails to multiply by 2 in the denominator; = (PV<sub>+ </sub>− PV<sub>0 </sub>) / (Δcurve × PV<sub>0</sub>) = (100.75 − 100.00) / ( 0.001 × 100.00 ) = 7.50.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1cc01c1f-0325-44a9-b4f5-876af828afae",
+              "itemBody": "<p>A. 3.75.</p>",
+              "position": 1
+            },
+            {
+              "id": "04cd019e-e65c-455e-b6d9-8d6d916e5ea7",
+              "itemBody": "<p>B. 7.45.</p>",
+              "position": 2
+            },
+            {
+              "id": "2633f5c3-f277-4de6-b1d6-865fc5f3d886",
+              "itemBody": "<p>C. 7.50.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55121",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Moustra-01",
+        "feedback": {},
+        "itemBody": "<p>Effective duration is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9bbfb830-73e2-4a4a-b015-aa171e5ebea1"
+        },
+        "answerFeedback": {
+          "33c49875-42b8-4b3a-bfc4-5b0d4db187c4": "<p>Incorrect because although effective duration is the most appropriate interest rate risk measure for&nbsp;bonds with embedded options, it also is useful with traditional bonds to supplement the information provided by the Macaulay and modified yield durations.</p>",
+          "9bbfb830-73e2-4a4a-b015-aa171e5ebea1": "<p>Correct because the modified duration and effective duration on an option-free bond are&nbsp;identical only in the rare circumstance of an absolutely flat yield curve.</p>",
+          "eb8408e8-99f0-49a8-8a7c-66410ec51e16": "<p>Incorrect because a&nbsp;practical consideration in using effective duration is in setting the change in the benchmark yield curve. With approximate modified duration, accuracy is improved by choosing a smaller yield-to-maturity change. But the pricing models for more-complex securities, such as callable and mortgage-backed bonds, include assumptions about the behavior of the corporate issuers, businesses, or homeowners. Rates typically need to change by a minimum amount to affect the decision to call a bond or refinance a mortgage loan because issuing new debt involves transaction costs. Therefore, estimates of interest rate risk using effective duration are not necessarily improved by choosing a smaller change in benchmark rates.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "33c49875-42b8-4b3a-bfc4-5b0d4db187c4",
+              "itemBody": "<p>A. a&nbsp;useful interest rate risk measure only for bonds with embedded options.</p>",
+              "position": 1
+            },
+            {
+              "id": "eb8408e8-99f0-49a8-8a7c-66410ec51e16",
+              "itemBody": "<p>B. an accurate estimate of interest rate risk only when&nbsp;the assumed&nbsp;benchmark rate change is small.</p>",
+              "position": 2
+            },
+            {
+              "id": "9bbfb830-73e2-4a4a-b015-aa171e5ebea1",
+              "itemBody": "<p>C. the same as the modified duration of&nbsp;an option-free bond&nbsp;only when the yield curve is perfectly flat.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55122",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-FI-Su-01",
+        "feedback": {},
+        "itemBody": "<p>For a bond with an embedded option, effective duration is the <i>most</i> appropriate <s> </s>measure of interest rate risk because the bond's:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fc445ae1-3687-440a-9edd-a7dc1dbf4ec7"
+        },
+        "answerFeedback": {
+          "6a8c12f3-8d1f-4ca5-95c2-cd68fd456a70": "<p>Incorrect because effective duration measures the bond's sensitivity to changes in the benchmark yield curve and not changes in credit spread, which are measured by other means (pricing models). This curve duration measure [effective duration] indicates the bond’s sensitivity to the benchmark yield curve—in particular, the government par curve—assuming no change in the credit spread. A pricing model can be used to determine a 'credit duration' statistic—that is, the sensitivity of the bond price to a change in the credit spread.</p>",
+          "c1eb5a90-3b33-4917-a9bc-164609f6e7c9": "<p>Incorrect because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>",
+          "fc445ae1-3687-440a-9edd-a7dc1dbf4ec7": "<p>Correct because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option.&nbsp;The problem is that future cash flows are uncertain because they are contingent on future interest rates. The issuer’s decision to call the bond depends on the ability to refinance the debt at a lower cost of funds. Effective duration is the appropriate duration measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc445ae1-3687-440a-9edd-a7dc1dbf4ec7",
+              "itemBody": "<p>A. future cash flows are uncertain.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1eb5a90-3b33-4917-a9bc-164609f6e7c9",
+              "itemBody": "<p>B. internal rate of return is well-defined.</p>",
+              "position": 2
+            },
+            {
+              "id": "6a8c12f3-8d1f-4ca5-95c2-cd68fd456a70",
+              "itemBody": "<p>C. pricing is sensitive to changes in credit spreads.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55123",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-FI-Groenning-01",
+        "feedback": {},
+        "itemBody": "<p>The key rate duration <i>best</i> measures a bond's&nbsp;sensitivity to a change in the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "79626c8e-d2ec-48b9-a92f-426cd46386b3"
+        },
+        "answerFeedback": {
+          "46ac1950-05a9-40e9-9dfa-16f822b1668e": "<p>Incorrect because the duration of a callable bond is <i>not </i>the sensitivity of the bond price to a change in the yield-to-worst (i.e., the lowest of the yield-to-maturity, yield-to-first-call, yield-to-second-call, and so forth). In contrast to effective duration, key rate durations help identify 'shaping risk' for a bond–that is, a bond’s sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter).</p>",
+          "79626c8e-d2ec-48b9-a92f-426cd46386b3": "<p>Correct because <b>key rate duration</b> (or <b>partial duration</b>) is a measure of a bond’s sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk' for a bond—that is, a bond’s sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter).</p>",
+          "b8c6f5f8-e693-439f-ba22-4a93b6c4cfc7": "<p>Incorrect because this describes&nbsp;modified duration. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b8c6f5f8-e693-439f-ba22-4a93b6c4cfc7",
+              "itemBody": "<p>A. level of the yield-to-maturity.</p>",
+              "position": 1
+            },
+            {
+              "id": "46ac1950-05a9-40e9-9dfa-16f822b1668e",
+              "itemBody": "<p>B. slope of the yield-to-worst curve.</p>",
+              "position": 2
+            },
+            {
+              "id": "79626c8e-d2ec-48b9-a92f-426cd46386b3",
+              "itemBody": "<p>C. shape of the benchmark yield curve.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55124",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-FI-Moustra-03",
+        "feedback": {},
+        "itemBody": "<p>Which of the following duration statistics <i>best</i> measures the sensitivity of a bond’s price to a flattening of the yield curve?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "25bdf3e8-d305-4233-b6cc-fd7bce64e984"
+        },
+        "answerFeedback": {
+          "075cccf1-229b-4e23-9e35-812c6d8d5b2b": "<p>Incorrect because yield duration statistics measuring the sensitivity of a bond’s full price to the bond’s own yield-to-maturity include the Macaulay duration, modified duration, money duration, and price value of a basis point.&nbsp;The Macaulay duration measures the sensitivity of a bond's full price to a change in its yield to maturity, not to changes in the shape of the benchmark yield curve.&nbsp;</p>",
+          "25bdf3e8-d305-4233-b6cc-fd7bce64e984": "<p>Correct because key rate duration (or partial duration) is a measure of a bond’s sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk'&nbsp;for a bond—that is, a bond’s sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter).</p>",
+          "cfae4272-80d9-4e8d-8290-d577b580854a": "<p>Incorrect because effective duration indicates the bond’s sensitivity to the benchmark yield curve assuming that all yields change by the same amount. In contrast to effective duration, key rate durations help identify 'shaping risk'&nbsp;for a bond—that is, a bond’s sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "25bdf3e8-d305-4233-b6cc-fd7bce64e984",
+              "itemBody": "<p>A. Key rate duration</p>",
+              "position": 1
+            },
+            {
+              "id": "cfae4272-80d9-4e8d-8290-d577b580854a",
+              "itemBody": "<p>B. Effective duration</p>",
+              "position": 2
+            },
+            {
+              "id": "075cccf1-229b-4e23-9e35-812c6d8d5b2b",
+              "itemBody": "<p>C. Macaulay duration</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55125",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-FI-Georgiou-04",
+        "feedback": {},
+        "itemBody": "<p>Callable bonds<i> </i>exhibit:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "92063f9b-bfb1-489c-a0b9-19ccaebe33f7"
+        },
+        "answerFeedback": {
+          "29be3e4e-021b-446f-92c7-ebfb591d6b4b": "<p>Incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised.</p>",
+          "92063f9b-bfb1-489c-a0b9-19ccaebe33f7": "<p>Correct because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised.</p>",
+          "bdc5602d-e4ff-4c42-8ef9-e0f15e6628c1": "<p>Incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bdc5602d-e4ff-4c42-8ef9-e0f15e6628c1",
+              "itemBody": "<p>A. positive convexity only.</p>",
+              "position": 1
+            },
+            {
+              "id": "29be3e4e-021b-446f-92c7-ebfb591d6b4b",
+              "itemBody": "<p>B. negative convexity only.</p>",
+              "position": 2
+            },
+            {
+              "id": "92063f9b-bfb1-489c-a0b9-19ccaebe33f7",
+              "itemBody": "<p>C. either positive or negative convexity.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55126",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-FI-Agarwal-02",
+        "feedback": {},
+        "itemBody": "<p>Effective duration is the appropriate interest rate risk measure for callable bonds because it:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f51f7a87-f491-4c94-b8b7-d69243af5d15"
+        },
+        "answerFeedback": {
+          "176a4fd3-f514-4d9b-9c8f-4a04c518e735": "<p>Incorrect because the duration of a callable bond is not the sensitivity of the bond price to a change in the yield-to-worst (i.e., the lowest of the yield-to-maturity, yield-to-first-call, yield-to-second-call, and so forth) a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>",
+          "b6dbeba2-7e7a-4e4d-b382-d67113fc2505": "<p>Incorrect because only&nbsp;the primary, or first-order, effect of a shift in the benchmark yield curve is measured by effective duration, the secondary, or second-order, effect is measured by effective convexity.&nbsp;The convexity adjustment is measured by effective convexity and not accounted for in&nbsp;effective duration.&nbsp;</p>",
+          "f51f7a87-f491-4c94-b8b7-d69243af5d15": "<p>Correct because a callable bond does not have a well-defined internal rate of return (yield to maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "176a4fd3-f514-4d9b-9c8f-4a04c518e735",
+              "itemBody": "<p>A. measures the sensitivity of the bond price to a change in the yield to worst.</p>",
+              "position": 1
+            },
+            {
+              "id": "b6dbeba2-7e7a-4e4d-b382-d67113fc2505",
+              "itemBody": "<p>B. accounts for the convexity adjustment which can be significant for callable bonds.</p>",
+              "position": 2
+            },
+            {
+              "id": "f51f7a87-f491-4c94-b8b7-d69243af5d15",
+              "itemBody": "<p>C. can be calculated for bonds that do not have a well-defined internal rate of return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55127",
+      "entry": {
+        "title": "ITEM_2019B-FI-07LFW22U3",
+        "feedback": {},
+        "itemBody": "<p>The <i>most</i> appropriate measure of interest rate risk for a bond with an embedded option is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "eaac3bdb-bedc-442d-a802-a928d176fbc7"
+        },
+        "answerFeedback": {
+          "030f5211-7dbe-408b-af63-86ead7a9db2a": "<p>Incorrect because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply.</p>",
+          "4da3e4fb-3ad9-4250-b758-7a13822f7420": "<p>Incorrect because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>",
+          "eaac3bdb-bedc-442d-a802-a928d176fbc7": "<p>Correct because the effective duration of a bond is the sensitivity of the bond’s price to a change in a benchmark yield. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond’s own yield-to-maturity (ΔYield). Effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (ΔCurve). Effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eaac3bdb-bedc-442d-a802-a928d176fbc7",
+              "itemBody": "<p>A. effective duration.</p>",
+              "position": 1
+            },
+            {
+              "id": "030f5211-7dbe-408b-af63-86ead7a9db2a",
+              "itemBody": "<p>B. modified duration.</p>",
+              "position": 2
+            },
+            {
+              "id": "4da3e4fb-3ad9-4250-b758-7a13822f7420",
+              "itemBody": "<p>C. Macaulay duration.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55128",
+      "entry": {
+        "title": "ITEM_CFA-L1-03133",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">The yield duration and the curve duration of a zero-coupon bond are <i>most</i> similar when the:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "da57bb16-ef1c-4276-9f05-6541b4cbd818"
+        },
+        "answerFeedback": {
+          "12df3de4-605d-4a1e-b584-a63365876cf7": "<p>Incorrect because these&nbsp;differences are heightened when the benchmark yield curve is not flat.</p>",
+          "21b65591-1afc-4f2b-b373-38946046bc69": "<p>Incorrect because these&nbsp;differences are heightened when the bond is priced at a significant discount or premium.</p>",
+          "da57bb16-ef1c-4276-9f05-6541b4cbd818": "<p>Correct because in general, the differences [between yield duration and convexity and <i>curve</i> duration and convexity] are heightened when the benchmark yield curve is not flat, when the bond has a long time-to-maturity, and the bond is priced at a significant discount or premium.&nbsp;Therefore, the difference between yield duration and curve duration are most similar when the benchmark yield curve is flat.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "da57bb16-ef1c-4276-9f05-6541b4cbd818",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">benchmark yield curve is flat.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "12df3de4-605d-4a1e-b584-a63365876cf7",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">bond has a long time to maturity.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "21b65591-1afc-4f2b-b373-38946046bc69",
+              "itemBody": "<p>C. <span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">bond is priced at a significant discount.</span></span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 15,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55129",
+      "entry": {
+        "title": "ITEM_CFA-L1-06085",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Which of the following statements is <i>most </i>accurate? The convexity adjustment is:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d7eff647-eeb7-4928-b0eb-64e3ad8eb287"
+        },
+        "answerFeedback": {
+          "47684c76-c482-495b-ba42-7b781a01c584": "<p>Incorrect because the convexity adjustment is the annual convexity statistic, AnnConvexity, times one-half, multiplied by the change in the yield-to-maturity squared. This additional term is a positive amount on a traditional (option-free) fixed-rate bond for either an increase or decrease in the yield.&nbsp;The convexity measure is positive in response to interest rate changes, regardless of the change in yields up or down. For bonds with a call option, the convexity adjustment may positive or negative, but that is based on the level, or moneyness, of the call option, not based on the change in interest rates. Additionally, effective convexity indicates the change in the first-order effect (i.e., effective duration) as the benchmark yield curve is changed.&nbsp;But the slope of the line tangent to the callable bond flattens as the benchmark yield goes down. Technically, it reaches an inflection point, which is when the effective convexity shifts from positive to negative.&nbsp;The convexity adjustment is negative (not positive) when yields decrease and positive (not negative) when bond yields increase.</p>",
+          "67ae3df7-bc56-4b0c-896d-0bfa490c7e02": "<p>Incorrect because negative convexity, which could be called 'concavity,' is an important feature of callable bonds. As a second-order effect, effective convexity indicates the change in the first-order effect (i.e., effective duration) as the benchmark yield curve is changed. But the slope of the line tangent to the callable bond flattens as the benchmark yield goes down. Technically, it reaches an inflection point, which is when the effective convexity shifts from positive to negative.&nbsp;In summary, when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised.&nbsp;Therefore, the convexity adjustment is not negative for a callable bond when the value of the option is low; it can be negative only when the option value is high.</p>",
+          "d7eff647-eeb7-4928-b0eb-64e3ad8eb287": "<p>Correct because the convexity adjustment is the annual convexity statistic, AnnConvexity, times one-half, multiplied by the change in the yield-to-maturity squared. This additional term is a positive amount on a traditional (option-free) fixed-rate bond for either an increase or decrease in the yield.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d7eff647-eeb7-4928-b0eb-64e3ad8eb287",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">positive for an option-free bond in all circumstances.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "67ae3df7-bc56-4b0c-896d-0bfa490c7e02",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">negative for a callable bond when the value of the option is very low.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "47684c76-c482-495b-ba42-7b781a01c584",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">positive when bond yields decrease and negative when bond yields increase.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 16,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55130",
+      "entry": {
+        "title": "ITEM_CFA-L1-07702",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Effective duration is the <i>most</i> appropriate interest rate risk measure for a bond when:</span></span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "18981126-38fc-4d93-b5e8-8a383143904d"
+        },
+        "answerFeedback": {
+          "16ace473-12a8-4d26-ba44-3560face6e47": "<p>Incorrect because bonds with embedded options do not have well-defined yields-to-maturity, so Macaulay and modified durations are not appropriate interest rate risk measures for such bonds. Rather, the appropriate measure of interest rate risk is the sensitivity of the bond’s price to a change in a <i>benchmark yield curve</i>—for example, the government par curve—known as effective duration, a <i>curve </i>duration rather than a <i>yield </i>duration statistic.&nbsp;The credit spread is a component of the yield to maturity,&nbsp;a yield duration statistic, while effective duration is a curve duration.</p>",
+          "18981126-38fc-4d93-b5e8-8a383143904d": "<p>Correct because if a bond has contingency features, such as embedded options, as with a callable (or puttable) bond, then future cash flows are <i>uncertain </i>since option exercise depends on the level of market interest rates relative to coupon interest being paid (or received).&nbsp;Consequently, bonds with embedded options do not have well-defined yields-to-maturity, so Macaulay and modified durations are not appropriate interest rate risk measures for such bonds. Rather, the appropriate measure of interest rate risk is the sensitivity of the bond’s price to a change in a <i>benchmark yield curve</i>—for example, the government par curve—known as effective duration, a <i>curve </i>duration rather than a <i>yield </i>duration statistic.</p>",
+          "2409abf3-da7f-4e5f-88d3-210bd1840726": "<p>Incorrect because effective duration and effective convexity are curve-based metrics that are useful for gauging the interest rate risk of complex instruments—such as those with embedded contingency provisions—whose future cash flows are uncertain. These metrics are typically determined from bond prices derived using an option valuation model, given specific (parallel) changes in the underlying benchmark government yield curve.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2409abf3-da7f-4e5f-88d3-210bd1840726",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">the shape of the yield curve changes.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "16ace473-12a8-4d26-ba44-3560face6e47",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">there is a change in the bond's credit spread.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "18981126-38fc-4d93-b5e8-8a383143904d",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">the issuer has the right to pay off the bond prior to maturity.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 17,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8882,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4692,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51198",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An investor’s well-diversified portfolio has $200,000 in cash. The investor aims to invest in short-term, one-year Large-Cap Company bonds, prior to using the cash to invest in an upcoming IPO. There are currently two Large-Cap Company bonds on the market to purchase, both with one-year maturities. One of the bonds, Bond A, is a non-callable bond, while Bond B is a callable bond. As a fixed-income analyst, you are asked to conduct an analysis.</p>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51199",
+      "entry": {
+        "title": "CFA2443-R-s05-Q4",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Since Bond B is callable, it has an embedded option, and effective duration is the most appropriate duration measure. Effective duration also works on bonds without embedded options and would allow the analyst to compare the interest rate risk of the two bonds.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For the two bonds offered by Large-Cap Company, which duration calculation would be the <em>most</em> appropriate to use to measure interest rate risk?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a7be3d06-1579-42b1-a76b-4c68ddf1dd9f"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8ba5e455-fcea-4405-80ab-85820d43800c",
+              "itemBody": "A. Modified duration",
+              "position": 1
+            },
+            {
+              "id": "0eb3c30a-0d16-4d86-b4e7-8af8454e34d5",
+              "itemBody": "B. Macaulay duration",
+              "position": 2
+            },
+            {
+              "id": "a7be3d06-1579-42b1-a76b-4c68ddf1dd9f",
+              "itemBody": "C. Effective duration",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51200",
+      "entry": {
+        "title": "CFA2443-R-s05-Q5",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Since the bond is callable, after a certain point on the yield curve, the issuer will exercise the call and the owner will not be able to realize additional gains from declines in the benchmark yield curve.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For Bond B, as the benchmark yield curve declines, the slope of the line tangent to the bond flattens as the benchmark yield declines and reaches an inflection point, after which the effective convexity becomes:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "02ea3d94-d204-45a7-bbf2-1db0509496a8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "48aec93b-9126-4fac-b68e-a93918280427",
+              "itemBody": "A. positive.",
+              "position": 1
+            },
+            {
+              "id": "02ea3d94-d204-45a7-bbf2-1db0509496a8",
+              "itemBody": "B. negative.",
+              "position": 2
+            },
+            {
+              "id": "13bf664e-c847-4abb-af62-57a48136498f",
+              "itemBody": "C. neither positive nor negative.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51201",
+      "entry": {
+        "title": "CFA2443-R-s05-Q6",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Bond B is riskier since the 100 bps upward shift in the yield curve\n                  results in a greater percentage price decrease, owing to its negative effective\n                  convexity:</p>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2443-R-s05-E-2-\">%∆<em>PV<sup>Full</sup>\n                  </em> Bond A ≈ (–7.48621 × 0.0100) + [½ × 29.35972 × (0.0100)<sup>2</sup>] =\n                  –7.33941%.</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2443-R-s05-E-2-___1\">%∆<em>PV<sup>Full</sup>\n                  </em> Bond B ≈ (–7.23853 × 0.0100) + [½ × –321.75618 × (0.0100)<sup>2</sup>] =\n                  –8.84730%.</div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The following information on Bonds A and B was obtained:</p>\n<div id=\"CFA2443-R-s05-T-2-a\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Bond</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Effective Duration</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Effective Convexity</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">A</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">7.48621</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">29.35972</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">B</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">7.23852</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">–321.75618</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Compare the interest rate risk of Bond A and Bond B.</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ea97526f-fd97-4837-8fd0-523c08309702"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ed78bbe6-a52a-4247-bf6e-56415d47a904",
+              "itemBody": "A. Bond A is riskier than Bond B.",
+              "position": 1
+            },
+            {
+              "id": "ea97526f-fd97-4837-8fd0-523c08309702",
+              "itemBody": "B. Bond B is riskier than Bond A.",
+              "position": 2
+            },
+            {
+              "id": "f5ae4285-e172-4b8d-9787-352eb92315a9",
+              "itemBody": "C. Bond A and Bond B have approximately the same interest rate risk.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51202",
+      "entry": {
+        "title": "CFA2443-R-s05-Q7",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Typically, the effect of duration is much larger than the effect of convexity.</p>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2443-R-s05-E-2-___2\">%∆<em>PV<sup>Full</sup>\n                  </em> Bond A, Duration ≈ –7.48621 × 0.0200 = –14.97242%.</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2443-R-s05-E-2-___3\">%∆<em>PV<sup>Full</sup>\n                  </em> Bond A, Convexity Adjustment ≈ ½ × 29.35972 × (–0.0200)<sup>2</sup> = –0.58719%.</div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For the percentage price change for Bond A, given a 200 bp increase in benchmark yield, what part of the price change is of the most concern?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0fc594e4-bc84-4542-83e5-490f47946159"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0fc594e4-bc84-4542-83e5-490f47946159",
+              "itemBody": "A. Duration",
+              "position": 1
+            },
+            {
+              "id": "3bf02004-a321-4805-b7b7-992a26c4d533",
+              "itemBody": "B. Convexity",
+              "position": 2
+            },
+            {
+              "id": "b266c727-7872-40da-baa9-2173f9c69094",
+              "itemBody": "C. Not able to determine with given information",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51203",
+      "entry": {
+        "title": "CFA2443-R-s05-Q8",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Since both bonds mature in one year, key rate duration analysis would not give you any additional insight, since both bonds would undergo the same shift in the curve.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A colleague asks whether you also considered looking at the key rate durations when comparing the interest rate risks of Bond A and Bond B. Would research into key rate durations for Bond A and Bond B help you make a better decision about the interest rate risk of the two bonds?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6c7ea5d9-b713-4d4e-a742-eed6006797c1"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f26e50dc-a435-4d89-a6e7-58c63091fae8",
+              "itemBody": "A. Yes",
+              "position": 1
+            },
+            {
+              "id": "6c7ea5d9-b713-4d4e-a742-eed6006797c1",
+              "itemBody": "B. No",
+              "position": 2
+            },
+            {
+              "id": "f9b0cd85-1df2-4709-b8ac-430d5eb1831e",
+              "itemBody": "C. Inconclusive",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51204",
+      "entry": {
+        "title": "CFA2443-R-s05-Q9",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Bond A has the same effective duration as the portfolio effective duration.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The investor’s portfolio is diversified, and the fixed-income component of the portfolio has bonds of various maturities, with a duration of 7.48621. What would happen to the effective duration of the fixed-income component of the investor’s portfolio if Bond A is added to the portfolio?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "636864f1-3328-46bc-a8f1-887e10542369"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a435c12b-0ac0-4e7f-842f-7ea0dac1f7f2",
+              "itemBody": "A. It would increase.",
+              "position": 1
+            },
+            {
+              "id": "757dab47-efb8-4b16-befc-ed955915531a",
+              "itemBody": "B. If would decrease.",
+              "position": 2
+            },
+            {
+              "id": "636864f1-3328-46bc-a8f1-887e10542369",
+              "itemBody": "C. It would stay the same.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51205",
+      "entry": {
+        "title": "CFA2443-R-s05-Q10",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Since both Bond A and Bond B are corporate bonds, they have credit risk, and as such, empirical duration would be the most appropriate because benchmark yields and credit spreads may not be positively correlated.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For the two bonds under consideration, would analytical duration estimates or empirical duration estimates be <em>most</em> appropriate in conducting your analysis?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2e00a2db-afca-4c9a-9b39-3bde97bf5dd0"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f9702439-8388-4f0d-8783-7ce8feb11774",
+              "itemBody": "A. Analytical duration estimates",
+              "position": 1
+            },
+            {
+              "id": "2e00a2db-afca-4c9a-9b39-3bde97bf5dd0",
+              "itemBody": "B. Empirical duration estimates",
+              "position": 2
+            },
+            {
+              "id": "e909167a-1d6f-4bab-ba59-8ab256129cd2",
+              "itemBody": "C. Either type of estimate would be appropriate.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "51206",
+      "entry": {
+        "title": "CFA2443-R-s05-Q11",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. There would be no impact on the analytical duration estimate. However, an empirical duration estimate would be impacted. A flight to safety would result in an increase in the bond price due to the falling benchmark yield being offset by widening credit spread. This would lead to a lower empirical duration than analytical duration.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">What impact would a “flight to safety” (i.e., government bond yields falling and credit spreads widening) have on the analytical duration estimate of Bond A?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "47baa70f-ab85-4193-b575-e4f3db1dba33"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "12257c60-33dc-43d7-9151-bf8e6a8f6a59",
+              "itemBody": "A. Decreased duration",
+              "position": 1
+            },
+            {
+              "id": "e72aef2d-8b50-457c-8180-83cb679796cb",
+              "itemBody": "B. Increased duration",
+              "position": 2
+            },
+            {
+              "id": "47baa70f-ab85-4193-b575-e4f3db1dba33",
+              "itemBody": "C. No impact",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8235,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": "51198"
+    },
+    {
+      "id": "53829",
+      "entry": {
+        "title": "ITEM_20170607003",
+        "feedback": {},
+        "itemBody": "<p>A fixed-income security’s current price is $101.45. The manager estimates that the price will rise to $103.28 if interest rates decrease 0.25% or fall to $100.81 if interest rates increase 0.25%. The security’s effective duration is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "71473793-fb66-4eb2-a129-b21cb54ef54c"
+        },
+        "answerFeedback": {
+          "71473793-fb66-4eb2-a129-b21cb54ef54c": "<p><strong>Correct.</strong> The effective duration is defined as:</p>\n<p style=\"margin-left: 1.618em;\">Effective duration = <math style=\"font-family: Arial;\"> <mrow> <mfrac> <mrow> <mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mo>−</mo> </msub> </mrow> <mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mo>+</mo> </msub> </mrow> <mo>)</mo></mrow></mrow> <mrow> <mn>2</mn><mo>×</mo><mrow><mo>(</mo> <mrow> <mi>Δ</mi><mtext>Curve</mtext></mrow> <mo>)</mo></mrow><mo>×</mo><mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mn>0</mn> </msub> </mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">&nbsp;= <math style=\"font-family: Arial;\"> <mrow> <mfrac> <mrow> <mrow><mo>(</mo> <mrow> <mn>103.28</mn><mo>−</mo><mn>100.81</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mo>×</mo><mn>0.0025</mn><mo>×</mo><mn>101.45</mn></mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">= 4.87</p>",
+          "85e38659-6b7a-4141-80c9-32090ad7ba91": "<p>Incorrect because it does not include the 2 in the denominator of the equation.</p>",
+          "f45f222c-d0f7-4482-a853-1741547f9ca0": "<p>Incorrect because it uses a 1% change in rates, not a 0.25% change.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f45f222c-d0f7-4482-a853-1741547f9ca0",
+              "itemBody": "<p>A. 1.22.</p>",
+              "position": 1
+            },
+            {
+              "id": "71473793-fb66-4eb2-a129-b21cb54ef54c",
+              "itemBody": "<p>B. 4.87.</p>",
+              "position": 2
+            },
+            {
+              "id": "85e38659-6b7a-4141-80c9-32090ad7ba91",
+              "itemBody": "<p>C. 9.74.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53830",
+      "entry": {
+        "title": "ITEM_20170607007",
+        "feedback": {},
+        "itemBody": "<p>For bonds that are otherwise identical, the one exhibiting the highest level of positive convexity is <i>most likely</i> the one that is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "92d8a38d-c2e5-4e42-9f98-d7b08f822e76"
+        },
+        "answerFeedback": {
+          "0a35c335-3079-4aa4-98a5-e4acedb379c3": "<p>Incorrect because an option-free bond exhibits less positive convexity than a putable bond.</p>",
+          "92d8a38d-c2e5-4e42-9f98-d7b08f822e76": "<p><strong>Correct.</strong> When interest rates rise, a putable bond is more likely to be put back to the issuer by the investor, limiting the loss of value and giving the bond more positive convexity than an option-free bond. In contrast, a callable bond is likely to be called from the investor when interest rates fall, limiting the gain in value and giving the bond negative convexity.</p>",
+          "cb85ca6d-f02d-4f21-b755-4493e6396b23": "<p>Incorrect because a callable bond exhibits negative convexity.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92d8a38d-c2e5-4e42-9f98-d7b08f822e76",
+              "itemBody": "<p>A. putable.</p>",
+              "position": 1
+            },
+            {
+              "id": "cb85ca6d-f02d-4f21-b755-4493e6396b23",
+              "itemBody": "<p>B. callable.</p>",
+              "position": 2
+            },
+            {
+              "id": "0a35c335-3079-4aa4-98a5-e4acedb379c3",
+              "itemBody": "<p>C. option-free.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53831",
+      "entry": {
+        "title": "ITEM_20170607019",
+        "feedback": {},
+        "itemBody": "<p>In a low interest rate environment, the effective duration of a callable bond relative to a comparable non-callable bond, will <i>most likely</i> be:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cb1e8e93-f16c-4835-a59c-8d0cd98607b5"
+        },
+        "answerFeedback": {
+          "b40421ba-3cc4-45ec-bcc2-14a16adeff2c": "<p>Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower than the effective duration of a comparable non-callable bond.</p>",
+          "c4738ff0-8b1f-4cf6-b70f-184b81b788cd": "<p>Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower, not higher, than the effective duration of a comparable non-callable bond.</p>",
+          "cb1e8e93-f16c-4835-a59c-8d0cd98607b5": "<p><strong>Correct.</strong> When interest rates are low, the callable bond’s price will not increase as much because the presence of the call option will limit the price increase. Because the bond is likely to be called when interest rates are falling, the embedded call option will reduce the effective duration of the bond.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cb1e8e93-f16c-4835-a59c-8d0cd98607b5",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "b40421ba-3cc4-45ec-bcc2-14a16adeff2c",
+              "itemBody": "<p>B. the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "c4738ff0-8b1f-4cf6-b70f-184b81b788cd",
+              "itemBody": "<p>C. higher.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53832",
+      "entry": {
+        "title": "ITEM_20180516048",
+        "feedback": {},
+        "itemBody": "<p>Which of the following duration measures is the <i>most</i> appropriate measure of interest rate risk for a complex bond?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a88df140-a1eb-44f6-8637-006f3fd72323"
+        },
+        "answerFeedback": {
+          "1c34c25c-5748-401a-a009-a6290a2af62d": "<p>Incorrect because modified duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, modified duration is not an appropriate measure of a complex bond’s interest rate risk.</p>",
+          "5b84358a-004e-4332-8dde-f9e573aba0d8": "<p>Incorrect because Macaulay duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, Macaulay duration is not an appropriate measure of a complex bond’s interest rate risk.</p>",
+          "a88df140-a1eb-44f6-8637-006f3fd72323": "<p><strong>Correct.</strong> A complex bond (such as a bond with an imbedded call option) does not have a well-defined yield to maturity because of the uncertainty of the bond’s future cash flows, which depend on future interest rate changes. Because a complex bond’s yield to maturity is not well defined, yield duration measures such as Macaulay duration and modified duration are inappropriate measures of interest rate risk. Therefore, effective duration is the appropriate duration measure for a complex bond.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a88df140-a1eb-44f6-8637-006f3fd72323",
+              "itemBody": "<p>A. Effective duration</p>",
+              "position": 1
+            },
+            {
+              "id": "1c34c25c-5748-401a-a009-a6290a2af62d",
+              "itemBody": "<p>B. Modified duration</p>",
+              "position": 2
+            },
+            {
+              "id": "5b84358a-004e-4332-8dde-f9e573aba0d8",
+              "itemBody": "<p>C. Macaulay duration</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53833",
+      "entry": {
+        "title": "ITEM_CFA-L1-05338",
+        "feedback": {},
+        "itemBody": "<p>For bonds with embedded options, the <i>most</i> appropriate measure of price sensitivity to interest rate changes is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f2e73474-8ed2-4717-aa78-73e9d4e4816b"
+        },
+        "answerFeedback": {
+          "2722daa9-cd3d-43a5-b51e-1eb6a1a79ad0": "<p>Incorrect because in brief, an option embedded&nbsp;bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>",
+          "2e3ffb5e-c348-4273-89ff-64e3a39c14af": "<p>Incorrect because in brief, an option embedded&nbsp;bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>",
+          "f2e73474-8ed2-4717-aa78-73e9d4e4816b": "<p>Correct because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option.&nbsp;In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f2e73474-8ed2-4717-aa78-73e9d4e4816b",
+              "itemBody": "<p>A. effective duration.</p>",
+              "position": 1
+            },
+            {
+              "id": "2722daa9-cd3d-43a5-b51e-1eb6a1a79ad0",
+              "itemBody": "<p>B. modified duration.</p>",
+              "position": 2
+            },
+            {
+              "id": "2e3ffb5e-c348-4273-89ff-64e3a39c14af",
+              "itemBody": "<p>C. Macaulay duration.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53834",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Su-01",
+        "feedback": {
+          "neutral": "<p>B is correct. because the price of the bond is the present value of the promised cash \nflows and is calculated as follows: \nPrice of bond = 4,000/(1 +5%)^1 + 4,000/(1+5%)^2 + 104,000/(1+5%)^3 = 3,809.5238 \n+ 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, \nI = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. \n \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 8 of 8</p>"
+        },
+        "itemBody": "<p>An analyst gathers the following information about a pension plan's liabilities:</p>\n<table style=\"border-collapse: collapse; width: 314px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"width: 114px; text-align: center; vertical-align: middle; max-width: 114px;\" scope=\"col\">Interest Rate Assumption</th>\n<th style=\"width: 192px; text-align: center; vertical-align: middle; max-width: 192px;\" scope=\"col\">Present Value of Liabilities (in $ Millions)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 114px; text-align: center; max-width: 114px;\">0.5%</td>\n<td style=\"width: 192px; text-align: center; max-width: 192px;\">198</td>\n</tr>\n<tr>\n<td style=\"width: 114px; text-align: center; max-width: 114px;\">1.0%</td>\n<td style=\"width: 192px; text-align: center; max-width: 192px;\">186</td>\n</tr>\n<tr>\n<td style=\"width: 114px; text-align: center; max-width: 114px;\">1.5%</td>\n<td style=\"width: 192px; text-align: center; max-width: 192px;\">174</td>\n</tr>\n</tbody>\n</table>\n<p>If interest rates are currently 1.0%, the effective duration of the&nbsp;liabilities&nbsp;is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "32aaad0c-fe57-40c2-b60f-b589b622d24d"
+        },
+        "answerFeedback": {
+          "32aaad0c-fe57-40c2-b60f-b589b622d24d": "<p>Correct because effective duration = (PV<sub>–</sub> – PV<sub>+</sub>)/(2 × ΔCurve × PV<sub>0</sub>) = ($198 million – $174 million)/(2 × 0.005 × $186 million) = 12.9032 ≈ 12.9.</p>",
+          "3b56d7ad-5642-4b09-a996-a7292dba4eea": "<p>Incorrect because this response uses 1% for the change in the benchmark yield curve (ΔCurve), instead of 0.5%. Effective duration = (PV<sub>–</sub> – PV<sub>+</sub>)/(2 × ΔCurve × PV<sub>0</sub>) = ($198 million – $174 million)/(2 × 0.01 × $186 million) = 6.4516 ≈ 6.5.</p>",
+          "6079350c-19c7-44f1-93a5-c7320ac9dd43": "<p>Incorrect because this response uses an incorrect formula for effective duration; (PV<sub>–</sub> – PV<sub>+</sub>)/(ΔCurve × PV<sub>0</sub>) = ($198 million – $174&nbsp;million)/(0.005 × $186 million) = 25.8065 ≈ 25.8.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3b56d7ad-5642-4b09-a996-a7292dba4eea",
+              "itemBody": "<p>A. 6.5.</p>",
+              "position": 1
+            },
+            {
+              "id": "32aaad0c-fe57-40c2-b60f-b589b622d24d",
+              "itemBody": "<p>B. 12.9.</p>",
+              "position": 2
+            },
+            {
+              "id": "6079350c-19c7-44f1-93a5-c7320ac9dd43",
+              "itemBody": "<p>C. 25.8.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53835",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Tyler-01",
+        "feedback": {},
+        "itemBody": "<p>Effective duration is the <i>most</i> appropriate measure of interest rate risk for a bond with an embedded option because the bond does not have a well-defined:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fa06d5c9-e754-4e26-9bb2-3aa623e9a0ab"
+        },
+        "answerFeedback": {
+          "2a7350e0-d99b-4922-a13f-acfa0c907da1": "<p>Incorrect because bonds with embedded options have well-defined effective convexity. Negative convexity, which could be called “concavity,” is an important feature of callable bonds. Putable bonds, on the other hand, always have positive convexity.</p>",
+          "b507ac78-5ca3-4a86-b684-04712b502383": "<p>Incorrect because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (ΔCurve). The interest rate risk of bonds with embedded options is most appropriately measured using effective duration, a curve statistic, which means that the sensitivity of a bond with an embedded-option to a change in the level of the benchmark yield curve is in fact well-defined.</p>",
+          "fa06d5c9-e754-4e26-9bb2-3aa623e9a0ab": "<p>Correct because in brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2a7350e0-d99b-4922-a13f-acfa0c907da1",
+              "itemBody": "<p>A. effective convexity.</p>",
+              "position": 1
+            },
+            {
+              "id": "fa06d5c9-e754-4e26-9bb2-3aa623e9a0ab",
+              "itemBody": "<p>B. internal rate of return.</p>",
+              "position": 2
+            },
+            {
+              "id": "b507ac78-5ca3-4a86-b684-04712b502383",
+              "itemBody": "<p>C. curve duration statistic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53836",
+      "entry": {
+        "title": "ITEM_CFA-L1-02312",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">When interest rates are high relative to the coupon rate, a bond that is callable at par will <i>most likely</i> exhibit:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9a2e2167-4362-4ad5-b54d-ea89a5a52285"
+        },
+        "answerFeedback": {
+          "51eef5b0-91ae-43ce-895f-054bf75be743": "<p><span><span>Incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. B</span>ut as the benchmark </span><span>yield is reduced, the curves diverge. At some point, the callable bond moves into the </span><span>range of negative convexity, which indicates that the embedded call option has more </span><span>value to the issuer and is more likely to be exercised.&nbsp;The likelihood that the bond will be called by the issuer limits the upside price potential of low interest rates; that is negative convexity.</span></p>",
+          "9a2e2167-4362-4ad5-b54d-ea89a5a52285": "<p><span>Correct because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity.&nbsp;When rates are high relative to the coupon rate, the bond is unlikely to be called, resulting in a price appreciation pattern similar to a non-callable bond. This pattern is described as positive convexity. </span></p>",
+          "ed0771eb-a9f7-4c36-93d2-9e7c888908b1": "<p><span>Incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. But as the benchmark </span><span>yield is reduced, the curves diverge. At some point, the callable bond moves into the </span><span>range of negative convexity, which indicates that the embedded call option has more </span><span>value to the issuer and is more likely to be exercised.&nbsp;The likelihood that the bond will be called by the issuer limits the upside price potential of low interest rates; that is negative convexity, not zero convexity.</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "51eef5b0-91ae-43ce-895f-054bf75be743",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">negative convexity.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "ed0771eb-a9f7-4c36-93d2-9e7c888908b1",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">zero convexity.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "9a2e2167-4362-4ad5-b54d-ea89a5a52285",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">positive convexity.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8668,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4475,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-59-1",
+      "entry": {
+        "title": "2027-Mod59-Q1",
+        "itemBody": "<p>A non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If \nthe YTM were to increase instantaneously by 80 bps, the price of the bond would \ndecrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price \nof the bond would increase by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The absolute amount of the price increase would be more than the \nabsolute amount of the price decrease for the same absolute change in YTM \nbecause of the convex relationship between bond price and yield. \nA is incorrect because of the positive convex relationship between bond price and \nyield. For a given level of yield change, the price rise for that given amount of yield \ndecrease will be larger than the price decline for that amount of yield increase. \nB is incorrect because the relationship between bond price and yield is not linear.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ffa429d1-880e-404f-80e5-ba1b8f514399",
+              "itemBody": "<p>A. less than 11%.</p>",
+              "position": 1
+            },
+            {
+              "id": "05f9b069-d074-4ea6-b05e-cf86dfae1ee1",
+              "itemBody": "<p>B. exactly 11%.</p>",
+              "position": 2
+            },
+            {
+              "id": "f332afc2-6a7e-4be0-ab8d-97c6bc35ac9a",
+              "itemBody": "<p>C. more than 11%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f332afc2-6a7e-4be0-ab8d-97c6bc35ac9a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-2",
+      "entry": {
+        "title": "2027-Mod59-Q2",
+        "itemBody": "<p>Exceptions to the maturity effect exist for bonds that have:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Exceptions to the maturity effect are rare and occur only for low-\ncoupon (but not zero-coupon) long-term bonds trading at a discount. \nB is incorrect because the maturity effect holds for bonds that have short \nmaturities and high coupons. \nC is incorrect because the maturity effect always holds on bonds priced at a \npremium above par value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "302db47a-5748-4228-bbca-fabea4ef3718",
+              "itemBody": "<p>A. long maturities, make small coupon payments, and trade at a discount.</p>",
+              "position": 1
+            },
+            {
+              "id": "7f22960f-2ab2-4ad8-a9cb-9b26c87b30ad",
+              "itemBody": "<p>B. short maturities, have high coupon rates, and trade at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "f95f9f7a-b222-4006-96b4-b9b43c50dd9a",
+              "itemBody": "<p>C. long maturities, have high coupon rates, and trade at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "302db47a-5748-4228-bbca-fabea4ef3718"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-3",
+      "entry": {
+        "title": "2027-Mod59-Q3",
+        "itemBody": "<p>With a constant market discount rate, as a non-callable, fixed-coupon bond \napproaches maturity:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Any bond trading at a discount will increase in price because of the \npull-to-par effect. \nA is incorrect because the price–yield relationship generally becomes less convex as \na bond approaches maturity. \nC is incorrect because a high-coupon bond trading at a premium will decrease in \nprice as it approaches maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "559f5e8c-fea9-402b-887b-169f886bace0",
+              "itemBody": "<p>A. the price–yield relationship will become more convex.</p>",
+              "position": 1
+            },
+            {
+              "id": "6a0c17dd-1bec-4df8-b86e-017958248554",
+              "itemBody": "<p>B. a low-coupon bond trading at a discount will increase in price.</p>",
+              "position": 2
+            },
+            {
+              "id": "19542884-2dfe-4ade-b709-58b31d4fdebd",
+              "itemBody": "<p>C. a high-coupon bond trading at a premium will increase in price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6a0c17dd-1bec-4df8-b86e-017958248554"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-4",
+      "entry": {
+        "title": "2027-Mod59-Q4",
+        "itemBody": "<p>A fixed-income analyst is pricing a bond using the following equation. \n𝑃𝑉 = 3\n(1 + 0.0275)1 + 3\n(1 + 0.0275)2 + ⋯ + 103\n(1 + 0.0275)40 \n \nThe bond’s price, relative to par, is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The bond’s periodic coupon rate exceeds the periodic market discount \nrate, or its coupon rate is “excessive” relative to the market. Therefore, the bond \nwill trade at a premium to par. \nB is incorrect. For the bond to trade at par, the coupon rate and market discount \nrate (yield-to-maturity) must be equal. \nC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have \nto be higher than the coupon rate. \n  \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 6 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6089378d-8a93-4691-ad40-f46bd50c95b6",
+              "itemBody": "<p>A. greater than 100.</p>",
+              "position": 1
+            },
+            {
+              "id": "92b18158-e269-4353-b5a4-bde79ca7658d",
+              "itemBody": "<p>B. exactly 100.</p>",
+              "position": 2
+            },
+            {
+              "id": "dc66ae48-eee9-42df-aeca-5feb5b97f189",
+              "itemBody": "<p>C. less than 100.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6089378d-8a93-4691-ad40-f46bd50c95b6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-5",
+      "entry": {
+        "title": "2027-Mod59-Q5",
+        "itemBody": "<p>A four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading \nat a price of 102.581. The bond’s annualized yield-to-maturity is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Two approaches to calculating the yield-to-maturity are calculating an \nIRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic \nIRR is annualized by multiplying by two. \nPeriod Cash Flow YIELD Function   \n0 –102.581 Settlement date 01-01-2000 \n1 1 Maturity date 01-01-2004 \n2 1 Coupon 0.02 \n3 1 Price 102.581 \n4 1 Redemption 100 \n5 1 Coupon frequency 2 \n6 1 Yield 1.34% \n7 1    \n8  101    \nPeriodic IRR 0.67%    \nAnnualized IRR 1.34%    \n \nA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity. \nC is incorrect. Note that this choice can be eliminated because the bond is trading at \na premium; thus, its yield-to-maturity is lower than its coupon rate of 2.0%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "356de375-e0d3-4677-99af-53861cf187b5",
+              "itemBody": "<p>A. 0.67%.</p>",
+              "position": 1
+            },
+            {
+              "id": "f1e2f9e3-868f-4546-b1e0-5dbbd99f242f",
+              "itemBody": "<p>B. 1.34%.</p>",
+              "position": 2
+            },
+            {
+              "id": "ad47318a-668c-4a96-98f2-2e7d6358ee25",
+              "itemBody": "<p>C. 2.22%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1e2f9e3-868f-4546-b1e0-5dbbd99f242f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-6",
+      "entry": {
+        "title": "2027-Mod59-Q6",
+        "itemBody": "<p>Consider two bonds that are identical except for their coupon rates. The bond that \nwill have the highest interest rate risk most likely has the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A lower coupon rate means that more of the bond’s value comes from \nrepayment of face value, which occurs at the end of the bond’s life.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3d790537-f5ba-4bf7-bc0f-1078d7933811",
+              "itemBody": "<p>A. lowest coupon rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "f5203037-9909-4e07-b5ca-d3c792773dcc",
+              "itemBody": "<p>B. coupon rate closest to its market yield.</p>",
+              "position": 2
+            },
+            {
+              "id": "b661c96d-429e-4075-9872-8c2d52c30e19",
+              "itemBody": "<p>C. C. highest coupon rate.\nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3d790537-f5ba-4bf7-bc0f-1078d7933811"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-7",
+      "entry": {
+        "title": "2027-Mod59-Q7",
+        "itemBody": "<p>The market value of an 18-year zero-coupon bond with a maturity value of $1,000 \ndiscounted at a 12% annual interest rate with semi-annual compounding is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The value of a zero-coupon bond is \nFace value\n(1 + 𝑟)𝑁  \n \nwhere r is the market discount rate per period, and N is the number of evenly spaced \nperiods to maturity. The value of the zero-coupon bond is \n1,000\n(1 + 0.12/2)18×2 = 122.7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1545a1a4-acc4-4d28-8b70-7ddcff1903a6",
+              "itemBody": "<p>A. $122.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "33d0ba2a-e721-487f-a013-0d4536bf7e05",
+              "itemBody": "<p>B. $130.04.</p>",
+              "position": 2
+            },
+            {
+              "id": "909a350f-583b-4444-aea3-d7d728535bdd",
+              "itemBody": "<p>C. $192.86.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1545a1a4-acc4-4d28-8b70-7ddcff1903a6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-8",
+      "entry": {
+        "title": "2027-Mod59-Q8",
+        "itemBody": "<p>An investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% \nand mature in 10 years, at an annual yield to maturity of 12%. The bonds will most \nlikely be selling at:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The coupon rate on the bonds is lower than the yield to maturity, \nimplying that the bonds should be selling at a price lower than their par value —that \nis, at a discount.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4108ece5-044d-406a-b30c-d090034c7993",
+              "itemBody": "<p>A. par.</p>",
+              "position": 1
+            },
+            {
+              "id": "dd22bcb0-bb61-443c-addc-e21e3def2f74",
+              "itemBody": "<p>B. a premium.</p>",
+              "position": 2
+            },
+            {
+              "id": "46035b08-9da9-4992-9c48-55731f6be48d",
+              "itemBody": "<p>C. a discount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "46035b08-9da9-4992-9c48-55731f6be48d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-9",
+      "entry": {
+        "title": "2027-Mod59-Q9",
+        "itemBody": "<p>An investor sells a bond at the quoted price of $98.00. In addition, she receives \naccrued interest of $4.40. The flat price of the bond is equal to the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The agreed-on bond price excluding accrued interest is referred to as \nthe flat price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f0098c93-5965-4a54-806a-60fdf5212485",
+              "itemBody": "<p>A. par value plus accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "3a253628-ee34-456f-9db4-77e9062ed2b7",
+              "itemBody": "<p>B. accrued interest plus the agreed-on bond price.</p>",
+              "position": 2
+            },
+            {
+              "id": "b688eaa8-d98c-4fbc-992d-6eb950ac4885",
+              "itemBody": "<p>C. agreed-on bond price excluding accrued interest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b688eaa8-d98c-4fbc-992d-6eb950ac4885"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-10",
+      "entry": {
+        "title": "2027-Mod59-Q10",
+        "itemBody": "<p>A credit analyst is least likely to use matrix pricing to estimate the required yield \nand price of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Matrix pricing is most suited to pricing inactively traded bonds and newly \nunderwritten bonds. A credit analyst is least likely to use matrix pricing to price an \nactively traded bond. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "494b9299-8306-479e-8880-9eae091e4f1d",
+              "itemBody": "<p>A. newly underwritten bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "e4a50871-1d8b-46b8-9d3c-6cd3cd8163db",
+              "itemBody": "<p>B. actively traded speculative grade bond.</p>",
+              "position": 2
+            },
+            {
+              "id": "57efb998-f14a-4cd6-9f66-50ea97bb4335",
+              "itemBody": "<p>C. inactively traded investment grade bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e4a50871-1d8b-46b8-9d3c-6cd3cd8163db"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-11",
+      "entry": {
+        "title": "2027-Mod59-Q11",
+        "itemBody": "<p>The maturity effect is least likely to hold for a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In some situations, the maturity effect may not hold for a low -coupon \nbond that is trading below par.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7db8bcb3-089d-4cb3-9c97-ef405b41786a",
+              "itemBody": "<p>A. zero-coupon bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "a49017c1-4185-4449-9f83-52233c9ae382",
+              "itemBody": "<p>B. low-coupon, long-term bond trading at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "4b99df78-2944-4e90-b23e-2a4495a48895",
+              "itemBody": "<p>C. low-coupon, long-term bond trading at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a49017c1-4185-4449-9f83-52233c9ae382"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-12",
+      "entry": {
+        "title": "2027-Mod59-Q12",
+        "itemBody": "<p>Bonds are quoted using the</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7686f5d5-8209-4a06-820b-c096ee7c5587",
+              "itemBody": "<p>A. full price and settled using the flat price.</p>",
+              "position": 1
+            },
+            {
+              "id": "a61fcd12-6cdf-4cf6-b83e-444e2c4c2fea",
+              "itemBody": "<p>B. flat price and settled using the full price.</p>",
+              "position": 2
+            },
+            {
+              "id": "60665fcd-44e8-41ec-8d50-e7689c906909",
+              "itemBody": "<p>C. \"dirty\" price and settled using the invoice price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a61fcd12-6cdf-4cf6-b83e-444e2c4c2fea"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-13",
+      "entry": {
+        "title": "2027-Mod59-Q13",
+        "itemBody": "<p>Which of the following does not depend on the market discount rate? A bond's:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the accrued interest part of the full price does not depend on \nthe yield-to-maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5664cd55-13e4-47eb-8365-fc7dffbc5ffd",
+              "itemBody": "<p>A. flat price</p>",
+              "position": 1
+            },
+            {
+              "id": "f1f6b3e7-0142-42ab-b48b-b797975085fb",
+              "itemBody": "<p>B. full price</p>",
+              "position": 2
+            },
+            {
+              "id": "7cbe8302-46f4-44f3-8a86-2cced6e7330e",
+              "itemBody": "<p>C. accrued interest</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7cbe8302-46f4-44f3-8a86-2cced6e7330e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-14",
+      "entry": {
+        "title": "2027-Mod59-Q14",
+        "itemBody": "<p>All else being equal, the absolute value of the percentage price change for an \noption-free bond is most likely: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 3 of 8</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect). \n \n15. correct because the value of a bond is calculated as: \nPV = [PMT ÷ (1+r)^1] + [PMT ÷(1+r)^2] +...+ [(PMT + FV) ÷(1+r)^N) \nwhere: \nPV = present value, or the price of the bond  \nPMT = coupon payment per period  \nFV = future value paid at maturity, or the par value of the bond  \nr = market discount rate, or required rate of return per period  \nN = number of evenly spaced periods to maturity \nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = \n$108, Solve for I, is equal to 1.114% semi -annually, or 2.228% on an annual basis. If \nthe yield to maturity decreases by 100 bps, the price of the bond after one year is  \ncomputed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve \nPV, is equal to $107.43. \nTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7954d12d-e78a-49e2-9427-4edb861793fe",
+              "itemBody": "<p>A. less when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 1
+            },
+            {
+              "id": "eabd0de9-350b-4da8-9b8c-06563cb090f8",
+              "itemBody": "<p>B. the same whether the market discount rate decreases or increases by the same \namount.</p>",
+              "position": 2
+            },
+            {
+              "id": "2b73755b-36eb-4387-bd86-1dea701464cb",
+              "itemBody": "<p>C. greater when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2b73755b-36eb-4387-bd86-1dea701464cb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-15",
+      "entry": {
+        "title": "2027-Mod59-Q15",
+        "itemBody": "<p>A bond has the following characteristics: \nTime to maturity 3 years \nCoupon rate 12% \nPayment period Semiannual \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value \nis closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because \n𝑃𝑉 = 6\n(1 + 0.02)1 + 6\n(1 + 0.02)2 + 6\n(1 + 0.02)3 + 6\n(1 + 0.02)4 + 6\n(1 + 0.02)5 + 6 + 100\n(1 + 0.02)6 \n= 122.4057 ≈ 122.41</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "25e19349-8ea0-454e-b578-f218480799be",
+              "itemBody": "<p>A. 122.20.</p>",
+              "position": 1
+            },
+            {
+              "id": "23040cb2-ccf1-4d1a-a860-17fe9e9c670f",
+              "itemBody": "<p>B. 122.41.</p>",
+              "position": 2
+            },
+            {
+              "id": "a01f1988-389f-4fdf-9b95-a40f9c36fa60",
+              "itemBody": "<p>C. 122.53.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "23040cb2-ccf1-4d1a-a860-17fe9e9c670f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-16",
+      "entry": {
+        "title": "2027-Mod59-Q16",
+        "itemBody": "<p>An analyst gathers the following information: \n  Time to Maturity Yield to Maturity \nBond 1 Three years 3.4% \nBond 2 Eight years 5.4% \n \nBased only on this information, the estimated market discount rate for a 5-year \nbond with similar credit quality is: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 4 of 8</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quote d or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times -to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2ecdeede-0ffb-4bb3-aeae-a19effd5fccb",
+              "itemBody": "<p>A. 4.2%.</p>",
+              "position": 1
+            },
+            {
+              "id": "fe73e714-c07d-49cc-8093-f3fd6af2c2c4",
+              "itemBody": "<p>B. 4.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "1b04b6a3-f256-4358-9b32-fb6219dd573d",
+              "itemBody": "<p>C. 4.6%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2ecdeede-0ffb-4bb3-aeae-a19effd5fccb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-17",
+      "entry": {
+        "title": "2027-Mod59-Q17",
+        "itemBody": "<p>Matrix pricing is most likely used to estimate the price of a bond that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times -to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2abfaffe-2b0c-4d35-bfe6-338f1d60887d",
+              "itemBody": "<p>A. is highly liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "4f7a149d-68d7-4d57-ba5a-d52e432092cd",
+              "itemBody": "<p>B. is not yet issued.</p>",
+              "position": 2
+            },
+            {
+              "id": "2a72129b-b256-4235-9372-ce5462ace7fa",
+              "itemBody": "<p>C. has unknown credit quality.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4f7a149d-68d7-4d57-ba5a-d52e432092cd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-18",
+      "entry": {
+        "title": "2027-Mod59-Q18",
+        "itemBody": "<p>The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e67c3ca-9e3b-4a97-9a8e-1468d0ec7656",
+              "itemBody": "<p>A. less than 100 basis points.</p>",
+              "position": 1
+            },
+            {
+              "id": "c47db5d5-3420-4a96-8de4-dfb4ba317529",
+              "itemBody": "<p>B. 100 basis points.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7f12ea0-dd27-4b37-98f9-5f64306d3e08",
+              "itemBody": "<p>C. more than 100 basis points.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d7f12ea0-dd27-4b37-98f9-5f64306d3e08"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-19",
+      "entry": {
+        "title": "2027-Mod59-Q19",
+        "itemBody": "<p>The flat price of a bond:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because it is the flat price that is 'pulled to par' along the constant-yield \nprice trajectory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fbe478ea-db20-4eb6-b64a-fadfb55693a3",
+              "itemBody": "<p>A. is also referred to as the \"dirty\" price.</p>",
+              "position": 1
+            },
+            {
+              "id": "896cdcce-715d-4935-9f45-3f891d6fb07a",
+              "itemBody": "<p>B. is \"pulled to par\" along the constant-yield price trajectory.</p>",
+              "position": 2
+            },
+            {
+              "id": "6b1058e8-24ae-4ab6-a0da-71cc5cab76eb",
+              "itemBody": "<p>C. includes interest which is received by the seller on the settlement date.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "896cdcce-715d-4935-9f45-3f891d6fb07a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-59-20",
+      "entry": {
+        "title": "2027-Mod59-Q20",
+        "itemBody": "<p>A bond is traded in between its coupon payment dates. Which of the following is true?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The flat price, quoted by bond dealers, is the full price less accrued \ninterest. Accrued interest is not included in the flat price. \nA is incorrect. The buyer must pay the full price, which already includes accrued \ninterest. \nB is incorrect. The flat price is the quoted price. \nYield and Yield Spread Measures for Fixed-Rate Bonds \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose.  \n \n1. A bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, \nand is currently trading at 97.28. The semi-annual bond basis yield is closest to: \nA. 1.055%. \nB. 2.121%. \nC. 4.242%. \n \n2. An analyst is analyzing  a three -year, 2.25% annual coupon bond issued by QWE  \nCompany. Currently, the bond’s yield -to-maturity is 2.707%. The three -year swap  \nrate is 1.840%. The government spot rates are presented in the table. \nMaturity Government Spot Rate \n1Y 0.90% \n2Y 1.26% \n3Y 1.90% \n \nThe G-Spread (in basis points) for the QWE bond is closest to: \nA. 80. \nB. 87. \nC. 135. \n \n3. The I-spread (in basis points) for the QWE bond is closest to: \nA. 46. \nB. 80. \nC. 87. \n \n4. If the price of the QWE bond is 98.70% of par, its Z -spread (in basis points) is  \nclosest to: \nA. 80. \nB. 82. \nC. 87. \n \n5. Consider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. \nIf the bond currently sells for $96.47, the yield to maturity is closest to: \nA. 8.37%. \nB. 8.29%. \nC. 7.41%. \n \n6. Stellar Corp. recently issued $100 par value deferred coupon bonds, which will make \nno coupon payments in the next four years. Regular annual coupon payments at a rate \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 2 of 6 \n \nof 8% will then be made until the bonds mature at the end of 10 years. If the bonds \nare currently priced at $87.00, their yield to maturity is closest to: \nA. 6.0%. \nB. 8.0%. \nC. 10.1%. \n \n7. For a coupon bond with a negative yield, compounding more frequently within the \nyear results in a yield-to-maturity that is: \nA. more negative. \nB. the same. \nC. less negative.  \n \n8. The yield spread over an interpolated sovereign bond is best described as a(n): \nA. I-spread. \nB. G-spread. \nC. Z-spread. \n \n9. An analyst gathers the following information about a callable bond that pays \ninterest annually: \nCurrent price 105 per 100 of par value \nTime-to-maturity 4 years \nCoupon rate 4% \nCall price at year 2 103 per 100 of par value \nCall price at year 3 101 per 100 of par value \n \nThis bond's yield to worst is the: \nA. yield to maturity. \nB. yield to first call. \nC. yield to second call. \n \n10. The stated annual yield to maturity on a semiannual bond basis is 3.66%. The \neffective annual yield is closest to: \nA. 3.63%. \nB. 3.69%. \nC. 7.45%. \n \n11. A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted \nto a quarterly periodicity, the APR is closest to: \nA. 1.98%. \nB. 3.92%. \nC. 7.92%. \n12. The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the: \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 3 of 6 \n \nA. I-spread. \nB. Z-spread. \nC. option-adjusted spread. \n \n13. The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of \n$100 and currently priced at $85.70 is closest to: \nA. 4.50%. \nB. 5.25%. \nC. 5.93%. \n \n14. The factor least likely to influence the yield spread on an option -free, fixed-rate \nbond is a change in the: \nA. credit risk of the issuer. \nB. expected inflation rate. \nC. liquidity of the bond. \n \n  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 4 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e6f30413-a94f-4a7f-879b-5de0f7817e01",
+              "itemBody": "<p>A. The buyer must pay the full price plus the accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "604e88d4-6d75-4de4-9e45-8384cd991934",
+              "itemBody": "<p>B. The bond’s quoted price is greater than its flat price.</p>",
+              "position": 2
+            },
+            {
+              "id": "085d9e35-d129-4385-b159-8c1989e8457f",
+              "itemBody": "<p>C. Accrued interest is not included in the flat price. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "085d9e35-d129-4385-b159-8c1989e8457f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 20
+}

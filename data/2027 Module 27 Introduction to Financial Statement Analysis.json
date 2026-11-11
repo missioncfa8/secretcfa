@@ -1,0 +1,3032 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6139,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 56,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 1: Introduction to Financial Statement Analysis",
+    "topic_id": 1034,
+    "topic": "CFA-26-02-LI-C: Financial Statement Analysis",
+    "subtopic_id": 6139,
+    "subtopic": "Module 1: Introduction to Financial Statement Analysis",
+    "question_count": 56,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 850,
+        "name": "Warehouse Course: Financial Statement Analysis 26-LI",
+        "code": "Warehouse Course: Financial Statement Analysis 26-LI",
+        "module_id": 4443,
+        "question_count": 29,
+        "type": "warehouse"
+      },
+      {
+        "id": 841,
+        "name": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+        "code": "Practice Pack Warehouse: Financial Statement Analysis 26-LI",
+        "module_id": 4660,
+        "question_count": 5,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 56.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "06afa5e8cf968a30",
+    "ordered_item_ids": [
+      "54754",
+      "54755",
+      "54756",
+      "54757",
+      "54758",
+      "50927",
+      "50928",
+      "50929",
+      "50930",
+      "50931",
+      "50932",
+      "50933",
+      "50934",
+      "50935",
+      "50936",
+      "50937",
+      "50938",
+      "50939",
+      "50940",
+      "50941",
+      "50942",
+      "54119",
+      "54120",
+      "54121",
+      "54122",
+      "54123",
+      "54124",
+      "54125",
+      "54126",
+      "54127",
+      "54128",
+      "54129",
+      "54130",
+      "54131"
+    ],
+    "visible_item_ids": [
+      "54754",
+      "54755",
+      "54756",
+      "54757",
+      "54758",
+      "50927",
+      "50928",
+      "50929",
+      "50930",
+      "50931",
+      "50932",
+      "50933",
+      "50934",
+      "50935",
+      "50936",
+      "50937",
+      "50938",
+      "50939",
+      "50940",
+      "50941",
+      "50942",
+      "54119",
+      "54120",
+      "54121",
+      "54122",
+      "54123",
+      "54124",
+      "54125",
+      "54126",
+      "54127",
+      "54128",
+      "54129",
+      "54130",
+      "54131"
+    ]
+  },
+  "items": [
+    {
+      "id": "54754",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-FRA-Vervloet-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <i>most likely</i> found in the management commentary?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8ab2ca4f-88b0-4c55-a487-155b35631b70"
+        },
+        "answerFeedback": {
+          "08a7edca-683a-403d-840d-64f60fdc479c": "<p>Incorrect because&nbsp;under ISAs, the overall objectives of an auditor in conducting an audit of financial statements are:&nbsp;to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, thereby enabling the auditor to express an opinion on whether the financial statements are prepared, in all material respects, in accordance with an applicable financial reporting framework.</p>",
+          "8ab2ca4f-88b0-4c55-a487-155b35631b70": "<p>Correct because the management commentary, or MD&amp;A, is a good starting place for understanding information in the financial statements. In particular, the forward-looking disclosures, such as those about planned capital expenditures, new store openings, or divestitures, can be useful in projecting a company’s future performance.</p>",
+          "941b209a-6576-42c3-8e46-04ba8a7ed634": "<p>Incorrect because the notes disclose the basis of preparation for the financial statements.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8ab2ca4f-88b0-4c55-a487-155b35631b70",
+              "itemBody": "<p>A. Forward-looking disclosures</p>",
+              "position": 1
+            },
+            {
+              "id": "941b209a-6576-42c3-8e46-04ba8a7ed634",
+              "itemBody": "<p>B. Basis of preparation for the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "08a7edca-683a-403d-840d-64f60fdc479c",
+              "itemBody": "<p>C. Reasonable assurance whether the financial statements as a whole are free from material misstatement</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8818,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 841,
+      "sourceModuleId": 4660,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54755",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-FRA-Vervloet-02",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <i>most</i> appropriately issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "daf01e08-614b-4818-8da7-1e52b28adb17"
+        },
+        "answerFeedback": {
+          "b5b35a97-5992-476a-8cbd-0a2502dd7588": "<p>Incorrect because \"a <i>disclaimer </i>of opinion occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion.\"</p>",
+          "daf01e08-614b-4818-8da7-1e52b28adb17": "<p>Correct because \"[a]n <i>adverse </i>audit opinion is issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented.\"</p>",
+          "f71ae006-95b0-487b-8889-4af3406b6eda": "<p>Incorrect because \"[a] <i>qualified </i>audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.\"</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "daf01e08-614b-4818-8da7-1e52b28adb17",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "f71ae006-95b0-487b-8889-4af3406b6eda",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "b5b35a97-5992-476a-8cbd-0a2502dd7588",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8818,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 841,
+      "sourceModuleId": 4660,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54756",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-FRA-Mazararu-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most </i>accurate? The role of financial statement analysis is to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f43a9a49-9ad2-40f6-8e45-447ec19a561b"
+        },
+        "answerFeedback": {
+          "6aca975f-f13c-4057-8bb7-23ac7ad0a327": "<p>Incorrect because this describes the role of audit report not financial statement analysis as follows:&nbsp;the independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.</p>",
+          "ce313da6-e2fc-4067-bdd6-e6837f5c1405": "<p>Incorrect because this describes the role of financial reporting not financial statement analysis as follows: the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position that is useful to a wide range of users in making economic decisions.</p>",
+          "f43a9a49-9ad2-40f6-8e45-447ec19a561b": "<p>Correct because the role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6aca975f-f13c-4057-8bb7-23ac7ad0a327",
+              "itemBody": "<p>A. provide&nbsp;assurance that&nbsp;the audited financial statements are free from material error.</p>",
+              "position": 1
+            },
+            {
+              "id": "ce313da6-e2fc-4067-bdd6-e6837f5c1405",
+              "itemBody": "<p>B. provide information about a company’s performance, financial position, and changes in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "f43a9a49-9ad2-40f6-8e45-447ec19a561b",
+              "itemBody": "<p>C. evaluate the performance and financial position of a company for&nbsp;making investment, credit, and other economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8818,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 841,
+      "sourceModuleId": 4660,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54757",
+      "entry": {
+        "title": "ITEM_CFA-L1-00981",
+        "feedback": {},
+        "itemBody": "<p>Common-size statements are <i>most likely</i> the output of which of the following phases of the financial statement analysis framework?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6c576fa6-e608-48eb-ae54-c8382568b486"
+        },
+        "answerFeedback": {
+          "6c576fa6-e608-48eb-ae54-c8382568b486": "<p>Correct because common-size statements are an output of the “process data” phase of the financial statement analysis framework.</p>",
+          "a83d83f6-d294-4a5a-9065-10638ad4b051": "<p>Incorrect because analytical results, not common-size statements, are the output of the “analyze/interpret the processed data” phase.</p>",
+          "e44695ac-4abd-4002-aaac-0dfba3b3194c": "<p>Incorrect because analytical reports and recommendations, not common-size statements, are outputs of the “develop and communicate conclusions and recommendations” phase.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6c576fa6-e608-48eb-ae54-c8382568b486",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "a83d83f6-d294-4a5a-9065-10638ad4b051",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "e44695ac-4abd-4002-aaac-0dfba3b3194c",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8818,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 841,
+      "sourceModuleId": 4660,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54758",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.10-FSAN-Scott-04",
+        "feedback": {},
+        "itemBody": "<p>Earnings calls are <i>most likely</i> sourced from:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1a9f74bc-3861-4452-816e-68aac19364c8"
+        },
+        "answerFeedback": {
+          "1a9f74bc-3861-4452-816e-68aac19364c8": "<p>Correct because \"earnings calls\" are considered to be from \"issuer sources\".</p>",
+          "d42f358f-b914-4405-9f1e-bf4c97cde54c": "<p>Incorrect because \"earnings calls\" are considered to be from \"issuer sources\", not public third-party sources.</p>",
+          "d4428a88-6f0b-44ae-983d-7249ff6d602e": "<p>Incorrect because \"earnings calls\" are considered to be from \"issuer sources\", not proprietary third-party sources.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1a9f74bc-3861-4452-816e-68aac19364c8",
+              "itemBody": "<p>A. issuers.</p>",
+              "position": 1
+            },
+            {
+              "id": "d42f358f-b914-4405-9f1e-bf4c97cde54c",
+              "itemBody": "<p>B. public third parties.</p>",
+              "position": 2
+            },
+            {
+              "id": "d4428a88-6f0b-44ae-983d-7249ff6d602e",
+              "itemBody": "<p>C. proprietary third parties.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8818,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 841,
+      "sourceModuleId": 4660,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50927",
+      "entry": {
+        "title": "CFA2417-R-s06-Q1",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Ratios are an output of the process information step but are an input into the analyze/interpret data step.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Ratios are an input into which step in the financial statement analysis framework?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ef991881-cc4d-4f6e-a721-c8861f87accf"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f47e3e36-255d-4634-a4e1-98a1e57f9927",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "9dc63c50-ae96-4d53-8e02-86a40eeedba9",
+              "itemBody": "<p>B. Collect input data</p>",
+              "position": 2
+            },
+            {
+              "id": "ef991881-cc4d-4f6e-a721-c8861f87accf",
+              "itemBody": "<p>C. Analyze/interpret the processed data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50928",
+      "entry": {
+        "title": "CFA2417-R-s06-Q2",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The follow-up phase involves gathering information and repeating the analysis to determine whether it is necessary to update reports and recommendations.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which phase in the financial statement analysis framework is <em>most likely</em> to involve producing updated reports and recommendations?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "35c6ccac-8e2c-43cb-9128-6a4fc00bedbf"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "35c6ccac-8e2c-43cb-9128-6a4fc00bedbf",
+              "itemBody": "<p>A. Follow-up</p>",
+              "position": 1
+            },
+            {
+              "id": "694b39f7-8097-4d9a-b465-b31aafe81f88",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "1e062a1a-3b7e-4ff4-a903-52e17db4a0b1",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50929",
+      "entry": {
+        "title": "CFA2417-R-s06-Q3",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. In general, analysts seek to examine the past and current performance and financial position of a company to form expectations about its future performance and financial position.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following <em>best</em> describes the role of financial statement analysis?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8f56745f-af47-4306-9a70-270412c85cf8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "91f1930e-6c8e-459d-ab34-abb61c9ce53a",
+              "itemBody": "<p>A. To provide information about a company’s performance</p>",
+              "position": 1
+            },
+            {
+              "id": "43a9edf6-aa2d-439e-a3f2-8c17bc28b429",
+              "itemBody": "<p>B. To provide information about a company’s changes in financial position</p>",
+              "position": 2
+            },
+            {
+              "id": "8f56745f-af47-4306-9a70-270412c85cf8",
+              "itemBody": "<p>C. To form expectations about a company’s future performance and financial position</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50930",
+      "entry": {
+        "title": "CFA2417-R-s06-Q4",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The primary role of financial statement analysis is to use financial reports prepared by companies to evaluate their past, current, and potential performance and financial position for the purpose of making investment, credit, and other economic decisions.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The primary role of financial statement analysis is <em>best</em> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "27a4f39a-febe-42b7-90a4-8768366af4e9"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d7537b07-0218-41d8-a018-263c9073c18c",
+              "itemBody": "<p>A. providing information useful for making investment decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "27a4f39a-febe-42b7-90a4-8768366af4e9",
+              "itemBody": "<p>B. evaluating a company for the purpose of making economic decisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "5143b92c-dc21-4a96-994a-2476397dfa65",
+              "itemBody": "<p>C. using financial reports prepared by analysts to make economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50931",
+      "entry": {
+        "title": "CFA2417-R-s06-Q5",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The International Accounting Standards Board (IASB) is currently charged with developing International Financial Reporting Standards.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">International Financial Reporting Standards are currently developed by which entity?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "638c8b56-edd8-4957-9bc0-4a4a3b62d2a7"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "72385191-791d-4dc8-96e4-481eb209951b",
+              "itemBody": "<p>A. IFRS Foundation</p>",
+              "position": 1
+            },
+            {
+              "id": "638c8b56-edd8-4957-9bc0-4a4a3b62d2a7",
+              "itemBody": "<p>B. International Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "1c746ab7-06f4-4898-a5fd-f05e4c276077",
+              "itemBody": "<p>C. International Organization of Securities Commissions</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50932",
+      "entry": {
+        "title": "CFA2417-R-s06-Q6",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. US Generally Accepted Accounting Principles are developed by the US Financial Accounting Standards Board (FASB).</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">US GAAP are currently developed by which entity?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "92489623-c354-456d-b755-07d1039a0caa"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f8673732-799e-4856-9571-aa9c18c97a00",
+              "itemBody": "<p>A. Securities and Exchange Commission</p>",
+              "position": 1
+            },
+            {
+              "id": "92489623-c354-456d-b755-07d1039a0caa",
+              "itemBody": "<p>B. Financial Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "685bc57d-1d85-4ced-8ad7-7a739e71cbc4",
+              "itemBody": "<p>C. Public Company Accounting Oversight Board</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50933",
+      "entry": {
+        "title": "CFA2417-R-s06-Q7",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, and transparent. The other core objectives are to reduce, not eliminate, systemic risk and to protect investors, not all users of financial statements.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A core objective of the International Organization of Securities Commissions is to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "51255591-6a88-4bf3-a3dd-c8f55fe4fe5d"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e6626fd5-178b-4c25-8261-38b39e31b27d",
+              "itemBody": "<p>A. eliminate systemic risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "2dc6b684-53d4-4ac7-9b36-4a12e3004785",
+              "itemBody": "<p>B. protect users of financial statements.</p>",
+              "position": 2
+            },
+            {
+              "id": "51255591-6a88-4bf3-a3dd-c8f55fe4fe5d",
+              "itemBody": "<p>C. ensure that markets are fair, efficient, and transparent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50934",
+      "entry": {
+        "title": "CFA2417-R-s06-Q8",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The notes provide information that is essential to understanding the information provided in the primary statements.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following <em>best</em> describes why the notes that accompany the financial statements are required? The notes:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "17886f80-28c8-410e-a3c5-1e2610543ab0"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e06455c1-058d-4586-9192-785439052f2e",
+              "itemBody": "<p>A. permit flexibility in statement preparation.</p>",
+              "position": 1
+            },
+            {
+              "id": "41a382df-ec60-4cdc-a19f-ecdecaacd58a",
+              "itemBody": "<p>B. standardize financial reporting across companies.</p>",
+              "position": 2
+            },
+            {
+              "id": "17886f80-28c8-410e-a3c5-1e2610543ab0",
+              "itemBody": "<p>C. provide information necessary to understand the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50935",
+      "entry": {
+        "title": "CFA2417-R-s06-Q9",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The notes disclose choices in accounting policies, methods, and estimates.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Accounting policies, methods, and estimates used in preparing financial statements are <em>most likely</em> to be found in the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "84724240-8a54-4010-b404-dd977cdead16"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e4865c3-9daf-4cef-8318-134479357be3",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "bee298e3-3429-4aba-a68c-84aaa61815d6",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "84724240-8a54-4010-b404-dd977cdead16",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50936",
+      "entry": {
+        "title": "CFA2417-R-s06-Q10",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Disclosure of management compensation is typically included in the proxy statement. An earnings release is about corporate earnings, not what managers earn as compensation.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Information about management and director compensation is <em>most likely</em> to be found in the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "69b76120-dd71-42b4-90f3-d96092c40f02"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d7123feb-2ff4-40f7-a952-f6eb36df0255",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "69b76120-dd71-42b4-90f3-d96092c40f02",
+              "itemBody": "<p>B. proxy statement.</p>",
+              "position": 2
+            },
+            {
+              "id": "fd03d732-db14-4569-b09d-c3b780558eba",
+              "itemBody": "<p>C. earnings release.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50937",
+      "entry": {
+        "title": "CFA2417-R-s06-Q11",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. These are components of management commentary.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Information about a company’s objectives, strategies, and significant risks are <em>most likely</em> to be found in the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "70fd2209-a2e3-4680-be01-4210ad221b64"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0be7b526-35a6-4985-a1c6-c4abc624e604",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "70fd2209-a2e3-4680-be01-4210ad221b64",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "560789cc-afd6-466d-9155-d068f61bc525",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50938",
+      "entry": {
+        "title": "CFA2417-R-s06-Q12",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. An unqualified opinion is a “clean” opinion and indicates that the financial statements present the company’s performance and financial position fairly in accordance with applicable accounting standards.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">What type of audit opinion is preferred when analyzing financial statements?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a8448d24-f6b7-4254-8f0d-1b1e6f9d68bb"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "41ce93bb-d85e-4ea2-b10b-3c7d1004e7ab",
+              "itemBody": "<p>A. Adverse</p>",
+              "position": 1
+            },
+            {
+              "id": "6b4ab965-4bc5-449a-9167-331cf35a99f6",
+              "itemBody": "<p>B. Qualified</p>",
+              "position": 2
+            },
+            {
+              "id": "a8448d24-f6b7-4254-8f0d-1b1e6f9d68bb",
+              "itemBody": "<p>C. Unqualified</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50939",
+      "entry": {
+        "title": "CFA2417-R-s06-Q13",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. A qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An auditor determines that a company’s financial statements are prepared in accordance with applicable accounting standards except with respect to inventory reporting. This exception is <em>most likely</em> to result in an audit opinion that is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b3cd5b87-95e3-4d36-919a-4fe763de1f49"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c2850fdf-6474-41e3-a9ff-500a195b6570",
+              "itemBody": "<p>A. adverse.</p>",
+              "position": 1
+            },
+            {
+              "id": "b3cd5b87-95e3-4d36-919a-4fe763de1f49",
+              "itemBody": "<p>B. qualified.</p>",
+              "position": 2
+            },
+            {
+              "id": "1f57fec8-b26c-47c8-9dc7-54ae2d97ff4f",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50940",
+      "entry": {
+        "title": "CFA2417-R-s06-Q14",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An independent audit report is <em>most likely</em> to provide:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a639da0c-46ec-4609-9b9f-59f79d9154ad"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "34711ac1-5255-446e-a6d9-e80a4634247a",
+              "itemBody": "<p>A. absolute assurance about the accuracy of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "a639da0c-46ec-4609-9b9f-59f79d9154ad",
+              "itemBody": "<p>B. reasonable assurance that the financial statements are fairly presented.</p>",
+              "position": 2
+            },
+            {
+              "id": "1bc0a747-ecb1-4659-988d-fdc1512e5b05",
+              "itemBody": "<p>C. a qualified opinion with respect to the transparency of the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50941",
+      "entry": {
+        "title": "CFA2417-R-s06-Q15",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Interim reports are typically provided semiannually or quarterly and require certain financial information, including unaudited financial statements and an MD&amp;A for the interim period covered by the report. Unqualified refers to a type of audit opinion.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Interim financial reports released by a company are <em>most likely</em> to be:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "65adb38d-ef67-413f-afff-6bbd1cd68348"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "502259d0-d1e5-47cb-86d0-4124bc7eb21f",
+              "itemBody": "<p>A. monthly.</p>",
+              "position": 1
+            },
+            {
+              "id": "65adb38d-ef67-413f-afff-6bbd1cd68348",
+              "itemBody": "<p>B. unaudited.</p>",
+              "position": 2
+            },
+            {
+              "id": "2b428b74-205d-4191-8429-f63187b9434d",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 15,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50942",
+      "entry": {
+        "title": "CFA2417-R-s06-Q16",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. When performing financial statement analysis, analysts should review all company sources of information as well as information from external sources regarding the economy, the industry, the company, and peer (comparable) companies.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following sources of information used by analysts is found outside a company’s annual report?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a4925fd2-f640-4bf7-81e4-bb73199dcfc8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9a8e0e1-5055-4170-9bdc-a0fdee8f1bd1",
+              "itemBody": "<p>A. Auditor’s report</p>",
+              "position": 1
+            },
+            {
+              "id": "a4925fd2-f640-4bf7-81e4-bb73199dcfc8",
+              "itemBody": "<p>B. Peer company analysis</p>",
+              "position": 2
+            },
+            {
+              "id": "868c5ad6-4ccf-4596-a04b-72119e1de8d9",
+              "itemBody": "<p>C. Management discussion and analysis</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 16,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8187,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54119",
+      "entry": {
+        "title": "ITEM_20170608001",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most</i> accurate about the responsibilities of an auditor for a publicly traded firm in the United States? The auditor must:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1969ade6-76ac-4a97-9e4a-23dea0bdd00a"
+        },
+        "answerFeedback": {
+          "073b29d0-c1aa-4c68-b818-dc7fab9fb1d9": "<p>Incorrect. The statements are those prepared by management, not the auditor. The auditor is expressing an opinion as to whether the statements are fairly presented and free from material error.</p>",
+          "1969ade6-76ac-4a97-9e4a-23dea0bdd00a": "<p><strong>Correct.</strong> For a publicly traded firm in the United States, the auditor must express an opinion as to whether the company’s internal control system is in accordance with the Public Accounting Oversight Board, under the Sarbanes–Oxley Act. The opinion is given either in a final paragraph in the auditor’s report or as a separate opinion.</p>",
+          "9baec78e-605f-4ee0-8178-d8b470bd2d3a": "<p>Incorrect. The auditor only provides reasonable assurance that the statements are free from material error.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "073b29d0-c1aa-4c68-b818-dc7fab9fb1d9",
+              "itemBody": "<p>A. state that the financial statements are prepared according to generally accepted accounting principles.</p>",
+              "position": 1
+            },
+            {
+              "id": "9baec78e-605f-4ee0-8178-d8b470bd2d3a",
+              "itemBody": "<p>B. ensure that the financial statements are free from error, fraud, or illegal acts.</p>",
+              "position": 2
+            },
+            {
+              "id": "1969ade6-76ac-4a97-9e4a-23dea0bdd00a",
+              "itemBody": "<p>C. express an opinion about the effectiveness of the company’s internal control systems.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54120",
+      "entry": {
+        "title": "ITEM_20170608002",
+        "feedback": {},
+        "itemBody": "<p>Providing information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users is <i>most</i> accurately described as the role of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "aa41f3d6-f591-4c3a-bf87-414133cd7a3e"
+        },
+        "answerFeedback": {
+          "05d26746-03c7-401a-b046-fb392421878c": "<p>Incorrect. The role of financial statement analysis is to take the financial reports and evaluate the past, current, and prospective performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.</p>",
+          "530bd1a2-aefb-4fcc-b9cd-fcdc17c3fe99": "<p>Incorrect. Audit reports express an opinion about the fair presentation of the financial statements.</p>",
+          "aa41f3d6-f591-4c3a-bf87-414133cd7a3e": "<p><strong>Correct.</strong> The role of financial reporting is to provide information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users in making economic decisions.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aa41f3d6-f591-4c3a-bf87-414133cd7a3e",
+              "itemBody": "<p>A. financial reporting.</p>",
+              "position": 1
+            },
+            {
+              "id": "530bd1a2-aefb-4fcc-b9cd-fcdc17c3fe99",
+              "itemBody": "<p>B. the audit report.</p>",
+              "position": 2
+            },
+            {
+              "id": "05d26746-03c7-401a-b046-fb392421878c",
+              "itemBody": "<p>C. financial statement analysis.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54121",
+      "entry": {
+        "title": "ITEM_20170608015",
+        "feedback": {},
+        "itemBody": "<p>Which of the following reports is <i>least likely</i> to be filed with the US SEC?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8112f9d7-77d8-4d42-ab7d-332207794d24"
+        },
+        "answerFeedback": {
+          "22c2e6e5-c766-4a03-9f9c-495b097575f6": "<p>Incorrect because the 10-K is required by the US SEC.</p>",
+          "8112f9d7-77d8-4d42-ab7d-332207794d24": "<p>Correct because the&nbsp;annual report is not a requirement of the US SEC.</p>",
+          "b0679653-95ac-453f-8a75-734732c15525": "<p>Incorrect because a&nbsp;proxy statement is required by the US SEC.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8112f9d7-77d8-4d42-ab7d-332207794d24",
+              "itemBody": "<p>A. Annual report</p>",
+              "position": 1
+            },
+            {
+              "id": "22c2e6e5-c766-4a03-9f9c-495b097575f6",
+              "itemBody": "<p>B. Form 10-K</p>",
+              "position": 2
+            },
+            {
+              "id": "b0679653-95ac-453f-8a75-734732c15525",
+              "itemBody": "<p>C. Proxy statement</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54122",
+      "entry": {
+        "title": "ITEM_20170608037",
+        "feedback": {},
+        "itemBody": "<p>Interim reports <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a4add90c-29dd-46e4-8024-538ba2308970"
+        },
+        "answerFeedback": {
+          "a4add90c-29dd-46e4-8024-538ba2308970": "<p><strong>Correct.</strong> Interim reports are provided semi-annually or quarterly, depending on applicable regulatory requirements.</p>",
+          "a5693d68-1363-4561-b232-256c2e7d8c17": "<p>Incorrect. Interim reports generally present the four basic financial statements and condensed notes.</p>",
+          "c8176f6d-408e-4d5d-9254-5a0947a52879": "<p>Incorrect. Interim reports are not audited.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c8176f6d-408e-4d5d-9254-5a0947a52879",
+              "itemBody": "<p>A. are audited.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4add90c-29dd-46e4-8024-538ba2308970",
+              "itemBody": "<p>B. are issued semi-annually or quarterly.</p>",
+              "position": 2
+            },
+            {
+              "id": "a5693d68-1363-4561-b232-256c2e7d8c17",
+              "itemBody": "<p>C. include a full set of financial statements and notes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54123",
+      "entry": {
+        "title": "ITEM_20170608050",
+        "feedback": {},
+        "itemBody": "<p>Notes to financial statements <i>most likely</i> include:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "544025cb-a836-4f41-aec3-4a739ff26c20"
+        },
+        "answerFeedback": {
+          "544025cb-a836-4f41-aec3-4a739ff26c20": "<p>Correct because the notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>",
+          "e761cc27-c926-4f65-8c4c-0393287cb608": "<p>Incorrect because to help improve the quality of the discussion by management, the International Accounting Standards Board (IASB) issued an IFRS Practice Statement “Management Commentary” includes a framework for the preparation and presentation of management commentary. The framework provides guidance rather than sets forth&nbsp;requirements in a standard. The framework identifies five content elements of a “decision-useful management commentary”: (1) the nature of the business; (2) management’s objectives and strategies; (3) the company’s significant resources, risks, and relationships; (4) results of operations; and (5) critical performance measures.</p>",
+          "f43252d1-069c-4103-aa41-d84733ad11d8": "<p>Incorrect because the audit process provides a basis for the independent auditor to express an opinion on whether the information in the audited financial statements presents fairly the financial position, performance, and cash flows of the company in accordance with a specified set of accounting standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f43252d1-069c-4103-aa41-d84733ad11d8",
+              "itemBody": "<p>A. an auditor’s opinion as to the fair presentation of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "544025cb-a836-4f41-aec3-4a739ff26c20",
+              "itemBody": "<p>B. supplementary information about accounting policies, methods, and estimates.</p>",
+              "position": 2
+            },
+            {
+              "id": "e761cc27-c926-4f65-8c4c-0393287cb608",
+              "itemBody": "<p>C. a discussion of significant trends, events, and uncertainties that affect the operating results.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54124",
+      "entry": {
+        "title": "ITEM_20170608148",
+        "feedback": {},
+        "itemBody": "<p>The role of the International Organization of Securities Commissions (IOSCO) is <i>best</i> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b8171017-17c5-4e64-8d03-0573611595ba"
+        },
+        "answerFeedback": {
+          "1b35294d-a690-471f-94a7-238610bffe88": "<p>Incorrect because maintaining convergence on new standards remains a priority of both standard-setting bodies [IFRS and FASB].</p>",
+          "9090049f-43b8-4a2a-baf3-1a638190d365": "<p>Incorrect because the US SEC (not IOSCO)&nbsp;has primary responsibility for securities and capital markets regulation in the United States and is an ordinary member of IOSCO.</p>",
+          "b8171017-17c5-4e64-8d03-0573611595ba": "<p>Correct because IOSCO assists in attaining the&nbsp;goal of uniform regulation as well as cross-border cooperation in combating violations of securities and derivatives laws.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b8171017-17c5-4e64-8d03-0573611595ba",
+              "itemBody": "<p>A. promoting cross-border cooperation and uniformity in securities regulation.</p>",
+              "position": 1
+            },
+            {
+              "id": "9090049f-43b8-4a2a-baf3-1a638190d365",
+              "itemBody": "<p>B. enforcing financial reporting requirements for entities participating in capital markets.</p>",
+              "position": 2
+            },
+            {
+              "id": "1b35294d-a690-471f-94a7-238610bffe88",
+              "itemBody": "<p>C. promoting the use of International Financial Reporting Standards (IFRS) and the convergence of national accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54125",
+      "entry": {
+        "title": "ITEM_20170608204",
+        "feedback": {},
+        "itemBody": "<p>For a company issuing securities in the United States to meet its obligations under the Sarbanes–Oxley Act, which of the following is management required to attest to?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "703fd78e-7b06-4f78-9f4e-69dee4d264da"
+        },
+        "answerFeedback": {
+          "21dc254e-59d5-4421-9b96-52555295b8d3": "<p>Incorrect because the notes to the financial statements disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>",
+          "703fd78e-7b06-4f78-9f4e-69dee4d264da": "<p>Correct because the [Sarbanes–Oxley] act addresses auditor independence (it prohibits auditors from providing certain non-audit services to the companies they audit); strengthens corporate responsibility for financial reports (it requires executive management to certify that the company’s financial reports fairly present the company’s condition); and requires management to report on&nbsp;the effectiveness of the company’s internal control over financial reporting (including obtaining external auditor confirmation of the effectiveness of internal control).</p>",
+          "aa98041d-041b-44f9-9ae6-1159b55c9f34": "<p>Incorrect because the SEC requires that shareholders of a company receive a proxy statement before a shareholder meeting. A proxy is an authorization from the shareholder giving another party the right to cast its vote. Shareholder meetings are held at least once a year, but any special meetings also require a proxy statement. Proxies, especially annual meeting&nbsp;proxies, contain information that is often useful to financial analysts. Such information typically includes proposals that require a shareholder vote, details of security ownership by management and principal owners, biographical information on directors, and disclosure of executive compensation. Proxy statement information is filed with the SEC as Form DEF-14A.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "703fd78e-7b06-4f78-9f4e-69dee4d264da",
+              "itemBody": "<p>A. The adequacy of internal control over financial reporting</p>",
+              "position": 1
+            },
+            {
+              "id": "aa98041d-041b-44f9-9ae6-1159b55c9f34",
+              "itemBody": "<p>B. The suitability of management and director compensation agreements</p>",
+              "position": 2
+            },
+            {
+              "id": "21dc254e-59d5-4421-9b96-52555295b8d3",
+              "itemBody": "<p>C. The accuracy of estimates and assumptions used in preparing the financial statements</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54126",
+      "entry": {
+        "title": "ITEM_20170608299",
+        "feedback": {},
+        "itemBody": "<p>Common-size financial statements are <i>most likely </i>a component of which step in the financial analysis framework?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6060f795-2c1e-4706-9ad2-9654232a9fc6"
+        },
+        "answerFeedback": {
+          "3775d011-e4ee-4436-9efa-bdae6ee5f42d": "<p>Incorrect. Preparing common-size financial statements is part of the process data stage, after which the analyst will analyze/interpret the processed data.</p>",
+          "6060f795-2c1e-4706-9ad2-9654232a9fc6": "<p><strong>Correct.</strong> Preparing common-size financial statements is part of the process data step.</p>",
+          "bb904f9b-5e64-41ac-bd99-f9a709873609": "<p>Incorrect. The financial statements are obtained in the collect data step, but not converted into common-size statements until the process step.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb904f9b-5e64-41ac-bd99-f9a709873609",
+              "itemBody": "<p>A. Collect data</p>",
+              "position": 1
+            },
+            {
+              "id": "3775d011-e4ee-4436-9efa-bdae6ee5f42d",
+              "itemBody": "<p>B. Analyze/interpret data</p>",
+              "position": 2
+            },
+            {
+              "id": "6060f795-2c1e-4706-9ad2-9654232a9fc6",
+              "itemBody": "<p>C. Process data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54127",
+      "entry": {
+        "title": "ITEM_20180516111",
+        "feedback": {},
+        "itemBody": "<p>Where might an analyst look for details covering the full extent of a company’s capital resources?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "28b4e439-e1b7-42e4-82a7-8988854bf398"
+        },
+        "answerFeedback": {
+          "21d57646-50b2-40ee-b494-6995d6693bcd": "<p>Incorrect because the balance sheet discloses what an entity owns (assets), what an entity owes (liabilities), and the owners’ interest in the net assets of a company (equity) at a specific point in time.&nbsp;While the balance sheet can include a section summarizing non-current (long-term) liabilities, this usually includes just a single line item listing the total amount of a company’s long-term debt due after one year with no information about a company’s capital resources, including debt financing and off-balance-sheet financing.</p>",
+          "28b4e439-e1b7-42e4-82a7-8988854bf398": "<p>Correct because in the MD&amp;A, management must highlight&nbsp;any favorable or unfavorable trends and identify significant events and uncertainties that affect the company’s liquidity, capital resources, and results of operations.&nbsp;The MD&amp;A must also provide information about off-balance-sheet obligations and about contractual commitments, such as purchase obligations.</p>",
+          "8df3c93f-2f99-4c4e-bac0-d4699241ab8c": "<p>Incorrect because, while the notes to the financial statements provide details about a company’s debt financing, it is the MD&amp;A section that commonly provides information about its off-balance-sheet financing. The notes disclose the basis of preparation for the financial statements. The notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "21d57646-50b2-40ee-b494-6995d6693bcd",
+              "itemBody": "<p>A. Balance sheet</p>",
+              "position": 1
+            },
+            {
+              "id": "8df3c93f-2f99-4c4e-bac0-d4699241ab8c",
+              "itemBody": "<p>B. Notes to the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "28b4e439-e1b7-42e4-82a7-8988854bf398",
+              "itemBody": "<p>C. Management discussion and analysis (MD&amp;A)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54128",
+      "entry": {
+        "title": "ITEM_CFA-L1-04115",
+        "feedback": {},
+        "itemBody": "<p>A qualified audit opinion is <i>most likely</i> issued when financial statements are prepared:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3805e15f-62dc-41ae-b9f8-090fef313bfd"
+        },
+        "answerFeedback": {
+          "35d0a662-387a-4d03-b731-92d8712d40e3": "<p>Incorrect because material departures from accounting standards will earn an adverse opinion.</p>",
+          "3805e15f-62dc-41ae-b9f8-090fef313bfd": "<p>Correct because financial statements showing “scope limitation or exception to accounting standards” will earn a qualified opinion.&nbsp;</p>",
+          "5fb968d8-b336-46b8-9fbe-f3db00f4c5cc": "<p>Incorrect because financial statements that are in compliance will earn an unqualified opinion.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5fb968d8-b336-46b8-9fbe-f3db00f4c5cc",
+              "itemBody": "<p>A. in compliance with accounting standards.</p>",
+              "position": 1
+            },
+            {
+              "id": "35d0a662-387a-4d03-b731-92d8712d40e3",
+              "itemBody": "<p>B. with material departures from accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "3805e15f-62dc-41ae-b9f8-090fef313bfd",
+              "itemBody": "<p>C. with some limitation or exception to accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54129",
+      "entry": {
+        "title": "ITEM_CFA-L1-01957",
+        "feedback": {},
+        "itemBody": "<p>A disclaimer of opinion is issued when an auditor:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2"
+        },
+        "answerFeedback": {
+          "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2": "<p>Correct because a disclaimer of opinion occurs when auditors are unable to issue an opinion.</p>",
+          "61cc099a-64b1-400b-9552-5ce1b4f0e6a9": "<p>Incorrect because a qualified opinion (rather than a disclaimer of opinion) would be appropriate in the case of some scope limitation or an exception to accounting standards.</p>",
+          "b908d982-ea24-4246-83d5-a82465f18f45": "<p>Incorrect because an adverse opinion (rather than a disclaimer of opinion) would be appropriate if the auditor determines that financial statements materially depart from accounting standards and are not fairly presented.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "06c1c5d0-3648-4bb2-a506-bcca1d64d4e2",
+              "itemBody": "<p>A. is unable to issue an opinion.</p>",
+              "position": 1
+            },
+            {
+              "id": "61cc099a-64b1-400b-9552-5ce1b4f0e6a9",
+              "itemBody": "<p>B. notes an exception to accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "b908d982-ea24-4246-83d5-a82465f18f45",
+              "itemBody": "<p>C. finds a material departure from accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54130",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-FRA-Terry-01",
+        "feedback": {},
+        "itemBody": "<p>The role of financial reporting is <i>best</i> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702"
+        },
+        "answerFeedback": {
+          "0e72c6a4-a4e6-4c84-aa4d-ec65ea40f2fe": "<p>Incorrect because the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position. The answer describes the role of financial statement analysis. The role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.</p>",
+          "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702": "<p>Correct because&nbsp;the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position.</p>",
+          "a7a76a4a-3a59-4d93-8841-1f44d518fa33": "<p>Incorrect because the role of financial statements issued by companies is to provide information about a company’s performance, financial position, and changes in financial position.&nbsp;The answer describes the role of management analysis:&nbsp;managers within a company perform financial analysis to make operating, investing, and financing decisions&nbsp;but do not necessarily rely on analysis of related financial statements.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a7a76a4a-3a59-4d93-8841-1f44d518fa33",
+              "itemBody": "<p>A. making&nbsp;operating, investing, and financial decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "1c08d7c5-d3ee-4818-8d3c-cfe03fba5702",
+              "itemBody": "<p>B. providing&nbsp;information about a company's performance,&nbsp;financial position, and change in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "0e72c6a4-a4e6-4c84-aa4d-ec65ea40f2fe",
+              "itemBody": "<p>C. evaluating&nbsp;a company's past, current, and potential performance for the purpose of making economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54131",
+      "entry": {
+        "title": "ITEM_CFA-L1-10007",
+        "feedback": {},
+        "itemBody": "<p>Which of the following opinions is the <i>best</i> indication that the auditor believes that the financial statements depart materially from accounting standards and are <b>not</b> fairly presented?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fa465686-8f65-43d1-823b-0795edb51b00"
+        },
+        "answerFeedback": {
+          "84c97fd6-affe-440d-9b3b-9b0f6f841b49": "<p>Incorrect because a <em>disclaimer of opinion</em> occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion.</p>",
+          "edbd18fc-aae1-42b1-8664-48f22652c8e7": "<p>Incorrect because a&nbsp;<em>qualified</em> audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.</p>",
+          "fa465686-8f65-43d1-823b-0795edb51b00": "<p>Correct because an <em>adverse</em> audit opinion is issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fa465686-8f65-43d1-823b-0795edb51b00",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "edbd18fc-aae1-42b1-8664-48f22652c8e7",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "84c97fd6-affe-440d-9b3b-9b0f6f841b49",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8616,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 850,
+      "sourceModuleId": 4443,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-27-1",
+      "entry": {
+        "title": "2027-Mod27-Q1",
+        "itemBody": "<p>Which of the following statements regarding a country’s political \ncooperation is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. If a country is engaged in military conflict, there is a higher cost to  \ncooperation. B is incorrect because a country with few internal resources is likely to \nrely on political cooperation. C is incorrect because interest prioritization does  \ndetermine the depth and nature of political cooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fb34ca75-e2e3-4056-8f47-583f22764aea",
+              "itemBody": "<p>A. If a country is engaged in military conflict, there is a higher cost to cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "85eb28fc-8022-4703-ac2a-aecff62aa689",
+              "itemBody": "<p>B. A country with few internal resources is not likely to rely on political cooperation.</p>",
+              "position": 2
+            },
+            {
+              "id": "789282d6-7371-4dfc-a0d5-7944a6cac939",
+              "itemBody": "<p>C. Interest prioritization does not determine the depth and nature of political  \ncooperation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fb34ca75-e2e3-4056-8f47-583f22764aea"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-2",
+      "entry": {
+        "title": "2027-Mod27-Q2",
+        "itemBody": "<p>A consequence of one of the disadvantages of globalization is that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Through the process of greater economic and financial cooperation,  \ncompanies may become dependent on other countries’ resources for their supply  \nchains. On aggregate, this can result in the nation itself becoming dependent on other \nnations for certain resources (such as rare earth metals, cobalt, or copper). If there \nis a disruption to the supply chain, including via a moment of political non-cooperation, \nthen firms may not be able to produce the good themselves.  A is incorrect because \nthe narrowing of pay differences between countries results  from a motivation to \npursue globalization, which is related to one of its advantages. It is an important way \nfor companies to increase profitability by reducing their  costs. Although wage \ndifferentials remain, they are decreasing. B is incorrect  because the proportion of \nflows between developed economies as a share of overall trade continuing to decline \nas emerging market trade flows rise is a function  of increased international \ninvestment. This increased investment has provided  beneficial aggregate economic \nbenefits, such as increased choice, higher quality goods, increased competition among \nfirms, higher efficiency, and increased labor mobility.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc8a9028-9823-4e84-becb-8152f1fdc34d",
+              "itemBody": "<p>A. pay differences between countries have narrowed.</p>",
+              "position": 1
+            },
+            {
+              "id": "a0b6dad5-34fa-4e8f-b7bd-e49a74233d60",
+              "itemBody": "<p>B. emerging market trade flows have grown more important.</p>",
+              "position": 2
+            },
+            {
+              "id": "05e01f32-339a-4c56-9171-3cdaa4963d91",
+              "itemBody": "<p>C. greater economic and financial cooperation has increased interdependence.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "05e01f32-339a-4c56-9171-3cdaa4963d91"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-3",
+      "entry": {
+        "title": "2027-Mod27-Q3",
+        "itemBody": "<p>Which of the following outcomes is most likely a result of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Unequal accrual of economic and financial gains is a cost of globalization \nbecause improvement on the aggregate does not mean improvement  for everyone. B \nis incorrect because globalization leads to interdependency as companies may become \ndependent on other countries’ resources for their supply  chains. C is incorrect \nbecause rather than decreased access to talent, a country might actually globalize to \nimprove access to talent as cooperation and globalization can lead to increased access \nto resources.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ac0dce25-19b6-4573-b4b1-7027c547ad7a",
+              "itemBody": "<p>A. Unequal gains</p>",
+              "position": 1
+            },
+            {
+              "id": "4a2dfae4-2b63-42d5-9dbc-8a93dc5fb948",
+              "itemBody": "<p>B. Increased independence</p>",
+              "position": 2
+            },
+            {
+              "id": "b2d0c845-c624-41b3-81b1-1fa0ea25d355",
+              "itemBody": "<p>C. Decreased access to talent</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ac0dce25-19b6-4573-b4b1-7027c547ad7a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-4",
+      "entry": {
+        "title": "2027-Mod27-Q4",
+        "itemBody": "<p>A US company expanding critical spare part inventories for local \ncustomers made at its existing Canadian facility after a supply chain disruption is \nmost likely using the coping tactic of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The COVID-19 pandemic has highlighted the need for certain essential \nsupply chains to be rebuilt domestically for emergency situations, with availability of \ncritical spare parts being an analogy. The close integration of the  US and Canadian \neconomies through the revised USMCA agreement effectively  makes expanded \nproduction at an existing Canadian factory an example of reducing manufacturing risk \nby relocating to home countries via reshoring. B  is incorrect because instead of \nreducing manufacturing risk by duplicating or fortifying its supply chain, the company \nis s imply continuing to use its existing  capacity more intensively. C is incorrect \nbecause although the production is intended to better supply its home market, there \nis no evidence that the company is expanding its presence in the US market or shifting \nits focus to the exclusion of available opportunities elsewhere.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3c70daae-b33b-4566-bec5-9a5ef462cc72",
+              "itemBody": "<p>A. reshoring the essentials.</p>",
+              "position": 1
+            },
+            {
+              "id": "65a43547-4175-4ac6-a643-8b2645f0a54b",
+              "itemBody": "<p>B. reglobalizing production.</p>",
+              "position": 2
+            },
+            {
+              "id": "4de95d85-74f4-419b-838a-21c202f42ca5",
+              "itemBody": "<p>C. doubling down on key markets.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3c70daae-b33b-4566-bec5-9a5ef462cc72"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-5",
+      "entry": {
+        "title": "2027-Mod27-Q5",
+        "itemBody": "<p>An example of a geopolitical multifaceted tool for furthering national \ninterests is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cabotage is the right to transport passengers or goods within a country \nby a foreign firm. Many countries —including those with multilateral  trade \nIntroduction to Geopolitics \nFaculty:                                                                         Page 6 of 8 \n \nagreements—impose restrictions on cabotage across transportation subsectors,  \nmeaning that shippers, airlines, and truck drivers are not allowed to transport goods \nand services within another country’s borders. Allowing cabotage  requires \ncoordination on areas like physical security and economic coordination,  a highly \nmultilateral (multifaceted tool) process. B is incorrect because armed conflict is the \nmost extreme example of a national security tool. It can be either internal or external \nto a country in taking a direct and active approach to wielding influence. C is incorrect \nbecause nationalization of key export industries is an economic tool. This process of \ntransferring an activity or industry from private to state control is a non-cooperative \napproach to asserting economic control.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d2eb37c4-5124-4974-9d3c-191865bdcd28",
+              "itemBody": "<p>A. cabotage.</p>",
+              "position": 1
+            },
+            {
+              "id": "54893dbd-2802-4174-afff-ff759e915b1b",
+              "itemBody": "<p>B. armed conflict.</p>",
+              "position": 2
+            },
+            {
+              "id": "ef5a03aa-1904-4fbf-85da-bd5a2de2ec5b",
+              "itemBody": "<p>C. nationalization of key export industries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d2eb37c4-5124-4974-9d3c-191865bdcd28"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-6",
+      "entry": {
+        "title": "2027-Mod27-Q6",
+        "itemBody": "<p>Which of these is most likely to be described as an event risk?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections and new legislation, \nor other date-driven milestones, such as holidays or political anniversaries  known in \nadvance. The other choices could not be known in advance. An  earthquake (A) is an \nexample of an exogenous risk. An ongoing civil war (C) is an  example of a thematic \nrisk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d8e4e0d3-ec4a-4167-b82a-38d07869a075",
+              "itemBody": "<p>A. An earthquake</p>",
+              "position": 1
+            },
+            {
+              "id": "3a2e7403-17d4-45e7-899e-289d444c693d",
+              "itemBody": "<p>B. An election</p>",
+              "position": 2
+            },
+            {
+              "id": "a9536e32-7c48-48ec-a603-4d8277ac1c64",
+              "itemBody": "<p>C. An ongoing civil war</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3a2e7403-17d4-45e7-899e-289d444c693d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-7",
+      "entry": {
+        "title": "2027-Mod27-Q7",
+        "itemBody": "<p>Exogenous risks are best described as those that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Exogenous risks are best described as those that are sudden or  \nunanticipated and that affect either a country’s cooperative stance, the ability  of \nnon-state actors to globalize, or both. A is incorrect because thematic (not  \nexogenous) risks are known risks that evolve and expand over a period of time. B  is \nincorrect because event (not exogenous) risks are those that evolve around set dates, \nincluding elections, new legislation, or other date-driven milestones.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e79f884a-f8c7-40c7-8ca1-ae5005b5434c",
+              "itemBody": "<p>A. are known and evolve and expand over a period of time.</p>",
+              "position": 1
+            },
+            {
+              "id": "8afa8539-9c11-4bed-b5a2-9970b8029c8b",
+              "itemBody": "<p>B. revolve around set dates, such as elections, new legislation, or other date-driven \nmilestones, such as holidays or political anniversaries.</p>",
+              "position": 2
+            },
+            {
+              "id": "98e1f624-8c2f-4912-898e-9f2102852bab",
+              "itemBody": "<p>C. are sudden or unanticipated and impact either a country’s cooperative stance, the \nability of non-state actors to globalize, or both. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "98e1f624-8c2f-4912-898e-9f2102852bab"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-8",
+      "entry": {
+        "title": "2027-Mod27-Q8",
+        "itemBody": "<p>Which of the following statements about geopolitical threats in the \ninvestment environment is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Although highly collaborative and globalized countries are, on  balance, \nless likely to experience geopolitical risk because the political, economic, and financial \ncosts of partners inflicting those risks are higher than less collaborative  countries, \nthe same interconnectedness may make them more vulnerable  to geopolitical risk. A \nis incorrect because geopolitical risk is always present in the investment environment. \nC is incorrect because geopolitical risk tends to  have a greater impact on markets \nalready experiencing a general contraction or economic downturn.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92ec5c1e-2e72-47a2-8c51-261ec5f22927",
+              "itemBody": "<p>A. Geopolitical risk is not always present in the investment environment.</p>",
+              "position": 1
+            },
+            {
+              "id": "43af7fdc-cff3-48c8-8eee-08750a4ecb99",
+              "itemBody": "<p>B. Highly collaborative, interconnected countries are vulnerable to geopolitical risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "9dc7a5f8-ac72-4837-992f-470bd23024f1",
+              "itemBody": "<p>C. Geopolitical risk tends to have less of an impact on markets already experiencing \na general contraction or economic downturn.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "43af7fdc-cff3-48c8-8eee-08750a4ecb99"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-9",
+      "entry": {
+        "title": "2027-Mod27-Q9",
+        "itemBody": "<p>An applicable conclusion drawn from the Geopolitical Risk Index (GPR) is \nthat:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The GPR creators found that high levels of geopolitical risk reduce US \ninvestment, employment, and price level of the stock market. B is  incorrect because \nfirms reduce investment in the wake of idiosyncratic events, which would be unlikely \nto repeat. C is incorrect because the threat of an event  was shown to have a larger \nimpact over time than that of the actual events themselves.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0c6b09fc-b0e9-4c92-8da2-21cf636e8ef9",
+              "itemBody": "<p>A. high geopolitical risk results in tangible macroeconomic effects.</p>",
+              "position": 1
+            },
+            {
+              "id": "ab841c3c-2a27-472b-9eea-2e340d65e59b",
+              "itemBody": "<p>B. recurring geopolitical risk events lead to reduced corporate investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "c9fd5448-600a-419b-bf21-e3ccd9944b31",
+              "itemBody": "<p>C. the adverse impact of actual events is greater over time than that of the threat \nof such events.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0c6b09fc-b0e9-4c92-8da2-21cf636e8ef9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-10",
+      "entry": {
+        "title": "2027-Mod27-Q10",
+        "itemBody": "<p>The basic geopolitical risk type most likely in comparison to have the \nsmallest degree of uncertainty is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections or new legislation, \nor other date-driven milestones, such as holidays or political anniversaries. Analysts \ncan thus look to political calendars as a predictable starting point for  determining \nthe occurrence of event risk, with time to devise a suitable response.  A is incorrect \nbecause exogenous risk is sudden and unanticipated. Examples  include sudden \nuprisings, invasions, or the aftermath of natural disasters. The  timing and range of \nits effects thus have the greatest unknowns. C is incorrect  because thematic risks \nIntroduction to Geopolitics \nFaculty:                                                                         Page 7 of 8 \n \nare known risks that evolve and expand over a period of time. Climate change, pattern \nmigration, the rise of populist forces, and the ongoing  threat of terrorism fall into \nthis category. These are more foreseeable than  exogenous risks, but with their \nextended interval of exposure, planned responses  likely require continual \nadjustments. \n \n11. C is c orrect. The International Monetary Fund has the ability to lend foreign \ncurrencies to a country with an extreme current account deficit. \n \n12. B is c orrect because bilateralism is characterized by nationalism/anti -globalization \nand cooperation. \n \n13. C is c orrect because for countries, regions, or sectors perceived to be at more \nconsistent risk of geopolitical disruption, investors may require higher compensation, \neffectively increasing the discount rate investors use when valuing those securities. \nPortfolio investment flows face greater volatility due to geopolitical factors, and \ninvestors will factor in a higher risk premium. \n \n14. B is c orrect because multilateral trade agreements, such as the World Trade \nOrganization (WTO), are a tool of geopolitics that is consistent with globalization and \ncooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "026b66f2-ebb8-419b-a778-618aaad6cfa1",
+              "itemBody": "<p>A. exogenous risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "a9962263-8aa9-4d78-b1d3-709566fc8438",
+              "itemBody": "<p>B. event risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "02026edf-9a3b-4b82-bed7-d008c49bd6ae",
+              "itemBody": "<p>C. thematic risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a9962263-8aa9-4d78-b1d3-709566fc8438"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-11",
+      "entry": {
+        "title": "2027-Mod27-Q11",
+        "itemBody": "<p>With respect to motivations for globalization, which of the following \nis best characterized as an intrinsic gain?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because intrinsic gain is a side effect or consequence of an activity that \ngenerates a benefit beyond profit itself. It is difficult to measure but contributes \nto globalization's momentum. It can also be a stabilizing force, increasing empathy \nbetween actors and reducing the likelihood that a geopolitical threat is levied. One \nexample of intrinsic gain is the accelerated productivity from learning new methods.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0914a52c-adac-45bd-986e-bef681e292a3",
+              "itemBody": "<p>A. Increased supply chain efficiency</p>",
+              "position": 1
+            },
+            {
+              "id": "d4958cfe-2b20-48b3-adca-3a90e9c92e0f",
+              "itemBody": "<p>B. Accelerated productivity from learning new methods</p>",
+              "position": 2
+            },
+            {
+              "id": "91f3dd90-90a7-4b8a-9952-cd21d5187d5a",
+              "itemBody": "<p>C. Access to resources that are not readily available in the home country</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4958cfe-2b20-48b3-adca-3a90e9c92e0f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-12",
+      "entry": {
+        "title": "2027-Mod27-Q12",
+        "itemBody": "<p>Which of the following organizations was founded with the goal of \nassisting in the reconstruction of the international payment system?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IMF was founded with the goal to stabilize exchange rates and \nassist the reconstruction of the world’s international payment system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e2e93358-7aab-45c8-aa19-9a06ab976437",
+              "itemBody": "<p>A. The World Trade Organization</p>",
+              "position": 1
+            },
+            {
+              "id": "82736c37-351a-4951-86e3-3c947c007132",
+              "itemBody": "<p>B. The International Monetary Fund</p>",
+              "position": 2
+            },
+            {
+              "id": "8e37a68e-8870-4728-9aaa-3449aab77cf3",
+              "itemBody": "<p>C. The International Bank for Reconstruction and Development</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "82736c37-351a-4951-86e3-3c947c007132"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-13",
+      "entry": {
+        "title": "2027-Mod27-Q13",
+        "itemBody": "<p>Which of the following behavioral archetypes best describes a country \nthat is high on the globalization spectrum but low on the cooperation spectrum?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because using the two axes we have discussed —political cooperation \nversus non-cooperation and globalization versus nationalism—investment analysts can \nassess geopolitical actors and the likelihood of threat to investment outcomes. \nSpecifically, there are four archetypes of country behaviour: autarky, hegemony, \nmultilateralism, and bilateralism, where hegemony is situated low on the cooperation \nspectrum and high on the globalization spectrum. Hegemonic countries tend to be \nregional or even global leaders, and they use their political or economic influence of \nothers to control resources. State -owned enterprises tend to control key export \nmarkets. Examples of hegemonic countries include the United States and Russia.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "82e57220-d545-474e-884d-3602690ccb05",
+              "itemBody": "<p>A. Autarky</p>",
+              "position": 1
+            },
+            {
+              "id": "e39b275a-210e-4711-af32-4a1deb4e511a",
+              "itemBody": "<p>B. Hegemony</p>",
+              "position": 2
+            },
+            {
+              "id": "62996221-2ed0-4ac6-a219-4fbd1b574d2f",
+              "itemBody": "<p>C. Bilateralism</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e39b275a-210e-4711-af32-4a1deb4e511a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-14",
+      "entry": {
+        "title": "2027-Mod27-Q14",
+        "itemBody": "<p>With respect to geopolitics, setting standards for the size and shape of \ncontainers used for shipping is most likely an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because an example of operational synchronization is standards set for \ncontainers of uniform size and shape using multi-modal forms of transport (land, sea, \nair, rail) and port cranes. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4349729b-46c9-481c-b7bc-a2a74d2f0abe",
+              "itemBody": "<p>A. regulatory cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "99593254-75d8-4611-ab81-d18cd33bac53",
+              "itemBody": "<p>B. process standardization.</p>",
+              "position": 2
+            },
+            {
+              "id": "0cbd846e-8b82-4168-a78c-e973e73bebfe",
+              "itemBody": "<p>C. operational synchronization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0cbd846e-8b82-4168-a78c-e973e73bebfe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-15",
+      "entry": {
+        "title": "2027-Mod27-Q15",
+        "itemBody": "<p>Which of the following would most likely lead to an increase in \nglobalization? A decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because globalization is marked by economic and financial cooperation, \nincluding the active trade of goods and services, capital flows, currency exchange, \nand cultural and information exchange. Actors participating in globalization are likely \nto reach beyond their national borders for access to new markets, talent, or learning. \nBy contrast, anti -globalization or nationalism is the promotion of a country’s own \neconomic interests to the exclusion or detriment of the interests of other nations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8ff44bf2-bd8a-4d15-a885-261324e0c3ed",
+              "itemBody": "<p>A. soft power.</p>",
+              "position": 1
+            },
+            {
+              "id": "db47d6a0-c166-42aa-a6ac-0fe8c29ecc99",
+              "itemBody": "<p>B. nationalism.</p>",
+              "position": 2
+            },
+            {
+              "id": "c167bd57-7128-4f63-aa96-2ce016672424",
+              "itemBody": "<p>C. standardization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "db47d6a0-c166-42aa-a6ac-0fe8c29ecc99"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-16",
+      "entry": {
+        "title": "2027-Mod27-Q16",
+        "itemBody": "<p>Which of the following changes are investors most likely to make in \nresponse to a black swan risk?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the velocity of geopolitical risk is the pace at which it impacts \nan investor portfolio. For the sake of simplicity, we explore short -term or 'high \nvelocity' impacts, medium-term, and long-term or 'low velocity' impacts [...]. In the \nshort term, we may see volatility in the markets affecting entire industries or even \nthe entire market. Exogenous or 'black swan' events tend to fit into this category, \ncausing market volatility and investor flight to quality. A black swan risk is an event \nthat is rare and difficult to predict but has an important impact. Investors with the \nappropriate time horizon and risk tolerance may make tactical changes to their \ninvestment choices as a result of these events. Long-term changes are unlikely to be \nnecessary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "18371bc6-aa25-4060-b60e-de12f793a6f1",
+              "itemBody": "<p>A. Tactical.</p>",
+              "position": 1
+            },
+            {
+              "id": "6528a84e-b9b3-46d3-9844-af282bc41006",
+              "itemBody": "<p>B. Sector specific.</p>",
+              "position": 2
+            },
+            {
+              "id": "efb9a1ff-18db-4ba1-b5b9-02687caaee3f",
+              "itemBody": "<p>C. Asset allocation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "18371bc6-aa25-4060-b60e-de12f793a6f1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-17",
+      "entry": {
+        "title": "2027-Mod27-Q17",
+        "itemBody": "<p>Cyber threats most likely fall into the category of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because cyber threats are another example of thematic risk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3691c3ce-0413-438a-a66d-2742644c2d93",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "9b8c32a9-821f-496c-9af7-607b54476d74",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "6c68c2ea-c78b-4c57-af87-9f6102aab368",
+              "itemBody": "<p>C. exogenous risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9b8c32a9-821f-496c-9af7-607b54476d74"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-18",
+      "entry": {
+        "title": "2027-Mod27-Q18",
+        "itemBody": "<p>Natural disasters are an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because exogenous risk is a sudden or unanticipated risk that impacts \neither a country’s cooperative stance, the ability of non-state actors to globalize, or \nboth. Examples include sudden uprisings, invasions, or the aftermath of natural \ndisasters.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8dd81b47-3639-4148-ab98-f4f9c4e122ea",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "1d606eab-85a2-4267-9f8f-da60c04743b1",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "54f9a00b-6070-4174-9701-77c7d188c33d",
+              "itemBody": "<p>C. exogenous risk. \nIntroduction to Geopolitics \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "54f9a00b-6070-4174-9701-77c7d188c33d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-19",
+      "entry": {
+        "title": "2027-Mod27-Q19",
+        "itemBody": "<p>Which of the following is most likely a benefit of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the opportunity to generate higher profits may motivate \ncompanies to globalize. The first way to generate profit is to increase sales. \nCompanies may choose to engage in globalization in order to access new customers \nfor their goods and  services. Another way to increase profits is to reduce costs. \nGlobalization allows companies to access lower tax -operating environments, reduce \nlabor costs, or seek other supply chain efficiency gains.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b72d231c-34d4-4cb2-9939-c76e5ff5d70d",
+              "itemBody": "<p>A. Increased profits</p>",
+              "position": 1
+            },
+            {
+              "id": "b7c2903d-c71a-4ba0-821b-3fa96696c7f9",
+              "itemBody": "<p>B. More equal income distribution</p>",
+              "position": 2
+            },
+            {
+              "id": "c35f0ec9-6fd9-4b40-acf1-50f574623e27",
+              "itemBody": "<p>C. Stronger environmental, social, and governance standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b72d231c-34d4-4cb2-9939-c76e5ff5d70d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-20",
+      "entry": {
+        "title": "2027-Mod27-Q20",
+        "itemBody": "<p>The main objective of the World Bank Group is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the World Bank's main objective is to help developing countries \nfight poverty and enhance environmentally sound economic growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e86a2835-3daa-4d7e-9d2f-786f6d93565b",
+              "itemBody": "<p>A. support exchange rate stability and an open system of international payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "ca9e7087-d3b0-48b0-8ae3-f4cc3ce1951c",
+              "itemBody": "<p>B. provide the legal and institutional foundation of the multinational trading \nsystem.</p>",
+              "position": 2
+            },
+            {
+              "id": "bc290fbb-4376-46b4-a2bd-e2eb35d96a0f",
+              "itemBody": "<p>C. help developing countries fight poverty and enhance environmentally sound \neconomic growth.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bc290fbb-4376-46b4-a2bd-e2eb35d96a0f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-21",
+      "entry": {
+        "title": "2027-Mod27-Q21",
+        "itemBody": "<p>A nation that cooperates with a neighboring country is most \nlikely characterized as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because bilateralism is the conduct of political, economic, financial, or \ncultural cooperation between two countries. Countries engaging in bilateralism may \nhave relations with many different countries, but they are one-at-a-time agreements \nwithout multiple partners.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9f61387a-4d32-495f-ad3a-986072719f6c",
+              "itemBody": "<p>A. autarkic.</p>",
+              "position": 1
+            },
+            {
+              "id": "c6af5da4-cf24-41cf-80a2-23c6274428a8",
+              "itemBody": "<p>B. bilateral.</p>",
+              "position": 2
+            },
+            {
+              "id": "25614ce8-2cb2-4baf-95b3-f3d9314e0f05",
+              "itemBody": "<p>C. hegemonic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c6af5da4-cf24-41cf-80a2-23c6274428a8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-27-22",
+      "entry": {
+        "title": "2027-Mod27-Q22",
+        "itemBody": "<p>Which of the following is most likely a motivation for globalization?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because non-state actors, such as companies and investors, who choose \nto participate in globalization consider three potential gains, including: intrinsic gain. \nOne example of intrinsic gain is the personal growth or education that individuals may \nreceive from expanding their horizons, experiencing new places, or learning new ideas.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb83d8f7-243c-4206-a432-28f7ab11016c",
+              "itemBody": "<p>A. Increasing interdependence of supply chains</p>",
+              "position": 1
+            },
+            {
+              "id": "db332137-92aa-479c-b744-22015af96215",
+              "itemBody": "<p>B. Personal growth by expanding personal horizons</p>",
+              "position": 2
+            },
+            {
+              "id": "aec534ea-d078-4cc4-a742-cb89d403182e",
+              "itemBody": "<p>C. Creating jobs in a new country and reducing them at home \n \n \nSUMMARY: - \n \n(LOS 16.a): – 1, 25 \n(LOS 16.b): – 2, 3, 12, 15, 17, 19, 23, 26 \n(LOS 16.c): – 11, 16, 24 \n(LOS 16.d): – 6, 7, 9, 10, 21, 22 \n(LOS 16.e): – 4, 5, 14, 18 \n(LOS 16.f): – 8, 13, 20 \n \n \n \n \n \n \n \n \n \n \n \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "db332137-92aa-479c-b744-22015af96215"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}

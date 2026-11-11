@@ -1,0 +1,1952 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6064,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 32,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 2: Alternative Investment Performance and Returns",
+    "topic_id": 1038,
+    "topic": "CFA-26-02-LI-C: Alternative Investments",
+    "subtopic_id": 6064,
+    "subtopic": "Module 2: Alternative Investment Performance and Returns",
+    "question_count": 32,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 854,
+        "name": "Warehouse Course: Alternative Investments 26-LI",
+        "code": "Warehouse Course: Alternative Investments 26-LI",
+        "module_id": 4493,
+        "question_count": 17,
+        "type": "warehouse"
+      },
+      {
+        "id": 845,
+        "name": "Practice Pack Warehouse: Alternative Investments 26-LI",
+        "code": "Practice Pack Warehouse: Alternative Investments 26-LI",
+        "module_id": 4762,
+        "question_count": 14,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 32.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "445257eb1ba03286",
+    "ordered_item_ids": [
+      "56680",
+      "56681",
+      "56682",
+      "56683",
+      "56684",
+      "56685",
+      "56686",
+      "56687",
+      "56688",
+      "56689",
+      "56690",
+      "56691",
+      "56692",
+      "56693",
+      "51303",
+      "51304",
+      "51305",
+      "51306",
+      "51307",
+      "51308",
+      "51309",
+      "51310",
+      "53947",
+      "53948",
+      "53949",
+      "53950",
+      "53951",
+      "53952",
+      "53953",
+      "53954",
+      "53955",
+      "53956"
+    ],
+    "visible_item_ids": [
+      "56680",
+      "56681",
+      "56682",
+      "56683",
+      "56684",
+      "56685",
+      "56686",
+      "56687",
+      "56688",
+      "56689",
+      "56690",
+      "56691",
+      "56692",
+      "56693",
+      "51303",
+      "51304",
+      "51305",
+      "51306",
+      "51307",
+      "51308",
+      "51309",
+      "51310",
+      "53947",
+      "53948",
+      "53949",
+      "53950",
+      "53951",
+      "53952",
+      "53953",
+      "53954",
+      "53955",
+      "53956"
+    ]
+  },
+  "items": [
+    {
+      "id": "56680",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Alt-Huffman-06",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a hedge fund:</p><ul>\n<li>$200 million in assets under management at the beginning of year</li>\n<li>a 2% management fee&nbsp;based on year-end assets under management</li>\n<li>a 20% incentive fee calculated&nbsp;net of the management fee</li>\n</ul><p>If the fund's gross return is&nbsp;25% during the&nbsp;year, the total fees earned&nbsp;by the fund manager are:&nbsp;</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3578d590-5602-497c-b33c-3bc6a7346417"
+        },
+        "answerFeedback": {
+          "3578d590-5602-497c-b33c-3bc6a7346417": "<p>Correct because it calculates the incentive&nbsp;fee net of the management fee. That is, the total fee is the&nbsp;sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $9&nbsp;million&nbsp;($250 million less $200 million less the $5 million incentive times 0.20), which is $14&nbsp;million.</p>",
+          "de7ae821-66c8-405b-b528-96be4a3b59b2": "<p>Incorrect because it is the amount if the sum of the incentive and management fees based on the dollar returns for the year ($250 million less $200 million). That is, the sum of the management fee of $1&nbsp;million ($50 million times 0.02) and the incentive fee of $10 million&nbsp;($50 million times 0.20), which is $11&nbsp;million.</p>",
+          "e9d89b34-f2df-4c63-92e5-d2b9e5bd6192": "<p>Incorrect because it is the amount if the incentive and management fees are calculated independently (rather than if the incentive fee is calculated net of the management fee). That is, the sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $10 million&nbsp;&nbsp;($250 million less $200 million for at profit of $50 million times 0.20), which is $15 million.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de7ae821-66c8-405b-b528-96be4a3b59b2",
+              "itemBody": "<p>A. $11 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "3578d590-5602-497c-b33c-3bc6a7346417",
+              "itemBody": "<p>B. $14&nbsp;million.</p>",
+              "position": 2
+            },
+            {
+              "id": "e9d89b34-f2df-4c63-92e5-d2b9e5bd6192",
+              "itemBody": "<p>C. $15 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56681",
+      "entry": {
+        "title": "ITEM_CFA-L1-02864",
+        "feedback": {},
+        "itemBody": "<p>A hedge fund has the following characteristics:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:730px\">\n<colgroup>\n<col width=\"51.77%\">\n<col width=\"48.23%\">\n</colgroup>\n<tbody>\n<tr>\n<td style=\"width:351px; max-width:351px\">Assets under management, beginning of year</td>\n<td style=\"width:376px; text-align:center; max-width:376px\">$100 million</td>\n</tr>\n<tr>\n<td style=\"width:351px; max-width:351px\">Assets under management, end of year</td>\n<td style=\"width:376px; text-align:center; max-width:376px\">$120 million</td>\n</tr>\n<tr>\n<td style=\"width:351px; max-width:351px\">Management fee</td>\n<td style=\"width:376px; text-align:center; max-width:376px\">1% of year-end assets under management</td>\n</tr>\n<tr>\n<td style=\"width:351px; max-width:351px\">Performance fee</td>\n<td style=\"width:376px; text-align:center; max-width:376px\">15% of the annual return above a 3% hurdle rate</td>\n</tr>\n</tbody>\n</table><p>If the performance fee is calculated net of the management fee and there were no capital contributions or withdrawals, the net annual return to the investor is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b6a480bd-09aa-49a6-a7ec-f3ff1b07962d"
+        },
+        "answerFeedback": {
+          "74dbef6c-9c14-4d1a-9986-8d5026584a4b": "<p>Incorrect because the hurdle rate is deducted from the performance fee rate rather than the rate of return:</p><p>Management fee = $100 million × 120% × 1% = $1.200 million.</p><p>Performance fee = [($100 million × 20%) − $1.200 million)] × (15% − 3%) = $2.256 million.</p><p>Total fee = $1.200 million + $2.256 million = $3.456 million.</p><p>Investor return = ($20 – $3.456) / $100 = 16.544% ≈ 16.5%.</p>",
+          "98b451f3-3ff8-4ea0-8f3c-2d8ba95b8e38": "<p>Incorrect because the performance fee is not calculated net of the management fee:</p><p>Management fee = $100 million × 120% × 1% = $1.200 million.</p><p>Performance fee = [($100 million × 20%) – ($100 million × 3%)] × 15% = $2.550 million.</p><p>Total fee = $1.200 million + $2.550 million = $3.750 million.</p><p>Investor return = ($20 – $3.750) / $100 = 16.250% ≈ 16.3%.</p>",
+          "b6a480bd-09aa-49a6-a7ec-f3ff1b07962d": "<p>Correct because the hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rate</i>, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.</p><p>Management fee = $100 million × 120% × 1% = $1.200 million.</p><p>Performance fee = [($100 million × 20%) – ($100 million × 3%) − $1.200 million)] × 15% = $2.370 million.</p><p>Total fee = $1.200 million + $2.370 million = $3.570 million.</p><p>Investor return = ($20 – $3.570) / $100 = 16.430% ≈ 16.4%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98b451f3-3ff8-4ea0-8f3c-2d8ba95b8e38",
+              "itemBody": "<p>A. 16.3%.</p>",
+              "position": 1
+            },
+            {
+              "id": "b6a480bd-09aa-49a6-a7ec-f3ff1b07962d",
+              "itemBody": "<p>B. 16.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "74dbef6c-9c14-4d1a-9986-8d5026584a4b",
+              "itemBody": "<p>C. 16.5%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56682",
+      "entry": {
+        "title": "ITEM_CFA-L1-04314",
+        "feedback": {},
+        "itemBody": "<p>An analyst collects the following information about a hedge fund:</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:503px\">\n<colgroup>\n<col width=\"40.61%\">\n<col width=\"59.39%\">\n</colgroup>\n<tbody>\n<tr>\n<td>Assets under management</td>\n<td style=\"width:313px; text-align:center; max-width:313px\">$1.5 billion, beginning of year</td>\n</tr>\n<tr>\n<td>Annual return</td>\n<td style=\"width:313px; text-align:center; max-width:313px\">20%</td>\n</tr>\n<tr>\n<td>Management fee</td>\n<td style=\"width:313px; text-align:center; max-width:313px\">2%, based on year-end valuation</td>\n</tr>\n<tr>\n<td>Incentive fee</td>\n<td style=\"width:313px; text-align:center; max-width:313px\">20%, calculated net of management fees</td>\n</tr>\n</tbody>\n</table><p>If the incentive fee is calculated on returns in excess of a 6% hurdle rate, total annual fees earned by the fund manager are <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c54c1137-8ad7-4423-99d3-2584ccf6ec57"
+        },
+        "answerFeedback": {
+          "21071bfc-b65d-48af-8b0b-c0b01a758e7c": "<p>Incorrect because it fails to net the management fee from the incentive fee. The incentive fee is calculated as [$1,800,000,000 − $1,500,000,000 − ($1,500,000,000 × 6%)] × 20% = $42,000,000. Therefore, the total fees earned by the manager are $36,000,000 + $42,000,000 = $78,000,000.&nbsp;</p>",
+          "c54c1137-8ad7-4423-99d3-2584ccf6ec57": "<p>Correct because the hurdle rate is a minimum<i> </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.</p><p>The management fee is calculated as $1,500,000,000 × (1 + 20%) × 2% = $36,000,000 and the incentive fee is calculated as [$1,800,000,000 − $1,500,000,000 – ($1,500,000,000 × 6%) − $36,000,000] × 20% = $34,800,000. Therefore, the total fees earned by the manager are $36,000,000 + $34,800,000 = $70,800,000.</p>",
+          "cd4b1ce8-f4b7-4d44-b0b0-52215d67d169": "<p>Incorrect because it fails to add the management fee to the incentive fee. The incentive fee is calculated as [$1,800,000,000 − $1,500,000,000 – ($1,500,000,000 × 6%) − $36,000,000] × 20% = $34,800,000.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cd4b1ce8-f4b7-4d44-b0b0-52215d67d169",
+              "itemBody": "<p>A. $34,800,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "c54c1137-8ad7-4423-99d3-2584ccf6ec57",
+              "itemBody": "<p>B. $70,800,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "21071bfc-b65d-48af-8b0b-c0b01a758e7c",
+              "itemBody": "<p>C. $78,000,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56683",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.03-Alt-Lee-30",
+        "feedback": {},
+        "itemBody": "<p>Which of the following has <i>most likely&nbsp;</i>been designed to provide an opportunity for a hedge fund manager to liquidate positions in an orderly fashion without magnifying the losses?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3913bc81-376f-492c-99f1-9b718b34c119"
+        },
+        "answerFeedback": {
+          "1f7d6dec-0a76-4c13-8622-2289e680670b": "<p>Incorrect because lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy’s expected results.&nbsp;</p>",
+          "3913bc81-376f-492c-99f1-9b718b34c119": "<p>Correct because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses.&nbsp;</p>",
+          "8a29f2de-8738-479a-98de-66c84f558a76": "<p>Incorrect because funds sometimes charge redemption fees (typically payable to the remaining investors) to discourage redemption and to offset the transaction costs for remaining investors.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3913bc81-376f-492c-99f1-9b718b34c119",
+              "itemBody": "<p>A. Notice periods</p>",
+              "position": 1
+            },
+            {
+              "id": "1f7d6dec-0a76-4c13-8622-2289e680670b",
+              "itemBody": "<p>B. Lockup periods</p>",
+              "position": 2
+            },
+            {
+              "id": "8a29f2de-8738-479a-98de-66c84f558a76",
+              "itemBody": "<p>C. Redemption fees</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56684",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.03-Alt-Loo-27",
+        "feedback": {},
+        "itemBody": "<p>The lag in marking private equity investments to market <i>most likely</i> makes private equity appear:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7e7609eb-8f17-4cca-b287-62abb54c0836"
+        },
+        "answerFeedback": {
+          "71136127-443a-4384-80e2-a702b49f97db": "<p>Incorrect because the lagging impact of shorter-term economic events on the interim accounting valuations of these strategies makes them appear more resilient and less correlated than they really are.&nbsp;The lack of transparency around such investments and the slowness to mark them to market can be incorrectly construed by investors as an overall lack of volatility.</p>",
+          "7e7609eb-8f17-4cca-b287-62abb54c0836": "<p>Correct because the lagging impact of shorter-term economic events on the interim accounting valuations of these strategies makes them appear more resilient and less correlated than they really are. A more realistic picture may emerge when premature portfolio liquidations are forced on managers. The lack of transparency around such investments and the slowness to mark them to market can be incorrectly construed by investors as an overall lack of volatility.&nbsp;</p>",
+          "d7576f0b-ba66-4a52-8e78-77b69a8195e4": "<p>Incorrect because the lagging impact of shorter-term economic events on the interim accounting valuations of these strategies makes them appear more resilient and less correlated than they really are.&nbsp;The lack of transparency around such investments and the slowness to mark them to market can be incorrectly construed by investors as an overall lack of volatility.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e7609eb-8f17-4cca-b287-62abb54c0836",
+              "itemBody": "<p>A. less volatile than it really is.</p>",
+              "position": 1
+            },
+            {
+              "id": "71136127-443a-4384-80e2-a702b49f97db",
+              "itemBody": "<p>B. less resilient than it really is.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7576f0b-ba66-4a52-8e78-77b69a8195e4",
+              "itemBody": "<p>C. more correlated with&nbsp;traditional&nbsp;assets than it really is.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56685",
+      "entry": {
+        "title": "ITEM_CFA-L1-00794",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">A hedge fund has the following characteristics:</span></p><ul>\n<li><span style=\"font-family:Arial,Helvetica,sans-serif\">Initial investment capital of $200 million;</span></li>\n<li><span style=\"font-family:Arial,Helvetica,sans-serif\">2% management fee, based on assets under management at the end of the year;</span></li>\n<li><span style=\"font-family:Arial,Helvetica,sans-serif\">20% incentive fee, calculated independent of the management fee and based on returns in excess of a 7% hurdle rate.</span></li>\n</ul><p><span style=\"font-family:Arial,Helvetica,sans-serif\">If the fund's return is 18% at the end of the first year, the fund's investors' net return is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b0cb31d1-1073-46cb-a5c3-e7bae55d5cd3"
+        },
+        "answerFeedback": {
+          "b0cb31d1-1073-46cb-a5c3-e7bae55d5cd3": "<p>Correct because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rate</i>, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Accordingly,&nbsp;(in $ millions):</p><p>AUM at the beginning of the year: 200</p><p>AUM at the end of the year: 200 × (1 + 0.18) = 236</p><p>Management fee: 236 × 0.02 = 4.72</p><p>Incentive fee: [236 – 200 – (200 × 0.07)] × 0.20 = 4.40</p><p>Total fees paid to the hedge fund manager: 4.72 + 4.40 = 9.12</p><p>Investor's return: (236 – 200 – 9.12) ÷ 200 = 13.44% ≈ 13.4%.</p>",
+          "d3bd8238-e11c-430d-a215-8308345c4525": "<p>Incorrect because the incentive fee ignores the hurdle rate (in $ millions):</p><p>Management fee: 236 × 0.02 = 4.72</p><p>Incentive fee: (236 – 200) × 0.20 = 7.20</p><p>Total fees paid to the hedge fund manager: 4.72 + 7.20 = 11.92</p><p>Investor's return: (236 – 200 – 11.92) ÷ 200 = 12.04% ≈ 12.0%.</p>",
+          "e9c68e8b-4a6d-4bfa-8334-670cd9ce3e14": "<p>Incorrect because the incentive fee is calculated net of the management fee (in $ millions):</p><p>Management fee: 236 × 0.02 = 4.72</p><p>Incentive fee: [236 – 200 – (200 × 0.07) – 4.72] × 0.20 = 3.456</p><p>Investor's return: (236 – 200 – 4.72 – 3.456) ÷ 200 = 13.912% ≈ 13.9%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d3bd8238-e11c-430d-a215-8308345c4525",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">12.0%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "b0cb31d1-1073-46cb-a5c3-e7bae55d5cd3",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">13.4%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "e9c68e8b-4a6d-4bfa-8334-670cd9ce3e14",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">13.9%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56686",
+      "entry": {
+        "title": "ITEM_CFA-L1-09061",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">A hedge fund has assets under management of $20 million at the beginning of the year and $24 million at the end of the year. The fund charges a 2% management fee based on year-end assets under management and a 20% incentive fee. If the incentive fee is calculated net of the management fee, the total fee charged for the year is <i>closest </i>to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4b1551ab-1490-46d5-a60d-47ae5431b132"
+        },
+        "answerFeedback": {
+          "4b1551ab-1490-46d5-a60d-47ae5431b132": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Correct because:</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">$24 million × 2% = $480,000 management fee<br>($24 million – $20 million – $480,000) × 20% = $704,000 incentive fee<br>Total fees = $480,000 + $704,000 = $1,184,000. </span></p>",
+          "657c568d-6906-4f1e-8eef-d4aa583b13e5": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because it adds the management and incentive fee together and calculates them on the amount of the return only:</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">($24 – $20) million × 22% = $880,000</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Total fees ≠ $880,000. </span></p>",
+          "d70c6051-8842-4b37-b2f3-4cb8d4db4d2e": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because it calculates the incentive fee gross of the management fee:</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">$24 million × 2% = $480,000 management fee<br>($24 million – $20 million) × 20% = $800,000 incentive fee<br>Total fees ≠ $480,000 + $800,000 = $1,280,000.&nbsp;</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "657c568d-6906-4f1e-8eef-d4aa583b13e5",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">$0.88 million.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "4b1551ab-1490-46d5-a60d-47ae5431b132",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">$1.18 million.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "d70c6051-8842-4b37-b2f3-4cb8d4db4d2e",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">$1.28 million.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56687",
+      "entry": {
+        "title": "ITEM_CFA-L1-03626",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">An analyst collects the following information about a hedge fund:</span></p>\n<table style=\"border-collapse: collapse; width: 444px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col width=\"74.84%\"> <col width=\"25.16%\"> </colgroup>\n<tbody>\n<tr>\n<td style=\"width: 254px; max-width: 254px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Assets under management, beginning of year</span></td>\n<td style=\"width: 102px; text-align: center; max-width: 102px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">$200 million</span></td>\n</tr>\n<tr>\n<td style=\"width: 254px; max-width: 254px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Management fee</span></td>\n<td style=\"width: 102px; text-align: center; max-width: 102px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">2%</span></td>\n</tr>\n<tr>\n<td style=\"width: 254px; max-width: 254px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Incentive fee, net of management fee</span></td>\n<td style=\"width: 102px; text-align: center; max-width: 102px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">20%</span></td>\n</tr>\n<tr>\n<td style=\"width: 254px; max-width: 254px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Hard hurdle rate</span></td>\n<td style=\"width: 102px; text-align: center; max-width: 102px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">5%</span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">The management fee and incentive fee are based on the year-end value. If the fund generates a gross return of 10%, the net return is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ef291561-ad4b-49d3-8431-38f14357d1e5"
+        },
+        "answerFeedback": {
+          "692b8e79-ab7d-41ea-a6d1-998e2b2d521a": "<p>Incorrect because the incentive fee is not calculated in excess of the hurdle rate:</p><p>AUM at period end = $200 million × 110% = $220 million</p><p>Management fee = $220 million × 2% = $4.4 million</p><p>Incentive fee = ($220 − $200 − $4.4) × 20% = $3.12 million</p><p>Total fees = $7.52 million</p><p>Investor return = ($20 − $7.52) / $200 = 0.0624 ≈ 6.2%.</p>",
+          "ea33b926-1cf6-491d-8cb2-0e7826f01e79": "<p>Incorrect because the incentive fee is not calculated net of the management fee:</p><p>AUM at year end = $200 million × 110% = $220 million</p><p>Management fee = $220 million × 2% = $4.4 million</p><p>Incentive fee = ($220 − $200 − $10) × 20% = $2 million</p><p>Total fees = $6.4 million</p><p>Investor return = ($20 − $6.4) / $200 = 0.068 = 6.8%.</p>",
+          "ef291561-ad4b-49d3-8431-38f14357d1e5": "<p>Correct because the hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rate</i>, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.</p><p>AUM at year end = $200 million × 110% = $220 million</p><p>Management fee = $220 million × 2% = $4.4 million</p><p>Hard hurdle = $200 million × 5% = $10 million</p><p>Incentive fee = ($220 − $200 − $10 − $4.4) × 20% = $1.12 million</p><p>Total fees = $5.52 million</p><p>Investor return = ($20 − $5.52) / $200 = 0.0724 ≈ 7.2%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "692b8e79-ab7d-41ea-a6d1-998e2b2d521a",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">6.2%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "ea33b926-1cf6-491d-8cb2-0e7826f01e79",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">6.8%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "ef291561-ad4b-49d3-8431-38f14357d1e5",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">7.2%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56688",
+      "entry": {
+        "title": "ITEM_CFA-L1-02006",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">When market prices are used to value underlying positions held by a hedge fund, the <i>most</i> conservative approach uses:</span></span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fa6f3c25-2b6a-486b-9732-2be119e24290"
+        },
+        "answerFeedback": {
+          "1457cbc3-1c2d-4977-8b88-2777f3c52519": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because when market prices or quotes are used for valuation, funds may diﬀer in which price or quote they use (bid price, ask price, average quote, or median quote). A common practice is to use an average of the bid and the ask. A more conservative and theoretically more accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed.&nbsp;</span></p>",
+          "49a71418-e077-473f-896d-4967ac580951": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because using bid prices only will underestimate the values of short positions, which can only be closed at ask prices. </span></p>",
+          "fa6f3c25-2b6a-486b-9732-2be119e24290": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Correct because when market prices or quotes are used for valuation, funds may diﬀer in which price or quote they use (bid price, ask price, average quote, or median quote). A common practice is to use an average of the bid and the ask. A more conservative and theoretically more accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed.&nbsp;</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "49a71418-e077-473f-896d-4967ac580951",
+              "itemBody": "<p>A. <span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">bid prices only.</span></span></p>",
+              "position": 1
+            },
+            {
+              "id": "1457cbc3-1c2d-4977-8b88-2777f3c52519",
+              "itemBody": "<p>B. <span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">the average of bid and ask prices.</span></span></p>",
+              "position": 2
+            },
+            {
+              "id": "fa6f3c25-2b6a-486b-9732-2be119e24290",
+              "itemBody": "<p>C. <span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">bid prices for longs and ask prices for shorts.</span></span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56689",
+      "entry": {
+        "title": "ITEM_CFA-L1-08443",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">A hedge fund has the following fee structure based on year-end assets under management:</span></p>\n<table style=\"border-collapse: collapse; width: 429px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 330px; max-width: 330px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Assets under management, beginning of year</span></td>\n<td style=\"width: 89px; text-align: center; max-width: 89px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">$10 million</span></td>\n</tr>\n<tr>\n<td style=\"width: 330px; max-width: 330px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Management fee</span></td>\n<td style=\"width: 89px; text-align: center; max-width: 89px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">2%</span></td>\n</tr>\n<tr>\n<td style=\"width: 330px; max-width: 330px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Incentive fee</span></td>\n<td style=\"width: 89px; text-align: center; max-width: 89px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">20%</span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">The incentive fee is calculated net of the management fee. If the gross annual return is 15%, the net-of-fees return to investors is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "256fd264-285d-4f52-9435-c1feef119414"
+        },
+        "answerFeedback": {
+          "256fd264-285d-4f52-9435-c1feef119414": "<p>Correct because:</p><p>AUM at period end = $10 million × 115% = $11.5 million</p><p>Management fee = $11.5 million × 2% = $230,000</p><p>Incentive fee = ($11.5 million − $10.0 million − $230,000) × 20% = $254,000</p><p>Total fee = $230,000 + $254,000 = $484,000</p><p>Investor return = ($11.5 million − $10.0 million − $484,000) / $10.0 million = 10.16%.</p>",
+          "a9eacacd-4283-4c3a-b997-525a6b176108": "<p>Incorrect because it uses the ending assets rather than the beginning assets in the divisor:</p><p>AUM at period end = $10 million × 115% = $11.5 million</p><p>Management fee = $11.5 million × 2% = $230,000</p><p>Incentive fee =11.5 million − $10.0 million − $230,000) × 20% = $254,000</p><p>Total fee = $230,000+254,000 = $484,000</p><p>Investor return ≠ ($11.5 million − $10.0 million − $484,000) / $11.5 million =8.8%.</p>",
+          "f9c2b61a-53de-43af-840e-c604bb21f4b8": "<p>Incorrect because the return is calculated by combining the fees on the return, not the full amount of AUM on the management fee:</p><p>AUM at period end = $10 million × 115% = $11.5 million</p><p>Combined fee ≠ ($11.5 million − $10.0 million) × 22% = $330,000</p><p>Investor return ≠ ($11.5 million − $10.0 million − $330,000 million) / $10.0 million = 11.7%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a9eacacd-4283-4c3a-b997-525a6b176108",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">8.8%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "256fd264-285d-4f52-9435-c1feef119414",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">10.2%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "f9c2b61a-53de-43af-840e-c604bb21f4b8",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">11.7%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56690",
+      "entry": {
+        "title": "ITEM_CFA-L1-03043",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">A hedge fund has the following characteristics:</span></p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-bottom:12px; width:706px\"><tbody>\n<tr>\n<td style=\"width:324px; max-width:324px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Management fee</span></td>\n<td style=\"width:376px; text-align:center; max-width:376px; white-space:nowrap\"><span style=\"font-family:Arial,Helvetica,sans-serif\">2% of year-end assets under management</span></td>\n</tr>\n<tr>\n<td style=\"width:324px; max-width:324px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Incentive fee</span></td>\n<td style=\"width:376px; text-align:center; max-width:376px; white-space:nowrap\"><span style=\"font-family:Arial,Helvetica,sans-serif\">20% of the annual return above a 6% hurdle rate</span></td>\n</tr>\n<tr>\n<td style=\"width:324px; max-width:324px; white-space:nowrap\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Assets under management at end of Year 1</span></td>\n<td style=\"width:376px; text-align:center; max-width:376px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">$800 million</span></td>\n</tr>\n<tr>\n<td style=\"width:324px; max-width:324px; white-space:nowrap\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Assets under management at end of Year 2</span></td>\n<td style=\"width:376px; text-align:center; max-width:376px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">$960 million</span></td>\n</tr>\n</tbody></table><p><span style=\"font-family:Arial,Helvetica,sans-serif\">If the management and incentive fees are calculated independently and there were no capital contributions or withdrawals, total fees for Year 2 are <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cfecfcb0-4e57-40fc-86bd-54a66c7c66b2"
+        },
+        "answerFeedback": {
+          "25ffd3fd-fb25-4614-9e37-e57cf4dad159": "<p>Incorrect because the incentive fee is not calculated independent of the management fee:</p><p>Management fee = $960 million × 0.02 = $19.2 million</p><p>Hard hurdle = $800 million × 0.06 = $48 million</p><p>Incentive fee = ($960 million – $800 million – $48 million – $19.2 million) × 0.2 = $18.56 million</p><p>Total fees = $19.2 million + $18.56 million = $37.76 million ≈ $37.8 million.</p>",
+          "cfecfcb0-4e57-40fc-86bd-54a66c7c66b2": "<p>Correct because the hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rate</i>, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.&nbsp;Total fees are calculated as follows:</p><p>Management fee = $960 million × 0.02 = $19.2 million</p><p>Hard hurdle = $800 million × 0.06 = $48 million</p><p>Incentive fee = ($960 million – $800 million – $48 million) × 0.2 = $22.4 million</p><p>Total fees = $19.2 million + $22.4 million = $41.6 million.</p>",
+          "e1bacf42-4bfa-4206-8693-9fbbba9e5cdf": "<p>Incorrect because the hurdle rate is calculated on the basis of ending assets under management (AUM) instead of beginning AUM:</p><p>Management fee = $960 million × 0.02 = $19.2 million</p><p>Hard hurdle = $960 million × 0.06 = $57.6 million</p><p>Incentive fee = ($960 million – $800 million – $57.6 million) × 0.2 = $20.48 million</p><p>Total fees = $19.2 million + $20.48 million = $39.68 million ≈ $39.7 million.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "25ffd3fd-fb25-4614-9e37-e57cf4dad159",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">$37.8 million.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "e1bacf42-4bfa-4206-8693-9fbbba9e5cdf",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">$39.7 million.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "cfecfcb0-4e57-40fc-86bd-54a66c7c66b2",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">$41.6 million.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56691",
+      "entry": {
+        "title": "ITEM_CFA-L1-06072",
+        "feedback": {},
+        "itemBody": "<p>A perceived benefit of adding alternative assets to a portfolio of traditional assets is <i>most likely</i> the higher:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "96ec3cfb-302d-465f-8be2-963f38e2a5fd"
+        },
+        "answerFeedback": {
+          "96ec3cfb-302d-465f-8be2-963f38e2a5fd": "<p>Correct because alternative investments offer broader diversification (because of their lower correlation with traditional asset classes), opportunities for enhanced returns (by increasing the portfolio’s risk–return profile), and potentially increased income through higher yields (particularly compared with traditional investments in low–interest rate periods). Alternative investments’ diversifying potential is part of the motivation for investing in them: Investors perceive an opportunity to improve the risk–return relationship in the portfolio context. Given the historical return, volatility, and correlation profiles of alternative investments, combining a portfolio of alternative investments with a portfolio of traditional investments should improve the overall portfolio’s risk–return profile. Doing so can increase the risk-adjusted return of the overall portfolio because of potentially higher returns to the portfolio and a less-than-perfect correlation with traditional investments.&nbsp;</p>",
+          "d5305e60-cb3f-4d70-8ab2-b16cd621e284": "<p>Incorrect because alternative investments often have the characteristic of less regulation and less transparency than traditional investments.&nbsp;</p>",
+          "e33a3e9a-ad6d-4e9a-b68c-054e14729b1e": "<p>Incorrect because alternative investments offer broader diversification (because of their lower correlation with traditional asset classes), opportunities for enhanced returns (by increasing the portfolio’s risk–return profile), and potentially increased income through higher yields (particularly compared with traditional investments in low–interest rate periods).&nbsp;Given the historical return, volatility, and correlation profiles of alternative investments, combining a portfolio of alternative investments with a portfolio of traditional investments should improve the overall portfolio’s risk–return profile. Doing so can increase the risk-adjusted return of the overall portfolio because of potentially higher returns to the portfolio and a less-than-perfect correlation with traditional investments.&nbsp;The better risk-return profile of an investment portfolio gained by diversifying into alternative assets is due to the lower correlation of returns, not higher correlation of returns.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "96ec3cfb-302d-465f-8be2-963f38e2a5fd",
+              "itemBody": "<p>A. risk-adjusted return profile of the resulting portfolio.</p>",
+              "position": 1
+            },
+            {
+              "id": "d5305e60-cb3f-4d70-8ab2-b16cd621e284",
+              "itemBody": "<p>B. regulation and transparency of alternative assets relative to traditional assets.</p>",
+              "position": 2
+            },
+            {
+              "id": "e33a3e9a-ad6d-4e9a-b68c-054e14729b1e",
+              "itemBody": "<p>C. expected correlation of returns between alternative assets and traditional assets.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56692",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-Alt-Lin-09",
+        "feedback": {},
+        "itemBody": "<p>Hedge fund mark-to-model valuations <i>most likely</i>&nbsp;reflect a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3c70d962-69ec-4cb9-859f-5845eca8f09f"
+        },
+        "answerFeedback": {
+          "3c70d962-69ec-4cb9-859f-5845eca8f09f": "<p>Correct because the very nature of assets that can be valued only on a mark-to-model&nbsp;basis can and should be a concern for the alternative asset investor. A model may reflect an imperfect theoretical valuation and not a true liquidation value.</p>",
+          "cec8ec65-80c5-4ad7-968c-2fba9537513c": "<p>Incorrect because the very nature of assets that can be valued only on a mark-to-model&nbsp;basis can and should be a concern for the alternative asset investor. A model may reflect an imperfect theoretical valuation and not a true liquidation value.</p>",
+          "ee49442a-2f7f-4e2c-870e-61ee8387c2dc": "<p>Incorrect because Level 1 assets involve situations where an exchange-traded, publicly traded price is available and is mandated to be used for valuation purposes. When such pricing is not available, outside broker quotes, or Level 2 values, may be relied on. As a final recourse, when such broker quotes are deemed either unavailable or unreliable, assets may be computed using only internal models—a process referred to as Level 3 asset pricing.&nbsp;Mark-to-model valuation is Level 3 asset pricing when a publicly traded price and outside&nbsp;broker quotes are not available.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cec8ec65-80c5-4ad7-968c-2fba9537513c",
+              "itemBody": "<p>A. liquidation value.</p>",
+              "position": 1
+            },
+            {
+              "id": "3c70d962-69ec-4cb9-859f-5845eca8f09f",
+              "itemBody": "<p>B. theoretical value.</p>",
+              "position": 2
+            },
+            {
+              "id": "ee49442a-2f7f-4e2c-870e-61ee8387c2dc",
+              "itemBody": "<p>C. publicly traded price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56693",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Alt-Mazararu-03",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">An investor gathers&nbsp;the following information about a hedge fund:</span></p>\n<table style=\"border-collapse: collapse; width: 553px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 423px; max-width: 423px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Beginning-of-year assets under management (AUM)</span></td>\n<td style=\"width: 118px; text-align: center; max-width: 118px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">$300,000,000</span></td>\n</tr>\n<tr>\n<td style=\"width: 423px; max-width: 423px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Current high-water mark</span></td>\n<td style=\"width: 118px; text-align: center; max-width: 118px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">$320,000,000</span></td>\n</tr>\n<tr>\n<td style=\"width: 423px; max-width: 423px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Annual return before fees</span></td>\n<td style=\"width: 118px; text-align: center; max-width: 118px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">10%</span></td>\n</tr>\n<tr>\n<td style=\"width: 423px; max-width: 423px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Management fee, based on end-of-year AUM before fees</span></td>\n<td style=\"width: 118px; text-align: center; max-width: 118px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">&nbsp;2%</span></td>\n</tr>\n<tr>\n<td style=\"width: 423px; max-width: 423px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">Incentive fee</span></td>\n<td style=\"width: 118px; text-align: center; max-width: 118px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">20%</span></td>\n</tr>\n<tr></tr>\n<tr></tr>\n</tbody>\n</table>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">If the incentive fee is based on returns net of management fees and the fee structure includes the use of a high-water mark, the investor's net return for the year is <i>closest </i>to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "19eb85f6-1726-4e92-aae3-9c7c71c6078e"
+        },
+        "answerFeedback": {
+          "076566fa-0e5e-4bd2-9b92-b5089b499756": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because it ignores the current high-water mark and computes the incentive fee based on returns net of management fees. Accordingly, End-of-year AUM =&nbsp;Beginning-of-year AUM&nbsp;× (1&nbsp;+ Annual return before fees) =&nbsp;$300,000,000 × (1&nbsp;+ 10%) =&nbsp;$330,000,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Management fee = Management fee based on end-of-year AUM&nbsp;×&nbsp;End-of-year AUM = 2%&nbsp;× $330,000,000 =&nbsp;$6,600,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Return net of management fee =&nbsp;End-of-year AUM&nbsp;–&nbsp;Beginning-of-year AUM – Management fee =&nbsp;$330,000,000&nbsp;–&nbsp;$300,000,000&nbsp;– $6,600,000 = $23,400,000.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incentive fee = 20% ×&nbsp;Return net of management fee = 20%&nbsp;×&nbsp;$23,400,000 =&nbsp;$4,680,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Total fees = Management fee + Incentive fee =&nbsp;$6,600,000 +&nbsp;$4,680,000 =&nbsp;$11,280,000.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Net return = (End-of-year AUM&nbsp;– Beginning-of-year AUM – Total fees) /&nbsp;Beginning-of-year AUM = ($330,000,000 –&nbsp;$300,000,000&nbsp;– $11,280,000) /&nbsp;$300,000,000 = $18,720,000 / $300,000,000 = 6.24%.&nbsp;</span></p>",
+          "19eb85f6-1726-4e92-aae3-9c7c71c6078e": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Correct because in hedge funds, fee calculations also take into account a high-water mark, which reﬂects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">End-of-year AUM =&nbsp;Beginning-of-year AUM&nbsp;× (1&nbsp;+ Annual return before fees) =&nbsp;$300,000,000 × (1&nbsp;+ 10%) =&nbsp;$330,000,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Management fee = Management fee based on end-of-year AUM&nbsp;×&nbsp;End-of-year AUM = 2%&nbsp;× $330,000,000 =&nbsp;$6,600,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">The incentive fee is payable if the current high water-mark is exceeded and is based on the excess return above this high-water mark.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Return in excess of current high-water mark =&nbsp;End-of-year AUM&nbsp;– Current high-water mark – Management fee =&nbsp;$330,000,000&nbsp;–&nbsp;$320,000,000&nbsp;– $6,600,000 = $3,400,000.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incentive fee = 20% ×&nbsp;Return in excess of current high-water mark = 20%&nbsp;×&nbsp;$3,400,000 =&nbsp;$680,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Total fees = Management fee + Incentive fee (as applicable) =&nbsp;$6,600,000 +&nbsp;$680,000 =&nbsp;$7,280,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Net return = (End-of-year AUM&nbsp;– Beginning-of-year AUM – Total fees) /&nbsp;Beginning-of-year AUM = ($330,000,000 –&nbsp;$300,000,000&nbsp;– $7,280,000) /&nbsp;$300,000,000 = $22,720,000 / $300,000,000 ≈ 7.57%.&nbsp;</span></p>",
+          "c4a16256-793b-46c6-a92f-111e0df500fe": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incorrect because the current high-water mark is used as a cap for management fee and incentive fee (instead of the threshold representing the highest cumulative return above which an incentive fee is calculated).&nbsp;Accordingly, Management fee = Management fee based on end-of-year AUM&nbsp;× Current high-water mark = 2%&nbsp;× $320,000,000 =&nbsp;$6,400,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Return net of management fee and capped by current high-water mark = Current high-water mark&nbsp;– Beginning-of-year AUM – Management fee =&nbsp;$320,000,000&nbsp;–&nbsp;$300,000,000&nbsp;– $6,400,000 = $13,600,000.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Incentive fee = 20% ×&nbsp;Return net of management fee = 20%&nbsp;×&nbsp;$13,600,000 =&nbsp;$2,720,000.</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Total fees = Management fee + Incentive fee =&nbsp;$6,400,000 +&nbsp;$2,720,000 =&nbsp;$9,120,000.&nbsp;</span></p><p><span style=\"font-family:Arial,Helvetica,sans-serif\">Net return = (End-of-year AUM&nbsp;– Beginning-of-year AUM – Total fees) /&nbsp;Beginning-of-year AUM = ($330,000,000 –&nbsp;$300,000,000&nbsp;– $9,120,000) /&nbsp;$300,000,000 = $20,880,000 / $300,000,000 = 6.96%.&nbsp;</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "076566fa-0e5e-4bd2-9b92-b5089b499756",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">6.24%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "c4a16256-793b-46c6-a92f-111e0df500fe",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">6.96%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "19eb85f6-1726-4e92-aae3-9c7c71c6078e",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">7.57%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9024,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 845,
+      "sourceModuleId": 4762,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51303",
+      "entry": {
+        "title": "CFA2456-R-s03-Q21",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Although the gross return of Rotunda results in a $360 million gross NAV, the deduction of the $7.2 million management fee brings NAV to $352.8 million, which is below the prior high-water mark. Rotunda earns a management fee of $7.20 million but does not earn an incentive fee because the year-end fund value net of management fee does not exceed the prior high-water mark of $357 million. Since Rotunda is still also below the prior-year high-water mark, the hurdle rate of return is also basically irrelevant in this fee calculation.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The specifics of this calculation are as follows:</p>\n            <ul id=\"CFA2456-R-s03-L5\" style=\"list-style-type: none; margin-bottom: 15px; padding-left: 20px;\">\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">End-of-year AUM = Prior year-end AUM × (1 + Fund return) = $288 million × 1.25 = $360 million.</p>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">$360 million × 2% = $7.20 million management fee.</p>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">$360 million − $7.2 million = $352.8 million AUM net of management fee.</p>\n               </li>\n            </ul>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The year-end AUM net of fees do not exceed the $357 million high-water mark. Therefore, no incentive fee is earned.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The following information applies to Rotunda Advisers, a hedge fund:</p><ul id=\"CFA2456-R-s03-L3\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">$288 million in AUM as of prior year end</p>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">2% management fee (based on year-end AUM)</p>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">20% incentive fee calculated:</p>\n                  <ul id=\"CFA2456-R-s03-L4\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n                     <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                        <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Net of management fee</p>\n                     </li>\n                     <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                        <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Using a 5% soft hurdle rate</p>\n                     </li>\n                     <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                        <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Using a high-water mark (high-water mark is $357 million)</p>\n                     </li>\n                  </ul>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Current-year fund gross return is 25%.</p>\n               </li>\n            </ul><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The total fee earned by Rotunda in the current year is closest to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "63e5caeb-c8e6-4fb5-8821-5ded3a8f2931"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "63e5caeb-c8e6-4fb5-8821-5ded3a8f2931",
+              "itemBody": "A. $7.20 million.",
+              "position": 1
+            },
+            {
+              "id": "e64a3bca-09be-4ac4-a122-87ea60584183",
+              "itemBody": "B. $20.16 million.",
+              "position": 2
+            },
+            {
+              "id": "16885ff3-7e66-4b73-baf9-cc6f9cca30f9",
+              "itemBody": "C. $21.60 million.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51304",
+      "entry": {
+        "title": "CFA2456-R-s03-Q22",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Using Equation 2,</p>\n<div id=\"CFA2456-R-s03-E-3-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><em>r<sub>L</sub> </em> = Leveraged portfolio return/Cash position = [<em>r</em> × (<em>V<sub>b</sub> </em> <em>+</em> <em>V<sub>c</sub> </em>) – (<em>V<sub>b</sub> </em> × <em>r<sub>b</sub> </em>)]/<em>V<sub>c</sub> </em>.</div>\n<div id=\"CFA2456-R-s03-E-3-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">Or, after re-arranging the formula,</div>\n<div id=\"CFA2456-R-s03-E-3-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <mi>r</mi> <mo>=</mo> <mo>&nbsp;</mo> <mstyle><mfrac> <mrow> <mrow><mo>(</mo> <mrow> <mo>&nbsp;</mo> <msub> <mi>V</mi> <mi>c</mi> </msub> <mo>×</mo> <msub> <mi>r</mi> <mrow> <mi>L</mi> <mo>&nbsp;</mo> </mrow> </msub> </mrow> <mo>)</mo></mrow> <mo>+</mo> <mrow><mo>(</mo> <mrow> <msub> <mi>V</mi> <mi>b</mi> </msub> <mo>×</mo> <msub> <mi>r</mi> <mi>b</mi> </msub> </mrow> <mo>)</mo></mrow> </mrow> <mrow> <mrow><mo>(</mo> <mrow> <msub> <mi>V</mi> <mi>c</mi> </msub> <mo>+</mo> <msub> <mi>V</mi> <mi>b</mi> </msub> </mrow> <mo>)</mo></mrow> </mrow> </mfrac></mstyle> </mrow> </semantics></math> .</div>\n<div id=\"CFA2456-R-s03-E-3-___3\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">Substituting <em>r<sub>L</sub> </em> = 0.15, <em>V<sub>b</sub> </em> = 200, <em>V<sub>c</sub> </em> = 500, <em>r<sub>b</sub> </em> = 0.045,</div>\n<div id=\"CFA2456-R-s03-E-3-___4\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><em>r</em> = (500 × 0.15) + (200 × 0.045)/(200 + 500) = 12%.</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Since leverage magnifies return when the borrowing cost is lower than asset returns, the unleveraged asset return must be lower than 15%.</p>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A hedge fund with net capital of GBP500 million has borrowed an additional GBP200 million at 4.5% per annum. The current-year return of the fund is 15%. What would have been the return if the fund had not added any leverage?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "582fdb7d-8cfa-4044-abf7-d03e2b4be09a"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f066773b-9e64-4416-a51d-5f2b5bd61adf",
+              "itemBody": "A. 10.7%",
+              "position": 1
+            },
+            {
+              "id": "582fdb7d-8cfa-4044-abf7-d03e2b4be09a",
+              "itemBody": "B. 12.0%",
+              "position": 2
+            },
+            {
+              "id": "8430e622-0f15-4672-a9f3-fe7c93b635e8",
+              "itemBody": "C. 19.2%",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51305",
+      "entry": {
+        "title": "CFA2456-R-s03-Q23",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Accounting rules require that investments be recorded at their fair value for financial reporting purposes. The fair value of private equity that owns illiquid assets requires certain estimates, rather than observable transaction prices, to be factored into valuation. A model that relies on Level 3 inputs may reflect an imperfect theoretical valuation and not a true liquidation value. The lack of new market information over time may anchor the interim valuation at or near initial cost. The relatively stable accounting valuations may give investors a false sense that they are less volatile. At the same time, there is a potential conflict of interest for the GP to overstate interim return because of the implication for carried interest. As a result, returns may be smoothed or overstated and the volatility of returns understated.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A common problem for the “mark-to-model” valuation of private equity funds is <em>most likely</em>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d47bfe6a-42b0-4930-80cd-2b72bffd18d5"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "33f6208d-3574-48e3-8e73-0693aacb65d5",
+              "itemBody": "A. a violation of accounting rules.",
+              "position": 1
+            },
+            {
+              "id": "d47bfe6a-42b0-4930-80cd-2b72bffd18d5",
+              "itemBody": "B. an understatement of portfolio risk.",
+              "position": 2
+            },
+            {
+              "id": "361c27f9-0763-41a8-bf28-47c05f52f81a",
+              "itemBody": "C. an understatement of interim portfolio return.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51306",
+      "entry": {
+        "title": "CFA2456-R-s03-Q24",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Despite investing for the shortest period of time in the fund (i.e., two years), Investor C has earned the highest net return compared to the other two investors. The following table illustrates the calculations based on the “2 and 20” fee structure and the high-water marks facing each investor in any particular year; in each case, the incentive fee is calculated using Equation 8:</p>\n<div id=\"CFA2456-R-s03-E-5-\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><em>R<sub>GP</sub> </em> <sub>(</sub> <em> <sub>High-Water Mark</sub> </em> <sub>)</sub> = (<em>P</em><sub>2</sub> × <em>r<sub>m</sub> </em>) + max{0, [<em>P</em><sub>2</sub> (1 - r<sub>m</sub>)&nbsp;– <em>P<sub>HWM</sub> ]</em>&nbsp;× <em>p}</em>.</div>\n<div id=\"CFA2456-R-s03-E-5-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">The net return is calculated using Equation 9:</div>\n<div id=\"CFA2456-R-s03-E-5-___2\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><em>r<sub>i</sub> </em> = (<em>P</em> <sub>2</sub> – <em>P</em> <sub>1</sub> – <em>R<sub>GP</sub> </em>)/<em>P</em> <sub>1</sub>.</div>\n<div id=\"CFA2456-R-s03-T-5-g\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Annual Gross Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Investor A’s Investment</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(Before Fee)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>High-Water Mark</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Management Fee (2%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Incentive Fee (20%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(After Fee)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>(Before Fee)</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">20%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">120.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.40</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">3.52</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">114.08</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">-15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">96.97</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">114.08</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">1.94</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">95.03</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">109.28</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">114.08</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.19</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">107.10</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">10%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">117.81</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">114.08</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.36</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">0.27</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">115.18</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"7\"><strong>Investor A's net return</strong></td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\"><strong>15.18%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Annual Gross Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Investor B’s Investment</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(Before Fee)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>High-Water Mark</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Management Fee (2%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Incentive Fee (20%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(Before Fee)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">20%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">-15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">85.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">1.70</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">83.30</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">95.80</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">1.92</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">93.88</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">10%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">103.27</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.07</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">0.24</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.96</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"7\"><strong>Investor B's net return</strong></td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\"><strong>0.96%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Annual Gross Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Investor C’s Investment</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(Before Fee)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>High-Water Mark</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Management Fee (2%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Incentive Fee (20%)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Year-End AUM</strong> <br><br><strong>(Before Fee)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">20%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">-15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">115.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100.00</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.30</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.54</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">110.16</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">10%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">121.18</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">110.16</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.42</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">1.72</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">117.03</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\" colspan=\"7\"><strong>Investor C's Net Return</strong></td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\"><strong>17.03%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A commodity hedge fund has three investors:</p>\n<ul id=\"CFA2456-R-s03-L6\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">€100 million from Investor A invested at Year 0,</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">€100 million from Investor B invested at the beginning of Year 2, and</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">€100 million from Investor C invested at the beginning of Year 3.</p>\n</li>\n</ul>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The gross returns before fees of the fund are as follows:</p>\n<div id=\"CFA2456-R-s03-T-5-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Annual Gross Return</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Investor A’s Investment</strong> <br><strong>(€ millions)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Investor B’s Investment</strong> <br><strong>(€ millions)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Investor C’s Investment</strong> <br><strong>(€ millions)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">20%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">–15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">15%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">100</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">10%</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">—</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The management fee is 2% based on end-of-year value. The incentive fee is 20% above the high-water mark and is calculated based on end-of-year value net of management fee.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which investor has earned the highest net return after the end of Year 4?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "81a27526-adaa-48db-84ab-5a9c524dc165"
+        },
+        "answerFeedback": {
+          "81a27526-adaa-48db-84ab-5a9c524dc165": ""
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bbab813d-0c2f-4593-93a0-2349fd9c9630",
+              "itemBody": "A. Investor A",
+              "position": 1
+            },
+            {
+              "id": "a6ddb5fd-42b1-4f21-8868-a864d1db4c21",
+              "itemBody": "B. Investor B",
+              "position": 2
+            },
+            {
+              "id": "81a27526-adaa-48db-84ab-5a9c524dc165",
+              "itemBody": "C. Investor C",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51307",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Buyout Capital, LLC, is a private equity fund that has the following characteristics:</p>\n<ul id=\"CFA2456-R-s03-L7\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Capital committed: $200 million</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Preferred return: 8% soft hurdle, with full catch-up</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Fund distribution: after five years</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Management fee: none</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Carried interest: 20% above preferred return</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Waterfall structure: American (deal by deal) with clawback</p>\n</li>\n</ul>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fund made five investments, tabulated as follows:</p>\n<div id=\"CFA2456-R-s03-T-6-h\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" rowspan=\"2\" scope=\"col\"><strong>Investment No. </strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"><strong>Year</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" rowspan=\"2\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"><strong>Amount ($ m)</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" rowspan=\"2\" scope=\"col\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\" scope=\"col\"><strong>Profit</strong></th>\n</tr>\n<tr>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"><strong>Invested</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"><strong>Sold</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"><strong>Invested</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"><strong>Sold</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"col\"><strong>$ m</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>%</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">60</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">20</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">10.67%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">100</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">60</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">25.74%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">50</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">10</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5.74%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">120</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">80</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">31.61%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">30</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(10)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">neg.</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\"><strong>Total</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>200</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>360</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>160</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>12.47%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51308",
+      "entry": {
+        "title": "CFA2456-R-s03-Q25",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The distribution of profit of each investment is as follows:</p>\n               <div id=\"CFA2456-R-s03-T-6-i\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n                  <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                     \n                     <thead>\n                        <tr>\n                           <th style=\"text-align: left; vertical-align: bottom; padding: 8px; \" rowspan=\"2\">\n                              <strong>Investment No.</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"2\">\n                              <strong>Year</strong>\n                           </th>\n                           <th style=\"text-align: left; vertical-align: top; padding: 8px; \" rowspan=\"2\"></th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"2\">\n                              <strong>Amount ($ m)</strong>\n                           </th>\n                           <th style=\"text-align: left; vertical-align: top; padding: 8px; \" rowspan=\"2\"></th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"4\">\n                              <strong>Profit</strong>\n                           </th>\n                        </tr>\n                        <tr>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Invested</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Sold</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Invested</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Sold</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>$ m</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>%</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>LPs at 80%</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>GP at 20%</strong>\n                           </th>\n                        </tr>\n                     </thead>\n                     <tbody>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">0</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">60</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">20</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">10.67%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">16</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">4</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">2</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">0</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">100</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">60</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">25.74%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">48</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">12</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">3</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">50</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">10</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5.74%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">10</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">0</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">120</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">80</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">31.61%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">64</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">16</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">2</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">30</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">(10)</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">neg.</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">(8)</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">(2)</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">\n                              <strong>Total</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>200</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>360</strong>\n                           </td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>160</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>12.47%</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>130</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>30</strong>\n                           </td>\n                        </tr>\n                     </tbody>\n                  </table></div>\n               </div>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Since the preferred return of the LP is 8%, Investments 1, 2, and 4 all meet the criterion and the profit is split 80/20 between the LPs and GP. Investment 3 does not earn the GP any carry because it fails to meet the preferred return; neither does Investment 5, whose profit is negative. Because of the clawback clause, the GP’s carry is reduced by $2 million (or 20% of the loss on Investment 5). Therefore, the total carried interest adds up to $30 million, or 30/160 = 18.75% of the total profit made by the fund.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">What is the total carried interest to the GP?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "49c1ffb5-2237-4c54-98fc-d59154da2b25"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "49c1ffb5-2237-4c54-98fc-d59154da2b25",
+              "itemBody": "A. $30 million",
+              "position": 1
+            },
+            {
+              "id": "5cf368f9-e192-4f33-90bf-9772ec44dc52",
+              "itemBody": "B. $32 million",
+              "position": 2
+            },
+            {
+              "id": "241e2ca5-7227-4101-a211-ddb31bb58bfe",
+              "itemBody": "C. $34 million",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": "51307"
+    },
+    {
+      "id": "51309",
+      "entry": {
+        "title": "CFA2456-R-s03-Q26",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. A European waterfall occurs at the aggregate fund level. As long as the fund exit IRR exceeds 8% after five years, the GP will be eligible for the full 20% carried interest on the profit made from all investments—that is, $160 million × 20% = $32 million.</p>\n               <div id=\"CFA2456-R-s03-T-6-k\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n                  <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                     \n                     <thead>\n                        <tr>\n                           <th style=\"text-align: left; vertical-align: bottom; padding: 8px; \" rowspan=\"2\">\n                              <strong>Investment No.</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"2\">\n                              <strong>Year</strong>\n                           </th>\n                           <th style=\"text-align: left; vertical-align: top; padding: 8px; \" rowspan=\"2\"></th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"2\">\n                              <strong>Amount ($ m)</strong>\n                           </th>\n                           <th style=\"text-align: left; vertical-align: top; padding: 8px; \" rowspan=\"2\"></th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \" colspan=\"4\">\n                              <strong>Profit</strong>\n                           </th>\n                        </tr>\n                        <tr>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Invested</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Sold</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Invested</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>Sold</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>$ m</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>%</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>LPs at 80%</strong>\n                           </th>\n                           <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>GP at 20%</strong>\n                           </th>\n                        </tr>\n                     </thead>\n                     <tbody>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">0</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">60</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">20</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">10.67%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">2</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">0</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">100</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">60</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">25.74%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">3</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">50</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">10</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5.74%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">4</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">1</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">120</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">80</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">31.61%</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">2</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">5</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">40</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">30</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">(10)</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">neg.</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">\n                              <strong>Total</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">&nbsp;</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>200</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>360</strong>\n                           </td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>160</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                              <strong>12.47%</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>128</strong>\n                           </td>\n                           <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                              <strong>32</strong>\n                           </td>\n                        </tr>\n                     </tbody>\n                  </table></div>\n               </div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Buyout Capital, LLC, is a private equity fund that has the following characteristics:</p>\n<ul id=\"CFA2456-R-s03-L8\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Capital committed: $200 million</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Preferred return: 8% soft hurdle, with full catch-up</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Fund distribution: after five years</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Management fee: none</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Carried interest: 20% above preferred return</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Waterfall structure: European (whole of fund)</p>\n</li>\n</ul>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fund made five investments that are tabulated as follows:</p>\n<div id=\"CFA2456-R-s03-T-6-j\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" rowspan=\"2\"><strong>Investment No.</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\"><strong>Year</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" rowspan=\"2\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\"><strong>Amount ($ m)</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" rowspan=\"2\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"2\"><strong>Profit</strong></th>\n</tr>\n<tr>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Invested</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Sold</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Invested</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>Sold</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>$ m</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\"><strong>%</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">60</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">20</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">10.67%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">100</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">60</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">25.74%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">3</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">50</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">10</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5.74%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">4</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">120</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">80</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">31.61%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">2</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">30</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(10)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">neg.</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\"><strong>Total</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">&nbsp;</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>200</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>360</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>160</strong></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\"><strong>12.47%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">What is the total carried interest to the GP?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3284ae36-07ba-447b-95fd-bc3ff6162fc2"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "62e75c0b-a051-4835-973e-e1f9e7bd074a",
+              "itemBody": "A. $30 million",
+              "position": 1
+            },
+            {
+              "id": "3284ae36-07ba-447b-95fd-bc3ff6162fc2",
+              "itemBody": "B. $32 million",
+              "position": 2
+            },
+            {
+              "id": "8ad65bee-6938-4ad6-84c1-eab7341a507f",
+              "itemBody": "C. $34 million",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": "51307"
+    },
+    {
+      "id": "51310",
+      "entry": {
+        "title": "CFA2456-R-s03-Q27",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The management fee for the year is $642 million × 0.02 = $12.84 million.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Because the ending gross value of the fund of $642 million exceeds the high-water mark of $610 million, the hedge fund can collect an incentive fee on gains above this high-water mark but net of the hurdle rate of return. The incentive fee calculation becomes</p>\n<div id=\"CFA2456-R-s03-E-7-___1\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">Net Value Post Management Fees = (1<img class=\"equation_image\" title=\"-\" src=\"/equation_images/-?scale=1\" alt=\"LaTeX: -\" data-equation-content=\"-\" data-ignore-a11y-check=\"\">0.02) <img class=\"equation_image\" title=\"\\times\" src=\"/equation_images/%255Ctimes?scale=1\" alt=\"LaTeX: \\times\" data-equation-content=\"\\times\" data-ignore-a11y-check=\"\"> $624 = $6.2916 Million.</div>\n<div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">Incentive Fee = max(0,[629.16 <img class=\"equation_image\" title=\"-\" src=\"/equation_images/-?scale=1\" alt=\"LaTeX: -\" data-equation-content=\"-\" data-ignore-a11y-check=\"\"> max(610, 1.04<img class=\"equation_image\" title=\"\\times\" src=\"/equation_images/%255Ctimes?scale=1\" alt=\"LaTeX: \\times\" data-equation-content=\"\\times\" data-ignore-a11y-check=\"\"> 583.1)] <img class=\"equation_image\" title=\"\\times\" src=\"/equation_images/%255Ctimes?scale=1\" alt=\"LaTeX: \\times\" data-equation-content=\"\\times\" data-ignore-a11y-check=\"\"> 0.2 = $3.832 Million</div>\n<div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">Total fees are 3.832 <img class=\"equation_image\" title=\"+\" src=\"/equation_images/%252B?scale=1\" alt=\"LaTeX: +\" data-equation-content=\"+\" data-ignore-a11y-check=\"\"> 12.84 = $16.672 Million and the final NAV is 642 <img class=\"equation_image\" title=\"-\" src=\"/equation_images/-?scale=1\" alt=\"LaTeX: -\" data-equation-content=\"-\" data-ignore-a11y-check=\"\"> 16.672 = $625.328 Million.</div>\n<div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\">So, the net return is 625.328/583.1<img class=\"equation_image\" title=\"-\" src=\"/equation_images/-?scale=1\" alt=\"LaTeX: -\" data-equation-content=\"-\" data-ignore-a11y-check=\"\">1 = 7.24%</div>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A hedge fund has the following fee structure:</p>\n<ul id=\"CFA2456-R-s03-L9\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Annual management fee based on year-end AUM: 2%</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Incentive fee: 20%</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Hurdle rate before incentive fee collection starts: 4%</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Current high-water mark: $610 million</p>\n</li>\n<li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">Incentive fees (and hurdle rate considerations) are determined post management fees</li>\n</ul>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The fund has a value of $583.1 million at the beginning of the year. After one year, it has a value of $642 million before fees. <span>Assume performance fees and management fees are calculated independently.</span> The net percentage return to an investor for this year is closest to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3f3fb436-0749-4eed-937f-d28f1a1edfef"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "89a14ace-907d-463f-8e53-0d85238c1a68",
+              "itemBody": "A. 6.72%.",
+              "position": 1
+            },
+            {
+              "id": "dc8c3872-2ed8-410b-aad3-58208790cbf8",
+              "itemBody": "B. 6.80%.",
+              "position": 2
+            },
+            {
+              "id": "3f3fb436-0749-4eed-937f-d28f1a1edfef",
+              "itemBody": "<p>C. 7.24%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8265,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53947",
+      "entry": {
+        "title": "ITEM_20170427002",
+        "feedback": {},
+        "itemBody": "<p>The following information is available about a hedge fund:</p>\n<table style=\"border-collapse: collapse; width: 86.7348%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"6\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 66.186%;\">Initial fund assets</td>\n<td style=\"vertical-align: middle; width: 33.852%; text-align: center;\">$100 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 66.186%;\">Fund assets at the end of the period (before fees)</td>\n<td style=\"vertical-align: middle; width: 33.852%; text-align: center;\">$110 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 66.186%;\">Management fee based on assets under management</td>\n<td style=\"vertical-align: middle; width: 33.852%; text-align: center;\">2%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 66.186%;\">Incentive fee based on the return</td>\n<td style=\"vertical-align: middle; width: 33.852%; text-align: center;\">20%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 66.186%;\">Soft hurdle rate</td>\n<td style=\"vertical-align: middle; width: 33.852%; text-align: center;\">8%</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 12px;\">No deposits to the fund or withdrawals from the fund occurred during the year. Management fees are calculated using end-of-period valuation. Management fees and incentive fees are calculated independently. The net-of-fees return of the investor is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "eba502d0-8a1a-437b-b96d-aae8916d619f"
+        },
+        "answerFeedback": {
+          "5cf32df2-1a63-47d0-9c40-abba23969fb0": "<p>Incorrect. It completely neglects the incentive fee. This is only appropriate if the hurdle rate is not cleared. Management fee: 2% of $110 million = $2.2 million. Therefore, the fund assets at the end of the period after fees are $107.8 million. The return for the investor is 7.8%.</p>",
+          "981c90a9-3360-4947-acda-8cc26281351a": "<p>Incorrect. It reduces the base of the incentive fee by the hurdle rate. This is only correct in the case of a hard hurdle rate, but not in the case of a soft hurdle rate. Management fee: 2% of $110 million = $2.2 million.</p><p>Incorrect subtraction of $8 million (because of the hurdle rate) from the performance of $10 million leaves $2 million.</p><p>Incentive fee 20% of $2 million = $0.4 million</p><p>Total fees: $2.6 million</p><p>Therefore, the fund assets at the end of the period after fees are $107.4 million. The return for the investor is 7.4%.</p>",
+          "eba502d0-8a1a-437b-b96d-aae8916d619f": "<p><strong>Correct.</strong> The soft hurdle rate is surpassed because the return of the fund is 10%. For that reason, the full fee, based on the full performance, is due.</p><p>Management fee: 2% of $110 million = $2.2 million</p><p>Incentive fee: 20% of $10 million = $2 million</p><p>Total fees: $4.2 million</p><p>Therefore, the fund assets at the end of the period after fees are $105.8 million. The return for the investor is 5.8%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5cf32df2-1a63-47d0-9c40-abba23969fb0",
+              "itemBody": "<p>A. 7.8%.</p>",
+              "position": 1
+            },
+            {
+              "id": "981c90a9-3360-4947-acda-8cc26281351a",
+              "itemBody": "<p>B. 7.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "eba502d0-8a1a-437b-b96d-aae8916d619f",
+              "itemBody": "<p>C. 5.8%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53948",
+      "entry": {
+        "title": "ITEM_20170427050",
+        "feedback": {},
+        "itemBody": "<p>High Plains Capital is a hedge fund with a portfolio valued at $475,000,000 at the beginning of the year. One year later, the value of assets under management is $541,500,000. The hedge fund charges a 1.5% management fee based on the end-of-year portfolio value as well as a 10% incentive fee. If the incentive fee and management fee are calculated independently, the effective return for a hedge fund investor is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a150aa2e-1f84-44d2-a45f-ba148ad5b018"
+        },
+        "answerFeedback": {
+          "0667cd4c-2abd-47a5-a00e-6d3e9be00181": "<p>Incorrect. Only the management fee is included in the return calculation.</p><p style=\"margin-left:1.618em\">Return = ($541,500,000 – $475,000,000 – $8,122,500)/$475,000,000 = 0.1229 or 12.29%</p>",
+          "433759e3-4f8b-471a-a583-bd0556e1d221": "<p>Incorrect. The incentive fee is incorrect. It is incorrectly calculated as follows:</p><p style=\"margin-left:1.618em\">Incentive fee = ($541,500,000 – $475,000,000 – $8,122,500) × 0.10 = $5,837,750</p><p style=\"margin-left:1.618em\">Total fees = $13,960,250 = $8,122,500 + $5,837,750</p><p style=\"margin-left:1.618em\">Return = ($541,500,000 – $475,000,000 – $13,960,250)/$475,000,000 = 0.1106 or 11.06%</p>",
+          "a150aa2e-1f84-44d2-a45f-ba148ad5b018": "<p>Correct.</p><p style=\"margin-left:1.618em\">Management fee = $541,500,000 × 0.015 = $8,122,500</p><p style=\"margin-left:1.618em\">Incentive fee = ($541,500,000 – $475,000,000) × 0.10 = $6,650,000</p><p style=\"margin-left:1.618em\">Total fees = $14,772,500</p><p style=\"margin-left:1.618em\">Return = ($541,500,000 – $475,000,000 – $14,772,500)/$475,000,000 = 0.1089 or 10.89%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a150aa2e-1f84-44d2-a45f-ba148ad5b018",
+              "itemBody": "<p>A. 10.89%.</p>",
+              "position": 1
+            },
+            {
+              "id": "433759e3-4f8b-471a-a583-bd0556e1d221",
+              "itemBody": "<p>B. 11.06%.</p>",
+              "position": 2
+            },
+            {
+              "id": "0667cd4c-2abd-47a5-a00e-6d3e9be00181",
+              "itemBody": "<p>C. 12.29%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53949",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Alt-Glover-03",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is the <i>most </i>conservative approach to valuing a hedge fund's underlying positions?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "191d77a1-7376-4171-ac3a-2589e1e207a6"
+        },
+        "answerFeedback": {
+          "0d0fc165-4cf9-4cb2-9548-32743ff3f66b": "<p>Incorrect because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading.</p>",
+          "191d77a1-7376-4171-ac3a-2589e1e207a6": "<p>Correct because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading.</p>",
+          "6a2699f5-4a0c-417e-96ca-cd1e1010c65c": "<p>Incorrect because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "191d77a1-7376-4171-ac3a-2589e1e207a6",
+              "itemBody": "<p>A. Using bid prices for long positions and ask prices for short positions</p>",
+              "position": 1
+            },
+            {
+              "id": "0d0fc165-4cf9-4cb2-9548-32743ff3f66b",
+              "itemBody": "<p>B. Using bid prices for short positions and ask prices for long positions</p>",
+              "position": 2
+            },
+            {
+              "id": "6a2699f5-4a0c-417e-96ca-cd1e1010c65c",
+              "itemBody": "<p>C. Using the average of the bid and ask prices for both long and short positions</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53950",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Alt-Tsependa-08",
+        "feedback": {},
+        "itemBody": "<p>Which of the following&nbsp;hedge fund&nbsp;mechanisms is&nbsp;<i>most likely</i>&nbsp;used to impose&nbsp;a temporary restriction on&nbsp;redemptions if needed?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bc14568a-fcfa-4d90-b2e5-7f9782293573"
+        },
+        "answerFeedback": {
+          "61c929e5-9f84-4d70-955c-292aebf4c804": "<p>Incorrect because notice periods<b>&nbsp;</b>provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses.</p>",
+          "a4cbb1bc-9874-4a97-bcab-eb41ac12391b": "<p>Incorrect because lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy’s expected results. If the hedge fund receives a drawdown request shortly after a new investment, the lockup period forces the investors who made the request to stay in the fund for a period of time rather than be allowed to immediately withdraw. Thus, a lockup period imposes restrictions on redemptions from the start of a new investment in the fund, and not later on, e.g. some time after the new investment.</p>",
+          "bc14568a-fcfa-4d90-b2e5-7f9782293573": "<p>Correct because in addition to lockup periods, funds sometimes impose a gate, which limits or restricts redemptions for a period of time.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bc14568a-fcfa-4d90-b2e5-7f9782293573",
+              "itemBody": "<p>A. Gate</p>",
+              "position": 1
+            },
+            {
+              "id": "61c929e5-9f84-4d70-955c-292aebf4c804",
+              "itemBody": "<p>B. Notice period</p>",
+              "position": 2
+            },
+            {
+              "id": "a4cbb1bc-9874-4a97-bcab-eb41ac12391b",
+              "itemBody": "<p>C. Lockup period</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53951",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Alt-Shaw-05",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements about private equity performance evaluation is <i>most</i> accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "51b5d2ee-b4b5-4b52-acd6-81779ec6e699"
+        },
+        "answerFeedback": {
+          "51b5d2ee-b4b5-4b52-acd6-81779ec6e699": "<p>Correct because private equity investments generally involve an initial capital commitment, but actual capital flows often lag that commitment because capital 'calls' are staggered over substantive periods of time.&nbsp;Private equity returns are frequently described in terms of the J-curve effect.</p>",
+          "8926fe40-45b1-4f35-9588-517a9ee079b7": "<p>Incorrect because in an independent, fixed-life private equity fund, the decisions to raise money, take money in the form of capital calls, and distribute proceeds are all at the discretion of the private equity manager. Timing of cash flows is an important part of the investment decision process. The private equity manager should thus be rewarded or penalized for the results of those timing decisions, and the calculation of an IRR is key for doing so.</p>",
+          "ceeca977-3e5a-4527-819d-cc7518ab991f": "<p>Incorrect because private equity includes a substantive initial capital commitment promise, followed by high initial fee drag (calculated on total committed capital, not the capital actually called), followed by the identification of longer-term growth or turnaround opportunities, and an eventual positive expected return when the staggered returns of the fund are realized.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ceeca977-3e5a-4527-819d-cc7518ab991f",
+              "itemBody": "<p>A. Private equity fund management fees&nbsp;are based on capital called.</p>",
+              "position": 1
+            },
+            {
+              "id": "51b5d2ee-b4b5-4b52-acd6-81779ec6e699",
+              "itemBody": "<p>B. Cash flows are frequently described in terms of the J-curve effect.</p>",
+              "position": 2
+            },
+            {
+              "id": "8926fe40-45b1-4f35-9588-517a9ee079b7",
+              "itemBody": "<p>C. Managers have no discretion on the timing of the distribution of proceeds.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53952",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Alt-Erickson-07",
+        "feedback": {},
+        "itemBody": "<p>A measure that restricts new investors in a hedge fund from redeeming their capital for a set amount of time in order to implement the fund's investment strategy is known as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b636aca5-f685-428b-af21-7b16c7bcaafd"
+        },
+        "answerFeedback": {
+          "240e3342-e1bd-4ce4-9919-3567f248bfba": "<p>Incorrect because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses.&nbsp;A notice period applies to all investors wanting to withdraw&nbsp;some or all of their capital from a hedge fund with the goal of providing the manager with advance warning of the withdrawal.</p>",
+          "b636aca5-f685-428b-af21-7b16c7bcaafd": "<p>Correct because lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy’s expected results. Lockup periods apply to new investors in a hedge fund with the goal of allowing the hedge fund manager time to implement the fund's&nbsp;investment strategy.</p>",
+          "ce112434-50f8-4f0d-9258-3b599200d9b8": "<p>Incorrect because in addition, funds sometimes impose a gate, which limits or restricts redemptions for a period of time.&nbsp;A gate is imposed by the hedge fund manager independent&nbsp;of any lockup period that may apply. A gate therefore applies to all investors for a finite period of time while a lockup period applies to new investors only.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ce112434-50f8-4f0d-9258-3b599200d9b8",
+              "itemBody": "<p>A. gate.</p>",
+              "position": 1
+            },
+            {
+              "id": "240e3342-e1bd-4ce4-9919-3567f248bfba",
+              "itemBody": "<p>B. notice period.</p>",
+              "position": 2
+            },
+            {
+              "id": "b636aca5-f685-428b-af21-7b16c7bcaafd",
+              "itemBody": "<p>C. lockup period.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53953",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Alt-Erickson-09",
+        "feedback": {},
+        "itemBody": "<p>Which of the following hedge fund investments require&nbsp;the highest level of scrutiny and due diligence?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f9831ad0-02a1-434e-a881-0f40b35653e3"
+        },
+        "answerFeedback": {
+          "94a35c24-1140-4018-aa28-098d09f7ed3e": "<p>Incorrect because Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing. Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available.</p>",
+          "d7a3bf9d-feca-40e9-8dc1-5a4ec25fb160": "<p>Incorrect because Level 1 assets have an exchange-traded, publicly traded price available that is mandated to be used for valuation purposes. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing. Level 1 assets have an exchange-traded, publicly traded price available that is mandated to be used for valuation purposes.</p>",
+          "f9831ad0-02a1-434e-a881-0f40b35653e3": "<p>Correct because any investment vehicle that is heavily involved with Level 3–priced assets deserves increased scrutiny and due diligence. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing.&nbsp;Level 3 asset values are computed using only internal models when outsider broker (Level 2) quotes are not available or not reliable.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d7a3bf9d-feca-40e9-8dc1-5a4ec25fb160",
+              "itemBody": "<p>A. Level 1 assets</p>",
+              "position": 1
+            },
+            {
+              "id": "94a35c24-1140-4018-aa28-098d09f7ed3e",
+              "itemBody": "<p>B. Level 2 assets</p>",
+              "position": 2
+            },
+            {
+              "id": "f9831ad0-02a1-434e-a881-0f40b35653e3",
+              "itemBody": "<p>C. Level 3 assets</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53954",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Alt-Pitrakkou-02",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a hedge fund:</p>\n<table style=\"border-collapse: collapse; width: 323px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle;\">Beginning-of-year assets under management (AUM)</td>\n<td style=\"text-align: center; vertical-align: middle;\">€200 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle;\">Management fee, based on end-of-year AUM before fees</td>\n<td style=\"text-align: center; vertical-align: middle;\">1.5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle;\">Incentive fee</td>\n<td style=\"text-align: center; vertical-align: middle;\">20%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle;\">Hard hurdle rate</td>\n<td style=\"text-align: center; vertical-align: middle;\">5%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle;\">Annual return before fees</td>\n<td style=\"text-align: center; vertical-align: middle;\">15%</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 12px;\">If the incentive fee is based on returns net of management fees, total fees for the year are <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ca4fc995-6e0e-4b60-bb18-91c65c7538b0"
+        },
+        "answerFeedback": {
+          "2d495d36-7322-4b73-a743-b47a4c10822f": "<p>Incorrect because it calculates incentive fees gross of management fees. That is:</p><p>AUM at year-end =&nbsp;€200 million&nbsp;× 115% = €230&nbsp;million.</p><p>Management fee =&nbsp;€230&nbsp;million&nbsp;× 1.5% = €3.45&nbsp;million.</p><p>Incentive fee =&nbsp;(€230 million&nbsp;–&nbsp;€200 million<b>&nbsp;</b>–&nbsp;€10 million)&nbsp;× 20% = €20 million × 20% = €4.00 million; where&nbsp;hard&nbsp;hurdle = €200 million × 5% =&nbsp;€10&nbsp;million.</p><p>Thus, total fees =&nbsp;€3.45 million&nbsp;+&nbsp;€4.00 million&nbsp;= €7.45 million ≈ €7.5 million.&nbsp;</p>",
+          "ca4fc995-6e0e-4b60-bb18-91c65c7538b0": "<p>Correct because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rate</i>, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.</p><p>AUM at year-end =&nbsp;€200&nbsp;million&nbsp;× 115% = €230 million.</p><p>Management fee =&nbsp;€230 million&nbsp;× 1.5% = €3.45&nbsp;million.</p><p>The incentive fee is calculated net of management fees and there is also a hard hurdle rate. Accordingly, Incentive fee = (€230 million&nbsp;–&nbsp;€200&nbsp;million – €3.45 million –&nbsp;€10&nbsp;million)&nbsp;× 20% = €16.55 million × 20% = €3.31 million; where&nbsp;hard&nbsp;hurdle = €200 million × 5% =&nbsp;€10&nbsp;million.&nbsp;</p><p>Thus, total fees =&nbsp;€3.45 million&nbsp;+&nbsp;€3.31 million =&nbsp;€6.76 million&nbsp;≈ €6.8 million.&nbsp;</p>",
+          "ec2b24a0-a0a7-4a32-a903-8d5058041fbb": "<p>Incorrect because it excludes the hard hurdle rate in the calculation of&nbsp;incentive fees. That is:</p><p>AUM at year-end =&nbsp;€200 million&nbsp;× 115% = €230 million.</p><p>Management fee =&nbsp;€230 million&nbsp;× 1.5% = €3.45&nbsp;million.</p><p>Incentive fee =&nbsp;(€230 million&nbsp;–&nbsp;€200&nbsp;million&nbsp;–&nbsp;€3.45 million)&nbsp;× 20% = €26.55&nbsp;million&nbsp;× 20% = €5.31&nbsp;million.</p><p>Thus, total fees =&nbsp;€3.45 million&nbsp;+&nbsp;€5.31&nbsp;million = €8.76&nbsp;million&nbsp;≈ €8.8&nbsp;million.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ca4fc995-6e0e-4b60-bb18-91c65c7538b0",
+              "itemBody": "<p>A. €6.8 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "2d495d36-7322-4b73-a743-b47a4c10822f",
+              "itemBody": "<p>B. €7.5 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "ec2b24a0-a0a7-4a32-a903-8d5058041fbb",
+              "itemBody": "<p>C. €8.8&nbsp;million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53955",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Alt-Shaw-07",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a hedge fund:</p>\n<table style=\"border-collapse: collapse; width: 88.3937%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Beginning-of-year assets under management (AUM)</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">$50 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Annual return before fees</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">20%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Management fee (based on end-of-year AUM before fees)</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">2%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Incentive fee (based on return net of management fees)</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">20%</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 16px;\">An investor's net return is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c03ac3dd-50f8-4159-882d-63bbc4f68329"
+        },
+        "answerFeedback": {
+          "95e38d6d-2e25-4007-a25c-43953fe521c7": "<p>Incorrect because it fails to adjust the incentive fee for the management fee:</p><p>$60 million × 2% = $1.2 million management fee.<br>($60 – $50) million × 20% = $2.0&nbsp;million incentive fee.<br>Total fees&nbsp;= $3.2&nbsp;million.</p><p>Investor return = ($60 –&nbsp;$50 –&nbsp;$3.2)/$50 million = 13.60%.&nbsp;</p>",
+          "c03ac3dd-50f8-4159-882d-63bbc4f68329": "<p>Correct because:</p><p>$60 million × 2% = $1.2 million management fee.<br>($60 – $50 – $1.2) million × 20% = $1.76 million incentive fee.<br>Total fees&nbsp;= $2.96&nbsp;million.</p><p>Investor return = ($60 –&nbsp;$50 –&nbsp;$2.96)/$50 million = 14.08%.&nbsp;</p>",
+          "faa706b8-6846-4c6c-9eb5-6b726d9d66ae": "<p>Incorrect because it calculates the management fee based on beginning-of-year AUM as opposed to end-of-year AUM:</p><p>$50 million × 2% = $1.0&nbsp;million management fee.<br>($60 – $50 – $1) million × 20% = $1.8 million incentive fee.<br>Total fees&nbsp;= $2.8 million.</p><p>Investor return = ($60 –&nbsp;$50 –&nbsp;$2.8)/$50 million = 14.40%.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "95e38d6d-2e25-4007-a25c-43953fe521c7",
+              "itemBody": "<p>A. 13.60%.</p>",
+              "position": 1
+            },
+            {
+              "id": "c03ac3dd-50f8-4159-882d-63bbc4f68329",
+              "itemBody": "<p>B. 14.08%.</p>",
+              "position": 2
+            },
+            {
+              "id": "faa706b8-6846-4c6c-9eb5-6b726d9d66ae",
+              "itemBody": "<p>C. 14.40%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53956",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Alt-Brose-03",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a hedge fund:</p>\n<table style=\"border-collapse: collapse; width: 88.3937%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Beginning-of-year assets under management (AUM)</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">$500 million</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Annual return before fees</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">22%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Management fee, based on end-of-year AUM before fees</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">2%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Incentive fee</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">15%</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; width: 67.863%;\">Hard hurdle rate</td>\n<td style=\"text-align: center; vertical-align: middle; width: 32.0974%;\">10%</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-top: 16px;\">The incentive fee&nbsp;(in $ millions) based on returns net of management fees is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bc6601e1-9f1b-4b49-8cc3-a91a1443a1be"
+        },
+        "answerFeedback": {
+          "8cdc0aa6-edb2-4f1a-b723-9870f67ef70b": "<p>Incorrect because it assumes a soft hurdle rate (instead of a hard hurdle rate) of 10%.</p><p>End-of-year AUM = $500 million × 22% = $610 million.</p><p>Management fee = $610 million × 2% = $12.2 million.</p><p>Gross annual return &gt; soft hurdle rate, hence the hurdle rate is not deducted from the calculation of the incentive fee.</p><p>Incentive fee (calculated net of management fees) = ($610 million – $500 million – $12.2 million) × 15% = $97.8 million × 15% = $14.67&nbsp;million ≈ $14.7 million.</p>",
+          "a9f36bf0-b049-4a41-a9ba-3445ee04918b": "<p>Incorrect because it calculates the hurdle rate on the annual return before fees (instead of the Beginning-of-year AUM).</p><p>End-of-year AUM = $500 million × 22% = $610 million.</p><p>Management fee = $610 million × 2% = $12.2 million.</p><p>Hard hurdle = ($610 million – $500 million) × 10% = $110 million × 10% = $11.0 million.</p><p>Incentive fee (calculated net of management fees) = ($610 million – $500 million – $11.0 million – $12.2 million) × 15% = $86.8 million × 15% = $13.02 million ≈ $13.0 million.</p>",
+          "bc6601e1-9f1b-4b49-8cc3-a91a1443a1be": "<p>Correct because End-of-year AUM = $500 million × 22% = $610 million.</p><p>Management fee = $610 million × 2% = $12.2 million.</p><p>The hurdle rate is a <i>minimum </i>rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any <i>hard hurdle rat</i>e, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the <i>soft hurdle rate</i>, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.</p><p>Hard hurdle = $500 million × 10% = $50 million.</p><p>Incentive fee (based on returns net of management fees) = ($610 million – $500 million – $50 million – $12.2 million) × 15% = $47.8 million × 15% = $7.17 million ≈ $7.2 million.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bc6601e1-9f1b-4b49-8cc3-a91a1443a1be",
+              "itemBody": "<p>A. 7.2.</p>",
+              "position": 1
+            },
+            {
+              "id": "a9f36bf0-b049-4a41-a9ba-3445ee04918b",
+              "itemBody": "<p>B. 13.0.</p>",
+              "position": 2
+            },
+            {
+              "id": "8cdc0aa6-edb2-4f1a-b723-9870f67ef70b",
+              "itemBody": "<p>C. 14.7.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8704,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 854,
+      "sourceModuleId": 4493,
+      "stimulusQuizEntryId": ""
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": false,
+  "new_2027_questions_count": 0
+}

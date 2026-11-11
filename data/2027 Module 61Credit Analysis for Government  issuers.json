@@ -1,0 +1,1940 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6394,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 41,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 15: Credit Analysis for Government Issuers",
+    "topic_id": 1036,
+    "topic": "CFA-26-02-LI-C: Fixed Income",
+    "subtopic_id": 6394,
+    "subtopic": "Module 15: Credit Analysis for Government Issuers",
+    "question_count": 41,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 852,
+        "name": "Warehouse Course: Fixed Income 26-LI",
+        "code": "Warehouse Course: Fixed Income 26-LI",
+        "module_id": 4477,
+        "question_count": 6,
+        "type": "warehouse"
+      },
+      {
+        "id": 843,
+        "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "module_id": 4694,
+        "question_count": 1,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      ""
+    ],
+    "points_possible": 41.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "e37bcf0d74e47b5f",
+    "ordered_item_ids": [
+      "55089",
+      "51192",
+      "51193",
+      "51194",
+      "51195",
+      "51196",
+      "51197"
+    ],
+    "visible_item_ids": [
+      "55089",
+      "51192",
+      "51193",
+      "51194",
+      "51195",
+      "51196",
+      "51197"
+    ]
+  },
+  "items": [
+    {
+      "id": "55089",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Simsek-10",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <i>most likely </i>a key factor in the credit analysis of revenue-backed non-sovereign&nbsp;government&nbsp;bonds?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c04111ca-349a-42e9-ba10-83a11b6cad0f"
+        },
+        "answerFeedback": {
+          "714cc83c-de97-428c-9585-3da314abad82": "<p>Incorrect because per capita income is a concern for sovereign bonds or general obligation bonds, not non-sovereign government revenue bonds. Income per capita: More prosperous countries generally have a broader and&nbsp;deeper tax base with which to support debt.&nbsp;The economic analysis of non-sovereign government GO bonds, including US&nbsp;municipal bonds, focuses on employment, per capita income (and changes in it over&nbsp;time), per capita debt (and changes in it over time), the tax base (depth, breadth,&nbsp;diversification, stability, etc.).</p>",
+          "946d4528-2564-4f16-b561-18cab51a5a84": "<p>Incorrect because the&nbsp;tax base is a concern for sovereign bonds or general obligation bonds.&nbsp;Income per capita: More prosperous countries generally have a broader and&nbsp;deeper tax base with which to support debt. The economic analysis of non-sovereign government GO bonds, including US&nbsp;municipal bonds, focuses on employment, per capita income (and changes in it over&nbsp;time), per capita debt (and changes in it over time), the tax base (depth, breadth,&nbsp;diversification, stability, etc.).</p>",
+          "c04111ca-349a-42e9-ba10-83a11b6cad0f": "<p>Correct because revenue bonds are issued for specific project financing (e.g., financing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). Revenue bonds, which are issued to finance a specific project, have a higher degree of risk than GO bonds because they are dependent on a single source of revenue.&nbsp;A key credit measure for revenue-backed non-sovereign&nbsp;government bonds is the debt-service-coverage (DSC) ratio, which measures how much&nbsp;revenue is available to cover debt payments (principal and interest) after operating&nbsp;expenses.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "714cc83c-de97-428c-9585-3da314abad82",
+              "itemBody": "<p>A. Per capita income</p>",
+              "position": 1
+            },
+            {
+              "id": "946d4528-2564-4f16-b561-18cab51a5a84",
+              "itemBody": "<p>B. Breadth of the tax base</p>",
+              "position": 2
+            },
+            {
+              "id": "c04111ca-349a-42e9-ba10-83a11b6cad0f",
+              "itemBody": "<p>C. Debt-service-coverage ratio of the project</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8886,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4694,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51192",
+      "entry": {
+        "title": "CFA2445-R-s03-Q5",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. This country exhibits fiscal stability as evidenced by its government budget surplus, high economic growth, and external strength given its current account surplus and freely floating currency.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements best characterizes higher creditworthiness for a non-reserve currency emerging market sovereign government?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d4f8a271-7156-446c-ba4a-655d4c53138f"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d4f8a271-7156-446c-ba4a-655d4c53138f",
+              "itemBody": "A. A country with a government budget surplus, current account surplus with high economic growth, and a freely floating currency.",
+              "position": 1
+            },
+            {
+              "id": "82478dc1-e9d7-43fe-9bf4-20263ac4b066",
+              "itemBody": "B. A country with a government budget deficit, a current account deficit with moderate economic growth and a fixed exchange rate regime",
+              "position": 2
+            },
+            {
+              "id": "760af795-fc8d-4501-a8e7-4dd5e579f619",
+              "itemBody": "C. A country with a government budget deficit, a current account deficit, low economic growth, and a fixed exchange rate regime.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51193",
+      "entry": {
+        "title": "CFA2445-R-s03-Q6",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n               <strong> </strong>\n            </p>\n            <div id=\"CFA2445-R-s03-T-3-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n               <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                  \n                  <tbody>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">A. Low unemployment</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Positive</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">B. Low per capita income</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Negative</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">C. Low per capita debt</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Positive</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">D. Low tax base</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Negative</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">E. High dependence on sales tax</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Negative</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">F. High post-retirement obligations</td>\n                        <td style=\"text-align: center; vertical-align: middle; padding: 8px; \">Negative</td>\n                     </tr>\n                  </tbody>\n               </table></div>\n            </div>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A. Positive, as low unemployment indicates a more productive and income-generating population with potential for higher tax revenue.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B. Negative, as low per capita income reduces the potential for tax collection and any potential tax raise.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C. Positive, as low per capita debt suggests a higher debt service ratio and greater capacity for additional debt, if required.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">D. Negative, a low tax base limits the potential for tax collection and significantly weakens the potential for state revenue to meet expenses and service its debt.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">E. Negative, as the more diversified the state’s revenue stream, the higher its credit quality. Overreliance on a single revenue stream creates the potential for volatility in case of any economic disruption.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">F. Negative, as high post-retirement obligations indicate further state indebtedness, reducing its ability to service its debt.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Match the indicators below to the impact (positive or negative) on the creditworthiness of a general obligation bond issued by a state government:</p><ul id=\"CFA2445-R-s03-L1\" style=\"list-style-type: disc; margin-bottom: 15px; padding-left: 20px;\">\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Positive</p>\n               </li>\n               <li style=\"margin-bottom: 10px; padding-left: 10px; position: relative;\">\n                  <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Negative</p>\n<div id=\"CFA2445-R-s03-T-3-b\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n                        <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                           \n                           <tbody>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">A. Low unemployment</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">B. Low per capita income</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">C. Low per capita debt</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">D. Low tax base</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">E. High dependence on sales tax</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                              <tr>\n                                 <td style=\"text-align: left; vertical-align: middle; padding: 8px; \">F. High post-retirement obligations</td>\n                                 <td style=\"text-align: center; vertical-align: bottom; padding: 8px; \">&nbsp;</td>\n                              </tr>\n                           </tbody>\n                        </table></div>\n                     </div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                  </p>\n               </li>\n            </ul>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51194",
+      "entry": {
+        "title": "CFA2445-R-s03-Q7",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. El Salvador is expected to have the lowest credit rating due to its high long-term external debt-to-GDP ratio. While the Dominican Republic has lower currency reserves than El Salvador, it also has a lower external debt burden and higher economic growth.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Based upon the following data, which country is expected to be assigned the lowest sovereign credit rating?</p>\n<div id=\"CFA2445-R-s03-T-4-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>&nbsp;</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" colspan=\"3\" scope=\"col\"><strong>Country</strong></th>\n</tr>\n<tr>\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Economic Statistics</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Costa Rica</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>Dominican Republic</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"col\"><strong>El Salvador</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Long-term external debt/GDP (%)</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">39.6</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">35.7</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">57.0</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">GDP growth (%)</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.06</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">5.07</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">2.39</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Currency reserves (% of GDP)</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">13.9</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">8.1</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">12.4</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "48dd2005-e90f-417b-9d18-5db21c648677"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "359c2c2c-375d-4401-9f08-5cbebdc8f132",
+              "itemBody": "A. Costa Rica",
+              "position": 1
+            },
+            {
+              "id": "d171b033-5e94-40c5-9ff3-888de1cc1bab",
+              "itemBody": "B. Dominican Republic",
+              "position": 2
+            },
+            {
+              "id": "48dd2005-e90f-417b-9d18-5db21c648677",
+              "itemBody": "C. El Salvador",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51195",
+      "entry": {
+        "title": "CFA2445-R-s03-Q8",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. GIC is a supranational issuer, as it is sponsored and owned by multiple sovereigns. Its credit rating would be assessed as a supranational based on weighted sovereign ratings of the sponsoring countries and the nature of their implicit support in case of financial distress.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Gulf Investment Corporation (GIC) is an investment company incorporated in Kuwait as a Gulf Shareholding Company. GIC is equally owned by the governments of the six member states of the Gulf Cooperation Council (GCC). GIC was formed to foster economic growth, economic diversification, and capital market development across the GCC region. The credit rating for GIC should be assessed based on its status as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "39b76b86-106f-4794-828b-aef4ecc7ca18"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c24988b1-9a0e-46d2-9f21-6b91db068e22",
+              "itemBody": "A. sovereign agency.",
+              "position": 1
+            },
+            {
+              "id": "39b76b86-106f-4794-828b-aef4ecc7ca18",
+              "itemBody": "B. supranational issuer.",
+              "position": 2
+            },
+            {
+              "id": "701945db-f21e-41ea-9d18-92e25b02adbd",
+              "itemBody": "C. specialized financial intermediary or public bank.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51196",
+      "entry": {
+        "title": "CFA2445-R-s03-Q9",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. A key factor influencing whether a non-reserve currency sovereign government can meet external debt obligations is external liquidity and solvency, or the ability to generate sufficient, stable foreign currency cash inflows to meet interest and principal payments on external debt. A is incorrect, as capital controls may restrict the ability to generate FX inflows. B is incorrect, as a fixed exchange rate regime may cause instability in the case of currency devaluation.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements best characterizes external strength for a non-reserve currency sovereign country?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1354892d-a2e2-4599-ad74-70abe4ae85ea"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7ff224bd-5351-44e2-ab98-ed15ce1b631f",
+              "itemBody": "A. The ability to impose and enforce strict capital controls",
+              "position": 1
+            },
+            {
+              "id": "48a51f69-242e-47fb-a1be-a958a0ce63c5",
+              "itemBody": "B. The establishment of a fixed exchange rate regime",
+              "position": 2
+            },
+            {
+              "id": "1354892d-a2e2-4599-ad74-70abe4ae85ea",
+              "itemBody": "C. The ability to generate sufficient stable foreign currency cash inflows",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51197",
+      "entry": {
+        "title": "CFA2445-R-s03-Q10",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Since Agora has high external debt to GDP and is very dependent on foreign currency inflows, it should seek to diversify its sources of foreign currency to avoid financial distress in case of disruption in tourism revenue or immigrant repatriation. B is incorrect, as maintaining or increasing foreign currency reserves is important for debt service rather than reducing FX reserves. C is incorrect. While the devaluation of Agora’s exchange rate versus foreign reserve currencies may make it a more affordable tourist destination, it may also reduce the rationale for income repatriation, leading to lower foreign inflows and a reduced ability to service external debt.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Agora is an emerging market economy with restricted capital convertibility (domestic to foreign exchange is not freely convertible). It is significantly dependent on income from the tourism sector and repatriation of income by its citizens living in foreign countries. It also has a high percentage of external debt to GDP. Which of the following is the most important factor that may result in an improvement in its sovereign creditworthiness?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "542d489b-9824-49a9-8f81-8b4bd9d90ef1"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "542d489b-9824-49a9-8f81-8b4bd9d90ef1",
+              "itemBody": "A. Diversification of its foreign currency inflows",
+              "position": 1
+            },
+            {
+              "id": "55c81605-2066-4d23-b4d9-ebef02c1ce3f",
+              "itemBody": "B. Reducing foreign currency reserves as a percentage of GDP",
+              "position": 2
+            },
+            {
+              "id": "07f8f957-9c00-4bd2-9441-bdcd12df4825",
+              "itemBody": "C. Devaluation of its exchange rate versus major reserve currencies",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8213,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4477,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-61-1",
+      "entry": {
+        "title": "2027-Mod61-Q1",
+        "itemBody": "<p>Ratios are an input into which step in the financial statement analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Ratios are an output of the process information step but are an input  \ninto the analyze/interpret data step.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e0c88788-1b29-4e15-bc12-c7d44364f405",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "196f3e9b-c1b4-4706-af57-1a1ca7cd503d",
+              "itemBody": "<p>B. Collect input data</p>",
+              "position": 2
+            },
+            {
+              "id": "f19ba7af-e870-4c40-a84a-8e07f87a2d80",
+              "itemBody": "<p>C. Analyze/interpret the processed data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f19ba7af-e870-4c40-a84a-8e07f87a2d80"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-2",
+      "entry": {
+        "title": "2027-Mod61-Q2",
+        "itemBody": "<p>Which phase in the financial statement analysis framework is most likely to involve  \nproducing updated reports and recommendations?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The follow -up phase involves gathering information and repeating  the \nanalysis to determine whether it is necessary to update reports and  \nrecommendations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "27ae95b2-dbc0-4d45-ab2a-d1e013736402",
+              "itemBody": "<p>A. Follow-up</p>",
+              "position": 1
+            },
+            {
+              "id": "3d4abcd2-d075-4397-9b64-e2218a5a12b4",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "32634d6f-2152-450c-8c0f-77d4c13621ce",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "27ae95b2-dbc0-4d45-ab2a-d1e013736402"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-3",
+      "entry": {
+        "title": "2027-Mod61-Q3",
+        "itemBody": "<p>Which of the following best describes the role of financial statement analysis?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. In general, analysts seek to examine the past and current performance \nand financial position of a company to form expectations about its future  \nperformance and financial position.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8772ae12-207b-4784-a248-b3bb5102a25f",
+              "itemBody": "<p>A. To provide information about a company’s performance</p>",
+              "position": 1
+            },
+            {
+              "id": "2b81bf39-a96c-4c9d-85ca-557b72361d4c",
+              "itemBody": "<p>B. To provide information about a company’s changes in financial position</p>",
+              "position": 2
+            },
+            {
+              "id": "4ead62ce-5580-4e20-acbb-10374e8cfac7",
+              "itemBody": "<p>C. To form expectations about a company’s future performance and financial position</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4ead62ce-5580-4e20-acbb-10374e8cfac7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-4",
+      "entry": {
+        "title": "2027-Mod61-Q4",
+        "itemBody": "<p>The primary role of financial statement analysis is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The primary role of financial statement analysis is to use financial  \nreports prepared by companies to evaluate their past, current, and potential  \nperformance and financial position for the purpose of making investment, credit, and \nother economic decisions.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d6347dff-1f09-457f-9db7-7323b3e30b97",
+              "itemBody": "<p>A. providing information useful for making investment decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "00b998d5-7a61-4388-ab3e-11a3d61b78b8",
+              "itemBody": "<p>B. evaluating a company for the purpose of making economic decisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "468eb8ba-6365-4e84-9510-6076b64e5590",
+              "itemBody": "<p>C. using financial reports prepared by analysts to make economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "00b998d5-7a61-4388-ab3e-11a3d61b78b8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-5",
+      "entry": {
+        "title": "2027-Mod61-Q5",
+        "itemBody": "<p>International Financial Reporting Standards are currently developed by which entity?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The International Accounting Standards Board (IASB) is currently  \ncharged with developing International Financial Reporting Standards.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "34febf5f-2db5-4e1b-9359-119f013d3b4e",
+              "itemBody": "<p>A. IFRS Foundation</p>",
+              "position": 1
+            },
+            {
+              "id": "6fad2e3b-790c-420d-8bab-91020e28d771",
+              "itemBody": "<p>B. International Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "f2bc7ba9-109e-4f75-8049-d714dc7642f8",
+              "itemBody": "<p>C. International Organization of Securities Commissions</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6fad2e3b-790c-420d-8bab-91020e28d771"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-6",
+      "entry": {
+        "title": "2027-Mod61-Q6",
+        "itemBody": "<p>US GAAP are currently developed by which entity?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. US Generally Accepted Accounting Principles are developed by the  US \nFinancial Accounting Standards Board (FASB).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dc6e4fa4-d7f3-4a37-99de-ecbe8ae6c889",
+              "itemBody": "<p>A. Securities and Exchange Commission</p>",
+              "position": 1
+            },
+            {
+              "id": "9b9e3fe7-3b89-4c3d-8808-d3d60f9a4259",
+              "itemBody": "<p>B. Financial Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "85ae0fa5-29bc-4eb6-8802-e176600d4cb4",
+              "itemBody": "<p>C. Public Company Accounting Oversight Board</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9b9e3fe7-3b89-4c3d-8808-d3d60f9a4259"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-7",
+      "entry": {
+        "title": "2027-Mod61-Q7",
+        "itemBody": "<p>A core objective of the International Organization of Securities Commissions is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, \nand transparent. The other core objectives are to reduce, not eliminate,  systemic \nrisk and to protect investors, not all users of financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "14afa73c-5753-438a-a20f-9b83b8645f7a",
+              "itemBody": "<p>A. eliminate systemic risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "e64b41ea-bce5-414f-a6bc-7138320c69d0",
+              "itemBody": "<p>B. protect users of financial statements.</p>",
+              "position": 2
+            },
+            {
+              "id": "e2bbf15d-0f8f-4910-a211-d237e00488f5",
+              "itemBody": "<p>C. ensure that markets are fair, efficient, and transparent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e2bbf15d-0f8f-4910-a211-d237e00488f5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-8",
+      "entry": {
+        "title": "2027-Mod61-Q8",
+        "itemBody": "<p>Which of the following best describes why the notes that accompany the  financial \nstatements are required? The notes:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The notes provide information that is essential to understanding the  \ninformation provided in the primary statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2cc9d00f-89e6-40b7-81bf-b0dd40af1ddb",
+              "itemBody": "<p>A. permit flexibility in statement preparation.</p>",
+              "position": 1
+            },
+            {
+              "id": "52fdeb75-9755-48d4-b0e4-0b332281a47c",
+              "itemBody": "<p>B. standardize financial reporting across companies.</p>",
+              "position": 2
+            },
+            {
+              "id": "073f901d-c14a-421f-b743-7404c8ded7f7",
+              "itemBody": "<p>C. provide information necessary to understand the financial statements. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "073f901d-c14a-421f-b743-7404c8ded7f7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-9",
+      "entry": {
+        "title": "2027-Mod61-Q9",
+        "itemBody": "<p>Accounting policies, methods, and estimates used in preparing financial statements  \nare most likely to be found in the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The notes disclose choices in accounting policies, methods, and  \nestimates.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "61eccb1d-3c96-4392-a0e4-6e30ebbb87e4",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "7526ec8b-fcc8-4f08-b4ee-d91100ff74ac",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "598cc5ce-d837-4346-99b5-2f557dfef7d8",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "598cc5ce-d837-4346-99b5-2f557dfef7d8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-10",
+      "entry": {
+        "title": "2027-Mod61-Q10",
+        "itemBody": "<p>Information about management and director compensation is most likely to be found \nin the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Disclosure of management compensation is typically included in the proxy \nstatement. An earnings release is about corporate earnings, not what managers earn \nas compensation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f0e562ce-e001-43f6-84d2-53de2f847270",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "54754de4-1305-4ffc-818f-5cba6e07c388",
+              "itemBody": "<p>B. proxy statement.</p>",
+              "position": 2
+            },
+            {
+              "id": "253b3355-fb7c-4161-a196-c92161d368f3",
+              "itemBody": "<p>C. earnings release.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "54754de4-1305-4ffc-818f-5cba6e07c388"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-11",
+      "entry": {
+        "title": "2027-Mod61-Q11",
+        "itemBody": "<p>Information about a company’s objectives, strategies, and significant risks are most \nlikely to be found in the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. These are components of management commentary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "803d13ed-25f1-429c-bfab-b43f543ec345",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "a0dbe7cf-46d9-495c-8153-6e4face84db3",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "ba6e5d6d-63b4-43ff-b3c0-ccb128cfa8dd",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a0dbe7cf-46d9-495c-8153-6e4face84db3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-12",
+      "entry": {
+        "title": "2027-Mod61-Q12",
+        "itemBody": "<p>What type of audit opinion is preferred when analyzing financial statements?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. An unqualified opinion is a “clean” opinion and indicates that the financial \nstatements present the company’s performance and financial position  fairly in \naccordance with applicable accounting standards. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "16219ab1-0a98-46ae-bf0b-16b179a155ea",
+              "itemBody": "<p>A. Adverse</p>",
+              "position": 1
+            },
+            {
+              "id": "f9045dc4-22ca-4b1c-967a-d7825086ea00",
+              "itemBody": "<p>B. Qualified</p>",
+              "position": 2
+            },
+            {
+              "id": "22810c86-1d03-402f-8a0c-975fb948d15d",
+              "itemBody": "<p>C. Unqualified</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "22810c86-1d03-402f-8a0c-975fb948d15d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-13",
+      "entry": {
+        "title": "2027-Mod61-Q13",
+        "itemBody": "<p>An auditor determines that a company’s financial statements are prepared in \naccordance with applicable accounting standards except with respect to inventory  \nreporting. This exception is most likely to result in an audit opinion that is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A qualified audit opinion is one in which there is some scope limitation or \nexception to accounting standards. Exceptions are described in the audit report with \nadditional explanatory paragraphs so that the analyst can determine the importance \nof the exception.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e43f0dd0-2210-4c85-ab5d-b7d7edcb84ca",
+              "itemBody": "<p>A. adverse.</p>",
+              "position": 1
+            },
+            {
+              "id": "0b0daef3-05bc-49b7-b7f9-f2946b2a32a4",
+              "itemBody": "<p>B. qualified.</p>",
+              "position": 2
+            },
+            {
+              "id": "f68e805d-efb0-44a9-bdad-2bf878d2fee5",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0b0daef3-05bc-49b7-b7f9-f2946b2a32a4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-14",
+      "entry": {
+        "title": "2027-Mod61-Q14",
+        "itemBody": "<p>An independent audit report is most likely to provide:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The independent audit report provides reasonable assurance that the  \nfinancial statements are fairly presented, meaning that there is a high probability  \nthat the audited financial statements are free from material error, fraud, or illegal  \nacts that have a direct effect on the financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0b022c0c-78f9-44ee-a560-75c3aee1b435",
+              "itemBody": "<p>A. absolute assurance about the accuracy of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "ea32ce97-2d49-47bc-8c7a-cec5fad2ee8b",
+              "itemBody": "<p>B. reasonable assurance that the financial statements are fairly presented.</p>",
+              "position": 2
+            },
+            {
+              "id": "d6c8417e-1068-48eb-b703-8458747f9de3",
+              "itemBody": "<p>C. a qualified opinion with respect to the transparency of the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ea32ce97-2d49-47bc-8c7a-cec5fad2ee8b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-15",
+      "entry": {
+        "title": "2027-Mod61-Q15",
+        "itemBody": "<p>Interim financial reports released by a company are most likely to be:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Interim reports are typically provided semiannually or quarterly and  \nrequire certain financial information, including unaudited financial statements and an \nMD&A for the interim period covered by the report. Unqualified refers to a type of \naudit opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ddf38e3b-193e-426a-9791-51684d6b97d2",
+              "itemBody": "<p>A. monthly.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1ded43e-9b8a-4400-924e-2c544ea48353",
+              "itemBody": "<p>B. unaudited.</p>",
+              "position": 2
+            },
+            {
+              "id": "d357d66d-867b-4535-9739-c34e85656410",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c1ded43e-9b8a-4400-924e-2c544ea48353"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-16",
+      "entry": {
+        "title": "2027-Mod61-Q16",
+        "itemBody": "<p>Which of the following sources of information used by analysts is found outside a  \ncompany’s annual report?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. When performing financial statement analysis, analysts should review all \ncompany sources of information as well as information from external  sources \nregarding the economy, the industry, the company, and peer (comparable) companies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ff4a0f49-5aea-4cce-a55e-f6a5b36a44ea",
+              "itemBody": "<p>A. Auditor’s report</p>",
+              "position": 1
+            },
+            {
+              "id": "8de9445d-a156-47ca-81d2-f487422fc9b7",
+              "itemBody": "<p>B. Peer company analysis</p>",
+              "position": 2
+            },
+            {
+              "id": "fb12721b-5de6-4b3b-8e99-1b4e963a5a0e",
+              "itemBody": "<p>C. Management discussion and analysis \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 3 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8de9445d-a156-47ca-81d2-f487422fc9b7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-17",
+      "entry": {
+        "title": "2027-Mod61-Q17",
+        "itemBody": "<p>For a company issuing securities in the United States to meet its obligations under \nthe Sarbanes–Oxley Act, which of the following is management required to attest to?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the [Sarbanes-Oxley] act addresses auditor independence (it \nprohibits auditors from providing certain non -audit services to the companies they \naudit); strengthens corporate responsibility for financial reports (it requires \nexecutive management to certify that the company's financial reports fairly present \nthe company's condition); and requires management to report on the effectiveness \nof the company's internal control over financial reporting (including obtaining \nexternal auditor confirmation of the effectiveness of internal control).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d4562b82-02f3-4ee5-8a96-5782860f4505",
+              "itemBody": "<p>A. The adequacy of internal control over financial reporting</p>",
+              "position": 1
+            },
+            {
+              "id": "95b6f2bf-98c0-4dc8-bd46-b1f01edfd8a2",
+              "itemBody": "<p>B. The suitability of management and director compensation agreements</p>",
+              "position": 2
+            },
+            {
+              "id": "cd3a88de-140e-46ba-8ae7-43aaa9f38c99",
+              "itemBody": "<p>C. The accuracy of estimates and assumptions used in preparing the financial \nstatements</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4562b82-02f3-4ee5-8a96-5782860f4505"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-18",
+      "entry": {
+        "title": "2027-Mod61-Q18",
+        "itemBody": "<p>Which of the following reports is least likely to be filed with the US SEC?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the annual report is not a requirement of the US SEC.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5656f4d9-c15f-4f8f-8e9d-b9d3675b95f9",
+              "itemBody": "<p>A. Annual report</p>",
+              "position": 1
+            },
+            {
+              "id": "eb288272-44d1-449f-a65c-d9267ae12e36",
+              "itemBody": "<p>B. Form 10-K</p>",
+              "position": 2
+            },
+            {
+              "id": "16c0a9d9-e887-49e9-9eb0-9f71467fb701",
+              "itemBody": "<p>C. Proxy statement</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5656f4d9-c15f-4f8f-8e9d-b9d3675b95f9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-19",
+      "entry": {
+        "title": "2027-Mod61-Q19",
+        "itemBody": "<p>Interim reports most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Interim reports are provided semi -annually or quarterly, depending on \napplicable regulatory requirements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5988538c-95b7-4773-838b-378a62527ccf",
+              "itemBody": "<p>A. are audited.</p>",
+              "position": 1
+            },
+            {
+              "id": "716ad9d7-bd19-4516-9bf8-98da8113e0a3",
+              "itemBody": "<p>B. are issued semi-annually or quarterly.</p>",
+              "position": 2
+            },
+            {
+              "id": "4a8513e3-f6a6-40d4-87c5-2bd4b72a59c0",
+              "itemBody": "<p>C. include a full set of financial statements and notes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "716ad9d7-bd19-4516-9bf8-98da8113e0a3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-20",
+      "entry": {
+        "title": "2027-Mod61-Q20",
+        "itemBody": "<p>Which of the following statements is most accurate about the responsibilities of an \nauditor for a publicly traded firm in the United States? The auditor must:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. For a publicly traded firm in the United States, the auditor must express \nan opinion as to whether the company’s internal control system is in accordance with \nthe Public Accounting Oversight Board, under the Sarbanes –Oxley Act. The opinion \nis given either in a final paragraph in the auditor’s report or as a separate opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3587543d-d281-49c1-99a8-a9a632daeaad",
+              "itemBody": "<p>A. state that the financial statements are prepared according to generally accepted \naccounting principles.</p>",
+              "position": 1
+            },
+            {
+              "id": "41e6d868-a1d5-4d8a-8a79-0e6802e8d972",
+              "itemBody": "<p>B. ensure that the financial statements are free from error, fraud, or illegal acts.</p>",
+              "position": 2
+            },
+            {
+              "id": "894927dd-f514-4475-b741-ace4be277d67",
+              "itemBody": "<p>C. express an opinion about the effectiveness of the company’s internal control \nsystems.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "894927dd-f514-4475-b741-ace4be277d67"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-21",
+      "entry": {
+        "title": "2027-Mod61-Q21",
+        "itemBody": "<p>Common-size financial statements are most likely a component of which step in the \nfinancial analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Preparing common-size financial statements is part of the process data \nstep.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8a5f6a7b-63e0-46a0-a86c-2e30af146ab4",
+              "itemBody": "<p>A. Collect data</p>",
+              "position": 1
+            },
+            {
+              "id": "c38c5249-c448-4b71-ad1f-6e34ce652142",
+              "itemBody": "<p>B. Analyze/interpret data</p>",
+              "position": 2
+            },
+            {
+              "id": "39cf3ac6-8ffd-4662-8728-046ed2139f6b",
+              "itemBody": "<p>C. Process data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "39cf3ac6-8ffd-4662-8728-046ed2139f6b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-22",
+      "entry": {
+        "title": "2027-Mod61-Q22",
+        "itemBody": "<p>Providing information about the performance of a company, its financial position, and \nchanges in financial position that is useful to a wide range of users is most accurately \ndescribed as the role of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The role of financial reporting is to provide information about the \nperformance of a company, its financial position, and changes in financial position that \nis useful to a wide range of users in making economic decisions. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "667fbfe5-2e17-4b80-a0dd-4786f7c01297",
+              "itemBody": "<p>A. financial reporting.</p>",
+              "position": 1
+            },
+            {
+              "id": "5d945163-ef7a-47d5-8f23-8136135d57a1",
+              "itemBody": "<p>B. the audit report.</p>",
+              "position": 2
+            },
+            {
+              "id": "2c33bfd4-0a52-466c-9468-36cc27f4dfe9",
+              "itemBody": "<p>C. financial statement analysis.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "667fbfe5-2e17-4b80-a0dd-4786f7c01297"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-23",
+      "entry": {
+        "title": "2027-Mod61-Q23",
+        "itemBody": "<p>The role of the International Organization of Securities Commissions (IOSCO) is \nbest described as:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because IOSCO assists in attaining the goal of uniform regulation as well \nas cross-border cooperation in combating violations of securities and derivatives laws.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f1ad1b99-d21a-43f4-8637-784b22fdf707",
+              "itemBody": "<p>A. promoting cross-border cooperation and uniformity in securities regulation.</p>",
+              "position": 1
+            },
+            {
+              "id": "a07b2b1f-d27c-48bc-ad35-1b8e91156ec2",
+              "itemBody": "<p>B. enforcing financial reporting requirements for entities participating in capital \nmarkets. \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 2
+            },
+            {
+              "id": "60bca4a8-08d4-45de-8339-1f1f35662ba6",
+              "itemBody": "<p>C. promoting the use of International Financial Reporting Standards (IFRS) and the \nconvergence of national accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1ad1b99-d21a-43f4-8637-784b22fdf707"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-24",
+      "entry": {
+        "title": "2027-Mod61-Q24",
+        "itemBody": "<p>Where might an analyst look for details covering the full extent of a company’s capital \nresources?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because in the MD&A, management must highlight  any favorable or \nunfavorable trends and identify significant events and uncertainties that affect the \ncompany’s liquidity, capital resources, and results of operations. The MD&A must also \nprovide information a bout off -balance-sheet obligations and about contractual \ncommitments, such as purchase obligations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "91a9d3e7-bc4d-4cfc-a265-bb95dbdaa293",
+              "itemBody": "<p>A. Balance sheet</p>",
+              "position": 1
+            },
+            {
+              "id": "32d11f80-8715-462b-99f8-85a7dd97038c",
+              "itemBody": "<p>B. Notes to the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "f595e685-4442-472f-89cb-0f70d2cfea44",
+              "itemBody": "<p>C. Management discussion and analysis (MD&A)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f595e685-4442-472f-89cb-0f70d2cfea44"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-25",
+      "entry": {
+        "title": "2027-Mod61-Q25",
+        "itemBody": "<p>Notes to financial statements most likely include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the notes also disclose information about the accounting policies, \nmethods, and estimates used to prepare the financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7ed4269e-997b-45db-a154-8f6190393d5b",
+              "itemBody": "<p>A. an auditor’s opinion as to the fair presentation of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "97cad6e3-4a55-45a9-8a8d-dcc47eb9fd73",
+              "itemBody": "<p>B. supplementary information about accounting policies, methods, and estimates.</p>",
+              "position": 2
+            },
+            {
+              "id": "5f31f9d7-486e-4f09-954e-9b9e86d75ed9",
+              "itemBody": "<p>C. a discussion of significant trends, events, and uncertainties that affect the \noperating results.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "97cad6e3-4a55-45a9-8a8d-dcc47eb9fd73"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-26",
+      "entry": {
+        "title": "2027-Mod61-Q26",
+        "itemBody": "<p>A disclaimer of opinion is issued when an auditor:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because a disclaimer of opinion occurs when auditors are unable to issue \nan opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7aaa1560-a8f8-472a-bdde-2fdb14e5633c",
+              "itemBody": "<p>A. is unable to issue an opinion.</p>",
+              "position": 1
+            },
+            {
+              "id": "dcfa3d37-7e9c-4a5e-ac2c-384a1a0a6121",
+              "itemBody": "<p>B. notes an exception to accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "7372934b-4878-4d40-ad25-89416b5ab3a3",
+              "itemBody": "<p>C. finds a material departure from accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7aaa1560-a8f8-472a-bdde-2fdb14e5633c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-27",
+      "entry": {
+        "title": "2027-Mod61-Q27",
+        "itemBody": "<p>Which of the following opinions is the best indication that the auditor believes that \nthe financial statements depart materially from accounting standards and are not \nfairly presented?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because an adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "25cb85cd-e867-45f6-8afc-f4db199d83a7",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "0f5bc267-b531-4989-8254-72a2359cb038",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "1d85a783-0224-4728-8733-1481458f9730",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "25cb85cd-e867-45f6-8afc-f4db199d83a7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-28",
+      "entry": {
+        "title": "2027-Mod61-Q28",
+        "itemBody": "<p>A qualified audit opinion is most likely issued when financial statements are prepared:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because financial statements showing “scope limitation or exception to \naccounting standards” will earn a qualified opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b992e53-6f27-4e7f-baa5-dde47c6d2229",
+              "itemBody": "<p>A. in compliance with accounting standards.</p>",
+              "position": 1
+            },
+            {
+              "id": "7e394beb-021b-432b-8529-b1979b14cfe4",
+              "itemBody": "<p>B. with material departures from accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "0331c875-edd4-4d85-8ac8-a1b9a8f1e767",
+              "itemBody": "<p>C. with some limitation or exception to accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0331c875-edd4-4d85-8ac8-a1b9a8f1e767"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-29",
+      "entry": {
+        "title": "2027-Mod61-Q29",
+        "itemBody": "<p>Common-size statements are most likely the output of which of the following phases \nof the financial statement analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because common-size statements are an output of the “process data” \nphase of the financial statement analysis framework.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c5b9d655-8ecf-418c-8af8-58cec46a7535",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "f6935fb9-faa8-4fd0-bfc3-b1a5b0a4bb65",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "dd49907f-295d-471b-9138-35737a3539ba",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c5b9d655-8ecf-418c-8af8-58cec46a7535"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-30",
+      "entry": {
+        "title": "2027-Mod61-Q30",
+        "itemBody": "<p>Which of the following is most likely found in the management commentary?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the management commentary, or MD&A, is a good starting place \nfor understanding information in the financial statements. In particular, the forward-\nlooking disclosures, such as those about planned capital expenditures, new store \nopenings, or divestitures, can be useful in projecting a company’s future performance.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a25aae9c-cf07-4aa5-a458-c04a86271c38",
+              "itemBody": "<p>A. Forward-looking disclosures</p>",
+              "position": 1
+            },
+            {
+              "id": "a35dfc71-f449-4e12-98c7-852ba5335a52",
+              "itemBody": "<p>B. Basis of preparation for the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "270a617c-b6cb-45bf-b801-7f91845a18e1",
+              "itemBody": "<p>C. Reasonable assurance whether the financial statements as a whole are free from \nmaterial misstatement \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a25aae9c-cf07-4aa5-a458-c04a86271c38"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-31",
+      "entry": {
+        "title": "2027-Mod61-Q31",
+        "itemBody": "<p>Which of the following is most appropriately issued when an auditor determines that \nthe financial statements materially depart from accounting standards and are not \nfairly presented?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because \"[a]n adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented.\"</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3b49ddfe-a5f1-46ae-81bd-9a2a09e9fbec",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "34cc3889-2747-4fc0-820b-873c013a8fa0",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "fa10e94d-ba85-4c34-a49a-29c6071409cf",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3b49ddfe-a5f1-46ae-81bd-9a2a09e9fbec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-32",
+      "entry": {
+        "title": "2027-Mod61-Q32",
+        "itemBody": "<p>Which of the following statements is most accurate? The role of financial statement \nanalysis is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the role of financial statement analysis is to use financial reports \nprepared by companies, combined with other information, to evaluate the past, \ncurrent, and potential performance and financial position of a company for the \npurpose of making investment, credit, and other economic decisions.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "64241895-95bf-4b86-9a32-cbeef120c6db",
+              "itemBody": "<p>A. provide assurance that the audited financial statements are free from material \nerror.</p>",
+              "position": 1
+            },
+            {
+              "id": "b78f7c86-99c2-43d5-82ce-3877cc5eeee6",
+              "itemBody": "<p>B. provide information about a company’s performance, financial position, and \nchanges in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "b47e86bc-0b10-47f7-8a24-fed53843bc37",
+              "itemBody": "<p>C. evaluate the performance and financial position of a company for  making \ninvestment, credit, and other economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b47e86bc-0b10-47f7-8a24-fed53843bc37"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-33",
+      "entry": {
+        "title": "2027-Mod61-Q33",
+        "itemBody": "<p>Earnings calls are most likely sourced from:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because \"earnings calls\" are considered to be from \"issuer sources\".</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8354f1af-d5f2-4018-9d36-9a442b1b8e5e",
+              "itemBody": "<p>A. issuers.</p>",
+              "position": 1
+            },
+            {
+              "id": "4597f71d-763c-43a3-96f1-35781a3d484f",
+              "itemBody": "<p>B. public third parties.</p>",
+              "position": 2
+            },
+            {
+              "id": "fecbaa7c-0ca7-405a-98c5-5744e481bd44",
+              "itemBody": "<p>C. proprietary third parties.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8354f1af-d5f2-4018-9d36-9a442b1b8e5e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-61-34",
+      "entry": {
+        "title": "2027-Mod61-Q34",
+        "itemBody": "<p>The role of financial reporting is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the role of financial statements issued by companies is to \nprovide information about a company’s performance, financial position, and changes in \nfinancial position.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "90c7f8ff-94b4-48de-8b88-56dd456568a1",
+              "itemBody": "<p>A. making operating, investing, and financial decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "d8abb8c1-b1ad-4fe2-8c9f-a23ab34c43fe",
+              "itemBody": "<p>B. providing information about a company's performance, financial position, and \nchange in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "b1dca393-5323-4e0e-bbd0-f6b0fc950bae",
+              "itemBody": "<p>C. evaluating a company's past, current, and potential performance for the purpose \nof making economic decisions. \n \n \n \n \n  \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 6 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d8abb8c1-b1ad-4fe2-8c9f-a23ab34c43fe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 34
+}

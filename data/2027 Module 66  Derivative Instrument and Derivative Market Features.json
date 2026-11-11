@@ -1,0 +1,3448 @@
+{
+  "user_id": 239466,
+  "quiz_id": 5965,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 71,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 1: Derivative Instrument and Derivative Market Features",
+    "topic_id": 1037,
+    "topic": "CFA-26-02-LI-C: Derivatives",
+    "subtopic_id": 5965,
+    "subtopic": "Module 1: Derivative Instrument and Derivative Market Features",
+    "question_count": 71,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 853,
+        "name": "Warehouse Course: Derivatives 26-LI",
+        "code": "Warehouse Course: Derivatives 26-LI",
+        "module_id": 4482,
+        "question_count": 15,
+        "type": "warehouse"
+      },
+      {
+        "id": 844,
+        "name": "Practice Pack Warehouse: Derivatives 26-LI",
+        "code": "Practice Pack Warehouse: Derivatives 26-LI",
+        "module_id": 4735,
+        "question_count": 5,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 71.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "84032cd8347660b9",
+    "ordered_item_ids": [
+      "56263",
+      "56264",
+      "56265",
+      "56266",
+      "56267",
+      "51115",
+      "51116",
+      "51117",
+      "51118",
+      "51119",
+      "51122",
+      "53894",
+      "53895",
+      "53896",
+      "53897",
+      "53898",
+      "53899",
+      "53900",
+      "53901",
+      "53902",
+      "53903"
+    ],
+    "visible_item_ids": [
+      "56263",
+      "56264",
+      "56265",
+      "56266",
+      "56267",
+      "51115",
+      "51116",
+      "51117",
+      "51118",
+      "51119",
+      "51122",
+      "53894",
+      "53895",
+      "53896",
+      "53897",
+      "53898",
+      "53899",
+      "53900",
+      "53901",
+      "53902",
+      "53903"
+    ]
+  },
+  "items": [
+    {
+      "id": "56263",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Deriv-Kennan-03",
+        "feedback": {},
+        "itemBody": "<p>Compared to over-the-counter (OTC) derivatives that are not cleared, the credit risk of exchange-traded derivatives is&nbsp;<i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "410fcfc5-fa12-442d-9f78-2c1911b6dd01"
+        },
+        "answerFeedback": {
+          "39206ac0-72d1-4993-9ce3-1ca400a1711b": "<p>Incorrect because&nbsp;derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,&nbsp;whereas&nbsp;OTC (over-the-counter)&nbsp;instruments have less transparency, usually involve more counterparty risk.&nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower, not higher.</p>",
+          "410fcfc5-fa12-442d-9f78-2c1911b6dd01": "<p>Correct because derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,&nbsp;whereas OTC (over-the-counter)&nbsp;instruments have less transparency, usually involve more counterparty risk.&nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower.</p>",
+          "88864cfe-5c82-45f2-b94b-764592c06e6c": "<p>Incorrect because&nbsp;derivative exchanges require collateral on deposit upon inception and during the life of a trade in order to minimize counterparty credit risk. This deposit is paid by each counterparty via a financial intermediary to the exchange, which then provides a guarantee against counterparty default,&nbsp;whereas&nbsp;OTC (over-the-counter)&nbsp;instruments have less transparency, usually involve more counterparty risk.&nbsp;Therefore, compared to OTC derivatives that are not cleared, the credit risk of exchange-traded derivatives is lower, not the same.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "410fcfc5-fa12-442d-9f78-2c1911b6dd01",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "88864cfe-5c82-45f2-b94b-764592c06e6c",
+              "itemBody": "<p>B. the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "39206ac0-72d1-4993-9ce3-1ca400a1711b",
+              "itemBody": "<p>C. higher.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8969,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4735,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56264",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Bangaruswamy-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most</i> accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "58fd9cc2-eda7-4c00-a1f9-b365768b1907"
+        },
+        "answerFeedback": {
+          "58fd9cc2-eda7-4c00-a1f9-b365768b1907": "<p>Correct because other derivative underlyings include weather, cryptocurrencies, and longevity, all of which can influence the financial performance of various market participants.&nbsp;Therefore, longevity is an example of an underlying of a derivative.&nbsp;</p>",
+          "bab2c1ec-6fe8-49d4-a164-8739137f0cda": "<p>Incorrect because&nbsp;a distinct derivative contract, such as a derivative on a stock or bond, is an example of a&nbsp;stand-alone derivative. An&nbsp;embedded derivative&nbsp;is a derivative within an underlying, such as a callable, puttable, or convertible bond.&nbsp;Therefore, convertible bond is not a stand-alone derivative, but an embedded derivative.</p>",
+          "f019421e-05b8-4e29-88ef-49e5c3a1e885": "<p>Incorrect because a&nbsp;derivative does not directly pass through the returns of the underlying but transforms the performance of the underlying.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "58fd9cc2-eda7-4c00-a1f9-b365768b1907",
+              "itemBody": "<p>A. Longevity is an example of an underlying of a derivative</p>",
+              "position": 1
+            },
+            {
+              "id": "bab2c1ec-6fe8-49d4-a164-8739137f0cda",
+              "itemBody": "<p>B. A convertible bond is an example of a stand-alone&nbsp;derivative</p>",
+              "position": 2
+            },
+            {
+              "id": "f019421e-05b8-4e29-88ef-49e5c3a1e885",
+              "itemBody": "<p>C. Derivatives directly pass through the returns of the underlying</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8969,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4735,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56265",
+      "entry": {
+        "title": "ITEM_2019BDeriv01EWL10U1",
+        "feedback": {},
+        "itemBody": "<p>Derivatives derive their performance from:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "186c1f60-4145-4467-85c9-b2062f8ce840"
+        },
+        "answerFeedback": {
+          "0efe7193-de5c-40ca-9c26-61d936d0d67d": "<p>Incorrect because derivatives are subject to the risk of default. Forward contracts are subject to default. This also applies to swaps, where either party can default but only one party can default at a particular time. While a credit derivative provides protection… against a specific credit loss, it does not eliminate the risk of default.</p>",
+          "186c1f60-4145-4467-85c9-b2062f8ce840": "<p>Correct because the most common definition of a derivative&nbsp;is a financial instrument that derives its performance from the performance of the underlying asset.</p>",
+          "82f0c590-2be9-4ecc-95f7-ed8074be51ec": "<p>Incorrect because the transformation of performance&nbsp;for the case of derivatives is a critical, factor distinguishing derivatives from mutual funds and exchange-traded funds and some other straight pass-through instruments.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "186c1f60-4145-4467-85c9-b2062f8ce840",
+              "itemBody": "<p>A. the performance of the underlying asset.</p>",
+              "position": 1
+            },
+            {
+              "id": "0efe7193-de5c-40ca-9c26-61d936d0d67d",
+              "itemBody": "<p>B. eliminating the risk of counterparty default.</p>",
+              "position": 2
+            },
+            {
+              "id": "82f0c590-2be9-4ecc-95f7-ed8074be51ec",
+              "itemBody": "<p>C. the straight pass-through performance of the underlying.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8969,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4735,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56266",
+      "entry": {
+        "title": "ITEM_CFA-L1-05207",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-size:16px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Compared to over-the-counter (OTC) derivative markets, exchange-traded derivative markets <i>most likely</i> have greater:</span></span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de"
+        },
+        "answerFeedback": {
+          "2e3f2db3-cb25-42ad-99de-b87506a6bd57": "<p><span><span>Incorrect because exchange-traded derivatives are standardized, whereas OTC derivatives are customized.&nbsp;Therefore, exchange-traded derivatives markets have lower customization than OTC derivatives markets. </span></span></p>",
+          "618a0304-cc0a-4cef-a2e5-ff8e98fb8ecd": "<p><span>Incorrect because the OTC markets for derivatives&nbsp;will remain considerably more flexible than the exchange-listed markets.&nbsp;Therefore, exchange-traded derivatives markets have lower level of flexibility than OTC derivatives markets.&nbsp;</span></p>",
+          "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de": "<p><span>Correct because many transactions in OTC markets will retain a degree of privacy with lower transparency. In contrast, exchange markets are said to have transparency, which means that full information on all transactions is disclosed to exchanges and regulatory bodies.&nbsp;Therefore, exchange-traded derivatives markets have greater transparency than OTC derivatives markets.</span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "618a0304-cc0a-4cef-a2e5-ff8e98fb8ecd",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">flexibility.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "e4b3e4a2-9e98-4253-8cb8-71cc9321f4de",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">transparency.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "2e3f2db3-cb25-42ad-99de-b87506a6bd57",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">customization.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8969,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4735,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56267",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Berlinicke-06",
+        "feedback": {},
+        "itemBody": "<p>Which of the following derivative underlyings is an example of a soft commodity?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0a048ee5-6cb1-4170-9602-d44005a04b6d"
+        },
+        "answerFeedback": {
+          "0a048ee5-6cb1-4170-9602-d44005a04b6d": "<p>Correct because soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.&nbsp;Also, crude oil, soybeans, copper, and gold are all commodities. Commodities are considered either 'hard'&nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'&nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).</p>",
+          "66c7cbb0-bf9b-49c8-b608-4a363aa3fc5d": "<p>Incorrect because, despite its physical (liquid) nature, crude oil is categorized as&nbsp;a hard commodity since it is a natural resource. Soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.</p>",
+          "de321bee-dc19-4be1-a03b-4ad353dca507": "<p>Incorrect because gold is a metal and hence a hard commodity. Soft commodities are agricultural products, such as cattle and corn, and hard commodities are natural resources, such as crude oil and metals.&nbsp;Also, crude oil, soybeans, copper, and gold are all commodities. Commodities are considered either 'hard'&nbsp;(those mined, such as copper, or extracted, such as oil) or 'soft'&nbsp;(those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de321bee-dc19-4be1-a03b-4ad353dca507",
+              "itemBody": "<p>A. Gold</p>",
+              "position": 1
+            },
+            {
+              "id": "66c7cbb0-bf9b-49c8-b608-4a363aa3fc5d",
+              "itemBody": "<p>B. Crude oil</p>",
+              "position": 2
+            },
+            {
+              "id": "0a048ee5-6cb1-4170-9602-d44005a04b6d",
+              "itemBody": "<p>C. Soybeans</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8969,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 844,
+      "sourceModuleId": 4735,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51115",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Montau AG is a German capital goods producer that manufactures its products domestically and delivers its products to clients globally. Montau’s global sales manager shares the following draft commercial contract with his Treasury team:</p>\n<div id=\"CFA2374-s004-T-2-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: inherit !important; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i><span style=\"display: block;\">Montau AG Commercial Export Contract</span></h2>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; width: 100.072%;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Contract Date:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">[Today]</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Goods Seller:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">Montau AG, Frankfurt, Germany</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Goods Buyer:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">Jeon Inc., Seoul, Korea</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Description of Goods:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">A-Series Laser Cutting Machine</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Quantity:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">One</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Delivery Terms:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">Freight on Board (FOB), Busan Korea with all shipping, tax and delivery costs payable by Goods Buyer</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Delivery Date:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">[75 Days from Contract Date]</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Payment Terms:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">100% of Contract Price payable by Goods Buyer to Good Seller on Delivery Date</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 33.5359%;\"><strong>Contract Price:</strong></td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px; width: 66.4944%;\">KRW650,000,000</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Montau AG’s Treasury manager is tasked with addressing the financial risk of this prospective transaction.</p>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51116",
+      "entry": {
+        "title": "CFA2374-s004-Q6",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. A 75-day timing difference exists between the commercial contract date and the delivery date when Montau AG is paid for the machine in KRW. A is true but does not explain why the use of a derivative is preferable to a spot market transaction. If as in C Montau were to sell the KRW it receives and buy EUR in a spot market transaction on the delivery date, it would be exposed to unfavorable changes in the KRW/EUR exchange rate over the 75-day period. A derivative contract in which the underlying KRW/EUR forward rate is agreed today and exchanged on the delivery date allows Montau to hedge or offset the EUR value of the future KRW payment. The derivative is therefore a more suitable contract to address the financial risk of the commercial transaction than a spot market sale of KRW.</p>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements best describes why Montau AG should consider a\n                  derivative rather than a spot market transaction to manage the financial risk of\n                  this commercial contract?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b44cc41d-533b-4a65-abea-c5915a0809b3"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65e3712d-0a7c-46d8-a120-5a05bdb15e2a",
+              "itemBody": "A. Montau AG is selling a machine at a contract price in KRW and incurs costs based in EUR.",
+              "position": 1
+            },
+            {
+              "id": "b44cc41d-533b-4a65-abea-c5915a0809b3",
+              "itemBody": "B. Montau AG faces a 75-day timing difference between the commercial contract date and the delivery date when Montau AG is paid for the machine in KRW.",
+              "position": 2
+            },
+            {
+              "id": "90b8930e-6a0c-4e5d-ae7c-cfec60ce400d",
+              "itemBody": "C. Montau AG is unable to sell KRW today in order to offset the contract price of machinery delivered to Jeon Inc.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": "51115"
+    },
+    {
+      "id": "51117",
+      "entry": {
+        "title": "CFA2374-s004-Q7",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The derivative best suited to hedge Montau’s financial risk is a firm commitment derivative in which a pre-determined amount is exchanged at settlement. The derivative underlying should be currencies, specifically the sale of KRW at a fixed EUR price in the future to offset or hedge the financial risk of the commercial contract. The machine price referenced under B is not considered an underlying, and C hedges the opposite of Montau’s underlying exposure.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following types of derivative and underlyings are best suited to\n                  hedge Montau’s financial risk under the commercial transaction?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8ae9b722-2af8-4758-af48-3f0da43330b8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8ae9b722-2af8-4758-af48-3f0da43330b8",
+              "itemBody": "A. Montau AG should consider a firm commitment derivative with currency as an underlying, specifically the sale of KRW at a fixed EUR price.",
+              "position": 1
+            },
+            {
+              "id": "14c4b800-582d-4261-9c66-9dbd1ca54e90",
+              "itemBody": "B. Montau AG should consider a contingent claim derivative with the price of the machine as its underlying, specifically an A-series laser cutting machine.",
+              "position": 2
+            },
+            {
+              "id": "20061007-da77-4f03-945b-ca4694cf9d2f",
+              "itemBody": "C. Montau AG should consider a contingent claim derivative with currency as an underlying, specifically the sale of EUR at a fixed KRW price.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": "51115"
+    },
+    {
+      "id": "51118",
+      "entry": {
+        "title": "CFA2374-s004-Q8",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct as per the following diagram:</p>\n<figure id=\"CFA2374-s004-EXH-2-2\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; background-color: #fff !important; overflow: auto;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 16pt !important; padding-top: 15px; text-align: center; line-height: 1.5; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\">Exhibit 2</h2>\n<div style=\"border: 2px solid #ccc; padding: 15px; background-color: #fff !important; overflow: auto;\"><img id=\"CFA2374-s004-EXH-2-2\" style=\"width: clamp(100px, 100%, 300px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/475422d3416172bdb40787cafcc75fdb.png\" alt=\"Montau AG at top, and financial intermediary at bottom. Montau AG offers 650,000,000 KRW to financial intermediary shown by downward arrow. Financial intermediary offers fixed EUR amount at KRW/EUR forward rate to Montau represented by upward arrow.\"></div>\n<details id=\"CFA2374-s004-EXH-2-2-extended-desc\" class=\"dp-panels-wrapper\" style=\"font-size: 10pt; padding-top: 15px;\">\n<summary class=\"dp-panel-outside-panel\">Expand / Collapse Extended Description</summary>\n<p class=\"dp-panel-outside-panel\">Montau AG at top and financial intermediary at bottom. Montau AG offers 650,000,000 KRW to financial intermediary represented by downward arrow. Financial intermediary offers fixed EUR amount at KRW forward slash EUR forward rate to Montau AG represented by upward arrow.</p>\n</details></figure>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Identify A, B, and C in the correct order in the following diagram, as in <strong>Exhibit 1</strong>, for the derivative to hedge Montau's financial risk under the commercial transaction.</p>\n<figure id=\"CFA2374-s004-EXH-2-1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; background-color: #fff !important; overflow: auto;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>\n<h2 style=\"font-family: Arial, sans-serif; font-size: 16pt !important; text-align: center; line-height: 1.5; padding: 15px; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\">Exhibit 1</h2>\n<img id=\"CFA2374-s004-EXH-2-1\" style=\"width: clamp(100px, 100%, 200px); height: auto; display: block; margin-left: auto; margin-right: auto;\" src=\"https://quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com/quiz_assets/ad215b1d-362f-4f66-9289-bc5a556fe02b/9ce0c07c37fe4f8b40c2485988f815eb.png\" alt=\"Montau AG at the top, and A at the bottom. Montau AG through C is followed by A shown by a downward arrow. A leads to Montau AG through B shown by an upward arrow.\"></figure>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0fd9b6c1-5433-4f77-bbfe-147dbec8f985"
+        },
+        "answerFeedback": {
+          "15fb50d5-8aff-402e-be59-51e28bc3ca94": ""
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "15fb50d5-8aff-402e-be59-51e28bc3ca94",
+              "itemBody": "A. A: Financial intermediary, B: KRW650,000,000, C: Fixed EUR amount",
+              "position": 1
+            },
+            {
+              "id": "388d61eb-b875-40e5-9daf-2103fde250bf",
+              "itemBody": "B. A: Jeon Inc., B: KRW650,000,000, C: Fixed EUR amount",
+              "position": 2
+            },
+            {
+              "id": "0fd9b6c1-5433-4f77-bbfe-147dbec8f985",
+              "itemBody": "C. A: Financial intermediary, B: Fixed EUR amount, C: KRW650,000,000.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": "51115"
+    },
+    {
+      "id": "51119",
+      "entry": {
+        "title": "CFA2374-s004-Q9",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The OTC market is most appropriate for Montau, as OTC contracts may be customized to match Montau’s desired risk exposure profile. This is important to end users seeking to hedge a specific underlying exposure based upon non-standard terms. Montau would be unlikely to find an ETD contract under B that matches the exact size and maturity date of its desired hedge, which also makes C incorrect.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements about the most appropriate derivative market to\n                  hedge Montau AG’s financial risk under the commercial contract is most\n                  accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b98bceb0-3249-4415-9d6b-f68621935584"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b98bceb0-3249-4415-9d6b-f68621935584",
+              "itemBody": "A. The OTC market is most appropriate for Montau, as it is able to customize the contract to match its desired risk exposure profile.",
+              "position": 1
+            },
+            {
+              "id": "43e01644-bc9c-4a96-b4fa-a9750c8fe461",
+              "itemBody": "B. The ETD market is most appropriate for Montau, as it offers a standardized and transparent contract to match its desired risk exposure profile.",
+              "position": 2
+            },
+            {
+              "id": "530ea581-d4cb-46ec-9bd0-a8e9176cfb3c",
+              "itemBody": "C. Both the ETD and OTC markets are appropriate for Montau AG to hedge its financial risk under the transaction, so it should choose the market with the best price.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": "51115"
+    },
+    {
+      "id": "51122",
+      "entry": {
+        "title": "CFA2374-s004-Q10",
+        "feedback": {
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. In a centrally cleared OTC derivative contract, the central counterparty becomes the counterparty in all contracts and assumes the credit risk associated with individual derivative contracts. A is likely incorrect because the CCP takes actions to ensure that it can fulfill its obligations to its counterparties. C is incorrect because the CCP inserts itself between parties with opposite positions.</p>"
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">If Montau enters into a centrally cleared derivative contract on the OTC market,\n                  which of the following statements about credit risk associated with the derivative\n                  is most likely correct?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "388961e3-5abe-4fac-a384-2a0e83857f1b"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a5d3f668-2ed3-43f0-86c1-a7262b674d54",
+              "itemBody": "A. Montau faces credit risk associated with the possibility that its counterparty to the contract may not fulfill its contractual obligation.",
+              "position": 1
+            },
+            {
+              "id": "388961e3-5abe-4fac-a384-2a0e83857f1b",
+              "itemBody": "B. Montau poses a credit risk to its counterparty because it may fail to fulfill its contractual obligation.",
+              "position": 2
+            },
+            {
+              "id": "f18faa28-1ee4-4a0d-a586-825b50b17b66",
+              "itemBody": "C. Montau poses a credit risk to a derivative contract end user holding a contract with the opposite features of Montau’s.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8247,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": "51115"
+    },
+    {
+      "id": "53894",
+      "entry": {
+        "title": "ITEM_20170601014",
+        "feedback": {},
+        "itemBody": "<p>A derivative can <i>best </i>be described as a financial instrument that:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e8ea618a-ce5e-4677-bb02-090f2375b816"
+        },
+        "answerFeedback": {
+          "9816586a-7315-4e32-9230-60a3b14d7a3d": "<p>Incorrect. A derivative transforms the performance of the underlying asset rather than passing through the returns of the underlying asset.</p>",
+          "db15928f-b844-481a-8200-a2e49a5281d7": "<p>Incorrect. A derivative transforms the performance of the underlying asset rather than duplicating the performance of the underlying asset.</p>",
+          "e8ea618a-ce5e-4677-bb02-090f2375b816": "<p><strong>Correct.</strong> The best characterization of a derivative is that it typically transforms the underlying asset’s performance.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "db15928f-b844-481a-8200-a2e49a5281d7",
+              "itemBody": "<p>A. duplicates the underlying asset’s performance.</p>",
+              "position": 1
+            },
+            {
+              "id": "e8ea618a-ce5e-4677-bb02-090f2375b816",
+              "itemBody": "<p>B. transforms the underlying asset’s performance.</p>",
+              "position": 2
+            },
+            {
+              "id": "9816586a-7315-4e32-9230-60a3b14d7a3d",
+              "itemBody": "<p>C. passes through the underlying asset’s returns.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53895",
+      "entry": {
+        "title": "ITEM_20170601016",
+        "feedback": {},
+        "itemBody": "<p>Which of the following derivatives is <i>least likely</i> to be classified as a contingent claim?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d"
+        },
+        "answerFeedback": {
+          "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d": "<p><strong>Correct.</strong> A futures contract is classified as a forward commitment in which the buyer undertakes to purchase the underlying asset from the seller at a later date and at a price agreed on by the two parties when the contract is initiated.</p>",
+          "bddf1ccb-99f8-4115-ae1e-be999ad5ea54": "<p>Incorrect. A credit default swap is a contingent claim in which the credit protection seller provides protection to the credit protection buyer against the credit risk of a third party.</p>",
+          "da81bd23-171b-46cc-a3e6-a2d06736af59": "<p>Incorrect. A call option contract is a contingent claim in which the buyer of the option has a right to purchase the underlying asset at a fixed price on or before a pre-specified expiration date.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b7ab2a4-b936-4a4a-bc6f-92c53848bf6d",
+              "itemBody": "<p>A. A futures contract</p>",
+              "position": 1
+            },
+            {
+              "id": "da81bd23-171b-46cc-a3e6-a2d06736af59",
+              "itemBody": "<p>B. A call option contract</p>",
+              "position": 2
+            },
+            {
+              "id": "bddf1ccb-99f8-4115-ae1e-be999ad5ea54",
+              "itemBody": "<p>C. A credit default swap</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53896",
+      "entry": {
+        "title": "ITEM_20170601020",
+        "feedback": {},
+        "itemBody": "<p>In contrast to over-the-counter options, futures contracts <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0da0cb78-bbaa-4519-9a8b-0950d5841666"
+        },
+        "answerFeedback": {
+          "0da0cb78-bbaa-4519-9a8b-0950d5841666": "<p><strong>Correct.</strong> Over-the-counter options are exposed to default risk, but futures contracts are standardized transactions that take place on futures exchanges and are not exposed to default risk.</p>",
+          "883065a6-a77e-4c1c-9cd9-494b9f73f841": "<p>Incorrect. Futures contracts are commitments, but options represent a right.</p>",
+          "d7072120-102b-4be9-a890-e83df41be91d": "<p>Incorrect. Futures contracts are not private; they are standardized instruments that trade on organized exchanges.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0da0cb78-bbaa-4519-9a8b-0950d5841666",
+              "itemBody": "<p>A. are not exposed to default risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "d7072120-102b-4be9-a890-e83df41be91d",
+              "itemBody": "<p>B. are private, customized transactions.</p>",
+              "position": 2
+            },
+            {
+              "id": "883065a6-a77e-4c1c-9cd9-494b9f73f841",
+              "itemBody": "<p>C. represent a right rather than a commitment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53897",
+      "entry": {
+        "title": "ITEM_20170601037",
+        "feedback": {},
+        "itemBody": "<p>Which of these is <i>best</i> classified as a forward commitment?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6ff11456-74e3-4963-886a-22f3e114eb3f"
+        },
+        "answerFeedback": {
+          "3398561d-f3fd-42db-8249-315e790a6610": "<p>Incorrect. A call option is an example of a contingent claim.</p>",
+          "6ff11456-74e3-4963-886a-22f3e114eb3f": "<p><strong>Correct.</strong> A swap agreement is equivalent to a series of forward agreements, which can be described as forward commitments.</p>",
+          "fa26943a-396f-470f-8dea-46a5dba48d5b": "<p>Incorrect. A convertible bond does not meet the definition of a forward commitment.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3398561d-f3fd-42db-8249-315e790a6610",
+              "itemBody": "<p>A. A call option</p>",
+              "position": 1
+            },
+            {
+              "id": "fa26943a-396f-470f-8dea-46a5dba48d5b",
+              "itemBody": "<p>B. A convertible bond</p>",
+              "position": 2
+            },
+            {
+              "id": "6ff11456-74e3-4963-886a-22f3e114eb3f",
+              "itemBody": "<p>C. A swap agreement</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53898",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Glover-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following derivative contracts&nbsp;is <i>best</i> described as a contingent claim?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bb5d512a-4911-4588-87f8-3363a3cd737e"
+        },
+        "answerFeedback": {
+          "bb5d512a-4911-4588-87f8-3363a3cd737e": "<p>Correct because another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle.&nbsp;An option is the primary contingent claim.</p>",
+          "bd5f35ac-397b-4244-952b-8dbaa3a0e0cd": "<p>Incorrect because derivative contracts can be classified as either firm commitments or contingent claims. Firm&nbsp;commitments include forward contracts, futures contracts, and swaps involving a&nbsp;periodic exchange of cash flows and an option is the primary contingent claim.</p>",
+          "e09a5552-9b29-43cc-949a-6f4ce120a1a5": "<p>Incorrect because&nbsp;derivative contracts can be classified as either firm commitments or contingent claims. Firm&nbsp;commitments include forward contracts, futures contracts, and swaps involving a&nbsp;periodic exchange of cash flows&nbsp;and an option is the primary contingent claim.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e09a5552-9b29-43cc-949a-6f4ce120a1a5",
+              "itemBody": "<p>A. A swap contract</p>",
+              "position": 1
+            },
+            {
+              "id": "bd5f35ac-397b-4244-952b-8dbaa3a0e0cd",
+              "itemBody": "<p>B. A forward contract</p>",
+              "position": 2
+            },
+            {
+              "id": "bb5d512a-4911-4588-87f8-3363a3cd737e",
+              "itemBody": "<p>C. An option&nbsp;contract</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53899",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Lee-02",
+        "feedback": {},
+        "itemBody": "<p>Compared to over-the-counter derivatives, exchange-traded derivatives:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6baa289a-aad9-440c-ab9b-63b008364810"
+        },
+        "answerFeedback": {
+          "621d2a80-ffdc-4eb8-a647-5e1c873e2b1e": "<p>Incorrect because OTC and ETD markets differ in several ways, including that ETD contracts are more standardized.</p>",
+          "6baa289a-aad9-440c-ab9b-63b008364810": "<p>Correct because OTC and ETD markets differ in several ways, including that ETD contracts have lower trading and transaction costs.</p>",
+          "f82e55ef-fb88-4d55-9a0e-3d816f32acea": "<p>Incorrect because OTC and ETD markets differ in several ways, including that OTC instruments have less transparency, whereas ETD markets have transparency.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "621d2a80-ffdc-4eb8-a647-5e1c873e2b1e",
+              "itemBody": "<p>A. are less standardized.</p>",
+              "position": 1
+            },
+            {
+              "id": "f82e55ef-fb88-4d55-9a0e-3d816f32acea",
+              "itemBody": "<p>B. provide less transparency.</p>",
+              "position": 2
+            },
+            {
+              "id": "6baa289a-aad9-440c-ab9b-63b008364810",
+              "itemBody": "<p>C. have lower transaction costs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53900",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-05",
+        "feedback": {},
+        "itemBody": "<p>Which of the following&nbsp;<i>most likely</i> has an embedded derivative in its structure?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4275a65c-8bd9-4840-a60e-0ab0326fb0e9"
+        },
+        "answerFeedback": {
+          "07d099c8-ee79-4a53-a2df-6e6930917074": "<p>Incorrect because a stand-alone derivative, is&nbsp;a distinct derivative contract, such as a derivative on a stock or bond.&nbsp;A put option is therefore a stand-alone derivative not an embedded derivative.</p>",
+          "4275a65c-8bd9-4840-a60e-0ab0326fb0e9": "<p>Correct because an embedded derivative is a derivative within an underlying, such as a callable, puttable, or convertible bond.</p>",
+          "bb9f63ce-f7de-4aec-b5d6-1e5bf0972738": "<p>Incorrect because a stand-alone derivative, is&nbsp;a distinct derivative contract, such as a derivative on a stock or bond.&nbsp;A futures contract is also a distinct&nbsp;derivative contract as it is not embedded in the underlying asset.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "07d099c8-ee79-4a53-a2df-6e6930917074",
+              "itemBody": "<p>A. A put option</p>",
+              "position": 1
+            },
+            {
+              "id": "4275a65c-8bd9-4840-a60e-0ab0326fb0e9",
+              "itemBody": "<p>B. A callable bond</p>",
+              "position": 2
+            },
+            {
+              "id": "bb9f63ce-f7de-4aec-b5d6-1e5bf0972738",
+              "itemBody": "<p>C. A futures contract</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53901",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-07",
+        "feedback": {},
+        "itemBody": "<p>In the over-the-counter&nbsp;derivatives market,&nbsp;<i>most</i>&nbsp;transactions occur between end users and:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bdb3fd25-2c4e-4394-88c5-dea5d513a20d"
+        },
+        "answerFeedback": {
+          "4d78f3a2-0587-4f59-8657-1d755bc66b5e": "<p>Incorrect because end users do not generally trade with other end users. OTC&nbsp;derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks.</p>",
+          "ba21540b-658f-4692-9eeb-8e4b2aca9738": "<p>Incorrect because the central counterparty provides clearing and settlement functions rather than trading derivatives. A central counterparty (CCP) assumes the credit risk between derivative counterparties, one of which is typically a financial intermediary. CCPs provide clearing and settlement for most derivative contracts.</p>",
+          "bdb3fd25-2c4e-4394-88c5-dea5d513a20d": "<p>Correct because OTC (over-the-counter)&nbsp;derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bdb3fd25-2c4e-4394-88c5-dea5d513a20d",
+              "itemBody": "<p>A. dealers.</p>",
+              "position": 1
+            },
+            {
+              "id": "4d78f3a2-0587-4f59-8657-1d755bc66b5e",
+              "itemBody": "<p>B. other end users.</p>",
+              "position": 2
+            },
+            {
+              "id": "ba21540b-658f-4692-9eeb-8e4b2aca9738",
+              "itemBody": "<p>C. a central counterparty.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53902",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Deriv-Kashyap-11",
+        "feedback": {},
+        "itemBody": "<p>An&nbsp;end user&nbsp;seeking to hedge a specific underlying exposure having non-standard size and settlement dates would&nbsp;<i>most likely&nbsp;</i>trade on a(n):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "567388e4-1375-40df-8191-3edef7c4f5cc"
+        },
+        "answerFeedback": {
+          "4dd1ab74-5380-4232-bf48-7e48b18b062c": "<p>Incorrect because ETD (exchange-traded derivative) contracts are more formal and standardized, which facilitates a more liquid and transparent market. Terms and conditions—such as the size of each contract, type, quality, and location of underlying for commodities and maturity date—are set by the exchange.</p>",
+          "54b050d2-5eb8-4857-8e78-afadf0ad7b4c": "<p>Incorrect because futures contracts are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges.&nbsp;Therefore, they are inappropriate for the non-standard size and settlement dates required by the end user.</p>",
+          "567388e4-1375-40df-8191-3edef7c4f5cc": "<p>Correct because the terms of OTC (over-the-counter) contracts can be customized to match a desired risk exposure profile. This flexibility is important to end users seeking to hedge a specific existing or anticipated underlying exposure based upon non-standard terms.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "54b050d2-5eb8-4857-8e78-afadf0ad7b4c",
+              "itemBody": "<p>A. futures market.</p>",
+              "position": 1
+            },
+            {
+              "id": "567388e4-1375-40df-8191-3edef7c4f5cc",
+              "itemBody": "<p>B. over-the-counter derivative market.</p>",
+              "position": 2
+            },
+            {
+              "id": "4dd1ab74-5380-4232-bf48-7e48b18b062c",
+              "itemBody": "<p>C. exchange-traded derivative market.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53903",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-Deriv-Tyler-10",
+        "feedback": {},
+        "itemBody": "<p>The following portfolios contain a company's stock and a derivative on the stock:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<th style=\"width: 68px; max-width: 68px; text-align: left;\" scope=\"col\"><strong>Portfolio</strong></th>\n<th style=\"width: 344px; max-width: 344px; text-align: center;\" scope=\"col\"><strong>Securities</strong></th>\n</tr>\n<tr>\n<td style=\"width: 68px; max-width: 68px; text-align: left;\">1</td>\n<td style=\"width: 344px; max-width: 344px; text-align: center;\">Stock and a short futures position</td>\n</tr>\n<tr>\n<td style=\"width: 68px; max-width: 68px; text-align: left;\">2</td>\n<td style=\"width: 344px; max-width: 344px; text-align: center;\">Stock and a short call option position</td>\n</tr>\n<tr>\n<td style=\"width: 68px; max-width: 68px; text-align: left;\">3</td>\n<td style=\"width: 344px; max-width: 344px; text-align: center;\">Stock and a short warrant position</td>\n</tr>\n</tbody>\n</table>\n<p>The portfolio containing a derivative acting as a firm commitment to hedge the stock is <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3"
+        },
+        "answerFeedback": {
+          "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3": "<p>Correct because the buyer of a derivative enters a contract whose value changes in a way similar to a long position in the underlying.&nbsp;Thus a short futures position hedges the exposure to the underlying: Use of a derivative to offset or neutralize existing or anticipated exposure to an underlying is referred to as hedging, with the derivative itself commonly described as a hedge of the underlying transaction.&nbsp;In addition, a futures position is a firm commitment:&nbsp;Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows.</p>",
+          "72872603-8a7c-433a-b0af-6b9c85cac533": "<p>Incorrect because a warrant is a type of option and an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim. Companies may also issue warrants, which are options granted to employees or sold to the public that allow holders to purchase shares at a fixed price in the future directly from the issuer.</p>",
+          "bfc76074-75ce-4c52-8af1-b77f7cd7d765": "<p>Incorrect because an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "00b9e2f3-8f41-4b17-90ae-7acef0e4f7a3",
+              "itemBody": "<p>A. Portfolio 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "bfc76074-75ce-4c52-8af1-b77f7cd7d765",
+              "itemBody": "<p>B. Portfolio 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "72872603-8a7c-433a-b0af-6b9c85cac533",
+              "itemBody": "<p>C. Portfolio 3.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8682,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 853,
+      "sourceModuleId": 4482,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-66-1",
+      "entry": {
+        "title": "2027-Mod66-Q1",
+        "itemBody": "<p>The short-term shutdown point of production for a firm operating under \nperfect competition will most likely occur when:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The firm should shut down production when marginal revenue is less than \nor equal to average variable cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "483af0c0-1f14-4d65-907a-ef53b4e1bfbf",
+              "itemBody": "<p>A. price is equal to average total cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "06c51e87-7961-4caf-8e82-ba6bab70a155",
+              "itemBody": "<p>B. marginal revenue is equal to marginal cost.</p>",
+              "position": 2
+            },
+            {
+              "id": "1afaf364-1006-4fd6-bd99-b24ec68bba66",
+              "itemBody": "<p>C. marginal revenue is equal to average variable costs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1afaf364-1006-4fd6-bd99-b24ec68bba66"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-2",
+      "entry": {
+        "title": "2027-Mod66-Q2",
+        "itemBody": "<p>Under conditions of perfect competition, a company will break even when \nmarket price is equal to the minimum point of the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A company is said to break even if its total revenue is equal to its total \ncost. Under conditions of perfect competition, a company will break even when market \nprice is equal to the minimum point of the average total cost curve.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9d57b2b3-5d34-4b9e-b53f-7c0d25053187",
+              "itemBody": "<p>A. average total cost curve.</p>",
+              "position": 1
+            },
+            {
+              "id": "1a2d6ecb-be75-456a-9cb8-267538a8a585",
+              "itemBody": "<p>B. average variable cost curve.</p>",
+              "position": 2
+            },
+            {
+              "id": "31b8015d-f2f3-4878-a152-0dc1f774c1b2",
+              "itemBody": "<p>C. short-run marginal cost curve.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9d57b2b3-5d34-4b9e-b53f-7c0d25053187"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-3",
+      "entry": {
+        "title": "2027-Mod66-Q3",
+        "itemBody": "<p>A company will shut down production in the short run if total revenue is \nless than total:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A company will shut down production in the short run when total revenue \nis below total variable costs.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c15f9936-c5f6-4b94-a42f-ebb254603c54",
+              "itemBody": "<p>A. fixed costs.</p>",
+              "position": 1
+            },
+            {
+              "id": "808d13e1-2f25-4ad2-ab0e-eeda91fd193e",
+              "itemBody": "<p>B. variable costs.</p>",
+              "position": 2
+            },
+            {
+              "id": "190161a4-6a06-48df-b1b6-931b9bc41dfe",
+              "itemBody": "<p>C. opportunity costs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "808d13e1-2f25-4ad2-ab0e-eeda91fd193e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-4",
+      "entry": {
+        "title": "2027-Mod66-Q4",
+        "itemBody": "<p>A company has total variable costs of $4 million and fixed costs of $3 \nmillion. Based on this information, the company will stay in the market in the long term \nif total revenue is at least:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. A company will stay in the market in the long term if total revenue is  \nequal to or greater than total cost. Because total costs are $7 million ($4 million  \nvariable costs and $3 million fixed costs), the company will stay in the market in the \nlong term if total revenue equals at least $7 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "60e57903-0f9a-43f1-92c8-effecb9365be",
+              "itemBody": "<p>A. $3.0 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "95926ee2-2844-4454-abe7-50703e403a7b",
+              "itemBody": "<p>B. $4.5 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "a353001a-2afd-47b3-937b-2509f724f51a",
+              "itemBody": "<p>C. $7.0 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a353001a-2afd-47b3-937b-2509f724f51a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-5",
+      "entry": {
+        "title": "2027-Mod66-Q5",
+        "itemBody": "<p>When total revenue is greater than total variable costs but less than total \ncosts, in the short term, a firm will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. When total revenue is enough to cover variable costs but not total fixed \ncosts in full, the firm can survive in the short run but would not be able to  maintain \nfinancial solvency in the long run.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1d8af77c-fad0-4f79-8c9b-5dc9efcde886",
+              "itemBody": "<p>A. exit the market.</p>",
+              "position": 1
+            },
+            {
+              "id": "ad3646a6-dd07-49c4-becd-37748b36eb94",
+              "itemBody": "<p>B. stay in the market.</p>",
+              "position": 2
+            },
+            {
+              "id": "a528cd21-8fb1-4e29-b7fc-0bb000dfd79a",
+              "itemBody": "<p>C. shut down production.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ad3646a6-dd07-49c4-becd-37748b36eb94"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-6",
+      "entry": {
+        "title": "2027-Mod66-Q6",
+        "itemBody": "<p>Under conditions of perfect competition, in the long run, firms will most \nlikely earn:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Competition should drive prices down to long-run marginal cost, resulting \nin only normal profits being earned.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5be64400-4b96-4bb2-90a8-881252ecbc8e",
+              "itemBody": "<p>A. normal profits.</p>",
+              "position": 1
+            },
+            {
+              "id": "bd2f1fe4-dc82-42e0-887c-b47ca8c1af19",
+              "itemBody": "<p>B. positive economic profits.</p>",
+              "position": 2
+            },
+            {
+              "id": "3a9c544d-04fe-4ef2-8c92-6af427191480",
+              "itemBody": "<p>C. negative economic profits.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5be64400-4b96-4bb2-90a8-881252ecbc8e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-7",
+      "entry": {
+        "title": "2027-Mod66-Q7",
+        "itemBody": "<p>A firm that increases its quantity produced without any change in per-unit \ncost is experiencing:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Output increases in the same proportion as input increases occur at  \nconstant returns to scale.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "20be8829-f0c0-4f83-9fcd-96802d35b29a",
+              "itemBody": "<p>A. economies of scale.</p>",
+              "position": 1
+            },
+            {
+              "id": "44f7d06e-ac4c-4b25-aa68-81f7ec979ff7",
+              "itemBody": "<p>B. diseconomies of scale.</p>",
+              "position": 2
+            },
+            {
+              "id": "18538ca3-8450-400c-a6b0-348764fb2b33",
+              "itemBody": "<p>C. constant returns to scale. \nFirms and Market Structures \nFaculty:                                                                         Page 2 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "18538ca3-8450-400c-a6b0-348764fb2b33"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-8",
+      "entry": {
+        "title": "2027-Mod66-Q8",
+        "itemBody": "<p>A company is experiencing economies of scale when:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Economies of scale occur if, as the firm increases output, cost per unit \nof production falls. Graphically, this definition translates into an LRAC with a negative \nslope.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3a401a49-1199-48d2-875c-b7a50336a0ff",
+              "itemBody": "<p>A. cost per unit increases as output increases.</p>",
+              "position": 1
+            },
+            {
+              "id": "4c19d425-7dea-4f10-8c4d-9ca0c9b44eaf",
+              "itemBody": "<p>B. it is operating at a point on the LRAC curve at which the slope is negative.</p>",
+              "position": 2
+            },
+            {
+              "id": "ca2bd78c-f3cc-43bd-91ff-475c59e2fb00",
+              "itemBody": "<p>C. it is operating beyond the minimum point on the long-run average total cost curve.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4c19d425-7dea-4f10-8c4d-9ca0c9b44eaf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-9",
+      "entry": {
+        "title": "2027-Mod66-Q9",
+        "itemBody": "<p>Diseconomies of scale most likely result from:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. As the firm increases output, diseconomies of scale and higher average \ntotal costs can result when business functions and product lines overlap or  are \nduplicated.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "10a759db-7a40-446c-87a7-ec1728d4b96d",
+              "itemBody": "<p>A. specialization in the labor force.</p>",
+              "position": 1
+            },
+            {
+              "id": "30393072-c62c-44aa-9d48-8ba5efe95a70",
+              "itemBody": "<p>B. overlap of business functions and product lines.</p>",
+              "position": 2
+            },
+            {
+              "id": "087ba4f0-b864-4ff8-a451-a98e2904f9bd",
+              "itemBody": "<p>C. discounted prices on resources when buying in larger quantities.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "30393072-c62c-44aa-9d48-8ba5efe95a70"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-10",
+      "entry": {
+        "title": "2027-Mod66-Q10",
+        "itemBody": "<p>A firm is operating beyond minimum efficient scale in a perfectly \ncompetitive industry. To maintain long-term viability, the most likely course of action \nfor the firm is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The firm operating at greater than long-run efficient scale is subject to \ndiseconomies of scale. It should plan to decrease its level of production.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cb21d0b6-7df8-484f-9bb8-96cd8bb26efc",
+              "itemBody": "<p>A. operate at the current level of production.</p>",
+              "position": 1
+            },
+            {
+              "id": "a1933fd0-3d40-4dfb-b8ca-c04efbd28498",
+              "itemBody": "<p>B. increase its level of production to gain economies of scale.</p>",
+              "position": 2
+            },
+            {
+              "id": "e909a496-43a3-479e-a2d1-0c3a45c7a1c6",
+              "itemBody": "<p>C. decrease its level of production to the minimum point on the long-run average total \ncost curve.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e909a496-43a3-479e-a2d1-0c3a45c7a1c6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-11",
+      "entry": {
+        "title": "2027-Mod66-Q11",
+        "itemBody": "<p>Companies most likely have a well-defined supply function when the market \nstructure is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A company in a perfectly competitive market must accept whatever price \nthe market dictates. The marginal cost schedule of a company in a perfectly  \ncompetitive market determines its supply function.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f9642a26-7abf-488c-afcb-c1c549dc39a5",
+              "itemBody": "<p>A. oligopoly.</p>",
+              "position": 1
+            },
+            {
+              "id": "690ada56-b49e-408b-b4b1-fe308958094f",
+              "itemBody": "<p>B. perfect competition.</p>",
+              "position": 2
+            },
+            {
+              "id": "af0eac84-9c0a-4fe6-9a22-8c72ef60277b",
+              "itemBody": "<p>C. monopolistic competition.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "690ada56-b49e-408b-b4b1-fe308958094f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-12",
+      "entry": {
+        "title": "2027-Mod66-Q12",
+        "itemBody": "<p>Aquarius, Inc. is the dominant company and the price leader in its market. \nOne of the other companies in the market attempts to gain market share by \nundercutting the price set by Aquarius. The market share of Aquarius will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. As prices decrease, smaller companies will leave the market rather than \nsell below cost. The market share of Aquarius, the price leader, will increase. \n \nFirms and Market Structures \nFaculty:                                                                         Page 11 of 16</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "24935f9b-cba5-4b5e-abc2-9382a43573c1",
+              "itemBody": "<p>A. increase.</p>",
+              "position": 1
+            },
+            {
+              "id": "1a3c07e8-a9ca-4cf7-945f-be5aa6772c48",
+              "itemBody": "<p>B. decrease.</p>",
+              "position": 2
+            },
+            {
+              "id": "5c94c26d-7e0f-4672-b83a-ce6031e6989f",
+              "itemBody": "<p>C. stay the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "24935f9b-cba5-4b5e-abc2-9382a43573c1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-13",
+      "entry": {
+        "title": "2027-Mod66-Q13",
+        "itemBody": "<p>Over time, the market share of the dominant company in an oligopolistic \nmarket will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The dominant company’s market share tends to decrease as profits  \nattract entry by other companies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9cd1093-c094-4607-bddc-a7d21169f3e5",
+              "itemBody": "<p>A. increase.</p>",
+              "position": 1
+            },
+            {
+              "id": "519207eb-2561-4d4f-809f-c7685ba2e604",
+              "itemBody": "<p>B. decrease.</p>",
+              "position": 2
+            },
+            {
+              "id": "ed008720-b4ab-44a5-8a09-58df6f5f37b6",
+              "itemBody": "<p>C. remain the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "519207eb-2561-4d4f-809f-c7685ba2e604"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-14",
+      "entry": {
+        "title": "2027-Mod66-Q14",
+        "itemBody": "<p>Successful advertising and product differentiation are most likely to have \na positive impact on the economic profits of a producer under:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Advertising and product differentiation are most likely to have a positive \nimpact on the economic profits of producers under monopolistic competition. The \nmonopoly aspect of this structure arises from the ability to differentiate its product.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "419e1760-81a6-469f-a3a0-362505db1276",
+              "itemBody": "<p>A. monopolistic competition.</p>",
+              "position": 1
+            },
+            {
+              "id": "a3ed2c81-ed25-423b-9367-e25a9cf8f812",
+              "itemBody": "<p>B. perfect competition.</p>",
+              "position": 2
+            },
+            {
+              "id": "617f0ec7-ca3b-44d8-9cb2-60d5d5c85e48",
+              "itemBody": "<p>C. monopoly. \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 3 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "419e1760-81a6-469f-a3a0-362505db1276"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-15",
+      "entry": {
+        "title": "2027-Mod66-Q15",
+        "itemBody": "<p>The two dominant supermarket chains in the area are attempting to \nincrease their market share by moving to 24-hour service instead of closing at 9 p.m. \nevery night. The strategic outcomes and payoff matrix that arise from their actions \nare depicted in the diagram (with the shaded sections representing payoffs for Chain \n2). \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe most likely Nash equilibrium strategy for the two chains is for:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Each company will consider the other’s reaction in selecting its strategy. \nUsing the following summary, it is best for both chains to provide 24-hour service. \nChain Consideration Best Decision \n  If it opens for 24 hours, it will see a higher \npayoff regardless of what Chain 2 does. \n \n  Chain 2 Chain 2  \n1 Closes at 9 p.m. Opens for 24 hours Open for 24 \nhours \n  Chain 1 earns 540 instead \nof 180 \nChain 1 earns 108 \ninstead of 55 \n \n  If it opens for 24 hours, it will see a higher \npayoff regardless of what Chain 1 does. \n \n  Chain 1 Chain 1  \n2 Chain 1 \nCloses at 9 p.m. \nChain 1 \nOpens for 24 hours \nOpen for 24 \nhours \n  Chain 2 earns 592 instead \nof 290 \nChain 2 earns 140 \ninstead of 75</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7330c70b-70ff-422a-b1a7-2f1262f1cb01",
+              "itemBody": "<p>A. both chains to open for 24 hours.</p>",
+              "position": 1
+            },
+            {
+              "id": "b6eb3946-08b6-49cf-9afa-898129926ed6",
+              "itemBody": "<p>B. only Chain 2 to open for 24 hours.</p>",
+              "position": 2
+            },
+            {
+              "id": "0abc4b5f-a0a5-4f1c-b73a-a1d0489544c8",
+              "itemBody": "<p>C. both chains to close at 9 p.m.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7330c70b-70ff-422a-b1a7-2f1262f1cb01"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-16",
+      "entry": {
+        "title": "2027-Mod66-Q16",
+        "itemBody": "<p>Six companies in an industry have the following market shares: \nCompany A B C D E F \nMarket Share (%) 30 25 16 12 10 7 \n \nIf Companies D and F merge into a new Company, G, the industry’s three -company \nconcentration ratio would be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The concentration ratio for the top three companies would be 74%: \nA (30%) + B (25%) + G (12% + 7%).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5f6660fa-267a-4e9e-8b8f-d893cc7381ae",
+              "itemBody": "<p>A. 71%.</p>",
+              "position": 1
+            },
+            {
+              "id": "6876a861-4475-43e0-ae6e-116e674f2d4a",
+              "itemBody": "<p>B. 72%.</p>",
+              "position": 2
+            },
+            {
+              "id": "89568f45-1573-4013-959c-ab04b68a39c4",
+              "itemBody": "<p>C. 74%. \n \n \n \n \n \n \n \n \n \n \n \n\nFirms and Market Structures \nFaculty:                                                                         Page 4 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "89568f45-1573-4013-959c-ab04b68a39c4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-17",
+      "entry": {
+        "title": "2027-Mod66-Q17",
+        "itemBody": "<p>Assume that two firms in a duopoly enter into a collusive agreement in an \nattempt to form a cartel and restrict output, raise prices, and increase profits. \nAccording to the Nash equilibrium, a low price is most likely charged by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The market outcomes for two firms in a duopoly is shown in the diagram. \nThe lower left hand quadrant is the Nash solution when there is no collusion. However, \nwith collusion, if ArcCo shares at least enough of its profit in the bottom right \nquadrant to provide BatCo more than it would receive in the lower left, it will be the \noptimal solution for the pair: the maximum joint profits will arise where both firms \ncharge high prices for the product. \n \n \n \n \n \n \n \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 12 of 16</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7f6ab1af-1b6a-419b-9860-91829ef6d7de",
+              "itemBody": "<p>A. only one firm.</p>",
+              "position": 1
+            },
+            {
+              "id": "9f5422e0-ee02-4269-be15-8e1002e31f00",
+              "itemBody": "<p>B. both firms.</p>",
+              "position": 2
+            },
+            {
+              "id": "c8ff800e-8f36-45f4-9d0a-bf156b9a2e13",
+              "itemBody": "<p>C. neither firm.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c8ff800e-8f36-45f4-9d0a-bf156b9a2e13"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-18",
+      "entry": {
+        "title": "2027-Mod66-Q18",
+        "itemBody": "<p>Which characteristic is a firm least likely to exhibit if it faces a downward \nsloping demand curve for its product(s), many competitors, and zero economic profits \nin the long run?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The characteristics of monopolistic competition include a large number \nof competitors, low pricing power, and the production of differentiated products \n(through advertising and other non -price strategies), but these still result in some \npricing power. The ease of entry results in zero economic profits in the long run.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f75e5cc5-1c82-44f0-9958-956638b8c978",
+              "itemBody": "<p>A. No pricing power</p>",
+              "position": 1
+            },
+            {
+              "id": "6f45fbd8-b642-4b10-82d6-81d408ae904a",
+              "itemBody": "<p>B. Low barriers to entry</p>",
+              "position": 2
+            },
+            {
+              "id": "ba6e4693-567a-4b31-b899-ab3cf7dbbf64",
+              "itemBody": "<p>C. Differentiated product</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f75e5cc5-1c82-44f0-9958-956638b8c978"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-19",
+      "entry": {
+        "title": "2027-Mod66-Q19",
+        "itemBody": "<p>With its existing production facilities, a monopolist firm can produce up \nto 100 units. It faces the following demand and cost schedules: \nOutput (Units) Price ($/Unit) Total Costs ($) \n0 3,000 600 \n20 2,800 10,600 \n40 2,600 32,600 \n60 2,400 66,600 \n80 2,200 112,600 \n100 2,000 170,600 \n \nThe optimal output level for this producer (in units) is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The optimal output level is 60 units because that level produces the \nhighest profit: \nOutput \n(Units) \nPrice \n($/Unit) \nTotal \nRevenue ($) \nTotal Costs \n($) Profit ($) \n20 2,800 56,000 10,600 45,400 \n40 2,600 1,04,000 32,600 71,400 \n60 2,400 1,44,000 66,600 77,400 \n80 2,200 1,76,000 1,12,600 63,400 \n100 2,000 2,00,000 1,70,600 29,400</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "09f4646c-823c-4496-bd85-8e103d9e921a",
+              "itemBody": "<p>A. 100.</p>",
+              "position": 1
+            },
+            {
+              "id": "5c480f39-ad06-433b-9150-517f145238cd",
+              "itemBody": "<p>B. 60.</p>",
+              "position": 2
+            },
+            {
+              "id": "d77b948b-951a-44c3-b7a0-9f66f8f9bfde",
+              "itemBody": "<p>C. 20. \n \n\nFirms and Market Structures \nFaculty:                                                                         Page 5 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5c480f39-ad06-433b-9150-517f145238cd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-20",
+      "entry": {
+        "title": "2027-Mod66-Q20",
+        "itemBody": "<p>Three firms operate under perfect competition, producing 900 units of \nthe same product but using different production technologies. Each company’s cost \nstructure is indicated in the table: \nCompany X Y Z \nTotal Variable Costs $2,700 $3,600 $4,500 \nTotal Fixed Costs 2,700 1,800 900 \nTotal Costs $5,400 $5,400 $5,400 \n \nWhich of the following statements is most accurate? If the unit selling price is:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Revenue–Cost Relationship Short-Run Decision Long-Term Decision \nTR ≥ TC Stay in market Stay in market \nTR > TVC but TR < TFC + TVC Stay in market Exit market \nTR < TVC Shut down production Exit market \n \nTR = Total Revenue; TC = Total Costs; TVC = Total Variable Costs; TFC = Total Fixed \nCosts \nHence, if the selling price is $3.00, total revenue for all firms will be $3.00/unit × \n900 units = $2,700. Only Firm X’s variable costs are covered and it should continue \noperating, while Firms Y and Z should immediately shut down production.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "afc1ed3f-61c5-4305-a257-ab851d49d4eb",
+              "itemBody": "<p>A. $6.00, all firms should exit the market in the long run.</p>",
+              "position": 1
+            },
+            {
+              "id": "05e93c78-0ea3-40ad-8f52-9e4c4e6d0720",
+              "itemBody": "<p>B. $4.50, all firms should continue to operate in the short run, but exit the market \nin the long run if these conditions are expected to persist.</p>",
+              "position": 2
+            },
+            {
+              "id": "3daf98ff-e1b8-4e91-a317-d226cc3318dd",
+              "itemBody": "<p>C. $3.00, Firm X should continue to operate in the short run, but Firms Y and Z \nshould shut down production.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3daf98ff-e1b8-4e91-a317-d226cc3318dd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-21",
+      "entry": {
+        "title": "2027-Mod66-Q21",
+        "itemBody": "<p>Which of the following statements about a downward -sloping long -run \naverage cost (LRAC) curve is most accurate? A downward -sloping LRAC curve is \nrepresentative of a firm experiencing:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. When the LRAC curve is downward sloping, it means the firm is producing \nunits at lower average costs per unit as production levels rise. This situation \nrepresents economies of scale in production.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a2e468ff-958f-4675-81d7-4665a5adc4ec",
+              "itemBody": "<p>A. economies of scale.</p>",
+              "position": 1
+            },
+            {
+              "id": "97035dc7-9de7-4816-aa72-011c76cec686",
+              "itemBody": "<p>B. diseconomies of scale.</p>",
+              "position": 2
+            },
+            {
+              "id": "e1591397-86bf-45ee-b7c1-5f3e9f0eb18b",
+              "itemBody": "<p>C. decreasing levels of investment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a2e468ff-958f-4675-81d7-4665a5adc4ec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-22",
+      "entry": {
+        "title": "2027-Mod66-Q22",
+        "itemBody": "<p>Firms operating under a monopolistic competition market structure most \nlikely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because under monopolistic competition, the products offered by each \nseller are close substitutes for the products offered by other firms, and each firm \ntries to make its product look different.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e7108ae-3376-48d5-a994-439eee9ac73c",
+              "itemBody": "<p>A. have few competitors.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4566d96-285a-44bd-8821-0c57acb78227",
+              "itemBody": "<p>B. benefit from high barriers to entry.</p>",
+              "position": 2
+            },
+            {
+              "id": "614959e1-f2b4-4975-8fc0-872367e1bfdf",
+              "itemBody": "<p>C. sell products that are close substitutes for those offered by other firms.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "614959e1-f2b4-4975-8fc0-872367e1bfdf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-23",
+      "entry": {
+        "title": "2027-Mod66-Q23",
+        "itemBody": "<p>A market structure characterized by homogeneous/standardized \nproduct differentiation is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Perfect competition and oligopoly are characterized by \nhomogeneous/standardized product differentiation. \nMarket Structure Degree of Product Differentiation \nPerfect competition Homogeneous/standardized \nMonopolistic competition Differentiated \nOligopoly Homogeneous/standardized \nMonopoly Unique product \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 13 of 16</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "06e8a3f7-ad86-41d0-b447-c2a46e4504a5",
+              "itemBody": "<p>A. monopoly.</p>",
+              "position": 1
+            },
+            {
+              "id": "dac87886-f941-4503-9bbb-2c1b86ff0b99",
+              "itemBody": "<p>B. monopolistic competition.</p>",
+              "position": 2
+            },
+            {
+              "id": "bf36baaf-b211-4ee8-be60-ded2c4d81bbb",
+              "itemBody": "<p>C. perfect competition and oligopoly.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bf36baaf-b211-4ee8-be60-ded2c4d81bbb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-24",
+      "entry": {
+        "title": "2027-Mod66-Q24",
+        "itemBody": "<p>In a perfectly competitive market, a firm's breakeven point is the \nminimum point of the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because economists refer to the minimum AVC point as the shutdown \npoint and the minimum ATC point as the breakeven point.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "af284c4b-d97e-4ff0-91f4-d9703a63743a",
+              "itemBody": "<p>A. average total cost curve.</p>",
+              "position": 1
+            },
+            {
+              "id": "08d3e5aa-47a2-472f-a8bd-db2af3712897",
+              "itemBody": "<p>B. average fixed cost curve.</p>",
+              "position": 2
+            },
+            {
+              "id": "0bc56263-6807-423e-9abc-ad041fdb73b4",
+              "itemBody": "<p>C. average variable cost curve.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "af284c4b-d97e-4ff0-91f4-d9703a63743a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-25",
+      "entry": {
+        "title": "2027-Mod66-Q25",
+        "itemBody": "<p>In the long run, a monopolistically competitive firm: \nFirms and Market Structures \nFaculty:                                                                         Page 6 of 16</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because in the hybrid market of monopolistic competition, zero economic \nprofit in long-run equilibrium resembles perfect competition. However, the long -run \nlevel of output, Q1, is less than Q2, which corresponds to the minimum average cost \nof production an d would be the long -run level of output in a perfectly competitive \nmarket.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e79c9a52-240c-4742-a85c-1867890f5b7b",
+              "itemBody": "<p>A. earns positive economic profits.</p>",
+              "position": 1
+            },
+            {
+              "id": "759a3eba-0967-455f-b3ba-4acf374b985d",
+              "itemBody": "<p>B. faces a perfectly elastic demand curve.</p>",
+              "position": 2
+            },
+            {
+              "id": "3240217a-160e-4eec-ba71-baebecd92f6a",
+              "itemBody": "<p>C. produces at a higher level of average cost than the minimum average cost.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3240217a-160e-4eec-ba71-baebecd92f6a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-26",
+      "entry": {
+        "title": "2027-Mod66-Q26",
+        "itemBody": "<p>In an oligopoly market, which of the following best describes the \nsituation when firms have no incentive to deviate from their current pricing \nstrategy based on the anticipated choices of competitors?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the Nash equilibrium is present when two or more participants in \na non - cooperative game have no incentive to deviate from their respective \nequilibrium strategies after they have considered and anticipated their opponent’s \nrational choices or strategies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1a6c1ff4-8d44-4acc-853d-4823c723d29e",
+              "itemBody": "<p>A. The Nash equilibrium</p>",
+              "position": 1
+            },
+            {
+              "id": "1fa34b87-390f-460b-998c-6e75bd8699e0",
+              "itemBody": "<p>B. The Stackelberg model</p>",
+              "position": 2
+            },
+            {
+              "id": "5b77deb5-0383-4512-82c3-2e86939955b0",
+              "itemBody": "<p>C. Pricing interdependence</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1a6c1ff4-8d44-4acc-853d-4823c723d29e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-27",
+      "entry": {
+        "title": "2027-Mod66-Q27",
+        "itemBody": "<p>In which of the following market structures does marginal revenue equal \nprice?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because only in perfect competition does the marginal revenue equal \nprice. In the remaining structures, price generally exceeds marginal revenue because \na firm can sell more units only by reducing the per unit price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "daea5dad-cca3-46fa-9353-f19290c1c864",
+              "itemBody": "<p>A. Oligopoly</p>",
+              "position": 1
+            },
+            {
+              "id": "6840a21c-5635-43b4-9ada-22e26c1ffe26",
+              "itemBody": "<p>B. Monopoly</p>",
+              "position": 2
+            },
+            {
+              "id": "e4bb4651-e433-4693-8e6b-673aad7e98c3",
+              "itemBody": "<p>C. Perfect competition</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e4bb4651-e433-4693-8e6b-673aad7e98c3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-28",
+      "entry": {
+        "title": "2027-Mod66-Q28",
+        "itemBody": "<p>The perfectly competitive firm's supply curve is its long-run:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the long-run marginal cost schedule is the perfectly competitive \nfirm's supply curve.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65015969-3728-4419-8edd-cbe355b55b4c",
+              "itemBody": "<p>A. marginal cost schedule.</p>",
+              "position": 1
+            },
+            {
+              "id": "e52cad50-9388-4255-ab54-fad41a54d3af",
+              "itemBody": "<p>B. average revenue schedule.</p>",
+              "position": 2
+            },
+            {
+              "id": "908ec556-e799-46f6-9bef-bc9e1f203df5",
+              "itemBody": "<p>C. average total cost schedule.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "65015969-3728-4419-8edd-cbe355b55b4c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-29",
+      "entry": {
+        "title": "2027-Mod66-Q29",
+        "itemBody": "<p>To calculate the Herfindahl–Hirschman index:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because to avoid the known issues with concentration ratios, economists \nO.C. Herfindahl and A.O. Hirschman suggested an index where the market shares of \nthe top N companies are first squared and then added.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92a05949-e7a6-45a7-8eba-88e53b3514cf",
+              "itemBody": "<p>A. add the market shares of the largest firms.</p>",
+              "position": 1
+            },
+            {
+              "id": "3ce535ac-cc76-4f24-ad0a-437c5d9a35f1",
+              "itemBody": "<p>B. add the market shares of the largest firms and then square the sum.</p>",
+              "position": 2
+            },
+            {
+              "id": "d53dab34-5ec8-4289-af10-0f80d0fa7b4c",
+              "itemBody": "<p>C. square the market shares of the largest firms and then add the results.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d53dab34-5ec8-4289-af10-0f80d0fa7b4c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-30",
+      "entry": {
+        "title": "2027-Mod66-Q30",
+        "itemBody": "<p>An analyst gathers the following information about three markets: \n  Number of \nSellers \nNon-Price \nCompetition \nMarket 1 Many None \nMarket 2 Few Strong \nMarket 3  Many Strong \n \nWhich market is most likely an oligopoly?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because in an oligopoly market  there are a small number of potential \nsellers and products are often highly differentiated through marketing, features, \nand other non-price strategies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c59b03f0-20ef-4a39-a9f5-62866c76d0b8",
+              "itemBody": "<p>A. Market 1</p>",
+              "position": 1
+            },
+            {
+              "id": "4a553353-1ef3-4089-917c-32e468d89c4e",
+              "itemBody": "<p>B. Market 2</p>",
+              "position": 2
+            },
+            {
+              "id": "478061b7-4e52-4d36-bf0c-93afb8dbcde1",
+              "itemBody": "<p>C. Market 3</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4a553353-1ef3-4089-917c-32e468d89c4e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-31",
+      "entry": {
+        "title": "2027-Mod66-Q31",
+        "itemBody": "<p>Monopolistic competition is best characterized by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for a monopolistically competitive firm: suppliers differentiate \ntheir products through advertising and other non-price strategies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3bc0fe7d-0783-4889-81e2-d5a025bd0212",
+              "itemBody": "<p>A. high barriers to entry and exit.</p>",
+              "position": 1
+            },
+            {
+              "id": "7f32c53d-e13d-40fa-a62c-0a126e86cc1a",
+              "itemBody": "<p>B. a small number of buyers and sellers.</p>",
+              "position": 2
+            },
+            {
+              "id": "6932c36a-292d-4486-b9da-b0ccdc2da1f8",
+              "itemBody": "<p>C. product differentiation through non-price strategies. \n \nFirms and Market Structures \nFaculty:                                                                         Page 7 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6932c36a-292d-4486-b9da-b0ccdc2da1f8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-32",
+      "entry": {
+        "title": "2027-Mod66-Q32",
+        "itemBody": "<p>If a perfectly competitive industry becomes monopolistically \ncompetitive, each firm's long-run average total cost per unit sold will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because unlike long-run equilibrium in perfect competition, in the market \nof monopolistic competition, the equilibrium position is at a higher level of average \ncost than the level of output that minimizes average cost. Average cost does not \nreach its minim um until output level Q2 is achieved.  Under perfect competition a \nproduct is produced at the efficient quantity (marginal revenue equals marginal cost) \nand average total cost is minimized. The demand faced by each firm is perfectly \nelastic (ho rizontal demand curve). However, under monopolistic competition the \ndemand curve is downward sloping and the quantity produced (marginal revenue equals \nmarginal cost) is not where average total cost is minimized. Thus, average total cost \nis lower under perfect competition.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c8afed9d-c1a1-4494-a8f2-bc859354357d",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "4629e46b-600b-4120-9acd-ce3adaf038d7",
+              "itemBody": "<p>B. remain the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "86e537fb-1904-4853-96a5-f6e3e9f257df",
+              "itemBody": "<p>C. increase.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "86e537fb-1904-4853-96a5-f6e3e9f257df"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-33",
+      "entry": {
+        "title": "2027-Mod66-Q33",
+        "itemBody": "<p>If a monopolistically competitive industry becomes perfectly \ncompetitive, each firm's long-run average total cost per unit sold will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because under perfect competition a product is produced at the efficient \nquantity (marginal revenue equals marginal cost) and the average total cost is \nFirms and Market Structures \nFaculty:                                                                         Page 14 of 16 \n \nminimized. The demand curve faced by each firm is perfectly elastic (horizontal \ndemand curve). However, under monopolistic competition the demand curve is \ndownward sloping and the quantity produced (marginal revenue equals marginal cost) \nis not where average total cost is minimized. Thus, average total cost is lower under \nperfect competition.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "76f5332f-b6a7-4d4b-a174-0f19c143cb16",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "6d969c15-6281-4f2e-b540-d70393f5f077",
+              "itemBody": "<p>B. remain the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "49200af9-cc5e-440f-9c47-1c0f5a8e12bb",
+              "itemBody": "<p>C. increase.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "76f5332f-b6a7-4d4b-a174-0f19c143cb16"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-34",
+      "entry": {
+        "title": "2027-Mod66-Q34",
+        "itemBody": "<p>In the short run, the shutdown point of a company with a total variable \ncost of $3 million and a total fixed cost of $5 million is when total revenue declines \nto:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because as long as the firm’s revenues cover  at least its variable cost, \nthe firm is better off continuing to operate. If price is greater than average variable \ncost (AVC), the firm is covering not only all of its variable cost but also a portion of \nfixed cost. Also, average revenue (AR) is revenue per unit.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b61d9215-9700-41f7-b7e6-6cda323734a5",
+              "itemBody": "<p>A. $3 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "da7a3110-7e36-4be2-b23d-394b2b5f2f8c",
+              "itemBody": "<p>B. $5 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "0285bba5-2a78-48fb-bcf1-caa1e51ca625",
+              "itemBody": "<p>C. $8 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b61d9215-9700-41f7-b7e6-6cda323734a5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-35",
+      "entry": {
+        "title": "2027-Mod66-Q35",
+        "itemBody": "<p>A firm in a market environment characterized by monopolistic \ncompetition is most likely to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. as the name implies, monopolistic competition is a hybrid market \nstructure. The most distinctive factor in monopolistic competition is product \ndifferentiation. Although the market is made up of many firms that compose the \nproduct group, each producer attempt s to distinguish its product from that of the \nothers, and product differentiation is accomplished in a variety of ways.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0e90d964-e61e-4e4a-8bcc-f83ba16cd5ae",
+              "itemBody": "<p>A. continue to experience economic profit in the long run.</p>",
+              "position": 1
+            },
+            {
+              "id": "f6e1f6d1-5680-4e6e-abbd-7c55f6172f88",
+              "itemBody": "<p>B. have a well-defined supply function reflecting its marginal and average costs.</p>",
+              "position": 2
+            },
+            {
+              "id": "f73f118d-3995-4079-99c9-fba76adfb8ff",
+              "itemBody": "<p>C. have many competitors each following its own product differentiation strategy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f73f118d-3995-4079-99c9-fba76adfb8ff"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-36",
+      "entry": {
+        "title": "2027-Mod66-Q36",
+        "itemBody": "<p>In long-run equilibrium, the perfectly competitive firm's supply curve \nis best represented by the firm's long-run:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the long-run marginal cost schedule is the perfectly competitive \nfirm’s supply curve. The firm’s demand curve is dictated by the aggregate market’s \nequilibrium price. The basic rule of profit maximization is that MR = MC, as is the \ncase in long-run equilibrium.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1f9c35d8-b43c-4d72-b22e-c12f4dd94f8f",
+              "itemBody": "<p>A. marginal cost schedule.</p>",
+              "position": 1
+            },
+            {
+              "id": "7c9b034e-bde7-4106-a178-e9da93efb6d7",
+              "itemBody": "<p>B. average revenue schedule.</p>",
+              "position": 2
+            },
+            {
+              "id": "af714a22-e42e-4369-9abe-afe92423c792",
+              "itemBody": "<p>C. marginal revenue schedule.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1f9c35d8-b43c-4d72-b22e-c12f4dd94f8f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-37",
+      "entry": {
+        "title": "2027-Mod66-Q37",
+        "itemBody": "<p>Under monopolistic competition, a firm's supply curve is represented by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because in perfect competition, the firm’s supply schedule is represented \nby the marginal cost schedule. In monopolistic competition, there is no well -defined \nsupply function. The information used to determine the appropriate level of output is \nbased on the intersection of MC and MR. However, the price that will be charged is \nbased on the market demand schedule. The firm’s supply curve should measure the \nquantity the firm is willing to supply at various prices. That information is not \nrepresented by either marginal cost or average cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c3465125-4022-4b57-b437-57d5374ba8cc",
+              "itemBody": "<p>A. average cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "d76a59e7-5a25-434e-86ad-6ad45db5a188",
+              "itemBody": "<p>B. marginal cost.</p>",
+              "position": 2
+            },
+            {
+              "id": "61072b62-1f2a-4cae-a6aa-6989fc180349",
+              "itemBody": "<p>C. neither average cost nor marginal cost.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "61072b62-1f2a-4cae-a6aa-6989fc180349"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-38",
+      "entry": {
+        "title": "2027-Mod66-Q38",
+        "itemBody": "<p>Under which of the following market structures are pricing \nstrategies most likely influenced by the expected reaction of other firms?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the oligopoly market structure is based on a relatively small \nnumber of firms supplying the market. The small number of firms in the market means \nthat each firm must consider what retaliatory strategies the other firms will pursue \nwhen prices and production levels change. Consider the pricing behavior of commercial \nairline companies. Pricing strategies and route scheduling are based on the expected \nreaction of the other carriers in similar markets.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "72859e38-b2ca-49f6-8e36-94c5210aeb57",
+              "itemBody": "<p>A. Oligopoly</p>",
+              "position": 1
+            },
+            {
+              "id": "7e2b9198-fdf6-46e4-918a-decc3e563bb9",
+              "itemBody": "<p>B. Perfect competition</p>",
+              "position": 2
+            },
+            {
+              "id": "c6b0d862-8da5-4dae-8096-dfbb3af233cc",
+              "itemBody": "<p>C. Monopolistic competition</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "72859e38-b2ca-49f6-8e36-94c5210aeb57"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-39",
+      "entry": {
+        "title": "2027-Mod66-Q39",
+        "itemBody": "<p>Each oligopoly firm faces an individual demand curve under: \nFirms and Market Structures \nFaculty:                                                                         Page 8 of 16</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because in an oligopoly market where collusion is present, the aggregate \nmarket demand curve is divided up by the individual production participants. Under \nnon-colluding market conditions, each firm faces an individual demand curve.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2e5ff396-17d2-43eb-a350-c1006a675e08",
+              "itemBody": "<p>A. colluding market conditions only.</p>",
+              "position": 1
+            },
+            {
+              "id": "ea148825-2223-4feb-8b40-689eadfa1516",
+              "itemBody": "<p>B. non-colluding market conditions only.</p>",
+              "position": 2
+            },
+            {
+              "id": "0c9253f9-343c-4671-8f1a-7c905d834f20",
+              "itemBody": "<p>C. both colluding and non-colluding market conditions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ea148825-2223-4feb-8b40-689eadfa1516"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-40",
+      "entry": {
+        "title": "2027-Mod66-Q40",
+        "itemBody": "<p>In theory, under which of the following market structures do firms have \nthe least control over price?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because from the perspective of the owners of the firm, the most \ndesirable market structure is that with the most control over price, because this \ncontrol can lead to large profits. Monopoly and oligopoly markets offer the greatest \nFirms and Market Structures \nFaculty:                                                                         Page 15 of 16 \n \npotential control over price; monopolistic competition offers less control. Firms \noperating under perfectly competitive market conditions have no control over price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "527e7a8b-3479-40f2-89f7-8d17eb8361fc",
+              "itemBody": "<p>A. Oligopoly</p>",
+              "position": 1
+            },
+            {
+              "id": "f2c078f5-e3b1-4f32-8002-b9879c7fd0e0",
+              "itemBody": "<p>B. Monopoly</p>",
+              "position": 2
+            },
+            {
+              "id": "4578dcf5-36f9-4cc7-93ec-eff5e1d59bcb",
+              "itemBody": "<p>C. Monopolistic competition</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4578dcf5-36f9-4cc7-93ec-eff5e1d59bcb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-41",
+      "entry": {
+        "title": "2027-Mod66-Q41",
+        "itemBody": "<p>According to the Cournot assumption, in an oligopoly market each firm \ndetermines its profit-maximizing production level by assuming that other firms will:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because in the Cournot assumption, each firm determines its profit -\nmaximizing production level by assuming that the other firms' output will not change. \nThis assumption simplifies pricing strategy because there is no need to guess what \nthe other firm will do to retaliate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "edac52d3-1e91-4806-9c2b-2fa0c089ec2e",
+              "itemBody": "<p>A. decrease output.</p>",
+              "position": 1
+            },
+            {
+              "id": "88ff69c6-ab1c-4aea-a7a7-bab7f202dd5a",
+              "itemBody": "<p>B. not change output.</p>",
+              "position": 2
+            },
+            {
+              "id": "52b5a00e-605f-4704-a836-1bc1fc253d5f",
+              "itemBody": "<p>C. increase output.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "88ff69c6-ab1c-4aea-a7a7-bab7f202dd5a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-42",
+      "entry": {
+        "title": "2027-Mod66-Q42",
+        "itemBody": "<p>Which of the following indicators suggest(s) a monopoly market?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the concentration ratio is the sum of the market shares of the \nlargest N firms. This number is always between zero (perfect competition) and 100 \npercent (monopoly).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a6c72b76-1e02-420a-9909-9784988a6a19",
+              "itemBody": "<p>A. A concentration ratio of 100% only</p>",
+              "position": 1
+            },
+            {
+              "id": "f38b4053-aa50-4a79-991e-3140cfbe75cc",
+              "itemBody": "<p>B. A Herfindahl–Hirschman index of zero only</p>",
+              "position": 2
+            },
+            {
+              "id": "db7500dd-aa05-4431-97cb-d8f4382c4be1",
+              "itemBody": "<p>C. Both a concentration ratio of 100% and a Herfindahl–Hirschman index of zero</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a6c72b76-1e02-420a-9909-9784988a6a19"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-43",
+      "entry": {
+        "title": "2027-Mod66-Q43",
+        "itemBody": "<p>The Herfindahl–Hirschman index is calculated based on:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because in calculating the Herfindahl –Hirschman index the market \nshares of the top N companies are first squared and then added. If one firm controls \nthe whole market (a monopoly), the Herfindahl –Hirschman index (HHI) equals 1. If \nthere are M firms in the  industry with equal market shares, then the HHI equals \n(1/M).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "49364104-7270-44b9-8151-e9ca3cf9f39e",
+              "itemBody": "<p>A. market shares of the companies.</p>",
+              "position": 1
+            },
+            {
+              "id": "5dc655d3-6bc6-4e05-8b69-acab06555720",
+              "itemBody": "<p>B. elasticity of demand in the market.</p>",
+              "position": 2
+            },
+            {
+              "id": "d55b36be-4ce5-456e-af8b-b6d1fc069a2e",
+              "itemBody": "<p>C. probability of new entry into the market.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "49364104-7270-44b9-8151-e9ca3cf9f39e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-44",
+      "entry": {
+        "title": "2027-Mod66-Q44",
+        "itemBody": "<p>Which of the following market structures has high barriers to entry?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the characteristics of oligopoly markets include: entry into the \nmarket is difficult, with fairly high costs and significant barriers to competition.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "616eef37-6906-42ff-8dcf-d667dff8f6ed",
+              "itemBody": "<p>A. An oligopoly</p>",
+              "position": 1
+            },
+            {
+              "id": "fa844223-f871-4531-a076-3f30838cc737",
+              "itemBody": "<p>B. Perfect competition</p>",
+              "position": 2
+            },
+            {
+              "id": "c66b716e-b9e4-431c-811a-bce5b821c06c",
+              "itemBody": "<p>C. Monopolistic competition</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "616eef37-6906-42ff-8dcf-d667dff8f6ed"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-45",
+      "entry": {
+        "title": "2027-Mod66-Q45",
+        "itemBody": "<p>Under which of the following market structures is product \ndifferentiation most important?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because monopolistic competition is also highly competitive; however, it \nis considered a form of imperfect competition. The competitive characteristic is a \nnotably large number of firms, while the monopoly aspect is the result of product \ndifferentiation. That is, if the seller can convince consumers that its product is \nuniquely different from other, similar products, then the seller can exercise some \ndegree of pricing power over the market.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d7d84618-a19d-443b-832a-23798eb67ea2",
+              "itemBody": "<p>A. Monopoly</p>",
+              "position": 1
+            },
+            {
+              "id": "d17212cc-a25a-4e17-9096-4b31711ca2a1",
+              "itemBody": "<p>B. Perfect competition</p>",
+              "position": 2
+            },
+            {
+              "id": "a327434a-9407-4dd3-8d00-d2ceaf175315",
+              "itemBody": "<p>C. Monopolistic competition</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a327434a-9407-4dd3-8d00-d2ceaf175315"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-46",
+      "entry": {
+        "title": "2027-Mod66-Q46",
+        "itemBody": "<p>An analyst gathers the following information (in $ millions) about a firm \noperating in a perfectly competitive market: \nTotal variable costs 700 \nTotal fixed costs 400 \n \nIf the firm's total revenue is $1,000 million, the firm should: \nFirms and Market Structures \nFaculty:                                                                         Page 9 of 16</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because when TR total revenue is enough to cover TVC (total variable \ncosts) but not all of TFC total fixed costs, the firm can continue to produce in the \nshort run but will be unable to maintain financial solvency in the long run. TR is $1,000 \nwhich is greater than TVC of $700, but not enough to cover the firm's TFC of $400. \nTherefore, the firm will exit the market in the long run.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a838c97a-d965-4271-94ca-5e6ea7b211fd",
+              "itemBody": "<p>A. stay in the market in both the short run and long run.</p>",
+              "position": 1
+            },
+            {
+              "id": "c71c9619-5bf4-4d83-95de-e2430eb391df",
+              "itemBody": "<p>B. stay in the market in the short run and exit the market in the long run.</p>",
+              "position": 2
+            },
+            {
+              "id": "7569ccb2-bd39-4264-bf3e-bcad3c5456da",
+              "itemBody": "<p>C. shut down production in the short run and exit the market in the long run.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c71c9619-5bf4-4d83-95de-e2430eb391df"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-47",
+      "entry": {
+        "title": "2027-Mod66-Q47",
+        "itemBody": "<p>A perfectly competitive market structure:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because profits under the conditions of perfect competition are driven \nto the required rate of return paid by the entrepreneur to borrow capital from \ninvestors (so-called normal profit or rental cost of capital).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d2a928ad-afad-43e5-a022-27152f18b38c",
+              "itemBody": "<p>A. is not possible in reality.</p>",
+              "position": 1
+            },
+            {
+              "id": "555665f6-b2a7-40b2-8ab1-661383076dcb",
+              "itemBody": "<p>B. causes all industries to ultimately fail due to lack of profits.</p>",
+              "position": 2
+            },
+            {
+              "id": "f46a4e39-e9ed-44fd-b6ed-d9f5199c9344",
+              "itemBody": "<p>C. drives company profits to the investors' required rate of return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f46a4e39-e9ed-44fd-b6ed-d9f5199c9344"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-48",
+      "entry": {
+        "title": "2027-Mod66-Q48",
+        "itemBody": "<p>In the short run, a firm most likely shuts down production when:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the firm must cover its variable cost to remain in business in the \nshort run. If TR cannot cover TVC, the firm shuts down production to minimize loss. \nThe loss would be equal to the amount of fixed cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6fdb135b-549a-4f36-bc05-c6f63129ef64",
+              "itemBody": "<p>A. economic profit is zero.</p>",
+              "position": 1
+            },
+            {
+              "id": "0dd133b9-5f88-44d9-bf79-0b926dfcacd6",
+              "itemBody": "<p>B. sunk costs are greater than total revenue.</p>",
+              "position": 2
+            },
+            {
+              "id": "a5c9e0a2-8a79-4f8f-9d1b-743e3c5cb92e",
+              "itemBody": "<p>C. total revenue is less than total variable cost.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a5c9e0a2-8a79-4f8f-9d1b-743e3c5cb92e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-49",
+      "entry": {
+        "title": "2027-Mod66-Q49",
+        "itemBody": "<p>A disadvantage of the concentration ratio is that it:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because a disadvantage of the concentration ratio is that it tends to be \nunaffected by mergers among the top market incumbents. For example, if the largest \nand second-largest incumbents merge, the pricing power of the combined entity is \nFirms and Market Structures \nFaculty:                                                                         Page 16 of 16 \n \nlikely to be larger than that of the two pre-existing companies. But the concentration \nratio may not change much.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8691cbb5-3a6c-417c-acf9-d1c7e351bd10",
+              "itemBody": "<p>A. requires a large number of time-series observations.</p>",
+              "position": 1
+            },
+            {
+              "id": "33228644-b6cf-449a-aa8b-444e92218a17",
+              "itemBody": "<p>B. is largely unaffected by mergers among the top market incumbents.</p>",
+              "position": 2
+            },
+            {
+              "id": "eed58d90-9b7b-4408-b12a-583ef682e92b",
+              "itemBody": "<p>C. requires the specification of the explanatory variables used in regression \nanalysis.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "33228644-b6cf-449a-aa8b-444e92218a17"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-66-50",
+      "entry": {
+        "title": "2027-Mod66-Q50",
+        "itemBody": "<p>A manufacturing company expanded in a new region by setting up local \nassembly lines and hiring local staff. Two years later, the company's sale had grown \nas expected but operating margin had shrunk from 15 to 12 percent. The company:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the company is most likely suffering from diseconomies of scale. \nIt is having to duplicate all costs in each location, and by targeting different \ndemographics, it has added additional costs for inputs and marketing. Therefore, the \ncompany’s fixed costs have increased faster than output, and the economic result is \ndiseconomies of scale.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1311f289-77ec-44cb-a501-cfa58990eda0",
+              "itemBody": "<p>A. has yet to reach its breakeven volume.</p>",
+              "position": 1
+            },
+            {
+              "id": "5551c5b6-0fe6-4f7d-832a-de8a69deafd7",
+              "itemBody": "<p>B. is suffering from diseconomies of scale.</p>",
+              "position": 2
+            },
+            {
+              "id": "ac846821-6b15-4f71-8435-cf27ec63d314",
+              "itemBody": "<p>C. has reached its minimum efficient scale \n \n \n \nSUMMARY: - \n \n(LOS 12.a): - 1,2,3,4,5,6,7,8,9,10,20,21,24,34,46,48,50. \n(LOS 12.b): - 11,14,18,19,22,23,25,27,28,31,35,36,40,44,45,47. \n(LOS 12.c): - 32,33,37. \n(LOS 12.d): - 12,13,15,17,26,38,39,41. \n(LOS 12.e): - 16,29,30,42,43,49. \n \n \n \n \n \n \n \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 10 of 16</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5551c5b6-0fe6-4f7d-832a-de8a69deafd7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 50
+}

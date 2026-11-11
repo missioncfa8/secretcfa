@@ -1,0 +1,1598 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6416,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 33,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 5: Ethics Application",
+    "topic_id": 1040,
+    "topic": "CFA-26-02-LI-C: Ethical and Professional Standards",
+    "subtopic_id": 6416,
+    "subtopic": "Module 5: Ethics Application",
+    "question_count": 33,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 847,
+        "name": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+        "code": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+        "module_id": 4761,
+        "question_count": 3,
+        "type": "practice_pack"
+      },
+      {
+        "id": 856,
+        "name": "Warehouse Course: Ethical and Professional Standards 26-LI",
+        "code": "Warehouse Course: Ethical and Professional Standards 26-LI",
+        "module_id": 5721,
+        "question_count": 3,
+        "type": "warehouse"
+      }
+    ],
+    "instructions": [
+      "",
+      ""
+    ],
+    "points_possible": 33.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "94d602a916f2a62d",
+    "ordered_item_ids": [
+      "56490",
+      "56491",
+      "56492",
+      "54046",
+      "54047",
+      "54048"
+    ],
+    "visible_item_ids": [
+      "56490",
+      "56491",
+      "56492",
+      "54046",
+      "54047",
+      "54048"
+    ]
+  },
+  "items": [
+    {
+      "id": "56490",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Blasky-17",
+        "feedback": {},
+        "itemBody": "<p>Elana Paralova, a Level I&nbsp;CFA candidate working&nbsp;at an asset management firm, wants to make a good impression on a prospective client. She tells the prospect: \"Getting the CFA Charter will show&nbsp;I am serious about protecting the interests of my clients and it will boost&nbsp;my reputation. Once I get the Charter,&nbsp;I also hope to make&nbsp;more money by getting promoted!\"&nbsp;Her colleague, Jacob Klemmer, CFA,&nbsp;tells Paralova: \"Study all subjects for each exam, you never know what will be included.&nbsp;The three exams&nbsp;will be the most difficult exams you will ever take. Any promotion and pay raise will reflect your enhanced skills.\" Did either Paralova or Klemmer&nbsp;violate the Standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "02f5fa0c-894f-437b-bc7c-1e31dd1691a9"
+        },
+        "answerFeedback": {
+          "02f5fa0c-894f-437b-bc7c-1e31dd1691a9": "<p>Correct because neither Paralova or Klemmer violated CFA Standards through their statements.&nbsp; Paralova did not violate Standard VII(B) Reference to CFA Institute, the CFA Designation, and the CFA Program when she made her comments about what getting the Charter will reflect and the hope for a pay raise. The Standard states, When referring to CFA Institute, CFA Institute membership, the CFA designation, or candidacy in the CFA Program, Members and Candidates must not misrepresent or exaggerate the meaning or implications of membership in CFA Institute, holding the CFA designation, or candidacy in the CFA program. Klemmer did not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, and the CFA Program when he expressed his opinion that Paralova's potential pay raise will reflect her enhanced skills. Klemmer also complied with Standard VII(A) Responsibilities as a CFA Institute Member or CFA Candidate, Conduct as Participants in CFA Institute Programs when stating an opinion about the difficulty of the exam without revealing any specific details or the need to study all subjects. The Standard states that candidates must not engage in any conduct that compromises the integrity, validity, or security of CFA Institute programs.</p>",
+          "7b6617db-efbe-4b88-a6fe-85ef80643b26": "<p>Incorrect as&nbsp;Paralova did not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, and the CFA Program when she made her comments about what getting the Charter will reflect and the hope for a pay raise. The Standard states, When referring to CFA Institute, CFA Institute membership, the CFA designation, or candidacy in the CFA Program, Members and Candidates must not misrepresent or exaggerate the meaning or implications of membership in CFA Institute, holding the CFA designation, or candidacy in the CFA program.</p>",
+          "fb6c5a43-138a-41fe-a03d-85ab7cefcddf": "<p>Incorrect as Klemmer did not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, and the CFA Program when he expressed his opinion that Paralova's potential pay raise will reflect her enhanced skills.&nbsp; &nbsp;Klemmer also complied with Standard VII(A): Responsibilities as a CFA Institute Member or CFA Candidate, Conduct as Participants in CFA Institute Programs when stating an opinion about the difficulty of the exam without revealing any specific details or the need to study all subjects. The Standard states that candidates must not engage in any conduct that compromises the integrity, validity, or security of CFA Institute programs.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "02f5fa0c-894f-437b-bc7c-1e31dd1691a9",
+              "itemBody": "<p>A. No.</p>",
+              "position": 1
+            },
+            {
+              "id": "7b6617db-efbe-4b88-a6fe-85ef80643b26",
+              "itemBody": "<p>B. Only Paralova violates the Standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "fb6c5a43-138a-41fe-a03d-85ab7cefcddf",
+              "itemBody": "<p>C. Only Klemmer violates the Standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9022,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4761,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56491",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Augulyte-17",
+        "feedback": {},
+        "itemBody": "<p>Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping company. Kite concludes that the stock of a company is a good investment and decides to put a \"buy\" recommendation on the stock. According to the recommended procedures for compliance, Kite should communicate the recommendation:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2e6d59ee-2331-4860-9b1b-359e2520a700"
+        },
+        "answerFeedback": {
+          "2e6d59ee-2331-4860-9b1b-359e2520a700": "<p>Correct because according to the recommended procedures for compliance with Standard III (B), Fair Dealing, a common practice to assure fair dealing is to communicate recommendations simultaneously within the firm and to customers. Members and candidates should encourage firms to develop guidelines that prohibit personnel who have prior knowledge of an investment recommendation from discussing or taking any action on the pending recommendation. Members and candidates should encourage firms to develop guidelines that prohibit personnel who have prior knowledge of an investment recommendation from discussing or taking any action on the pending recommendation.</p>",
+          "4103e7f7-7e0d-4110-a629-8bf4337c276d": "<p>Incorrect because according to the recommended procedures for compliance with Standard III (B), Fair Dealing, a common practice to assure fair dealing is to communicate recommendations simultaneously within the firm and to customers.</p>",
+          "8c2c678a-1a7f-4c41-8f4e-cee42590e25e": "<p>Incorrect because according to the recommended procedures for compliance with Standard III (B), Fair Dealing, a common practice to assure fair dealing is to communicate recommendations simultaneously within the firm and to customers.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4103e7f7-7e0d-4110-a629-8bf4337c276d",
+              "itemBody": "<p>A. within the firm first and then to customers.</p>",
+              "position": 1
+            },
+            {
+              "id": "8c2c678a-1a7f-4c41-8f4e-cee42590e25e",
+              "itemBody": "<p>B. to customers first and then within the firm.</p>",
+              "position": 2
+            },
+            {
+              "id": "2e6d59ee-2331-4860-9b1b-359e2520a700",
+              "itemBody": "<p>C. simultaneously within the firm and to customers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9022,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4761,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56492",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Lee-05",
+        "feedback": {},
+        "itemBody": "<p>Tim Howley, CFA, “pumps up” the price of a security by spreading misleading information and later “dumps” the security after the price reaches an artificially high level. Howley has <i>most likely</i> violated the Standard relating to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1d03a750-825a-4a1d-b629-bbd054268a29"
+        },
+        "answerFeedback": {
+          "051782bf-cd44-40e1-b03f-6f81dc0cda71": "<p>Incorrect because according to Standard II(A), material nonpublic information, Members and Candidates who possess material nonpublic information that could affect the value of an investment must not act or cause others to act on the information.</p>",
+          "1d03a750-825a-4a1d-b629-bbd054268a29": "<p>Correct because according to the Standard II(B), market manipulation includes (1) the dissemination of false or misleading information. Also, information-based manipulation includes, but is not limited to, spreading false rumors to induce trading by others. For example, members and candidates must refrain from “pumping up” the price of an investment by issuing misleading positive information or overly optimistic projections of a security’s worth only to later “dump” the investment (i.e., sell it) once the price, fueled by the misleading information’s effect on other market participants, reaches an artificially high level.</p>",
+          "a4cf783f-948c-480a-a063-c325e725f3b4": "<p>Incorrect because according to Standard I(B), independence and objectivity, Members and Candidates must use reasonable care and judgment to achieve and maintain independence and objectivity in their professional activities. Members and Candidates must not offer, solicit, or accept any gift, benefit, compensation, or consideration that reasonably could be expected to compromise their own or another’s independence and objectivity.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1d03a750-825a-4a1d-b629-bbd054268a29",
+              "itemBody": "<p>A. market manipulation.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4cf783f-948c-480a-a063-c325e725f3b4",
+              "itemBody": "<p>B. independence and objectivity.</p>",
+              "position": 2
+            },
+            {
+              "id": "051782bf-cd44-40e1-b03f-6f81dc0cda71",
+              "itemBody": "<p>C. material nonpublic information.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9022,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4761,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54046",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Blasky-16",
+        "feedback": {},
+        "itemBody": "<p>Ann Macharia, CFA, is an independent consultant&nbsp;hired by&nbsp;MK Investment (MKI) to review its&nbsp;proposal to manage a large pension fund. While reviewing a draft of the document, Macharia notices a large section of material has been added to the proposal by MKI's CIO. The additional material looks exactly like what Macharia&nbsp;wrote for a previous client, describing the client's proprietary investment process.&nbsp;Macharia is <i>most likely </i>required to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "631bedf1-5ccb-446e-9317-01310d522539"
+        },
+        "answerFeedback": {
+          "06f7ba2a-c272-4431-b3d6-b4beb121553e": "<p>Incorrect, because making a few changes here and there would&nbsp;be insufficient to avoid the statement from being considered plagiarized or misrepresenting the firm's investment process by using a description of the&nbsp;previous client's proprietary investment process.&nbsp;Macharia has a duty to take the necessary action to prevent this unethical behavior. To do otherwise would cause her to violate Standard I(A) Knowledge of the Law and Standard I(C) Misrepresentation. Standard I(A) Knowledge of&nbsp;the Law states if&nbsp;a member has reasonable grounds to believe that ongoing&nbsp;activities within a firm are illegal or unethical, the member or candidate must dissociate, or separate, from the activity. When direct discussions with the person committing the violation are unsuccessful, the first step should be to attempt to stop the behavior by bringing it to the attention of the employer through a supervisor or the firm's compliance department.&nbsp;Standard I(C) Misrepresentation states Members and Candidates must not knowingly make any misrepresentations relating to investment analysis, recommendations, actions, or other professional activities.</p>",
+          "4265d465-a052-41ff-ad1c-1f5c9546fbb4": "<p>Incorrect, Standard I(A) Knowledge of&nbsp;the Law states if&nbsp;a member has reasonable grounds to believe that ongoing&nbsp;activities within a firm are illegal or unethical, the member or candidate must dissociate, or separate, from the activity. In this case, Macharia is required to protect the interests of her clients (Standard III(A) Loyalty, Prudence,&nbsp;and Care) by helping them avoid plagiarism and misrepresenting their investment process (Standard I(C) Misrepresentation).&nbsp; To most effectively do this, the&nbsp;first step should be to attempt to stop the behavior by bringing it to the attention of the employer (or client in this case) through a supervisor or the firm's compliance department.</p>",
+          "631bedf1-5ccb-446e-9317-01310d522539": "<p>Correct, because the identical material&nbsp;reflected in her previous client's proposal belongs to that client, even though she wrote it on their behalf as their consultant. To use&nbsp;it in its identical format would be considered plagiarism. In addition, the description also identifies a proprietary process and is therefore not applicable to her existing client's&nbsp;investment process. Consequently, to prevent violating Standard I(C) Misrepresentation the material should be removed. The Standard states Members and Candidates must not knowingly make any misrepresentations relating to investment analysis, recommendations, actions, or other professional activities.&nbsp;Standard I(C) Misrepresentation prohibits plagiarism in the preparation of material for distribution to employers, associates, clients, prospects, or the general public.&nbsp;Macharia should also report the use of plagiarized material to the client so they can take action to prevent the event&nbsp;being repeated in the future (Standard I(A) Knowledge of the Law). Allowing the use of plagiarized material&nbsp;reflects poorly on a firm and can hurt their reputation.&nbsp; By reporting to the client Macharia is also protecting the interests of her clients (Standard III(A) Loyalty, Prudence, and Care).&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "631bedf1-5ccb-446e-9317-01310d522539",
+              "itemBody": "<p>A. remove the added material and&nbsp;report her suspicions to MKI.</p>",
+              "position": 1
+            },
+            {
+              "id": "4265d465-a052-41ff-ad1c-1f5c9546fbb4",
+              "itemBody": "<p>B. wait to say anything&nbsp;until the proposal is submitted to meet the conditions of her consulting contract.&nbsp;</p>",
+              "position": 2
+            },
+            {
+              "id": "06f7ba2a-c272-4431-b3d6-b4beb121553e",
+              "itemBody": "<p>C. confirm&nbsp;her client&nbsp;uses the same thorough investment process as described in the added material, and make a few minor changes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8736,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 5721,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54047",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Lamba-17",
+        "feedback": {},
+        "itemBody": "<p>Jordan Kope, CFA, is an analyst with a hedge fund and works closely with Deepa Bose who earned her CFA designation 15 years ago. Kope becomes aware that Bose uses her CFA designation even though she no longer pays her membership dues. During several meetings that Bose and Kope have with the firm’s clients, Bose emphasizes that all her team members, including herself, are CFA charterholders. To be consistent with the Standards, Kope should:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "80dea44d-c6a1-4f55-85e3-2dae306fdce2"
+        },
+        "answerFeedback": {
+          "6b956974-c81d-4f07-bd12-b720add7bfff": "<p>Incorrect because according to Standard I(A), Knowledge of the Law, Members and Candidates must not knowingly participate or assist in and must dissociate from any violation of such laws, rules, or regulations. In this case, by staying silent in a client meeting in which he knows false information is being given to a potential investor that could cause harm to that investor, Kope would be seen as assisting Bose in providing that false information, even though Kope is not actively engaging in the misconduct himself. Kope should report her conduct to the fund’s compliance department for it to address and should dissociate himself from activities involving Bose and report ​​Bose's conduct to the fund's compliance department.</p>",
+          "80dea44d-c6a1-4f55-85e3-2dae306fdce2": "<p>Correct because according to Standard I(A), Knowledge of the Law, Members and Candidates must not knowingly participate or assist in and must dissociate from any violation of such laws, rules, or regulations. In this case, by staying silent in a client meeting in which he knows false information is being given to a potential investor that could cause harm to that investor, Kope would be seen as assisting Bose in providing that false information, even though Kope is not actively engaging in the misconduct himself. Kope should report her conduct to the fund’s compliance department for it to address and should dissociate himself from activities involving Bose and report ​​Bose's conduct to the fund's compliance department.</p>",
+          "e7d55a7f-a72c-48c0-8e4a-34740a66f22f": "<p>Incorrect because according to Standard I(A), Knowledge of the Law, Members and Candidates must not knowingly participate or assist in and must dissociate from any violation of such laws, rules, or regulations. In this case, Kope should report Bose's conduct to the fund’s compliance department for it to address and should report ​​Bose's conduct to the fund's compliance department and dissociate himself from activities involving Bose.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b956974-c81d-4f07-bd12-b720add7bfff",
+              "itemBody": "<p>A. only dissociate himself from activities involving Bose.</p>",
+              "position": 1
+            },
+            {
+              "id": "e7d55a7f-a72c-48c0-8e4a-34740a66f22f",
+              "itemBody": "<p>B. only report ​​Bose's conduct to the fund's compliance department.</p>",
+              "position": 2
+            },
+            {
+              "id": "80dea44d-c6a1-4f55-85e3-2dae306fdce2",
+              "itemBody": "<p>C. dissociate himself from activities involving Bose​​ and&nbsp;report Bose's conduct to the fund's compliance department.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8736,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 5721,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54048",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Irvin-17",
+        "feedback": {},
+        "itemBody": "<p>Stella Murphy, CFA, a portfolio manager, meets with a client who is concerned about a security recently added to the portfolio. Murphy reviews with the client the decision for&nbsp;buying the security and the risks associated with the&nbsp;company and stock.&nbsp;The following week, the company announces it is buying a company in a non-related industry and the stock falls sharply.&nbsp;The client accuses Murphy of not disclosing all the risks associated with holding the security.&nbsp; Murphy explains the company's acquisition was unexpected and not factored into the forecast.&nbsp;Has Murphy <i>most likely</i> violated the Standards?&nbsp;</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e0ec19c8-fecf-42ab-b6b3-5c7e622d830e"
+        },
+        "answerFeedback": {
+          "8c889ff9-2101-42d8-85a8-ca88cc99d92d": "<p>Incorrect because Murphy has not violated Standard V(A), Diligence and Reasonable Basis, which requires members,&nbsp;have a reasonable and adequate basis, supported by appropriate research and investigation, for any investment analysis, recommendation, or action.&nbsp;Murphy has explained the investment rationale supporting the purchase of the security as well as the risks of the investment. While having no knowledge of a risk or limitation that subsequently triggers a loss may reveal a deficiency in the diligence and reasonable basis of the research&nbsp;it is not&nbsp;a violation of the Standard.&nbsp;</p>",
+          "d0e41727-7732-4324-b78b-15bc92fb6fed": "<p>Incorrect because Murphy has not violated Standard V(B), Communication with Clients and Prospective Clients, which requires members, use reasonable judgment in identifying which factors are important to their investment analyses, recommendations, or actions and include those factors in communications with clients and prospective client.&nbsp;Murphy has done this when she&nbsp;reviewed&nbsp;the investment rationale behind buying the security and the risks of the investment. The appropriateness of risk disclosure should be assessed on the basis of what was known at the time the investment action was taken (often called an ex ante basis). Members&nbsp;must disclose significant risks known to them at the time of the disclosure. Members cannot be expected to disclose risks they are unaware of at the time recommendations or investment actions are made.&nbsp;A one-time investment loss that occurs after the disclosure does not constitute a pertinent factor in assessing whether significant risks and limitations were properly disclosed.</p>",
+          "e0ec19c8-fecf-42ab-b6b3-5c7e622d830e": "<p>Correct because Murphy has not violated any Standards. Standard V(B), Communication with Clients and Prospective Clients, requires members, use reasonable judgment in identifying which factors are important to their investment analyses, recommendations, or actions and include those factors in communications with clients and prospective client. Murphy has done this when she&nbsp;reviewed&nbsp;the investment rationale behind buying the security and the potential investment risks. The appropriateness of risk disclosure should be assessed on the basis of what was known at the time the investment action was taken (often called an ex ante basis). Members&nbsp;must disclose significant risks known to them at the time of the disclosure. Members cannot be expected to disclose risks they are unaware of at the time recommendations or investment actions are made.&nbsp;A one-time investment loss that occurs after the disclosure does not constitute a pertinent factor in assessing whether significant risks and limitations were properly disclosed.&nbsp;Murphy has also not violated Standard V(A), Diligence and Reasonable Basis, which requires members,&nbsp;have a reasonable and adequate basis, supported by appropriate research and investigation, for any investment analysis, recommendation, or action.&nbsp;Murphy has explained the investment thesis supporting the purchase of the security as well as the risk to the earnings stream.&nbsp; While having no knowledge of a risk or limitation that subsequently triggers a loss may reveal a deficiency in the diligence and reasonable basis of the research&nbsp;it is not&nbsp;a violation of the Standard.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e0ec19c8-fecf-42ab-b6b3-5c7e622d830e",
+              "itemBody": "<p>A. No</p>",
+              "position": 1
+            },
+            {
+              "id": "d0e41727-7732-4324-b78b-15bc92fb6fed",
+              "itemBody": "<p>B. Yes,&nbsp;the Standard relating to communication with clients</p>",
+              "position": 2
+            },
+            {
+              "id": "8c889ff9-2101-42d8-85a8-ca88cc99d92d",
+              "itemBody": "<p>C. Yes, the Standard relating to diligence and reasonable basis</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8736,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 5721,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-93-1",
+      "entry": {
+        "title": "2027-Mod93-Q1",
+        "itemBody": "<p>Benchmarks for minimally acceptable behaviors of community members \nare:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Standards of conduct are applied to specific communities or societal  \ngroups and identify specific behaviors required of community members. These  \nstandards of conduct serve as benchmarks for the minimally acceptable behavior of \ncommunity members. Codes of ethics serve as a general guide for how  community \nmembers should act; they communicate the organization’s values  and overall \nexpectations regarding member behavior, but they do not identify specific behaviors \nrequired of community members. Laws and regulations are  rules of conduct defined \nby governments and related entities about obligatory and forbidden conduct broadly \napplicable for individuals and entities under their jurisdiction.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9bc6e143-2e2d-47bc-8c37-06b8ded4a6ee",
+              "itemBody": "<p>A. a code of ethics.</p>",
+              "position": 1
+            },
+            {
+              "id": "ae7a3848-9960-4a97-b13a-94ccd03549d6",
+              "itemBody": "<p>B. laws and regulations.</p>",
+              "position": 2
+            },
+            {
+              "id": "416595cc-387b-43f0-ad05-ee349e4d70ac",
+              "itemBody": "<p>C. standards of conduct.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "416595cc-387b-43f0-ad05-ee349e4d70ac"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-2",
+      "entry": {
+        "title": "2027-Mod93-Q2",
+        "itemBody": "<p>Specialized knowledge and skills, a commitment to serve others, and a \nshared code of ethics best characterize a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A profession has several characteristics that distinguish it from an  \noccupation or vocation, such as specialized knowledge and skills, service to others,  \nand a code of ethics shared by its members. A profession is the ultimate evolution of \nan occupation, resulting from excellence in practice, a mastery mindest, and expected \nadherence to a code of ethics and standards of practice.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "27902e34-8387-454c-a48d-b090ef050fdd",
+              "itemBody": "<p>A. vocation.</p>",
+              "position": 1
+            },
+            {
+              "id": "0fac253d-1039-4667-9f5e-b66bffbbcfdf",
+              "itemBody": "<p>B. profession.</p>",
+              "position": 2
+            },
+            {
+              "id": "4936649c-ba61-4f62-97ed-5565ab4e97aa",
+              "itemBody": "<p>C. occupation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0fac253d-1039-4667-9f5e-b66bffbbcfdf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-3",
+      "entry": {
+        "title": "2027-Mod93-Q3",
+        "itemBody": "<p>When unethical behavior erodes trust in an investment firm, that firm is \nmore likely to experience:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Unethical behavior ultimately harms investment firms. Clients are  not \nattracted if they suspect unethical behavior, leading to less business and lower  \nrevenues. Investment firms may also experience higher relative costs because  \nregulators are more likely to have cause to initiate costly investigations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "72633019-e150-4232-9b00-85860eeb14e4",
+              "itemBody": "<p>A. lower revenues only.</p>",
+              "position": 1
+            },
+            {
+              "id": "9593afe8-8329-412c-a170-e4b08b087563",
+              "itemBody": "<p>B. higher expenses only.</p>",
+              "position": 2
+            },
+            {
+              "id": "4e048823-1fb4-4da2-8c3b-98851c032287",
+              "itemBody": "<p>C. lower revenues and higher expenses.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4e048823-1fb4-4da2-8c3b-98851c032287"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-4",
+      "entry": {
+        "title": "2027-Mod93-Q4",
+        "itemBody": "<p>High ethical standards are distinguishing features of which of the \nfollowing bodies?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. High ethical standards distinguish professions from the craft guilds or \ntrade bodies. Unlike trade bodies, professional bodies also typically have a mission to \nserve society and enforce professional conduct rules for practitioners.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "951dfc3c-973d-446c-8049-08e2fec271c7",
+              "itemBody": "<p>A. Craft guilds</p>",
+              "position": 1
+            },
+            {
+              "id": "046510c0-0dc6-4c8a-abcb-d12afe5d0d29",
+              "itemBody": "<p>B. Trade bodies</p>",
+              "position": 2
+            },
+            {
+              "id": "08c06056-c086-42f6-818f-0379f418cc65",
+              "itemBody": "<p>C. Professional bodies</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "08c06056-c086-42f6-818f-0379f418cc65"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-5",
+      "entry": {
+        "title": "2027-Mod93-Q5",
+        "itemBody": "<p>Fiduciary duty is a standard most likely to be upheld by members of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Fiduciary duty is an obligation to deliver a high standard of care  when \nacting for the benefit of another party. Professionals must act in the best interest  \nof the client, exercising a reasonable level of care, skill, and diligence. Other  \nentities—including employers, regulators, trade associations, and not -for-profit \nbodies—may also support an industry but are not the same as professional  bodies. \nUnlike professions, these other entities generally do not exist to set and  maintain \nprofessional standards.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "050b88f0-5621-4de8-9271-f74ab6d06c04",
+              "itemBody": "<p>A. employer.</p>",
+              "position": 1
+            },
+            {
+              "id": "fad9261b-ec56-4481-9964-16937fcbb3f0",
+              "itemBody": "<p>B. profession.</p>",
+              "position": 2
+            },
+            {
+              "id": "80acf0aa-efef-48a2-a475-fe950ac8e247",
+              "itemBody": "<p>C. not-for-profit body.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fad9261b-ec56-4481-9964-16937fcbb3f0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-6",
+      "entry": {
+        "title": "2027-Mod93-Q6",
+        "itemBody": "<p>Which of the following best identifies an internal trait that may lead to \npoor ethical decision making?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. An overconfidence bias can lead individuals to put too much importance \non internal traits and intrinsic motivations, such as their own perceptions of personal \nhonesty, that can lead to faulty decision making. Loyalty to an employer and promise \nof money or prestige are situational influences that can lead to faulty decision making.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "977f9521-7c1d-46a2-9bd4-62c0c540ef6a",
+              "itemBody": "<p>A. Overconfidence</p>",
+              "position": 1
+            },
+            {
+              "id": "fd275e63-017f-437e-af29-a9e212d5fc7d",
+              "itemBody": "<p>B. Loyalty to employer</p>",
+              "position": 2
+            },
+            {
+              "id": "9196db24-ff35-4e8c-886d-531aaace7795",
+              "itemBody": "<p>C. Promise of money or prestige</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "977f9521-7c1d-46a2-9bd4-62c0c540ef6a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-7",
+      "entry": {
+        "title": "2027-Mod93-Q7",
+        "itemBody": "<p>Situational influences in decision making will most likely be minimized if:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Consciously considering long -term consequences will help offset  \nsituational influences. We more easily recognize and consider short-term situational \ninfluences than longer-term considerations because longer-term considerations have \nfewer immediate consequences than situational influences do. When decision making \nis too narrowly focused on short -term factors, we tend to ignore  longer-term risks \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 6 of 8 \n \nand consequences, and the likelihood of poor ethical decision  making increases. A \nstrong compliance policy is a good first step toward developing  an ethical culture; a \nfocus on rules adherence may not be sufficient. Emphasis  on compliance may not \nencourage decision makers to consider the larger picture  and can oversimplify \ndecision making. Taken to the extreme, a strong compliance  culture can become \nanother situational influence that blinds employees to other  important \nconsiderations. An overconfidence bias  can place too much importance  on internal \ntraits and intrinsic motivations, such as “I’m honest and would  not lie,” even though \nstudies have shown that internal traits are generally not the  main determinant of \nwhether or not someone will behave ethically in a given situation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6dc19b52-c4f8-4eac-b81b-8c84b290f94b",
+              "itemBody": "<p>A. strong compliance programs are in place.</p>",
+              "position": 1
+            },
+            {
+              "id": "1d8de779-8aca-48de-a5ce-435a58db1250",
+              "itemBody": "<p>B. longer-term consequences are considered.</p>",
+              "position": 2
+            },
+            {
+              "id": "108f4ef5-f47e-4622-b817-500144b394af",
+              "itemBody": "<p>C. individuals believe they are truthful and honest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1d8de779-8aca-48de-a5ce-435a58db1250"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-8",
+      "entry": {
+        "title": "2027-Mod93-Q8",
+        "itemBody": "<p>Decision makers who use a compliance approach are most likely to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A compliance approach can oversimplify decision making and may  not \nencourage decision makers to consider the larger picture. A strong compliance culture \nmay be a good start in developing an ethical culture but can become  another \nsituational influence that may result in employees failing to consider other important \nfactors.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a06f3fd2-6564-4757-b98f-88e18a0b425f",
+              "itemBody": "<p>A. avoid situational influences. \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 1
+            },
+            {
+              "id": "ca538a5f-96d6-4af3-a92a-f47416a62e03",
+              "itemBody": "<p>B. oversimplify decision making.</p>",
+              "position": 2
+            },
+            {
+              "id": "e4c99e1a-7679-47c9-b24f-b4bc7ff2aad7",
+              "itemBody": "<p>C. consider more factors than when using an ethical decision-making approach.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ca538a5f-96d6-4af3-a92a-f47416a62e03"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-9",
+      "entry": {
+        "title": "2027-Mod93-Q9",
+        "itemBody": "<p>To maintain trust, the investment management profession must be \ninterdependent with:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The investment management profession and investment firms must  be \ninterdependent to maintain trust. Employers and regulators have their own standards \nand practices, which may differ from regulations and standards set by  professional \nbodies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "264c8d28-38fe-4472-a6bf-c90d716aa191",
+              "itemBody": "<p>A. regulators.</p>",
+              "position": 1
+            },
+            {
+              "id": "751860a6-38e9-44a8-8def-865185110509",
+              "itemBody": "<p>B. employers.</p>",
+              "position": 2
+            },
+            {
+              "id": "3a1d973f-3973-4d86-b2c6-3b41d0ec1c3a",
+              "itemBody": "<p>C. investment firms.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3a1d973f-3973-4d86-b2c6-3b41d0ec1c3a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-10",
+      "entry": {
+        "title": "2027-Mod93-Q10",
+        "itemBody": "<p>Which is an example of an activity that may be legal but that CFA \nInstitute considers unethical?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The investment industry has examples of conduct that may be legal but \nthat CFA Institute considers unethical. Trading while in possession of material  non-\npublic information is not prohibited by law worldwide and can, therefore, be legal, but \nCFA Institute considers such trading unethical.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9050fbd5-8ba4-4db9-aab9-8d82ae207728",
+              "itemBody": "<p>A. Making legally required disclosures in marketing materials</p>",
+              "position": 1
+            },
+            {
+              "id": "f460acd3-53d2-414b-b187-2407a4765374",
+              "itemBody": "<p>B. Trading while in possession of material non-public information</p>",
+              "position": 2
+            },
+            {
+              "id": "95e1800d-009f-44f9-a4ca-d0207bdcbfea",
+              "itemBody": "<p>C. Disclosure by an employee of his or her own company’s dishonest activity</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f460acd3-53d2-414b-b187-2407a4765374"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-11",
+      "entry": {
+        "title": "2027-Mod93-Q11",
+        "itemBody": "<p>An ethical decision-making framework will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Using an ethical decision -making framework consistently will help  you \ndevelop sound judgment and decision -making skills and avoid making  decisions that \nhave unanticipated ethical consequences. The decision -making process is often \niterative, and the decision maker may move between phases of  the framework. A \ndecision maker should consider more than confirmable facts  and relationships; for \nexample, the decision maker should consider situational  influences and personal \nbiases.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "74840776-8cc8-4ea5-a8a0-8e28cfc51c5d",
+              "itemBody": "<p>A. include a pre-determined, uniform sequence.</p>",
+              "position": 1
+            },
+            {
+              "id": "96d5ea72-0f42-489b-aed6-e61a33b3102b",
+              "itemBody": "<p>B. focus exclusively on confirmable facts and relationships.</p>",
+              "position": 2
+            },
+            {
+              "id": "fa3a763a-1b55-4cc4-88a9-5be42a6807c6",
+              "itemBody": "<p>C. help avoid a decision that has unanticipated ethical consequences.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fa3a763a-1b55-4cc4-88a9-5be42a6807c6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-12",
+      "entry": {
+        "title": "2027-Mod93-Q12",
+        "itemBody": "<p>When an ethical dilemma occurs, an investment professional should most \nlikely first raise the issue with a:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. When a dilemma occurs, raising an issue internally with a senior employee \nis often a good starting place and creates an opportunity for an independent internal \nreview. Protecting the client and the firm may take priority over  the position of an \nindividual professional raising a concern.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0bddb4c5-fa6b-4be6-b629-0a7e839f061a",
+              "itemBody": "<p>A. mentor outside the firm.</p>",
+              "position": 1
+            },
+            {
+              "id": "5b12efba-40b6-4dcb-959e-0bb5b2857f31",
+              "itemBody": "<p>B. professional body’s hotline.</p>",
+              "position": 2
+            },
+            {
+              "id": "705cbf6d-f141-46e5-be83-dca1fe6f9c78",
+              "itemBody": "<p>C. senior individual in the firm.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "705cbf6d-f141-46e5-be83-dca1fe6f9c78"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-13",
+      "entry": {
+        "title": "2027-Mod93-Q13",
+        "itemBody": "<p>The goals of the CFA Institute Code of Ethics would least likely include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Addressing past ethical failings is not a goal of the CFA Institute Code \nof Ethics. Fostering public confidence and publicly communicating established \nprinciples are both goals of the CFA Institute Code of Ethics. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0b92f094-408a-4da2-a78f-69e2a972e2d4",
+              "itemBody": "<p>A. publicly communicating established principles.</p>",
+              "position": 1
+            },
+            {
+              "id": "222cb50e-b4bf-4199-898b-e7f39836e4de",
+              "itemBody": "<p>B. addressing past ethical failings.</p>",
+              "position": 2
+            },
+            {
+              "id": "96f626ef-34aa-42df-b935-2c07b2c14cd4",
+              "itemBody": "<p>C. fostering public confidence.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "222cb50e-b4bf-4199-898b-e7f39836e4de"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-14",
+      "entry": {
+        "title": "2027-Mod93-Q14",
+        "itemBody": "<p>Which of the following is most likely an example of an overconfidence bias \nleading to poor ethical decision making?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. An overconfidence bias is shown by thinking that your intelligence level \nwill prevent you from acting in an unethical manner. A person who understands ethical \nbehavior, no matter her intelligence level, can often decipher unethical behavior by \nlooking at the long-term consequences of improper actions by an individual.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8698b554-8d56-42c5-b9bf-3e6136c4af36",
+              "itemBody": "<p>A. “I’m sure I did the right thing.”</p>",
+              "position": 1
+            },
+            {
+              "id": "61d54e8f-af62-432d-87a6-238a58bce259",
+              "itemBody": "<p>B. “I’m smart; that will keep me out of trouble.”</p>",
+              "position": 2
+            },
+            {
+              "id": "2bc68c1b-a6f5-4f1a-95b7-f10d26e9d5f3",
+              "itemBody": "<p>C. “I’m aware of my ethical obligations.”</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "61d54e8f-af62-432d-87a6-238a58bce259"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-15",
+      "entry": {
+        "title": "2027-Mod93-Q15",
+        "itemBody": "<p>Can an individual most likely cause the public to lose confidence in the \nglobal financial markets?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Any negative publicity regarding a financial sector employee can lead to \nthe public losing market confidence and trust in the investment industry. \nConsequently, it is critical for individuals working in the financial services industry to \nact in an ethica l manner. Without market confidence and trust in investment \nprofessionals, investors will remove their capital and the industry and economy will \nsuffer.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9de16224-66f7-42c0-9ada-7c2f3367388e",
+              "itemBody": "<p>A. Yes.</p>",
+              "position": 1
+            },
+            {
+              "id": "435b4cf1-087c-495f-bd3b-b27de14a30e2",
+              "itemBody": "<p>B. No, a negative event would need to be considered systemic.</p>",
+              "position": 2
+            },
+            {
+              "id": "fbb24911-075b-479b-a07b-81893fc3c1b6",
+              "itemBody": "<p>C. No, a single person does not have enough influence. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 3 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9de16224-66f7-42c0-9ada-7c2f3367388e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-16",
+      "entry": {
+        "title": "2027-Mod93-Q16",
+        "itemBody": "<p>If you are seeking guidance from the firm’s code of ethics or written \npolicies, your actions most likely reflect which phase of an ethical decision -making \nframework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. If you are seeking guidance from the firm’s code of ethics or written \npolicies, you are in the Consider phase of the ethical decision-making framework. This \nphase involves taking time to consider the situation influences as well as personal \nbehavioral biases that could affect your thinking and decision making. During this \nphase, you may also seek guidance from such trusted sources as the firm's compliance \ndepartment or outside counsel.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a365f710-453a-4859-9f49-f67a39b9feb9",
+              "itemBody": "<p>A. Decide</p>",
+              "position": 1
+            },
+            {
+              "id": "ec6de680-2203-4351-8b9f-4207caef1709",
+              "itemBody": "<p>B. Reflect</p>",
+              "position": 2
+            },
+            {
+              "id": "df450f4b-a928-4985-a091-ad2eff5fbe55",
+              "itemBody": "<p>C. Consider</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "df450f4b-a928-4985-a091-ad2eff5fbe55"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-17",
+      "entry": {
+        "title": "2027-Mod93-Q17",
+        "itemBody": "<p>How does ethical conduct most likely compare with what is legally \nrequired?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Ethical conduct goes beyond what is legally required and encompasses \nwhat most societies, communities, and professional organizations consider to be \nethically correct behavior. Good ethical judgement requires considering the interests \nof a multiple of stakeholders while minimizing their risks.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "260b9364-44c7-4528-83fc-73994ade9c76",
+              "itemBody": "<p>A. Ethical conduct goes beyond what is legally required.</p>",
+              "position": 1
+            },
+            {
+              "id": "c2fca9cd-a2d1-4b46-a348-919517af326a",
+              "itemBody": "<p>B. There are no differences between the two; they are the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "dabb363c-e041-443b-8149-6096f2d25427",
+              "itemBody": "<p>C. Doing what is legally required removes the need for ethical conduct.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "260b9364-44c7-4528-83fc-73994ade9c76"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-18",
+      "entry": {
+        "title": "2027-Mod93-Q18",
+        "itemBody": "<p>Which of the following statements is most accurate? Ethical principles \nare sets of beliefs centered around:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Ethical principles can be described as societies’ beliefs about what is \nconsidered good or bad conduct. Ethics can be described as a set of shared beliefs \nor moral principles regarding standards of behavior expected or required by a \ncommunity or societal group.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "43853502-c58d-4319-8c0b-a240395507fa",
+              "itemBody": "<p>A. societies’ views on what is considered good or bad conduct.</p>",
+              "position": 1
+            },
+            {
+              "id": "64264987-7787-4566-9891-3542281c2967",
+              "itemBody": "<p>B. acceptable conduct based on the direct and indirect consequences on others.</p>",
+              "position": 2
+            },
+            {
+              "id": "d2af5322-053b-4fd8-9092-407dd38e397d",
+              "itemBody": "<p>C. rules established by a government with regard to what is acceptable behavior.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "43853502-c58d-4319-8c0b-a240395507fa"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-19",
+      "entry": {
+        "title": "2027-Mod93-Q19",
+        "itemBody": "<p>What is most likely a critical aspect of the Consider phase of an ethical \ndecision-making framework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Seeking additional guidance in the Consider phase of the ethical decision-\nmaking framework is a critical step in viewing the situation from different \nperspectives. It is best to seek guidance from someone who is not affected by the \nsame situational influ ences or behavioral biases to provide a fresh perspective. \nAdditional guidance can be obtained from the firm’s policies and procedures and the \nCFA Institute Code and Standards.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "accd5180-e818-4ce8-a1a8-5ebf160bf745",
+              "itemBody": "<p>A. Distinguishing duties to stakeholders</p>",
+              "position": 1
+            },
+            {
+              "id": "c73f8cc0-7790-4e7e-83c7-08fede8e17cb",
+              "itemBody": "<p>B. Contemplating your decision</p>",
+              "position": 2
+            },
+            {
+              "id": "cd7dd8ef-0fe2-453f-b409-c61a8c219f5b",
+              "itemBody": "<p>C. Seeking additional guidance</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cd7dd8ef-0fe2-453f-b409-c61a8c219f5b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-20",
+      "entry": {
+        "title": "2027-Mod93-Q20",
+        "itemBody": "<p>Which of the following best outlines the minimally acceptable behaviors \nexpected of a member belonging to a societal group?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Standards of conduct outline the minimally acceptable behaviors \nexpected of a member of a societal group. The code of ethics serves as a general \nguide for how community members should act.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8142d98b-3cb7-450d-bf62-69fa367be0fd",
+              "itemBody": "<p>A. Standards of conduct</p>",
+              "position": 1
+            },
+            {
+              "id": "c7c911dd-24ee-4146-ab55-6f2c34f6d77a",
+              "itemBody": "<p>B. Code of ethics</p>",
+              "position": 2
+            },
+            {
+              "id": "2aa5f646-f918-4b7d-bb3a-005544336019",
+              "itemBody": "<p>C. A firm’s employee handbook</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8142d98b-3cb7-450d-bf62-69fa367be0fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-21",
+      "entry": {
+        "title": "2027-Mod93-Q21",
+        "itemBody": "<p>The belief that one’s ethical standards are above average is most likely a \nreflection of which of the following behavioral biases?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The belief that one’s ethical standards are above average illustrates an \noverconfidence bias. An overconfidence bias will most likely lead individuals to \noverestimate the morality of their own behavior and can lead to a failure to consider \nimportant inputs and variables needed to make the best ethical decisions. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2109bb52-4624-40fa-b464-ee0fa9e06765",
+              "itemBody": "<p>A. Overconfidence</p>",
+              "position": 1
+            },
+            {
+              "id": "958e7e0d-d75f-41e6-aaba-3e356bc9c712",
+              "itemBody": "<p>B. Short-term focus</p>",
+              "position": 2
+            },
+            {
+              "id": "2c42bcb5-09bc-4d5a-a5c3-c28661f74bac",
+              "itemBody": "<p>C. Situational influence</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2109bb52-4624-40fa-b464-ee0fa9e06765"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-22",
+      "entry": {
+        "title": "2027-Mod93-Q22",
+        "itemBody": "<p>A research analyst is facing a moral dilemma and decides to use an ethical \ndecision-making framework. After looking at the facts at hand and identifying the \nsituational influences, he still cannot make a decision on the best course of action. \nHis least appropriate next step is to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The least appropriate action would be for the decision maker to go ahead \nand make a decision based on insufficient information. By doing so, the decision maker \ncould cause harm and make the situation worse. The ethical decision -making \nframework is iterative, and users can move between phases rather than undertaking \nthem in any one order. If a decision maker is not yet ready to make a decision, the \nmost appropriate course of action would be to ask someone else to give guidance and \ndetermine what additional information is needed to clarify the situation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3b5d8cf6-5a30-40c8-9288-d65424539f92",
+              "itemBody": "<p>A. decide, act, monitor, and reflect.</p>",
+              "position": 1
+            },
+            {
+              "id": "ee9707d3-8a27-4a4a-bb83-a33947d80a47",
+              "itemBody": "<p>B. ask someone else to give guidance.</p>",
+              "position": 2
+            },
+            {
+              "id": "616f7d79-7a11-420d-a0cf-02f3f26f9927",
+              "itemBody": "<p>C. determine what additional information is needed. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3b5d8cf6-5a30-40c8-9288-d65424539f92"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-23",
+      "entry": {
+        "title": "2027-Mod93-Q23",
+        "itemBody": "<p>A regulator who requires financial advisers to merely consider the \nsuitability of a product when making recommendations to their clients would most \nlikely be setting:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The regulator only sets a legal standard when requiring a financial \nadviser to merely consider suitability when making recommendations to their clients. \nRequiring advisers to act as fiduciaries would be setting both a legal and an ethical \nstandard; it would require the interests of the client to be above those of the firm \nor employee.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8e37a7a1-65e2-46da-a961-9b3538ebf120",
+              "itemBody": "<p>A. both a legal and an ethical standard.</p>",
+              "position": 1
+            },
+            {
+              "id": "21c33e0d-0867-452e-8909-bdad2d923347",
+              "itemBody": "<p>B. an ethical standard.</p>",
+              "position": 2
+            },
+            {
+              "id": "020afa27-50ce-4106-b1ca-e38c4b3f37e6",
+              "itemBody": "<p>C. a legal standard.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "020afa27-50ce-4106-b1ca-e38c4b3f37e6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-24",
+      "entry": {
+        "title": "2027-Mod93-Q24",
+        "itemBody": "<p>From the point of view of an investor, unethical behavior by investment \nprofessionals can most likely lead to which of the following?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Unethical behavior erodes and destroys trust. Investors with low levels \nof trust are less willing to accept risk and, therefore, will likely demand a higher \nreturn for the use of their capital. They may also choose to invest elsewhere or to \nnot invest at all.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e491ea42-1132-49db-9a11-75e1a77b1586",
+              "itemBody": "<p>A. Increased willingness to accept risk</p>",
+              "position": 1
+            },
+            {
+              "id": "7c1dbc3c-a5db-436b-9b84-88eaecf85629",
+              "itemBody": "<p>B. Rise in the demand for investments</p>",
+              "position": 2
+            },
+            {
+              "id": "ac627b7e-6605-41f8-aa75-e9e9ee6ae2ed",
+              "itemBody": "<p>C. Demand for a higher return</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ac627b7e-6605-41f8-aa75-e9e9ee6ae2ed"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-25",
+      "entry": {
+        "title": "2027-Mod93-Q25",
+        "itemBody": "<p>The most important factor in promoting ethical decision making among an \ninvestment firm’s employees is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The single most important factor in promoting ethical behavior within \nan investment firm is done by the development, maintenance, and demonstration of a \nstrong culture of integrity by the firm’s senior management.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5f91170e-55c7-417b-8c46-0fde46fb9445",
+              "itemBody": "<p>A. a strong culture of integrity by the firm’s senior management.</p>",
+              "position": 1
+            },
+            {
+              "id": "88a16c26-e403-42ce-af10-ff5635454725",
+              "itemBody": "<p>B. adoption of a code of ethics that clearly defines the firm’s ethical principles.</p>",
+              "position": 2
+            },
+            {
+              "id": "62be6ce9-676d-4d74-aa72-43c0d193ad55",
+              "itemBody": "<p>C. the investment professional’s natural desire to do the right thing.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5f91170e-55c7-417b-8c46-0fde46fb9445"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-26",
+      "entry": {
+        "title": "2027-Mod93-Q26",
+        "itemBody": "<p>A profession is most likely described as a group of people that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A profession is practiced by members who share and agree to adhere to \na common code of ethics, and a profession is based on a specialized knowledge and \nskills and service to others.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3abc1e9c-c189-4321-be35-365b61baf8b8",
+              "itemBody": "<p>A. has a common level of basic knowledge about a particular subject.</p>",
+              "position": 1
+            },
+            {
+              "id": "71257f5b-2bfb-4a2b-aaa9-8ac40bf49273",
+              "itemBody": "<p>B. monitors its members based on an agreed-on code of ethics.</p>",
+              "position": 2
+            },
+            {
+              "id": "56064e88-44a4-4990-85a9-fc3aa3fee11a",
+              "itemBody": "<p>C. puts the interests of its members first.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "71257f5b-2bfb-4a2b-aaa9-8ac40bf49273"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-93-27",
+      "entry": {
+        "title": "2027-Mod93-Q27",
+        "itemBody": "<p>Most societies would least likely consider ethical principles to include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Most societies acknowledge the ethical principles of honesty, fairness \nor justice, diligence, and respect for the rights of others. Duplicity or deception \nwould be in violation of most ethical principles.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "751dd177-3a98-41b6-93ff-6f1e7089f2cd",
+              "itemBody": "<p>A. justice.</p>",
+              "position": 1
+            },
+            {
+              "id": "c8772c0a-c89d-43d8-9f79-fa08d7706cc5",
+              "itemBody": "<p>B. duplicity.</p>",
+              "position": 2
+            },
+            {
+              "id": "5255e7d2-83f5-473a-bb3b-a4ed2448d813",
+              "itemBody": "<p>C. diligence. \n \n \n \nSUMMARY: - \n \n(LOS 89.a): - 18, 27. \n(LOS 89.b): - 1, 13, 20, 26. \n(LOS 89.c): - 2, 4, 5, 9. \n(LOS 89.d): - 3, 15, 24, 25. \n(LOS 89.e): - 23. \n(LOS 89.f): - 6, 14, 21. \n(LOS 89.g): - 10, 17. \n(LOS 89.h): - 7, 8, 11, 12, 16, 19, 22. \n \n \n \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c8772c0a-c89d-43d8-9f79-fa08d7706cc5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 27
+}

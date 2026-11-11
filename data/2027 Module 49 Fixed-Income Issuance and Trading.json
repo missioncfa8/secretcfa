@@ -1,0 +1,1399 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6340,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 28,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 3: Fixed-Income Issuance and Trading",
+    "topic_id": 1036,
+    "topic": "CFA-26-02-LI-C: Fixed Income",
+    "subtopic_id": 6340,
+    "subtopic": "Module 3: Fixed-Income Issuance and Trading",
+    "question_count": 28,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 852,
+        "name": "Warehouse Course: Fixed Income 26-LI",
+        "code": "Warehouse Course: Fixed Income 26-LI",
+        "module_id": 4465,
+        "question_count": 5,
+        "type": "warehouse"
+      },
+      {
+        "id": 843,
+        "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "module_id": 4682,
+        "question_count": 1,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      ""
+    ],
+    "points_possible": 28.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "3289901a68dc32fa",
+    "ordered_item_ids": [
+      "55029",
+      "60472",
+      "51153",
+      "51154",
+      "51155",
+      "51156"
+    ],
+    "visible_item_ids": [
+      "55029",
+      "60472",
+      "51153",
+      "51154",
+      "51155",
+      "51156"
+    ]
+  },
+  "items": [
+    {
+      "id": "55029",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-FI-Berlinicke-04",
+        "feedback": {},
+        "itemBody": "<p>Using the rating scale from Moody's, the lowest rating for an investment-grade bond is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "130ffe94-a038-47c6-9348-c8469591340c"
+        },
+        "answerFeedback": {
+          "130ffe94-a038-47c6-9348-c8469591340c": "<p>Correct because bonds rated Baa3 or higher by Moody's and BBB– or higher by Standard &amp; Poor's and Fitch are considered investment grade.</p>",
+          "657ff96e-6c1c-48de-98f6-56321d023689": "<p>Incorrect because bonds rated Baa3 or higher by Moody's and BBB–&nbsp;or higher by Standard &amp; Poor's and Fitch are considered investment grade.</p>",
+          "df3e2326-7725-437f-89b3-966930eb012b": "<p>Incorrect because bonds rated Baa3 or higher by Moody's and BBB– or higher by Standard &amp; Poor's and Fitch are considered investment grade.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "657ff96e-6c1c-48de-98f6-56321d023689",
+              "itemBody": "<p>A. Baa1.</p>",
+              "position": 1
+            },
+            {
+              "id": "df3e2326-7725-437f-89b3-966930eb012b",
+              "itemBody": "<p>B. Baa2.</p>",
+              "position": 2
+            },
+            {
+              "id": "130ffe94-a038-47c6-9348-c8469591340c",
+              "itemBody": "<p>C. Baa3.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8862,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4682,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "60472",
+      "entry": {
+        "title": "CFA2433-R-s04-Q6 (revised)",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p>The correct answer is:</p>\n<table style=\"border-collapse: collapse; width: 67.9245%; height: 81px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 29px;\">\n<td style=\"width: 50%; height: 29px;\">A. Commercial paper</td>\n<td style=\"width: 50%; height: 29px;\">III. Money market funds</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 50%; height: 29px;\">B. Unsecured corporate bonds</td>\n<td style=\"width: 50%; height: 29px;\">II. Hedge funds</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 50%; height: 23px;\">C. Secured corporate bonds</td>\n<td style=\"width: 50%; height: 23px;\">I. Insurance companies</td>\n</tr>\n</tbody>\n</table>",
+          "incorrect": ""
+        },
+        "itemBody": "<p>Match the instrument type on the left with its typical investor on the right.</p>",
+        "properties": {
+          "shuffleRules": {
+            "questions": {
+              "shuffled": false
+            }
+          }
+        },
+        "scoringData": {
+          "value": {
+            "78938": "III. Money market funds",
+            "88957": "I. Insurance companies",
+            "97655": "II. Hedge funds"
+          },
+          "editData": {
+            "matches": [
+              {
+                "answerBody": "III. Money market funds",
+                "questionId": "78938",
+                "questionBody": "A. Commercial paper"
+              },
+              {
+                "answerBody": "II. Hedge funds",
+                "questionId": "97655",
+                "questionBody": "B. Unsecured corporate bonds"
+              },
+              {
+                "answerBody": "I. Insurance companies",
+                "questionId": "88957",
+                "questionBody": "C. Secured corporate bonds"
+              }
+            ],
+            "distractors": []
+          }
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "answers": [
+            "III. Money market funds",
+            "I. Insurance companies",
+            "II. Hedge funds"
+          ],
+          "questions": [
+            {
+              "id": "78938",
+              "itemBody": "A. Commercial paper"
+            },
+            {
+              "id": "97655",
+              "itemBody": "B. Unsecured corporate bonds"
+            },
+            {
+              "id": "88957",
+              "itemBody": "C. Secured corporate bonds"
+            }
+          ]
+        },
+        "scoringAlgorithm": "PartialDeep",
+        "interactionTypeSlug": "matching"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8229,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4465,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51153",
+      "entry": {
+        "title": "CFA2433-R-s04-Q7",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Sovereign government issuers typically have the lowest credit risk (highest credit rating) in each market, due to sovereign governments’ right to tax economic activity. High-yield issuers have below-investment-grade credit ratings (BBB- or below), while distressed issuers typically have high-yield ratings or are in default.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An issuer with a AAA credit rating would <em>most likely</em> be a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6ec690d9-2d50-4d80-89cf-0c865231f4c0"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fa489aae-0866-4a8c-b5e5-5fc0b7680692",
+              "itemBody": "A. distressed issuer.",
+              "position": 1
+            },
+            {
+              "id": "a53e1c3f-d436-4200-b314-ea5fa714444b",
+              "itemBody": "B. high-yield issuer.",
+              "position": 2
+            },
+            {
+              "id": "6ec690d9-2d50-4d80-89cf-0c865231f4c0",
+              "itemBody": "C. sovereign issuer.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8229,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4465,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51154",
+      "entry": {
+        "title": "CFA2433-R-s04-Q8",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Mutual funds and ETFs that track this benchmark index offer <em>comprehensive</em> exposure to many fixed-income markets with <em>no</em> active security selection and portfolio turnover limited solely to either new issuance or issues no longer meeting inclusion criteria.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An index tracking the Bloomberg Barclays Global Aggregate Index would <em>most likely</em> have:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2ff91490-70ac-451a-a899-0c611f997afd"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c952d9e3-5017-4a2c-b2f4-5c8fb4c78436",
+              "itemBody": "A. limited security selection.",
+              "position": 1
+            },
+            {
+              "id": "a4a321e1-54f2-4412-8c67-002aec1a05ce",
+              "itemBody": "B. modest turnover due to changes in market values.",
+              "position": 2
+            },
+            {
+              "id": "2ff91490-70ac-451a-a899-0c611f997afd",
+              "itemBody": "C. comprehensive exposure to fixed-income markets.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8229,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4465,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51155",
+      "entry": {
+        "title": "CFA2433-R-s04-Q9",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Increasing the size of an existing bond with a price significantly different from par is referred to as the reopening of an existing bond. A private placement refers to bonds being sold to a selected investor or group of investors, versus a sale to the public. Bonds of issuers believed to be very close to or in bankruptcy are referred to as distressed.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A firm that increases the size of an existing bond issue with a price significantly different from par is conducting a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "652e3900-5fb5-4369-8bb3-da3322b3255f"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "652e3900-5fb5-4369-8bb3-da3322b3255f",
+              "itemBody": "A. reopening.",
+              "position": 1
+            },
+            {
+              "id": "2d93840d-2e60-439d-80c3-d102c72b7978",
+              "itemBody": "B. private placement.",
+              "position": 2
+            },
+            {
+              "id": "d1ddca12-62ae-44ce-8ccf-2c5e0d80c091",
+              "itemBody": "C. distressed debt issuance.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8229,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4465,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51156",
+      "entry": {
+        "title": "CFA2433-R-s04-Q10",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Bonds of less frequent corporate issuers or more seasoned bonds of frequent issuers are rarely traded, leading dealers to quote bid–offer spreads of at least 10–20 basis points or more for small sizes. The most recently issued, or on-the-run, developed market sovereign bonds are typically the most liquid fixed-income securities, with primary dealers making active markets in large size with bid–offer spreads equal to a fraction of a basis point. Among corporate issuers, recently issued corporate bonds from frequent issuers of higher credit quality usually exhibit the greatest liquidity and tightest bid–offer spreads.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The bond issue trading at the highest bid–offer spread is <em>most likely</em> a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9cd89c5d-46e1-4a81-8143-08a85253c486"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bbc97a76-1a0d-4210-8532-73b8da6f6798",
+              "itemBody": "A. recently issued sovereign bond.",
+              "position": 1
+            },
+            {
+              "id": "9cd89c5d-46e1-4a81-8143-08a85253c486",
+              "itemBody": "B. seasoned investment-grade corporate bond.",
+              "position": 2
+            },
+            {
+              "id": "3b8ab56a-6ee8-40b6-a332-862e7f664439",
+              "itemBody": "C. recently issued investment-grade corporate bond.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "immutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8229,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4465,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-49-1",
+      "entry": {
+        "title": "2027-Mod49-Q1",
+        "itemBody": "<p>A non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If \nthe YTM were to increase instantaneously by 80 bps, the price of the bond would \ndecrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price \nof the bond would increase by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The absolute amount of the price increase would be more than the \nabsolute amount of the price decrease for the same absolute change in YTM \nbecause of the convex relationship between bond price and yield. \nA is incorrect because of the positive convex relationship between bond price and \nyield. For a given level of yield change, the price rise for that given amount of yield \ndecrease will be larger than the price decline for that amount of yield increase. \nB is incorrect because the relationship between bond price and yield is not linear.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3ede75c4-5015-4094-9f83-85405a8d08ab",
+              "itemBody": "<p>A. less than 11%.</p>",
+              "position": 1
+            },
+            {
+              "id": "dfd9a3c4-7180-4cc1-a19b-6bbd89b0329a",
+              "itemBody": "<p>B. exactly 11%.</p>",
+              "position": 2
+            },
+            {
+              "id": "f316d15f-40e3-46b8-b3a5-4782ef9d9179",
+              "itemBody": "<p>C. more than 11%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f316d15f-40e3-46b8-b3a5-4782ef9d9179"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-2",
+      "entry": {
+        "title": "2027-Mod49-Q2",
+        "itemBody": "<p>Exceptions to the maturity effect exist for bonds that have:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Exceptions to the maturity effect are rare and occur only for low-\ncoupon (but not zero-coupon) long-term bonds trading at a discount. \nB is incorrect because the maturity effect holds for bonds that have short \nmaturities and high coupons. \nC is incorrect because the maturity effect always holds on bonds priced at a \npremium above par value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f9991395-3ed2-475e-8ead-f0bcfdb0c7e0",
+              "itemBody": "<p>A. long maturities, make small coupon payments, and trade at a discount.</p>",
+              "position": 1
+            },
+            {
+              "id": "00f62338-8522-4c56-9132-60f01361b946",
+              "itemBody": "<p>B. short maturities, have high coupon rates, and trade at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "2958e6a4-cecc-4115-9497-6257a81b85a1",
+              "itemBody": "<p>C. long maturities, have high coupon rates, and trade at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f9991395-3ed2-475e-8ead-f0bcfdb0c7e0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-3",
+      "entry": {
+        "title": "2027-Mod49-Q3",
+        "itemBody": "<p>With a constant market discount rate, as a non-callable, fixed-coupon bond \napproaches maturity:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Any bond trading at a discount will increase in price because of the \npull-to-par effect. \nA is incorrect because the price–yield relationship generally becomes less convex as \na bond approaches maturity. \nC is incorrect because a high-coupon bond trading at a premium will decrease in \nprice as it approaches maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "80af32ec-d996-488d-8331-603c1d5d36a1",
+              "itemBody": "<p>A. the price–yield relationship will become more convex.</p>",
+              "position": 1
+            },
+            {
+              "id": "204a7ca5-5e92-4318-9ffd-3191cdd7e0bb",
+              "itemBody": "<p>B. a low-coupon bond trading at a discount will increase in price.</p>",
+              "position": 2
+            },
+            {
+              "id": "7d5167d1-9096-4b59-92ef-35017f46bf8d",
+              "itemBody": "<p>C. a high-coupon bond trading at a premium will increase in price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "204a7ca5-5e92-4318-9ffd-3191cdd7e0bb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-4",
+      "entry": {
+        "title": "2027-Mod49-Q4",
+        "itemBody": "<p>A fixed-income analyst is pricing a bond using the following equation. \n𝑃𝑉 = 3\n(1 + 0.0275)1 + 3\n(1 + 0.0275)2 + ⋯ + 103\n(1 + 0.0275)40 \n \nThe bond’s price, relative to par, is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The bond’s periodic coupon rate exceeds the periodic market discount \nrate, or its coupon rate is “excessive” relative to the market. Therefore, the bond \nwill trade at a premium to par. \nB is incorrect. For the bond to trade at par, the coupon rate and market discount \nrate (yield-to-maturity) must be equal. \nC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have \nto be higher than the coupon rate. \n  \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 6 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "09898fad-a66f-4918-b77d-fbd46b4e0e36",
+              "itemBody": "<p>A. greater than 100.</p>",
+              "position": 1
+            },
+            {
+              "id": "859d3157-fa13-4889-92d5-9c13e3d39ff0",
+              "itemBody": "<p>B. exactly 100.</p>",
+              "position": 2
+            },
+            {
+              "id": "c47ec0a3-7d26-497d-b7a6-254fb84b439f",
+              "itemBody": "<p>C. less than 100.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "09898fad-a66f-4918-b77d-fbd46b4e0e36"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-5",
+      "entry": {
+        "title": "2027-Mod49-Q5",
+        "itemBody": "<p>A four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading \nat a price of 102.581. The bond’s annualized yield-to-maturity is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Two approaches to calculating the yield-to-maturity are calculating an \nIRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic \nIRR is annualized by multiplying by two. \nPeriod Cash Flow YIELD Function   \n0 –102.581 Settlement date 01-01-2000 \n1 1 Maturity date 01-01-2004 \n2 1 Coupon 0.02 \n3 1 Price 102.581 \n4 1 Redemption 100 \n5 1 Coupon frequency 2 \n6 1 Yield 1.34% \n7 1    \n8  101    \nPeriodic IRR 0.67%    \nAnnualized IRR 1.34%    \n \nA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity. \nC is incorrect. Note that this choice can be eliminated because the bond is trading at \na premium; thus, its yield-to-maturity is lower than its coupon rate of 2.0%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6140b9a6-50bf-460e-8f5e-effc41010910",
+              "itemBody": "<p>A. 0.67%.</p>",
+              "position": 1
+            },
+            {
+              "id": "c9aff54d-ada2-4486-b962-dc6523d26936",
+              "itemBody": "<p>B. 1.34%.</p>",
+              "position": 2
+            },
+            {
+              "id": "ad852fa3-36e6-404b-8b2d-d75549278f85",
+              "itemBody": "<p>C. 2.22%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c9aff54d-ada2-4486-b962-dc6523d26936"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-6",
+      "entry": {
+        "title": "2027-Mod49-Q6",
+        "itemBody": "<p>Consider two bonds that are identical except for their coupon rates. The bond that \nwill have the highest interest rate risk most likely has the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A lower coupon rate means that more of the bond’s value comes from \nrepayment of face value, which occurs at the end of the bond’s life.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c7eda4a9-8ea2-4323-9475-174723bc5246",
+              "itemBody": "<p>A. lowest coupon rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "4995cf90-a671-4103-9ee3-54c34c6888ec",
+              "itemBody": "<p>B. coupon rate closest to its market yield.</p>",
+              "position": 2
+            },
+            {
+              "id": "9ee82910-0a70-463e-9bd5-9a2609c5d181",
+              "itemBody": "<p>C. C. highest coupon rate.\nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c7eda4a9-8ea2-4323-9475-174723bc5246"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-7",
+      "entry": {
+        "title": "2027-Mod49-Q7",
+        "itemBody": "<p>The market value of an 18-year zero-coupon bond with a maturity value of $1,000 \ndiscounted at a 12% annual interest rate with semi-annual compounding is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The value of a zero-coupon bond is \nFace value\n(1 + 𝑟)𝑁  \n \nwhere r is the market discount rate per period, and N is the number of evenly spaced \nperiods to maturity. The value of the zero-coupon bond is \n1,000\n(1 + 0.12/2)18×2 = 122.7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "667527a4-fbb7-426b-ae88-3cd9d096f12e",
+              "itemBody": "<p>A. $122.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "e7d213f0-638f-4e4f-a00d-a7fb47b90a91",
+              "itemBody": "<p>B. $130.04.</p>",
+              "position": 2
+            },
+            {
+              "id": "8dc497e1-2548-4dcd-8094-e1cadcbfdb6d",
+              "itemBody": "<p>C. $192.86.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "667527a4-fbb7-426b-ae88-3cd9d096f12e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-8",
+      "entry": {
+        "title": "2027-Mod49-Q8",
+        "itemBody": "<p>An investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% \nand mature in 10 years, at an annual yield to maturity of 12%. The bonds will most \nlikely be selling at:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The coupon rate on the bonds is lower than the yield to maturity, \nimplying that the bonds should be selling at a price lower than their par value —that \nis, at a discount.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "90ed013c-3953-4119-b9f1-b3b44aa7ff50",
+              "itemBody": "<p>A. par.</p>",
+              "position": 1
+            },
+            {
+              "id": "490c29ec-6d59-488a-bc0b-e8a35a102770",
+              "itemBody": "<p>B. a premium.</p>",
+              "position": 2
+            },
+            {
+              "id": "9f17fe02-e988-4af4-b9d1-dda5c2df85b3",
+              "itemBody": "<p>C. a discount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9f17fe02-e988-4af4-b9d1-dda5c2df85b3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-9",
+      "entry": {
+        "title": "2027-Mod49-Q9",
+        "itemBody": "<p>An investor sells a bond at the quoted price of $98.00. In addition, she receives \naccrued interest of $4.40. The flat price of the bond is equal to the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The agreed-on bond price excluding accrued interest is referred to as \nthe flat price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "03b46d93-876e-4262-a185-f246242bad5f",
+              "itemBody": "<p>A. par value plus accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "475392c3-f1f7-405a-8bdd-acd3cc92d8e4",
+              "itemBody": "<p>B. accrued interest plus the agreed-on bond price.</p>",
+              "position": 2
+            },
+            {
+              "id": "ecf969c5-8b66-468e-8a18-2ab1eb188629",
+              "itemBody": "<p>C. agreed-on bond price excluding accrued interest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ecf969c5-8b66-468e-8a18-2ab1eb188629"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-10",
+      "entry": {
+        "title": "2027-Mod49-Q10",
+        "itemBody": "<p>A credit analyst is least likely to use matrix pricing to estimate the required yield \nand price of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Matrix pricing is most suited to pricing inactively traded bonds and newly \nunderwritten bonds. A credit analyst is least likely to use matrix pricing to price an \nactively traded bond. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9cbe6566-92a2-42cf-8f8b-858c98d9a739",
+              "itemBody": "<p>A. newly underwritten bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "07d7934a-5f1b-4dd8-902c-c2a0b8e09277",
+              "itemBody": "<p>B. actively traded speculative grade bond.</p>",
+              "position": 2
+            },
+            {
+              "id": "133d0df5-c78c-4a08-9891-bcc7fb1549c2",
+              "itemBody": "<p>C. inactively traded investment grade bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "07d7934a-5f1b-4dd8-902c-c2a0b8e09277"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-11",
+      "entry": {
+        "title": "2027-Mod49-Q11",
+        "itemBody": "<p>The maturity effect is least likely to hold for a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In some situations, the maturity effect may not hold for a low -coupon \nbond that is trading below par.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9f8e1263-1d4e-4a39-b2e3-f9255e58f9fc",
+              "itemBody": "<p>A. zero-coupon bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "7d578bad-95c0-4598-ae35-b8a42f5f8eb5",
+              "itemBody": "<p>B. low-coupon, long-term bond trading at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "12fe68bf-e1b5-4127-8258-f4e0c780bc56",
+              "itemBody": "<p>C. low-coupon, long-term bond trading at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7d578bad-95c0-4598-ae35-b8a42f5f8eb5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-12",
+      "entry": {
+        "title": "2027-Mod49-Q12",
+        "itemBody": "<p>Bonds are quoted using the</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a846304c-0ac4-4027-90d2-1b3b20be5b0b",
+              "itemBody": "<p>A. full price and settled using the flat price.</p>",
+              "position": 1
+            },
+            {
+              "id": "381989b0-1447-4b5d-9a52-b0daf1b96b1b",
+              "itemBody": "<p>B. flat price and settled using the full price.</p>",
+              "position": 2
+            },
+            {
+              "id": "9250db75-5524-4fc8-9f41-cd774b1f62ab",
+              "itemBody": "<p>C. \"dirty\" price and settled using the invoice price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "381989b0-1447-4b5d-9a52-b0daf1b96b1b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-13",
+      "entry": {
+        "title": "2027-Mod49-Q13",
+        "itemBody": "<p>Which of the following does not depend on the market discount rate? A bond's:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the accrued interest part of the full price does not depend on \nthe yield-to-maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7368f9d7-1224-46cd-880a-9770e1266476",
+              "itemBody": "<p>A. flat price</p>",
+              "position": 1
+            },
+            {
+              "id": "2a2465da-05f5-4ce6-a4ba-21174b02d961",
+              "itemBody": "<p>B. full price</p>",
+              "position": 2
+            },
+            {
+              "id": "4a4015f7-3009-4edf-99de-45ca1c206081",
+              "itemBody": "<p>C. accrued interest</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4a4015f7-3009-4edf-99de-45ca1c206081"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-14",
+      "entry": {
+        "title": "2027-Mod49-Q14",
+        "itemBody": "<p>All else being equal, the absolute value of the percentage price change for an \noption-free bond is most likely: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 3 of 8</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect). \n \n15. correct because the value of a bond is calculated as: \nPV = [PMT ÷ (1+r)^1] + [PMT ÷(1+r)^2] +...+ [(PMT + FV) ÷(1+r)^N) \nwhere: \nPV = present value, or the price of the bond  \nPMT = coupon payment per period  \nFV = future value paid at maturity, or the par value of the bond  \nr = market discount rate, or required rate of return per period  \nN = number of evenly spaced periods to maturity \nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = \n$108, Solve for I, is equal to 1.114% semi -annually, or 2.228% on an annual basis. If \nthe yield to maturity decreases by 100 bps, the price of the bond after one year is  \ncomputed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve \nPV, is equal to $107.43. \nTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a6ac1e7c-57a8-4128-8698-fafa5d40b4af",
+              "itemBody": "<p>A. less when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 1
+            },
+            {
+              "id": "4d60e105-ba5d-4538-b67b-c1584090f739",
+              "itemBody": "<p>B. the same whether the market discount rate decreases or increases by the same \namount.</p>",
+              "position": 2
+            },
+            {
+              "id": "e836443c-c058-4112-9d0a-4a923301978e",
+              "itemBody": "<p>C. greater when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e836443c-c058-4112-9d0a-4a923301978e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-15",
+      "entry": {
+        "title": "2027-Mod49-Q15",
+        "itemBody": "<p>A bond has the following characteristics: \nTime to maturity 3 years \nCoupon rate 12% \nPayment period Semiannual \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value \nis closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because \n𝑃𝑉 = 6\n(1 + 0.02)1 + 6\n(1 + 0.02)2 + 6\n(1 + 0.02)3 + 6\n(1 + 0.02)4 + 6\n(1 + 0.02)5 + 6 + 100\n(1 + 0.02)6 \n= 122.4057 ≈ 122.41</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5afb6853-c1f7-4baa-b720-72be0f2dd714",
+              "itemBody": "<p>A. 122.20.</p>",
+              "position": 1
+            },
+            {
+              "id": "865f64d3-77a3-4a5b-8bb7-1fb59008c5ca",
+              "itemBody": "<p>B. 122.41.</p>",
+              "position": 2
+            },
+            {
+              "id": "4196a9d1-b8aa-4345-a9c5-2a42b8beed11",
+              "itemBody": "<p>C. 122.53.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "865f64d3-77a3-4a5b-8bb7-1fb59008c5ca"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-16",
+      "entry": {
+        "title": "2027-Mod49-Q16",
+        "itemBody": "<p>An analyst gathers the following information about a bond that pays interest \nannually: \nCoupon rate 4% \nTime-to-maturity 3 years \nPar value $100,000 \n \nIf the market discount rate is 5%, the market value of this bond is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the price of the bond is the present value of the promised cash \nflows and is calculated as follows: \nPrice of bond = 4,000/(1 +5%)^1 + 4,000/(1+5%)^2 + 104,000/(1+5%)^3 = 3,809.5238 \n+ 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, \nI = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. \n \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "264bc4bf-a583-4866-b225-6b73604446ed",
+              "itemBody": "<p>A. $89,839.</p>",
+              "position": 1
+            },
+            {
+              "id": "1618411a-f3f8-4f83-a51c-4ef0bdafe59b",
+              "itemBody": "<p>B. $97,277.</p>",
+              "position": 2
+            },
+            {
+              "id": "4d49a432-9fad-429a-a769-f48d144c8d74",
+              "itemBody": "<p>C. $102,775.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1618411a-f3f8-4f83-a51c-4ef0bdafe59b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-17",
+      "entry": {
+        "title": "2027-Mod49-Q17",
+        "itemBody": "<p>An analyst gathers the following information: \n  Time to Maturity Yield to Maturity \nBond 1 Three years 3.4% \nBond 2 Eight years 5.4% \n \nBased only on this information, the estimated market discount rate for a 5-year \nbond with similar credit quality is: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 4 of 8</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quote d or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times -to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "36b79f95-55f0-4fee-ac9e-92b39a356731",
+              "itemBody": "<p>A. 4.2%.</p>",
+              "position": 1
+            },
+            {
+              "id": "c0d0f860-9685-488e-9309-4296430b930f",
+              "itemBody": "<p>B. 4.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "5f766c84-0e48-4564-a1a3-5bba7032c908",
+              "itemBody": "<p>C. 4.6%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "36b79f95-55f0-4fee-ac9e-92b39a356731"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-18",
+      "entry": {
+        "title": "2027-Mod49-Q18",
+        "itemBody": "<p>Matrix pricing is most likely used to estimate the price of a bond that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times -to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c8e40397-f80c-4906-8772-00eb2d93a134",
+              "itemBody": "<p>A. is highly liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "91c88123-054c-49b0-a6f7-83d06d9d0ce5",
+              "itemBody": "<p>B. is not yet issued.</p>",
+              "position": 2
+            },
+            {
+              "id": "29426783-94ab-44fb-9381-c77ed315be64",
+              "itemBody": "<p>C. has unknown credit quality.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "91c88123-054c-49b0-a6f7-83d06d9d0ce5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-19",
+      "entry": {
+        "title": "2027-Mod49-Q19",
+        "itemBody": "<p>The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b9250f69-a96c-4696-b3ec-d049714b2240",
+              "itemBody": "<p>A. less than 100 basis points.</p>",
+              "position": 1
+            },
+            {
+              "id": "aab9f72b-5638-426d-af7c-8acaf4ef7dcd",
+              "itemBody": "<p>B. 100 basis points.</p>",
+              "position": 2
+            },
+            {
+              "id": "a5d42876-686a-4895-bbc0-804a7a1ce531",
+              "itemBody": "<p>C. more than 100 basis points.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a5d42876-686a-4895-bbc0-804a7a1ce531"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-20",
+      "entry": {
+        "title": "2027-Mod49-Q20",
+        "itemBody": "<p>An analyst gathers the following information about three option-free bonds: \n Bond 1 Bond 2 Bond 3 \nCoupon rate 5% 3% 3% \nMaturity (years) 15 10 15 \n \nAll else being equal, if the market discount rate decreases by 50 basis points, the \nbond most likely to experience the greatest percentage price change is:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same time -to-maturity, a lower -coupon bond has a \ngreater percentage price change than a higher -coupon bond when their market \ndiscount rates change by the same amount (the coupon effect). Bond 3 has the same \ntime-to-maturity as Bond 1 but a  lower coupon, thus Bond 3 would experience a \ngreater percentage price change compared to Bond 1. Also, generally, for the same \ncoupon rate, a longer -term bond has a greater percentage price change than a \nshorter-term bond when their market discount rates change by the same amount (the \nmaturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, \nthus Bond 3 would experience a greater percentage price change compared to Bond \n2.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1b1f3fec-0ce2-437a-aa09-ba2a6c13a344",
+              "itemBody": "<p>A. Bond 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "1f1e4b04-23dc-485f-ad61-44fe99cb752b",
+              "itemBody": "<p>B. Bond 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "943a5f70-307d-43dd-98de-e782bed42dea",
+              "itemBody": "<p>C. Bond 3.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "943a5f70-307d-43dd-98de-e782bed42dea"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-21",
+      "entry": {
+        "title": "2027-Mod49-Q21",
+        "itemBody": "<p>The flat price of a bond:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because it is the flat price that is 'pulled to par' along the constant-yield \nprice trajectory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "498988ec-84a1-4982-a56d-f78b0b2f5e77",
+              "itemBody": "<p>A. is also referred to as the \"dirty\" price.</p>",
+              "position": 1
+            },
+            {
+              "id": "10cbc7b1-86c6-44f4-8e6b-2761e651ed9e",
+              "itemBody": "<p>B. is \"pulled to par\" along the constant-yield price trajectory.</p>",
+              "position": 2
+            },
+            {
+              "id": "681b8e32-0639-4d9f-bd32-9e14c2513765",
+              "itemBody": "<p>C. includes interest which is received by the seller on the settlement date.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "10cbc7b1-86c6-44f4-8e6b-2761e651ed9e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-49-22",
+      "entry": {
+        "title": "2027-Mod49-Q22",
+        "itemBody": "<p>A bond is traded in between its coupon payment dates. Which of the following is true?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The flat price, quoted by bond dealers, is the full price less accrued \ninterest. Accrued interest is not included in the flat price. \nA is incorrect. The buyer must pay the full price, which already includes accrued \ninterest. \nB is incorrect. The flat price is the quoted price. \nYield and Yield Spread Measures for Fixed-Rate Bonds \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose.  \n \n1. A bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, \nand is currently trading at 97.28. The semi-annual bond basis yield is closest to: \nA. 1.055%. \nB. 2.121%. \nC. 4.242%. \n \n2. An analyst is analyzing  a three -year, 2.25% annual coupon bond issued by QWE  \nCompany. Currently, the bond’s yield -to-maturity is 2.707%. The three -year swap  \nrate is 1.840%. The government spot rates are presented in the table. \nMaturity Government Spot Rate \n1Y 0.90% \n2Y 1.26% \n3Y 1.90% \n \nThe G-Spread (in basis points) for the QWE bond is closest to: \nA. 80. \nB. 87. \nC. 135. \n \n3. The I-spread (in basis points) for the QWE bond is closest to: \nA. 46. \nB. 80. \nC. 87. \n \n4. If the price of the QWE bond is 98.70% of par, its Z -spread (in basis points) is  \nclosest to: \nA. 80. \nB. 82. \nC. 87. \n \n5. Consider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. \nIf the bond currently sells for $96.47, the yield to maturity is closest to: \nA. 8.37%. \nB. 8.29%. \nC. 7.41%. \n \n6. Stellar Corp. recently issued $100 par value deferred coupon bonds, which will make \nno coupon payments in the next four years. Regular annual coupon payments at a rate \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 2 of 6 \n \nof 8% will then be made until the bonds mature at the end of 10 years. If the bonds \nare currently priced at $87.00, their yield to maturity is closest to: \nA. 6.0%. \nB. 8.0%. \nC. 10.1%. \n \n7. For a coupon bond with a negative yield, compounding more frequently within the \nyear results in a yield-to-maturity that is: \nA. more negative. \nB. the same. \nC. less negative.  \n \n8. The yield spread over an interpolated sovereign bond is best described as a(n): \nA. I-spread. \nB. G-spread. \nC. Z-spread. \n \n9. An analyst gathers the following information about a callable bond that pays \ninterest annually: \nCurrent price 105 per 100 of par value \nTime-to-maturity 4 years \nCoupon rate 4% \nCall price at year 2 103 per 100 of par value \nCall price at year 3 101 per 100 of par value \n \nThis bond's yield to worst is the: \nA. yield to maturity. \nB. yield to first call. \nC. yield to second call. \n \n10. The stated annual yield to maturity on a semiannual bond basis is 3.66%. The \neffective annual yield is closest to: \nA. 3.63%. \nB. 3.69%. \nC. 7.45%. \n \n11. A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted \nto a quarterly periodicity, the APR is closest to: \nA. 1.98%. \nB. 3.92%. \nC. 7.92%. \n12. The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the: \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 3 of 6 \n \nA. I-spread. \nB. Z-spread. \nC. option-adjusted spread. \n \n13. The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of \n$100 and currently priced at $85.70 is closest to: \nA. 4.50%. \nB. 5.25%. \nC. 5.93%. \n \n14. The factor least likely to influence the yield spread on an option -free, fixed-rate \nbond is a change in the: \nA. credit risk of the issuer. \nB. expected inflation rate. \nC. liquidity of the bond. \n \n  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 4 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9c1d3b8c-e09c-44d8-99d3-9aed524e8ef5",
+              "itemBody": "<p>A. The buyer must pay the full price plus the accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "0748e0df-af64-4b06-b549-96b2a14bb755",
+              "itemBody": "<p>B. The bond’s quoted price is greater than its flat price.</p>",
+              "position": 2
+            },
+            {
+              "id": "d4a77b1f-e50e-4aa5-8167-73f5f6645253",
+              "itemBody": "<p>C. Accrued interest is not included in the flat price. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4a77b1f-e50e-4aa5-8167-73f5f6645253"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}

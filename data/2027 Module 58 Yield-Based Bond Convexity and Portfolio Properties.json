@@ -1,0 +1,2628 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6384,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 49,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 12: Yield-Based Bond Convexity and Portfolio Properties",
+    "topic_id": 1036,
+    "topic": "CFA-26-02-LI-C: Fixed Income",
+    "subtopic_id": 6384,
+    "subtopic": "Module 12: Yield-Based Bond Convexity and Portfolio Properties",
+    "question_count": 49,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 852,
+        "name": "Warehouse Course: Fixed Income 26-LI",
+        "code": "Warehouse Course: Fixed Income 26-LI",
+        "module_id": 4474,
+        "question_count": 19,
+        "type": "warehouse"
+      },
+      {
+        "id": 843,
+        "name": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "code": "Practice Pack Warehouse: Fixed Income 26-LI",
+        "module_id": 4691,
+        "question_count": 9,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 49.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "fc1e60497232cd9e",
+    "ordered_item_ids": [
+      "55071",
+      "55072",
+      "55073",
+      "55074",
+      "55075",
+      "55076",
+      "55077",
+      "55078",
+      "55079",
+      "51258",
+      "51259",
+      "51260",
+      "51261",
+      "51262",
+      "51263",
+      "51264",
+      "51265",
+      "51266",
+      "51267",
+      "54215",
+      "54216",
+      "54217",
+      "54218",
+      "54219",
+      "54220",
+      "54221",
+      "54222",
+      "54223",
+      "54224"
+    ],
+    "visible_item_ids": [
+      "55071",
+      "55072",
+      "55073",
+      "55074",
+      "55075",
+      "55076",
+      "55077",
+      "55078",
+      "55079",
+      "51258",
+      "51259",
+      "51260",
+      "51261",
+      "51262",
+      "51263",
+      "51264",
+      "51265",
+      "51266",
+      "51267",
+      "54215",
+      "54216",
+      "54217",
+      "54218",
+      "54219",
+      "54220",
+      "54221",
+      "54222",
+      "54223",
+      "54224"
+    ]
+  },
+  "items": [
+    {
+      "id": "55071",
+      "entry": {
+        "title": "ITEM_CFA-L1-01049",
+        "feedback": {},
+        "itemBody": "<p>An investor gathers the following information about a bond portfolio comprised of two option-free bonds:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<th scope=\"colgroup\"><strong>Bond</strong></th>\n<th scope=\"colgroup\"><strong>Par Value</strong></th>\n<th scope=\"colgroup\"><strong>Market Value</strong></th>\n<th scope=\"colgroup\"><strong>Duration</strong></th>\n</tr>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: center;\">$100,000</td>\n<td style=\"text-align: center;\">$120,000</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: center;\">$200,000</td>\n<td style=\"text-align: center;\">$180,000</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n</tbody>\n</table>\n<p>The duration of the portfolio is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7"
+        },
+        "answerFeedback": {
+          "558a05eb-31d1-485d-a205-6117ba51a948": "<p>Incorrect because it weights the bonds by their duration.</p><p>DP= [(5 ÷ 9) × 5] + [(4 ÷ 9) × 4)]</p><p>= 2.777 + 1.777</p><p>= 4.554 = 4.55</p>",
+          "b2045d62-095c-48f4-9aaf-bde120ae3743": "<p>Incorrect because it weights the bonds by par value.</p><p>DP= [(100,000 ÷ 300,000) × 5] + [(200,000 ÷ 300,000) × 4]</p><p>= (0.333 × 5) + (0.667 × 4)</p><p>= 1.665 + 2.668</p><p>= 4.333 = 4.33</p>",
+          "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7": "<p>Correct because the portfolio's duration is the weighted average (by market value) of the duration of the bonds in the portfolio.</p><p>Duration of portfolio = [(120,000 ÷ 300,000) × 5] + [(180,000 ÷ 300,000) × 4]</p><p>= (0.4 × 5) + (0.6 × 4)</p><p>= 2.00 + 2.40</p><p>= 4.40</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b2045d62-095c-48f4-9aaf-bde120ae3743",
+              "itemBody": "<p>A. 4.33.</p>",
+              "position": 1
+            },
+            {
+              "id": "e71862fb-3d7c-4abc-ae70-5aed8b5ee1f7",
+              "itemBody": "<p>B. 4.40.</p>",
+              "position": 2
+            },
+            {
+              "id": "558a05eb-31d1-485d-a205-6117ba51a948",
+              "itemBody": "<p>C. 4.55.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55072",
+      "entry": {
+        "title": "ITEM_CFA-L1-05452",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about an option-free bond:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td>Par value</td>\n<td style=\"text-align: center;\">$1,000,000</td>\n</tr>\n<tr>\n<td>Current market value</td>\n<td style=\"text-align: center;\">$912,575</td>\n</tr>\n<tr>\n<td>Duration</td>\n<td style=\"text-align: center;\">2.4</td>\n</tr>\n</tbody>\n</table>\n<p>If yields are expected to decrease by 50 basis points, the expected price change for the bond is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "128edd21-186d-4c87-9b40-9a64a2b40550"
+        },
+        "answerFeedback": {
+          "128edd21-186d-4c87-9b40-9a64a2b40550": "<p>Correct because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A modified duration of 2.4 translates to a 2.4% percentage price change given a 100 basis points change in the bond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the bond's price will change by (2.4)(0.0050)($912,575) = $10,951 ≈ $11,000.&nbsp;</p>",
+          "1ca72a36-6e4b-4c2e-acc0-3c547748823f": "<p>Incorrect because it uses an incorrect calculation (0.024)($1,000,000) = $24,000.&nbsp;</p>",
+          "85f8d544-ddf9-4f17-962d-238c9027db77": "<p>Incorrect because it uses an incorrect calculation (0.024)($912,575) = $21,902 ≈ $22,000.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "128edd21-186d-4c87-9b40-9a64a2b40550",
+              "itemBody": "<p>A. $11,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "85f8d544-ddf9-4f17-962d-238c9027db77",
+              "itemBody": "<p>B. $22,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "1ca72a36-6e4b-4c2e-acc0-3c547748823f",
+              "itemBody": "<p>C. $24,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55073",
+      "entry": {
+        "title": "ITEM_CFA-L1-03514",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a bond:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td>Price</td>\n<td style=\"text-align: center;\">96.00</td>\n</tr>\n<tr>\n<td>Price with yield to maturity 10 basis points higher</td>\n<td style=\"text-align: center;\">95.80</td>\n</tr>\n<tr>\n<td>Price with yield to maturity 10 basis points lower</td>\n<td style=\"text-align: center;\">96.30</td>\n</tr>\n</tbody>\n</table>\n<p>The approximate convexity of this bond is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "efc06aae-e260-4d37-a5bc-3c46d60a6e6e"
+        },
+        "answerFeedback": {
+          "2b455303-f5f6-4f9a-9ece-0a385c1f0608": "<p>Incorrect because the approximate convexity is incorrectly calculated as approximate duration, with a mistake in that the change in yield (0.001) is squared: <math> <mrow> <mfrac> <mrow> <mo>[</mo> <mrow> <mn>96.3</mn> <mo>+</mo> <mn>95.8</mn> </mrow> <mo>]</mo> </mrow> <mrow> <mn>2</mn> <mo>×</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>0.001</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>×</mo> <mo>(</mo> <mrow> <mn>96</mn> </mrow> <mo>)</mo> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mo>,</mo> <mn>604</mn> </mrow> </math></p>",
+          "efc06aae-e260-4d37-a5bc-3c46d60a6e6e": "<p>Correct because <math> <mrow> <mi>A</mi> <mi>p</mi> <mi>p</mi> <mi>r</mi> <mi>o</mi> <mi>x</mi> <mi>C</mi> <mi>o</mi> <mi>n</mi> <mo>=</mo> <mfrac> <mrow> <mo>(</mo> <mrow> <mi>P</mi> <msub> <mi>V</mi> <mo>−</mo> </msub> </mrow> <mo>)</mo> <mo>+</mo> <mo>(</mo> <mrow> <mi>P</mi> <msub> <mi>V</mi> <mo>+</mo> </msub> </mrow> <mo>)</mo> <mo>−</mo> <mo>[</mo> <mrow> <mn>2</mn> <mo>×</mo> <mo>(</mo> <mrow> <mi>P</mi> <msub> <mi>V</mi> <mn>0</mn> </msub> </mrow> <mo>)</mo> </mrow> <mo>]</mo> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>Δ</mi> <mtext>Yield</mtext> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>×</mo> <mo>(</mo> <mrow> <mi>P</mi> <msub> <mi>V</mi> <mn>0</mn> </msub> </mrow> <mo>)</mo> </mrow> </mfrac> </mrow> </math> .</p>\n<p>Therefore the approximate convexity of this =<math> <mrow> <mfrac> <mrow> <mo>[</mo> <mrow> <mn>96.3</mn> <mo>+</mo> <mn>95.8</mn> </mrow> <mo>]</mo> <mo>−</mo> <mo>[</mo> <mrow> <mn>2</mn> <mo>×</mo> <mn>96</mn> </mrow> <mo>]</mo> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mn>0.001</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>×</mo> <mo>(</mo> <mrow> <mn>96</mn> </mrow> <mo>)</mo> </mrow> </mfrac> <mo>=</mo> <mn>1</mn> <mo>,</mo> <mn>042</mn> </mrow> </math></p>",
+          "f396a908-4a4a-4b92-98a9-b9da461ba98d": "<p>Incorrect because the denominator is incorrectly multiplied by 2, as happens in the calculation of approximate duration:</p>\n<p><math> <mrow> <mfrac> <mrow> <mo>[</mo> <mrow> <mn>96.3</mn> <mo>+</mo> <mn>95.8</mn> </mrow> <mo>]</mo> <mo>−</mo> <mo>[</mo> <mrow> <mn>2</mn> <mo>×</mo> <mn>96</mn> </mrow> <mo>]</mo> </mrow> <mrow> <mn>2</mn> <mo>×</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>0.001</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>×</mo> <mo>(</mo> <mrow> <mn>96</mn> </mrow> <mo>)</mo> </mrow> </mfrac> <mo>=</mo> <mn>521</mn> </mrow> </math></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f396a908-4a4a-4b92-98a9-b9da461ba98d",
+              "itemBody": "<p>A. 521.</p>",
+              "position": 1
+            },
+            {
+              "id": "efc06aae-e260-4d37-a5bc-3c46d60a6e6e",
+              "itemBody": "<p>B. 1,042.</p>",
+              "position": 2
+            },
+            {
+              "id": "2b455303-f5f6-4f9a-9ece-0a385c1f0608",
+              "itemBody": "<p>C. 2,604.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55074",
+      "entry": {
+        "title": "ITEM_CFA-L1-09869",
+        "feedback": {},
+        "itemBody": "<p>A bond portfolio consists of the following option-free annual-pay coupon bonds:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<th scope=\"colgroup\">&nbsp;</th>\n<th style=\"text-align: center;\" scope=\"colgroup\"><strong>Bond 1</strong></th>\n<th style=\"text-align: center;\" scope=\"colgroup\"><strong>Bond 2</strong></th>\n</tr>\n<tr>\n<td>Par value</td>\n<td style=\"text-align: center;\">$300,000</td>\n<td style=\"text-align: center;\">$450,000</td>\n</tr>\n<tr>\n<td>Market value</td>\n<td style=\"text-align: center;\">$200,000</td>\n<td style=\"text-align: center;\">$400,000</td>\n</tr>\n<tr>\n<td>Yield to maturity</td>\n<td style=\"text-align: center;\">4%</td>\n<td style=\"text-align: center;\">3%</td>\n</tr>\n<tr>\n<td>Macaulay duration</td>\n<td style=\"text-align: center;\">7.5</td>\n<td style=\"text-align: center;\">5.4</td>\n</tr>\n</tbody>\n</table>\n<p>The modified duration of this portfolio is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2"
+        },
+        "answerFeedback": {
+          "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2": "<p>Correct because the Macaulay and modified durations for the portfolio are calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.</p><p>First we calculate the modified duration (ModDur) of the individual bonds using formula below:</p><p>ModDur = MacDur / (1 + <i>r</i>)&nbsp;</p><p>ModDur of Bond 1 = 7.5 / (1 + 4%) = 7.211538</p><p>ModDur of Bond 2 = 5.4 / (1 + 3%) = 5.242718.</p><p>Next, we calculate the weights for the individual bonds based on market values, as follows:</p><p>Weight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333</p><p>Weight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667</p><p>Modified duration of the portfolio = (Weight for Bond 1 × ModDur of Bond 1) + (Weight for Bond 2 × ModDur of Bond 2) = (0.333333 × 7.211538) + (0.666667 × 5.242718) = 5.898992 ≈ 5.9.</p>",
+          "6bc6d2b4-e8d6-4662-a7e2-201f62b9fb5a": "<p>Incorrect because the weights based on par value are used.</p><p>Weight for Bond 1 ≠ $300,000 / ($300,000 + $450,000) = 0.4</p><p>Weight for Bond 2 ≠ $450,000 / ($300,000 + $450,000) = 0.6</p><p>Modified duration of the portfolio ≠ (0.4 × 7.211538) + (0.6 × 5.242718) = 6.030246 ≈ 6.0.</p>",
+          "cd7b4fd8-454f-47c9-a76f-37ed99c740de": "<p>Incorrect because it uses Macaulay duration instead of modified duration for the individual bonds, and represents the Macaulay duration of the portfolio.</p><p>Modified duration of the portfolio ≠ Macaulay duration of the portfolio = (0.333333 × 7.5) + (0.666667 × 5.4) = 6.099999 ≈ 6.1.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e0851b5-6eb6-41ab-beaa-a0aa636a38d2",
+              "itemBody": "<p>A. 5.9.</p>",
+              "position": 1
+            },
+            {
+              "id": "6bc6d2b4-e8d6-4662-a7e2-201f62b9fb5a",
+              "itemBody": "<p>B. 6.0.</p>",
+              "position": 2
+            },
+            {
+              "id": "cd7b4fd8-454f-47c9-a76f-37ed99c740de",
+              "itemBody": "<p>C. 6.1.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55075",
+      "entry": {
+        "title": "ITEM_CFA-L1-07592",
+        "feedback": {},
+        "itemBody": "<p>A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic of –212. If the market yield increases by 75 basis points, the price of this bond is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "483b0b4a-b77c-4bac-8304-0e12de98f368"
+        },
+        "answerFeedback": {
+          "483b0b4a-b77c-4bac-8304-0e12de98f368": "<p>Correct because %<i>∆PV<sup>Full</sup></i> = (–AnnModDur × ∆Yield) + [(0.5 × AnnConvexity × ∆(Yield)<sup>2</sup>]= (–6.9 × 0.0075) + (0.5 × –212 × 0.0075<sup>2</sup>) = –0.05175 – 0.0059625 = 0.0577125, rounded to 5.77%. The percentage decline in price = –0.0577125 × 99.4 = –5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66.</p>",
+          "591a89da-958c-4f3e-831b-705d7d1c2e1b": "<p>Incorrect because the price is calculated using par instead of 99.4: Price ≠ 100 – 5.74 = 94.26.</p>",
+          "878341e3-9a70-41a4-95b1-f6acddd4fe4c": "<p>Incorrect because the convexity adjustment is input as a positive number:(–6.9 × 0.0075) + (0.5 × 212 × 0.0075<sup>2</sup>) = –0.05175 + 0.0059625 = 0.04579, rounded to 4.58%. The percentage decline in price = 0.04579 × 99.4 = 4.5515, and the bond price = 99.4 – 4.5515 = 94.8485, rounded to 94.85.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "483b0b4a-b77c-4bac-8304-0e12de98f368",
+              "itemBody": "<p>A. 93.7.</p>",
+              "position": 1
+            },
+            {
+              "id": "591a89da-958c-4f3e-831b-705d7d1c2e1b",
+              "itemBody": "<p>B. 94.3.</p>",
+              "position": 2
+            },
+            {
+              "id": "878341e3-9a70-41a4-95b1-f6acddd4fe4c",
+              "itemBody": "<p>C. 94.9.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55076",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Tyler-04",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a zero-coupon bond:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<td>Time to maturity</td>\n<td>5 years</td>\n</tr>\n<tr>\n<td>Annual convexity</td>\n<td style=\"text-align: center;\">28.835</td>\n</tr>\n<tr>\n<td>Annual yield to maturity</td>\n<td style=\"text-align: center;\">2%</td>\n</tr>\n</tbody>\n</table>\n<p>If the yield decreases by 1%, the bond's percentage change in price is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "21cf0941-4981-4549-b3e5-9730c2c70146"
+        },
+        "answerFeedback": {
+          "21cf0941-4981-4549-b3e5-9730c2c70146": "<p>Correct because the Macaulay duration of a zero-coupon bond is its time-to-maturity and modified duration&nbsp;is the Macaulay duration statistic divided by one plus the yield per period.</p><p>Here, modified duration = 5/1.02 = 4.901961.</p><p>Thus, the percentage change in price =&nbsp;–4.901961 * –0.01 + (0.5 * 28.835 * –0.01<sup>2</sup>) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%.</p>",
+          "2acdb7a0-0962-4e4c-ab69-4ebea689b5dd": "<p>Incorrect because the convexity adjustment is applied to the Macaulay duration rather than the modified duration. The percentage change in price is not equal to&nbsp;&nbsp;–5 * –0.01 + (0.5 * 28.835 * –0.01<sup>2</sup>) = 0.05 + 0.0014418 = 5.14418%, rounded to 5.14%.</p>",
+          "8b6e2b8a-847e-4bf3-86d9-857a02e6a09e": "<p>Incorrect because the convexity adjustment is subtracted rather than added. The percentage change in price is not equal to&nbsp;&nbsp;–4.901961 * –0.01&nbsp;– (0.5 * 28.835 * –0.01<sup>2</sup>) = 0.04901961&nbsp;– 0.0014418 = 4.757781%, rounded to 4.76%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8b6e2b8a-847e-4bf3-86d9-857a02e6a09e",
+              "itemBody": "<p>A. 4.76%.</p>",
+              "position": 1
+            },
+            {
+              "id": "21cf0941-4981-4549-b3e5-9730c2c70146",
+              "itemBody": "<p>B. 5.05%.</p>",
+              "position": 2
+            },
+            {
+              "id": "2acdb7a0-0962-4e4c-ab69-4ebea689b5dd",
+              "itemBody": "<p>C. 5.14%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55077",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-FI-Tyler-03",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following details about a bond portfolio:</p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Bond</strong></th>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Market Price (per 100 of par value)</strong></th>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Money Duration (per 100 of par value</strong>)</th>\n</tr>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: center;\">95</td>\n<td style=\"text-align: center;\">730</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: center;\">120</td>\n<td style=\"text-align: center;\">515</td>\n</tr>\n<tr></tr>\n</tbody>\n</table>\n<p>If each bond has a par value of £25 million, the modified duration of this bond portfolio is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "dbfdeae9-ae46-4c76-861f-19ff22a687f7"
+        },
+        "answerFeedback": {
+          "383fb939-cf57-4a98-9578-09ad2a0a09f0": "<p>Incorrect because the modified duration of the portfolio is not equal to the weighted average of the money durations of the bonds divided by 100. Portfolio modified duration &lt;&gt; 44.186% * 730 / 100 + 55.814% * 5.15 / 100 = 6.1. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.</p>",
+          "44e36fe3-809a-4519-a5ca-535692b9702e": "<p>Incorrect because the modified duration of the portfolio is not equal to the simple average of the money durations of the bonds divided by 100. Portfolio modified duration&nbsp;50% * 730 / 100 + 50% * 5.15 / 100 = 6.225, rounded to 6.2. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.&nbsp;Candidates may choose this option because the par values of the bonds are the same.</p>",
+          "dbfdeae9-ae46-4c76-861f-19ff22a687f7": "<p>Correct because money duration (MoneyDur) is calculated as the annual modified duration times the full price (PV<sup>Full</sup>) of the bond, including accrued interest. Thus the modified durations of the bonds are 730/95 = 7.6842 and 515/120 = 4.29167, respectively.&nbsp;</p><p>The modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.&nbsp;Here, the market values of the bonds are&nbsp;£25 million * 95/100 =&nbsp;£23,750,000 and&nbsp;£25 million * 120/100 =&nbsp;£30,000,000. Thus the weight of the first bond in the portfolio is&nbsp;£23,750,000 / (£23,750,000 +&nbsp;£30,000,000) = 44.186% and the weight of the second bond in the portfolio is £30,000,000 / (£23,750,000 +&nbsp;£30,000,000) = 55.814%. The modified duration of the portfolio is therefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 + 2.3953 = 5.7907, rounded to 5.8.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dbfdeae9-ae46-4c76-861f-19ff22a687f7",
+              "itemBody": "<p>A. 5.8.</p>",
+              "position": 1
+            },
+            {
+              "id": "383fb939-cf57-4a98-9578-09ad2a0a09f0",
+              "itemBody": "<p>B. 6.1.</p>",
+              "position": 2
+            },
+            {
+              "id": "44e36fe3-809a-4519-a5ca-535692b9702e",
+              "itemBody": "<p>C. 6.2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55078",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-FI-Moustra-07",
+        "feedback": {},
+        "itemBody": "<p>Two par bonds have the same duration but different convexity. All else being equal, if yields to maturity increase by 10 basis points, it is <i>most likely</i> that:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "45ee7f67-1755-44c5-8b37-cbf5f5a127bb"
+        },
+        "answerFeedback": {
+          "1f7b956c-6157-47eb-b88d-a5c8cce1afcf": "<p>Incorrect because&nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.&nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets.&nbsp;The more convex bond always outperforms the less convex bond.</p>",
+          "45ee7f67-1755-44c5-8b37-cbf5f5a127bb": "<p>Correct because&nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.&nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price (than the less convex bond).</p>",
+          "506a0058-7602-425c-a0d4-f0c2a7ca7f86": "<p>Incorrect because&nbsp;the two bonds are assumed to have the same price, yield-to-maturity, and modified duration.&nbsp;The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets.&nbsp;The more convex bond always outperforms the less convex bond.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1f7b956c-6157-47eb-b88d-a5c8cce1afcf",
+              "itemBody": "<p>A. the more convex bond underperforms the less convex bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "506a0058-7602-425c-a0d4-f0c2a7ca7f86",
+              "itemBody": "<p>B. both bond prices decrease by the same amount.</p>",
+              "position": 2
+            },
+            {
+              "id": "45ee7f67-1755-44c5-8b37-cbf5f5a127bb",
+              "itemBody": "<p>C. the more convex bond outperforms the less convex bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "55079",
+      "entry": {
+        "title": "ITEM_CFA-L1-09959",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">An analyst gathers the following information about an option-free coupon bond that pays annually:</span></p>\n<table style=\"border-collapse: collapse; border-style: solid;\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\n<tbody>\n<tr>\n<td><span style=\"font-family: Arial,Helvetica,sans-serif;\">Modified duration</span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">13.2</span></td>\n</tr>\n<tr>\n<td><span style=\"font-family: Arial,Helvetica,sans-serif;\">Convexity statistic</span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">1,081</span></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">If the bond's yield decreases by 10 basis points, the expected percentage price change for this bond is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cfcd645c-7cd1-4695-9662-1376f8a2ddff"
+        },
+        "answerFeedback": {
+          "96c0456c-b60c-4d53-b68f-0a8b506cb620": "<p>Incorrect because the modified duration is not negated. <i>%ΔPV<sup>Full</sup></i> ≠ (AnnModDur × ΔYield) + [1/2 × AnnConvexity × (ΔYield)<sup>2</sup>] = (13.2 × −0.0010) + [1/2 × 1081 × (−0.0010)<sup>2</sup>] = –0.0132 + 0.0005405 = −1.26595% ≈ −1.27%.</p>",
+          "cfcd645c-7cd1-4695-9662-1376f8a2ddff": "<p>Correct because <i>%ΔPV<sup>Full</sup></i> ≈ (−AnnModDur × ΔYield) + [1/2 × AnnConvexity × (ΔYield)<sup>2</sup>] = (−13.2 × −0.0010) + [1/2 × 1081 × (−0.0010)<sup>2</sup>] = 0.0132 + 0.0005405 = 1.37405% ≈ 1.37%.</p>",
+          "eb2bc401-bcb7-4207-a7aa-cbb1c3fc69e8": "<p>Incorrect because the convexity adjustment is subtracted instead of added: <i>%ΔPV<sup>Full</sup></i> ≈ (−AnnModDur × ΔYield) – [1/2 × AnnConvexity × (ΔYield)<sup>2</sup>] = (−13.2 × −0.0010) – [1/2 × 1081 × (−0.0010)<sup>2</sup>] = 0.0132 – 0.0005405 = 1.26595% ≈ 1.27%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "96c0456c-b60c-4d53-b68f-0a8b506cb620",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">−1.27%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "eb2bc401-bcb7-4207-a7aa-cbb1c3fc69e8",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">1.27%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "cfcd645c-7cd1-4695-9662-1376f8a2ddff",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">1.37%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8880,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 843,
+      "sourceModuleId": 4691,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51258",
+      "entry": {
+        "title": "CFA2442-R-s04-Q8",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct.</p>\n<div id=\"CFA2442-R-s04-E___10\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <mi>A</mi> <mi>p</mi> <mi>p</mi> <mi>r</mi> <mi>o</mi> <mi>x</mi> <mi>C</mi> <mi>o</mi> <mi>n</mi> <mo>=</mo> <mstyle><mfrac> <mrow> <mn>100.177546</mn> <mo>+</mo> <mn>99.82283</mn> <mo>−</mo> <mrow><mo>(</mo> <mrow> <mn>2</mn> <mo>×</mo> <mn>100</mn> </mrow> <mo>)</mo></mrow> </mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>0.005</mn> </mrow> <mo>)</mo></mrow> </mrow> <mn>2</mn> </msup> <mo>×</mo> <mn>100</mn> </mrow> </mfrac></mstyle> <mo>=</mo> <mn>15.04.</mn> </mrow> </semantics></math></div>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A 5.5% semiannual-pay fixed-coupon bond is issued at par on 1 May 2025 and matures on\n               1 May 2029. For a 50 bps increase and decrease in yield-to-maturity,\n                  <em>PV</em>\n               <sub>+</sub> and <em>PV</em>\n               <sub>–</sub> are 99.82283 and 100.177546, respectively. The approximate convexity is\n                  <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6f9d9099-cdf5-44fa-ac7d-7355deba35fa"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e245378-6fcf-4407-a3e5-d577d77823d2",
+              "itemBody": "A. 3.548.",
+              "position": 1
+            },
+            {
+              "id": "6f9d9099-cdf5-44fa-ac7d-7355deba35fa",
+              "itemBody": "B. 15.045.",
+              "position": 2
+            },
+            {
+              "id": "01084608-f863-47c5-b147-ca346b1687b2",
+              "itemBody": "C. 101.793.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51259",
+      "entry": {
+        "title": "CFA2442-R-s04-Q9",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct.</p>\n            <div id=\"CFA2442-R-s04-Te\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h3 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; background-color: #fff; border-top: 2px solid #CCCCCC; border-bottom: none !important; border-right: none; border-left: none; text-align: center; margin-top: .84em !important; background-color: inherit !important;\">\n<i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i><span style=\"display: block;\">Eight-Year, 4.70% Semiannual Bond</span>\n</h3>\n               \n               <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                  \n                  <tbody>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">\n                           <strong>Fixed Coupon (%)</strong>\n                        </td>\n                        <td style=\"text-align: right; vertical-align: top; padding: 8px; \">4.70</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">\n                           <strong>Periods p.a.</strong>\n                        </td>\n                        <td style=\"text-align: right; vertical-align: top; padding: 8px; \">2</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">\n                           <strong>Price (per 100 Par Value)</strong>\n                        </td>\n                        <td style=\"text-align: right; vertical-align: top; padding: 8px; \">100</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">\n                           <strong>Yield-to-Maturity (%)</strong>\n                        </td>\n                        <td style=\"text-align: right; vertical-align: top; padding: 8px; \">4.70</td>\n                     </tr>\n                  </tbody>\n               </table></div>\n            </div>\n            <div id=\"CFA2442-R-s04-Tf\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n               <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                  \n                  <thead>\n                     <tr>\n                        <th style=\"text-align: left; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 1</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 2</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 3</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 4</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 5</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 6 = Col. 2 × Col. 5</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: bottom; padding: 8px; \">\n                           <strong>Col. 7 = Col. 2 × (Col. 2 + 1) × Col. 5 × (1 + YTM/2)<sup>–2</sup>\n                           </strong>\n                        </th>\n                     </tr>\n                     <tr>\n                        <th style=\"text-align: left; vertical-align: middle; padding: 8px; \">\n                           <strong>Period</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Time to Receipt</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Cash Flow</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Present Value</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Weight</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Time to Receipt × Weight</strong>\n                        </th>\n                        <th style=\"text-align: center; vertical-align: middle; padding: 8px; \">\n                           <strong>Convexity of Cash Flows</strong>\n                        </th>\n                     </tr>\n                  </thead>\n                  <tbody>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">1</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.296043</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02296</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02296</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.04384</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">2</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.243325</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02243</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.04487</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.12849</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">3</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">3.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.191817</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02192</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.06575</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.25108</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">4</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">4.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.141492</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02141</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.08566</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.40886</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">5</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">5.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.092323</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02092</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.10462</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.59920</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">6</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">6.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.044282</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.02044</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.12266</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.81962</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">7</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">7.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.997344</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01997</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.13981</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.06774</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">8</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">8.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.951484</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01951</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.15612</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.34129</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">9</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">9.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.906677</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01907</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.17160</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.63811</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">10</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">10.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.862899</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01863</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.18629</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.95617</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">11</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">11.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.820126</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01820</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.20021</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.29351</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">12</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">12.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.778336</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01778</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.21340</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.64827</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">13</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">13.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.737504</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01738</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.22588</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">3.01871</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">14</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">14.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.697610</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01698</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.23767</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">3.40315</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">15</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">15.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">2.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">1.658632</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.01659</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.24879</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">3.80002</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \">16</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">16.0</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">102.35</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">70.580104</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">0.70580</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">11.29282</td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">183.26330</td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \"></td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">\n                           <strong>100.0000</strong>\n                        </td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">\n                           <strong>1.00000</strong>\n                        </td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">\n                           <strong>13.51910</strong>\n                        </td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">\n                           <strong>206.68136</strong>\n                        </td>\n                     </tr>\n                     <tr>\n                        <td style=\"text-align: left; vertical-align: top; padding: 8px; \" colspan=\"5\">\n                           <strong>Annualized Convexity</strong>\n                        </td>\n                        <td style=\"text-align: left; vertical-align: middle; padding: 8px; \"></td>\n                        <td style=\"text-align: center; vertical-align: top; padding: 8px; \">\n                           <strong>51.67034</strong>\n                        </td>\n                     </tr>\n                  </tbody>\n               </table></div>\n            </div>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A bond pays a semiannual fixed coupon of 4.70%. It trades at par on its coupon date of 16 December 2025 and matures on 16 December 2033. The bond’s annualized convexity statistic is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9a57e9c7-8044-4b0c-8511-78d110713aea"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9a57e9c7-8044-4b0c-8511-78d110713aea",
+              "itemBody": "A. 51.670.",
+              "position": 1
+            },
+            {
+              "id": "ca692364-9e59-42c1-a379-89ff73852af0",
+              "itemBody": "B. 53.231.",
+              "position": 2
+            },
+            {
+              "id": "f5d6ffa6-0ceb-43da-b0b3-10bcfa322ce6",
+              "itemBody": "C. 206.681.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51260",
+      "entry": {
+        "title": "CFA2442-R-s04-Q10",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The convexity adjustment is a complementary risk measure to duration. It accounts for the second-order (non-linear) effect of yield changes on price. It is most useful for large yield changes, because duration provides a good approximation for small yield changes.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For changes in yield-to-maturity, the convexity adjustment is <em>most</em> needed to account for the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fce318c7-c96d-45c0-85cc-602fafbcaa11"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "31a61ae3-bb9c-41db-bb42-bfdbbbb14d67",
+              "itemBody": "A. first-order effect on bond prices.",
+              "position": 1
+            },
+            {
+              "id": "00136def-b12f-4af4-a9d1-ad9a8651a974",
+              "itemBody": "B. bond price risk due to small changes in yield-to-maturity.",
+              "position": 2
+            },
+            {
+              "id": "fce318c7-c96d-45c0-85cc-602fafbcaa11",
+              "itemBody": "C. non-linear relationship of bond prices and yield to maturity.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51261",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A bond portfolio consists of the following three option-free, fixed-rate bonds:</p>\n<div id=\"CFA2442-R-s04-Tg\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Bond</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Market Value (£)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Annual Modified Duration</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Annual Convexity</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">X</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">5,000,000</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">3.6239</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">16.2513</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Y</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">5,000,000</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">9.0036</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">91.0278</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\">Z</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">10,000,000</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">12.7512</td>\n<td style=\"text-align: center; vertical-align: top; padding: 8px;\">179.8591</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "51262",
+      "entry": {
+        "title": "CFA2442-R-s04-Q11",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The expected price change is calculated as follows:</p>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___11\">%Δ<em>PV<sup>Full</sup>\n                  </em> ≈ (–3.6239 × 0.005) + [½ × 16.2513 × (0.005)<sup>2</sup>] = –1.79164% ≈ –1.792%.</div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">If the yield-to-maturity of Bond X increases by 50 bps, the expected percentage price change of Bond X is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a768f550-ae69-41e2-a7a1-8c9f47dc8977"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a768f550-ae69-41e2-a7a1-8c9f47dc8977",
+              "itemBody": "A. 1.792%.",
+              "position": 1
+            },
+            {
+              "id": "e84f9729-6eb3-47fb-9188-9993260f36a2",
+              "itemBody": "B. 1.812%.",
+              "position": 2
+            },
+            {
+              "id": "77f49f50-3357-40bb-a912-d455dab7e93d",
+              "itemBody": "C. 1.832%.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "51263",
+      "entry": {
+        "title": "CFA2442-R-s04-Q12",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Since the convexity adjustment uses the square of the change in yield, it is always positive regardless of the direction of the change in yield-to-maturity. As a result, the convexity adjustment for Bond Z will always be greater than the convexity adjustment for Bond Y, given the same change in yields-to-maturity.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Given a 75 bps change in the yields-to-maturity for Bonds Y and Z, the convexity adjustment for Bond Z would be greater than the convexity adjustment of Bond Y:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0314146d-dffa-46e6-88ff-3a988362ecdb"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "243abb81-ff49-4df3-bb73-0ba8e70ae980",
+              "itemBody": "A. if the YTM change is positive.",
+              "position": 1
+            },
+            {
+              "id": "7431380d-7f4b-4466-b2f2-d5d2d0b45274",
+              "itemBody": "B. if the YTM change is negative.",
+              "position": 2
+            },
+            {
+              "id": "0314146d-dffa-46e6-88ff-3a988362ecdb",
+              "itemBody": "C. regardless of the direction of the change in YTM.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "51264",
+      "entry": {
+        "title": "CFA2442-R-s04-Q13",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct.</p>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___12\">\n                  <em>MoneyDur</em> ≈ 9.0036 × 5,000,000 = 45,018,000</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___13\">\n                  <em>MoneyCon</em> ≈ 91.0278 × 5,000,000 = 455,139,000</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___14\">Δ<em>PV<sup>Full</sup>\n                  </em> ≈ –(45,018,000 × 0.01) + [½ × 455,139,000 × (0.01)<sup>2</sup>] = –GBP427,423.</div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For a 100 bps increase in yield-to-maturity and using money duration and money convexity, the estimated change in Bond Y’s full price is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "da7bd42c-908a-4ef5-88b9-e7c2a34d622e"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "57ed80eb-bc76-41b6-90b1-f6b19697350b",
+              "itemBody": "A. GBP472,937.",
+              "position": 1
+            },
+            {
+              "id": "46020587-72ea-4ee7-acb0-840df9b1bd63",
+              "itemBody": "B. GBP450,180.",
+              "position": 2
+            },
+            {
+              "id": "da7bd42c-908a-4ef5-88b9-e7c2a34d622e",
+              "itemBody": "C. GBP427,423.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "51265",
+      "entry": {
+        "title": "CFA2442-R-s04-Q14",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The portfolio weights for Bonds X, Y, and Z are 0.25, 0.25, and 0.50, respectively. The weighted average duration and convexity measures are calculated as follows:</p>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___15\">Weighted-average duration = (0.25 × 3.6239) + (0.25 × 9.0036) + (0.50 × 12.7512) = 9.5325.</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___16\">Weighted-average convexity = (0.25 × 16.2513) + (0.25 × 91.0278) + (0.50 × 179.8591) = 116.7493.</div>\n               <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2442-R-s04-E___17\">%Δ<em>PV<sup>Full</sup>\n                  </em> ≈ (–9.5325 × 0.01) + [½ × 116.7493 × (0.01)<sup>2</sup>] = –8.9487% ≈ –8.949%.</div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">For a 100 bps increase in yield-to-maturity and using the weighted average duration and convexity, the expected percentage price change for the bond portfolio is <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "dc09be50-ba68-482b-b3f3-ee2751d53327"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "57ab1bf6-9571-44a1-8c57-998312bc4571",
+              "itemBody": "A. 7.981%.",
+              "position": 1
+            },
+            {
+              "id": "dc09be50-ba68-482b-b3f3-ee2751d53327",
+              "itemBody": "B. 8.949%.",
+              "position": 2
+            },
+            {
+              "id": "06c7c808-7939-4101-9249-67a77a1bee58",
+              "itemBody": "C. 9.533%.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "51266",
+      "entry": {
+        "title": "CFA2442-R-s04-Q15",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The portfolio has a weighted-average duration of 9.5325, which is identical to the benchmark’s duration. However, the portfolio has higher convexity (116.7493) compared to the benchmark (103.0677). All else equal, the portfolio should outperform the lower convexity benchmark portfolio in both rising and falling interest rate environments.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The bond portfolio’s benchmark is a fixed-income index with a duration of 9.5325 and convexity of 103.0677. Based on the weighted-average portfolio duration and convexity, the portfolio should outperform its benchmark in which of the following scenarios?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d5522b59-46e4-4747-bd52-0b762b99d42a"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "94dc2836-5a8e-4c87-a79d-21f2910609cf",
+              "itemBody": "A. Only when interest rates are rising",
+              "position": 1
+            },
+            {
+              "id": "c8a05f6d-27ff-4e5a-bce2-5e48847cc0ed",
+              "itemBody": "B. Only when interest rates are falling",
+              "position": 2
+            },
+            {
+              "id": "d5522b59-46e4-4747-bd52-0b762b99d42a",
+              "itemBody": "C. Both when interest rates are rising and falling",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "51267",
+      "entry": {
+        "title": "CFA2442-R-s04-Q16",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. The weighted-average portfolio duration and convexity method is easy to calculate and apply in practice and is commonly used by portfolio managers to assess bond portfolio price risk. It does, however, implicitly assume parallel shifts in the yield curve. Using the weighted average of time to receipt of the aggregate cash flows is the theoretically correct method to calculate portfolio duration and convexity, but it is difficult to use in practice.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The method of using weighted-average portfolio duration and convexity measures to assess price risk of a bond portfolio is <em>best</em> characterized as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5115d7ef-74ff-4c9a-a47b-72d3a80df9c9"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9182f24-51b2-4e18-aad0-81a23bfad9f7",
+              "itemBody": "A. being theoretically correct.",
+              "position": 1
+            },
+            {
+              "id": "5115d7ef-74ff-4c9a-a47b-72d3a80df9c9",
+              "itemBody": "B. being commonly used by portfolio managers.",
+              "position": 2
+            },
+            {
+              "id": "2245257e-92c6-4497-80ec-69dc50e2b564",
+              "itemBody": "C. accommodating non-parallel shifts in the yield curve.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8239,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": "51261"
+    },
+    {
+      "id": "54215",
+      "entry": {
+        "title": "ITEM_20170607047",
+        "feedback": {},
+        "itemBody": "<p>A bond with a par value of $100 matures in 10 years with a coupon of 4.5% paid semiannually; it is priced to yield 5.83% and has a modified duration of 7.81. If the yield of the bond declines by 0.25%, the approximate percentage price change for the bond is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "27393270-7ce1-4a3b-94e2-b80ae6864e10"
+        },
+        "answerFeedback": {
+          "27393270-7ce1-4a3b-94e2-b80ae6864e10": "<p><strong>Correct.</strong></p><p style=\"margin-left:1.618em\">Approximate percentage price change = –[7.81 × (–0.0025)] = 0.01953 or 1.95%</p>",
+          "44571f9c-df06-41f4-a58f-a9adb5ebfe4f": "<p>Incorrect. This incorrectly calculated as follows:</p><p style=\"margin-left:1.618em\">Approximate percentage price change = –[7.81 × (–0.0025)] × 2 = 0.03905 or 3.91%</p>",
+          "b09303ec-1701-4b57-be9c-48115a93a8aa": "<p>Incorrect. This incorrectly calculated as follows:</p><p style=\"margin-left:1.618em\">Approximate percentage price change = – [7.81 × (–0.0025)]/2 = 0.00976 or 0.98%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b09303ec-1701-4b57-be9c-48115a93a8aa",
+              "itemBody": "<p>A. 0.98%.</p>",
+              "position": 1
+            },
+            {
+              "id": "27393270-7ce1-4a3b-94e2-b80ae6864e10",
+              "itemBody": "<p>B. 1.95%.</p>",
+              "position": 2
+            },
+            {
+              "id": "44571f9c-df06-41f4-a58f-a9adb5ebfe4f",
+              "itemBody": "<p>C. 3.91%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54216",
+      "entry": {
+        "title": "ITEM_20170607054",
+        "feedback": {},
+        "itemBody": "<div>The following table provides information about a portfolio of three bonds.\n<div>\n<table style=\"border-collapse: collapse; width: 434px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: bottom; width: 52px; max-width: 52px; text-align: center;\" scope=\"col\"><strong>Bond</strong></th>\n<th style=\"vertical-align: bottom; width: 79px; max-width: 79px; text-align: center;\" scope=\"col\"><strong>Maturity</strong></th>\n<th style=\"vertical-align: bottom; width: 93px; max-width: 93px; text-align: center;\" scope=\"col\"><strong>Price</strong></th>\n<th style=\"vertical-align: bottom; width: 111px; max-width: 111px; text-align: center;\" scope=\"col\"><strong>Par Amount</strong></th>\n<th style=\"vertical-align: bottom; width: 81px; max-width: 81px; text-align: center;\" scope=\"col\"><strong>Duration</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\">1</td>\n<td style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\">17-year</td>\n<td style=\"vertical-align: top; width: 93px; max-width: 93px; text-align: center;\">$109.2461</td>\n<td style=\"vertical-align: top; width: 111px; max-width: 111px; text-align: center;\">$16 million</td>\n<td style=\"vertical-align: top; width: 81px; max-width: 81px; text-align: center;\">8.56</td>\n</tr>\n<tr>\n<td style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\">2</td>\n<td style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\">20-year</td>\n<td style=\"vertical-align: top; width: 93px; max-width: 93px; text-align: center;\">$100.4732</td>\n<td style=\"vertical-align: top; width: 111px; max-width: 111px; text-align: center;\">$4 million</td>\n<td style=\"vertical-align: top; width: 81px; max-width: 81px; text-align: center;\">9.19</td>\n</tr>\n<tr>\n<td style=\"vertical-align: top; width: 52px; max-width: 52px; text-align: center;\">3</td>\n<td style=\"vertical-align: top; width: 79px; max-width: 79px; text-align: center;\">25-year</td>\n<td style=\"text-align: center; vertical-align: top; width: 93px; max-width: 93px;\">$84.6427</td>\n<td style=\"text-align: center; vertical-align: top; width: 111px; max-width: 111px;\">$8 million</td>\n<td style=\"text-align: center; vertical-align: top; width: 81px; max-width: 81px;\">11.48</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>Based on this information, the duration of the portfolio is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ebef6c2b-2d93-4796-937a-6e04291fe911"
+        },
+        "answerFeedback": {
+          "b351f93d-40cb-447b-9c30-de064084cf33": "<p>Incorrect because it bases the weights on par values rather than market values.</p>",
+          "ebef6c2b-2d93-4796-937a-6e04291fe911": "<p><strong>Correct.</strong> The market values of the bonds (Price × Par amount) are $17,479,376, $4,018,928, and $6,771,416, respectively, for a portfolio value of $28,269,720. Therefore, the duration of the portfolio is:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mrow> <mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mn>17</mn><mo>,</mo><mn>479</mn><mo>,</mo><mn>376</mn></mrow> <mrow> <mn>28</mn><mo>,</mo><mn>269</mn><mo>,</mo><mn>720</mn></mrow> </mfrac> <mo>×</mo><mn>8.56</mn></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mn>4</mn><mo>,</mo><mn>018</mn><mo>,</mo><mn>928</mn></mrow> <mrow> <mn>28</mn><mo>,</mo><mn>269</mn><mo>,</mo><mn>720</mn></mrow> </mfrac> <mo>×</mo><mn>9.19</mn></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mn>6</mn><mo>,</mo><mn>771</mn><mo>,</mo><mn>416</mn></mrow> <mrow> <mn>28</mn><mo>,</mo><mn>269</mn><mo>,</mo><mn>720</mn></mrow> </mfrac> <mo>×</mo><mn>11.48</mn></mrow> <mo>)</mo></mrow><mo>=</mo><mn>9.35</mn></mrow></semantics></math></p>",
+          "f94e75de-f56a-4074-9012-f4806d5e1a7f": "<p>Incorrect because it is the simple arithmetic average of the bonds’ durations.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ebef6c2b-2d93-4796-937a-6e04291fe911",
+              "itemBody": "<p>A. 9.35.</p>",
+              "position": 1
+            },
+            {
+              "id": "b351f93d-40cb-447b-9c30-de064084cf33",
+              "itemBody": "<p>B. 9.48.</p>",
+              "position": 2
+            },
+            {
+              "id": "f94e75de-f56a-4074-9012-f4806d5e1a7f",
+              "itemBody": "<p>C. 9.74.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54217",
+      "entry": {
+        "title": "ITEM_20170607061",
+        "feedback": {},
+        "itemBody": "<p>One limitation as to why using the average duration of the bonds in a portfolio does not properly reflect that portfolio’s yield curve risk is that the approach assumes:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "168a00ec-2a2c-41aa-abbe-3d0b29786ee8"
+        },
+        "answerFeedback": {
+          "168a00ec-2a2c-41aa-abbe-3d0b29786ee8": "<p><strong>Correct.</strong> A limitation to using the average duration approach in calculating portfolio duration is that it assumes all interest rates across the yield curve change by the same amount and, therefore, each bond’s price changes by the same percentage.</p>",
+          "320f03d1-5d79-48a4-97c4-eb35e1c19f22": "<p>Incorrect because the duration of each bond is calculated using the appropriate discount rate for the bond, not the same discount rate for all bonds.</p>",
+          "976de9c1-5524-4119-95f0-5d4f072223a0": "<p>Incorrect because the duration of each bond is calculated using the bond’s coupon rate payment.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "168a00ec-2a2c-41aa-abbe-3d0b29786ee8",
+              "itemBody": "<p>A. a parallel shift in the yield curve.</p>",
+              "position": 1
+            },
+            {
+              "id": "976de9c1-5524-4119-95f0-5d4f072223a0",
+              "itemBody": "<p>B. a non-parallel shift in the yield curve.</p>",
+              "position": 2
+            },
+            {
+              "id": "320f03d1-5d79-48a4-97c4-eb35e1c19f22",
+              "itemBody": "<p>C. all the bonds have the same discount rate.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54218",
+      "entry": {
+        "title": "ITEM_20170607086",
+        "feedback": {},
+        "itemBody": "<p>The Delfain Corporation reported a significant improvement in profitability that was followed by a material upgrade in its credit rating. The market responded by immediately requiring a 100 basis point narrower spread to Gilts on Delfain’s 8-year bond. If the bond’s modified duration is 6.0 and its convexity is 55.0, the return impact of this change is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cc3b45f4-bf9f-4401-8f6d-bacf868fa477"
+        },
+        "answerFeedback": {
+          "cc3b45f4-bf9f-4401-8f6d-bacf868fa477": "<p><strong>Correct.</strong> The return impact of a 60 bps fall in the bond’s yield can be computed as:</p><p style=\"margin-left:1.618em\">Return impact ≈ –(MDur × ΔSpread) + ½Cvx × (ΔSpread)<sup>2</sup></p><p style=\"margin-left:1.618em\">Return impact ≈ –(6.0 × –0.01) + ½(55.0) × (–0.01)<sup>2</sup> = 6.28%</p>",
+          "dc3f08f4-3c74-4431-86a5-025712f19092": "<p>Incorrect because the return impact is incorrectly computed as:</p><p style=\"margin-left:1.618em\">Return impact ≈ –(6.0 × 0.01) + ½(55.0) × (0.01)<sup>2</sup> = –5.73%</p>",
+          "eb11aa80-352c-482f-9bda-236a1bb0fda3": "<p>Incorrect because the return impact is incorrectly computed as:</p><p style=\"margin-left:1.618em\">Return impact ≈ –(6.0 × –0.01) + 2 × (55.0) × (–0.01)<sup>2</sup> = 7.10%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dc3f08f4-3c74-4431-86a5-025712f19092",
+              "itemBody": "<p>A. –5.73%.</p>",
+              "position": 1
+            },
+            {
+              "id": "cc3b45f4-bf9f-4401-8f6d-bacf868fa477",
+              "itemBody": "<p>B. 6.28%.</p>",
+              "position": 2
+            },
+            {
+              "id": "eb11aa80-352c-482f-9bda-236a1bb0fda3",
+              "itemBody": "<p>C. 7.10%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54219",
+      "entry": {
+        "title": "ITEM_20170607125",
+        "feedback": {},
+        "itemBody": "<p>A bond has a Macaulay duration of 6.0, modified duration of 6.5, and convexity of 50.25. If the bond’s yield to maturity decreases by 50 bps, the expected percentage price change is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "35b97bb8-0922-45cf-b55b-252b0f9e80b2"
+        },
+        "answerFeedback": {
+          "35b97bb8-0922-45cf-b55b-252b0f9e80b2": "<p><strong>Correct.</strong> The expected percentage price change for a bond can be is estimated as follows:</p><p style=\"margin-left:1.618em\">%Δ<em>P<sup>Full</sup></em> ≈ (–AnnModDur × ΔYield) + [0.5 × AnnConvexity × (ΔYield)<sup>2</sup>]</p><p style=\"margin-left:1.618em\">%Δ<em>P<sup>Full</sup></em> ≈ (–6.5 × –0.005) + [0.5 × 50.25 × (–0.005)<sup>2</sup>] = 3.313%</p>",
+          "54f53133-22b1-452c-81aa-0f3438090f68": "<p>Incorrect because it ignores the convexity adjustment, as follows:</p><p style=\"margin-left:1.618em\">(–6.5 × –0.005) = 3.250%</p>",
+          "d012af43-eda7-4e0e-9c3f-9403bc24b5f5": "<p>Incorrect because it uses the Macaulay duration, as follows:</p><p style=\"margin-left:1.618em\">(–6.0 × –0.005) + [0.5 × 50.25 × (–0.005)<sup>2</sup>] = 3.063%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d012af43-eda7-4e0e-9c3f-9403bc24b5f5",
+              "itemBody": "<p>A. 3.06%.</p>",
+              "position": 1
+            },
+            {
+              "id": "54f53133-22b1-452c-81aa-0f3438090f68",
+              "itemBody": "<p>B. 3.25%.</p>",
+              "position": 2
+            },
+            {
+              "id": "35b97bb8-0922-45cf-b55b-252b0f9e80b2",
+              "itemBody": "<p>C. 3.31%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54220",
+      "entry": {
+        "title": "ITEM_20170607131",
+        "feedback": {},
+        "itemBody": "<p>A bond’s duration is 7.31, and its convexity is –24.85. Using the duration model with convexity adjustment, the bond’s percentage change in price if interest rates decrease 2% is <i>closest to</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5d76516a-9363-4edc-a566-a9df61f06198"
+        },
+        "answerFeedback": {
+          "340d053c-eaee-4832-b51c-529807ce493e": "<p>Incorrect because it uses –<em>C</em> × (∆<em>i</em>)<sup>2</sup> × 100 or –24.85 × (0.02)<sup>2</sup> × 100 = +0.98% as the convexity adjustment and 14.62% + 0.98% = 15.60%.</p>",
+          "5d76516a-9363-4edc-a566-a9df61f06198": "<p><strong>Correct.</strong> The duration model estimates the percentage change in price as –AnnModDur × ΔYield, or –7.31 × (–0.02)= +14.62%, and the convexity adjustment is ½ × AnnConvexity × (∆Yield)<sup>2</sup>, or ½ × (–24.85) × (0.02)<sup>2</sup> = –0.50%, and 14.62% – 0.50% = 14.12%.</p>",
+          "af10daec-c963-4db0-bef4-5c74aaea0b76": "<p>Incorrect because it uses –<em>C</em> × ∆<em>i</em> as the convexity adjustment or –24.85 × –0.02 = 0.50% and 14.62% + 0.50% = 15.12%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5d76516a-9363-4edc-a566-a9df61f06198",
+              "itemBody": "<p>A. 14.12%.</p>",
+              "position": 1
+            },
+            {
+              "id": "af10daec-c963-4db0-bef4-5c74aaea0b76",
+              "itemBody": "<p>B. 15.12%.</p>",
+              "position": 2
+            },
+            {
+              "id": "340d053c-eaee-4832-b51c-529807ce493e",
+              "itemBody": "<p>C. 15.60%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54221",
+      "entry": {
+        "title": "ITEM_20180516054",
+        "feedback": {},
+        "itemBody": "<div>Consider the following information on three bonds: Bond A, Bond B, and Bond C.\n<div>\n<table style=\"border-collapse: collapse; width: 588px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom; width: 241px; max-width: 241px;\" scope=\"col\">&nbsp;</th>\n<th style=\"text-align: center; vertical-align: bottom; width: 108px; max-width: 108px;\" scope=\"col\"><strong>Bond A</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 108px; max-width: 108px;\" scope=\"col\"><strong>Bond B</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 114px; max-width: 114px;\" scope=\"col\"><strong>Bond C</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\">Time to maturity (years)</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">10</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">6</td>\n<td style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\">Par value</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">$10,000,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">$10,000,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\">$10,000,000</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\">Market value</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">$9,323,381</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">$11,189,092</td>\n<td style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\">$10,000,000</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 241px; max-width: 241px;\">Annualized modified duration</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">7.3105</td>\n<td style=\"text-align: center; vertical-align: top; width: 108px; max-width: 108px;\">4.6880</td>\n<td style=\"text-align: center; vertical-align: top; width: 114px; max-width: 114px;\">3.4370</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>A fixed-income portfolio contains Bond A and Bond B. If another $10 million is added to the portfolio and is used to purchase Bond C, then the annualized modified duration of the portfolio will be <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "452b3bad-2de5-4c77-a6e2-8529b4703645"
+        },
+        "answerFeedback": {
+          "33e26f61-c1a5-41b6-bc0d-830d40e8d2b0": "<p>Incorrect because the calculation of 6.5668 uses the time to maturity rather than the annualized modified duration for each bond:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mtext>ModDur</mtext><mo>=</mo><mrow><mo>[</mo> <mrow> <mn>10</mn><mo>×</mo><mfrac> <mrow> <mn>9</mn><mo>,</mo><mn>323</mn><mo>,</mo><mn>381</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>6</mn><mo>×</mo><mfrac> <mrow> <mn>11</mn><mo>,</mo><mn>189</mn><mo>,</mo><mn>092</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>4</mn><mo>×</mo><mfrac> <mrow> <mn>10</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>6.5668</mn> </mtd> </mtr> </mtable></semantics></math></p>",
+          "452b3bad-2de5-4c77-a6e2-8529b4703645": "<p><strong>Correct.</strong> The new modified duration of the portfolio is calculated as follows:</p>\n<p>The initial market value of the portfolio = $9,323,381 + $11,189,092 = $20,512,473.</p>\n<p>The portfolio market value with the purchase of Bond C is:</p>\n<p style=\"margin-left: 1.618em;\">New portfolio market value = $20,512,473 + $10,000,000 = $30,512,473.</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mtext>ModDur</mtext><mo>=</mo><mrow><mo>[</mo> <mrow> <mn>7.3105</mn><mo>×</mo><mfrac> <mrow> <mn>9</mn><mo>,</mo><mn>323</mn><mo>,</mo><mn>381</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>4.6880</mn><mo>×</mo><mfrac> <mrow> <mn>11</mn><mo>,</mo><mn>189</mn><mo>,</mo><mn>092</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mtext> </mtext><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>3.4370</mn><mo>×</mo><mfrac> <mrow> <mn>10</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>512</mn><mo>,</mo><mn>473</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>5.0793</mn> </mtd> </mtr> </mtable></semantics></math></p>\n<p>where the first term in each set of brackets is the annualized modified duration and the second term is the weighting factor based on market value.</p>",
+          "c0c4e733-c578-441e-990d-3d23cd340cd2": "<p>Incorrect because the calculation of 5.1452 uses par value rather than market value in determining the portfolio value of $30,000,000 and in setting the weighting factors:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mtext>ModDur</mtext><mo>=</mo><mrow><mo>[</mo> <mrow> <mn>7.3105</mn><mo>×</mo><mfrac> <mrow> <mn>10</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>4.6880</mn><mo>×</mo><mfrac> <mrow> <mn>10</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>3.4370</mn><mo>×</mo><mfrac> <mrow> <mn>10</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> <mrow> <mn>30</mn><mo>,</mo><mn>000</mn><mo>,</mo><mn>000</mn></mrow> </mfrac> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>5.1452</mn> </mtd> </mtr> </mtable></semantics></math></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "452b3bad-2de5-4c77-a6e2-8529b4703645",
+              "itemBody": "<p>A. 5.0793.</p>",
+              "position": 1
+            },
+            {
+              "id": "c0c4e733-c578-441e-990d-3d23cd340cd2",
+              "itemBody": "<p>B. 5.1452.</p>",
+              "position": 2
+            },
+            {
+              "id": "33e26f61-c1a5-41b6-bc0d-830d40e8d2b0",
+              "itemBody": "<p>C. 6.5668.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54222",
+      "entry": {
+        "title": "ITEM_20180516058",
+        "feedback": {},
+        "itemBody": "<div>Consider the following information for a traditional (option-free) fixed-rate bond where <i>PV</i><sub>0</sub> is the bond’s original price, <i>PV</i><sub>+</sub> is the new price of the bond when the yield to maturity is increased, <i>PV<span style=\"font-size: 13.5px;\">_</span></i>&nbsp;is the new price of the bond when the yield to maturity is decreased, ∆Curve is the change in the benchmark yield curve, and ∆Yield is the change in the yield to maturity:\n<div>\n<table style=\"border-collapse: collapse; width: 409px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: bottom; width: 83px; max-width: 83px; text-align: center;\" scope=\"col\"><strong>PV<sub>0</sub></strong></th>\n<th style=\"vertical-align: bottom; width: 87px; max-width: 87px; text-align: center;\" scope=\"col\"><strong>PV<sub>+</sub></strong></th>\n<th style=\"vertical-align: bottom; width: 82px; max-width: 82px; text-align: center;\" scope=\"col\"><strong>PV<sub>–</sub></strong></th>\n<th style=\"vertical-align: bottom; width: 71.9219px; max-width: 71.9219px; text-align: center;\" scope=\"col\"><strong>∆Curve</strong></th>\n<th style=\"vertical-align: bottom; width: 63px; max-width: 63px; text-align: center;\" scope=\"col\"><strong>∆Yield</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align: top; width: 83px; max-width: 83px; text-align: center;\">99.41172</td>\n<td style=\"text-align: center; vertical-align: top; width: 87px; max-width: 87px;\">99.32213</td>\n<td style=\"text-align: center; vertical-align: top; width: 82px; max-width: 82px;\">99.50132</td>\n<td style=\"text-align: center; vertical-align: top; width: 71.9219px; max-width: 71.9219px;\">3 bps</td>\n<td style=\"text-align: center; vertical-align: top; width: 63px; max-width: 63px;\">1 bp</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The bond’s approximate convexity is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f6ddcfef-f814-4704-b77e-dd48bbebb9bc"
+        },
+        "answerFeedback": {
+          "3dfdabfc-7f3d-4f84-9253-36ec3f61333f": "<p>Incorrect because the change in the benchmark yield curve (not the change in the yield to maturity) was used to compute ApproxCon. The resulting incorrect answer is calculated as:</p>\n<p style=\"margin-left: 1.618em;\">ApproxCon = <math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow> <mfrac> <mrow> <mn>99.50132</mn><mo>+</mo><mn>99.32213</mn><mo>−</mo><mrow><mo>(</mo> <mrow> <mn>2</mn><mo>×</mo><mn>99.41172</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>0.0003</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> <mo>×</mo><mn>99.41172</mn></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">&nbsp;= 1.11769</p>",
+          "a7a617b5-6864-416e-8b18-b0c414201077": "<p>Incorrect because the change in yield to maturity was not squared in the denominator. The resulting incorrect answer is calculated as:</p>\n<p style=\"margin-left: 1.618em;\">ApproxCon = <math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow> <mfrac> <mrow> <mn>99.50132</mn><mo>+</mo><mn>99.32213</mn><mo>−</mo><mrow><mo>(</mo> <mrow> <mn>2</mn><mo>×</mo><mn>99.41172</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>0.0001</mn></mrow> <mo>)</mo></mrow><mo>×</mo><mn>99.41172</mn></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">&nbsp;= 0.00101</p>",
+          "f6ddcfef-f814-4704-b77e-dd48bbebb9bc": "<p><strong>Correct.</strong> The bond’s approximate convexity (ApproxCon) is 10.05918, calculated as:</p>\n<p style=\"margin-left: 1.618em;\">ApproxCon = <math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow> <mfrac> <mrow> <mrow><mo>(</mo> <mrow> <msub> <mrow> <mtext>PV</mtext></mrow> <mo>−</mo> </msub> </mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo> <mrow> <msub> <mrow> <mtext>PV</mtext></mrow> <mo>+</mo> </msub> </mrow> <mo>)</mo></mrow><mo>−</mo><mrow><mo>[</mo> <mrow> <mn>2</mn><mo>×</mo><mrow><mo>(</mo> <mrow> <msub> <mrow> <mtext>PV</mtext></mrow> <mn>0</mn> </msub> </mrow> <mo>)</mo></mrow></mrow> <mo>]</mo></mrow></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>Δ</mi><mtext>Yield</mtext></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> <mo>×</mo><mrow><mo>(</mo> <mrow> <msub> <mrow> <mtext>PV</mtext></mrow> <mn>0</mn> </msub> </mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">&nbsp;= <math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mrow> <mfrac> <mrow> <mn>99.50132</mn><mo>+</mo><mn>99.32213</mn><mo>−</mo><mrow><mo>(</mo> <mrow> <mn>2</mn><mo>×</mo><mn>99.41172</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>0.0001</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> <mo>×</mo><mn>99.41172</mn></mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">&nbsp;= 10.05918</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a7a617b5-6864-416e-8b18-b0c414201077",
+              "itemBody": "<p>A. 0.00101.</p>",
+              "position": 1
+            },
+            {
+              "id": "3dfdabfc-7f3d-4f84-9253-36ec3f61333f",
+              "itemBody": "<p>B. 1.11769.</p>",
+              "position": 2
+            },
+            {
+              "id": "f6ddcfef-f814-4704-b77e-dd48bbebb9bc",
+              "itemBody": "<p>C. 10.05918.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54223",
+      "entry": {
+        "title": "ITEM_20190531023",
+        "feedback": {},
+        "itemBody": "<div>An analyst gathers the following information on a bond:\n<div>\n<table style=\"border-collapse: collapse; width: 347px; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\">Approximate modified duration</td>\n<td style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\">10.3829</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 260px; max-width: 260px;\">Approximate modified convexity</td>\n<td style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\">141.217</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>What is the estimated percentage price change for the bond if yield to maturity decreases by 50 bps?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4be23816-f31a-4233-831f-77c133804e38"
+        },
+        "answerFeedback": {
+          "4be23816-f31a-4233-831f-77c133804e38": "<p><strong>Correct.</strong> The convexity-adjusted estimate of the percentage change in bond price is calculated as follows:</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mi>%</mi><mi>Δ</mi><msup> <mtext>PV</mtext> <mrow> <mi>F</mi><mi>u</mi><mi>l</mi><mi>l</mi></mrow> </msup> <mo>≈</mo><mrow><mo>(</mo> <mrow> <mo>−</mo><mtext>AnnModDur</mtext><mo>×</mo><mi>Δ</mi><mtext>Yield</mtext></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo><mtext>AnnConvexity</mtext><mo>×</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>Δ</mi><mtext>Yield</mtext></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>≈</mo><mrow><mo>(</mo> <mrow> <mo>−</mo><mn>10.3829</mn><mo>×</mo><mo>−</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo><mn>141.217</mn><mo>×</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mo>−</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>0.051915</mn><mo>+</mo><mn>0.001765</mn> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>0.05368</mn> </mtd> </mtr> </mtable></semantics></math></p>",
+          "62070bf1-0e52-4b5f-aa20-a3acbbaf617d": "<p>Incorrect. It is the result of neglecting to multiply the convexity adjustment by ½.</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mo>≈</mo><mrow><mo>(</mo> <mrow> <mo>−</mo><mn>10.3829</mn><mo>×</mo><mo>−</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mn>141.217</mn><mo>×</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mo>−</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>0.051915</mn><mo>+</mo><mn>0.00353</mn> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mn>0.0554</mn> </mtd> </mtr> </mtable></semantics></math></p>",
+          "b9f178e8-b30e-456b-8867-ba918f1b207b": "<p>Incorrect. It is the result of omitting the negative sign for the change in yield.</p>\n<p style=\"margin-left: 1.618em;\"><math style=\"font-family: Arial;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics> <mtable> <mtr> <mtd> <mo>≈</mo><mrow><mo>(</mo> <mrow> <mo>−</mo><mn>10.3829</mn><mo>×</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow><mo>+</mo><mrow><mo>[</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>×</mo><mn>141.217</mn><mo>×</mo><msup> <mrow> <mrow><mo>(</mo> <mrow> <mo>−</mo><mn>0.005</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> <mo>]</mo></mrow> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mo>−</mo><mn>0.051915</mn><mo>+</mo><mn>0.001765</mn> </mtd> </mtr> <mtr> <mtd> <mo>=</mo><mo>−</mo><mn>0.0501</mn> </mtd> </mtr> </mtable></semantics></math></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b9f178e8-b30e-456b-8867-ba918f1b207b",
+              "itemBody": "<p>A. –5.01%</p>",
+              "position": 1
+            },
+            {
+              "id": "4be23816-f31a-4233-831f-77c133804e38",
+              "itemBody": "<p>B. 5.37%</p>",
+              "position": 2
+            },
+            {
+              "id": "62070bf1-0e52-4b5f-aa20-a3acbbaf617d",
+              "itemBody": "<p>C. 5.54%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54224",
+      "entry": {
+        "title": "ITEM_2019BFI08EKH",
+        "feedback": {
+          "neutral": "<p>B is correct. because the price of the bond is the present value of the promised cash \nflows and is calculated as follows: \nPrice of bond = 4,000/(1 +5%)^1 + 4,000/(1+5%)^2 + 104,000/(1+5%)^3 = 3,809.5238 \n+ 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, \nI = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. \n \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 8 of 8</p>"
+        },
+        "itemBody": "<p>An analyst gathers the following information about an annual-pay bond:</p>\n<table style=\"border-collapse: collapse; width: 199px; border-style: none;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 137px; max-width: 137px;\">Coupon rate</td>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">6.0%</td>\n</tr>\n<tr>\n<td style=\"width: 137px; max-width: 137px;\">Yield to maturity</td>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">4.5%</td>\n</tr>\n<tr>\n<td style=\"width: 137px; max-width: 137px;\">Macaulay duration</td>\n<td style=\"width: 52px; max-width: 52px; text-align: center;\">10.0</td>\n</tr>\n</tbody>\n</table>\n<p>If the yield to maturity decreases by 100 basis points, the expected percentage change in the bond’s price is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0af83c22-54d6-4217-8dfb-ca25020188d0"
+        },
+        "answerFeedback": {
+          "0af83c22-54d6-4217-8dfb-ca25020188d0": "<p>Correct because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity (YTM).<br>Modified duration = Macaulay Duration / (1+r) = 10.0/1.045 = 9.5694<br>%*SYMBOL*PV≈ ¬AnnModDur × ∆Yield = –9.5694 × –1% = 9.5694% ≈ 9.57%.&nbsp;</p>",
+          "7081fa18-9dbc-4db8-afa4-c564a1bef4dd": "<p>Incorrect because it calculates modified duration using the coupon rather than YTM. MacDur / (1 + coupon) = 10/1.06 = 9.43.&nbsp;</p>",
+          "fcdd4016-7c7b-430e-954c-a1ce1b93626d": "<p>Incorrect because this is Macaulay duration. Macaulay duration must be adjusted by the yield-to-maturity to calculate the modified duration, and afterwards, modified duration is the used to calculate the percentage price change for a change in bond’s yield to maturity.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7081fa18-9dbc-4db8-afa4-c564a1bef4dd",
+              "itemBody": "<p>A. 9.43%.</p>",
+              "position": 1
+            },
+            {
+              "id": "0af83c22-54d6-4217-8dfb-ca25020188d0",
+              "itemBody": "<p>B. 9.57%.</p>",
+              "position": 2
+            },
+            {
+              "id": "fcdd4016-7c7b-430e-954c-a1ce1b93626d",
+              "itemBody": "<p>C. 10.00%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8667,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 852,
+      "sourceModuleId": 4474,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-58-1",
+      "entry": {
+        "title": "2027-Mod58-Q1",
+        "itemBody": "<p>A non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If \nthe YTM were to increase instantaneously by 80 bps, the price of the bond would \ndecrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price \nof the bond would increase by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The absolute amount of the price increase would be more than the \nabsolute amount of the price decrease for the same absolute change in YTM \nbecause of the convex relationship between bond price and yield. \nA is incorrect because of the positive convex relationship between bond price and \nyield. For a given level of yield change, the price rise for that given amount of yield \ndecrease will be larger than the price decline for that amount of yield increase. \nB is incorrect because the relationship between bond price and yield is not linear.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5a21bdd6-d7c5-4084-84e1-6b9548791abd",
+              "itemBody": "<p>A. less than 11%.</p>",
+              "position": 1
+            },
+            {
+              "id": "67a8b7b7-b0b4-46e9-97c3-a1a2a54f3586",
+              "itemBody": "<p>B. exactly 11%.</p>",
+              "position": 2
+            },
+            {
+              "id": "c2dadfa2-66fd-4003-be0a-a20364c51ce1",
+              "itemBody": "<p>C. more than 11%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c2dadfa2-66fd-4003-be0a-a20364c51ce1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-2",
+      "entry": {
+        "title": "2027-Mod58-Q2",
+        "itemBody": "<p>Exceptions to the maturity effect exist for bonds that have:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Exceptions to the maturity effect are rare and occur only for low-\ncoupon (but not zero-coupon) long-term bonds trading at a discount. \nB is incorrect because the maturity effect holds for bonds that have short \nmaturities and high coupons. \nC is incorrect because the maturity effect always holds on bonds priced at a \npremium above par value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "60e7558f-5e40-4283-95a5-834f39425552",
+              "itemBody": "<p>A. long maturities, make small coupon payments, and trade at a discount.</p>",
+              "position": 1
+            },
+            {
+              "id": "fcbbcf96-a2f3-4108-96f3-a7d6580fd323",
+              "itemBody": "<p>B. short maturities, have high coupon rates, and trade at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "febbabdb-e73b-47cb-843c-2f73126b329b",
+              "itemBody": "<p>C. long maturities, have high coupon rates, and trade at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "60e7558f-5e40-4283-95a5-834f39425552"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-3",
+      "entry": {
+        "title": "2027-Mod58-Q3",
+        "itemBody": "<p>With a constant market discount rate, as a non-callable, fixed-coupon bond \napproaches maturity:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Any bond trading at a discount will increase in price because of the \npull-to-par effect. \nA is incorrect because the price–yield relationship generally becomes less convex as \na bond approaches maturity. \nC is incorrect because a high-coupon bond trading at a premium will decrease in \nprice as it approaches maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f146ba23-9f54-49d1-b65e-a925887c386c",
+              "itemBody": "<p>A. the price–yield relationship will become more convex.</p>",
+              "position": 1
+            },
+            {
+              "id": "f1e27e88-3b31-4a11-8b8d-13cccc5cbed5",
+              "itemBody": "<p>B. a low-coupon bond trading at a discount will increase in price.</p>",
+              "position": 2
+            },
+            {
+              "id": "7c59a28d-51a2-42ad-850e-c3013d89c521",
+              "itemBody": "<p>C. a high-coupon bond trading at a premium will increase in price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1e27e88-3b31-4a11-8b8d-13cccc5cbed5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-4",
+      "entry": {
+        "title": "2027-Mod58-Q4",
+        "itemBody": "<p>A fixed-income analyst is pricing a bond using the following equation. \n𝑃𝑉 = 3\n(1 + 0.0275)1 + 3\n(1 + 0.0275)2 + ⋯ + 103\n(1 + 0.0275)40 \n \nThe bond’s price, relative to par, is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The bond’s periodic coupon rate exceeds the periodic market discount \nrate, or its coupon rate is “excessive” relative to the market. Therefore, the bond \nwill trade at a premium to par. \nB is incorrect. For the bond to trade at par, the coupon rate and market discount \nrate (yield-to-maturity) must be equal. \nC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have \nto be higher than the coupon rate. \n  \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 6 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2fd9280a-2ed9-4bcf-95ab-589b4cc8e333",
+              "itemBody": "<p>A. greater than 100.</p>",
+              "position": 1
+            },
+            {
+              "id": "4a54968b-30ab-46cc-884a-0441bb8170d4",
+              "itemBody": "<p>B. exactly 100.</p>",
+              "position": 2
+            },
+            {
+              "id": "8d14977a-07bd-4476-906d-726439bb319e",
+              "itemBody": "<p>C. less than 100.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2fd9280a-2ed9-4bcf-95ab-589b4cc8e333"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-5",
+      "entry": {
+        "title": "2027-Mod58-Q5",
+        "itemBody": "<p>A four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading \nat a price of 102.581. The bond’s annualized yield-to-maturity is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Two approaches to calculating the yield-to-maturity are calculating an \nIRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic \nIRR is annualized by multiplying by two. \nPeriod Cash Flow YIELD Function   \n0 –102.581 Settlement date 01-01-2000 \n1 1 Maturity date 01-01-2004 \n2 1 Coupon 0.02 \n3 1 Price 102.581 \n4 1 Redemption 100 \n5 1 Coupon frequency 2 \n6 1 Yield 1.34% \n7 1    \n8  101    \nPeriodic IRR 0.67%    \nAnnualized IRR 1.34%    \n \nA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity. \nC is incorrect. Note that this choice can be eliminated because the bond is trading at \na premium; thus, its yield-to-maturity is lower than its coupon rate of 2.0%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4d15f178-866f-4fad-bcd6-e28f6cca244f",
+              "itemBody": "<p>A. 0.67%.</p>",
+              "position": 1
+            },
+            {
+              "id": "70428bc9-f5e7-4b49-befe-58fa402fcffa",
+              "itemBody": "<p>B. 1.34%.</p>",
+              "position": 2
+            },
+            {
+              "id": "1707ee87-3d7a-4b22-8cc4-3ae9b75d5d7c",
+              "itemBody": "<p>C. 2.22%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "70428bc9-f5e7-4b49-befe-58fa402fcffa"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-6",
+      "entry": {
+        "title": "2027-Mod58-Q6",
+        "itemBody": "<p>Consider two bonds that are identical except for their coupon rates. The bond that \nwill have the highest interest rate risk most likely has the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A lower coupon rate means that more of the bond’s value comes from \nrepayment of face value, which occurs at the end of the bond’s life.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "666d181e-9260-4bc6-a2df-ed4ddfa810ac",
+              "itemBody": "<p>A. lowest coupon rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "8d15bbe0-1c7c-43ec-ad8a-26dcefba915f",
+              "itemBody": "<p>B. coupon rate closest to its market yield.</p>",
+              "position": 2
+            },
+            {
+              "id": "bad38fc9-01ac-4433-af2c-6630fff80f6a",
+              "itemBody": "<p>C. C. highest coupon rate.\nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "666d181e-9260-4bc6-a2df-ed4ddfa810ac"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-7",
+      "entry": {
+        "title": "2027-Mod58-Q7",
+        "itemBody": "<p>The market value of an 18-year zero-coupon bond with a maturity value of $1,000 \ndiscounted at a 12% annual interest rate with semi-annual compounding is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The value of a zero-coupon bond is \nFace value\n(1 + 𝑟)𝑁  \n \nwhere r is the market discount rate per period, and N is the number of evenly spaced \nperiods to maturity. The value of the zero-coupon bond is \n1,000\n(1 + 0.12/2)18×2 = 122.7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b5062623-00fa-442f-85fa-c0f358c571e6",
+              "itemBody": "<p>A. $122.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "906d030d-65de-4cb5-a8bb-d480da1b143f",
+              "itemBody": "<p>B. $130.04.</p>",
+              "position": 2
+            },
+            {
+              "id": "e45a3282-c707-481b-9595-2a23bf3abda5",
+              "itemBody": "<p>C. $192.86.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b5062623-00fa-442f-85fa-c0f358c571e6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-8",
+      "entry": {
+        "title": "2027-Mod58-Q8",
+        "itemBody": "<p>An investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% \nand mature in 10 years, at an annual yield to maturity of 12%. The bonds will most \nlikely be selling at:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The coupon rate on the bonds is lower than the yield to maturity, \nimplying that the bonds should be selling at a price lower than their par value —that \nis, at a discount.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3e9fd3da-cc3a-468b-9e9d-ad3f9539aa33",
+              "itemBody": "<p>A. par.</p>",
+              "position": 1
+            },
+            {
+              "id": "dbf51d19-2a5e-49de-9b4a-200667de363c",
+              "itemBody": "<p>B. a premium.</p>",
+              "position": 2
+            },
+            {
+              "id": "72210d20-f327-41b6-b0b0-4aff9953af84",
+              "itemBody": "<p>C. a discount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "72210d20-f327-41b6-b0b0-4aff9953af84"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-9",
+      "entry": {
+        "title": "2027-Mod58-Q9",
+        "itemBody": "<p>An investor sells a bond at the quoted price of $98.00. In addition, she receives \naccrued interest of $4.40. The flat price of the bond is equal to the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The agreed-on bond price excluding accrued interest is referred to as \nthe flat price.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "46dd82a6-9b67-4fd0-8205-2f341142ab55",
+              "itemBody": "<p>A. par value plus accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "f87bce97-dabb-46d4-bd38-60d01c5e7197",
+              "itemBody": "<p>B. accrued interest plus the agreed-on bond price.</p>",
+              "position": 2
+            },
+            {
+              "id": "d1c61e30-7053-4925-8cec-12bc505f6e9d",
+              "itemBody": "<p>C. agreed-on bond price excluding accrued interest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d1c61e30-7053-4925-8cec-12bc505f6e9d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-10",
+      "entry": {
+        "title": "2027-Mod58-Q10",
+        "itemBody": "<p>A credit analyst is least likely to use matrix pricing to estimate the required yield \nand price of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Matrix pricing is most suited to pricing inactively traded bonds and newly \nunderwritten bonds. A credit analyst is least likely to use matrix pricing to price an \nactively traded bond. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "da8b67be-adde-4a31-9b86-3eb6a0cff804",
+              "itemBody": "<p>A. newly underwritten bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "f4f2c17c-78fa-4b07-87cb-0142f12f6d23",
+              "itemBody": "<p>B. actively traded speculative grade bond.</p>",
+              "position": 2
+            },
+            {
+              "id": "0a753439-61a3-4aed-a0d3-b86e28fbef06",
+              "itemBody": "<p>C. inactively traded investment grade bond.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f4f2c17c-78fa-4b07-87cb-0142f12f6d23"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-11",
+      "entry": {
+        "title": "2027-Mod58-Q11",
+        "itemBody": "<p>The maturity effect is least likely to hold for a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In some situations, the maturity effect may not hold for a low -coupon \nbond that is trading below par.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65d7d4e0-6da5-455a-b8d1-c510b7f91b12",
+              "itemBody": "<p>A. zero-coupon bond.</p>",
+              "position": 1
+            },
+            {
+              "id": "7dafb07f-1463-4e29-b529-34075d752670",
+              "itemBody": "<p>B. low-coupon, long-term bond trading at a discount.</p>",
+              "position": 2
+            },
+            {
+              "id": "4a9e20a9-0531-4b14-a40a-9ec88381ed35",
+              "itemBody": "<p>C. low-coupon, long-term bond trading at a premium.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7dafb07f-1463-4e29-b529-34075d752670"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-12",
+      "entry": {
+        "title": "2027-Mod58-Q12",
+        "itemBody": "<p>Bonds are quoted using the</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ec6d284f-b926-4c96-9b25-8f6d0fe203e8",
+              "itemBody": "<p>A. full price and settled using the flat price.</p>",
+              "position": 1
+            },
+            {
+              "id": "083fbf21-bc9d-42ce-b567-0e83d305f18f",
+              "itemBody": "<p>B. flat price and settled using the full price.</p>",
+              "position": 2
+            },
+            {
+              "id": "8735557b-c770-4479-841e-9e1130bc7424",
+              "itemBody": "<p>C. \"dirty\" price and settled using the invoice price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "083fbf21-bc9d-42ce-b567-0e83d305f18f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-13",
+      "entry": {
+        "title": "2027-Mod58-Q13",
+        "itemBody": "<p>Which of the following does not depend on the market discount rate? A bond's:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the accrued interest part of the full price does not depend on \nthe yield-to-maturity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "08973632-8dae-45cb-924b-d0f05d19df44",
+              "itemBody": "<p>A. flat price</p>",
+              "position": 1
+            },
+            {
+              "id": "7f1e32b8-b18f-47e8-b383-b3e8e6e179cd",
+              "itemBody": "<p>B. full price</p>",
+              "position": 2
+            },
+            {
+              "id": "9e364199-df0c-4317-855b-41b878a6466d",
+              "itemBody": "<p>C. accrued interest</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9e364199-df0c-4317-855b-41b878a6466d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-14",
+      "entry": {
+        "title": "2027-Mod58-Q14",
+        "itemBody": "<p>All else being equal, the absolute value of the percentage price change for an \noption-free bond is most likely: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 3 of 8</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect). \n \n15. correct because the value of a bond is calculated as: \nPV = [PMT ÷ (1+r)^1] + [PMT ÷(1+r)^2] +...+ [(PMT + FV) ÷(1+r)^N) \nwhere: \nPV = present value, or the price of the bond  \nPMT = coupon payment per period  \nFV = future value paid at maturity, or the par value of the bond  \nr = market discount rate, or required rate of return per period  \nN = number of evenly spaced periods to maturity \nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = \n$108, Solve for I, is equal to 1.114% semi -annually, or 2.228% on an annual basis. If \nthe yield to maturity decreases by 100 bps, the price of the bond after one year is  \ncomputed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve \nPV, is equal to $107.43. \nTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "37d804fb-13b2-4686-aa4e-02fcf72c9269",
+              "itemBody": "<p>A. less when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 1
+            },
+            {
+              "id": "c53cff91-e19f-4b8b-b08a-fbb94e601320",
+              "itemBody": "<p>B. the same whether the market discount rate decreases or increases by the same \namount.</p>",
+              "position": 2
+            },
+            {
+              "id": "e246245b-aea4-4697-8252-f556b1da5534",
+              "itemBody": "<p>C. greater when the market discount rate decreases than when it increases by the \nsame amount.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e246245b-aea4-4697-8252-f556b1da5534"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-15",
+      "entry": {
+        "title": "2027-Mod58-Q15",
+        "itemBody": "<p>A bond has the following characteristics: \nTime to maturity 3 years \nCoupon rate 12% \nPayment period Semiannual \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value \nis closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because \n𝑃𝑉 = 6\n(1 + 0.02)1 + 6\n(1 + 0.02)2 + 6\n(1 + 0.02)3 + 6\n(1 + 0.02)4 + 6\n(1 + 0.02)5 + 6 + 100\n(1 + 0.02)6 \n= 122.4057 ≈ 122.41</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de8482d4-8c75-4f99-99fd-85078bc5d5af",
+              "itemBody": "<p>A. 122.20.</p>",
+              "position": 1
+            },
+            {
+              "id": "a35707a1-19d7-411b-b5b2-826a056ecddc",
+              "itemBody": "<p>B. 122.41.</p>",
+              "position": 2
+            },
+            {
+              "id": "a2e64749-64dd-4756-945b-b4681d28c75d",
+              "itemBody": "<p>C. 122.53.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a35707a1-19d7-411b-b5b2-826a056ecddc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-16",
+      "entry": {
+        "title": "2027-Mod58-Q16",
+        "itemBody": "<p>An analyst gathers the following information: \n  Time to Maturity Yield to Maturity \nBond 1 Three years 3.4% \nBond 2 Eight years 5.4% \n \nBased only on this information, the estimated market discount rate for a 5-year \nbond with similar credit quality is: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 4 of 8</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quote d or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times -to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "717edf57-a6e8-4b85-b272-aaacc1092d73",
+              "itemBody": "<p>A. 4.2%.</p>",
+              "position": 1
+            },
+            {
+              "id": "314052ed-c455-4ec0-830a-42bf75820118",
+              "itemBody": "<p>B. 4.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "892420bd-cd17-49bb-b013-98c00d9bea37",
+              "itemBody": "<p>C. 4.6%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "717edf57-a6e8-4b85-b272-aaacc1092d73"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-17",
+      "entry": {
+        "title": "2027-Mod58-Q17",
+        "itemBody": "<p>Matrix pricing is most likely used to estimate the price of a bond that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times -to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ce196d30-d4f2-4cff-8f81-c68ff8ea1561",
+              "itemBody": "<p>A. is highly liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "b467c897-681c-4d12-8f35-b12a5e7fd9b6",
+              "itemBody": "<p>B. is not yet issued.</p>",
+              "position": 2
+            },
+            {
+              "id": "516bd351-3d3f-4802-9748-458d5e11e49a",
+              "itemBody": "<p>C. has unknown credit quality.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b467c897-681c-4d12-8f35-b12a5e7fd9b6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-18",
+      "entry": {
+        "title": "2027-Mod58-Q18",
+        "itemBody": "<p>The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a62ac539-aca1-4e36-88d2-48aa18f12c78",
+              "itemBody": "<p>A. less than 100 basis points.</p>",
+              "position": 1
+            },
+            {
+              "id": "5c084d25-8aee-4e35-aee0-080b5383b6b9",
+              "itemBody": "<p>B. 100 basis points.</p>",
+              "position": 2
+            },
+            {
+              "id": "2d99dfc8-97d2-47cd-96ad-70dc15742832",
+              "itemBody": "<p>C. more than 100 basis points.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2d99dfc8-97d2-47cd-96ad-70dc15742832"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-19",
+      "entry": {
+        "title": "2027-Mod58-Q19",
+        "itemBody": "<p>The flat price of a bond:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because it is the flat price that is 'pulled to par' along the constant-yield \nprice trajectory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8108ce6e-ef27-42ab-8bce-ec591a982034",
+              "itemBody": "<p>A. is also referred to as the \"dirty\" price.</p>",
+              "position": 1
+            },
+            {
+              "id": "25849f27-017c-4717-8ab7-13d522f46239",
+              "itemBody": "<p>B. is \"pulled to par\" along the constant-yield price trajectory.</p>",
+              "position": 2
+            },
+            {
+              "id": "63bd4190-ce52-48c9-8e3a-79cdc7f52224",
+              "itemBody": "<p>C. includes interest which is received by the seller on the settlement date.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "25849f27-017c-4717-8ab7-13d522f46239"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-58-20",
+      "entry": {
+        "title": "2027-Mod58-Q20",
+        "itemBody": "<p>A bond is traded in between its coupon payment dates. Which of the following is true?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The flat price, quoted by bond dealers, is the full price less accrued \ninterest. Accrued interest is not included in the flat price. \nA is incorrect. The buyer must pay the full price, which already includes accrued \ninterest. \nB is incorrect. The flat price is the quoted price. \nYield and Yield Spread Measures for Fixed-Rate Bonds \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose.  \n \n1. A bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, \nand is currently trading at 97.28. The semi-annual bond basis yield is closest to: \nA. 1.055%. \nB. 2.121%. \nC. 4.242%. \n \n2. An analyst is analyzing  a three -year, 2.25% annual coupon bond issued by QWE  \nCompany. Currently, the bond’s yield -to-maturity is 2.707%. The three -year swap  \nrate is 1.840%. The government spot rates are presented in the table. \nMaturity Government Spot Rate \n1Y 0.90% \n2Y 1.26% \n3Y 1.90% \n \nThe G-Spread (in basis points) for the QWE bond is closest to: \nA. 80. \nB. 87. \nC. 135. \n \n3. The I-spread (in basis points) for the QWE bond is closest to: \nA. 46. \nB. 80. \nC. 87. \n \n4. If the price of the QWE bond is 98.70% of par, its Z -spread (in basis points) is  \nclosest to: \nA. 80. \nB. 82. \nC. 87. \n \n5. Consider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. \nIf the bond currently sells for $96.47, the yield to maturity is closest to: \nA. 8.37%. \nB. 8.29%. \nC. 7.41%. \n \n6. Stellar Corp. recently issued $100 par value deferred coupon bonds, which will make \nno coupon payments in the next four years. Regular annual coupon payments at a rate \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 2 of 6 \n \nof 8% will then be made until the bonds mature at the end of 10 years. If the bonds \nare currently priced at $87.00, their yield to maturity is closest to: \nA. 6.0%. \nB. 8.0%. \nC. 10.1%. \n \n7. For a coupon bond with a negative yield, compounding more frequently within the \nyear results in a yield-to-maturity that is: \nA. more negative. \nB. the same. \nC. less negative.  \n \n8. The yield spread over an interpolated sovereign bond is best described as a(n): \nA. I-spread. \nB. G-spread. \nC. Z-spread. \n \n9. An analyst gathers the following information about a callable bond that pays \ninterest annually: \nCurrent price 105 per 100 of par value \nTime-to-maturity 4 years \nCoupon rate 4% \nCall price at year 2 103 per 100 of par value \nCall price at year 3 101 per 100 of par value \n \nThis bond's yield to worst is the: \nA. yield to maturity. \nB. yield to first call. \nC. yield to second call. \n \n10. The stated annual yield to maturity on a semiannual bond basis is 3.66%. The \neffective annual yield is closest to: \nA. 3.63%. \nB. 3.69%. \nC. 7.45%. \n \n11. A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted \nto a quarterly periodicity, the APR is closest to: \nA. 1.98%. \nB. 3.92%. \nC. 7.92%. \n12. The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the: \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 3 of 6 \n \nA. I-spread. \nB. Z-spread. \nC. option-adjusted spread. \n \n13. The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of \n$100 and currently priced at $85.70 is closest to: \nA. 4.50%. \nB. 5.25%. \nC. 5.93%. \n \n14. The factor least likely to influence the yield spread on an option -free, fixed-rate \nbond is a change in the: \nA. credit risk of the issuer. \nB. expected inflation rate. \nC. liquidity of the bond. \n \n  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 4 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bd336aed-2587-455b-ab63-839674174ba2",
+              "itemBody": "<p>A. The buyer must pay the full price plus the accrued interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "047bef2e-b143-4be5-8d25-d0310dea9368",
+              "itemBody": "<p>B. The bond’s quoted price is greater than its flat price.</p>",
+              "position": 2
+            },
+            {
+              "id": "b1d0ddbd-1620-439d-88ea-7381384f94cb",
+              "itemBody": "<p>C. Accrued interest is not included in the flat price. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b1d0ddbd-1620-439d-88ea-7381384f94cb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 20
+}

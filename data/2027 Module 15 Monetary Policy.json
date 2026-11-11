@@ -1,0 +1,2511 @@
+{
+  "user_id": 239466,
+  "quiz_id": 5981,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 40,
+  "hidden_question_count": 0,
+  "points": 4,
+  "points_possible": 39,
+  "correct_questions_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 4: Monetary Policy",
+    "topic_id": 1032,
+    "topic": "CFA-26-02-LI-C: Economics",
+    "subtopic_id": 5981,
+    "subtopic": "Module 4: Monetary Policy",
+    "question_count": 40,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 848,
+        "name": "Warehouse Course: Economics 26-LI",
+        "code": "Warehouse Course: Economics 26-LI",
+        "module_id": 4431,
+        "question_count": 22,
+        "type": "warehouse"
+      },
+      {
+        "id": 839,
+        "name": "Practice Pack Warehouse: Economics 26-LI",
+        "code": "Practice Pack Warehouse: Economics 26-LI",
+        "module_id": 4648,
+        "question_count": 17,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 40.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "ebd019a7378e1693",
+    "ordered_item_ids": [
+      "54521",
+      "54522",
+      "54523",
+      "54524",
+      "54525",
+      "54526",
+      "54527",
+      "54528",
+      "54529",
+      "54530",
+      "54531",
+      "54532",
+      "54533",
+      "54534",
+      "54535",
+      "54536",
+      "54537",
+      "50774",
+      "50775",
+      "50776",
+      "50777",
+      "50778",
+      "50779",
+      "50780",
+      "50781",
+      "53602",
+      "53603",
+      "53604",
+      "53605",
+      "53606",
+      "53607",
+      "53608",
+      "53609",
+      "53610",
+      "53611",
+      "53612",
+      "53613",
+      "53614",
+      "53615"
+    ],
+    "visible_item_ids": [
+      "54521",
+      "54522",
+      "54523",
+      "54524",
+      "54525",
+      "54526",
+      "54527",
+      "54528",
+      "54529",
+      "54530",
+      "54531",
+      "54532",
+      "54533",
+      "54534",
+      "54535",
+      "54536",
+      "54537",
+      "50774",
+      "50775",
+      "50776",
+      "50777",
+      "50778",
+      "50779",
+      "50780",
+      "50781",
+      "53602",
+      "53603",
+      "53604",
+      "53605",
+      "53606",
+      "53607",
+      "53608",
+      "53609",
+      "53610",
+      "53611",
+      "53612",
+      "53613",
+      "53614",
+      "53615"
+    ]
+  },
+  "items": [
+    {
+      "id": "54521",
+      "entry": {
+        "title": "ITEM_CFA-L1-05851",
+        "feedback": {
+          "neutral": "<p>C is correct. because the Neutral rate = Trend growth + Inflation target = 2% + 3% = \n5%.</p>"
+        },
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">If an economy has a long-term growth potential of 2% per year and the central bank's inflation target is 3% per year, the neutral rate of interest is <i>most likely</i>:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bd851152-7490-4eca-a21f-a467ef999225"
+        },
+        "answerFeedback": {
+          "ae41b597-0ee1-42c6-889d-4cce44038c59": "<p>Incorrect because it is the inflation rate and ignores the growth potential. As such this would be an expansionary rate of interest. Neutral rate = Trend growth + Inflation target.</p>",
+          "bd851152-7490-4eca-a21f-a467ef999225": "<p>Correct because the Neutral rate = Trend growth + Inflation target&nbsp;= 2% + 3% = 5%.</p>",
+          "ef169093-43d6-4f5b-994c-086742dde477": "<p>Incorrect because it is the difference between the inflation target of 3% and the long-term growth potential of 2%. 3% - 2% = 1%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ef169093-43d6-4f5b-994c-086742dde477",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">1%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "ae41b597-0ee1-42c6-889d-4cce44038c59",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">3%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "bd851152-7490-4eca-a21f-a467ef999225",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">5%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54522",
+      "entry": {
+        "title": "ITEM_2019B Econ 04DXH",
+        "feedback": {
+          "neutral": "<p>C is correct. because an inflation-targeting framework normally has a clear, symmetric \nand forward-looking medium-term inflation target, sufficiently above 0 percent to \navoid the risk of deflation but low enough to ensure a significant degree of price \nstability.</p>"
+        },
+        "itemBody": "<p>The inflation target of an effective central bank is <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f02aad37-f933-4c84-b287-1c26c55bf6ad"
+        },
+        "answerFeedback": {
+          "52ca2bc6-5607-4e78-b0f9-67310a2d8a2b": "<p>Incorrect because an inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability.</p>",
+          "8132f863-ac76-4018-94fe-9a27ae455e9d": "<p>Incorrect because an inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability</p>",
+          "f02aad37-f933-4c84-b287-1c26c55bf6ad": "<p>Correct because an inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8132f863-ac76-4018-94fe-9a27ae455e9d",
+              "itemBody": "<p>A. equal to zero to avoid the risk of deflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "52ca2bc6-5607-4e78-b0f9-67310a2d8a2b",
+              "itemBody": "<p>B. sufficiently below zero to maintain high credibility.</p>",
+              "position": 2
+            },
+            {
+              "id": "f02aad37-f933-4c84-b287-1c26c55bf6ad",
+              "itemBody": "<p>C. low enough to ensure a significant degree of price stability.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54523",
+      "entry": {
+        "title": "ITEM_CFA-L1-00608",
+        "feedback": {
+          "neutral": "<p>A is correct. because there may be occasions where the demand for money becomes \ninfinitely elastic so that further injections of money into the economy will not serve \nto further lower interest rates or affect real activity. This is known as a liquidity \ntrap. In this ex treme circumstance, monetary policy can become completely \nineffective.</p>"
+        },
+        "itemBody": "<p>Which of the following is <i>most likely</i> to limit the effectiveness of monetary policy?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "51d5fbba-e176-4175-9edd-d65aca1931d9"
+        },
+        "answerFeedback": {
+          "4fd1c45b-1345-4d47-8d25-3abe5a00c068": "<p>Incorrect because this is the action lag and describes a difficulty in implementing fiscal policy. An example of the action lag is the government's decision to raise spending on capital projects to increase employment and incomes, but&nbsp;they may take many months to implement.</p>",
+          "51d5fbba-e176-4175-9edd-d65aca1931d9": "<p>Correct because there may be occasions where the demand for money becomes infinitely elastic so that further injections of money into the economy will not serve to further lower interest rates or affect real activity. This is known as a liquidity trap. In this extreme circumstance, monetary policy can become completely ineffective.</p>",
+          "76b8cad6-f3ab-4f43-b013-408aef0c3e1d": "<p>Incorrect because crowding out is the reduction in private sector investment due to increased government borrowing and describes a difficulty in implementing fiscal, not monetary, policy.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "51d5fbba-e176-4175-9edd-d65aca1931d9",
+              "itemBody": "<p>A. A liquidity trap</p>",
+              "position": 1
+            },
+            {
+              "id": "76b8cad6-f3ab-4f43-b013-408aef0c3e1d",
+              "itemBody": "<p>B. The crowding out effect</p>",
+              "position": 2
+            },
+            {
+              "id": "4fd1c45b-1345-4d47-8d25-3abe5a00c068",
+              "itemBody": "<p>C. A time lag to implement government spending</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54524",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Elkinawy-Young-04",
+        "feedback": {
+          "neutral": "<p>A is correct. because when a central bank sells government bonds to a commercial \nbank the reserves of commercial banks decline, reducing their capacity to make loans \n(i.e., create credit) to households and corporations and thus causing broad money \ngrowth to decline through the money multiplier mechanism.</p>"
+        },
+        "itemBody": "<p>When a central bank sells government bonds to commercial banks, broad money growth:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "92683775-1710-4ca8-9bcd-5b5ae1054113"
+        },
+        "answerFeedback": {
+          "718817c1-6558-4332-bab8-8bad724f0295": "<p>Incorrect because when a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (i.e., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism.</p>",
+          "7a62d8ac-050b-4c24-9d85-ee3db9352869": "<p>Incorrect because when a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (i.e., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism.</p>",
+          "92683775-1710-4ca8-9bcd-5b5ae1054113": "<p>Correct because when a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (i.e., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92683775-1710-4ca8-9bcd-5b5ae1054113",
+              "itemBody": "<p>A. decreases.</p>",
+              "position": 1
+            },
+            {
+              "id": "718817c1-6558-4332-bab8-8bad724f0295",
+              "itemBody": "<p>B. remains the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "7a62d8ac-050b-4c24-9d85-ee3db9352869",
+              "itemBody": "<p>C. increases.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54525",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Econ-Coorey-02",
+        "feedback": {
+          "neutral": "<p>C is correct. because although inflation-targeting regimes vary a little from economy \nto economy, their success is thought to depend on three key concepts: central bank \nindependence, credibility, and transparency.</p>"
+        },
+        "itemBody": "<p>Independence, credibility, and transparency are <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "80efa913-7a5b-4ab5-b53f-5f54536d41e1"
+        },
+        "answerFeedback": {
+          "80efa913-7a5b-4ab5-b53f-5f54536d41e1": "<p>Correct because although inflation-targeting regimes vary a little from economy to economy, their success is thought to depend on three key concepts: central bank independence, credibility, and transparency.</p>",
+          "b685316b-4ea2-4eb4-9d56-831812f6dcde": "<p>Incorrect because these are qualities of a successful inflation-targeting central bank. The monetary transmission mechanism is the process whereby a central bank’s interest rate gets transmitted through the economy and ultimately affects the rate of increase of prices—that is, inflation. Those channels include bank lending rates, asset prices, agents’ expectations, and exchange rates.</p>",
+          "ec5c50c9-abbe-458a-ac4a-559e66111e25": "<p>Incorrect because these are qualities of a central bank. A primary aim for fiscal policy is to help manage the economy through its influence on aggregate national output, that is, real GDP.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ec5c50c9-abbe-458a-ac4a-559e66111e25",
+              "itemBody": "<p>A. key objectives&nbsp;of fiscal policy.</p>",
+              "position": 1
+            },
+            {
+              "id": "b685316b-4ea2-4eb4-9d56-831812f6dcde",
+              "itemBody": "<p>B. properties of the monetary transmission mechanism.</p>",
+              "position": 2
+            },
+            {
+              "id": "80efa913-7a5b-4ab5-b53f-5f54536d41e1",
+              "itemBody": "<p>C. qualities that determine the success of an inflation-targeting central bank.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54526",
+      "entry": {
+        "title": "ITEM_CFA-L1-01648",
+        "feedback": {
+          "neutral": "<p>A is correct. because deflation is more difficult for conventional monetary policy to \ndeal with than inflation. This is because once the monetary authority has cut nominal \ninterest rates to zero to stimulate the economy, it cannot cut them any further.</p>"
+        },
+        "itemBody": "<p>With respect to conventional monetary policy, combating inflation is <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9f8404c9-a14f-487f-89e5-c9a88293af32"
+        },
+        "answerFeedback": {
+          "0d5d15ad-df8f-4158-9452-7958f3c2c6ac": "<p>Incorrect because deflation&nbsp;is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further.</p>",
+          "92e16df9-24fa-4de3-ab66-ec3a2dd97782": "<p>Incorrect because deflation&nbsp;is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further.</p>",
+          "9f8404c9-a14f-487f-89e5-c9a88293af32": "<p>Correct because deflation is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9f8404c9-a14f-487f-89e5-c9a88293af32",
+              "itemBody": "<p>A. less difficult than combating deflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "92e16df9-24fa-4de3-ab66-ec3a2dd97782",
+              "itemBody": "<p>B. equally difficult as combating deflation.</p>",
+              "position": 2
+            },
+            {
+              "id": "0d5d15ad-df8f-4158-9452-7958f3c2c6ac",
+              "itemBody": "<p>C. more difficult than combating deflation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54527",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Grabe-05",
+        "feedback": {
+          "neutral": "<p>C is correct. because fiat money derives its value via government decree and because \npeople accept it for payment of goods and services and for debt repayment.</p>"
+        },
+        "itemBody": "<p>Fiat money:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2412415f-15eb-4b62-b69e-603e63919dd3"
+        },
+        "answerFeedback": {
+          "2412415f-15eb-4b62-b69e-603e63919dd3": "<p>Correct because fiat money derives its value via government decree and because people accept it for payment of goods and services and for debt repayment.</p>",
+          "327969e2-3365-4aaa-92a7-4b8d471e64b4": "<p>Incorrect because money that is not convertible into any other commodity is known as fiat money.</p>",
+          "3e924beb-7672-4c96-904e-5b89a29cb6d7": "<p>Incorrect because money in all major economies today is not convertible by law into anything else, but it is, in law, legal tender.&nbsp;Money that is not convertible into any other commodity is known as fiat money.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3e924beb-7672-4c96-904e-5b89a29cb6d7",
+              "itemBody": "<p>A. is not currently used in&nbsp;any&nbsp;major economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "327969e2-3365-4aaa-92a7-4b8d471e64b4",
+              "itemBody": "<p>B. can be exchanged for a precious metal&nbsp;at the country's central bank.</p>",
+              "position": 2
+            },
+            {
+              "id": "2412415f-15eb-4b62-b69e-603e63919dd3",
+              "itemBody": "<p>C. derives its value via government decree and because people accept it for payment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54528",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Econ-Coorey-03",
+        "feedback": {
+          "neutral": "<p>B is correct. because this is a limitation of monetary policy. The limitations of \nmonetary policy include problems in the transmission mechanism and the relative \nineffectiveness of interest rate adjustment as a policy tool in deflationary \nenvironments.</p>"
+        },
+        "itemBody": "<p>Which of the following is a limitation of monetary policy?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "36057834-38ec-4087-8c28-3c8092ac0f77"
+        },
+        "answerFeedback": {
+          "36057834-38ec-4087-8c28-3c8092ac0f77": "<p>Correct because this is a limitation of monetary policy. The limitations of monetary policy include problems in the transmission mechanism and the relative ineffectiveness of interest rate adjustment as a policy tool in deflationary environments.</p>",
+          "441a92cb-72cc-451e-892d-cf02461994e0": "<p>Incorrect because this is not a limitation of monetary policy.&nbsp;Automatic stabilizers are features which&nbsp;reduce output fluctuations&nbsp;in the economy and impact fiscal policy.&nbsp;</p>",
+          "5155594b-6a4c-412d-9a17-c877b4396bea": "<p>Incorrect because this is not a limitation of monetary policy. This is an aspect of the economy that fiscal policy tools try to address. The limitations of monetary policy include problems in the transmission mechanism and the relative ineffectiveness of interest rate adjustment as a policy tool in deflationary environments.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "441a92cb-72cc-451e-892d-cf02461994e0",
+              "itemBody": "<p>A. The presence of automatic stabilizers in the economy</p>",
+              "position": 1
+            },
+            {
+              "id": "36057834-38ec-4087-8c28-3c8092ac0f77",
+              "itemBody": "<p>B. The ineffectiveness of interest rate adjustments in deflationary environments</p>",
+              "position": 2
+            },
+            {
+              "id": "5155594b-6a4c-412d-9a17-c877b4396bea",
+              "itemBody": "<p>C. The uneven distribution of income and wealth among different segments of the population</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54529",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-McDonald-08",
+        "feedback": {
+          "neutral": "<p>A is correct. because an inflation-targeting framework normally has an independent \nand credible central bank. Such an independent central back does not \nneed government oversight.</p>"
+        },
+        "itemBody": "<p>To be effective in targeting inflation a central bank is <i>least likely</i> to need:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0aaf6ae7-10cf-4124-99b1-e974da77b167"
+        },
+        "answerFeedback": {
+          "0aaf6ae7-10cf-4124-99b1-e974da77b167": "<p>Correct because&nbsp;an inflation-targeting framework normally has an independent and credible central bank. Such an independent central back does not need&nbsp;government oversight.</p>",
+          "68764bde-123a-43b8-a91e-0090a89120fe": "<p>Incorrect because&nbsp;by explaining their views on the economy and by being transparent in decision making, the independent, inflation-targeting central banks seek to gain reputation and credibility, making it easier to influence inflation expectations and hence ultimately easier to meet the inflation target.</p>",
+          "6b363257-7388-4fd9-8426-7e0d2ef6bdaf": "<p>Incorrect because&nbsp;an inflation-targeting framework normally has an independent and credible central bank. It is important that the central bank has credibility with market participants.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0aaf6ae7-10cf-4124-99b1-e974da77b167",
+              "itemBody": "<p>A. government oversight.</p>",
+              "position": 1
+            },
+            {
+              "id": "68764bde-123a-43b8-a91e-0090a89120fe",
+              "itemBody": "<p>B. transparency of decisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "6b363257-7388-4fd9-8426-7e0d2ef6bdaf",
+              "itemBody": "<p>C. credibility with market participants.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54530",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Milosevic-09",
+        "feedback": {
+          "neutral": "<p>A is correct. because when policy rates are above the neutral rate, monetary policy is \ncontractionary; when they are below the neutral rate, monetary policy is \nexpansionary. The calculation of the neutral rate is as follows: Neutral rate = Trend \nMonetary Policy \nFaculty:                                                                         Page 10 of 10 \n \ngrowth + Inflation target. Therefore, if monetary policy is contractionary then the \npolicy rate (1.5%) must be greater than the neutral rate. Hence the long -term \ninflation rate must be less than 1.0% in order for the policy rate to be greater than \nthe neutral rate.</p>"
+        },
+        "itemBody": "<p>An analyst gathers the following data about an economy:</p>\n<table style=\"border-collapse: collapse; width: 270px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 190px; max-width: 190px;\">Real trend growth rate</td>\n<td style=\"width: 73px; text-align: center; max-width: 73px;\">0.5%</td>\n</tr>\n<tr>\n<td style=\"width: 190px; max-width: 190px;\">Central bank's policy rate</td>\n<td style=\"width: 73px; text-align: center; max-width: 73px;\">1.5%</td>\n</tr>\n</tbody>\n</table>\n<p>If monetary policy is contractionary,&nbsp;the central bank's inflation target is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "15431811-8d95-44a4-84e3-763a509e0765"
+        },
+        "answerFeedback": {
+          "15431811-8d95-44a4-84e3-763a509e0765": "<p>Correct because when policy rates are above the neutral rate, monetary policy is contractionary; when they are below the neutral rate, monetary policy is expansionary.&nbsp;&nbsp;The calculation of the neutral rate is as follows: Neutral rate = Trend growth + Inflation target. Therefore, if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate.&nbsp;</p>",
+          "27c51a43-1896-46d4-b781-fa3ca5cc075d": "<p>Incorrect because when policy rates are above the neutral rate, monetary policy is contractionary; when they are below the neutral rate, monetary policy is expansionary. The calculation of the neutral rate is as follows: Neutral rate = Trend growth + Inflation target. Therefore, if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate.&nbsp;</p>",
+          "7ef1522a-0efe-4f1b-af9e-308dacd1cba8": "<p>Incorrect because when policy rates are above the neutral rate, monetary policy is contractionary; when they are below the neutral rate, monetary policy is expansionary. The calculation of the neutral rate is as follows: Neutral rate = Trend growth + Inflation target. Therefore, if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "15431811-8d95-44a4-84e3-763a509e0765",
+              "itemBody": "<p>A. less than 1.0%.</p>",
+              "position": 1
+            },
+            {
+              "id": "7ef1522a-0efe-4f1b-af9e-308dacd1cba8",
+              "itemBody": "<p>B. equal to 1.0%.</p>",
+              "position": 2
+            },
+            {
+              "id": "27c51a43-1896-46d4-b781-fa3ca5cc075d",
+              "itemBody": "<p>C. greater than 1.0%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54531",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Kassem-05",
+        "feedback": {},
+        "itemBody": "<p>To reduce inflation, a central bank <i><span>m</span>ost likely</i> implements an interest rate policy that is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b486761e-180f-48f9-8bad-4df9a1331260"
+        },
+        "answerFeedback": {
+          "b486761e-180f-48f9-8bad-4df9a1331260": "<p>Correct because when central banks&nbsp;believe that economic activity is likely to lead to an increase in inflation, they might increase interest rates, thereby reducing liquidity. In these cases, market analysts describe such actions as contractionary.</p>",
+          "b886946e-3200-4737-8380-1b4b14e5c481": "<p>Incorrect because when the economy is slowing and inflation and monetary trends are weakening, central banks may increase liquidity by cutting their target rate. In these circumstances, monetary policy is said to be expansionary.</p>",
+          "ede5290a-699f-4b07-b04e-d3f6c8cbd4c7": "<p>Incorrect because the neutral rate is that rate of interest that neither spurs on nor slows down the underlying economy. As such, when policy rates are above the neutral rate, monetary policy is contractionary; when they are below the neutral rate, monetary policy is expansionary.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b486761e-180f-48f9-8bad-4df9a1331260",
+              "itemBody": "<p>A. contractionary.</p>",
+              "position": 1
+            },
+            {
+              "id": "ede5290a-699f-4b07-b04e-d3f6c8cbd4c7",
+              "itemBody": "<p>B. neutral.</p>",
+              "position": 2
+            },
+            {
+              "id": "b886946e-3200-4737-8380-1b4b14e5c481",
+              "itemBody": "<p>C. expansionary.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54532",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Elkinawy-Young-07",
+        "feedback": {
+          "neutral": "<p>C is correct. because deflation is more problematic for the central bank than inflation. \nDeflation is a pervasive and persistent fall in a general price index and is more \ndifficult for conventional monetary policy to deal with than inflation. This is because \ncutting nominal interest rates much below zero to stimulate the economy is difficult. \nIt is at this point that the economic conditions for a liquidity trap arise.</p>"
+        },
+        "itemBody": "<p>Under which of the following conditions is monetary policy <i>most</i> effective? When the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "250b6cfe-6bba-444e-b638-1793db9bc1f8"
+        },
+        "answerFeedback": {
+          "0554c3c9-4f08-4046-9975-3658d86d145c": "<p>Incorrect because this leads to a liquidity trap. In very extreme instances, there may be occasions where the demand for money becomes infinitely elastic so that further injections of money into the economy will not serve to further lower interest rates or affect real activity. This is known as a liquidity trap. In this extreme circumstance, monetary policy can become completely ineffective.</p>",
+          "250b6cfe-6bba-444e-b638-1793db9bc1f8": "<p>Correct because deflation is more problematic for the central bank than inflation. Deflation is a pervasive and persistent fall in a general price index and is more difficult for conventional monetary policy to deal with than inflation. This is because cutting nominal interest rates much below zero to stimulate the economy is difficult. It is at this point that the economic conditions for a liquidity trap arise.</p>",
+          "699e87a7-799a-49dd-a626-d4aa4bcc227b": "<p>Incorrect because when the central bank or monetary authority chooses to target an exchange rate, interest rates and conditions in the domestic economy must adapt to accommodate this target and domestic interest rates and money supply can become more volatile.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0554c3c9-4f08-4046-9975-3658d86d145c",
+              "itemBody": "<p>A. demand for money is infinitely elastic.</p>",
+              "position": 1
+            },
+            {
+              "id": "699e87a7-799a-49dd-a626-d4aa4bcc227b",
+              "itemBody": "<p>B. central bank targets an exchange rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "250b6cfe-6bba-444e-b638-1793db9bc1f8",
+              "itemBody": "<p>C. risk of inflation is greater than deflation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54533",
+      "entry": {
+        "title": "ITEM_CFA-L1-01654",
+        "feedback": {
+          "neutral": "<p>A is correct. because if the central bank wishes to increase the supply of money, it \nmight buy bonds (usually government bonds) from the banks, with an agreement to \nsell them back at some time in the future. This transaction is known as a repurchase \nagreement. The lender in a repurchase agreement is the party that initially buys the \nbonds and agrees to sell them back at a later point in time. By purchasing bonds from \nbanks, the central bank is increasing the money supply, or increasing liquidity, which \nis expansionary.</p>"
+        },
+        "itemBody": "<p>Which of the following monetary policy actions is <i>most likely</i> considered expansionary? The central bank:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "67853fe2-6c60-4cf0-8bac-dcf6dd265360"
+        },
+        "answerFeedback": {
+          "01135b24-4594-4796-ae0d-8679dc6e0068": "<p>Incorrect because a central bank could restrict money creation by raising the reserve requirements of banks. This causes banks to keep more money in reserve, which reduces the money supply. This monetary policy action is contractionary, not expansionary.</p>",
+          "67853fe2-6c60-4cf0-8bac-dcf6dd265360": "<p>Correct because if the central bank wishes to increase the supply of money, it might buy bonds (usually government bonds) from the banks, with an agreement to sell them back at some time in the future. This transaction is known as a <strong>repurchase agreement</strong>. The lender in a repurchase agreement is the party that initially buys the bonds and agrees to sell them back at a later point in time. By purchasing bonds from banks, the central bank is increasing the money supply, or increasing liquidity, which is expansionary.&nbsp;</p>",
+          "71b62ef3-fcf5-4c8d-8431-e485036ed9ea": "<p>Incorrect because the central bank can sell government bonds to commercial banks. By doing this, the reserves of commercial banks decline, reducing their capacity to make loans (i.e., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism. This reduction in liquidity is contractionary, not expansionary.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "67853fe2-6c60-4cf0-8bac-dcf6dd265360",
+              "itemBody": "<p>A. acts as the lender in a repurchase agreement.</p>",
+              "position": 1
+            },
+            {
+              "id": "71b62ef3-fcf5-4c8d-8431-e485036ed9ea",
+              "itemBody": "<p>B. sells government bonds to commercial banks.</p>",
+              "position": 2
+            },
+            {
+              "id": "01135b24-4594-4796-ae0d-8679dc6e0068",
+              "itemBody": "<p>C. raises reserve requirements of commercial banks.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54534",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Econ-Bailey-05",
+        "feedback": {
+          "neutral": "<p>A is correct. because there is one overarching objective that most central banks seem \nto acknowledge explicitly, and that is the objective of maintaining price stability.</p>"
+        },
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">The overarching objective of most central banks is to maintain:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bfbc9e85-3271-4413-8bb5-c53703cb467c"
+        },
+        "answerFeedback": {
+          "587b3bb1-0650-4e35-b62c-4d556d10d426": "<p>Incorrect because although some central banks have related but less tangible roles, like maintaining confidence in the financial system. There is one overarching objective that most central banks&nbsp;seem to acknowledge explicitly, and that is the objective of maintaining price stability.&nbsp;Maintaining the government's ability to service debt is not a main objective of central banks.</p>",
+          "8f9f18ac-42ab-41e4-9bd6-ddd86c965016": "<p>Incorrect because although some central banks are charged with doing all they can to maintain full&nbsp;employment and output&nbsp;there is one overarching objective that most central banks&nbsp;seem to acknowledge explicitly, and that is the objective of maintaining price stability.&nbsp;</p>",
+          "bfbc9e85-3271-4413-8bb5-c53703cb467c": "<p>Correct because there is one overarching objective that most central banks&nbsp;seem to acknowledge explicitly, and that is the objective of maintaining price stability.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bfbc9e85-3271-4413-8bb5-c53703cb467c",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">price stability.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "8f9f18ac-42ab-41e4-9bd6-ddd86c965016",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">full employment.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "587b3bb1-0650-4e35-b62c-4d556d10d426",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">the government's ability to service its debt.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54535",
+      "entry": {
+        "title": "ITEM_CFA-L1-09808",
+        "feedback": {
+          "neutral": "<p>B is correct. because it's a tight fiscal policy/easy monetary policy: if a fiscal \ncontraction is accompanied by expansionary monetary policy and low interest rates, \nthen the private sector will be stimulated and will rise as a share of GDP, while the \npublic sector wil l shrink. Falling government spending leads  to a drop in aggregate \ndemand or contraction.</p>"
+        },
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">All else being equal, and assuming that wages and prices of goods are rigid, a decrease in government spending and decreasing interest rates <i>most likely</i> reflect:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3d9e3868-4697-463a-a774-99c25ce183be"
+        },
+        "answerFeedback": {
+          "3d9e3868-4697-463a-a774-99c25ce183be": "<p>Correct because it's a tight fiscal policy/easy monetary policy: if a fiscal contraction is accompanied by expansionary monetary policy and low interest rates, then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink. Falling government spending leads&nbsp;to a drop in aggregate demand or contraction.</p>",
+          "472a24ed-51f7-47e2-b9fa-9cd45c89d578": "<p>Incorrect because it's an easy fiscal policy/tight monetary policy: if taxes are cut or government spending rises, the expansionary fiscal policy will lead to a rise in aggregate output. If this is accompanied by a reduction in money supply to offset the fiscal expansion, then interest rates will rise and have a negative effect on private sector demand. We have higher output and higher interest rates, and government spending will be a larger proportion of overall national income.</p>",
+          "9283e70f-5de0-4810-8e80-1a96cc9fd42c": "<p>Incorrect because it's an easy monetary policy/easy fiscal policy: policy if both fiscal and monetary policy are easy, then the joint impact will be highly expansionary—leading to a rise in aggregate demand, lower interest rates (at least if the monetary impact is larger), and growing private and public sectors.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9283e70f-5de0-4810-8e80-1a96cc9fd42c",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">easy fiscal policy and easy monetary policy.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "3d9e3868-4697-463a-a774-99c25ce183be",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">tight fiscal policy and easy monetary policy.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "472a24ed-51f7-47e2-b9fa-9cd45c89d578",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">easy fiscal policy and tight monetary policy.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 15,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54536",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-Econ-Fairborn-02",
+        "feedback": {
+          "neutral": "<p>C is correct. because central banks play several key roles in modern economies. \nGenerally, a central bank is the regulator and supervisor of the payments system.</p>"
+        },
+        "itemBody": "<p>A role of <i>most </i>central banks is to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b5d605e1-ea59-4fbd-9a6e-c6563fc23568"
+        },
+        "answerFeedback": {
+          "3cd91235-36d9-4753-b082-5493e5733101": "<p>Incorrect because the second set of tools used for influencing economic activity consists of the tools associated with fiscal policy. These involve the use of government spending and changing tax revenue to affect a number of aspects of the economy. Therefore, fiscal policies such as setting income tax rates are established by governments, not central banks.</p>",
+          "b5d605e1-ea59-4fbd-9a6e-c6563fc23568": "<p>Correct because central banks play several key roles in modern economies. Generally, a central bank is the regulator and supervisor of the payments system.</p>",
+          "d1f7c614-7f24-45f8-bd9f-c5aa2d93bfe4": "<p><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\">Inc</span>orrect because the second set of tools used for influencing economic activity consists of the tools associated with fiscal policy. These involve the use of government spending and changing tax revenue to affect a number of aspects of the economy.&nbsp;Therefore, fiscal policies such as government spending are established by governments, not central banks.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3cd91235-36d9-4753-b082-5493e5733101",
+              "itemBody": "<p>A. set income tax rates.</p>",
+              "position": 1
+            },
+            {
+              "id": "d1f7c614-7f24-45f8-bd9f-c5aa2d93bfe4",
+              "itemBody": "<p>B. decide on government expenditures.</p>",
+              "position": 2
+            },
+            {
+              "id": "b5d605e1-ea59-4fbd-9a6e-c6563fc23568",
+              "itemBody": "<p>C. regulate their country's payments system.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 16,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54537",
+      "entry": {
+        "title": "ITEM_CFA-L1-08166",
+        "feedback": {
+          "neutral": "<p>A is correct. because if a fiscal contraction is accompanied by expansionary monetary \npolicy and low interest rates, then the private sector will be stimulated and will rise \nas a share of GDP, while the public sector will shrink.</p>"
+        },
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">If contractionary fiscal policy and expansionary monetary policy have offsetting effects on GDP, the public sector's share of GDP will <i>most </i><i>likely</i>:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e0abc079-568f-43f2-839f-25bf24a105bc"
+        },
+        "answerFeedback": {
+          "300c82d4-191f-442d-8f10-72c1b4f20358": "<p>Incorrect because if a fiscal contraction is accompanied by expansionary monetary policy and low interest rates, then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink.&nbsp;</p>",
+          "755c5581-7cfb-4751-b69f-547583a3d919": "<p>Incorrect because if a fiscal contraction is accompanied by expansionary monetary policy and low interest rates, then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink.</p>",
+          "e0abc079-568f-43f2-839f-25bf24a105bc": "<p>Correct because if a fiscal contraction is accompanied by expansionary monetary policy and low interest rates, then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e0abc079-568f-43f2-839f-25bf24a105bc",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">decrease.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "755c5581-7cfb-4751-b69f-547583a3d919",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">remain the same.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "300c82d4-191f-442d-8f10-72c1b4f20358",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">increase.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 17,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8793,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 839,
+      "sourceModuleId": 4648,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50774",
+      "entry": {
+        "title": "CFA2413-R-s03-Q5",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Investment is expected to move inversely with the official policy rate.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">When a central bank announces a decrease in its official policy rate, the desired impact is an increase in:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5795bae3-ac99-48cd-a179-caacb7f9363b"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5795bae3-ac99-48cd-a179-caacb7f9363b",
+              "itemBody": "A. investment.",
+              "position": 1
+            },
+            {
+              "id": "f20b4a2f-6110-447d-b4d7-fc6c3bc85d3b",
+              "itemBody": "B. interbank borrowing rates.",
+              "position": 2
+            },
+            {
+              "id": "729c86bd-ce92-497d-bab0-0ce3c3c56d7f",
+              "itemBody": "C. the national currency’s value in exchange for other currencies.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50775",
+      "entry": {
+        "title": "CFA2413-R-s03-Q6",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Such action would tend to constrict the money supply and increase interest rates, all else being equal.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which action is a central bank <em>least likely</em> to take if it wants to encourage businesses and households to borrow for investment and consumption purposes?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cf28462d-377d-4704-904b-ab71c6d17d36"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cf28462d-377d-4704-904b-ab71c6d17d36",
+              "itemBody": "A. Sell long-dated government securities",
+              "position": 1
+            },
+            {
+              "id": "1541491e-eb51-4e35-a428-f842ce0a0388",
+              "itemBody": "B. Purchase long-dated government treasuries",
+              "position": 2
+            },
+            {
+              "id": "34d8cce3-e68a-46f7-acd0-6e81f6ff601c",
+              "itemBody": "C. Purchase mortgage bonds or other securities",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50776",
+      "entry": {
+        "title": "CFA2413-R-s03-Q7",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The purchase of government bonds through open market operations increases banking reserves and the money supply; it is consistent with an expansionary monetary policy.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A central bank’s repeated open market purchases of government bonds:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "801f62ca-fc44-4cbc-ba89-8b33c2b5b045"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "06e6abb6-afc0-40f5-a8c2-20ab4fdf5e72",
+              "itemBody": "A. decreases the money supply.",
+              "position": 1
+            },
+            {
+              "id": "aba88df2-f135-4c30-b872-b123524619c1",
+              "itemBody": "B. is prohibited in most countries.",
+              "position": 2
+            },
+            {
+              "id": "801f62ca-fc44-4cbc-ba89-8b33c2b5b045",
+              "itemBody": "C. is consistent with an expansionary monetary policy.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50777",
+      "entry": {
+        "title": "CFA2413-R-s04-Q12",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. A central bank would decrease an official interest rate to stimulate the economy. The setting in which an official interest rate is lowered to zero (or even slightly below zero) without stimulating economic growth suggests that there are limits to monetary policy.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A prolonged period of an official interest rate very close to zero without an increase in economic growth <em>most likely</em> suggests:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "155b9e07-e83a-43ee-bff4-563d4205534e"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "359e8b4a-c616-4b70-8f60-206feecd5c7e",
+              "itemBody": "A. quantitative easing must be limited to be successful.",
+              "position": 1
+            },
+            {
+              "id": "155b9e07-e83a-43ee-bff4-563d4205534e",
+              "itemBody": "B. the effectiveness of monetary policy may be limited.",
+              "position": 2
+            },
+            {
+              "id": "557bfdbe-5af6-41dc-8e7f-049ad93e76f9",
+              "itemBody": "C. targeting reserve levels is more important than targeting interest rates.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50778",
+      "entry": {
+        "title": "CFA2413-R-s04-Q13",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Raising reserve requirements should slow money supply growth.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Raising the reserve requirement is <em>most likely</em> an example of which type of monetary policy?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "324064c5-c0c1-4fc7-8e5b-f27555082edf"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2081ca0c-192b-4052-8cec-a10f8518b8be",
+              "itemBody": "A. Neutral",
+              "position": 1
+            },
+            {
+              "id": "e6ab257a-eeae-434d-99a4-8e74cb950eb7",
+              "itemBody": "B. Expansionary",
+              "position": 2
+            },
+            {
+              "id": "324064c5-c0c1-4fc7-8e5b-f27555082edf",
+              "itemBody": "C. Contractionary",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50779",
+      "entry": {
+        "title": "CFA2413-R-s04-Q14",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Deflation poses a challenge to conventional monetary policy because once the central bank has cut nominal interest rates to zero (or slightly less than zero) to stimulate the economy, they cannot cut them further.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following is a limitation on the ability of central banks to stimulate growth in periods of deflation?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "3367ed7b-db42-4942-abf0-e65f1e002223"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "32036881-288f-470f-9d04-afb8b2287395",
+              "itemBody": "A. Ricardian equivalence",
+              "position": 1
+            },
+            {
+              "id": "9fe9a7dc-a7af-4a7c-ba56-f34efd561554",
+              "itemBody": "B. Interaction of monetary and fiscal policy",
+              "position": 2
+            },
+            {
+              "id": "3367ed7b-db42-4942-abf0-e65f1e002223",
+              "itemBody": "C. Interest rates cannot fall significantly below zero",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50780",
+      "entry": {
+        "title": "CFA2413-R-s04-Q15",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The inability to determine exactly the neutral rate of interest does not necessarily limit the power of monetary policy.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The <em>least likely</em> limitation to the effectiveness of monetary policy is that central banks cannot:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "14e180be-473c-413f-b5d5-b9a76655d159"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "14e180be-473c-413f-b5d5-b9a76655d159",
+              "itemBody": "A. accurately determine the neutral rate of interest.",
+              "position": 1
+            },
+            {
+              "id": "6d12a7c5-2e95-4c56-b9e0-7afdd25cf95f",
+              "itemBody": "B. regulate the willingness of financial institutions to lend.",
+              "position": 2
+            },
+            {
+              "id": "9cd66348-d252-4d69-b898-d5f2402fc018",
+              "itemBody": "C. control amounts that economic agents deposit into banks.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50781",
+      "entry": {
+        "title": "CFA2413-R-s04-Q16",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Quantitative easing is an example of an expansionary monetary policy stance. It attempts to spur aggregate demand by drastically increasing the money supply.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Quantitative easing, the purchase of government or private securities by the central banks from individuals or institutions, is an example of which monetary policy stance?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d184547d-966b-4d2b-a83f-0cb178762319"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5f4942a5-b388-4768-99eb-88c5bba32f80",
+              "itemBody": "A. Neutral",
+              "position": 1
+            },
+            {
+              "id": "d184547d-966b-4d2b-a83f-0cb178762319",
+              "itemBody": "B. Expansionary",
+              "position": 2
+            },
+            {
+              "id": "aa205b2c-1d4b-4952-acf5-26dc51bc0134",
+              "itemBody": "C. Contractionary",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8165,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53602",
+      "entry": {
+        "title": "ITEM_20170531040",
+        "feedback": {
+          "neutral": "<p>A is correct. Selling government bonds results in a reduction of bank reserves and \nreduces their ability to lend, causing a decline in money growth through the multiplier \nmechanism and hence a contraction in the economy.</p>"
+        },
+        "itemBody": "<p>In an effort to influence the economy, a central bank conducted open market activities by selling government bonds. This action implies that the central bank is <i>most likely</i> attempting to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a282e398-78f7-473c-84fe-176de8b76a40"
+        },
+        "answerFeedback": {
+          "4ce33f77-01c2-45cd-8a96-60049d69b02b": "<p>Incorrect. Central bank selling of bonds will reduce the money supply through its impact on bank reserves, which will result in a higher, not lower, interest rate.</p>",
+          "944cbb40-98dd-4a43-91c5-52c8e9864885": "<p>Incorrect. Central bank selling of bonds is not expansionary.</p>",
+          "a282e398-78f7-473c-84fe-176de8b76a40": "<p><strong>Correct.</strong> Selling government bonds results in a reduction of bank reserves and reduces their ability to lend, causing a decline in money growth through the multiplier mechanism and hence a contraction in the economy.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a282e398-78f7-473c-84fe-176de8b76a40",
+              "itemBody": "<p>A. contract the economy by reducing bank reserves.</p>",
+              "position": 1
+            },
+            {
+              "id": "4ce33f77-01c2-45cd-8a96-60049d69b02b",
+              "itemBody": "<p>B. contract the economy through a lower policy interest rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "944cbb40-98dd-4a43-91c5-52c8e9864885",
+              "itemBody": "<p>C. expand the economy through a lower policy interest rate.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53603",
+      "entry": {
+        "title": "ITEM_20170531072",
+        "feedback": {
+          "neutral": "<p>A is correct. The primary monetary policy goal of most major central banks is to \nmaintain price stability.</p>"
+        },
+        "itemBody": "<p>The primary monetary policy goal of most major central banks is <i>best </i>characterized as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e160d08f-0fad-41f7-be0d-32e2faff7c8e"
+        },
+        "answerFeedback": {
+          "2f84e2c7-87d1-4042-a503-7ab1d919736b": "<p>Incorrect. Central banks may have a variety of objectives, but the overriding one is maintaining price stability.</p>",
+          "4bff5b4b-b56b-48ae-ba06-f8d3873eab62": "<p>Incorrect. Though stimulating economic growth can be part of certain central banks objectives, the overriding objective is maintaining price stability.</p>",
+          "e160d08f-0fad-41f7-be0d-32e2faff7c8e": "<p><strong>Correct.</strong> The primary monetary policy goal of most major central banks is to maintain price stability.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e160d08f-0fad-41f7-be0d-32e2faff7c8e",
+              "itemBody": "<p>A. maintaining price stability.</p>",
+              "position": 1
+            },
+            {
+              "id": "4bff5b4b-b56b-48ae-ba06-f8d3873eab62",
+              "itemBody": "<p>B. stimulating economic growth.</p>",
+              "position": 2
+            },
+            {
+              "id": "2f84e2c7-87d1-4042-a503-7ab1d919736b",
+              "itemBody": "<p>C. maintaining low interest rates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53604",
+      "entry": {
+        "title": "ITEM_20170531099",
+        "feedback": {
+          "neutral": "<p>B is correct. Central banks have three primary tools available to them: open market \noperations, setting the official policy rate, and reserve requirements.</p>"
+        },
+        "itemBody": "<p>The tools used by central banks to implement monetary policy <i>most likely</i> include:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5d592013-9313-4505-a4a3-8f8190e52b55"
+        },
+        "answerFeedback": {
+          "46335214-79f8-4c0f-996d-214cf0986321": "<p>Incorrect because raising or lowering income taxes is a part of fiscal policy, not monetary policy.</p>",
+          "5d592013-9313-4505-a4a3-8f8190e52b55": "<p><strong>Correct.</strong> Central banks have three primary tools available to them: open market operations, setting the official policy rate, and reserve requirements.</p>",
+          "a38f42aa-ba1c-4cdc-ba0a-677c363427f0": "<p>Incorrect because transfer payments are a fiscal policy tool.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a38f42aa-ba1c-4cdc-ba0a-677c363427f0",
+              "itemBody": "<p>A. transfer payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "5d592013-9313-4505-a4a3-8f8190e52b55",
+              "itemBody": "<p>B. open market operations.</p>",
+              "position": 2
+            },
+            {
+              "id": "46335214-79f8-4c0f-996d-214cf0986321",
+              "itemBody": "<p>C. raising or lowering income taxes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53605",
+      "entry": {
+        "title": "ITEM_20170531102",
+        "feedback": {
+          "neutral": "<p>C is correct. When a central bank purchases securities, bank reserves increase. The \nbanks therefore have excess reserves and are able to increase their lending, \nincreasing the money supply.</p>"
+        },
+        "itemBody": "<p>Which of the following actions on the part of a central bank is <i>most </i>consistent with increasing the quantity of money?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "63b19cbe-52c5-40ec-b3ee-733f0afeba47"
+        },
+        "answerFeedback": {
+          "5336f53f-9e20-4aae-aa9c-5192417b7ea0": "<p>Incorrect. The higher the policy rate, the higher the potential penalty that banks will have to pay to the central bank if they run short of liquidity, the greater will be their willingness to reduce lending, and the more likely the money supply will decrease.</p>",
+          "63b19cbe-52c5-40ec-b3ee-733f0afeba47": "<p><strong>Correct.</strong> When a central bank purchases securities, bank reserves increase. The banks therefore have excess reserves and are able to increase their lending, increasing the money supply.</p>",
+          "70884e96-887b-41a0-b83e-04a6ace51faa": "<p>Incorrect. If the central bank increases required reserve ratios, the banks will decrease lending and the money supply will decline.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "70884e96-887b-41a0-b83e-04a6ace51faa",
+              "itemBody": "<p>A. Increasing reserve requirements</p>",
+              "position": 1
+            },
+            {
+              "id": "5336f53f-9e20-4aae-aa9c-5192417b7ea0",
+              "itemBody": "<p>B. Increasing the central bank policy rate</p>",
+              "position": 2
+            },
+            {
+              "id": "63b19cbe-52c5-40ec-b3ee-733f0afeba47",
+              "itemBody": "<p>C. Purchasing securities on the open market</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53606",
+      "entry": {
+        "title": "ITEM_20170531105",
+        "feedback": {
+          "neutral": "<p>B is correct. Quantitative easing (QE) is an “unconventional” approach to monetary \npolicy and is operationally similar to open market purchase operations but conducted \non a much larger scale. The additional reserves created by central banks in a policy \nof quantitative easing can be used to buy any assets. The idea is that this additional \nreserve will kick -start lending, causing broad money growth to expand, which will \neventually lead to an increase in real economic activity. \n \nMonetary Policy \nFaculty:                                                                         Page 8 of 10</p>"
+        },
+        "itemBody": "<p>As a monetary policy tool, quantitative easing (QE) will <i>most likely </i>help revive an ailing economy in which of the following environments?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "196aca9a-66ce-4959-99ce-f5258494e994"
+        },
+        "answerFeedback": {
+          "196aca9a-66ce-4959-99ce-f5258494e994": "<p><strong>Correct.</strong> Quantitative easing (QE) is an “unconventional” approach to monetary policy and is operationally similar to open market purchase operations but conducted on a much larger scale. The additional reserves created by central banks in a policy of quantitative easing can be used to buy any assets. The idea is that this additional reserve will kick-start lending, causing broad money growth to expand, which will eventually lead to an increase in real economic activity.</p>",
+          "61908374-eb25-4b73-81ad-19ec5ba7106e": "<p>Incorrect. A liquidity trap is associated with occasions where the demand for money becomes infinitely elastic—that is, where the demand curve is horizontal and individuals are willing to hold additional money balances without any change in the interest rate—so that further injections of money into the economy will not serve to further lower interest rates or affect real activity. In this extreme circumstance, monetary policy can become completely ineffective.</p>",
+          "d8272e50-ac82-4bfe-ad0f-6039c5e9d207": "<p>Incorrect. Deflation is a pervasive and persistent fall in a general price index and is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further. It is at this point that the economic conditions for a liquidity trap arise. Deflation raises the real value of debt, while the persistent fall in prices can encourage consumers to put off current consumption, leading to a fall in demand that leads to further deflationary pressure. Thus a deflationary “trap” can develop, which is characterized by weak consumption growth, falling prices, and increases in real debt levels.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d8272e50-ac82-4bfe-ad0f-6039c5e9d207",
+              "itemBody": "<p>A. Deflationary trap</p>",
+              "position": 1
+            },
+            {
+              "id": "196aca9a-66ce-4959-99ce-f5258494e994",
+              "itemBody": "<p>B. Declining bank reserves and economic activity</p>",
+              "position": 2
+            },
+            {
+              "id": "61908374-eb25-4b73-81ad-19ec5ba7106e",
+              "itemBody": "<p>C. Liquidity trap</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53607",
+      "entry": {
+        "title": "ITEM_20170531108",
+        "feedback": {
+          "neutral": "<p>B is correct. With a decline in economic activity and domestic inflation, the currency \nof the developing country would start to rise against the dollar. To protect the \nexchange rate target, the developing country’s monetary authority will purchase \nforeign exchange reserves and sell its own currency. This will increase the domestic \nmoney supply, decrease short -term interest rates, and increase foreign exchange \nreserves.</p>"
+        },
+        "itemBody": "<p>A developing country that maintains a fixed value for its currency relative to the US dollar is experiencing a decline in its economic activity, and its inflation rate falls below the level of inflation in the United States. The <i>most likely</i> result of the developing country’s actions to maintain the fixed exchange rate target is that its:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c2e957f0-5888-46ca-8078-37adee9a8f7f"
+        },
+        "answerFeedback": {
+          "197d8b7e-1e09-44c0-b30d-de91666e78b0": "<p>Incorrect. With a decline in economic activity and domestic inflation, the currency of the developing country would start to rise against the dollar. To protect the exchange rate target, the developing country’s monetary authority will purchase foreign exchange reserves and sell its own currency. This will increase the domestic money supply, decrease short-term interest rates, and increase foreign exchange reserves.</p>",
+          "8f5ade04-1e58-49e6-9bd9-39bf4d4e63b4": "<p>Incorrect. With a decline in economic activity and domestic inflation, the currency of the developing country would start to rise against the dollar. To protect the exchange rate target, the developing country’s monetary authority will purchase foreign exchange reserves and sell its own currency. This will increase the domestic money supply, decrease short-term interest rates, and increase foreign exchange reserves.</p>",
+          "c2e957f0-5888-46ca-8078-37adee9a8f7f": "<p><strong>Correct.</strong> With a decline in economic activity and domestic inflation, the currency of the developing country would start to rise against the dollar. To protect the exchange rate target, the developing country’s monetary authority will purchase foreign exchange reserves and sell its own currency. This will increase the domestic money supply, decrease short-term interest rates, and increase foreign exchange reserves.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8f5ade04-1e58-49e6-9bd9-39bf4d4e63b4",
+              "itemBody": "<p>A. money supply will contract.</p>",
+              "position": 1
+            },
+            {
+              "id": "c2e957f0-5888-46ca-8078-37adee9a8f7f",
+              "itemBody": "<p>B. short-term interest rates will fall.</p>",
+              "position": 2
+            },
+            {
+              "id": "197d8b7e-1e09-44c0-b30d-de91666e78b0",
+              "itemBody": "<p>C. foreign exchange reserves will decrease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53608",
+      "entry": {
+        "title": "ITEM_20170531139",
+        "feedback": {
+          "neutral": "<p>B is correct. The monetary transmission mechanism is the process whereby a central \nbank’s interest rate gets transmitted through the economy and ultimately affects \nthe rate of increase of prices (inflation).</p>"
+        },
+        "itemBody": "<p>The transmission of a central bank’s policy rate action through the economy ultimately affects:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "736be710-102f-462a-ba59-aba36a742ff6"
+        },
+        "answerFeedback": {
+          "736be710-102f-462a-ba59-aba36a742ff6": "<p><strong>Correct.</strong> The monetary transmission mechanism is the process whereby a central bank’s interest rate gets transmitted through the economy and ultimately affects the rate of increase of prices (inflation).</p>",
+          "79827df5-502c-48e8-8602-c46ed85a9ec4": "<p>Incorrect because although policy rate actions do transmit through the economy through the channel of market rates (both short-term and long-term interest rates), this is just one of four channels and multiple interconnected channel relationships that impacts total demand. In effect, policy rate actions ultimately impact inflation through the channel of market interest rates (including long-term interest rates).</p>",
+          "9ea8d45e-bf12-4b2b-aec3-a5100ffe71e8": "<p>Incorrect because, although policy rate actions do transmit through the economy by affecting total demand, this influence on total demand is an intermediate effect that drives subsequent domestic inflationary pressure. In effect, policy rate actions ultimately impact inflation through the avenue of total demand.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "736be710-102f-462a-ba59-aba36a742ff6",
+              "itemBody": "<p>A. inflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "9ea8d45e-bf12-4b2b-aec3-a5100ffe71e8",
+              "itemBody": "<p>B. total demand.</p>",
+              "position": 2
+            },
+            {
+              "id": "79827df5-502c-48e8-8602-c46ed85a9ec4",
+              "itemBody": "<p>C. long-term interest rates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53609",
+      "entry": {
+        "title": "ITEM_20170531141",
+        "feedback": {
+          "neutral": "<p>C is correct. A real trend rate of growth of 1%, coupled with 3% long -run expected \ninflation, suggests a 4% neutral rate of interest that neither spurs on nor slows down \nthe underlying economy. The 3% policy rate is less than the 4% neutral rate of \ninterest. When the policy rate is below the neutral rate, monetary policy is described \nas expansionary.</p>"
+        },
+        "itemBody": "<p>If there is a policy rate of 3%, a real trend rate of growth in the underlying economy of 1%, and long-run expected inflation of 3%, then the central bank policy stance operating within a credible inflation-targeting regime is <i>best </i>described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "59b3f576-709c-4f40-994e-743d97164a59"
+        },
+        "answerFeedback": {
+          "0cf2b2bd-262a-4763-8cea-9117b02392c1": "<p>Incorrect because, with a contractionary policy stance, the central bank’s policy rate would be greater than the neutral rate. In this case, the policy rate of 3% is less than the neutral rate of 4% (1% trend growth plus 3% long-run inflation expectation), which is expansionary (not contractionary).</p>",
+          "59b3f576-709c-4f40-994e-743d97164a59": "<p><strong>Correct.</strong> A real trend rate of growth of 1%, coupled with 3% long-run expected inflation, suggests a 4% neutral rate of interest that neither spurs on nor slows down the underlying economy. The 3% policy rate is less than the 4% neutral rate of interest. When the policy rate is below the neutral rate, monetary policy is described as expansionary.</p>",
+          "be75a589-c32c-457e-9ccc-fd721b3ef8e2": "<p>Incorrect because, with a neutral policy stance, the central bank’s policy rate would be equal to the neutral rate. In this case, the policy rate of 3% is less than the neutral rate of 4% (1% trend growth plus 3% long-run inflation expectation), which is expansionary (not neutral).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0cf2b2bd-262a-4763-8cea-9117b02392c1",
+              "itemBody": "<p>A. contractionary.</p>",
+              "position": 1
+            },
+            {
+              "id": "be75a589-c32c-457e-9ccc-fd721b3ef8e2",
+              "itemBody": "<p>B. neutral.</p>",
+              "position": 2
+            },
+            {
+              "id": "59b3f576-709c-4f40-994e-743d97164a59",
+              "itemBody": "<p>C. expansionary.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53610",
+      "entry": {
+        "title": "ITEM_20170531146",
+        "feedback": {
+          "neutral": "<p>A is correct. If tight fiscal policy is accompanied by easy monetary policy and low \ninterest rates, the private sector will be stimulated and will increase as a share of \nGDP.</p>"
+        },
+        "itemBody": "<p>Given stable inflation, a tight fiscal policy accompanied by easy monetary policy will <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e9d43368-4554-463d-a238-da96d23f8cd8"
+        },
+        "answerFeedback": {
+          "8bffd327-882f-4276-a890-5516c8836427": "<p>Incorrect. If tight fiscal policy is accompanied by easy monetary policy and low interest rates, the private sector share of GDP typically will increase (not remain unchanged). An unchanged composition of aggregate demand, with the GDP shares attributable to the private and public sectors remaining stable, typically occurs in the context of parallel policy actions. That occurs with mutually reinforcing macroeconomic policies, either tight fiscal/tight monetary or easy fiscal/easy monetary.</p>",
+          "b544256b-765b-426f-b556-b23d72a48238": "<p>Incorrect. If tight fiscal policy is accompanied by easy monetary policy and low interest rates, the private sector share of GDP typically will increase (not decrease).</p>",
+          "e9d43368-4554-463d-a238-da96d23f8cd8": "<p><strong>Correct.</strong> If tight fiscal policy is accompanied by easy monetary policy and low interest rates, the private sector will be stimulated and will increase as a share of GDP.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b544256b-765b-426f-b556-b23d72a48238",
+              "itemBody": "<p>A. decrease the private sector share of GDP.</p>",
+              "position": 1
+            },
+            {
+              "id": "8bffd327-882f-4276-a890-5516c8836427",
+              "itemBody": "<p>B. have no impact on the private sector share of GDP.</p>",
+              "position": 2
+            },
+            {
+              "id": "e9d43368-4554-463d-a238-da96d23f8cd8",
+              "itemBody": "<p>C. increase the private sector share of GDP.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53611",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Econ-Coorey-05",
+        "feedback": {
+          "neutral": "<p>C is correct. because if a fiscal contraction is accompanied by expansionary monetary \npolicy and low interest rates, then the private sector will be stimulated and will rise \nas a share of GDP, while the public sector will shrink.</p>"
+        },
+        "itemBody": "<p>Assuming wages and prices are rigid, which of the following policy combinations <i>most likely</i> leads to the private sector increasing its share of GDP?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "2b866aac-1603-48ce-bdfa-297f6e92e578"
+        },
+        "answerFeedback": {
+          "2b866aac-1603-48ce-bdfa-297f6e92e578": "<p><strong>Correct </strong>because if a fiscal contraction is accompanied by expansionary monetary policy and low interest rates, then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink.</p>",
+          "6dd57e48-9d8a-4321-b94e-453a0dda9f52": "<p>Incorrect because if taxes are cut or government spending rises, the expansionary fiscal policy will lead to a rise in aggregate output. If this is accompanied by a reduction in money supply to offset the fiscal expansion, then interest rates will rise and have a negative effect on private sector demand. We have higher output and higher interest rates, and government spending will be a larger proportion of overall national income.</p>",
+          "dbb3b88c-de0a-4d81-aba5-fdc8da3add64": "<p>Incorrect because, in the case of tight monetary policy and tight fiscal policy, interest rates rise (at least if the monetary impact on interest rates is larger) and reduce private demand. At the same time, higher taxes and falling government spending lead to a drop in aggregate demand from both public and private sectors.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6dd57e48-9d8a-4321-b94e-453a0dda9f52",
+              "itemBody": "<p>A. Easy fiscal policy and tight monetary policy</p>",
+              "position": 1
+            },
+            {
+              "id": "dbb3b88c-de0a-4d81-aba5-fdc8da3add64",
+              "itemBody": "<p>B. Tight monetary policy and tight fiscal policy</p>",
+              "position": 2
+            },
+            {
+              "id": "2b866aac-1603-48ce-bdfa-297f6e92e578",
+              "itemBody": "<p>C. Tight fiscal policy and easy monetary policy</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53612",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Kassem-04",
+        "feedback": {
+          "neutral": "<p>A is correct. because for a central bank there is one overarching objective that most \nseem to acknowledge explicitly, and that is the objective of maintaining price \nstability.</p>"
+        },
+        "itemBody": "<p>The main objective of most central banks is to maintain:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1cf2111e-b017-45ec-aff0-451356a3ea56"
+        },
+        "answerFeedback": {
+          "1cf2111e-b017-45ec-aff0-451356a3ea56": "<p><strong>Correct </strong>because for a central bank there is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.</p>",
+          "5fbebec3-9618-425e-9e2d-af7bb7d67200": "<p>Incorrect because while some central banks are charged with doing all they can to maintain full employment and output there is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.</p>",
+          "d9e79e74-0ce2-4822-8c18-1228be1d0c26": "<p>Incorrect because most central banks will also be responsible for managing their country’s foreign currency reserves and also its gold reserves. There is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1cf2111e-b017-45ec-aff0-451356a3ea56",
+              "itemBody": "<p>A. price stability.</p>",
+              "position": 1
+            },
+            {
+              "id": "d9e79e74-0ce2-4822-8c18-1228be1d0c26",
+              "itemBody": "<p>B. gold reserves.</p>",
+              "position": 2
+            },
+            {
+              "id": "5fbebec3-9618-425e-9e2d-af7bb7d67200",
+              "itemBody": "<p>C. an employment target.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53613",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Econ-Grabe-08",
+        "feedback": {
+          "neutral": "<p>C is correct. because the neutral policy rate for any economy comprises two \ncomponents: Real trend rate of growth of the underlying economy, and long -run \nexpected inflation. Also note Neutral rate = Trend growth + Inflation target.</p>"
+        },
+        "itemBody": "<p>The neutral policy rate is equal to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "517ebfc6-7d9d-4587-8a60-1e0f4002ceb6"
+        },
+        "answerFeedback": {
+          "3292e1ab-c422-4135-a16a-22f1615a1285": "<p>Incorrect because the neutral policy rate for any economy comprises two components:&nbsp;Real trend rate of growth of the underlying economy, and long-run expected inflation.&nbsp;Also note&nbsp;Neutral rate = Trend growth + Inflation target.</p>",
+          "517ebfc6-7d9d-4587-8a60-1e0f4002ceb6": "<p><strong>Correct </strong>because the neutral policy rate for any economy comprises two components:&nbsp;Real trend rate of growth of the underlying economy, and long-run expected inflation.&nbsp;Also note&nbsp;Neutral rate = Trend growth + Inflation target.</p>",
+          "905d3555-f894-4b22-8c38-7f6b2865cbcd": "<p>Incorrect because the neutral policy rate for any economy comprises two components:&nbsp;Real trend rate of growth of the underlying economy, and long-run expected inflation.&nbsp;Also note&nbsp;Neutral rate = Trend growth + Inflation target.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "905d3555-f894-4b22-8c38-7f6b2865cbcd",
+              "itemBody": "<p>A. long-run expected inflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "3292e1ab-c422-4135-a16a-22f1615a1285",
+              "itemBody": "<p>B. the real trend rate of growth of the underlying economy.</p>",
+              "position": 2
+            },
+            {
+              "id": "517ebfc6-7d9d-4587-8a60-1e0f4002ceb6",
+              "itemBody": "<p>C. long-run expected inflation plus the&nbsp;real trend rate of growth of the underlying economy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53614",
+      "entry": {
+        "title": "ITEM_CFA-L1-09313",
+        "feedback": {
+          "neutral": "<p>C is correct. because once an economy has moved to a system of fiat money, the role \nof the supplier of that money (the central bank) becomes even more crucial because \nthey could, for example, expand the supply of this money indefinitely should they \nwish to do so. Central banks therefore play a crucial role in modern economies as the \nsuppliers and guardians of the value of their fiat currencies and as institutions \ncharged with the role of maintaining confidence in their currencies.</p>"
+        },
+        "itemBody": "<p>As an economy moves from the gold standard to a system of fiat currency, the role of the central bank <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d6a9ce49-339a-4930-8d67-bef44f7be5a8"
+        },
+        "answerFeedback": {
+          "97e9f79f-44be-46a1-be6b-943408a43cc1": "<p>Incorrect because once an economy has moved to a system of fiat money, the role of the supplier of that money (the central bank) becomes even more crucial because they could, for example, expand the supply of this money indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies.</p>",
+          "c70b1aa1-674c-4f64-8cfe-01acbd78d762": "<p>Incorrect because once an economy has moved to a system of fiat money, the role of the supplier of that money (the central bank) becomes even more crucial because they could, for example, expand the supply of this money indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies.</p>",
+          "d6a9ce49-339a-4930-8d67-bef44f7be5a8": "<p><strong>Correct </strong>because once an economy has moved to a system of fiat money, the role of the supplier of that money (the central bank) becomes even more crucial because they could, for example, expand the supply of this money indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c70b1aa1-674c-4f64-8cfe-01acbd78d762",
+              "itemBody": "<p>A. becomes less crucial.</p>",
+              "position": 1
+            },
+            {
+              "id": "97e9f79f-44be-46a1-be6b-943408a43cc1",
+              "itemBody": "<p>B. remains unchanged.</p>",
+              "position": 2
+            },
+            {
+              "id": "d6a9ce49-339a-4930-8d67-bef44f7be5a8",
+              "itemBody": "<p>C. becomes more crucial.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53615",
+      "entry": {
+        "title": "ITEM_CFA-L1-05852",
+        "feedback": {
+          "neutral": "<p>A is correct. because decreasing taxes reflects easy fiscal policy. If taxes are cut \nthe expansionary fiscal policy will lead to a rise in aggregate output. Increasing \nMonetary Policy \nFaculty:                                                                         Page 9 of 10 \n \ninterest rates reflects tight monetary policy. If this is accompanied by a reduction \nin money supply to offset the fiscal expansion, then interest rates will rise.</p>"
+        },
+        "itemBody": "<p>A decrease in taxes and an increase in interest rates <i>most likely</i> reflect:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "be67fcb0-1934-48bf-a71e-811c92f5871b"
+        },
+        "answerFeedback": {
+          "18a2d9f8-0427-4b6b-8f87-4cbeb23c76b5": "<p>Incorrect because a decrease in taxes is expansionary fiscal policy,&nbsp;not tight fiscal policy.</p>",
+          "be67fcb0-1934-48bf-a71e-811c92f5871b": "<p><strong>Correct </strong>because decreasing taxes reflects easy fiscal policy. If taxes are cut the expansionary fiscal policy will lead to a rise in aggregate output.&nbsp;Increasing interest rates reflects tight monetary policy. If this is accompanied by a reduction in money supply to offset the fiscal expansion, then interest rates will rise.</p>",
+          "e52f5a23-e0dd-40fd-9335-2352ade1e129": "<p>Incorrect because a decrease in taxes is expansionary fiscal policy,&nbsp;not tight fiscal policy.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "be67fcb0-1934-48bf-a71e-811c92f5871b",
+              "itemBody": "<p>A. easy fiscal policy and tight monetary policy.</p>",
+              "position": 1
+            },
+            {
+              "id": "e52f5a23-e0dd-40fd-9335-2352ade1e129",
+              "itemBody": "<p>B. tight fiscal policy and easy monetary policy.</p>",
+              "position": 2
+            },
+            {
+              "id": "18a2d9f8-0427-4b6b-8f87-4cbeb23c76b5",
+              "itemBody": "<p>C. tight fiscal policy and tight monetary policy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8591,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 848,
+      "sourceModuleId": 4431,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-15-1",
+      "entry": {
+        "title": "2027-Mod15-Q1",
+        "itemBody": "<p>To reduce inflation, a central bank most likely implements an interest \nrate policy that is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because when central banks  believe that economic activity is likely to \nlead to an increase in inflation, they might increase interest rates, thereby reducing \nliquidity. In these cases, market analysts describe such actions as contractionary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bf3f916e-6241-4575-a0f1-93c51f1e2dd4",
+              "itemBody": "<p>A. contractionary.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4251bb7-6d85-4b2d-8bc8-6332e489fc7c",
+              "itemBody": "<p>B. neutral.</p>",
+              "position": 2
+            },
+            {
+              "id": "fc8e5242-5584-4b4e-939d-10032dbd318f",
+              "itemBody": "<p>C. expansionary.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bf3f916e-6241-4575-a0f1-93c51f1e2dd4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": {},
+  "scored_data": {
+    "points": 4,
+    "points_possible": 39
+  },
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 1
+}

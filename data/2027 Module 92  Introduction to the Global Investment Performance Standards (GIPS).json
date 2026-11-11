@@ -1,0 +1,4182 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6414,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 75,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 4: Introduction to the Global Investment Performance Standards (GIPS)",
+    "topic_id": 1040,
+    "topic": "CFA-26-02-LI-C: Ethical and Professional Standards",
+    "subtopic_id": 6414,
+    "subtopic": "Module 4: Introduction to the Global Investment Performance Standards (GIPS)",
+    "question_count": 75,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 856,
+        "name": "Warehouse Course: Ethical and Professional Standards 26-LI",
+        "code": "Warehouse Course: Ethical and Professional Standards 26-LI",
+        "module_id": 4508,
+        "question_count": 32,
+        "type": "warehouse"
+      },
+      {
+        "id": 847,
+        "name": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+        "code": "Practice Pack Warehouse: Ethical and Professional Standards 26-LI",
+        "module_id": 4760,
+        "question_count": 21,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 75.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "d1df8c03a1ac6c6a",
+    "ordered_item_ids": [
+      "56493",
+      "56494",
+      "56495",
+      "56496",
+      "56497",
+      "56498",
+      "56499",
+      "56500",
+      "56501",
+      "56502",
+      "56503",
+      "56504",
+      "56505",
+      "56506",
+      "56507",
+      "56508",
+      "56509",
+      "56510",
+      "56511",
+      "56512",
+      "56513",
+      "50576",
+      "50577",
+      "50578",
+      "50579",
+      "50580",
+      "50581",
+      "50582",
+      "50583",
+      "50584",
+      "50585",
+      "50586",
+      "54025",
+      "54026",
+      "54027",
+      "54028",
+      "54029",
+      "54030",
+      "54031",
+      "54032",
+      "54033",
+      "54034",
+      "54035",
+      "54036",
+      "54037",
+      "54038",
+      "54039",
+      "54040",
+      "54041",
+      "54042",
+      "54043",
+      "54044",
+      "54045"
+    ],
+    "visible_item_ids": [
+      "56493",
+      "56494",
+      "56495",
+      "56496",
+      "56497",
+      "56498",
+      "56499",
+      "56500",
+      "56501",
+      "56502",
+      "56503",
+      "56504",
+      "56505",
+      "56506",
+      "56507",
+      "56508",
+      "56509",
+      "56510",
+      "56511",
+      "56512",
+      "56513",
+      "50576",
+      "50577",
+      "50578",
+      "50579",
+      "50580",
+      "50581",
+      "50582",
+      "50583",
+      "50584",
+      "50585",
+      "50586",
+      "54025",
+      "54026",
+      "54027",
+      "54028",
+      "54029",
+      "54030",
+      "54031",
+      "54032",
+      "54033",
+      "54034",
+      "54035",
+      "54036",
+      "54037",
+      "54038",
+      "54039",
+      "54040",
+      "54041",
+      "54042",
+      "54043",
+      "54044",
+      "54045"
+    ]
+  },
+  "items": [
+    {
+      "id": "56493",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-Ethics-Agarwal-08",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements regarding the GIPS standards&nbsp;is accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bdc60ce3-de75-454a-8f2f-b34ef54aba1a"
+        },
+        "answerFeedback": {
+          "491f025d-81eb-4056-be7e-e25afe74dded": "<p>Incorrect because according to the GIPS standards, a&nbsp;claim of compliance requires that all fee-paying discretionary accounts managed by the firm be included in at least one composite. Non-discretionary portfolios must not be included in a firm’s composites.&nbsp;Fee-paying non-discretionary portfolios do not have to be included.</p>",
+          "4cc796c3-3d85-40f9-b3c4-909eb18cdc8c": "<p>Incorrect because according to the GIPS standards, the determination of which portfolios to include in the Composite should be done according to pre-established criteria (i.e., on an ex-ante basis), not after the fact.&nbsp;Basing it on actual performance would require the aggregation to be done after the fact which is incorrect.</p>",
+          "bdc60ce3-de75-454a-8f2f-b34ef54aba1a": "<p>Correct because according to the GIPS standards, A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "491f025d-81eb-4056-be7e-e25afe74dded",
+              "itemBody": "<p>A. All fee-paying client portfolios must be included in at least one composite</p>",
+              "position": 1
+            },
+            {
+              "id": "bdc60ce3-de75-454a-8f2f-b34ef54aba1a",
+              "itemBody": "<p>B. All portfolios with the same investment mandate are aggregated into a composite</p>",
+              "position": 2
+            },
+            {
+              "id": "4cc796c3-3d85-40f9-b3c4-909eb18cdc8c",
+              "itemBody": "<p>C. Aggregation of portfolios into composites is based on the actual performance of the portfolios every year</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56494",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Irvin-15",
+        "feedback": {},
+        "itemBody": "<p>Which of the following comments concerning composites meeting the requirements of the GIPS standards is correct?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d40a621a-856a-4aa8-be34-55f98dee058b"
+        },
+        "answerFeedback": {
+          "012f68e5-42ee-491b-8566-8c8119fe1bb4": "<p>Incorrect because a&nbsp;claim of compliance requires that all fee-paying discretionary accounts be included in at least one composite.&nbsp;It does not include all accounts which could include non-discretionary accounts.</p>",
+          "25076c46-ad72-409f-8a73-52a737802b31": "<p>Incorrect because&nbsp;a composite must include all actual, fee-paying, discretionary&nbsp;portfolios managed in accordance with the same investment mandate, objective, or strategy. It does not include non-discretionary accounts.&nbsp;</p>",
+          "d40a621a-856a-4aa8-be34-55f98dee058b": "<p>Correct because one of the key concepts of the standards is the required use of composites. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. The requirement to create, use and maintain composites is designed to prevent firms from cherry-picking—using the best-performing accounts to represent the performance of an investment strategy.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "012f68e5-42ee-491b-8566-8c8119fe1bb4",
+              "itemBody": "<p>A. A firm's claim of compliance requires all fee-paying accounts managed by the firm be included in at least one composite</p>",
+              "position": 1
+            },
+            {
+              "id": "d40a621a-856a-4aa8-be34-55f98dee058b",
+              "itemBody": "<p>B. The requirement to create, use and maintain composites is designed to prevent firms using the best-performing accounts to represent an investment strategy</p>",
+              "position": 2
+            },
+            {
+              "id": "25076c46-ad72-409f-8a73-52a737802b31",
+              "itemBody": "<p>C. A composite must include all actual, fee-paying, discretionary and non-discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56495",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Lamba-14",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements describe the key concepts of the GIPS standards?</p>\n<ul>\n<li>Statement 1: The GIPS standards are ethical standards to ensure full disclosure of investment performance</li>\n<li>Statement 2: The GIPS standards require firms to maintain composites for all strategies for which the firm manages discretionary and nondiscretionary accounts</li>\n<li>Statement 3: The GIPS standards address all aspects of performance measurement</li>\n</ul>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f53cffcc-0923-4613-b725-e221fbfd4be5"
+        },
+        "answerFeedback": {
+          "91c5cd2d-0461-4642-a295-77802c11658e": "<p>Incorrect because the GIPS standards do not address every aspect of performance measurement and will continue to evolve over time to address additional areas of investment performance. So, Statement 3&nbsp;is not a key concept of the GIPS standards.</p>",
+          "e1e9b18f-6816-4b9b-828c-986ab849caa3": "<p>Incorrect because, the GIPS standards require firms to create and maintain composites for all strategies for which the firm manages segregated accounts or markets to segregated accounts. Firms must include all actual, fee-paying, discretionary segregated accounts in at least one composite defined by investment mandate, objective, or strategy. So, Statement 2&nbsp;is not a key concept of the GIPS standards.</p>",
+          "f53cffcc-0923-4613-b725-e221fbfd4be5": "<p>Correct GIPS standards are ethical standards for investment performance presentation to ensure fair representation and full disclosure of investment performance. So, Statement 1 is a key concept of the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f53cffcc-0923-4613-b725-e221fbfd4be5",
+              "itemBody": "<p>A. Statement 1</p>",
+              "position": 1
+            },
+            {
+              "id": "e1e9b18f-6816-4b9b-828c-986ab849caa3",
+              "itemBody": "<p>B. Statement 2</p>",
+              "position": 2
+            },
+            {
+              "id": "91c5cd2d-0461-4642-a295-77802c11658e",
+              "itemBody": "<p>C. Statement 3</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56496",
+      "entry": {
+        "title": "ITEM_CFA-L1-08636",
+        "feedback": {},
+        "itemBody": "<p>A firm claiming compliance with GIPS standards is required to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "17a5e254-4489-484c-9704-d85501afe68c"
+        },
+        "answerFeedback": {
+          "17a5e254-4489-484c-9704-d85501afe68c": "<p>Correct because firms that claim compliance with the GIPS standards are responsible for their claim of compliance and for maintaining that compliance. That is, firms self-regulate their claim of compliance.&nbsp;Therefore, including when compliance is verified by an independent third party, the firm is always responsible for maintaining that compliance.</p>",
+          "749f0439-4448-40a2-97f1-edd06a5d0548": "<p>Incorrect because once a firm claims compliance with the Standards, they may voluntarily hire an independent third party to perform a verification in order to increase confidence in the firm's claim of compliance.&nbsp;Therefore, the firm is not required to but may elect an independent third party to perform verification of the firm's claim of compliance.</p>",
+          "8ec31024-812c-4d86-b2be-9af937a8d3b5": "<p>Incorrect because the determination of which portfolios to include in the Composite should be done according to pre-established criteria (i.e., on an ex-ante basis), not after the fact.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "749f0439-4448-40a2-97f1-edd06a5d0548",
+              "itemBody": "<p>A. perform verification of the firm's claim of compliance.</p>",
+              "position": 1
+            },
+            {
+              "id": "17a5e254-4489-484c-9704-d85501afe68c",
+              "itemBody": "<p>B. maintain its compliance even after the firm has been verified by an independent third party.</p>",
+              "position": 2
+            },
+            {
+              "id": "8ec31024-812c-4d86-b2be-9af937a8d3b5",
+              "itemBody": "<p>C. determine selection criteria regarding which existing portfolios to include in a composite at the end of the reporting period.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56497",
+      "entry": {
+        "title": "ITEM_CFA-L1-05472",
+        "feedback": {},
+        "itemBody": "<p>With respect to the GIPS standards, which of the following statements is <i>most</i> accurate? Verification:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "45779d9e-5f15-4e95-9198-cb0134b7280f"
+        },
+        "answerFeedback": {
+          "45779d9e-5f15-4e95-9198-cb0134b7280f": "<p>Correct because according to GIPS, Verification is a process by which an independent verification firm (verifier) conducts testing of a firm on a firm-wide basis in accordance with the required verification procedures of the GIPS standards. Verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis.</p>",
+          "5b64141a-355b-4613-9a6e-a5ff878efb4c": "<p>Incorrect because once a firm claims compliance with the Standards, they may voluntarily hire an independent third party to&nbsp;perform a verification in order to increase confidence in the firm’s claim of compliance.&nbsp;Therefore, verification is voluntary, not mandatory.</p>",
+          "b1531052-b53e-4f74-beaa-b548654d938f": "<p>Incorrect because firms self-regulate their claim of compliance&nbsp;and once a firm claims compliance with the Standards, they may voluntarily hire an independent third party to perform a verification in order to increase confidence in the firm’s claim of compliance.&nbsp;Therefore, a firm cannot certify its own claim of compliance.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5b64141a-355b-4613-9a6e-a5ff878efb4c",
+              "itemBody": "<p>A. of GIPS compliance is mandatory if the firm claims GIPS compliance.</p>",
+              "position": 1
+            },
+            {
+              "id": "b1531052-b53e-4f74-beaa-b548654d938f",
+              "itemBody": "<p>B. is performed by the firm when self-regulating and certifying its claim of compliance.</p>",
+              "position": 2
+            },
+            {
+              "id": "45779d9e-5f15-4e95-9198-cb0134b7280f",
+              "itemBody": "<p>C. tests whether the firm's processes are designed to present performance results in compliance with the GIPS standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56498",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Augulyte-13",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, verification is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b2518368-22d5-42c4-aaf8-e06d87bd7eb7"
+        },
+        "answerFeedback": {
+          "a1e70f7a-091a-4109-9d04-7bfb7ecdd9b1": "<p>Incorrect because according to the GIPS standards, Once a firm claims compliance with the GIPS standards, it may voluntarily hire an independent third party to perform a verification in order to&nbsp;increase confidence in the firm’s claim of compliance.</p>",
+          "a4632e26-cec4-4ec7-ac92-d7208072f6fa": "<p>Incorrect because according to the GIPS standards, Verification is a process by which an independent verification firm (verifier) conducts testing of a firm on a firm-wide basis in accordance with the required verification procedures of the GIPS standards.</p>",
+          "b2518368-22d5-42c4-aaf8-e06d87bd7eb7": "<p>Correct because according to the GIPS standards, verification is performed with respect to an entire firm, not on specific composites or pooled funds.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b2518368-22d5-42c4-aaf8-e06d87bd7eb7",
+              "itemBody": "<p>A. performed with respect to an entire firm.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4632e26-cec4-4ec7-ac92-d7208072f6fa",
+              "itemBody": "<p>B. performed by a firm's compliance department.</p>",
+              "position": 2
+            },
+            {
+              "id": "a1e70f7a-091a-4109-9d04-7bfb7ecdd9b1",
+              "itemBody": "<p>C. mandatory for firms that claim compliance with the GIPS standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56499",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Lee-11",
+        "feedback": {},
+        "itemBody": "<p>The objectives of the GIPS standards include:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bf4704c9-627f-49c7-bbc4-cdbdee844a26"
+        },
+        "answerFeedback": {
+          "1f9aa8ce-e881-4c57-8417-daa0f1a123a3": "<p>Incorrect because one of the objectives of the GIPS standards is to promote investor interests and instill investor confidence, and not to promote financial regulator interests.</p>",
+          "90c803b5-bc60-4b0c-a286-ec89be2856b8": "<p>Incorrect because one the objectives of the GIPS standards is to obtain worldwide acceptance of a single standard [not diverse standards] for calculating and presenting performance.</p>",
+          "bf4704c9-627f-49c7-bbc4-cdbdee844a26": "<p>Correct because one of the objectives of the GIPS standards is to promote industry self-regulation on a global basis.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1f9aa8ce-e881-4c57-8417-daa0f1a123a3",
+              "itemBody": "<p>A. promoting financial regulators' interests.</p>",
+              "position": 1
+            },
+            {
+              "id": "bf4704c9-627f-49c7-bbc4-cdbdee844a26",
+              "itemBody": "<p>B. promoting industry self-regulation on a global basis.</p>",
+              "position": 2
+            },
+            {
+              "id": "90c803b5-bc60-4b0c-a286-ec89be2856b8",
+              "itemBody": "<p>C. obtaining acceptance of multiple local standards for accurate performance presentation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56500",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Lee-13",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, verification must be performed:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "ae9157fa-5239-4516-a8c9-d6c4d6194233"
+        },
+        "answerFeedback": {
+          "38ddb0fa-3630-4f78-ae71-f37b524ddb0d": "<p>Incorrect because verification must be performed by an independent third party. A firm cannot perform its own verification.</p>",
+          "ae9157fa-5239-4516-a8c9-d6c4d6194233": "<p>Correct because verification is performed with respect to an entire firm, not on specific composites or pooled funds.</p>",
+          "dad0aad9-e2d9-40a9-ad61-d14050ee1f28": "<p>Incorrect because verification is performed with respect to an entire firm, not on specific composites or pooled funds.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ae9157fa-5239-4516-a8c9-d6c4d6194233",
+              "itemBody": "<p>A. with respect to an entire firm.</p>",
+              "position": 1
+            },
+            {
+              "id": "dad0aad9-e2d9-40a9-ad61-d14050ee1f28",
+              "itemBody": "<p>B. on specific composites of a firm.</p>",
+              "position": 2
+            },
+            {
+              "id": "38ddb0fa-3630-4f78-ae71-f37b524ddb0d",
+              "itemBody": "<p>C. by a firm’s compliance department.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56501",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Blasky-14",
+        "feedback": {},
+        "itemBody": "<p>Asset managers are&nbsp;<i>most likely</i>&nbsp;required to do which of the following as part of their adherence to the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5db1d5f9-dd14-42fc-bbb5-0f3cbeea848e"
+        },
+        "answerFeedback": {
+          "5db1d5f9-dd14-42fc-bbb5-0f3cbeea848e": "<p>Correct, because the GIPS standards rely on the integrity of input data, the quality of which is critical to creating accurate performance presentations. The underlying valuations of portfolio holdings drive performance. It is essential for these and other inputs to be accurate. The GIPS standards require firms to adhere to certain calculation methodologies to allow for comparability across firms.&nbsp;</p>",
+          "8fedc2bd-ffe6-472c-b6f5-f875428fd4fc": "<p>Incorrect, because the GIPS standards require firms to create and maintain composites for all strategies for which the firm manages segregated accounts or markets to segregated accounts. Firms must include all actual, fee-paying, discretionary segregated accounts in at least one composite defined by investment mandate, objective, or strategy.&nbsp;Non-discretionary accounts must&nbsp;not be included in composites.&nbsp;</p>",
+          "bd14e2d4-2f6f-4d22-b94e-34c9713298ba": "<p>Incorrect, because meeting the objectives of fair representation and full disclosure is likely to require more than simply adhering to the minimum requirements of the GIPS standards. Firms should also adhere to the recommendations to achieve best practice in the calculation and presentation of performance. In addition, GIPS standards will</p><p>continue to evolve over time to address additional areas of investment performance and firms will be required to keep up with the updated standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5db1d5f9-dd14-42fc-bbb5-0f3cbeea848e",
+              "itemBody": "<p>A. Adhere&nbsp;to certain calculation methodologies</p>",
+              "position": 1
+            },
+            {
+              "id": "bd14e2d4-2f6f-4d22-b94e-34c9713298ba",
+              "itemBody": "<p>B. Only follow the minimum GIPS requirements at the time of composite creation&nbsp;</p>",
+              "position": 2
+            },
+            {
+              "id": "8fedc2bd-ffe6-472c-b6f5-f875428fd4fc",
+              "itemBody": "<p>C. Include all non-discretionary funds in at least one composite reflecting the investment mandate</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56502",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-Ethics-Lamba-15",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most </i>accurate? Compliance with the GIPS standards:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8ba2d25f-5602-4b3a-8766-bfb4ec27f6b7"
+        },
+        "answerFeedback": {
+          "8ba2d25f-5602-4b3a-8766-bfb4ec27f6b7": "<p>Correct because compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world.</p>",
+          "9d36687a-f41f-4044-9269-45971089ca46": "<p>Incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the client or investor, but compli­ance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility.</p>",
+          "ddad8ea5-31ff-437c-87c8-1a596e73c0a4": "<p>Incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS standards is not typically required by legal or regulatory authorities.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9d36687a-f41f-4044-9269-45971089ca46",
+              "itemBody": "<p>A. by firms eliminates the need for in-depth due diligence by investors.</p>",
+              "position": 1
+            },
+            {
+              "id": "8ba2d25f-5602-4b3a-8766-bfb4ec27f6b7",
+              "itemBody": "<p>B. enables firms to participate in competitive bids against other GIPS-compliant firms.</p>",
+              "position": 2
+            },
+            {
+              "id": "ddad8ea5-31ff-437c-87c8-1a596e73c0a4",
+              "itemBody": "<p>C. is mandatory for firms conducting business in countries that do not have regulations relating to investment performance presentation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56503",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-Ethics-Eichenberger-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <b>not</b> a key concept&nbsp;of the GIPS standards? The GIPS standards for firms:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0f0cf4d8-73eb-47f9-a58b-a3588c56a2d6"
+        },
+        "answerFeedback": {
+          "0f0cf4d8-73eb-47f9-a58b-a3588c56a2d6": "<p>Correct because according to the GIPS standards, the GIPS standards do not address every aspect of performance measurement.&nbsp;Therefore, it is not a key concept of the GIPS standards to address every aspect of performance measurement.&nbsp;</p>",
+          "6ac7cd7e-3018-4c63-a027-a14de4563c6a": "<p>Incorrect because according to the GIPS standards one of the key concepts of the standards is the required uses of composites. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy.&nbsp;Therefore, it is a key concept that the GIPS standards&nbsp;require&nbsp;to aggregate one or more portfolios managed according to similar investment strategies in a composite.&nbsp;</p>",
+          "ad501538-c66a-4d5b-8adf-50748c832067": "<p>Incorrect because according to the GIPS standards, the GIPS standards rely on the integrity of input data, the quality of which is critical to creating accurate performance presentations.&nbsp;Therefore, it is&nbsp;a key concept to rely on the integrity of input data.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6ac7cd7e-3018-4c63-a027-a14de4563c6a",
+              "itemBody": "<p>A. require the use of composites.</p>",
+              "position": 1
+            },
+            {
+              "id": "ad501538-c66a-4d5b-8adf-50748c832067",
+              "itemBody": "<p>B. rely on the integrity of input data.</p>",
+              "position": 2
+            },
+            {
+              "id": "0f0cf4d8-73eb-47f9-a58b-a3588c56a2d6",
+              "itemBody": "<p>C. address every aspect of performance measurement.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56504",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Ethics-Kennan-13",
+        "feedback": {},
+        "itemBody": "<p>Verification provides assurance that which of the following have been designed in compliance with the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "665ac960-f2df-4420-84f4-59aa2cffe210"
+        },
+        "answerFeedback": {
+          "665ac960-f2df-4420-84f4-59aa2cffe210": "<p>Correct because verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis.</p>",
+          "7f6ea4ef-c7cb-4054-b28e-970471ffefde": "<p>Incorrect because the design of both performance calculation and firm&nbsp;policies related to pooled fund maintenance are assured by a GIPS verifier: verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis.</p>",
+          "ad1ab566-bc2d-4bd4-82ca-12772072cacd": "<p>Incorrect because the design of both performance calculation and firm&nbsp;policies related to pooled fund maintenance are assured by a GIPS verifier: verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7f6ea4ef-c7cb-4054-b28e-970471ffefde",
+              "itemBody": "<p>A. Only the calculation and presentation of the firm's performance</p>",
+              "position": 1
+            },
+            {
+              "id": "ad1ab566-bc2d-4bd4-82ca-12772072cacd",
+              "itemBody": "<p>B. Only the firm's policies related to composite and pooled fund maintenance</p>",
+              "position": 2
+            },
+            {
+              "id": "665ac960-f2df-4420-84f4-59aa2cffe210",
+              "itemBody": "<p>C. Both the calculation and presentation of the firm's performance, and the firm's policies related to composite and pooled fund maintenance</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56505",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Ethics-Kennan-09",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, verification:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9b002c11-2e29-4fc3-9276-fcc4e7defd6d"
+        },
+        "answerFeedback": {
+          "5a711a70-cd73-4e25-be33-7a0f2eafe02a": "<p>Incorrect because verification of GIPS standards must be conducted by a third party, not the firm itself: verification must be performed by an independent third party. A firm cannot perform its own verification.</p>",
+          "9b002c11-2e29-4fc3-9276-fcc4e7defd6d": "<p>Correct because verification is performed with respect to an entire firm, not on specific composites.</p>",
+          "e1ea9a3b-ab27-40d2-a0a3-006ce8b1755d": "<p>Incorrect because verification does not ensure the accuracy of any specific composite presentation.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9b002c11-2e29-4fc3-9276-fcc4e7defd6d",
+              "itemBody": "<p>A. is performed on a firm-wide basis.</p>",
+              "position": 1
+            },
+            {
+              "id": "5a711a70-cd73-4e25-be33-7a0f2eafe02a",
+              "itemBody": "<p>B. must be performed by a firm's compliance department.</p>",
+              "position": 2
+            },
+            {
+              "id": "e1ea9a3b-ab27-40d2-a0a3-006ce8b1755d",
+              "itemBody": "<p>C. ensures the accuracy of specific composite presentations.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56506",
+      "entry": {
+        "title": "ITEM_CFA-L1-06830",
+        "feedback": {},
+        "itemBody": "<p>A firm claiming compliance with the GIPS standards must:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d58d2c38-d25e-4cc2-add7-b9230386e774"
+        },
+        "answerFeedback": {
+          "8e029810-713f-43ef-bb83-7b664e721277": "<p>Incorrect because according to the Fundamentals of Compliance of the GIPS standards, statements referring to the calculation methodology as being 'in accordance,' 'in compliance,' or 'consistent' with the Global Investment Performance Standards, or similar statements, are prohibited.&nbsp;</p>",
+          "d58d2c38-d25e-4cc2-add7-b9230386e774": "<p>Correct because the Fundamentals of Compliance of the GIPS standards state that the FIRM MUST document its policies and procedures used in establishing and maintaining compliance with the REQUIREMENTS of the GIPS standards, as well as any RECOMMENDATIONS it has chosen to adopt, and apply them consistently.&nbsp;</p>",
+          "d779b0d1-311b-448a-8b9d-a0f8414db7e6": "<p>Incorrect because the Fundamentals of Compliance of the GIPS standards state that if the FIRM does not meet all the applicable REQUIREMENTS of the GIPS standards, the FIRM MUST NOT represent or state that it is in compliance with the Global Investment Performance Standards or make any other statements that may indicate compliance or partial compliance with the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8e029810-713f-43ef-bb83-7b664e721277",
+              "itemBody": "<p>A. state that its calculation methodology is in accordance with the GIPS standards.</p>",
+              "position": 1
+            },
+            {
+              "id": "d779b0d1-311b-448a-8b9d-a0f8414db7e6",
+              "itemBody": "<p>B. disclose for which firm assets only partial compliance with the GIPS standards is achieved.</p>",
+              "position": 2
+            },
+            {
+              "id": "d58d2c38-d25e-4cc2-add7-b9230386e774",
+              "itemBody": "<p>C. document policies and procedures used in establishing compliance with the GIPS standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56507",
+      "entry": {
+        "title": "ITEM_2019B Ethics 19AXA",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, which of the following statements is correct?</p><p>•&nbsp;Statement 1:&nbsp;When local regulations conflict with the GIPS standards, firms are required to comply with the GIPS standards if the conflict relates to composite construction.</p><p>•&nbsp;Statement 2:&nbsp;When local regulations conflict with the GIPS standards for performance presentation, firms are required to comply with local regulation.</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "566021aa-05fe-4876-97f8-8a4529e00f87"
+        },
+        "answerFeedback": {
+          "0bdbe46e-6d3c-494d-9248-08f977aad3ec": "<p>Incorrect because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.&nbsp;Thus, Statement 1 is not consistent with the GIPS standards (and incorrect), and so only Statement 2 is correct.&nbsp;</p>",
+          "566021aa-05fe-4876-97f8-8a4529e00f87": "<p>Correct because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.</p>",
+          "ae31c5cb-3bbc-40b1-bd59-7fe8d5a8745c": "<p>Incorrect because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.&nbsp;Thus, Statement 1 is not consistent with the GIPS standards.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ae31c5cb-3bbc-40b1-bd59-7fe8d5a8745c",
+              "itemBody": "<p>A. Statement 1 only</p>",
+              "position": 1
+            },
+            {
+              "id": "566021aa-05fe-4876-97f8-8a4529e00f87",
+              "itemBody": "<p>B. Statement 2 only</p>",
+              "position": 2
+            },
+            {
+              "id": "0bdbe46e-6d3c-494d-9248-08f977aad3ec",
+              "itemBody": "<p>C. Both Statement 1 and Statement 2</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 15,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56508",
+      "entry": {
+        "title": "ITEM_CFA-L1-02893",
+        "feedback": {},
+        "itemBody": "<p>A firm has been in existence for seven years. In order to comply with the GIPS&nbsp;standards, the minimum number of years of GIPS-compliant performance data the firm is initially required to present is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5441fbb5-f6e1-4166-a5b9-a8f6a8e6664f"
+        },
+        "answerFeedback": {
+          "5441fbb5-f6e1-4166-a5b9-a8f6a8e6664f": "<p>Correct because the GIPS standards state that a&nbsp;ﬁrm is required to initially present, at a minimum, ﬁve years of annual investment performance that is compliant with the GIPS standards. If the composite or pooled fund has been in existence less than ﬁve years, the ﬁrm must present performance since the composite or pooled fund inception date. Prospectively, the ﬁrm must present an additional year of performance each year, building up to a minimum of 10 years of GIPS-compliant performance.</p>",
+          "c4cfadb4-1bd1-4590-a66f-c320b160991a": "<p>Incorrect because the minimum requirement for presentation of performance is five years.&nbsp;</p>",
+          "f3076aff-cfb9-4bea-9c28-986ac06527d7": "<p>Incorrect because the minimum requirement for presentation of performance is five years.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f3076aff-cfb9-4bea-9c28-986ac06527d7",
+              "itemBody": "<p>A. three years.</p>",
+              "position": 1
+            },
+            {
+              "id": "5441fbb5-f6e1-4166-a5b9-a8f6a8e6664f",
+              "itemBody": "<p>B. five years.</p>",
+              "position": 2
+            },
+            {
+              "id": "c4cfadb4-1bd1-4590-a66f-c320b160991a",
+              "itemBody": "<p>C. seven years.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 16,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56509",
+      "entry": {
+        "title": "ITEM_CFA-L1-06119",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">The GIPS standards <i>most likely</i>:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0634f97b-98b3-4e1c-b055-c166180f4c49"
+        },
+        "answerFeedback": {
+          "0634f97b-98b3-4e1c-b055-c166180f4c49": "<p>Correct because according to GIPS standards, institutions and individuals are constantly scrutinizing past investment performance returns in search of the best manager to achieve their investment objectives. Further, the GIPS standards ensure fair representation and full disclosure of investment performance. In other words, the GIPS standards lead investment management firms to avoid misrepresentations of performance and to communicate all relevant information that prospective clients should know in order to evaluate past results.&nbsp;Therefore, the GIPS standards help prospective clients consider all relevant information in order to evaluate a firm's past investment performance.&nbsp;</p>",
+          "b530165a-7ec4-44c9-8ffa-e478a822f421": "<p>Incorrect because the GIPS standards ensure fair representation and full disclosure of investment performance.&nbsp;However, even if there is a third-party verification, the verification does not ensure the accuracy of any specific composite presentation.</p>",
+          "f11cddda-9a21-43ef-b01b-372fd1d75f61": "<p>Incorrect because the GIPS standards establish a standardized, industry-wide approach for investment firms to follow in calculating and presenting their historical investment results to prospective clients. Achieving comparability among investment management firms' performance presentations requires uniformity in methods used to calculate returns. The GIPS standards mandate the use of certain calculation methodologies to facilitate comparability.&nbsp;Therefore, GIPS standards do not require investment firms to disclose to prospective clients in a standardized form their own methodologies for calculating performance.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b530165a-7ec4-44c9-8ffa-e478a822f421",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">assure prospective clients of the accuracy of a firm's reported investment performance.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "0634f97b-98b3-4e1c-b055-c166180f4c49",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">help prospective clients consider all relevant information in order to evaluate a firm's past investment performance.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "f11cddda-9a21-43ef-b01b-372fd1d75f61",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">require investment firms to disclose to prospective clients in a standardized form their own methodologies for calculating performance.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 17,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56510",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Lin-15",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Which of the following can claim compliance with the GIPS standards?</span></span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e9037946-f0d5-4734-9d46-3c80a8ac1e2a"
+        },
+        "answerFeedback": {
+          "20d28fa9-01ee-49a4-8290-b91648063156": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Incorrect because software (and the vendors who supply software) cannot be “compliant.” Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the Standards), but only a firm managing assets can claim compliance once the firm has satisfied all requirements of the standards.&nbsp;</span></span></p>",
+          "77ab5b03-ada2-43ff-bcab-ebf7c021fa03": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Incorrect because&nbsp;software vendors who assist firms in claiming compliance with the GIPS standards&nbsp;cannot claim compliance with the GIPS standards.</span></span></p>",
+          "e9037946-f0d5-4734-9d46-3c80a8ac1e2a": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Correct because asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS standards for asset owners.&nbsp;Therefore,&nbsp;asset owners can claim compliance with the GIPS standards.</span></span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e9037946-f0d5-4734-9d46-3c80a8ac1e2a",
+              "itemBody": "<p>A. Only asset owners</p>",
+              "position": 1
+            },
+            {
+              "id": "20d28fa9-01ee-49a4-8290-b91648063156",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Only software vendors that assist firms in claiming compliance with the GIPS standards</span></span></p>",
+              "position": 2
+            },
+            {
+              "id": "77ab5b03-ada2-43ff-bcab-ebf7c021fa03",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"font-size:16px\">Both asset owners and software vendors that assist firms in claiming compliance with the GIPS standards</span></span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 18,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56511",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.05-Ethics-Bangaruswamy-04",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is accurate?</p>\n<ul>\n<li>Statement 1: Compliance with the GIPS standards eliminates the need for an investor to conduct in-depth due diligence of an investment management firm</li>\n<li>Statement 2: Compliance with the GIPS standards by external managers facilitates understanding of risk and return sources of funds supervised by an asset owner</li>\n</ul>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "489660f4-4156-4e0b-a9b1-92591a17bed2"
+        },
+        "answerFeedback": {
+          "20830740-503b-48b1-84f2-df7c0f7f2a55": "<p>Incorrect because&nbsp;Statement 1 is not accurate, as described above.</p>",
+          "489660f4-4156-4e0b-a9b1-92591a17bed2": "<p>Correct because the GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies.&nbsp;Particularly, where asset owners require their external managers to comply with the GIPS standards, reporting to the oversight body using the same principles facilitates the understanding of the sources of risk and excess return in the funds under supervision.&nbsp;Therefore, Statement 2 is&nbsp;accurate.</p>",
+          "a208adc0-6964-4f7e-a2cc-967c5d8027ce": "<p>Incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility.&nbsp;Therefore, Statement 1 is not accurate.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a208adc0-6964-4f7e-a2cc-967c5d8027ce",
+              "itemBody": "<p>A. Statement 1 only</p>",
+              "position": 1
+            },
+            {
+              "id": "489660f4-4156-4e0b-a9b1-92591a17bed2",
+              "itemBody": "<p>B. Statement 2 only</p>",
+              "position": 2
+            },
+            {
+              "id": "20830740-503b-48b1-84f2-df7c0f7f2a55",
+              "itemBody": "<p>C. Both Statement 1 and Statement 2</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 19,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56512",
+      "entry": {
+        "title": "ITEM_CFA-L1-04843",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">After a 3-year-old firm has presented a minimum of three years of GIPS-compliant performance, the GIPS standards require the firm to present an additional year of performance each year until the firm reports a minimum of:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "a5aefed7-e5b8-400b-b03a-cb4fa11bec63"
+        },
+        "answerFeedback": {
+          "07dc6fe0-7c04-49f4-baaa-a1b609f3ff52": "<p>Incorrect because the GIPS standards state that firms must build up to a minimum of ten&nbsp;years, not seven&nbsp;years, of GIPS-compliant performance.</p>",
+          "54ed35ed-ca8e-4358-9946-6cbee2fc74ef": "<p>Incorrect because the GIPS standards state that firms must build up to a minimum of ten&nbsp;years, not five&nbsp;years, of GIPS-compliant performance.</p>",
+          "a5aefed7-e5b8-400b-b03a-cb4fa11bec63": "<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Correct because the GIPS standards state that a&nbsp;ﬁrm is required to initially present, at a minimum, ﬁve years of annual investment performance that is compliant with the GIPS standards. If the composite or pooled fund has been in existence less than ﬁve years, the ﬁrm must present performance since the composite or pooled fund inception date. Prospectively, the ﬁrm must present an additional year of performance each year, building up to a minimum of ten&nbsp;years of GIPS-compliant performance.</span></span></p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "54ed35ed-ca8e-4358-9946-6cbee2fc74ef",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">five years.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "07dc6fe0-7c04-49f4-baaa-a1b609f3ff52",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">seven years.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "a5aefed7-e5b8-400b-b03a-cb4fa11bec63",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">ten years.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 20,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "56513",
+      "entry": {
+        "title": "ITEM_CFA-L1-06128",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">An investment firm manages a $200 million composite to a small-cap growth style. The firm sells $50 million of these managed assets to a competing money manager. In order to remain in compliance with the GIPS standards, the firm must:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0f0c74d2-546b-4000-a7a1-9d7f0160c198"
+        },
+        "answerFeedback": {
+          "0f0c74d2-546b-4000-a7a1-9d7f0160c198": "<p>Correct because according to GIPS standards, changes in the FIRM'S organization must not&nbsp;lead to alteration of historical performance.&nbsp;Therefore, the firm must continue to include the $50 million in the firm's historical performance.</p>",
+          "8fe93c52-92f1-4028-ba4e-e51c12a691bb": "<p>Incorrect because according to GIPS standards, changes in the FIRM'S organization must&nbsp;not&nbsp;lead to alteration of historical performance.&nbsp;Therefore, excluding the $50 million from the firm's historical performance is a violation of the GIPS standards.&nbsp;</p>",
+          "92802c6d-cd59-4415-b787-4dbbfd9efc95": "<p>Incorrect because according to GIPS standards, changes in the FIRM'S organization must&nbsp;not&nbsp;lead to alteration of historical performance.&nbsp;Therefore, showing the historical performance of the $50 million separately from the firm's historical performance of the remaining $150 million is a violation of the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8fe93c52-92f1-4028-ba4e-e51c12a691bb",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">exclude the $50 million from the firm's historical performance.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "0f0c74d2-546b-4000-a7a1-9d7f0160c198",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">continue to include the $50 million in the firm's historical performance until the assets were sold.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "92802c6d-cd59-4415-b787-4dbbfd9efc95",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">show the historical performance of the $50 million separately from the firm's historical performance of the remaining $150 million.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 21,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 9020,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 847,
+      "sourceModuleId": 4760,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50576",
+      "entry": {
+        "title": "CFA0121-s02-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Selecting a top-performing portfolio to represent a firm’s overall investment results for a specific mandate, also known as using representative accounts, is a misleading practice that is not allowed under the GIPS standards. A is incorrect because including terminated portfolios is consistent with the GIPS standards. If the firm instead presented a performance history that excludes terminated portfolios, however, such a practice would be misleading and not allowed under the GIPS standards. C is incorrect because presenting performance for its mandate covering all periods since the firm’s inception is consistent with the GIPS standards. If the firm instead presented performance for a selected period during which it produced excellent returns or outperformed its benchmark, however, such a practice would be misleading and not allowed under the GIPS standards.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A firm that does not adopt the GIPS standards could mischaracterize its overall performance by presenting a performance history:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "35299a8c-4815-4872-9c83-b07d3cb855e5"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9c45d960-28a2-4082-9098-b4070b1e2b02",
+              "itemBody": "A. that includes terminated portfolios.",
+              "position": 1
+            },
+            {
+              "id": "35299a8c-4815-4872-9c83-b07d3cb855e5",
+              "itemBody": "B. composed of a single top-performing portfolio.",
+              "position": 2
+            },
+            {
+              "id": "b0e6613e-498d-4786-a3c7-e64af38fe2e2",
+              "itemBody": "C. for an investment mandate over all periods since the firm’s inception.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50577",
+      "entry": {
+        "title": "CFA0121-s02-Q2",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Asset owners can claim compliance if they manage actual assets for which they are making a claim of compliance. B is incorrect because software (and the vendors that supply software) cannot be GIPS compliant. Software can assist firms in achieving compliance with the GIPS standards, but only a firm that manages actual assets can claim compliance. C is incorrect because a firm has only two options regarding compliance with the GIPS standards: fully comply with all applicable requirements of the GIPS standards and claim compliance through the use of the GIPS Compliance Statement; or not comply with all requirements of the GIPS standards and not claim compliance with, or make any reference to, the GIPS standards.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements regarding GIPS compliance is correct?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "54713874-ee73-4745-9cc3-7fabbb2a6030"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "54713874-ee73-4745-9cc3-7fabbb2a6030",
+              "itemBody": "A. Asset owners that manage assets can claim compliance with the GIPS standards.",
+              "position": 1
+            },
+            {
+              "id": "c4dbb188-e6c9-40e2-bef9-06131a9e958a",
+              "itemBody": "B. Software that calculates performance in a manner consistent with the GIPS standards can claim compliance with the GIPS standards.",
+              "position": 2
+            },
+            {
+              "id": "2a89735e-efe1-4756-886f-ae006df150c1",
+              "itemBody": "C. Firms can comply with the GIPS standards by limiting their compliance claims to the provisions they have chosen to follow.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50578",
+      "entry": {
+        "title": "CFA0121-s03-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. For example, if a GIPS-compliant firm presents performance for a global equity composite (the composite), the composite must include portfolios that are managed, or have historically been managed, according to the firm’s global equity strategy. A is incorrect because a composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. A composite may consist of a single portfolio when it is the only portfolio managed according to a particular investment mandate. B is incorrect because the determination of which portfolio(s) to include in a composite should be done according to pre-established criteria (<em>ex ante</em> basis), not after the fact (<em>ex post</em> basis).</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Each composite of a GIPS-compliant firm must consist of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1f6a2ee8-f724-48c2-9d22-cbc72b313966"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "01cc253c-765a-477c-bf4e-7dfdd20aaadf",
+              "itemBody": "A. multiple portfolios.",
+              "position": 1
+            },
+            {
+              "id": "662f3ccc-cf74-46df-9db9-937476b06e82",
+              "itemBody": "B. portfolios selected on an ex post basis.",
+              "position": 2
+            },
+            {
+              "id": "1f6a2ee8-f724-48c2-9d22-cbc72b313966",
+              "itemBody": "C. portfolios managed according to a similar investment mandate, objective, or strategy.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50579",
+      "entry": {
+        "title": "CFA0121-s05-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Verification is performed with respect to an entire firm, not on specific composites. B is incorrect because verification must be performed by an independent third party. C is incorrect because verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis; it does not ensure the accuracy of a specific composite presentation. </p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Verification:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "30eb5029-45f5-431b-a845-8473b4235f4b"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "30eb5029-45f5-431b-a845-8473b4235f4b",
+              "itemBody": "A. must be performed on a firm-wide basis.",
+              "position": 1
+            },
+            {
+              "id": "dcf7fc82-481e-4576-bdc7-d4bd96523a78",
+              "itemBody": "B. may be provided by the firm’s compliance department.",
+              "position": 2
+            },
+            {
+              "id": "5f486d79-dbd8-4d77-bd3f-44e81768f00e",
+              "itemBody": "C. ensures the accuracy of a specific composite presentation.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50580",
+      "entry": {
+        "title": "CFA0121-s05-Q2",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Only investment management firms and asset owners (including pension funds, whether public or private) that manage actual assets may claim compliance with the GIPS standards. Software vendors and other intermediaries cannot claim compliance.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following <em>cannot</em> claim compliance with the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "afba69bf-9940-4ac9-972f-76e51243b03c"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a85c8e8e-0fc2-43be-949b-124f278fc384",
+              "itemBody": "A. Investment management firms",
+              "position": 1
+            },
+            {
+              "id": "afba69bf-9940-4ac9-972f-76e51243b03c",
+              "itemBody": "B. Software vendors",
+              "position": 2
+            },
+            {
+              "id": "68763bf2-2322-4b9b-9480-f53297951183",
+              "itemBody": "C. Private pension funds",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50581",
+      "entry": {
+        "title": "CFA0121-s05-Q3",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The GIPS standards require performance to be presented for consistent, standardized time periods.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following is an abusive practice that the GIPS standards were designed to avoid?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "230b7b73-36a7-4042-94da-94826a46f38d"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "be0b57aa-fcec-408d-9b14-eac33e96efe4",
+              "itemBody": "A. Presenting performance results that include terminated portfolios",
+              "position": 1
+            },
+            {
+              "id": "d18fdc0d-b911-48c7-aa18-5c8500b47b80",
+              "itemBody": "B. Comparing performance results with an appropriate benchmark",
+              "position": 2
+            },
+            {
+              "id": "230b7b73-36a7-4042-94da-94826a46f38d",
+              "itemBody": "C. Presenting performance results for select time periods",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50582",
+      "entry": {
+        "title": "CFA0121-s05-Q4",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Verification is the process of testing a firm or asset owner that claims compliance with the GIPS standards, in accordance with the required verification procedures of the GIPS standards.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The process of testing a firm or asset owner that claims compliance with the GIPS standards is referred to as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cbc8229f-5ca3-46aa-9c5e-29922a2ac4aa"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cbc8229f-5ca3-46aa-9c5e-29922a2ac4aa",
+              "itemBody": "A. verification.",
+              "position": 1
+            },
+            {
+              "id": "567ea468-3ed3-407f-9f53-b402c55241b1",
+              "itemBody": "B. validation.",
+              "position": 2
+            },
+            {
+              "id": "3ffcc022-559f-4360-af2e-21a7a178908a",
+              "itemBody": "C. certification.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50583",
+      "entry": {
+        "title": "CFA0121-s05-Q5",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Firms are not required to be verified in order to claim compliance with the GIPS standards, although verification is recommended and viewed as best practice.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Firms that claim compliance with the GIPS standards are required to receive a verification:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "416285be-6704-4dc0-b7c4-844a3cb19697"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "594a7181-6d01-45eb-93ea-0526c4e9b88c",
+              "itemBody": "A. before the firm can initially claim compliance.",
+              "position": 1
+            },
+            {
+              "id": "adda5346-9941-4542-a95b-484572217739",
+              "itemBody": "B. after the firm has claimed compliance for 12 months.",
+              "position": 2
+            },
+            {
+              "id": "416285be-6704-4dc0-b7c4-844a3cb19697",
+              "itemBody": "C. never; verification is not required.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50584",
+      "entry": {
+        "title": "CFA0121-s05-Q6",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Compliance with the GIPS standards is not typically required by regulators, nor are the GIPS standards intended to cover all regulatory requirements.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following is not a commonly perceived benefit of the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "feb34596-bddc-47ee-a043-3a46c4bcef92"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1d4bb0da-69ae-42a5-ac01-e0226d65a26d",
+              "itemBody": "A. Comparability of results across managers that claim compliance",
+              "position": 1
+            },
+            {
+              "id": "feb34596-bddc-47ee-a043-3a46c4bcef92",
+              "itemBody": "B. Adherence to regulatory requirements",
+              "position": 2
+            },
+            {
+              "id": "00feb791-567f-49fc-b8d3-b1efbdd3486f",
+              "itemBody": "C. Increased confidence by investors and beneficiaries",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50585",
+      "entry": {
+        "title": "CFA0121-s05-Q7",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Firms are encouraged to adopt the broadest, most meaningful definition possible of the firm.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">When defining the firm, the GIPS standards recommend that firms should:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7b26266b-1164-4a96-9cfb-406dae8483d7"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f1ec77d7-7b9c-48c2-bcd1-6970726a113f",
+              "itemBody": "A. adopt the narrowest, most relevant definition of the firm.",
+              "position": 1
+            },
+            {
+              "id": "7b26266b-1164-4a96-9cfb-406dae8483d7",
+              "itemBody": "B. adopt the broadest, most meaningful definition of the firm.",
+              "position": 2
+            },
+            {
+              "id": "c26ee409-a82e-48a0-b71f-e4f6b475e65c",
+              "itemBody": "C. exclude offices operating under different brand names.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50586",
+      "entry": {
+        "title": "CFA0121-s05-Q8",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Composites must be defined based on investment mandate, objective, or strategy. Composites can include only discretionary portfolios.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A composite return reflects the performance of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "fdfa1069-94c1-4012-89be-c9009717cec5"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e6fb11f-5fab-46af-b91d-4b4699549502",
+              "itemBody": "A. all portfolios managed by the firm, regardless of investment strategy.",
+              "position": 1
+            },
+            {
+              "id": "fdfa1069-94c1-4012-89be-c9009717cec5",
+              "itemBody": "B. all discretionary portfolios that meet the composite definition.",
+              "position": 2
+            },
+            {
+              "id": "40f89ef6-d567-4560-80be-ff5ea035450b",
+              "itemBody": "C. all discretionary and non-discretionary portfolios that meet the composite definition.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8139,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54025",
+      "entry": {
+        "title": "ITEM_20210122001",
+        "feedback": {},
+        "itemBody": "<p>The GIPS&nbsp;standards <i>most likely </i>require:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7a372d65-0b9c-456c-a03f-1d590b3a8235"
+        },
+        "answerFeedback": {
+          "40c89b19-a771-45d8-87c2-77328d88465c": "<p>Incorrect. Only fee-paying segregated accounts are required to be included in composites.</p>",
+          "7a372d65-0b9c-456c-a03f-1d590b3a8235": "<p><strong>Correct.</strong> Composites must be defined according to similar investment objectives or strategies. Terminated segregated accounts must be included in the historical returns of appropriate composites, whereas only fee-paying segregated accounts are required to be included in composites. Nondiscretionary segregated accounts must not be included in a firm’s composites.</p>",
+          "b6f29bf6-2f4b-42b7-be02-bb7ae0255848": "<p>Incorrect. Composites must not include nondiscretionary segregated accounts.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b6f29bf6-2f4b-42b7-be02-bb7ae0255848",
+              "itemBody": "<p>A. nondiscretionary segregated accounts to be included in composites.</p>",
+              "position": 1
+            },
+            {
+              "id": "7a372d65-0b9c-456c-a03f-1d590b3a8235",
+              "itemBody": "<p>B. composites to be defined according to similar investment objectives or strategies.</p>",
+              "position": 2
+            },
+            {
+              "id": "40c89b19-a771-45d8-87c2-77328d88465c",
+              "itemBody": "<p>C. non–fee-paying segregated accounts to be excluded from the returns of appropriate composites.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54026",
+      "entry": {
+        "title": "ITEM_20210122002",
+        "feedback": {},
+        "itemBody": "<p>Fundamental asset managers claim compliance with the CFA Institute Global Investment Performance Standards (GIPS) and manage both discretionary and nondiscretionary segregated accounts. When constructing a single composite for the firm, Juma Dzuya includes all discretionary, fee-paying segregated accounts with both value and growth strategies. Does the composite constructed by Dzuya <i>most likely</i> meet GIPS criteria?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "4f82d812-5a94-45cc-902b-4a09b4638cdf"
+        },
+        "answerFeedback": {
+          "4f82d812-5a94-45cc-902b-4a09b4638cdf": "<p><strong>Correct.</strong> A composite must include all actual, fee-paying, discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy. By including both the value and growth portfolios, the composite is made up of portfolios with different investment mandates or strategies.</p>",
+          "78ac7347-9965-45b8-87b8-1850614aa143": "<p>Incorrect. Nondiscretionary segregated accounts should not be included — that is, only discretionary segregated accounts should be included in composites to comply with the GIPS standards.</p>",
+          "eb19f374-5e47-4d4a-be5d-9f8d810cf6b9": "<p>Incorrect. The composite is made up of portfolios with different mandates or strategies (e.g., growth and value).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eb19f374-5e47-4d4a-be5d-9f8d810cf6b9",
+              "itemBody": "<p>A. Yes</p>",
+              "position": 1
+            },
+            {
+              "id": "4f82d812-5a94-45cc-902b-4a09b4638cdf",
+              "itemBody": "<p>B. No, because of dissimilar investment strategies</p>",
+              "position": 2
+            },
+            {
+              "id": "78ac7347-9965-45b8-87b8-1850614aa143",
+              "itemBody": "<p>C. No, because nondiscretionary segregated accounts are not included</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54027",
+      "entry": {
+        "title": "ITEM_20210122003",
+        "feedback": {},
+        "itemBody": "<p>According to the Global Investment Performance Standards (GIPS), which of the following is not a part of the verification process? Testing whether the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "63a60282-c9b8-482d-9828-409cd2fd95e8"
+        },
+        "answerFeedback": {
+          "63a60282-c9b8-482d-9828-409cd2fd95e8": "<p><strong>Correct.</strong> Verification tests whether the investment firm has complied with all the composite construction requirements of GIPS on a firm-wide basis, and whether the firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards. Verification must be performed by an independent third party. A firm cannot perform its own verification.</p>",
+          "7709a6d5-1875-4bf2-a90c-b950d0dc3f05": "<p>Incorrect. Verification tests whether the investment firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards.</p>",
+          "99f5aee3-291d-42a6-879c-425bc5dd05cc": "<p>Incorrect. Verification tests whether the investment firm has implemented policies and procedures in compliance with all the composite maintenance requirements of the GIPS standards on a firm-wide basis.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "63a60282-c9b8-482d-9828-409cd2fd95e8",
+              "itemBody": "<p>A. verification is undertaken by the compliance department in the absence of a third party.</p>",
+              "position": 1
+            },
+            {
+              "id": "7709a6d5-1875-4bf2-a90c-b950d0dc3f05",
+              "itemBody": "<p>B. firm’s processes and procedures are designed to calculate results in compliance with GIPS standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "99f5aee3-291d-42a6-879c-425bc5dd05cc",
+              "itemBody": "<p>C. firm has implemented policies and procedures compliant with all the composite maintenance requirements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54028",
+      "entry": {
+        "title": "ITEM_20210122004",
+        "feedback": {},
+        "itemBody": "<p>The GIPS&nbsp;standards were <i>most likely</i> developed for the benefit of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "28b37c2b-b605-439b-b387-009b2df89541"
+        },
+        "answerFeedback": {
+          "10ee9544-9130-4a63-b4c0-42f0fe5e8000": "<p>Incorrect. Although the internal controls implemented improve middle-office operations, the GIPS standards were not developed with middle-office operations in mind.</p>",
+          "28b37c2b-b605-439b-b387-009b2df89541": "<p><strong>Correct.</strong> The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies. GIPS reports allow prospective clients to know that the track record of a GIPS-compliant firm is complete and fairly presented.</p>",
+          "ccce637e-66e9-4eff-805c-b4fa51b48ca0": "<p>Incorrect. The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ccce637e-66e9-4eff-805c-b4fa51b48ca0",
+              "itemBody": "<p>A. broker/dealers.</p>",
+              "position": 1
+            },
+            {
+              "id": "28b37c2b-b605-439b-b387-009b2df89541",
+              "itemBody": "<p>B. prospective clients.</p>",
+              "position": 2
+            },
+            {
+              "id": "10ee9544-9130-4a63-b4c0-42f0fe5e8000",
+              "itemBody": "<p>C. middle-office operations.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54029",
+      "entry": {
+        "title": "ITEM_20210122006",
+        "feedback": {},
+        "itemBody": "<p>Verification of compliance with the GIPS&nbsp;standards <i>most likely</i> requires:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "dd3e6ee1-1876-40d5-bcaa-25bb22c050d3"
+        },
+        "answerFeedback": {
+          "cc47d3b5-c20d-41b9-a82e-61ada1acd69f": "<p>Incorrect. Verification is performed with respect to an entire firm, not on specific composites.</p>",
+          "d35e84a0-cf9a-496f-88c4-5b1ccb0af048": "<p>Incorrect. Verification does not ensure the accuracy of any specific composite presentation.</p>",
+          "dd3e6ee1-1876-40d5-bcaa-25bb22c050d3": "<p><strong>Correct.</strong> While a firm is responsible for their own compliance claim, they cannot perform their own verification. An independent third party must undertake the verification.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cc47d3b5-c20d-41b9-a82e-61ada1acd69f",
+              "itemBody": "<p>A. verification for each specific composite under review</p>",
+              "position": 1
+            },
+            {
+              "id": "dd3e6ee1-1876-40d5-bcaa-25bb22c050d3",
+              "itemBody": "<p>B. an independent third party to carry out the verification</p>",
+              "position": 2
+            },
+            {
+              "id": "d35e84a0-cf9a-496f-88c4-5b1ccb0af048",
+              "itemBody": "<p>C. an assurance that the composite presentations are accurate</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54030",
+      "entry": {
+        "title": "ITEM_20210122007",
+        "feedback": {},
+        "itemBody": "<p>When making performance presentations to prospective clients, a GIPS-compliant firm should <i>least likely</i> do which of the following?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1d31f757-b1ce-4b91-8dc0-6e8be2e99b5a"
+        },
+        "answerFeedback": {
+          "1d31f757-b1ce-4b91-8dc0-6e8be2e99b5a": "<p><strong>Correct.</strong> When a firm complies with GIPS standards, it cannot selectively choose its top account performances while excluding weaker-performing accounts. It must include all fee-paying discretionary accounts managed to a similar investment mandate, objective, or strategy.</p>",
+          "7d75c0df-7b95-4e25-a94e-0b6505da01c3": "<p>Incorrect. GIPS standards require the performance of former clients to be included to avoid survivorship bias.</p>",
+          "a47d1054-e5a2-411a-a816-3486575d9364": "<p>Incorrect. GIPS standards require the account performance to reflect results across all market cycles for the periods under review. Fund managers are not allowed to select a time period during which the mandate produced superior results while leaving out other time periods that underperformed (varying time periods).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1d31f757-b1ce-4b91-8dc0-6e8be2e99b5a",
+              "itemBody": "<p>A. Selectively report its top account performance</p>",
+              "position": 1
+            },
+            {
+              "id": "7d75c0df-7b95-4e25-a94e-0b6505da01c3",
+              "itemBody": "<p>B. Include the account performance of former clients</p>",
+              "position": 2
+            },
+            {
+              "id": "a47d1054-e5a2-411a-a816-3486575d9364",
+              "itemBody": "<p>C. Report performance history for all market cycles under review</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54031",
+      "entry": {
+        "title": "ITEM_20210122012",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements related to why the GIPS standards were created is <i>least likely</i> correct? The GIPS standards were created to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "93512435-39f1-44e2-948a-27c09d867933"
+        },
+        "answerFeedback": {
+          "93512435-39f1-44e2-948a-27c09d867933": "<p><strong>Correct.</strong> The GIPS standards were created to ensure fair representation and full disclosure of investment performance, not to provide certainty in what is presented.</p>",
+          "bc7a826f-048f-4240-9b6e-6d60c26f0f50": "<p>Incorrect. This is a correct statement. The GIPS standards were created to identify a set of ethical principles for firms to follow in calculating and presenting historical investment results.</p>",
+          "fc49e618-b367-4421-a9c5-bf911bf77bfc": "<p>Incorrect. This is a correct statement. The GIPS standards were created to establish a standardized, industry-wide approach for investment firms to follow.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc49e618-b367-4421-a9c5-bf911bf77bfc",
+              "itemBody": "<p>A. establish a standardized, industry-wide approach for investment firms to follow.</p>",
+              "position": 1
+            },
+            {
+              "id": "93512435-39f1-44e2-948a-27c09d867933",
+              "itemBody": "<p>B. provide clients certainty in what is presented and allow them to make reasonable comparisons.</p>",
+              "position": 2
+            },
+            {
+              "id": "bc7a826f-048f-4240-9b6e-6d60c26f0f50",
+              "itemBody": "<p>C. identify a set of ethical principles for firms to follow in calculating and presenting historical investment results.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54032",
+      "entry": {
+        "title": "ITEM_20210122016",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statement <i>most likely</i> summarizes the requirement of a firm to maintain a list of descriptions?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b33441e8-0e41-4c4b-aa81-1c9b90b42b03"
+        },
+        "answerFeedback": {
+          "47ce54a8-9b9f-4d8d-a19b-525d429e5e3e": "<p>Incorrect. Firms are <em>not</em> required to include terminated limited or broad distribution pool funds on the list as stated in Standards 1.A.22.b and 1.A.22.c.</p>",
+          "a1d63d3e-3a3f-4ad8-9de5-264aeb54409f": "<p>Incorrect. A complete list of broad distribution pooled funds only, but <em>not</em> the description, is required per Standard 1.A.22.c.</p>",
+          "b33441e8-0e41-4c4b-aa81-1c9b90b42b03": "<p><strong>Correct.</strong> Standard 1.A.22 specifies that firm must maintain a list of composite descriptions and include terminated composites on this list for at least five years after the composite termination date. A complete list of pooled fund descriptions for limited distribution pooled funds is also required. A complete list of broad distribution pooled fund names only, but<em> not</em> the descriptions, is required. Firms are <em>not</em> required to include terminated limited or broad distribution pooled funds on the list.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a1d63d3e-3a3f-4ad8-9de5-264aeb54409f",
+              "itemBody": "<p>A. Firms must maintain a list of composite descriptions as well as a list of descriptions for both limited and broad distribution pooled funds</p>",
+              "position": 1
+            },
+            {
+              "id": "47ce54a8-9b9f-4d8d-a19b-525d429e5e3e",
+              "itemBody": "<p>B. Firms must include terminated composites and terminated limited distribution pooled funds on their lists of composite and pooled funds for at least five years</p>",
+              "position": 2
+            },
+            {
+              "id": "b33441e8-0e41-4c4b-aa81-1c9b90b42b03",
+              "itemBody": "<p>C. Firms must maintain a list of composite descriptions as well as a list of descriptions for limited distribution pooled funds, but only a list of names for broad distribution pooled funds</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54033",
+      "entry": {
+        "title": "ITEM_20210122019",
+        "feedback": {},
+        "itemBody": "<p>Performance that is not compliant with the GIPS&nbsp;standards is <i>most likely</i> allowed to be linked with performance that is compliant with the GIPS standards in which of the following scenarios?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e5f40d5f-b766-45da-bed6-5282d4822345"
+        },
+        "answerFeedback": {
+          "1db8f09e-560c-4160-9b7a-7425e26b4db3": "<p>Incorrect. The minimum effective compliance date for all other composites and pooled funds is 1 January 2000.</p>",
+          "d8d7ed64-dbee-444a-8f07-2a55c0382f45": "<p>Incorrect. The minimum effective compliance date for a real estate pooled fund is 1 January 2006.</p>",
+          "e5f40d5f-b766-45da-bed6-5282d4822345": "<p><strong>Correct.</strong> The minimum effective compliance date for a wrap fee composite is 1 January 2006. A wrap fee composite for a firm whose claim of compliance began on 1 January 2006 could link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards. A firm may link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards provided that only performance that is compliant with the GIPS standards is presented for periods after the minimum effective compliance date, which differs depending on the asset type:</p><p>• 1 January 2006 for real estate and private equity composites and pooled funds, as well as wrap fee composites.</p><p>• 1 January 2000 for all other composites and pooled funds.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e5f40d5f-b766-45da-bed6-5282d4822345",
+              "itemBody": "<p>A. Wrap fee composite for a firm whose claim of compliance began on 1 January 2006.</p>",
+              "position": 1
+            },
+            {
+              "id": "d8d7ed64-dbee-444a-8f07-2a55c0382f45",
+              "itemBody": "<p>B. Real estate pooled fund for a firm whose claim of compliance began on 1 January 2010.</p>",
+              "position": 2
+            },
+            {
+              "id": "1db8f09e-560c-4160-9b7a-7425e26b4db3",
+              "itemBody": "<p>C. Large-cap equity composite for a firm whose claim of compliance began on 1 January 2001.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54034",
+      "entry": {
+        "title": "ITEM_20170420074",
+        "feedback": {},
+        "itemBody": "<p>In countries where new local laws relating to calculation and presentation of investment performance conflict with GIPS&nbsp;standards, firms that have claimed GIPS compliance should <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "86666627-3720-43c2-8e6b-48645c3baffe"
+        },
+        "answerFeedback": {
+          "1c569fae-4b4c-4e52-9417-543016edc6a8": "<p>Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>",
+          "86666627-3720-43c2-8e6b-48645c3baffe": "<p>Correct because where local laws and regulations regarding calculation and presentation conflict with GIPS standards, firms must abide by the local laws and regulations. They are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>",
+          "bd030c59-0284-47e2-9477-da179933fef5": "<p>Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bd030c59-0284-47e2-9477-da179933fef5",
+              "itemBody": "<p>A. stop claiming GIPS compliance.</p>",
+              "position": 1
+            },
+            {
+              "id": "86666627-3720-43c2-8e6b-48645c3baffe",
+              "itemBody": "<p>B. follow local laws, continue to claim GIPS compliance, and disclose conflicts.</p>",
+              "position": 2
+            },
+            {
+              "id": "1c569fae-4b4c-4e52-9417-543016edc6a8",
+              "itemBody": "<p>C. continue to claim GIPS compliance, disclosing non-compliance with new laws.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54035",
+      "entry": {
+        "title": "ITEM_20170420113",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>least likely </i>correct with regards to the nine major sections comprising the GIPS<span style=\"font-size:13.5px\"> </span>standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1beb8faf-c807-4844-8d9b-3eace374ac70"
+        },
+        "answerFeedback": {
+          "0c1a7b46-99c6-4d00-9927-2939b2680f97": "<p>Incorrect because the statement that all requirements must be met to be fully compliant with the GIPS standards is accurate.</p>",
+          "1beb8faf-c807-4844-8d9b-3eace374ac70": "<p>Correct because to claim compliance, firms must meet all GIPS requirements, not just calculate their performance according to GIPS requirements.</p>",
+          "90e04bfb-d934-4776-8cc2-d4ee45a2c477": "<p>Incorrect because the statement that firms are encouraged to adopt and implement the recommendations is accurate.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "90e04bfb-d934-4776-8cc2-d4ee45a2c477",
+              "itemBody": "<p>A. Firms are encouraged to adopt and implement the recommendations</p>",
+              "position": 1
+            },
+            {
+              "id": "0c1a7b46-99c6-4d00-9927-2939b2680f97",
+              "itemBody": "<p>B. All requirements must be met in to be fully compliant with the GIPS</p>",
+              "position": 2
+            },
+            {
+              "id": "1beb8faf-c807-4844-8d9b-3eace374ac70",
+              "itemBody": "<p>C. To claim compliance, firms need only to calculate their performance according to GIPS requirements</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54036",
+      "entry": {
+        "title": "ITEM_20170420114",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is&nbsp;part of the nine major sections of the GIPS&nbsp;standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "29958a95-44ed-4164-8f3f-27d6cf472012"
+        },
+        "answerFeedback": {
+          "29958a95-44ed-4164-8f3f-27d6cf472012": "<p>Correct because the major sections of the GIPS standards do not include performance fees or disclosure. The major sections are: fundamentals of compliance, input data, and calculation methodology, composite and pooled fund maintenance, composite time-weighted return report, composite money-weighted return report, pooled fund time-weighted return report, pooled fund money-weighted return report, and GIPS advertising guidelines.</p>",
+          "3182fb1e-b821-4275-b148-5e1413137b81": "<p>Incorrect because disclosure is not one of the major sections of the GIPS standards.</p>",
+          "36c06567-a340-4f61-a9ed-d484b669ec5b": "<p>Incorrect because performance fees is not one of the major sections of the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "29958a95-44ed-4164-8f3f-27d6cf472012",
+              "itemBody": "<p>A. Input data</p>",
+              "position": 1
+            },
+            {
+              "id": "3182fb1e-b821-4275-b148-5e1413137b81",
+              "itemBody": "<p>B. Disclosure</p>",
+              "position": 2
+            },
+            {
+              "id": "36c06567-a340-4f61-a9ed-d484b669ec5b",
+              "itemBody": "<p>C. Performance fees</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54037",
+      "entry": {
+        "title": "ITEM_20170420126",
+        "feedback": {},
+        "itemBody": "<p>To comply with the GIPS<sup>®</sup> standards, firms <i>most likely</i> must:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1343d415-8f87-4e6c-a6a6-b7ef3e5faf74"
+        },
+        "answerFeedback": {
+          "1343d415-8f87-4e6c-a6a6-b7ef3e5faf74": "<p>Correct because according to requirements for GIPS compliance, GIPS standards must be applied on a firm-wide basis. They cannot be separately applied to composites.</p>",
+          "2ab86843-8f0f-4e1a-a6f5-817af8a12173": "<p>Incorrect&nbsp;because a&nbsp;firm must be defined as an investment firm, subsidiary, or division held out to clients or prospective clients as a distinct business entity. There is no requirement for the firm to be a separate legal entity.</p>",
+          "9bf1713e-2512-453f-9255-fe90e35209b8": "<p>Incorrect&nbsp;because firms are responsible for their own claims of compliance. Although a third-party independent verification is recommended, it is not required for compliance to be claimed by a firm.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2ab86843-8f0f-4e1a-a6f5-817af8a12173",
+              "itemBody": "<p>A. be defined as separate legal entities.</p>",
+              "position": 1
+            },
+            {
+              "id": "1343d415-8f87-4e6c-a6a6-b7ef3e5faf74",
+              "itemBody": "<p>B. apply standards on a firm-wide basis.</p>",
+              "position": 2
+            },
+            {
+              "id": "9bf1713e-2512-453f-9255-fe90e35209b8",
+              "itemBody": "<p>C. be verified before they can claim compliance.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54038",
+      "entry": {
+        "title": "ITEM_CFA-L1-01714",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements is <i>most</i> accurate? In countries where regulations conflict with, or contradict, the GIPS standards, firms that claim compliance are required to comply with:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6ec37ed3-5c22-4594-9280-1ee2685080f4"
+        },
+        "answerFeedback": {
+          "26550f21-1164-4c45-bb1c-42b244817d81": "<p>Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS report.</p>",
+          "3ae5607e-ec0e-4922-a238-f32f5829a5d2": "<p>Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.</p>",
+          "6ec37ed3-5c22-4594-9280-1ee2685080f4": "<p>Correct because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6ec37ed3-5c22-4594-9280-1ee2685080f4",
+              "itemBody": "<p>A. local regulations with full disclosure of the conflict.</p>",
+              "position": 1
+            },
+            {
+              "id": "3ae5607e-ec0e-4922-a238-f32f5829a5d2",
+              "itemBody": "<p>B. the stricter of local regulations or the GIPS standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "26550f21-1164-4c45-bb1c-42b244817d81",
+              "itemBody": "<p>C. local regulations with optional disclosure of the conflict.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 14,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54039",
+      "entry": {
+        "title": "ITEM_CFA-L1-09700",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, a firm must include a terminated composite on the firm's list of composite descriptions for at least:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d71509e3-3362-4f1b-a143-8a8ccc3f1d07"
+        },
+        "answerFeedback": {
+          "5d438699-3f76-4f63-a060-6ed34bacde19": "<p>Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 10 years.&nbsp;</p>",
+          "d71509e3-3362-4f1b-a143-8a8ccc3f1d07": "<p>Correct because according to the GIPS standards, the firm must include terminated composites on this list for at least ﬁve years after the composite termination date.</p>",
+          "f329babb-2260-40e5-a437-f3f9b1b53fe4": "<p>Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 7 years.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d71509e3-3362-4f1b-a143-8a8ccc3f1d07",
+              "itemBody": "<p>A. 5 years after the composite termination date.</p>",
+              "position": 1
+            },
+            {
+              "id": "f329babb-2260-40e5-a437-f3f9b1b53fe4",
+              "itemBody": "<p>B. 7 years after the composite termination date.</p>",
+              "position": 2
+            },
+            {
+              "id": "5d438699-3f76-4f63-a060-6ed34bacde19",
+              "itemBody": "<p>C. 10 years after the composite termination date.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 15,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54040",
+      "entry": {
+        "title": "ITEM_CFA-L1-08633",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <i>most</i> accurate? GIPS compliance:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "32aa57e3-c6c6-4769-84dd-6bdf97b66970"
+        },
+        "answerFeedback": {
+          "32aa57e3-c6c6-4769-84dd-6bdf97b66970": "<p>Correct because compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world.</p>",
+          "360b5b5d-5f3d-4458-9b7b-7731c1ff682b": "<p>Incorrect because as described in the response rationale for the correct answer compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world&nbsp;but GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor.</p>",
+          "a17b341e-a7ad-4c41-b236-8d1299df2dfd": "<p>Incorrect because GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a17b341e-a7ad-4c41-b236-8d1299df2dfd",
+              "itemBody": "<p>A. eliminates investors' need for in-depth due diligence of the GIPS-compliant firm only.</p>",
+              "position": 1
+            },
+            {
+              "id": "32aa57e3-c6c6-4769-84dd-6bdf97b66970",
+              "itemBody": "<p>B. enables the GIPS-compliant firm to participate in competitive bids against other GIPS-compliant firms only.</p>",
+              "position": 2
+            },
+            {
+              "id": "360b5b5d-5f3d-4458-9b7b-7731c1ff682b",
+              "itemBody": "<p>C. both eliminates investors' need for in-depth due diligence of the GIPS-compliant firm and enables the GIPS-compliant firm to participate in competitive bids against other GIPS-compliant firms.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 16,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54041",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Hambusch-03",
+        "feedback": {},
+        "itemBody": "<p>According to the GIPS standards, a&nbsp;firm:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8c591228-605e-4f67-8b36-c3cc7260055e"
+        },
+        "answerFeedback": {
+          "16f59ad3-00ff-4def-8f99-753422dc270c": "<p>Incorrect because according to the fundamentals of compliance of the&nbsp;GIPS standards, non-discretionary portfolios must not be included in a firm’s composites.</p>",
+          "8c591228-605e-4f67-8b36-c3cc7260055e": "<p>Correct because according to the fundamentals of compliance of the&nbsp;GIPS standards, If documented client-imposed restrictions interfere with the implementation of the intended strategy to the extent that the portfolio is no longer representative of the strategy, the firm may determine that the portfolio is non-discretionary.</p>",
+          "94267a59-60bd-4f36-9415-b14ad6ff4b1f": "<p>Incorrect because according to the fundamentals of compliance of the&nbsp;GIPS standards, statements referring to the calculation methodology as being 'in accordance,'&nbsp;'in compliance,'&nbsp;or 'consistent'&nbsp;with the Global Investment Performance Standards, or similar statements, are prohibited.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "16f59ad3-00ff-4def-8f99-753422dc270c",
+              "itemBody": "<p>A. must include non-discretionary portfolios in the firm’s composites.</p>",
+              "position": 1
+            },
+            {
+              "id": "94267a59-60bd-4f36-9415-b14ad6ff4b1f",
+              "itemBody": "<p>B. may refer to its performance calculation methodology as being \"in accordance&nbsp;with the GIPS standards.\"</p>",
+              "position": 2
+            },
+            {
+              "id": "8c591228-605e-4f67-8b36-c3cc7260055e",
+              "itemBody": "<p>C. may determine a portfolio is non-discretionary if client imposed restrictions interfere with the implementation of the intended strategy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 17,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54042",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Bangaruswamy-13",
+        "feedback": {},
+        "itemBody": "<p>The GIPS standards were created to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1cf432e7-4e48-4747-a744-95950ee0ef6b"
+        },
+        "answerFeedback": {
+          "1cf432e7-4e48-4747-a744-95950ee0ef6b": "<p>Correct because the objectives of the GIPS standards are as follows:&nbsp;Promote fair, global competition among investment firms.</p>",
+          "1d041b78-c065-4735-bfe7-cde67277ad91": "<p>Incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS standards is not typically required by legal or regulatory authorities.&nbsp;Also, the preamble to the GIPS standards states that&nbsp;by adhering to a global standard, firms in countries with minimal or no investment performance standards can compete for business on an equal footing with firms from countries with more-developed standards.&nbsp;&nbsp;</p><p>Therefore, it is clear that GIPS standards were not created to&nbsp;serve as a mandatory performance&nbsp;standard&nbsp;for asset management firms in countries without investment performance regulation.</p>",
+          "26c1de0a-0ef1-4311-ac4c-fe1f6ca3a0d8": "<p>Incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the client or investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1cf432e7-4e48-4747-a744-95950ee0ef6b",
+              "itemBody": "<p>A. promote fair, global competition among investment firms.&nbsp;</p>",
+              "position": 1
+            },
+            {
+              "id": "26c1de0a-0ef1-4311-ac4c-fe1f6ca3a0d8",
+              "itemBody": "<p>B. eliminate the need for costly in-depth due diligence by investors.</p>",
+              "position": 2
+            },
+            {
+              "id": "1d041b78-c065-4735-bfe7-cde67277ad91",
+              "itemBody": "<p>C. serve as a mandatory performance&nbsp;standard&nbsp;for asset management firms in countries without investment performance regulation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 18,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54043",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-Ethics-Pitrakkou-12",
+        "feedback": {},
+        "itemBody": "<p>Which of the following&nbsp;can claim compliance with the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7bfc21e6-1e67-4983-a502-e45217880c9e"
+        },
+        "answerFeedback": {
+          "0a4406f1-b4de-4e81-8b6e-c34146b11f03": "<p>Incorrect because consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. They can claim to endorse the GIPS standards and/or require that their investment managers comply with the GIPS standards.</p>",
+          "7bfc21e6-1e67-4983-a502-e45217880c9e": "<p>Correct because asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners.</p>",
+          "b9e357e0-764a-416e-bb48-a4406d0661c9": "<p>Incorrect because only a firm managing assets can claim compliance. Similarly, software (and the vendors who supply software) cannot be 'compliant.'&nbsp;Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards), but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0a4406f1-b4de-4e81-8b6e-c34146b11f03",
+              "itemBody": "<p>A. Consultants who advise investment firms that manage discretionary client assets</p>",
+              "position": 1
+            },
+            {
+              "id": "7bfc21e6-1e67-4983-a502-e45217880c9e",
+              "itemBody": "<p>B. Asset owners that do not compete for business but report their performance to oversight bodies</p>",
+              "position": 2
+            },
+            {
+              "id": "b9e357e0-764a-416e-bb48-a4406d0661c9",
+              "itemBody": "<p>C. Vendors that provide software to assist investment firms in claiming compliance with the GIPS standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 19,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54044",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020A-Ethics-Lee-07",
+        "feedback": {},
+        "itemBody": "<p>The GIPS standards:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "41ebe2e1-e4c6-41f7-bf42-60e86a5eb32e"
+        },
+        "answerFeedback": {
+          "41ebe2e1-e4c6-41f7-bf42-60e86a5eb32e": "<p>Correct because the GIPS standards are a practitioner-driven set of ethical principles that establish a standardized, industry-wide approach for investment firms to follow in calculating and presenting their historical investment results to prospective clients. Therefore, the GIPS standard establish a standardized approach to presenting historical investment results to prospective clients, and this answer is correct.</p>",
+          "5109fa49-f482-4b68-ab09-68e2a276664a": "<p>Incorrect because presenting an 'average' performance history that excludes portfolios whose poor performance was weak enough to result in termination of the firm is known as survivorship bias and is a misleading practice when presenting investment performance data. Therefore, presenting performance history that only includes accounts remaining at the firm (and excludes accounts that has left the firm) is incorrect.</p>",
+          "75e3b05c-31d0-4eba-9a76-5d82fac9da07": "<p>Incorrect because according to the GIPS standards misleading practices include Representative Accounts: Selecting a top-performing portfolio to represent the firm’s overall investment results for a specific mandate. Therefore, the GIPS standards does not allow the use of a representative account to present the firm's overall investment results.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "75e3b05c-31d0-4eba-9a76-5d82fac9da07",
+              "itemBody": "<p>A. allow the use of a representative account to present the firm's overall investment results.</p>",
+              "position": 1
+            },
+            {
+              "id": "5109fa49-f482-4b68-ab09-68e2a276664a",
+              "itemBody": "<p>B. require firms to present performance history that only includes accounts remaining at the firm.</p>",
+              "position": 2
+            },
+            {
+              "id": "41ebe2e1-e4c6-41f7-bf42-60e86a5eb32e",
+              "itemBody": "<p>C. establish a standardized approach to presenting historical investment results to prospective clients.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 20,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54045",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-Ethics-Jacob-06",
+        "feedback": {},
+        "itemBody": "<p>Which of the following entities can claim compliance with the GIPS standards?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c726aa36-62d2-4c0c-ab7e-6da41440f927"
+        },
+        "answerFeedback": {
+          "360e8fef-61d9-4e49-81e1-ebe0a8cc4975": "<p>Incorrect because according to the GIPS standards, consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. Therefore, an investment consulting firm that focuses on enabling clients to self-manage their investments cannot claim compliance with the GIPS standards.</p>",
+          "490c2dfc-61f3-4995-a491-f9b4ad50a517": "<p>Incorrect because according to the GIPS standards, software (and the vendors who supply software) cannot be “compliant.” Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards),&nbsp;but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards.</p>",
+          "c726aa36-62d2-4c0c-ab7e-6da41440f927": "<p>Correct because according to&nbsp;the GIPS standards, only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards.&nbsp;Further, asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners.&nbsp;Therefore, a pension fund that manages investments for its beneficiaries can claim compliance with the GIPS standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c726aa36-62d2-4c0c-ab7e-6da41440f927",
+              "itemBody": "<p>A. A pension fund that manages investments for its beneficiaries</p>",
+              "position": 1
+            },
+            {
+              "id": "360e8fef-61d9-4e49-81e1-ebe0a8cc4975",
+              "itemBody": "<p>B. An investment consulting firm that focuses on enabling clients to self-manage their investments</p>",
+              "position": 2
+            },
+            {
+              "id": "490c2dfc-61f3-4995-a491-f9b4ad50a517",
+              "itemBody": "<p>C. A vendor that offers software products designed to help firms achieve compliance with the GIPS standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 21,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8734,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 856,
+      "sourceModuleId": 4508,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-92-1",
+      "entry": {
+        "title": "2027-Mod92-Q1",
+        "itemBody": "<p>Which of the following statements regarding a country’s political \ncooperation is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. If a country is engaged in military conflict, there is a higher cost to  \ncooperation. B is incorrect because a country with few internal resources is likely to \nrely on political cooperation. C is incorrect because interest prioritization does  \ndetermine the depth and nature of political cooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f2f86f25-eae7-485e-97d6-b43cf71275d8",
+              "itemBody": "<p>A. If a country is engaged in military conflict, there is a higher cost to cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "08751fcd-83ca-488b-9338-37a1f64defa3",
+              "itemBody": "<p>B. A country with few internal resources is not likely to rely on political cooperation.</p>",
+              "position": 2
+            },
+            {
+              "id": "2810178d-b699-45a1-b713-d817dabfed64",
+              "itemBody": "<p>C. Interest prioritization does not determine the depth and nature of political  \ncooperation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f2f86f25-eae7-485e-97d6-b43cf71275d8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-2",
+      "entry": {
+        "title": "2027-Mod92-Q2",
+        "itemBody": "<p>A consequence of one of the disadvantages of globalization is that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Through the process of greater economic and financial cooperation,  \ncompanies may become dependent on other countries’ resources for their supply  \nchains. On aggregate, this can result in the nation itself becoming dependent on other \nnations for certain resources (such as rare earth metals, cobalt, or copper). If there \nis a disruption to the supply chain, including via a moment of political non-cooperation, \nthen firms may not be able to produce the good themselves.  A is incorrect because \nthe narrowing of pay differences between countries results  from a motivation to \npursue globalization, which is related to one of its advantages. It is an important way \nfor companies to increase profitability by reducing their  costs. Although wage \ndifferentials remain, they are decreasing. B is incorrect  because the proportion of \nflows between developed economies as a share of overall trade continuing to decline \nas emerging market trade flows rise is a function  of increased international \ninvestment. This increased investment has provided  beneficial aggregate economic \nbenefits, such as increased choice, higher quality goods, increased competition among \nfirms, higher efficiency, and increased labor mobility.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e325dd52-e5fc-4fe0-8839-235b60ecd586",
+              "itemBody": "<p>A. pay differences between countries have narrowed.</p>",
+              "position": 1
+            },
+            {
+              "id": "5c9b18fa-eca0-4dde-ad4f-1bcefabf3bfc",
+              "itemBody": "<p>B. emerging market trade flows have grown more important.</p>",
+              "position": 2
+            },
+            {
+              "id": "cd4ae99f-bcdd-415b-8d2d-c298fb51ffe6",
+              "itemBody": "<p>C. greater economic and financial cooperation has increased interdependence.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cd4ae99f-bcdd-415b-8d2d-c298fb51ffe6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-3",
+      "entry": {
+        "title": "2027-Mod92-Q3",
+        "itemBody": "<p>Which of the following outcomes is most likely a result of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Unequal accrual of economic and financial gains is a cost of globalization \nbecause improvement on the aggregate does not mean improvement  for everyone. B \nis incorrect because globalization leads to interdependency as companies may become \ndependent on other countries’ resources for their supply  chains. C is incorrect \nbecause rather than decreased access to talent, a country might actually globalize to \nimprove access to talent as cooperation and globalization can lead to increased access \nto resources.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4f37b269-a68b-4a20-be1b-e221978891aa",
+              "itemBody": "<p>A. Unequal gains</p>",
+              "position": 1
+            },
+            {
+              "id": "c29bdd72-e329-4009-9ff1-d832d17b9251",
+              "itemBody": "<p>B. Increased independence</p>",
+              "position": 2
+            },
+            {
+              "id": "dfba10bc-bb98-49ad-8a4c-e3ad41e4a338",
+              "itemBody": "<p>C. Decreased access to talent</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4f37b269-a68b-4a20-be1b-e221978891aa"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-4",
+      "entry": {
+        "title": "2027-Mod92-Q4",
+        "itemBody": "<p>A US company expanding critical spare part inventories for local \ncustomers made at its existing Canadian facility after a supply chain disruption is \nmost likely using the coping tactic of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The COVID-19 pandemic has highlighted the need for certain essential \nsupply chains to be rebuilt domestically for emergency situations, with availability of \ncritical spare parts being an analogy. The close integration of the  US and Canadian \neconomies through the revised USMCA agreement effectively  makes expanded \nproduction at an existing Canadian factory an example of reducing manufacturing risk \nby relocating to home countries via reshoring. B  is incorrect because instead of \nreducing manufacturing risk by duplicating or fortifying its supply chain, the company \nis s imply continuing to use its existing  capacity more intensively. C is incorrect \nbecause although the production is intended to better supply its home market, there \nis no evidence that the company is expanding its presence in the US market or shifting \nits focus to the exclusion of available opportunities elsewhere.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "34730970-3de3-4861-8392-a1dd9ec3637a",
+              "itemBody": "<p>A. reshoring the essentials.</p>",
+              "position": 1
+            },
+            {
+              "id": "7c146cc7-e066-478f-b139-b74e4241fa0b",
+              "itemBody": "<p>B. reglobalizing production.</p>",
+              "position": 2
+            },
+            {
+              "id": "6fb52ddb-f76f-4209-9f39-b30a6a6d9406",
+              "itemBody": "<p>C. doubling down on key markets.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "34730970-3de3-4861-8392-a1dd9ec3637a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-5",
+      "entry": {
+        "title": "2027-Mod92-Q5",
+        "itemBody": "<p>An example of a geopolitical multifaceted tool for furthering national \ninterests is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cabotage is the right to transport passengers or goods within a country \nby a foreign firm. Many countries —including those with multilateral  trade \nIntroduction to Geopolitics \nFaculty:                                                                         Page 6 of 8 \n \nagreements—impose restrictions on cabotage across transportation subsectors,  \nmeaning that shippers, airlines, and truck drivers are not allowed to transport goods \nand services within another country’s borders. Allowing cabotage  requires \ncoordination on areas like physical security and economic coordination,  a highly \nmultilateral (multifaceted tool) process. B is incorrect because armed conflict is the \nmost extreme example of a national security tool. It can be either internal or external \nto a country in taking a direct and active approach to wielding influence. C is incorrect \nbecause nationalization of key export industries is an economic tool. This process of \ntransferring an activity or industry from private to state control is a non-cooperative \napproach to asserting economic control.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "431f72b1-6dcd-4e75-a4f2-2d7545cf73fd",
+              "itemBody": "<p>A. cabotage.</p>",
+              "position": 1
+            },
+            {
+              "id": "ed12aec5-3a9a-4eba-96c9-661499514307",
+              "itemBody": "<p>B. armed conflict.</p>",
+              "position": 2
+            },
+            {
+              "id": "cbeed5b7-14fd-4c90-a824-9d69e18c8f4a",
+              "itemBody": "<p>C. nationalization of key export industries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "431f72b1-6dcd-4e75-a4f2-2d7545cf73fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-6",
+      "entry": {
+        "title": "2027-Mod92-Q6",
+        "itemBody": "<p>Which of these is most likely to be described as an event risk?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections and new legislation, \nor other date-driven milestones, such as holidays or political anniversaries  known in \nadvance. The other choices could not be known in advance. An  earthquake (A) is an \nexample of an exogenous risk. An ongoing civil war (C) is an  example of a thematic \nrisk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7b9e6adf-bd13-4e01-8ef0-55e16dfafe34",
+              "itemBody": "<p>A. An earthquake</p>",
+              "position": 1
+            },
+            {
+              "id": "92e92127-eab5-4849-ab47-d337741f8708",
+              "itemBody": "<p>B. An election</p>",
+              "position": 2
+            },
+            {
+              "id": "f0691f55-4ad4-4c41-9af5-f3ac5d4e3f1c",
+              "itemBody": "<p>C. An ongoing civil war</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "92e92127-eab5-4849-ab47-d337741f8708"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-7",
+      "entry": {
+        "title": "2027-Mod92-Q7",
+        "itemBody": "<p>Exogenous risks are best described as those that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Exogenous risks are best described as those that are sudden or  \nunanticipated and that affect either a country’s cooperative stance, the ability  of \nnon-state actors to globalize, or both. A is incorrect because thematic (not  \nexogenous) risks are known risks that evolve and expand over a period of time. B  is \nincorrect because event (not exogenous) risks are those that evolve around set dates, \nincluding elections, new legislation, or other date-driven milestones.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b1739811-b822-4fd4-9d4d-a582ec230697",
+              "itemBody": "<p>A. are known and evolve and expand over a period of time.</p>",
+              "position": 1
+            },
+            {
+              "id": "a09c5608-2349-49a8-ae7e-631a99f51f19",
+              "itemBody": "<p>B. revolve around set dates, such as elections, new legislation, or other date-driven \nmilestones, such as holidays or political anniversaries.</p>",
+              "position": 2
+            },
+            {
+              "id": "15f3653a-265e-495b-8646-d176f5c78038",
+              "itemBody": "<p>C. are sudden or unanticipated and impact either a country’s cooperative stance, the \nability of non-state actors to globalize, or both. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "15f3653a-265e-495b-8646-d176f5c78038"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-8",
+      "entry": {
+        "title": "2027-Mod92-Q8",
+        "itemBody": "<p>Which of the following statements about geopolitical threats in the \ninvestment environment is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Although highly collaborative and globalized countries are, on  balance, \nless likely to experience geopolitical risk because the political, economic, and financial \ncosts of partners inflicting those risks are higher than less collaborative  countries, \nthe same interconnectedness may make them more vulnerable  to geopolitical risk. A \nis incorrect because geopolitical risk is always present in the investment environment. \nC is incorrect because geopolitical risk tends to  have a greater impact on markets \nalready experiencing a general contraction or economic downturn.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7ccc4113-f9f1-45bb-bcf7-21ce1de38696",
+              "itemBody": "<p>A. Geopolitical risk is not always present in the investment environment.</p>",
+              "position": 1
+            },
+            {
+              "id": "e11032b1-ee62-42ae-887c-1af915ec66c0",
+              "itemBody": "<p>B. Highly collaborative, interconnected countries are vulnerable to geopolitical risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "b2b4e733-a399-43ec-9516-c221df1b6a55",
+              "itemBody": "<p>C. Geopolitical risk tends to have less of an impact on markets already experiencing \na general contraction or economic downturn.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e11032b1-ee62-42ae-887c-1af915ec66c0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-9",
+      "entry": {
+        "title": "2027-Mod92-Q9",
+        "itemBody": "<p>An applicable conclusion drawn from the Geopolitical Risk Index (GPR) is \nthat:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The GPR creators found that high levels of geopolitical risk reduce US \ninvestment, employment, and price level of the stock market. B is  incorrect because \nfirms reduce investment in the wake of idiosyncratic events, which would be unlikely \nto repeat. C is incorrect because the threat of an event  was shown to have a larger \nimpact over time than that of the actual events themselves.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "529a0292-3f35-4470-8289-4a06a104fb3e",
+              "itemBody": "<p>A. high geopolitical risk results in tangible macroeconomic effects.</p>",
+              "position": 1
+            },
+            {
+              "id": "dd216c6d-18e0-4577-acaa-82caf935d585",
+              "itemBody": "<p>B. recurring geopolitical risk events lead to reduced corporate investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "548bd816-5c8b-49c1-806f-bd404717d861",
+              "itemBody": "<p>C. the adverse impact of actual events is greater over time than that of the threat \nof such events.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "529a0292-3f35-4470-8289-4a06a104fb3e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-10",
+      "entry": {
+        "title": "2027-Mod92-Q10",
+        "itemBody": "<p>The basic geopolitical risk type most likely in comparison to have the \nsmallest degree of uncertainty is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections or new legislation, \nor other date-driven milestones, such as holidays or political anniversaries. Analysts \ncan thus look to political calendars as a predictable starting point for  determining \nthe occurrence of event risk, with time to devise a suitable response.  A is incorrect \nbecause exogenous risk is sudden and unanticipated. Examples  include sudden \nuprisings, invasions, or the aftermath of natural disasters. The  timing and range of \nits effects thus have the greatest unknowns. C is incorrect  because thematic risks \nIntroduction to Geopolitics \nFaculty:                                                                         Page 7 of 8 \n \nare known risks that evolve and expand over a period of time. Climate change, pattern \nmigration, the rise of populist forces, and the ongoing  threat of terrorism fall into \nthis category. These are more foreseeable than  exogenous risks, but with their \nextended interval of exposure, planned responses  likely require continual \nadjustments. \n \n11. C is c orrect. The International Monetary Fund has the ability to lend foreign \ncurrencies to a country with an extreme current account deficit. \n \n12. B is c orrect because bilateralism is characterized by nationalism/anti -globalization \nand cooperation. \n \n13. C is c orrect because for countries, regions, or sectors perceived to be at more \nconsistent risk of geopolitical disruption, investors may require higher compensation, \neffectively increasing the discount rate investors use when valuing those securities. \nPortfolio investment flows face greater volatility due to geopolitical factors, and \ninvestors will factor in a higher risk premium. \n \n14. B is c orrect because multilateral trade agreements, such as the World Trade \nOrganization (WTO), are a tool of geopolitics that is consistent with globalization and \ncooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "be5894a8-98f4-4311-aa84-15a88c07e656",
+              "itemBody": "<p>A. exogenous risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "b5e01ca5-24ec-4fc9-b301-24dd813854a7",
+              "itemBody": "<p>B. event risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "7a3b773c-e783-40aa-bf38-30bfbb0a67c9",
+              "itemBody": "<p>C. thematic risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b5e01ca5-24ec-4fc9-b301-24dd813854a7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-11",
+      "entry": {
+        "title": "2027-Mod92-Q11",
+        "itemBody": "<p>With respect to motivations for globalization, which of the following \nis best characterized as an intrinsic gain?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because intrinsic gain is a side effect or consequence of an activity that \ngenerates a benefit beyond profit itself. It is difficult to measure but contributes \nto globalization's momentum. It can also be a stabilizing force, increasing empathy \nbetween actors and reducing the likelihood that a geopolitical threat is levied. One \nexample of intrinsic gain is the accelerated productivity from learning new methods.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c48ab8d2-c8e8-4e66-aa26-2e2ff4247a92",
+              "itemBody": "<p>A. Increased supply chain efficiency</p>",
+              "position": 1
+            },
+            {
+              "id": "baa81c06-da01-4d0b-8f92-0251232df68f",
+              "itemBody": "<p>B. Accelerated productivity from learning new methods</p>",
+              "position": 2
+            },
+            {
+              "id": "34f559b7-de96-4e04-acd7-395e4fe0d788",
+              "itemBody": "<p>C. Access to resources that are not readily available in the home country</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "baa81c06-da01-4d0b-8f92-0251232df68f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-12",
+      "entry": {
+        "title": "2027-Mod92-Q12",
+        "itemBody": "<p>Which of the following organizations was founded with the goal of \nassisting in the reconstruction of the international payment system?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IMF was founded with the goal to stabilize exchange rates and \nassist the reconstruction of the world’s international payment system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "afd6409c-6089-4667-8b64-d9d41383b7b9",
+              "itemBody": "<p>A. The World Trade Organization</p>",
+              "position": 1
+            },
+            {
+              "id": "c34f4447-7cfb-4ede-9474-c58114ff507e",
+              "itemBody": "<p>B. The International Monetary Fund</p>",
+              "position": 2
+            },
+            {
+              "id": "8d659563-9e8b-4bf6-9b6b-a1a8bdd1ab82",
+              "itemBody": "<p>C. The International Bank for Reconstruction and Development</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c34f4447-7cfb-4ede-9474-c58114ff507e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-13",
+      "entry": {
+        "title": "2027-Mod92-Q13",
+        "itemBody": "<p>Which of the following behavioral archetypes best describes a country \nthat is high on the globalization spectrum but low on the cooperation spectrum?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because using the two axes we have discussed —political cooperation \nversus non-cooperation and globalization versus nationalism—investment analysts can \nassess geopolitical actors and the likelihood of threat to investment outcomes. \nSpecifically, there are four archetypes of country behaviour: autarky, hegemony, \nmultilateralism, and bilateralism, where hegemony is situated low on the cooperation \nspectrum and high on the globalization spectrum. Hegemonic countries tend to be \nregional or even global leaders, and they use their political or economic influence of \nothers to control resources. State -owned enterprises tend to control key export \nmarkets. Examples of hegemonic countries include the United States and Russia.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9baafd5-5508-45cc-942c-75f9e6627749",
+              "itemBody": "<p>A. Autarky</p>",
+              "position": 1
+            },
+            {
+              "id": "81a519ee-68ec-4859-be36-edd17689f129",
+              "itemBody": "<p>B. Hegemony</p>",
+              "position": 2
+            },
+            {
+              "id": "77e884d3-296e-45d8-9c45-e72a3db625d7",
+              "itemBody": "<p>C. Bilateralism</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "81a519ee-68ec-4859-be36-edd17689f129"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-14",
+      "entry": {
+        "title": "2027-Mod92-Q14",
+        "itemBody": "<p>With respect to geopolitics, setting standards for the size and shape of \ncontainers used for shipping is most likely an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because an example of operational synchronization is standards set for \ncontainers of uniform size and shape using multi-modal forms of transport (land, sea, \nair, rail) and port cranes. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2021b42b-785a-4341-b827-0373d60ec61c",
+              "itemBody": "<p>A. regulatory cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "2d74609b-d65f-4cec-9b4f-52fbb7649fd2",
+              "itemBody": "<p>B. process standardization.</p>",
+              "position": 2
+            },
+            {
+              "id": "bb9df9d8-80c8-4ef2-b746-b21cb506ff87",
+              "itemBody": "<p>C. operational synchronization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bb9df9d8-80c8-4ef2-b746-b21cb506ff87"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-15",
+      "entry": {
+        "title": "2027-Mod92-Q15",
+        "itemBody": "<p>Which of the following would most likely lead to an increase in \nglobalization? A decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because globalization is marked by economic and financial cooperation, \nincluding the active trade of goods and services, capital flows, currency exchange, \nand cultural and information exchange. Actors participating in globalization are likely \nto reach beyond their national borders for access to new markets, talent, or learning. \nBy contrast, anti -globalization or nationalism is the promotion of a country’s own \neconomic interests to the exclusion or detriment of the interests of other nations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e4af710d-f91b-42db-91fd-d69dbc8263f0",
+              "itemBody": "<p>A. soft power.</p>",
+              "position": 1
+            },
+            {
+              "id": "25107b1f-bdd7-4aa4-9ba5-29c6e164bfd8",
+              "itemBody": "<p>B. nationalism.</p>",
+              "position": 2
+            },
+            {
+              "id": "bc673588-087d-45c8-8cb8-e644021c98df",
+              "itemBody": "<p>C. standardization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "25107b1f-bdd7-4aa4-9ba5-29c6e164bfd8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-16",
+      "entry": {
+        "title": "2027-Mod92-Q16",
+        "itemBody": "<p>Which of the following changes are investors most likely to make in \nresponse to a black swan risk?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the velocity of geopolitical risk is the pace at which it impacts \nan investor portfolio. For the sake of simplicity, we explore short -term or 'high \nvelocity' impacts, medium-term, and long-term or 'low velocity' impacts [...]. In the \nshort term, we may see volatility in the markets affecting entire industries or even \nthe entire market. Exogenous or 'black swan' events tend to fit into this category, \ncausing market volatility and investor flight to quality. A black swan risk is an event \nthat is rare and difficult to predict but has an important impact. Investors with the \nappropriate time horizon and risk tolerance may make tactical changes to their \ninvestment choices as a result of these events. Long-term changes are unlikely to be \nnecessary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d01e218c-5cc2-47cd-9443-c47ccb4f269f",
+              "itemBody": "<p>A. Tactical.</p>",
+              "position": 1
+            },
+            {
+              "id": "09dc5d39-e0f6-4d42-b261-6f92104f9cf1",
+              "itemBody": "<p>B. Sector specific.</p>",
+              "position": 2
+            },
+            {
+              "id": "b57b0fc1-4cdc-4243-8b80-e24f1977b143",
+              "itemBody": "<p>C. Asset allocation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d01e218c-5cc2-47cd-9443-c47ccb4f269f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-17",
+      "entry": {
+        "title": "2027-Mod92-Q17",
+        "itemBody": "<p>Cyber threats most likely fall into the category of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because cyber threats are another example of thematic risk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4d9a9a01-fc74-4332-b1f2-3dd51e820a05",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "32c5a654-9148-4ad8-adcd-f818bd9b1e30",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "ccba09c3-453d-498a-87ac-c923d715b804",
+              "itemBody": "<p>C. exogenous risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "32c5a654-9148-4ad8-adcd-f818bd9b1e30"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-18",
+      "entry": {
+        "title": "2027-Mod92-Q18",
+        "itemBody": "<p>Natural disasters are an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because exogenous risk is a sudden or unanticipated risk that impacts \neither a country’s cooperative stance, the ability of non-state actors to globalize, or \nboth. Examples include sudden uprisings, invasions, or the aftermath of natural \ndisasters.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ca081043-e5da-4ba4-82f6-f4b3eaada743",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "5150a8ba-1f19-45b2-bad3-ec2ccbfbd5b2",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "498c2613-8976-4516-a1d0-fe91ba32dc32",
+              "itemBody": "<p>C. exogenous risk. \nIntroduction to Geopolitics \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "498c2613-8976-4516-a1d0-fe91ba32dc32"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-19",
+      "entry": {
+        "title": "2027-Mod92-Q19",
+        "itemBody": "<p>Which of the following is most likely a benefit of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the opportunity to generate higher profits may motivate \ncompanies to globalize. The first way to generate profit is to increase sales. \nCompanies may choose to engage in globalization in order to access new customers \nfor their goods and  services. Another way to increase profits is to reduce costs. \nGlobalization allows companies to access lower tax -operating environments, reduce \nlabor costs, or seek other supply chain efficiency gains.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "785485ee-c08e-4898-9f77-a4821cd641f9",
+              "itemBody": "<p>A. Increased profits</p>",
+              "position": 1
+            },
+            {
+              "id": "0455ec92-b4bd-4b8e-8bc2-fa19e8c6505e",
+              "itemBody": "<p>B. More equal income distribution</p>",
+              "position": 2
+            },
+            {
+              "id": "9efc46c7-f4bb-43e8-8b9b-ee6a42042c8f",
+              "itemBody": "<p>C. Stronger environmental, social, and governance standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "785485ee-c08e-4898-9f77-a4821cd641f9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-20",
+      "entry": {
+        "title": "2027-Mod92-Q20",
+        "itemBody": "<p>The main objective of the World Bank Group is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the World Bank's main objective is to help developing countries \nfight poverty and enhance environmentally sound economic growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de795b11-d46c-48a7-a885-e159720e923a",
+              "itemBody": "<p>A. support exchange rate stability and an open system of international payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "20cee66d-5559-4813-8070-bb10a5e2b804",
+              "itemBody": "<p>B. provide the legal and institutional foundation of the multinational trading \nsystem.</p>",
+              "position": 2
+            },
+            {
+              "id": "cc87e259-35be-418b-8527-1a047bbbc2bf",
+              "itemBody": "<p>C. help developing countries fight poverty and enhance environmentally sound \neconomic growth.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cc87e259-35be-418b-8527-1a047bbbc2bf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-21",
+      "entry": {
+        "title": "2027-Mod92-Q21",
+        "itemBody": "<p>A nation that cooperates with a neighboring country is most \nlikely characterized as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because bilateralism is the conduct of political, economic, financial, or \ncultural cooperation between two countries. Countries engaging in bilateralism may \nhave relations with many different countries, but they are one-at-a-time agreements \nwithout multiple partners.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb5bd98c-16b6-460a-b0c3-79f85737da7b",
+              "itemBody": "<p>A. autarkic.</p>",
+              "position": 1
+            },
+            {
+              "id": "2cb7450c-b5a2-496f-9add-f7afcbce92b1",
+              "itemBody": "<p>B. bilateral.</p>",
+              "position": 2
+            },
+            {
+              "id": "99ba2cd4-0850-461f-9cb5-d8422419426f",
+              "itemBody": "<p>C. hegemonic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2cb7450c-b5a2-496f-9add-f7afcbce92b1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-92-22",
+      "entry": {
+        "title": "2027-Mod92-Q22",
+        "itemBody": "<p>Which of the following is most likely a motivation for globalization?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because non-state actors, such as companies and investors, who choose \nto participate in globalization consider three potential gains, including: intrinsic gain. \nOne example of intrinsic gain is the personal growth or education that individuals may \nreceive from expanding their horizons, experiencing new places, or learning new ideas.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65be123f-4a1a-4b1d-919b-8afa3f939a37",
+              "itemBody": "<p>A. Increasing interdependence of supply chains</p>",
+              "position": 1
+            },
+            {
+              "id": "3faf161d-ac22-4dbd-8dcb-61faaf936135",
+              "itemBody": "<p>B. Personal growth by expanding personal horizons</p>",
+              "position": 2
+            },
+            {
+              "id": "3fc9f92f-75ba-4f94-b85d-a9cd92c59ab0",
+              "itemBody": "<p>C. Creating jobs in a new country and reducing them at home \n \n \nSUMMARY: - \n \n(LOS 16.a): – 1, 25 \n(LOS 16.b): – 2, 3, 12, 15, 17, 19, 23, 26 \n(LOS 16.c): – 11, 16, 24 \n(LOS 16.d): – 6, 7, 9, 10, 21, 22 \n(LOS 16.e): – 4, 5, 14, 18 \n(LOS 16.f): – 8, 13, 20 \n \n \n \n \n \n \n \n \n \n \n \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3faf161d-ac22-4dbd-8dcb-61faaf936135"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}

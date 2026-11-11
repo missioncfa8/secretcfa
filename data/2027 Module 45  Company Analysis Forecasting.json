@@ -1,0 +1,2303 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6284,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 47,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 7: Company Analysis: Forecasting",
+    "topic_id": 1035,
+    "topic": "CFA-26-02-LI-C: Equity",
+    "subtopic_id": 6284,
+    "subtopic": "Module 7: Company Analysis: Forecasting",
+    "question_count": 47,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 851,
+        "name": "Warehouse Course: Equity 26-LI",
+        "code": "Warehouse Course: Equity 26-LI",
+        "module_id": 4461,
+        "question_count": 8,
+        "type": "warehouse"
+      },
+      {
+        "id": 842,
+        "name": "Practice Pack Warehouse: Equity 26-LI",
+        "code": "Practice Pack Warehouse: Equity 26-LI",
+        "module_id": 4678,
+        "question_count": 5,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      ""
+    ],
+    "points_possible": 47.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "18f6aa97761d3e9f",
+    "ordered_item_ids": [
+      "54982",
+      "54983",
+      "54984",
+      "54985",
+      "54986",
+      "53305",
+      "53306",
+      "53307",
+      "53308",
+      "53309",
+      "53310",
+      "53311",
+      "53312"
+    ],
+    "visible_item_ids": [
+      "54982",
+      "54983",
+      "54984",
+      "54985",
+      "54986",
+      "53305",
+      "53306",
+      "53307",
+      "53308",
+      "53309",
+      "53310",
+      "53311",
+      "53312"
+    ]
+  },
+  "items": [
+    {
+      "id": "54982",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-Equity-Hung-05",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements about forecasting selling, general and administrative (SG&amp;A) expenses is <i>most</i> accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e16b70ca-85ae-4590-9d86-362cf381e8d2"
+        },
+        "answerFeedback": {
+          "060d88af-216f-4cb2-8d8c-a04f5879492b": "<p>Incorrect because general corporate costs are more fixed costs&nbsp;and might be better modeled using a fixed growth rate based on expected wage inflation.</p>",
+          "e16b70ca-85ae-4590-9d86-362cf381e8d2": "<p>Correct because selling and distribution expenses often have a large variable component and can be modeled as a percentage of sales.</p>",
+          "f1c1071d-6017-4814-821d-e4f7384f2e2f": "<p>Incorrect because cost of sales (cost of goods sold, or COGS) is typically the single largest cost for companies that make and/or sell products. Because it has a direct link with sales, forecasting this item as a percentage of sales (or as a gross margin) is usually a good approach. SG&amp;A expenses often have a less direct relationship with revenues. Although SG&amp;A expenses overall are generally less closely linked to revenue than is cost of sales, certain SG&amp;A expenses could be more variable than others.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "060d88af-216f-4cb2-8d8c-a04f5879492b",
+              "itemBody": "<p>A. General corporate costs are mostly variable costs</p>",
+              "position": 1
+            },
+            {
+              "id": "e16b70ca-85ae-4590-9d86-362cf381e8d2",
+              "itemBody": "<p>B. Selling and distribution expenses can be modeled as a percentage of sales</p>",
+              "position": 2
+            },
+            {
+              "id": "f1c1071d-6017-4814-821d-e4f7384f2e2f",
+              "itemBody": "<p>C. Overall SG&amp;A expenses have a more direct relationship with revenues than cost of goods sold</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8854,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 842,
+      "sourceModuleId": 4678,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54983",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-Equity-Hung-09",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements about scenario analysis is <i>most</i> accurate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "029572ea-3b0c-4811-8a92-c3be2e9b1980"
+        },
+        "answerFeedback": {
+          "029572ea-3b0c-4811-8a92-c3be2e9b1980": "<p>Correct because investors compare these scenarios with other analysts’ (e.g., sell-side analysts) forecasts for a company, as well as forecasts implied by current valuations, to make investment decisions.</p>",
+          "02c49261-daf6-4937-a469-bcd3c6419e5b": "<p>Incorrect because the final step in forecasting involves incorporating the possibility of different outcomes based on key risk factors as well as judging their likelihood of occurrence. Generic risk factors that affect all companies—but to varying degrees— include changes in the business cycle, competition, inflation and deflation, and technological developments.</p>",
+          "7af88e84-c163-4cdd-b45c-61e403e527cd": "<p>Incorrect because rather than develop single point estimate forecasts, analysts make several forecast scenarios that vary based on different outcomes with respect of key risk factors.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7af88e84-c163-4cdd-b45c-61e403e527cd",
+              "itemBody": "<p>A. Scenario analysis provides a point estimate forecast</p>",
+              "position": 1
+            },
+            {
+              "id": "029572ea-3b0c-4811-8a92-c3be2e9b1980",
+              "itemBody": "<p>B. Forecast scenarios can be compared to forecasts implied by current valuations</p>",
+              "position": 2
+            },
+            {
+              "id": "02c49261-daf6-4937-a469-bcd3c6419e5b",
+              "itemBody": "<p>C. Generic risk factors in scenario analysis are assumed to affect all companies in the same way</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8854,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 842,
+      "sourceModuleId": 4678,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54984",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-Equity-Young-01",
+        "feedback": {},
+        "itemBody": "<p>Which financial statement forecasting approach is <i>best </i>suited for companies in highly cyclical industries?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7aa561a0-23ce-4d51-99ed-b09f141cdd5b"
+        },
+        "answerFeedback": {
+          "0a41bc56-1b69-4d3c-820c-108d7011291f": "<p>Incorrect because management does not have an informational advantage over investors at forecasting macroeconomic variables. Using guidance for forecasts is appropriate when it is provided and when management has demonstrated a track record of reliable estimates (analysts should analyze past guidance versus actuals). We caution against the use of guidance for companies that are highly sensitive to the business cycle, as management does not have an informational advantage over investors at forecasting macroeconomic variables like GDP or the prices of commodities.</p>",
+          "7aa561a0-23ce-4d51-99ed-b09f141cdd5b": "<p>Correct because analyst’s discretionary forecasts include those based on surveys, quantitative models, probability distributions, analogies to historical precedents that differ from comparable companies or industry averages, and other unobservable inputs. This approach is most common for companies in cyclical industries, companies that have no or few comparables, those that do not provide management guidance, and/or those undergoing a fundamental change like a shift in the competitive or regulatory environment.</p>",
+          "f0885316-8804-4bbd-b4d9-df9f902e6960": "<p>Incorrect because historical results are best suited for companies' relative insensitivity to changes in macroeconomic factors. Using historical results may be appropriate for companies operating in industries where the analyst does not expect the industry structure (e.g., Porter’s Five Forces, PESTLE influences) to change, as well as for companies that have a low sensitivity to changes in the business cycle.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f0885316-8804-4bbd-b4d9-df9f902e6960",
+              "itemBody": "<p>A. Historical results</p>",
+              "position": 1
+            },
+            {
+              "id": "0a41bc56-1b69-4d3c-820c-108d7011291f",
+              "itemBody": "<p>B. Management guidance</p>",
+              "position": 2
+            },
+            {
+              "id": "7aa561a0-23ce-4d51-99ed-b09f141cdd5b",
+              "itemBody": "<p>C. Analyst's discretionary forecasts</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8854,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 842,
+      "sourceModuleId": 4678,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54985",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-Equity-Glover-03",
+        "feedback": {},
+        "itemBody": "<p>Which of the following forecast objects for a bank's revenue is <i>best</i> classified as a top-down driver?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e2f06d2a-bdb0-4c18-a954-a77632443c69"
+        },
+        "answerFeedback": {
+          "2b659c3d-c281-472e-82c2-7ceca8ebcc5a": "<p>Incorrect because examples of bottom-up drivers for revenue forecasts include c<i>apacity-based measures</i>. Forecasts, for example, in retailing, based on the&nbsp;number of stores and sales per store. In the banking context, the number of branches, and the growth thereof, may be considered a capacity-based measure.</p>",
+          "e2f06d2a-bdb0-4c18-a954-a77632443c69": "<p>Correct because forecast objects for revenues are typically either top-down or bottom-up drivers. Common top-down forecast&nbsp;objects include 'growth relative to GDP&nbsp;growth'&nbsp;and 'market growth and market share. The analyst first forecasts a growth rate for a&nbsp;company's product market, and then considers the company's current market share&nbsp;and how that share is likely to change over time.</p>",
+          "ffb9a56f-4ccd-452a-97fa-454796b4436e": "<p>Incorrect because examples of bottom-up drivers for revenue forecasts include r<i>eturn- or yield-based measures</i>. Forecasts based on account balances and revenue yields on them. For example, net interest income for a bank can be calculated as loans multiplied by the average interest rate minus the product of deposits and liabilities and their average interest rate.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ffb9a56f-4ccd-452a-97fa-454796b4436e",
+              "itemBody": "<p>A. Net interest income</p>",
+              "position": 1
+            },
+            {
+              "id": "e2f06d2a-bdb0-4c18-a954-a77632443c69",
+              "itemBody": "<p>B. Growth in market share</p>",
+              "position": 2
+            },
+            {
+              "id": "2b659c3d-c281-472e-82c2-7ceca8ebcc5a",
+              "itemBody": "<p>C. Growth in the number of branches</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8854,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 842,
+      "sourceModuleId": 4678,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54986",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-Equity-Glover-08",
+        "feedback": {},
+        "itemBody": "<p>Depreciation expense is <i>best </i>used in forecasting:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465"
+        },
+        "answerFeedback": {
+          "1b4c167c-0966-46d9-9404-99e9499da512": "<p>Incorrect because&nbsp;depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.&nbsp;Growth capital expenditure forecasts are more discretionary and are tied&nbsp;to management's expansion plans and revenue growth.&nbsp;Therefore, it is unlikely that depreciation expense will be used when forecasting this&nbsp;growth capital expenditure.</p>",
+          "5ef3cf4b-bc8e-4fb9-8702-2a29d9e3ad11": "<p>Incorrect because&nbsp;depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.&nbsp;Growth capital expenditure forecasts are more discretionary and are tied&nbsp;to management's expansion plans and revenue growth.&nbsp;Therefore, it is unlikely that depreciation expense will be used when forecasting this&nbsp;item.</p>",
+          "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465": "<p>Correct because depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5ef3cf4b-bc8e-4fb9-8702-2a29d9e3ad11",
+              "itemBody": "<p>A. growth capital expenditure only.</p>",
+              "position": 1
+            },
+            {
+              "id": "669e1f0c-52f3-46a5-b9e7-0e17bd9e9465",
+              "itemBody": "<p>B. maintenance capital expenditure only.</p>",
+              "position": 2
+            },
+            {
+              "id": "1b4c167c-0966-46d9-9404-99e9499da512",
+              "itemBody": "<p>C. both growth capital expenditure and maintenance capital expenditure.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8854,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 842,
+      "sourceModuleId": 4678,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53305",
+      "entry": {
+        "title": "CFA2429-R-s06-Q8",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Forecast objects should either be disclosed regularly or be directly calculable using what is disclosed regularly. Information that is <em>not</em> disclosed regularly (such as a third-party consultancy’s report) is suitable to <em>inform</em> forecasts but can be problematic for direct use, because forecasts cannot be confirmed in a timely manner. While it may be intuitive to forecast individual discrete items, such as sales and gross margin by individual product line, if gross margin is disclosed only on a consolidated basis, it will be difficult for analysts to verify their product-line gross margin estimates.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Forecast objects should be:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "dba75d35-2f98-48ea-acf6-471d0b980cb3"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8c54fe25-208a-4e34-a226-7a36ed7eaf27",
+              "itemBody": "A. based on independent third-party reports.",
+              "position": 1
+            },
+            {
+              "id": "27d9b594-c75c-4341-bc23-22623878c49e",
+              "itemBody": "B. based on individual discrete items, not aggregations.",
+              "position": 2
+            },
+            {
+              "id": "dba75d35-2f98-48ea-acf6-471d0b980cb3",
+              "itemBody": "C. disclosed regularly or based on items that are disclosed regularly.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53306",
+      "entry": {
+        "title": "CFA2429-R-s06-Q9",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Management has an advantage at the firm level and tends to make more accurate forecasts for objects that are subject to management actions, such as capital expenditures. Management does <em>not</em> have an informational advantage over investors in forecasting macroeconomic variables, such as GDP, the business cycle, or the prices of commodities. Hutton et al. (2012) found that investors have an informational advantage over management at the macroeconomic level.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Management guidance is <em>most</em> appropriately used by analysts in forecasting:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bacdd80e-e311-4286-8144-ff756ff561dc"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bacdd80e-e311-4286-8144-ff756ff561dc",
+              "itemBody": "A. capital expenditures of a company.",
+              "position": 1
+            },
+            {
+              "id": "ada230b8-d6c0-472b-9a01-4778487d7808",
+              "itemBody": "B. pricing of commodities sold by a company.",
+              "position": 2
+            },
+            {
+              "id": "bf142e57-71f6-4c3a-8461-d1e13a3000ba",
+              "itemBody": "C. revenue of a company sensitive to the business cycle.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53307",
+      "entry": {
+        "title": "CFA2429-R-s06-Q10",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Market share of routes is a top-down driver of revenues and can be used to estimate an airline’s market share. The number of planes in fleet and the average ticket price per mile flown are bottom-up drivers of revenues.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following is an example of a top-down driver of revenues for a passenger airline?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e8cdc358-04f5-41be-9d89-64ffd4ca7761"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e8cdc358-04f5-41be-9d89-64ffd4ca7761",
+              "itemBody": "A. Market share of routes",
+              "position": 1
+            },
+            {
+              "id": "f4a73fe8-c5f8-43f2-bbbe-4a60ae8a57bf",
+              "itemBody": "B. Number of planes in fleet",
+              "position": 2
+            },
+            {
+              "id": "d162330c-1e54-4f68-ac7e-2fa3dafb09f4",
+              "itemBody": "C. Average ticket price per mile flown",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53308",
+      "entry": {
+        "title": "CFA2429-R-s06-Q11",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Management has a tendency to pad its guidance to make it easier to achieve the forecast results for which management will be rewarded. Management does not have an informational advantage at the macroeconomic level.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An analyst forecasts a company’s sales using a historical results approach and top-down drivers (expected industry sales and expected market share). The analyst observes that the forecast is within the range of management guidance on sales but is toward the upper end and not closer to the midpoint. Which of the following is the <em>most likely</em> explanation for this observation?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "449043fe-bf8d-49e0-b144-615b36d3f170"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "587ed955-3cfd-42e5-b32d-f54196b86eba",
+              "itemBody": "A. The analyst has been overly optimistic in estimating the company’s expected market share.",
+              "position": 1
+            },
+            {
+              "id": "449043fe-bf8d-49e0-b144-615b36d3f170",
+              "itemBody": "B. Management’s true expectations are toward the upper end, but management has created a range using a pessimistic lower bound that is more easily cleared.",
+              "position": 2
+            },
+            {
+              "id": "59512bb9-e496-4a69-8925-ec61a9c559c6",
+              "itemBody": "C. The midpoint represents management’s true expectations, and management has a lower and better estimate of market growth based on macroeconomic variables.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53309",
+      "entry": {
+        "title": "CFA2429-R-s06-Q12",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Historical results is least appropriate, because the company has changed its competitive strategy. Analyst’s discretionary forecast may be appropriate, because the company is undergoing a fundamental change. The company is growing and may be transitioning to be more like the industry, in which case historical base rates and convergence may be an appropriate approach.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A clothing company, which initially produced designer clothing, has increasingly entered into the mass market. Which of the following approaches to forecasting revenues is <em>least</em> appropriate?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "545f4044-89f4-48cd-9a34-35253f485083"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "545f4044-89f4-48cd-9a34-35253f485083",
+              "itemBody": "A. Historical results",
+              "position": 1
+            },
+            {
+              "id": "66aa35ad-9ac3-4fe8-b887-4742a26b1943",
+              "itemBody": "B. Analyst’s discretionary forecast",
+              "position": 2
+            },
+            {
+              "id": "28682704-cbb1-4363-a151-693385882ebb",
+              "itemBody": "C. Historical base rates and convergence",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53310",
+      "entry": {
+        "title": "CFA2429-R-s06-Q13",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Management has an advantage in forecasting for objects that are subject to its actions (such as capital expenditures and inventories, which affect fixed costs). The analyst is likely to have an informational advantage when it comes to forecasting economic conditions and commodity prices, which affect revenues and variable costs.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An analyst is forecasting operating costs for a company with relatively high fixed costs, sensitivity to economic conditions, and commodity inputs with volatile pricing. The company does not follow a hedging strategy for commodity purchases but tries to buy when prices are low. Which of the following is <em>most</em> appropriate to use in forecasting operating costs? The analyst uses:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e91b7ebd-b50d-4f6f-b673-a0b60315f3c8"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8b42ebc8-4fff-4da8-a3a7-ff2844f83633",
+              "itemBody": "A. analyst discretion to forecast all operating costs.",
+              "position": 1
+            },
+            {
+              "id": "2d7fc52f-945e-40f9-aaf8-80ff3cc97e0a",
+              "itemBody": "B. management guidance to forecast all operating costs.",
+              "position": 2
+            },
+            {
+              "id": "e91b7ebd-b50d-4f6f-b673-a0b60315f3c8",
+              "itemBody": "C. management guidance to forecast fixed operating costs and analyst discretion to forecast variable operating costs.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53311",
+      "entry": {
+        "title": "CFA2429-R-s06-Q14",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Based on the company’s spending pattern, it most likely makes capital expenditures based on capacity needs as it grows. If it is approaching full usage of existing capacity, it will expand.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An analyst notes that a company’s capital expenditures do not follow a discernible pattern; the company seems to have periods of very low capital expenditures and periods of high capital expenditures. Management does not provide any guidance on capital expenditures. The analyst should develop a forecast of capital expenditures based on:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "becd4694-1aae-41fa-8c04-25537ea115bf"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "becd4694-1aae-41fa-8c04-25537ea115bf",
+              "itemBody": "A. the company’s usage of PP&amp;E capacity.",
+              "position": 1
+            },
+            {
+              "id": "3d37ef21-0a63-45e0-9b47-3f7fcd5ac203",
+              "itemBody": "B. the industry’s average capital expenditures.",
+              "position": 2
+            },
+            {
+              "id": "7e4c8e1e-c280-4b9e-ab80-8f063f193c25",
+              "itemBody": "C. the company’s average capital expenditures.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53312",
+      "entry": {
+        "title": "CFA2429-R-s06-Q15",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct.</p>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___15\">Sales = 100(0.95)(1.08) = 102.6</div>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___16\">Cost of sales = 60(0.85)(1.08) = 55.1</div>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___17\">Gross profit = 102.2 − 55.1 = 47.5</div>\n            <div style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\" id=\"CFA2429-R-s06-E___18\">Gross profit margin = 47.5/102.6 = 46.3%</div>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An analyst predicts that if a company’s technological developments are a success, the company’s operating costs <span>(specifically COGS)</span> will be reduced by 15%. As a result of the reduction in costs, the company will reduce the average selling price of its products by 5% and the volume of sales will increase by 8%. The company’s current gross profit margin is 40%. If technological developments occur, the company’s gross profit margin will be <em>closest</em> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7b47cdd8-c3b5-4e7b-a9a5-835262ecfda1"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4e2de25c-a90d-48a4-a5d4-1a145d11bb55",
+              "itemBody": "A. 44.8%.",
+              "position": 1
+            },
+            {
+              "id": "7b47cdd8-c3b5-4e7b-a9a5-835262ecfda1",
+              "itemBody": "B. 46.3%.",
+              "position": 2
+            },
+            {
+              "id": "cd00290a-c588-4609-b79c-dd05dea196c3",
+              "itemBody": "C. 47.5%.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8514,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 851,
+      "sourceModuleId": 4461,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-45-1",
+      "entry": {
+        "title": "2027-Mod45-Q1",
+        "itemBody": "<p>Ratios are an input into which step in the financial statement analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Ratios are an output of the process information step but are an input  \ninto the analyze/interpret data step.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d20eec30-6e8b-4844-b9c7-522531493d0b",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "ad93b782-88fe-43a2-a717-69da75e1cc21",
+              "itemBody": "<p>B. Collect input data</p>",
+              "position": 2
+            },
+            {
+              "id": "720b50dd-4760-40fe-9592-d00417e051ad",
+              "itemBody": "<p>C. Analyze/interpret the processed data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "720b50dd-4760-40fe-9592-d00417e051ad"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-2",
+      "entry": {
+        "title": "2027-Mod45-Q2",
+        "itemBody": "<p>Which phase in the financial statement analysis framework is most likely to involve  \nproducing updated reports and recommendations?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The follow -up phase involves gathering information and repeating  the \nanalysis to determine whether it is necessary to update reports and  \nrecommendations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dacb798c-e643-47a7-8c28-26a06bf59507",
+              "itemBody": "<p>A. Follow-up</p>",
+              "position": 1
+            },
+            {
+              "id": "4d2072f2-bcd9-4ddd-8c03-e9260a03abb2",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "7b37289e-3dac-4a36-918d-edd7b837d145",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "dacb798c-e643-47a7-8c28-26a06bf59507"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-3",
+      "entry": {
+        "title": "2027-Mod45-Q3",
+        "itemBody": "<p>Which of the following best describes the role of financial statement analysis?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. In general, analysts seek to examine the past and current performance \nand financial position of a company to form expectations about its future  \nperformance and financial position.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c52c8f1d-e2b8-49ad-996f-69d80cba554a",
+              "itemBody": "<p>A. To provide information about a company’s performance</p>",
+              "position": 1
+            },
+            {
+              "id": "aed33159-6b5f-4215-9698-72514c2814e1",
+              "itemBody": "<p>B. To provide information about a company’s changes in financial position</p>",
+              "position": 2
+            },
+            {
+              "id": "0361fe1b-6d4b-4274-b76b-5e7ca1a2348e",
+              "itemBody": "<p>C. To form expectations about a company’s future performance and financial position</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0361fe1b-6d4b-4274-b76b-5e7ca1a2348e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-4",
+      "entry": {
+        "title": "2027-Mod45-Q4",
+        "itemBody": "<p>The primary role of financial statement analysis is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The primary role of financial statement analysis is to use financial  \nreports prepared by companies to evaluate their past, current, and potential  \nperformance and financial position for the purpose of making investment, credit, and \nother economic decisions.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "59d9a5a8-7249-4d3e-a311-ddd22e503b8c",
+              "itemBody": "<p>A. providing information useful for making investment decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "af1595a2-1d8e-496e-aa17-39a14b824e3b",
+              "itemBody": "<p>B. evaluating a company for the purpose of making economic decisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "e8febe3f-d265-4d2d-96ad-d63c2c5b46a7",
+              "itemBody": "<p>C. using financial reports prepared by analysts to make economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "af1595a2-1d8e-496e-aa17-39a14b824e3b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-5",
+      "entry": {
+        "title": "2027-Mod45-Q5",
+        "itemBody": "<p>International Financial Reporting Standards are currently developed by which entity?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The International Accounting Standards Board (IASB) is currently  \ncharged with developing International Financial Reporting Standards.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "309e6673-d964-470f-8fb0-a9f47a14adb2",
+              "itemBody": "<p>A. IFRS Foundation</p>",
+              "position": 1
+            },
+            {
+              "id": "397a9eef-9c8a-4733-86c3-c45f45bd07a4",
+              "itemBody": "<p>B. International Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "058edc39-aaf5-4614-b2b8-d3c5346b2feb",
+              "itemBody": "<p>C. International Organization of Securities Commissions</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "397a9eef-9c8a-4733-86c3-c45f45bd07a4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-6",
+      "entry": {
+        "title": "2027-Mod45-Q6",
+        "itemBody": "<p>US GAAP are currently developed by which entity?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. US Generally Accepted Accounting Principles are developed by the  US \nFinancial Accounting Standards Board (FASB).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aa2b06fe-28bd-48e5-9883-e18a768764cf",
+              "itemBody": "<p>A. Securities and Exchange Commission</p>",
+              "position": 1
+            },
+            {
+              "id": "82893914-2abf-4f08-bdf5-84947893a116",
+              "itemBody": "<p>B. Financial Accounting Standards Board</p>",
+              "position": 2
+            },
+            {
+              "id": "b8af2f1d-8f03-4028-b99f-435e1fee9b67",
+              "itemBody": "<p>C. Public Company Accounting Oversight Board</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "82893914-2abf-4f08-bdf5-84947893a116"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-7",
+      "entry": {
+        "title": "2027-Mod45-Q7",
+        "itemBody": "<p>A core objective of the International Organization of Securities Commissions is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, \nand transparent. The other core objectives are to reduce, not eliminate,  systemic \nrisk and to protect investors, not all users of financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9e0d5d20-b7fb-47be-a8e2-2ef3ea4ddad0",
+              "itemBody": "<p>A. eliminate systemic risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "5121abbd-fd80-407c-b397-2e75929544ed",
+              "itemBody": "<p>B. protect users of financial statements.</p>",
+              "position": 2
+            },
+            {
+              "id": "aae589c6-ea96-4417-b518-7e1f776544e6",
+              "itemBody": "<p>C. ensure that markets are fair, efficient, and transparent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aae589c6-ea96-4417-b518-7e1f776544e6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-8",
+      "entry": {
+        "title": "2027-Mod45-Q8",
+        "itemBody": "<p>Which of the following best describes why the notes that accompany the  financial \nstatements are required? The notes:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The notes provide information that is essential to understanding the  \ninformation provided in the primary statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c0535164-e384-49a1-a578-f869b2629229",
+              "itemBody": "<p>A. permit flexibility in statement preparation.</p>",
+              "position": 1
+            },
+            {
+              "id": "406a9ac7-4d7e-4139-9c77-6bb9af5ef7a0",
+              "itemBody": "<p>B. standardize financial reporting across companies.</p>",
+              "position": 2
+            },
+            {
+              "id": "655bc4af-a9ce-43f6-8a15-d1b3f5e56792",
+              "itemBody": "<p>C. provide information necessary to understand the financial statements. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "655bc4af-a9ce-43f6-8a15-d1b3f5e56792"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-9",
+      "entry": {
+        "title": "2027-Mod45-Q9",
+        "itemBody": "<p>Accounting policies, methods, and estimates used in preparing financial statements  \nare most likely to be found in the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The notes disclose choices in accounting policies, methods, and  \nestimates.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a0020dc9-189f-4be8-adae-d965f3938100",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "8d7845d8-137d-4cac-ba8d-3dbc536095a6",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "cea95c66-48ef-4a72-9f6e-abd60d1bfb4c",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cea95c66-48ef-4a72-9f6e-abd60d1bfb4c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-10",
+      "entry": {
+        "title": "2027-Mod45-Q10",
+        "itemBody": "<p>Information about management and director compensation is most likely to be found \nin the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Disclosure of management compensation is typically included in the proxy \nstatement. An earnings release is about corporate earnings, not what managers earn \nas compensation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aefb916b-6666-4c72-8186-6bf2faa87523",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "4acdd64b-e756-4cda-bbef-aafc5ba75b6a",
+              "itemBody": "<p>B. proxy statement.</p>",
+              "position": 2
+            },
+            {
+              "id": "c3ef0742-e24d-4091-88e5-b424d5105f39",
+              "itemBody": "<p>C. earnings release.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4acdd64b-e756-4cda-bbef-aafc5ba75b6a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-11",
+      "entry": {
+        "title": "2027-Mod45-Q11",
+        "itemBody": "<p>Information about a company’s objectives, strategies, and significant risks are most \nlikely to be found in the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. These are components of management commentary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c7afe52b-7de1-4986-9c72-9e1162be0438",
+              "itemBody": "<p>A. auditor’s report.</p>",
+              "position": 1
+            },
+            {
+              "id": "2e653b5e-abd4-42b1-a09f-2f24727f2856",
+              "itemBody": "<p>B. management commentary.</p>",
+              "position": 2
+            },
+            {
+              "id": "35ead788-7fb5-49e8-a78a-e927523c0e4f",
+              "itemBody": "<p>C. notes to the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2e653b5e-abd4-42b1-a09f-2f24727f2856"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-12",
+      "entry": {
+        "title": "2027-Mod45-Q12",
+        "itemBody": "<p>What type of audit opinion is preferred when analyzing financial statements?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. An unqualified opinion is a “clean” opinion and indicates that the financial \nstatements present the company’s performance and financial position  fairly in \naccordance with applicable accounting standards. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 7 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e1552bb-7d50-490e-9256-dab6f945f83c",
+              "itemBody": "<p>A. Adverse</p>",
+              "position": 1
+            },
+            {
+              "id": "cb818a80-aa30-47aa-856c-6cea4be0aca3",
+              "itemBody": "<p>B. Qualified</p>",
+              "position": 2
+            },
+            {
+              "id": "7ec3aa44-7490-4c1f-a577-e067415a39fd",
+              "itemBody": "<p>C. Unqualified</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7ec3aa44-7490-4c1f-a577-e067415a39fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-13",
+      "entry": {
+        "title": "2027-Mod45-Q13",
+        "itemBody": "<p>An auditor determines that a company’s financial statements are prepared in \naccordance with applicable accounting standards except with respect to inventory  \nreporting. This exception is most likely to result in an audit opinion that is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A qualified audit opinion is one in which there is some scope limitation or \nexception to accounting standards. Exceptions are described in the audit report with \nadditional explanatory paragraphs so that the analyst can determine the importance \nof the exception.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cedf0e5c-4a4f-4728-86e2-52609b6a434c",
+              "itemBody": "<p>A. adverse.</p>",
+              "position": 1
+            },
+            {
+              "id": "2c3347b4-4673-4d72-87d1-bd416e6c4a26",
+              "itemBody": "<p>B. qualified.</p>",
+              "position": 2
+            },
+            {
+              "id": "4b90c08e-809a-4bf2-a19f-00c2f123fc36",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2c3347b4-4673-4d72-87d1-bd416e6c4a26"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-14",
+      "entry": {
+        "title": "2027-Mod45-Q14",
+        "itemBody": "<p>An independent audit report is most likely to provide:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The independent audit report provides reasonable assurance that the  \nfinancial statements are fairly presented, meaning that there is a high probability  \nthat the audited financial statements are free from material error, fraud, or illegal  \nacts that have a direct effect on the financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f63e2f00-3f3f-4a3c-ab14-a86f809a1c7c",
+              "itemBody": "<p>A. absolute assurance about the accuracy of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "16a33f95-dc8e-4cbf-8c18-c5a6a1e5798f",
+              "itemBody": "<p>B. reasonable assurance that the financial statements are fairly presented.</p>",
+              "position": 2
+            },
+            {
+              "id": "2cfbfb36-9ac9-4ad5-b2c2-98753b727eda",
+              "itemBody": "<p>C. a qualified opinion with respect to the transparency of the financial statements.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "16a33f95-dc8e-4cbf-8c18-c5a6a1e5798f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-15",
+      "entry": {
+        "title": "2027-Mod45-Q15",
+        "itemBody": "<p>Interim financial reports released by a company are most likely to be:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Interim reports are typically provided semiannually or quarterly and  \nrequire certain financial information, including unaudited financial statements and an \nMD&A for the interim period covered by the report. Unqualified refers to a type of \naudit opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d3c54bba-fb4c-44f3-a7b5-6d7e64f9d843",
+              "itemBody": "<p>A. monthly.</p>",
+              "position": 1
+            },
+            {
+              "id": "1072a7a3-6f97-4a15-ba18-5b682ed2c305",
+              "itemBody": "<p>B. unaudited.</p>",
+              "position": 2
+            },
+            {
+              "id": "b5dfad6b-a13b-48a1-a4d1-3b87af9ab2de",
+              "itemBody": "<p>C. unqualified.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1072a7a3-6f97-4a15-ba18-5b682ed2c305"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-16",
+      "entry": {
+        "title": "2027-Mod45-Q16",
+        "itemBody": "<p>Which of the following sources of information used by analysts is found outside a  \ncompany’s annual report?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. When performing financial statement analysis, analysts should review all \ncompany sources of information as well as information from external  sources \nregarding the economy, the industry, the company, and peer (comparable) companies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "15d30ca7-ef77-41d0-9573-01f38d25b4c7",
+              "itemBody": "<p>A. Auditor’s report</p>",
+              "position": 1
+            },
+            {
+              "id": "1ddd430b-0ecd-4a84-a085-100742451f63",
+              "itemBody": "<p>B. Peer company analysis</p>",
+              "position": 2
+            },
+            {
+              "id": "22473798-7ab7-4435-8f97-f99271bc5025",
+              "itemBody": "<p>C. Management discussion and analysis \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 3 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1ddd430b-0ecd-4a84-a085-100742451f63"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-17",
+      "entry": {
+        "title": "2027-Mod45-Q17",
+        "itemBody": "<p>For a company issuing securities in the United States to meet its obligations under \nthe Sarbanes–Oxley Act, which of the following is management required to attest to?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the [Sarbanes-Oxley] act addresses auditor independence (it \nprohibits auditors from providing certain non -audit services to the companies they \naudit); strengthens corporate responsibility for financial reports (it requires \nexecutive management to certify that the company's financial reports fairly present \nthe company's condition); and requires management to report on the effectiveness \nof the company's internal control over financial reporting (including obtaining \nexternal auditor confirmation of the effectiveness of internal control).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a5b8527a-adda-42b5-adbd-e92739715374",
+              "itemBody": "<p>A. The adequacy of internal control over financial reporting</p>",
+              "position": 1
+            },
+            {
+              "id": "cd14cb27-10e1-4c58-adfd-367f910fca23",
+              "itemBody": "<p>B. The suitability of management and director compensation agreements</p>",
+              "position": 2
+            },
+            {
+              "id": "9f1f26aa-97ba-4c11-bc51-86793549a66b",
+              "itemBody": "<p>C. The accuracy of estimates and assumptions used in preparing the financial \nstatements</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a5b8527a-adda-42b5-adbd-e92739715374"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-18",
+      "entry": {
+        "title": "2027-Mod45-Q18",
+        "itemBody": "<p>Which of the following reports is least likely to be filed with the US SEC?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the annual report is not a requirement of the US SEC.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "48489296-8a02-4638-90d6-e42fd06adf5a",
+              "itemBody": "<p>A. Annual report</p>",
+              "position": 1
+            },
+            {
+              "id": "1fc1f62e-074d-4d81-8dc2-5247a5408e58",
+              "itemBody": "<p>B. Form 10-K</p>",
+              "position": 2
+            },
+            {
+              "id": "9e3eb64d-6a17-4b7f-859a-268c04820c06",
+              "itemBody": "<p>C. Proxy statement</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "48489296-8a02-4638-90d6-e42fd06adf5a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-19",
+      "entry": {
+        "title": "2027-Mod45-Q19",
+        "itemBody": "<p>Interim reports most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Interim reports are provided semi -annually or quarterly, depending on \napplicable regulatory requirements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "098b1f60-4034-4d81-b99b-5dfeb51afb25",
+              "itemBody": "<p>A. are audited.</p>",
+              "position": 1
+            },
+            {
+              "id": "27851571-d4ea-46f2-b0d5-0ea2ece4aa2e",
+              "itemBody": "<p>B. are issued semi-annually or quarterly.</p>",
+              "position": 2
+            },
+            {
+              "id": "cfa6df37-1ec7-449a-ad5c-4d3673bef0a4",
+              "itemBody": "<p>C. include a full set of financial statements and notes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "27851571-d4ea-46f2-b0d5-0ea2ece4aa2e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-20",
+      "entry": {
+        "title": "2027-Mod45-Q20",
+        "itemBody": "<p>Which of the following statements is most accurate about the responsibilities of an \nauditor for a publicly traded firm in the United States? The auditor must:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. For a publicly traded firm in the United States, the auditor must express \nan opinion as to whether the company’s internal control system is in accordance with \nthe Public Accounting Oversight Board, under the Sarbanes –Oxley Act. The opinion \nis given either in a final paragraph in the auditor’s report or as a separate opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3d74e8a5-2bf2-4fe3-a356-2036da4c818f",
+              "itemBody": "<p>A. state that the financial statements are prepared according to generally accepted \naccounting principles.</p>",
+              "position": 1
+            },
+            {
+              "id": "5f9d7813-9b9c-4a5f-bc3d-54fdca82218d",
+              "itemBody": "<p>B. ensure that the financial statements are free from error, fraud, or illegal acts.</p>",
+              "position": 2
+            },
+            {
+              "id": "671e7a74-3bba-44c3-8a5a-a0df907c1c89",
+              "itemBody": "<p>C. express an opinion about the effectiveness of the company’s internal control \nsystems.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "671e7a74-3bba-44c3-8a5a-a0df907c1c89"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-21",
+      "entry": {
+        "title": "2027-Mod45-Q21",
+        "itemBody": "<p>Common-size financial statements are most likely a component of which step in the \nfinancial analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Preparing common-size financial statements is part of the process data \nstep.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "13039699-21c5-42dd-a0b0-8f5c3c244cae",
+              "itemBody": "<p>A. Collect data</p>",
+              "position": 1
+            },
+            {
+              "id": "f155f1da-bf1b-4066-a948-942a22d1f9ec",
+              "itemBody": "<p>B. Analyze/interpret data</p>",
+              "position": 2
+            },
+            {
+              "id": "b0fa0db5-8611-48eb-b553-0ada02b5c8fe",
+              "itemBody": "<p>C. Process data</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b0fa0db5-8611-48eb-b553-0ada02b5c8fe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-22",
+      "entry": {
+        "title": "2027-Mod45-Q22",
+        "itemBody": "<p>Providing information about the performance of a company, its financial position, and \nchanges in financial position that is useful to a wide range of users is most accurately \ndescribed as the role of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The role of financial reporting is to provide information about the \nperformance of a company, its financial position, and changes in financial position that \nis useful to a wide range of users in making economic decisions. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65b3f8f5-4be2-4796-b9bf-749ed4f81527",
+              "itemBody": "<p>A. financial reporting.</p>",
+              "position": 1
+            },
+            {
+              "id": "0f659067-b313-4417-a38c-959b7f067a3a",
+              "itemBody": "<p>B. the audit report.</p>",
+              "position": 2
+            },
+            {
+              "id": "37a6b5d3-4dc4-455d-88da-e52ba624f15f",
+              "itemBody": "<p>C. financial statement analysis.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "65b3f8f5-4be2-4796-b9bf-749ed4f81527"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-23",
+      "entry": {
+        "title": "2027-Mod45-Q23",
+        "itemBody": "<p>The role of the International Organization of Securities Commissions (IOSCO) is \nbest described as:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because IOSCO assists in attaining the goal of uniform regulation as well \nas cross-border cooperation in combating violations of securities and derivatives laws.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f85cb486-c88e-4f93-985b-67834a57c8f4",
+              "itemBody": "<p>A. promoting cross-border cooperation and uniformity in securities regulation.</p>",
+              "position": 1
+            },
+            {
+              "id": "7bf1973c-379a-4623-b951-57ab30fc1de5",
+              "itemBody": "<p>B. enforcing financial reporting requirements for entities participating in capital \nmarkets. \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 2
+            },
+            {
+              "id": "824baf7c-74b5-423b-9a76-8e066f3ef153",
+              "itemBody": "<p>C. promoting the use of International Financial Reporting Standards (IFRS) and the \nconvergence of national accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f85cb486-c88e-4f93-985b-67834a57c8f4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-24",
+      "entry": {
+        "title": "2027-Mod45-Q24",
+        "itemBody": "<p>Where might an analyst look for details covering the full extent of a company’s capital \nresources?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because in the MD&A, management must highlight  any favorable or \nunfavorable trends and identify significant events and uncertainties that affect the \ncompany’s liquidity, capital resources, and results of operations. The MD&A must also \nprovide information a bout off -balance-sheet obligations and about contractual \ncommitments, such as purchase obligations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "588b6bd3-ba85-4eee-981c-ecafe25498ca",
+              "itemBody": "<p>A. Balance sheet</p>",
+              "position": 1
+            },
+            {
+              "id": "a23b9245-2317-45bf-8759-aa8747b62099",
+              "itemBody": "<p>B. Notes to the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "b31a40b3-a7d9-45bd-99cc-31dddedc7a8d",
+              "itemBody": "<p>C. Management discussion and analysis (MD&A)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b31a40b3-a7d9-45bd-99cc-31dddedc7a8d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-25",
+      "entry": {
+        "title": "2027-Mod45-Q25",
+        "itemBody": "<p>Notes to financial statements most likely include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the notes also disclose information about the accounting policies, \nmethods, and estimates used to prepare the financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3bc53eb9-1ada-48ec-bde6-dec04d686034",
+              "itemBody": "<p>A. an auditor’s opinion as to the fair presentation of the financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "e6071eed-6cbf-4d9d-a478-4287f9bfc37f",
+              "itemBody": "<p>B. supplementary information about accounting policies, methods, and estimates.</p>",
+              "position": 2
+            },
+            {
+              "id": "da539439-a899-4cdd-a648-26708aa7b3f0",
+              "itemBody": "<p>C. a discussion of significant trends, events, and uncertainties that affect the \noperating results.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e6071eed-6cbf-4d9d-a478-4287f9bfc37f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-26",
+      "entry": {
+        "title": "2027-Mod45-Q26",
+        "itemBody": "<p>A disclaimer of opinion is issued when an auditor:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because a disclaimer of opinion occurs when auditors are unable to issue \nan opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "169d618c-db1f-4863-b994-46e0fdb47d3d",
+              "itemBody": "<p>A. is unable to issue an opinion.</p>",
+              "position": 1
+            },
+            {
+              "id": "41c5f2ab-ffff-4e81-9082-90a378c6e558",
+              "itemBody": "<p>B. notes an exception to accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "80421372-601f-4d22-8622-24b7aa797ae9",
+              "itemBody": "<p>C. finds a material departure from accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "169d618c-db1f-4863-b994-46e0fdb47d3d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-27",
+      "entry": {
+        "title": "2027-Mod45-Q27",
+        "itemBody": "<p>Which of the following opinions is the best indication that the auditor believes that \nthe financial statements depart materially from accounting standards and are not \nfairly presented?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because an adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e500097e-15ae-410c-958a-614c88c4a782",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "4c0859f4-cfd4-4b31-9741-8d3728206a5a",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "1d99d474-affe-4536-b57f-39672495694d",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e500097e-15ae-410c-958a-614c88c4a782"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-28",
+      "entry": {
+        "title": "2027-Mod45-Q28",
+        "itemBody": "<p>A qualified audit opinion is most likely issued when financial statements are prepared:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because financial statements showing “scope limitation or exception to \naccounting standards” will earn a qualified opinion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "44854443-8be5-49dd-bfa9-4abb6aedf1c6",
+              "itemBody": "<p>A. in compliance with accounting standards.</p>",
+              "position": 1
+            },
+            {
+              "id": "9401cbb1-739c-4e1c-9008-a658e93eb462",
+              "itemBody": "<p>B. with material departures from accounting standards.</p>",
+              "position": 2
+            },
+            {
+              "id": "43473cc3-0bd9-421a-b2ed-cec01b9bec01",
+              "itemBody": "<p>C. with some limitation or exception to accounting standards.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "43473cc3-0bd9-421a-b2ed-cec01b9bec01"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-29",
+      "entry": {
+        "title": "2027-Mod45-Q29",
+        "itemBody": "<p>Common-size statements are most likely the output of which of the following phases \nof the financial statement analysis framework?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because common-size statements are an output of the “process data” \nphase of the financial statement analysis framework.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cb6a66f8-d129-40cf-90d7-df0d5ccc2847",
+              "itemBody": "<p>A. Process data</p>",
+              "position": 1
+            },
+            {
+              "id": "8ea821a2-6c2f-436b-b126-d754e8888cf3",
+              "itemBody": "<p>B. Analyze/interpret the processed data</p>",
+              "position": 2
+            },
+            {
+              "id": "a47747d8-0ed8-423c-b4d2-f5cf614b8db3",
+              "itemBody": "<p>C. Develop and communicate conclusions and recommendations</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cb6a66f8-d129-40cf-90d7-df0d5ccc2847"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-30",
+      "entry": {
+        "title": "2027-Mod45-Q30",
+        "itemBody": "<p>Which of the following is most likely found in the management commentary?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the management commentary, or MD&A, is a good starting place \nfor understanding information in the financial statements. In particular, the forward-\nlooking disclosures, such as those about planned capital expenditures, new store \nopenings, or divestitures, can be useful in projecting a company’s future performance.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7a21797d-f6a4-4f7f-b8b9-31c6c3206bc3",
+              "itemBody": "<p>A. Forward-looking disclosures</p>",
+              "position": 1
+            },
+            {
+              "id": "2d13d645-bc80-478b-9426-5456a98f9333",
+              "itemBody": "<p>B. Basis of preparation for the financial statements</p>",
+              "position": 2
+            },
+            {
+              "id": "a84d9831-60dc-4a41-bcf4-abc264ec3a5a",
+              "itemBody": "<p>C. Reasonable assurance whether the financial statements as a whole are free from \nmaterial misstatement \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7a21797d-f6a4-4f7f-b8b9-31c6c3206bc3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-31",
+      "entry": {
+        "title": "2027-Mod45-Q31",
+        "itemBody": "<p>Which of the following is most appropriately issued when an auditor determines that \nthe financial statements materially depart from accounting standards and are not \nfairly presented?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because \"[a]n adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented.\"</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9f771277-f71f-464b-9d7d-f0118833a64b",
+              "itemBody": "<p>A. Adverse opinion</p>",
+              "position": 1
+            },
+            {
+              "id": "4614649f-44a4-457f-9083-52513c57681e",
+              "itemBody": "<p>B. Qualified opinion</p>",
+              "position": 2
+            },
+            {
+              "id": "7bb427f6-2a45-42f4-a05a-2cc702adcdce",
+              "itemBody": "<p>C. Disclaimer of opinion</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9f771277-f71f-464b-9d7d-f0118833a64b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-32",
+      "entry": {
+        "title": "2027-Mod45-Q32",
+        "itemBody": "<p>Which of the following statements is most accurate? The role of financial statement \nanalysis is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the role of financial statement analysis is to use financial reports \nprepared by companies, combined with other information, to evaluate the past, \ncurrent, and potential performance and financial position of a company for the \npurpose of making investment, credit, and other economic decisions.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "017e7e87-0486-468d-92d6-d97b1fc91689",
+              "itemBody": "<p>A. provide assurance that the audited financial statements are free from material \nerror.</p>",
+              "position": 1
+            },
+            {
+              "id": "ef6ccc60-8dbc-47ce-8906-173e629afb00",
+              "itemBody": "<p>B. provide information about a company’s performance, financial position, and \nchanges in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "488c8b79-150f-451d-9f38-140cd86860de",
+              "itemBody": "<p>C. evaluate the performance and financial position of a company for  making \ninvestment, credit, and other economic decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "488c8b79-150f-451d-9f38-140cd86860de"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-33",
+      "entry": {
+        "title": "2027-Mod45-Q33",
+        "itemBody": "<p>Earnings calls are most likely sourced from:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because \"earnings calls\" are considered to be from \"issuer sources\".</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "270511a2-3823-41c1-992f-458657ad0bb9",
+              "itemBody": "<p>A. issuers.</p>",
+              "position": 1
+            },
+            {
+              "id": "f52c617f-6e5f-44d9-8630-6f0e865c2eee",
+              "itemBody": "<p>B. public third parties.</p>",
+              "position": 2
+            },
+            {
+              "id": "a5bcfec7-5669-49fc-831f-3d9309c5e4ab",
+              "itemBody": "<p>C. proprietary third parties.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "270511a2-3823-41c1-992f-458657ad0bb9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-45-34",
+      "entry": {
+        "title": "2027-Mod45-Q34",
+        "itemBody": "<p>The role of financial reporting is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the role of financial statements issued by companies is to \nprovide information about a company’s performance, financial position, and changes in \nfinancial position.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4457b88a-1276-4a81-95b7-0963d303af29",
+              "itemBody": "<p>A. making operating, investing, and financial decisions.</p>",
+              "position": 1
+            },
+            {
+              "id": "0ba7af8e-275c-4f76-9f29-2fb4cbc11f54",
+              "itemBody": "<p>B. providing information about a company's performance, financial position, and \nchange in financial position.</p>",
+              "position": 2
+            },
+            {
+              "id": "0b60baf8-d92e-4d6f-9618-e51ab329e460",
+              "itemBody": "<p>C. evaluating a company's past, current, and potential performance for the purpose \nof making economic decisions. \n \n \n \n \n  \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 6 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0ba7af8e-275c-4f76-9f29-2fb4cbc11f54"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 34
+}

@@ -1,0 +1,2030 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6049,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 40,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 7: Business Models",
+    "topic_id": 1033,
+    "topic": "CFA-26-02-LI-C: Corporate Issuers",
+    "subtopic_id": 6049,
+    "subtopic": "Module 7: Business Models",
+    "question_count": 40,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 849,
+        "name": "Warehouse Course: Corporate Issuers 26-LI",
+        "code": "Warehouse Course: Corporate Issuers 26-LI",
+        "module_id": 4442,
+        "question_count": 6,
+        "type": "warehouse"
+      },
+      {
+        "id": 840,
+        "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+        "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+        "module_id": 4659,
+        "question_count": 11,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 40.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "c5041243386175a1",
+    "ordered_item_ids": [
+      "54743",
+      "54744",
+      "54745",
+      "54746",
+      "54747",
+      "54748",
+      "54749",
+      "54750",
+      "54751",
+      "54752",
+      "54753",
+      "53674",
+      "50863",
+      "50864",
+      "50865",
+      "50866",
+      "50867",
+      "50868"
+    ],
+    "visible_item_ids": [
+      "54743",
+      "54744",
+      "54745",
+      "54746",
+      "54747",
+      "54748",
+      "54749",
+      "54750",
+      "54751",
+      "54752",
+      "54753",
+      "53674",
+      "50863",
+      "50864",
+      "50865",
+      "50866",
+      "50867",
+      "50868"
+    ]
+  },
+  "items": [
+    {
+      "id": "54743",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-10",
+        "feedback": {},
+        "itemBody": "<p>The sequence of processes involved in the creation of a product, both within and external to a firm, is <i>best</i> referred to as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0"
+        },
+        "answerFeedback": {
+          "7b78da39-05f3-4e62-be13-3da52d435b4b": "<p>Incorrect because a firm’s value chain&nbsp;is&nbsp;the systems and processes within a firm that create value for its customers. Note that a firm’s value chain is different from a supply chain, which refers to the sequence of processes involved in the creation of a product, both within and external to a firm.</p>",
+          "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0": "<p>Correct because a supply chain&nbsp;refers to the sequence of processes involved in the creation of a product, both within and external to a firm. A supply chain includes all the steps involved in producing and delivering a physical product to the end customer, regardless of whether those steps are performed by a single firm.</p>",
+          "e181d40f-d549-4c39-9fc2-1f1224ebde98": "<p>Incorrect because there is no precise definition, but a business model essentially describes how a business is organized to deliver value to its customers. A business model makes it clear what the business does, how it operates, and how it generates revenue and profits, as well as how it differs in these respects from its competitors. A business model should have a value proposition and a value chain.&nbsp;So, business model is a broader concept, which includes value chain&nbsp;but also other business organization elements.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7b78da39-05f3-4e62-be13-3da52d435b4b",
+              "itemBody": "<p>A. value chain.</p>",
+              "position": 1
+            },
+            {
+              "id": "83159e40-b1bb-4b9c-9c7c-d45ea9e932b0",
+              "itemBody": "<p>B. supply chain.&nbsp;</p>",
+              "position": 2
+            },
+            {
+              "id": "e181d40f-d549-4c39-9fc2-1f1224ebde98",
+              "itemBody": "<p>C. business model.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54744",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-13",
+        "feedback": {},
+        "itemBody": "<p>The business model of a knowledge aggregation company that allows&nbsp;its&nbsp;users to contribute directly to&nbsp;online content&nbsp;is <i>best</i> referred to as a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d7f6fd96-8b25-4bea-a533-2015f1b13111"
+        },
+        "answerFeedback": {
+          "8451870f-7143-4469-928f-ee7668c171f4": "<p>Incorrect because <b>marketplace businesses</b> create networks of buyers and sellers without taking ownership of the goods during the process. Examples include: Alibaba, eBay, Mercado Libre, and Etsy. Marketplace business models are not developed specifically to allow users to contribute directly to product, service, or online content.</p>",
+          "bf06f33c-4396-45a0-8458-c731161f9968": "<p>Incorrect because a platform business is based on a network and can be distinguished from a traditional or 'linear' business that adds value to something that is sold to customers in a linear supply chain. Platform business models are not developed specifically to allow users to contribute directly to product, service, or online content.</p>",
+          "d7f6fd96-8b25-4bea-a533-2015f1b13111": "<p>Correct because <b>c</b><b>rowdsourcing </b>business models enable users to contribute directly to a product, service, or online content. Examples include: contests and competitions; online gaming; product development, such as open source software; knowledge aggregation, such as Wikipedia and Waze/Google Maps; fan or hobbyist clubs; and networks of tradespersons or professionals.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bf06f33c-4396-45a0-8458-c731161f9968",
+              "itemBody": "<p>A. platform business model.</p>",
+              "position": 1
+            },
+            {
+              "id": "8451870f-7143-4469-928f-ee7668c171f4",
+              "itemBody": "<p>B. marketplace business&nbsp;model.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7f6fd96-8b25-4bea-a533-2015f1b13111",
+              "itemBody": "<p>C. crowdsourcing business model.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54745",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Lin-09",
+        "feedback": {},
+        "itemBody": "<p>Which of the following pricing models is <i>most likely</i> used when a firm willingly sacrifices margins to build market share?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "47ca0c23-23ed-4ace-bbe4-70fd57d7982b"
+        },
+        "answerFeedback": {
+          "45fb7d83-f858-4bc9-b46e-33d106a57d99": "<p>Incorrect because penetration pricing, rather than dynamic pricing, is&nbsp;used. <b>Dynamic pricing</b> charges different prices at different times. Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads).</p>",
+          "47ca0c23-23ed-4ace-bbe4-70fd57d7982b": "<p>Correct because <b>penetration pricing</b> is an example of discount pricing and is used when a firm willingly sacrifices margins in order to build scale and market share.</p>",
+          "ba58289c-6946-46e3-918d-a27bb13803fe": "<p>Incorrect because penetration pricing, rather than freemium pricing, is&nbsp;used. <b>Freemium pricing</b> allows customers a certain level of usage or functionality at no charge—for example, with news content, a software application, or a game. This model is widely used in digital content and services, such as periodicals, video games, software/apps, and cloud storage, where the provider stands to benefit from wide adoption (often via network effects).</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "45fb7d83-f858-4bc9-b46e-33d106a57d99",
+              "itemBody": "<p>A. Dynamic pricing</p>",
+              "position": 1
+            },
+            {
+              "id": "ba58289c-6946-46e3-918d-a27bb13803fe",
+              "itemBody": "<p>B. Freemium pricing</p>",
+              "position": 2
+            },
+            {
+              "id": "47ca0c23-23ed-4ace-bbe4-70fd57d7982b",
+              "itemBody": "<p>C. Penetration pricing</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54746",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Barker-05",
+        "feedback": {},
+        "itemBody": "<p>A company manufacturing and selling&nbsp;a product using someone else's brand name in return for a royalty&nbsp;<i>most likely</i> operates:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b"
+        },
+        "answerFeedback": {
+          "935d37b1-643c-4cb3-8a6a-ae9f99496bf0": "<p>Incorrect because under a franchise model distributers or retailers have a tightly defined and often exclusive relationship with the parent company.</p>",
+          "abc2e59c-3e5a-4c07-97ed-a9f7b5350f46": "<p>Incorrect because private label or contract manufacturers produce goods to be marketed by others.</p>",
+          "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b": "<p>Correct because a company will produce a product using someone else’s brand name in return for a royalty&nbsp;under a licensing arrangement.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "935d37b1-643c-4cb3-8a6a-ae9f99496bf0",
+              "itemBody": "<p>A. under a franchise model.</p>",
+              "position": 1
+            },
+            {
+              "id": "abc2e59c-3e5a-4c07-97ed-a9f7b5350f46",
+              "itemBody": "<p>B. as a contract manufacturer.&nbsp;</p>",
+              "position": 2
+            },
+            {
+              "id": "c61a1abb-65f1-4f9f-9fd6-2b15b4c6a40b",
+              "itemBody": "<p>C. under a licensing arrangement.&nbsp;</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54747",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Glover-17",
+        "feedback": {},
+        "itemBody": "<p>The flow of finished goods from manufacturer to wholesaler, retailer, and finally to the end customer <i>best</i> describes a(n):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1c022a49-46df-43af-ac21-32b6cf80d741"
+        },
+        "answerFeedback": {
+          "1c022a49-46df-43af-ac21-32b6cf80d741": "<p>Correct because, for 'product' businesses, the traditional channel strategy is typically reflected in the flow of finished goods (e.g., from manufacturer to wholesaler, retailer, and end customer), each with its own physical facilities and with the product sold and purchased at each stage.</p>",
+          "40350778-5f22-4f2b-800b-9ab0c276062d": "<p>Incorrect because, with an omnichannel strategy, both digital and physical channels are used to complete a sale. For example, a customer might order an item online and pick it up in a store ('click and collect') or select an item in a store and have it delivered.&nbsp;Thus, an omnichannel strategy does not say anything about the flow of goods from manufacturer&nbsp;to wholesaler, retailer, and then end customer.</p>",
+          "6fce970b-c72c-4ac6-a930-b222e2043ffa": "<p>Incorrect because&nbsp;manufacturers [sometimes] employ a direct sales strategy, selling directly to the end customer. Direct sales to the end customer bypass ('disintermediate') the distributor or retailer. Typically, this involves the company's own sales force, which in some cases represents a significant business investment and carrying cost for the firm.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6fce970b-c72c-4ac6-a930-b222e2043ffa",
+              "itemBody": "<p>A. direct sales strategy.</p>",
+              "position": 1
+            },
+            {
+              "id": "40350778-5f22-4f2b-800b-9ab0c276062d",
+              "itemBody": "<p>B. omnichannel strategy.</p>",
+              "position": 2
+            },
+            {
+              "id": "1c022a49-46df-43af-ac21-32b6cf80d741",
+              "itemBody": "<p>C. traditional channel strategy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54748",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Tsependa-15",
+        "feedback": {},
+        "itemBody": "<p>When analyzing a company, analysts should:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5e2d65ef-60f7-4bbe-91b3-0193296c87e3"
+        },
+        "answerFeedback": {
+          "10e30b25-45d2-4691-b745-4cf8e4d63837": "<p>Incorrect because rather than rely on management’s description of its business model, analysts should develop their own understanding.</p>",
+          "5e2d65ef-60f7-4bbe-91b3-0193296c87e3": "<p>Correct because a&nbsp;clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile. Rather than rely on management’s description of its business model, analysts should develop their own understanding.</p>",
+          "e97f8d43-7a26-4e73-b747-64be76c2120d": "<p>Incorrect because a&nbsp;clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e97f8d43-7a26-4e73-b747-64be76c2120d",
+              "itemBody": "<p>A. ignore the company's business model.</p>",
+              "position": 1
+            },
+            {
+              "id": "5e2d65ef-60f7-4bbe-91b3-0193296c87e3",
+              "itemBody": "<p>B. develop their own understanding of the company's business model.&nbsp;</p>",
+              "position": 2
+            },
+            {
+              "id": "10e30b25-45d2-4691-b745-4cf8e4d63837",
+              "itemBody": "<p>C. rely on management's description of the company's business model.&nbsp;</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54749",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Huffman-14",
+        "feedback": {},
+        "itemBody": "<p>\"Economic\" profit is <i>best</i> described as the return to a firm's owners:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0571e06c-1c6a-4556-a9db-990d921f8e06"
+        },
+        "answerFeedback": {
+          "048b9d4c-4b85-49e6-b3f3-19343f416ea2": "<p>Incorrect because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.</p>",
+          "0571e06c-1c6a-4556-a9db-990d921f8e06": "<p>Correct because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.</p>",
+          "a5e114a7-2452-4625-8fb5-a5d53749ea63": "<p>Incorrect because an issuer’s income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm’s owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a5e114a7-2452-4625-8fb5-a5d53749ea63",
+              "itemBody": "<p>A. in the form of retained earnings and distributions to the owners.</p>",
+              "position": 1
+            },
+            {
+              "id": "048b9d4c-4b85-49e6-b3f3-19343f416ea2",
+              "itemBody": "<p>B. after corporate taxes and taxes on distributions have been paid.</p>",
+              "position": 2
+            },
+            {
+              "id": "0571e06c-1c6a-4556-a9db-990d921f8e06",
+              "itemBody": "<p>C. in excess of what they could have earned elsewhere on different investments.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54750",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Harper-06",
+        "feedback": {},
+        "itemBody": "<p>If a corporation is financed with both debt and equity, which of the following must the corporation pay?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "57cd5164-9576-49f0-8752-ca83cae2dc81"
+        },
+        "answerFeedback": {
+          "17e0bf2f-8b0d-4be6-81a5-9637f3bc625a": "<p>Incorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as <b>dividends</b>. However, while shareholder have the right to receive dividends, they corporation is not required to pay dividends.</p>",
+          "57cd5164-9576-49f0-8752-ca83cae2dc81": "<p>Correct because debt must be repaid on a pre-specified date in the future with interest.</p>",
+          "9a71c93b-77f0-421b-a763-e1addc2e9ea9": "<p>Incorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as <b>dividends</b>. However, while shareholder have the right to receive dividends, the corporation is not required to pay dividends.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "57cd5164-9576-49f0-8752-ca83cae2dc81",
+              "itemBody": "<p>A. Interest only</p>",
+              "position": 1
+            },
+            {
+              "id": "9a71c93b-77f0-421b-a763-e1addc2e9ea9",
+              "itemBody": "<p>B. Dividends only</p>",
+              "position": 2
+            },
+            {
+              "id": "17e0bf2f-8b0d-4be6-81a5-9637f3bc625a",
+              "itemBody": "<p>C. Both interest and dividends</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54751",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Harper-09",
+        "feedback": {},
+        "itemBody": "<p>Charging prices that differ based on product features or volume purchased&nbsp;<i>best </i>describes:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf"
+        },
+        "answerFeedback": {
+          "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf": "<p>Correct because tiered pricing is charging different prices to different buyers, often based on volume purchased but also based on product features (e.g., base versus premium trims of vehicles).</p>",
+          "6e2805ff-da58-436d-a9f4-afd49d07ff22": "<p>Incorrect because value based pricing is setting prices based on the value received by the customer, which often involves estimating opportunity cost.</p>",
+          "f3de4549-4e19-4809-b790-a0942153fefd": "<p>Incorrect because dynamic pricing is charging different prices at different times and for different types of customers depending on such variables as available supply levels and demand.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "05a55ce0-b8e7-4cee-9e3b-13fc9c1a2adf",
+              "itemBody": "<p>A. tiered pricing.</p>",
+              "position": 1
+            },
+            {
+              "id": "f3de4549-4e19-4809-b790-a0942153fefd",
+              "itemBody": "<p>B. dynamic pricing.</p>",
+              "position": 2
+            },
+            {
+              "id": "6e2805ff-da58-436d-a9f4-afd49d07ff22",
+              "itemBody": "<p>C. value-based pricing.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54752",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Erickson-03",
+        "feedback": {},
+        "itemBody": "<p>Which of the following would <i>most likely</i> be included on a company's \"financial\" balance sheet?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5529020a-7bc1-4c77-9394-db7eb517258e"
+        },
+        "answerFeedback": {
+          "24eab78e-568d-470b-9a55-f33f1ae3ac4c": "<p>Incorrect because agreements with suppliers&nbsp;and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet.</p>",
+          "5529020a-7bc1-4c77-9394-db7eb517258e": "<p>Correct because short-term debt is&nbsp;included in a company's financial balance sheet.</p>",
+          "b86a4f9d-cdfa-47fb-9962-ae72b2427e92": "<p>Incorrect because contracts with customers and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5529020a-7bc1-4c77-9394-db7eb517258e",
+              "itemBody": "<p>A. Short-term debt obligations</p>",
+              "position": 1
+            },
+            {
+              "id": "b86a4f9d-cdfa-47fb-9962-ae72b2427e92",
+              "itemBody": "<p>B. Relationships with customers</p>",
+              "position": 2
+            },
+            {
+              "id": "24eab78e-568d-470b-9a55-f33f1ae3ac4c",
+              "itemBody": "<p>C. Relationships&nbsp;with key suppliers</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54753",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.01-CorpIssuers-Erickson-11",
+        "feedback": {},
+        "itemBody": "<p>A company that&nbsp;produces&nbsp;goods to be marketed by other firms is <i>best</i> described as having a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "eb2039d5-36d9-4249-b878-55b8462ee0ea"
+        },
+        "answerFeedback": {
+          "43fddea4-2463-4186-94ff-747e7be4a6c0": "<p>Incorrect because licensing arrangements are business models in which&nbsp;a company will produce a product using someone else's brand name in&nbsp;return for a royalty.</p>",
+          "e4e28eac-f8be-4826-a36e-8b6864009335": "<p>Incorrect because <b>value added resellers</b> not only distribute a product but also handle more complex aspects of product installation, customization or support.</p>",
+          "eb2039d5-36d9-4249-b878-55b8462ee0ea": "<p>Correct because <b>contract manufacturers&nbsp;</b>produce goods to be marketed by others.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e4e28eac-f8be-4826-a36e-8b6864009335",
+              "itemBody": "<p>A. value added reseller business model.</p>",
+              "position": 1
+            },
+            {
+              "id": "43fddea4-2463-4186-94ff-747e7be4a6c0",
+              "itemBody": "<p>B. licensing arrangement business&nbsp;model.</p>",
+              "position": 2
+            },
+            {
+              "id": "eb2039d5-36d9-4249-b878-55b8462ee0ea",
+              "itemBody": "<p>C. contract manufacturer business model.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8816,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4659,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53674",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Tsependa-09",
+        "feedback": {},
+        "itemBody": "<p>A pricing approach where a company&nbsp;simultaneously charges different prices to different customers&nbsp;based on purchase volume&nbsp;is <i>best</i> referred to as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "78e05483-2d84-449f-81d5-6b71e7eade4e"
+        },
+        "answerFeedback": {
+          "1b633e94-31d3-4bcd-8f94-af73a601b612": "<p>Incorrect because dynamic pricing<b> </b>charges different prices at different times (i.e., pricing is based on time of purchase as opposed to volume purchased; prices are not simultaneously adjusted based on the purchased volume). Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads).</p>",
+          "78e05483-2d84-449f-81d5-6b71e7eade4e": "<p>Correct because economists use the term 'price discrimination' when firms charge different prices to different customers.&nbsp;Tiered pricing<b> </b>charges different prices to different buyers, most commonly based on volume purchased.</p>",
+          "fcd99685-a9ae-4cf8-afa4-a386d8729830": "<p>Incorrect because bundling<b> </b>refers to combining multiple products or services so that customers are incentivized, or required, to buy them together as opposed to offering the same product at different prices depending on the purchased volume. Bundling can be effective, particularly for products that are complementary, with high incremental margins and high marketing costs relative to the cost of the product itself. Examples include hotel rooms with free breakfast; furnished rental apartments; cable TV and internet services; pre-packaged sets of toys, tools, or kitchen utensils; and cloud-based software combining an application, processing power, storage, and support services.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "78e05483-2d84-449f-81d5-6b71e7eade4e",
+              "itemBody": "<p>A. tiered pricing.</p>",
+              "position": 1
+            },
+            {
+              "id": "fcd99685-a9ae-4cf8-afa4-a386d8729830",
+              "itemBody": "<p>B. bundled pricing.</p>",
+              "position": 2
+            },
+            {
+              "id": "1b633e94-31d3-4bcd-8f94-af73a601b612",
+              "itemBody": "<p>C. dynamic pricing.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8613,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50863",
+      "entry": {
+        "title": "CFA2133-R-s03-Q6",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. A company’s supply chain is the network or system inside and outside the company involved in producing a product or service and delivering it to an end user.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is incorrect because <em>value chain</em> refers to the systems and processes within a firm that create value for its customers. It is the “how” aspect of a business model.</p>\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is incorrect because the business model is a description of how a business works. It includes descriptions of the core customer base, the product or service that the business offers, the key resources and assets the business uses, and the main partners and suppliers of the business.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The sequence of processes involved in the creation of a product, both within and external to a firm, including all the steps involved in producing a physical product and delivering it to the end customer, regardless of whether those steps are performed by a single firm, is referred to as the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b9b7ac39-ff86-4d6b-81c8-7a619d89aa05"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b8a796c2-7c65-4e4c-a25a-25afe81f4853",
+              "itemBody": "A. value chain.",
+              "position": 1
+            },
+            {
+              "id": "b9b7ac39-ff86-4d6b-81c8-7a619d89aa05",
+              "itemBody": "B. supply chain.",
+              "position": 2
+            },
+            {
+              "id": "7da27de5-4cfd-4eaa-ad99-bf3c4574e4b0",
+              "itemBody": "C. business model.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50864",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">An analyst is reviewing investor presentations from the management teams of two companies with unconventional business models: HealthyPet and DiaSera.</p><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">HealthyPet is a pet medical insurer that has a differentiated approach in a business dominated by incumbent property &amp; casualty insurers, for which pet insurance is a niche business relative to business, home, and auto insurance lines. HealthyPet targets the high-income, young, urban, busy professional pet owner segment. It bundles coverage for owners of multiple pets, including exotic pets that incumbents are typically reluctant to insure. The industry incumbents sell insurance policies that reimburse pet owners for a percentage of veterinarian and other medical costs incurred, subject to restrictions and limits. HealthyPet, however, pays veterinarians directly for pet medical costs. It has a preferred network of veterinarians it recommends and for which it negotiates lower prices, but policyholders face relatively few restrictions. It sells through veterinarian referrals and boutique pet stores to maintain an image of exclusivity and prestige and maintains an online storefront for customer convenience. It avoids mass market retail to protect its image. It charges more than its competitors for monthly insurance premiums because it is a better product. The pricing has worked so far because HealthyPet has a strong brand and a distinctiveness that its customers value.</p><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">DiaSera designs, makes, and sells a medical device that delivers insulin to people with insulin-dependent diabetes known as an insulin pump. DiaSera’s pump is differentiated from those of its competitors in its design and operation; it is far smaller and more aesthetically pleasing than competitors’ pumps. It is a single, small device adhered to a user’s skin, while competitors’ pumps consist of separate handheld controllers attached to a delivery device on a user’s skin with tubing.</p><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Insulin pumps are used primarily by people with Type 1 diabetes, which is a smaller market that has complex medical needs, including close management of insulin. The insulin pump market is complex, with several competitors; complement products, such as insulin monitoring devices; and an inexpensive substitute: using multiple daily injections of insulin.</p><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">DiaSera is looking to expand its customer reach to include Type 2 diabetics who are on multiple daily insulin injections, which is a market several times the size of the Type 1 diabetics market. DiaSera’s pump product is priced at a small premium to competitors. Management says that given significant economies of scale in manufacturing, unit costs will fall substantially as the customer base grows and, even with unchanged pricing, margins will rise significantly. Besides the differentiated product design, the company also offers substantial customer service from highly trained nurses both before and after the sale. Access to customer service is available 24/7 and does not have any additional cost to the customer.</p><p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">DiaSera makes direct sales to customers and markets to both customers and physicians, because customers must receive a prescription for the pump from a physician before purchase. Products are shipped directly to customers’ homes.</p>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50865",
+      "entry": {
+        "title": "CFA2133-R-s03-Q7",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">\n                  <strong> </strong>\n               </p>\n               <div id=\"CFA2133-R-s03-T-1-d\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n                  <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                     \n                     <tbody>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Customers</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• High-income, young, urban, busy professional pet owners<br><br>• Own multiple pets and exotic pets</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Products</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Insurance policy for pets that are sick or injured<br><br>• Provides peace of mind to customers<br><br>• Handles billing directly with veterinarians</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Channels</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Veterinarian referrals<br><br>• Boutique pet stores, online storefront</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Pricing strategy</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Premium pricing because it is a premium product<br><br>• Monthly premiums, similar to subscription</td>\n                        </tr>\n                     </tbody>\n                  </table></div>\n               </div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Complete the grid of business model features for HealthyPet.</p>\n<div id=\"CFA2133-R-s03-T-1-c\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; width: 84.1945%; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Customers</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Products</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Channels</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Pricing strategy</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": "50864"
+    },
+    {
+      "id": "50866",
+      "entry": {
+        "title": "CFA2133-R-s03-Q8",
+        "feedback": {
+          "neutral": "\n               \n               <div id=\"CFA2133-R-s03-T-1-f\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n                  <div style=\"overflow-x: auto; display: flex; justify-content: center;\"><table>\n                     \n                     <tbody>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Customers</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Diabetics who need insulin<br><br>• Expanding customer base to include Type 2 diabetics who are on multiple daily insulin injections</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Products</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Differentiated insulin pump for diabetics<br><br>• Substantial customer service over the phone from highly trained experts both before and after sales<br><br>• Complex market with complements and substitutes</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Channels</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Direct sales to customers<br><br>• Maintain close relationship with customers<br><br>• Product shipped directly to customers</td>\n                        </tr>\n                        <tr>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">Pricing strategy</td>\n                           <td style=\"text-align: left; vertical-align: top; padding: 8px; \">• Bundling<br><br>• Premium pricing because it is a premium product and with service</td>\n                        </tr>\n                     </tbody>\n                  </table></div>\n               </div>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Complete the table of business model features for DiaSera.</p>\n<div id=\"CFA2133-R-s03-T-1-e\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<table style=\"border-collapse: collapse; width: 84.1945%; border-style: solid;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Customers</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Products</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Channels</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 37.4166%;\">Pricing strategy</td>\n<td style=\"text-align: left; vertical-align: bottom; padding: 8px; width: 62.5848%;\"></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": "50864"
+    },
+    {
+      "id": "50867",
+      "entry": {
+        "title": "CFA2133-R-s03-Q9",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">There are several apparent risks to HealthyPet’s business model. It is not clear that their offering is sufficiently differentiated to build a large-enough customer base to provide the diversification that an insurance company depends on (insurance requires a large pool of policyholders such that there is enough premiums to cover losses). It may incur an adverse selection problem in covering exotic pets because they may be uneconomical to insure as evidenced by the reluctance of established companies to insure them. Finally, if its model is successful, it will likely face competition in the form of imitators, possibly from the incumbent insurers because it is probably possible for them to copy the model of pay veterinarians directly.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">HealthyPet could see opportunity in building a loyal base of customers and a loyal base of veterinarians. Its image of prestige, premium service, and not needing to worry when a pet gets sick could appeal to many pet owners.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Questions include how difficult it would be for other insurers to copy the business model, how HealthyPet plans to establish relationships with veterinarians and how many it has and needs, and whether relationships with veterinarians can be exclusive. It is also questionable whether referrals and boutique pet stores will deliver a sufficient flow of new customers to support the business or whether HealthyPet will instead need to invest in large advertising campaigns directly to consumers.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Discuss key risks, opportunities, and questions regarding the HealthyPet business model.</p>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": "50864"
+    },
+    {
+      "id": "50868",
+      "entry": {
+        "title": "CFA2133-R-s03-Q10",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A major risk is the possible incompatibility between DiaSera’s pricing strategy and its emphasis on customer service. It is priced only slightly higher than parity with competitors but aims to provide substantially better customer service by using highly trained experts. If customer growth and sales disappoint or take longer than expected, the economies of scale in manufacturing will as well, potentially imperiling profitability or forcing management to raise prices. A second major risk is targeting Type 2 diabetics who have historically not used insulin pumps. While DiaSera’s insulin pump seems more convenient than multiple daily injections of insulin, it is more expensive and requires customers to navigate a potentially complicated prescription, purchasing, and service scenario. DiaSera management should discuss key factors that give it confidence in the strategy—such as a segment of customers in the Type 2 market who have tried a pump before, patients who are younger and more likely to try a new product—and establish relationships with key physicians who can recommend the product to patients.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The clear major opportunities are market share gains in Type 1 diabetes from inferior competitor products and the new market opportunity of Type 2 diabetics who require multiple daily injections. If competitors have not segmented the market to explicitly target this cohort, DiaSera could realize a competitive advantage.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Key questions include details on its manufacturing strategy, such as estimating unit costs or gross margins at different levels of volume, how experienced the manufacturing management and staff are in this setting, to what extent the company owns the manufacturing resources, and whether there are key suppliers it relies on. Additionally, an analyst will have to develop an outlook for market penetration and sales based on customer segmenting, historical data, precedent product launches, and realistic expectations for customer demand at the current price point. Finally, additional details on how many service professionals are needed per number of customers and at what cost will be essential to modeling operating costs.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Discuss key risks, opportunities, and questions regarding DiaSera’s business model.</p>",
+        "properties": {
+          "wordLimit": false,
+          "spellCheck": false,
+          "wordLimitMax": 0,
+          "wordLimitMin": 0,
+          "showWordCount": false,
+          "richContentEditor": false
+        },
+        "scoringData": {
+          "value": ""
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "rce": true,
+          "essay": null,
+          "wordCount": false,
+          "fileUpload": false,
+          "spellCheck": false,
+          "userResponse": {
+            "value": {}
+          },
+          "wordLimitMax": null,
+          "wordLimitMin": null,
+          "wordLimitEnabled": false
+        },
+        "scoringAlgorithm": "None",
+        "interactionTypeSlug": "essay"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8177,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4442,
+      "stimulusQuizEntryId": "50864"
+    },
+    {
+      "id": "2027-26-1",
+      "entry": {
+        "title": "2027-Mod26-Q1",
+        "itemBody": "<p>Based on typical labor  utilization patterns across the business cycle, \nproductivity (output per hours worked) is most likely to be highest:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. At the end of a recession, firms will run “lean production” to generate  \nmaximum output with the fewest number of workers.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "44054710-9720-48a9-80d1-96563507bea1",
+              "itemBody": "<p>A. at the peak of a boom.</p>",
+              "position": 1
+            },
+            {
+              "id": "f8b8adb1-fdef-43f2-b938-f7b4de3183e0",
+              "itemBody": "<p>B. into a maturing expansion.</p>",
+              "position": 2
+            },
+            {
+              "id": "70e5eb8a-b7e9-45b0-b0f7-b03b2f50952c",
+              "itemBody": "<p>C. at the bottom of a recession.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "70e5eb8a-b7e9-45b0-b0f7-b03b2f50952c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-2",
+      "entry": {
+        "title": "2027-Mod26-Q2",
+        "itemBody": "<p>As the expansion phase of the business cycle advances from early stage \nto late stage, businesses most likely experience a decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. When an economy’s expansion is well established, businesses often have \ndifficulty finding qualified workers.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "468c397f-f334-4516-8455-6ea52967fab3",
+              "itemBody": "<p>A. labor costs.</p>",
+              "position": 1
+            },
+            {
+              "id": "2a8438d7-21e9-4869-b68e-0d69589608a7",
+              "itemBody": "<p>B. capital investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "02080e4e-99f5-403b-8aa0-c2109e349e5e",
+              "itemBody": "<p>C. availability of qualified workers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "02080e4e-99f5-403b-8aa0-c2109e349e5e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-3",
+      "entry": {
+        "title": "2027-Mod26-Q3",
+        "itemBody": "<p>An analyst writes in an economic report that the current phase of the \nbusiness cycle is characterized by accelerating inflationary pressures and borrowing \nby companies. The analyst is most likely referring to the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Accelerating inflation and rapidly expanding capital expenditures  \ntypically characterize the peak of the business cycle. During such times, many  \nbusinesses finance their capital expenditures with debt to expand their production  \ncapacity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "223ac7f0-b5b4-4e96-b23a-f136194cbc5b",
+              "itemBody": "<p>A. peak of the business cycle.</p>",
+              "position": 1
+            },
+            {
+              "id": "39242800-d697-4710-a75b-5c306131e61a",
+              "itemBody": "<p>B. contraction phase of the business cycle.</p>",
+              "position": 2
+            },
+            {
+              "id": "b5c0e464-96d1-4ad3-835f-830b1660c395",
+              "itemBody": "<p>C. early expansion phase of the business cycle.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "223ac7f0-b5b4-4e96-b23a-f136194cbc5b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-4",
+      "entry": {
+        "title": "2027-Mod26-Q4",
+        "itemBody": "<p>The indicator indexes created by various organizations or research \nagencies:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The indicator indexes are constantly updated for their composition and \nmethodology based on the accumulation of empirical knowledge, and they can certainly \ninclude more than just leading indicators.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9a4afb74-0ecb-42db-8835-f152a22bf77a",
+              "itemBody": "<p>A. include only leading indicators to compute their value.</p>",
+              "position": 1
+            },
+            {
+              "id": "647616ea-df37-461e-8577-785bbd12d6a0",
+              "itemBody": "<p>B. are highly reliable signals on the phase of business cycles.</p>",
+              "position": 2
+            },
+            {
+              "id": "360a27cb-2155-4a0b-97d7-8ceda5797110",
+              "itemBody": "<p>C. evolve over time in terms of composition and computation formula.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "360a27cb-2155-4a0b-97d7-8ceda5797110"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-5",
+      "entry": {
+        "title": "2027-Mod26-Q5",
+        "itemBody": "<p>Which one of the following trends in various economic indicators is most \nconsistent with a recovery from a recession?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The improving leading indicator, average weekly initial claims for  \nunemployment insurance, and the improving coincident indicator, aggregate real  \npersonal income, are most consistent with an economic recovery. Even though a  \ndeclining inventory -to-sales ratio, a lagging indicator, is consistent with an early  \nrecovery, the coincident indicator, the stable industrial production index, does  not \nsupport that conclusion. Although a rising stock market index can signal economic  \nexpansion, the lagging  indicator, the unit labor costs, has peaked, which is  more \nconsistent with a recession.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fa0adf27-49bc-40ef-b041-7c7ab488f5d0",
+              "itemBody": "<p>A. A declining inventory–sales ratio and stable industrial production index</p>",
+              "position": 1
+            },
+            {
+              "id": "6294ce33-630a-44a2-a7a2-0d34ad82694e",
+              "itemBody": "<p>B. A rising broad stock market index and unit labor costs turning from increasing to \ndecreasing</p>",
+              "position": 2
+            },
+            {
+              "id": "e858c2d2-91f9-454d-8352-2c79b9fd0301",
+              "itemBody": "<p>C. A decrease in average weekly initial claims for unemployment insurance and  an \nincrease in aggregate real personal income</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e858c2d2-91f9-454d-8352-2c79b9fd0301"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-6",
+      "entry": {
+        "title": "2027-Mod26-Q6",
+        "itemBody": "<p>Which of the following statements gives the best description of \nnowcasting?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Nowcasting involves the use of techniques to estimate the present state. \nA is incorrect because nowcasting aims to estimate the present, not forecast  the \nfuture. C is incorrect because the focus of nowcasting is to estimate the  current, \npresent value of a variable, such as GDP.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e543f1df-7600-4ee9-bcc6-b7ae4f9f3570",
+              "itemBody": "<p>A. This method is used to forecast future trends in economic variables based  on \ntheir past and current values.</p>",
+              "position": 1
+            },
+            {
+              "id": "9a38795f-8fe8-4c95-9d24-bc51f4d3f9fb",
+              "itemBody": "<p>B. This method is used for real-time monitoring of economic and financial variables \nto continuously assess current conditions and provide an estimate of the current \nstate.</p>",
+              "position": 2
+            },
+            {
+              "id": "fa965532-0a8e-4411-9aca-f3bd86842468",
+              "itemBody": "<p>C. This method is used to study past relationships between variables to determine  \nwhich ones have explained the path of a particular variable of interest. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 2 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9a38795f-8fe8-4c95-9d24-bc51f4d3f9fb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-7",
+      "entry": {
+        "title": "2027-Mod26-Q7",
+        "itemBody": "<p>Which of the following statements is the best description of the \ncharacteristics of economic indicators?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Although no single indicator is definitive, a mix of them —which can be \naffected by various economic determinants —can offer the strongest signal of  \nperformance.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9e6d6f01-780e-4ce4-ba6d-636377d23a7f",
+              "itemBody": "<p>A. Leading indicators are important because they track the entire economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "a58bc9b2-07bd-48b0-a964-0c9452e128a4",
+              "itemBody": "<p>B. Lagging indicators, in measuring past conditions, do not require revisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "7e01d5e4-6ca7-4a6f-b2bc-fb1353ea169d",
+              "itemBody": "<p>C. A combination of leading and coincident indicators can offer effective forecasts.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7e01d5e4-6ca7-4a6f-b2bc-fb1353ea169d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-8",
+      "entry": {
+        "title": "2027-Mod26-Q8",
+        "itemBody": "<p>When the spread between 10-year US Treasury yields and the short-term \nfederal funds rate narrows and at the same time the prime rate stays unchanged, \nthis mix of indicators most likely forecasts future economic:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The narrowing spread of this leading indicator foretells a drop in short-\nterm rates and a fall in economic activity. The prime rate is a lagging indicator  and \ntypically moves after the economy turns.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7a417b62-4335-464e-8e97-181d11812891",
+              "itemBody": "<p>A. growth.</p>",
+              "position": 1
+            },
+            {
+              "id": "0cef697e-69cc-49f0-be49-ab337dcb1977",
+              "itemBody": "<p>B. decline.</p>",
+              "position": 2
+            },
+            {
+              "id": "188333ad-2d2d-4940-ab42-00168a715e69",
+              "itemBody": "<p>C. stability.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0cef697e-69cc-49f0-be49-ab337dcb1977"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-9",
+      "entry": {
+        "title": "2027-Mod26-Q9",
+        "itemBody": "<p>Current economic statistics indicating little change in services inflation, \nrising residential building permits, and increasing average duration of unemployment \nare best interpreted as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Rising building permits —a leading indicator—indicate that an upturn is \nexpected to occur or continue. Increasing average duration of unemployment — a \nlagging indicator—indicates that a downturn has occurred,  whereas the lack of any \nchange in services inflation—also a lagging indicator—is neither negative nor positive \nfor the direction of the economy. Taken together,  these statistics indicate that a \ncyclical upturn may be expected to occur. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 6 of 7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "467eae66-dc66-49db-aa57-7c083523db80",
+              "itemBody": "<p>A. conflicting evidence about the direction of the economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "18adecae-5c6c-4246-87dd-e19296663d16",
+              "itemBody": "<p>B. evidence that a cyclical upturn is expected to occur in the future.</p>",
+              "position": 2
+            },
+            {
+              "id": "2bc50d36-2994-4547-9291-dbd2cb11d248",
+              "itemBody": "<p>C. evidence that a cyclical downturn is expected to occur in the future.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "18adecae-5c6c-4246-87dd-e19296663d16"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-10",
+      "entry": {
+        "title": "2027-Mod26-Q10",
+        "itemBody": "<p>If relative to prior values of their respective indicators, the inventory –\nsales ratio has risen, unit labor cost is stable, and real personal income has decreased, \nit is most likely that a peak in the business cycle:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Both inventory –sales and unit labor costs are lagging indicators that  \ndecline somewhat after a peak. Real personal income is a coincident indicator that, by \nits decline, shows a slowdown in business activity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6129efca-22ec-49e8-af75-44ea8ed921a1",
+              "itemBody": "<p>A. has occurred.</p>",
+              "position": 1
+            },
+            {
+              "id": "a620038c-d857-4805-aae9-4f42e2a6e12c",
+              "itemBody": "<p>B. is just about to occur.</p>",
+              "position": 2
+            },
+            {
+              "id": "e99536f6-a298-46f5-b735-8ae6d060e9c7",
+              "itemBody": "<p>C. will occur sometime in the future.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6129efca-22ec-49e8-af75-44ea8ed921a1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-11",
+      "entry": {
+        "title": "2027-Mod26-Q11",
+        "itemBody": "<p>When aggregate real personal income, industrial output, and the S&P 500 \nIndex all increase in a given period, it is most accurate to conclude that a cyclical \nupturn is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Aggregate real personal income and industrial output are coincident  \nindicators, whereas the S&P 500 is a leading indicator. An increase in aggregat e \npersonal income and industrial output signals that an expansion is occurring, whereas \nan increase in the S&P 500 signals that an expansion will occur or is expected  to \ncontinue. Taken together, these statistics indicate that a cyclical upturn is occurring.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8589afa4-b782-44db-875e-89d6e7d85347",
+              "itemBody": "<p>A. occurring.</p>",
+              "position": 1
+            },
+            {
+              "id": "71c85fde-cd6d-4435-8bd1-f7603065f0d9",
+              "itemBody": "<p>B. about to end.</p>",
+              "position": 2
+            },
+            {
+              "id": "b3ad9ba2-96c1-436f-b9a2-2493894cbe99",
+              "itemBody": "<p>C. about to begin.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8589afa4-b782-44db-875e-89d6e7d85347"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-12",
+      "entry": {
+        "title": "2027-Mod26-Q12",
+        "itemBody": "<p>Which of the following is most likely to increase after an increase in \naggregate real personal income?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Aggregate real personal income is a coincident indicator of the business \ncycle, and the ratio of consumer installment debt to income is a lagging  indicator. \nIncreases in the ratio of consumer installment debt follow increases in  average \naggregate income during the typical business cycle.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8a31fbce-c454-41e8-9e59-a82fd22fe3cc",
+              "itemBody": "<p>A. Equity prices</p>",
+              "position": 1
+            },
+            {
+              "id": "96feae2e-939d-4875-a5a6-bfd7acba1e06",
+              "itemBody": "<p>B. Building permits for new private housing units</p>",
+              "position": 2
+            },
+            {
+              "id": "31f9f258-86d6-49ea-85b3-d2d6ca2ee0a7",
+              "itemBody": "<p>C. The ratio of consumer installment debt to income</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "31f9f258-86d6-49ea-85b3-d2d6ca2ee0a7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-13",
+      "entry": {
+        "title": "2027-Mod26-Q13",
+        "itemBody": "<p>Which of the following indicators is most appropriate in predicting a \nturning point in the economy?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Leading economic indicators have turning points that usually  precede \nthose of the overall economy. Average weekly hours, manufacturing is a  leading \neconomic indicator. The Industrial Production Index is a coincident economic  \nindicator, and the average bank prime lending rate is a lagging economic indicator.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fb8ff405-7f1e-4f84-b415-2e1222b9b9f1",
+              "itemBody": "<p>A. The Industrial Production Index</p>",
+              "position": 1
+            },
+            {
+              "id": "09430041-b942-471f-bbfe-1dc01aa6df4b",
+              "itemBody": "<p>B. The average bank prime lending rate</p>",
+              "position": 2
+            },
+            {
+              "id": "d0bcbac5-318e-48d7-8e1c-46eab0bdd1ad",
+              "itemBody": "<p>C. Average weekly hours, manufacturing \nUnderstanding Business Cycle \nFaculty:                                                                         Page 3 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d0bcbac5-318e-48d7-8e1c-46eab0bdd1ad"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-14",
+      "entry": {
+        "title": "2027-Mod26-Q14",
+        "itemBody": "<p>The unemployment rate is considered a lagging indicator because:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. This effect makes unemployment rise more slowly as recessions start  \nand fall more slowly as recoveries begin.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d71d03a9-521e-4790-94b2-665801b1d0ad",
+              "itemBody": "<p>A. new job types must be defined to count their workers.</p>",
+              "position": 1
+            },
+            {
+              "id": "5a63bf57-63f7-4439-9c4b-fc5f6c4ddd20",
+              "itemBody": "<p>B. multiworker households change jobs at a slower pace.</p>",
+              "position": 2
+            },
+            {
+              "id": "d74638af-6b2a-4982-b8e6-54686d6d72c8",
+              "itemBody": "<p>C. businesses are slow to hire and fire due to related costs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d74638af-6b2a-4982-b8e6-54686d6d72c8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-15",
+      "entry": {
+        "title": "2027-Mod26-Q15",
+        "itemBody": "<p>During an economic recovery, a lagging unemployment rate is most likely \nattributable to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In an economic recovery, new job seekers return to the labor force, and \nbecause they seldom find work immediately, their return may initially raise  the \nunemployment rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "99c2b0ab-ff9d-4366-afbc-8f0f1e5972d0",
+              "itemBody": "<p>A. businesses quickly rehiring workers.</p>",
+              "position": 1
+            },
+            {
+              "id": "c3373409-e9d4-461c-b174-0a615914678b",
+              "itemBody": "<p>B. new job seekers entering the labor force.</p>",
+              "position": 2
+            },
+            {
+              "id": "cbfa9782-3f21-4253-a9cd-52e75983e0c6",
+              "itemBody": "<p>C. underemployed workers transitioning to higher-paying jobs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c3373409-e9d4-461c-b174-0a615914678b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-16",
+      "entry": {
+        "title": "2027-Mod26-Q16",
+        "itemBody": "<p>Which of the following is most likely a lagging economic indicator?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because inventories accumulate as sales initially decline and then, once a \nbusiness adjusts its ordering, become depleted as sales pick up, so this ratio tends \nto lag the cycle.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c020ccef-1168-4c1e-9974-949ed23fedfb",
+              "itemBody": "<p>A. Inventory-sales ratio</p>",
+              "position": 1
+            },
+            {
+              "id": "7d200d3a-b7ee-4e2e-baef-4b8f3d95a18e",
+              "itemBody": "<p>B. S&P 500 Stock Index</p>",
+              "position": 2
+            },
+            {
+              "id": "e89159b4-568f-43ac-a7bf-e7d35eff8534",
+              "itemBody": "<p>C. Manufacturers' new orders for consumer goods and materials</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c020ccef-1168-4c1e-9974-949ed23fedfb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-17",
+      "entry": {
+        "title": "2027-Mod26-Q17",
+        "itemBody": "<p>During the recovery phase of the business cycle, inflation most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because, in the “recovery” phase, inflation remains moderate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a8313185-1f3e-44d3-a2e7-e55090fac3c7",
+              "itemBody": "<p>A. decelerates but with a lag.</p>",
+              "position": 1
+            },
+            {
+              "id": "9df4d202-4e31-4651-b6fa-90a0bacb635e",
+              "itemBody": "<p>B. remains moderate.</p>",
+              "position": 2
+            },
+            {
+              "id": "62556012-a530-4d04-9dc3-a68fb6adc3e2",
+              "itemBody": "<p>C. further accelerates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9df4d202-4e31-4651-b6fa-90a0bacb635e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-18",
+      "entry": {
+        "title": "2027-Mod26-Q18",
+        "itemBody": "<p>Which of the following indexes is most likely considered a leading \neconomic indicator?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because as a leading economic indicator, a positive change in the S&P 500 \nIndex is supposed to lead (come before) an increase in aggregate economic activity. \nAn increase in the S&P 500 would be positive for future economic growth, all else \nequal. Additionally, the Euro Stoxx Equity Index is considered a leading indicator in \nthe Eurozone.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b5d08635-9210-4bf4-9af1-98d6c7b929d0",
+              "itemBody": "<p>A. Consumer price index</p>",
+              "position": 1
+            },
+            {
+              "id": "2e6bf32a-d67f-4940-8fc4-24799c1361ac",
+              "itemBody": "<p>B. Broad stock market index</p>",
+              "position": 2
+            },
+            {
+              "id": "16d85f9f-ed04-4de1-96f2-1fc69ff3d5f2",
+              "itemBody": "<p>C. Industrial production index</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2e6bf32a-d67f-4940-8fc4-24799c1361ac"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-19",
+      "entry": {
+        "title": "2027-Mod26-Q19",
+        "itemBody": "<p>The interest rate spread between 10-year treasury yields and overnight \nborrowing rates most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because long -term yields express market expectations about the \ndirection of short-term interest rates, and rates ultimately follow the economic cycle \nup and down, a wider spread, by anticipating short rate increases, also anticipates an \neconomic upswing. Conversely, a narrower spread, by anticipating short rate \ndecreases, also anticipates an economic downturn. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 7 of 7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "229b6f11-3f0a-466d-bc59-79e3241d2ba4",
+              "itemBody": "<p>A. is a lagging economic indicator.</p>",
+              "position": 1
+            },
+            {
+              "id": "19593bf8-a564-41ec-8d61-c62b7d10abee",
+              "itemBody": "<p>B. decreases when the market expects an economic downturn.</p>",
+              "position": 2
+            },
+            {
+              "id": "968680a6-094c-43d5-ab1b-a5b90fd69450",
+              "itemBody": "<p>C. increases as the market expects future short-term interest rates to decrease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "19593bf8-a564-41ec-8d61-c62b7d10abee"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-20",
+      "entry": {
+        "title": "2027-Mod26-Q20",
+        "itemBody": "<p>Which of the following is most likely a coincident indicator of economic \nactivity?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because once recession or recovery is clear, businesses adjust their \nfulltime payrolls. Non -agricultural payrolls and manufacturing and trade sales are \ncoincident indicators.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "97175b48-bf00-4bca-9fc9-6d04601c0165",
+              "itemBody": "<p>A. Average duration of unemployment</p>",
+              "position": 1
+            },
+            {
+              "id": "4ca10f27-ef02-4d5f-be29-238b62741db0",
+              "itemBody": "<p>B. Average weekly hours, manufacturing</p>",
+              "position": 2
+            },
+            {
+              "id": "1b6eb9f0-c4a9-4546-857a-94d4e440aa61",
+              "itemBody": "<p>C. Employees on non-agricultural payrolls</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1b6eb9f0-c4a9-4546-857a-94d4e440aa61"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-21",
+      "entry": {
+        "title": "2027-Mod26-Q21",
+        "itemBody": "<p>The business cycle phase that is characterized by slowing growth in \neconomic activity is the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because in the slowdown phase, activity measures are above average but \ndecelerating. Moving to below-average rates of growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb05952f-0a9c-4a0a-89d8-a9e63208d71d",
+              "itemBody": "<p>A. slowdown.</p>",
+              "position": 1
+            },
+            {
+              "id": "24a757e5-504b-46e1-8dc6-8bff8bbe6ef3",
+              "itemBody": "<p>B. expansion.</p>",
+              "position": 2
+            },
+            {
+              "id": "fa57d81a-49f8-45a4-b4f2-75d0a6682e08",
+              "itemBody": "<p>C. contraction. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 4 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bb05952f-0a9c-4a0a-89d8-a9e63208d71d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-26-22",
+      "entry": {
+        "title": "2027-Mod26-Q22",
+        "itemBody": "<p>After noting positive changes in the aggregate index of coincident \neconomic indicators, an increase in the ratio of consumer installment debt to income \nwould most likely help confirm that an expansion is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The ratio of consumer installment debt to income is a lagging indicator. \nAn increase in it, by itself, would be evidence that an upturn is already underway. This \nwould confirm the implication of positive changes in coincident indicators that an \nexpansion is in place.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "87641c6a-a2f7-4943-b079-a91a1160acdb",
+              "itemBody": "<p>A. forthcoming.</p>",
+              "position": 1
+            },
+            {
+              "id": "39fca177-4ef0-4d22-92e8-27129373f9a4",
+              "itemBody": "<p>B. underway.</p>",
+              "position": 2
+            },
+            {
+              "id": "a3f0ad20-ca8d-4609-8b8d-208f71dfa9a0",
+              "itemBody": "<p>C. ending. \n \n \n \nSUMMARY: - \n \n(LOS 13.a): – 1, 2, 3, 21. \n(LOS 13.b): – 8. \n(LOS 13.c): – 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22. \n \n \n \n \n \n \n  \nUnderstanding Business Cycle \nFaculty:                                                                         Page 5 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "39fca177-4ef0-4d22-92e8-27129373f9a4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}

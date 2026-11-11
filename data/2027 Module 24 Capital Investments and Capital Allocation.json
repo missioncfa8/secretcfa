@@ -1,0 +1,2584 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6045,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 47,
+  "hidden_question_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 5: Capital Investments and Capital Allocation",
+    "topic_id": 1033,
+    "topic": "CFA-26-02-LI-C: Corporate Issuers",
+    "subtopic_id": 6045,
+    "subtopic": "Module 5: Capital Investments and Capital Allocation",
+    "question_count": 47,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 849,
+        "name": "Warehouse Course: Corporate Issuers 26-LI",
+        "code": "Warehouse Course: Corporate Issuers 26-LI",
+        "module_id": 4440,
+        "question_count": 18,
+        "type": "warehouse"
+      },
+      {
+        "id": 840,
+        "name": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+        "code": "Practice Pack Warehouse: Corporate Issuers 26-LI",
+        "module_id": 4657,
+        "question_count": 12,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 47.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false,
+        "multiple_attempts_enabled": true
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "8c427a0725779d53",
+    "ordered_item_ids": [
+      "54707",
+      "54708",
+      "54709",
+      "54710",
+      "54711",
+      "54712",
+      "54713",
+      "54714",
+      "54715",
+      "54716",
+      "54717",
+      "54718",
+      "54070",
+      "54071",
+      "54072",
+      "54073",
+      "54074",
+      "54075",
+      "54076",
+      "54077",
+      "54078",
+      "54079",
+      "54080",
+      "54081",
+      "54082",
+      "50846",
+      "50847",
+      "50848",
+      "50849",
+      "50850",
+      "50851"
+    ],
+    "visible_item_ids": [
+      "54707",
+      "54708",
+      "54709",
+      "54710",
+      "54711",
+      "54712",
+      "54713",
+      "54714",
+      "54715",
+      "54716",
+      "54717",
+      "54718",
+      "54070",
+      "54071",
+      "54072",
+      "54073",
+      "54074",
+      "54075",
+      "54076",
+      "54077",
+      "54078",
+      "54079",
+      "54080",
+      "54081",
+      "54082",
+      "50846",
+      "50847",
+      "50848",
+      "50849",
+      "50850",
+      "50851"
+    ]
+  },
+  "items": [
+    {
+      "id": "54707",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Terry-13",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information about a project:</p>\n<table style=\"border-collapse: collapse; width: 305px; height: 115.232px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 0.370373px;\"></tr>\n<tr style=\"height: 28.7153px;\">\n<td style=\"width: 197px; max-width: 197px; height: 28.7153px;\">Initial outlay</td>\n<td style=\"width: 104px; max-width: 104px; text-align: center; height: 28.7153px;\">€100 million</td>\n</tr>\n<tr style=\"height: 28.7153px;\">\n<td style=\"width: 197px; max-width: 197px; height: 28.7153px;\">Cash flow at end of Year 1</td>\n<td style=\"width: 104px; max-width: 104px; text-align: center; height: 28.7153px;\">€65 million</td>\n</tr>\n<tr style=\"height: 28.7153px;\">\n<td style=\"width: 197px; max-width: 197px; height: 28.7153px;\">Cash flow at end of Year 2</td>\n<td style=\"width: 104px; max-width: 104px; text-align: center; height: 28.7153px;\">€65 million</td>\n</tr>\n<tr style=\"height: 28.7153px;\">\n<td style=\"width: 197px; max-width: 197px; height: 28.7153px;\">Cash flow at end of Year 3</td>\n<td style=\"width: 104px; max-width: 104px; text-align: center; height: 28.7153px;\">€65 million</td>\n</tr>\n</tbody>\n</table>\n<p>If the required rate of return is 15%, the NPV is <i>closest</i> to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5dbe79ac-90dd-42dc-85bb-4666b034ca10"
+        },
+        "answerFeedback": {
+          "5dbe79ac-90dd-42dc-85bb-4666b034ca10": "<p>Correct because it discounts all the cash flows at the required return and sums them as follows: NPV = <sub>t=1</sub><sup>n</sup>ΣCF<sub>t</sub>&nbsp;/(1 + r)<sup>t</sup> − Outlay, where CF<sub>t</sub> = After-tax cash flow at time t, r = Required rate of return for the investment, Outlay = Investment cash flow at time zero, NPV&nbsp;= 65/(1 +&nbsp;15%)&nbsp;+&nbsp;65/(1 +&nbsp;15%)<sup>2</sup> +&nbsp;65/(1 +&nbsp;15%)<sup>3</sup>&nbsp;– 100 ≈ 56.52 + 49.15 + 42.74&nbsp;– 100 = 148.41&nbsp;≈ 48.</p>",
+          "b7ec3262-3067-4312-b8d8-7388d615f917": "<p>Incorrect because it does not discount the cash flows. Calculated as follows: NPV = 65 + 65 + 65&nbsp;– 100 = 95.&nbsp;</p>",
+          "c1c848ff-0810-491a-8927-ba857ae97a76": "<p>Incorrect because it fails to subtract the initial investment. Obtained as follows: NPV =&nbsp;65/(1 +&nbsp;15%)&nbsp;+&nbsp;65/(1 +&nbsp;15%)<sup>2</sup> +&nbsp;65/(1 +&nbsp;15%)<sup>3</sup>&nbsp;= 56.52 + 49.15 + 42.74&nbsp;= 148.41&nbsp;≈ 148.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5dbe79ac-90dd-42dc-85bb-4666b034ca10",
+              "itemBody": "<p>A. €48 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "b7ec3262-3067-4312-b8d8-7388d615f917",
+              "itemBody": "<p>B. €95 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "c1c848ff-0810-491a-8927-ba857ae97a76",
+              "itemBody": "<p>C. €148 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54708",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.03-CorpIssuers-Su-08",
+        "feedback": {},
+        "itemBody": "<p>The NPV of a new project is expected to be –$0.20&nbsp;million. An incremental investment of $0.40&nbsp;million&nbsp;would give management the flexibility to switch to a lower cost input in the future.&nbsp;If this option has an estimated value of $0.80&nbsp;million, the value of the project including the&nbsp;option is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "314a82dd-f309-4075-b3d1-d2f13fb45658"
+        },
+        "answerFeedback": {
+          "1f48a743-4176-41eb-9a3b-13ba68cc238b": "<p>Incorrect because&nbsp;the original NPV of the investment was not considered.&nbsp;</p><p>Project NPV ≠ –&nbsp;Cost of options&nbsp;+ Value&nbsp;of&nbsp;options.</p><p>Project NPV ≠&nbsp;– $0.4&nbsp;million + $0.8&nbsp;million&nbsp;= $0.4&nbsp;million.</p>",
+          "314a82dd-f309-4075-b3d1-d2f13fb45658": "<p>Correct because the NPV, including the real option, should be:</p><p>Project NPV = NPV (based on DCF alone) – Cost of options + Value&nbsp;of&nbsp;options.</p><p>Project NPV = –$0.2&nbsp;million – $0.4&nbsp;million + $0.8&nbsp;million&nbsp;= $0.2 million.</p>",
+          "95766019-7907-415c-a42c-9ff033d8bda5": "<p>Incorrect because the cost of the option was added to the NPV (based on DCF alone) instead of being subtracted.</p><p>Project NPV ≠ NPV (based on DCF alone)&nbsp;+ Cost of options + Value&nbsp;of&nbsp;options.</p><p>Project NPV ≠&nbsp;– $0.2&nbsp;million + $0.4&nbsp;million + $0.8&nbsp;million&nbsp;= $1.0&nbsp;million.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "314a82dd-f309-4075-b3d1-d2f13fb45658",
+              "itemBody": "<p>A. $0.20 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "1f48a743-4176-41eb-9a3b-13ba68cc238b",
+              "itemBody": "<p>B. $0.40 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "95766019-7907-415c-a42c-9ff033d8bda5",
+              "itemBody": "<p>C. $1.00 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54709",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Kashyap-02",
+        "feedback": {},
+        "itemBody": "<p>A company is deciding whether to invest in one of two mutually exclusive projects with positive NPVs. If Project 1 has a higher NPV but&nbsp;a lower IRR than Project 2, the company should:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "33c66f5f-c996-4e8e-ac9f-50895a76a57d"
+        },
+        "answerFeedback": {
+          "33c66f5f-c996-4e8e-ac9f-50895a76a57d": "<p>Correct because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. As a practical matter, once a corporation has the data to calculate the NPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. However, the most appropriate and theoretically sound criterion is the NPV.</p>",
+          "4cfc6fa6-fe30-4ac9-abcf-6000d44f135b": "<p>Incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion (not either one) is strongly preferred.</p>",
+          "937010da-f2c2-4511-8367-4de5a0c7685f": "<p>Incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV (not IRR) criterion is strongly preferred.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "33c66f5f-c996-4e8e-ac9f-50895a76a57d",
+              "itemBody": "<p>A. prefer Project 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "937010da-f2c2-4511-8367-4de5a0c7685f",
+              "itemBody": "<p>B. prefer Project 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "4cfc6fa6-fe30-4ac9-abcf-6000d44f135b",
+              "itemBody": "<p>C. be indifferent between Project 1 and Project 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54710",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Garcia-Huidobro-09",
+        "feedback": {},
+        "itemBody": "<p>Management <i>most likely</i> has the least amount of discretion when deciding to invest in a(n):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5b3184c9-2dbf-4276-97cf-1321ebbc9bcc"
+        },
+        "answerFeedback": {
+          "5b3184c9-2dbf-4276-97cf-1321ebbc9bcc": "<p>Correct because unlike going concern and expansion projects, for which management has discretion in deciding whether or not to invest, regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards.</p>",
+          "9188c5f6-b982-40a4-921c-cd01e2cbb302": "<p>Incorrect because&nbsp;unlike going concern and expansion projects, for which management has discretion in deciding whether or not to invest, regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards.</p>",
+          "e7a4a88e-2e21-4b73-b98d-628654ef7fe5": "<p>Incorrect because&nbsp;unlike going concern and expansion projects, for which management has discretion in deciding whether or not to invest, regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5b3184c9-2dbf-4276-97cf-1321ebbc9bcc",
+              "itemBody": "<p>A. regulatory project.</p>",
+              "position": 1
+            },
+            {
+              "id": "e7a4a88e-2e21-4b73-b98d-628654ef7fe5",
+              "itemBody": "<p>B. expansion project.</p>",
+              "position": 2
+            },
+            {
+              "id": "9188c5f6-b982-40a4-921c-cd01e2cbb302",
+              "itemBody": "<p>C. going concern project.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54711",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-CorpIssuers-Moustra-04",
+        "feedback": {},
+        "itemBody": "<p>The ability to abandon&nbsp;an investment if it has produced disappointing financial results is <i>most likely </i>a type of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "958adc70-b7b6-408b-a396-357ae4310ad3"
+        },
+        "answerFeedback": {
+          "52748899-6577-4ab9-9086-10b3743600dc": "<p>Incorrect because this is a type of sizing option, not a flexibility option. Regarding&nbsp;sizing options, if after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option&nbsp;while regarding&nbsp;flexibility options&nbsp;once an investment is made, operational flexibilities besides abandonment or expansion may be available.</p>",
+          "9579bd31-ea9a-4047-aa65-9543d75eb432": "<p>Incorrect because this is a type of sizing option, not a fundamental option. Regarding fundamental options,&nbsp;in such cases as the aforementioned, i.e. timing options, sizing options, flexibility options, there are options embedded in a project that can raise its value. In other cases, the whole investment is essentially an option. The payoffs from the investment are contingent on an underlying asset, just like most financial options.</p>",
+          "958adc70-b7b6-408b-a396-357ae4310ad3": "<p>Correct because an abandonment option is a type of sizing option. If after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option. At some future date, if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "958adc70-b7b6-408b-a396-357ae4310ad3",
+              "itemBody": "<p>A. sizing option.</p>",
+              "position": 1
+            },
+            {
+              "id": "52748899-6577-4ab9-9086-10b3743600dc",
+              "itemBody": "<p>B. flexibility option.</p>",
+              "position": 2
+            },
+            {
+              "id": "9579bd31-ea9a-4047-aa65-9543d75eb432",
+              "itemBody": "<p>C. fundamental option.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54712",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.06-CorpIssuers-Kennan-02",
+        "feedback": {},
+        "itemBody": "<p>Which statement regarding capital investments is correct?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "45bc8dfd-8b47-48bf-8186-8b9431dc0c57"
+        },
+        "answerFeedback": {
+          "45bc8dfd-8b47-48bf-8186-8b9431dc0c57": "<p>Correct because capital investments are also usually necessary if an established firm decides to extend its existing operations to adjacent products and services or expand to new regions or markets.</p>",
+          "8c92d407-2640-4768-a89b-478494925319": "<p>Incorrect because going concern projects, often known as maintenance capital expenditures, are investments to continue the company’s current operations and maintain the existing size of the business.</p>",
+          "ddc0f558-e011-4a85-8e5c-01161070b7ce": "<p>Incorrect because regulatory compliance projects often increase a firm’s expenses with no added revenue.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8c92d407-2640-4768-a89b-478494925319",
+              "itemBody": "<p>A. Going concern projects are investments to increase the size of the business</p>",
+              "position": 1
+            },
+            {
+              "id": "ddc0f558-e011-4a85-8e5c-01161070b7ce",
+              "itemBody": "<p>B. Regulatory compliance projects seldom increase a firm’s expenses with no added revenue</p>",
+              "position": 2
+            },
+            {
+              "id": "45bc8dfd-8b47-48bf-8186-8b9431dc0c57",
+              "itemBody": "<p>C. Capital investments are usually necessary if a firm extends its existing operations to adjacent products and services</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54713",
+      "entry": {
+        "title": "ITEM_CFA-MC-2023.06-CorpIssuers-Kennan-01",
+        "feedback": {},
+        "itemBody": "<p>Maintenance capital expenditures include:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f4b59282-1288-4a8d-a5a3-4de8249c178e"
+        },
+        "answerFeedback": {
+          "2450f9a0-9d1d-4b8a-847d-9c8039f307fb": "<p>Incorrect because investing in solar panel production to benefit from government subsidies is a new line of business project, not a going concern project. A firm’s management may decide to invest in an activity completely outside or only minimally related to its existing business. Usually seen as a special situation offering unusual growth, investment, or innovation opportunities for a company’s business or business model, these projects are likely to be the riskiest capital investments.</p>",
+          "ab87b298-2d86-4af7-be22-a1fe4edbec63": "<p>Incorrect because anti-money-laundering training is a regulatory compliance project, not a going concern project. Unlike projects based on management discretion, regulatory compliance projects are required to meet rules and standards.</p>",
+          "f4b59282-1288-4a8d-a5a3-4de8249c178e": "<p>Correct because continuous improvements of existing facilities are going concern projects. Going concern projects, often known as maintenance capital expenditures, are investments to continue the company’s current operations and maintain the existing size of the business. Common going concern projects include replacing assets nearing the end of their useful life, maintaining IT hardware and software, and continuous improvements of existing facilities.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f4b59282-1288-4a8d-a5a3-4de8249c178e",
+              "itemBody": "<p>A. continuous improvements of existing facilities.</p>",
+              "position": 1
+            },
+            {
+              "id": "ab87b298-2d86-4af7-be22-a1fe4edbec63",
+              "itemBody": "<p>B. anti-money-laundering training for employees.</p>",
+              "position": 2
+            },
+            {
+              "id": "2450f9a0-9d1d-4b8a-847d-9c8039f307fb",
+              "itemBody": "<p>C. investing in solar panel production to benefit from government subsidies.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54714",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.03-CorpIssuers-Simsek-13",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is a common capital allocation pitfall?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e48d36f5-52b7-4f33-aa09-6c09b87c5bb7"
+        },
+        "answerFeedback": {
+          "3644cbbf-540f-4474-8fdd-8aa584d95be6": "<p>Incorrect because sunk costs should be ignored in capital allocation decisions. A sunk cost is one that has already been incurred. One cannot change a sunk cost. Management’s decisions should be based on current and future cash flows and should not be affected by prior, or sunk, costs.</p>",
+          "4dbad914-f7cb-4e14-8d2c-efce781580d4": "<p>Incorrect because failing to consider alternative states in capital allocation decisions is a common mistake. Many companies also fail to consider differing states of the world, which can and should be incorporated through breakeven, scenario, and simulation analyses. This pitfall could be in effect if an issuer has had limited capital investment activity, such as not making divestitures&nbsp;or acquisitions, or not having a failed investment; while failure is obviously undesirable, the lack of having any failed investments over time could indicate a management team that is not taking enough risk.</p>",
+          "e48d36f5-52b7-4f33-aa09-6c09b87c5bb7": "<p>Correct because this is often a sign of inertia, which is a common mistake in capital allocation. Inertia is the result of management anchoring their capital investment budgets to prior year amounts. If capital investment each year is static or increasing despite falling returns on investment, the analyst should question the issuer’s justification for its capital investment and whether management should be considering alternative uses.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3644cbbf-540f-4474-8fdd-8aa584d95be6",
+              "itemBody": "<p>A. Ignoring sunk costs</p>",
+              "position": 1
+            },
+            {
+              "id": "e48d36f5-52b7-4f33-aa09-6c09b87c5bb7",
+              "itemBody": "<p>B. Anchoring capital investment budgets to prior year amounts</p>",
+              "position": 2
+            },
+            {
+              "id": "4dbad914-f7cb-4e14-8d2c-efce781580d4",
+              "itemBody": "<p>C. Considering different states of the world for investment alternatives</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54715",
+      "entry": {
+        "title": "ITEM_CFA-L1-03880",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family:Arial,Helvetica,sans-serif\">With respect to capital budgeting, which of the following statements is <i>most</i> accurate? The internal rate of return calculation assumes that a project's interim cash flows are reinvested at the project's:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "aee5e529-0592-4ca6-846d-b85dc5a1e65c"
+        },
+        "answerFeedback": {
+          "25f726ab-3a27-4380-bc85-9cfe172fab91": "<p>Incorrect because the IRR is compared to the required return to determine if a project is acceptable, but the interim cash flows are reinvested at the internal rate of return, not the hurdle rate.</p>",
+          "26189641-b846-488d-b241-bae534dd248d": "<p>Incorrect because the IRR is compared to the hurdle rate to determine if a project is acceptable. The weighted average cost of capital could be used as the hurdle rate if the project being evaluated has the same risk as the firm's average asset.</p>",
+          "aee5e529-0592-4ca6-846d-b85dc5a1e65c": "<p>Correct because the IRR assumes reinvestment at the IRR. Mathematically, whenever you discount a cash flow at a particular discount rate, you are implicitly assuming that you can reinvest a cash flow at that same discount rate.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "25f726ab-3a27-4380-bc85-9cfe172fab91",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">hurdle rate.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "aee5e529-0592-4ca6-846d-b85dc5a1e65c",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">internal rate of return.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "26189641-b846-488d-b241-bae534dd248d",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">weighted average cost of capital.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54716",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-CorpIssuers-Pech-04",
+        "feedback": {},
+        "itemBody": "<p>When evaluating potential capital investments, the&nbsp;<i>most&nbsp;</i>appropriate discount rate is the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d993864c-304b-464d-8d02-5e950e3d41e4"
+        },
+        "answerFeedback": {
+          "65902b27-7d0c-4da9-bc12-0dcaf86ccf47": "<p>Incorrect because the required return for an investment is the rate of return that a corporate issuer’s investors could earn on a similarly risky investment.</p>",
+          "d993864c-304b-464d-8d02-5e950e3d41e4": "<p>Correct because the required rate of return for an investment is the rate of return that a corporate issuer’s investors could earn on a similarly risky investment.</p>",
+          "ee4b09f9-891d-4d4c-86e8-f8ab4900da83": "<p>Incorrect because the WACC, after adjusting for any project-specific risks, is what issuers use as r in NPV analysis and as the hurdle rate for IRR analysis.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ee4b09f9-891d-4d4c-86e8-f8ab4900da83",
+              "itemBody": "<p>A. overall cost of capital for the company.</p>",
+              "position": 1
+            },
+            {
+              "id": "d993864c-304b-464d-8d02-5e950e3d41e4",
+              "itemBody": "<p>B. individual investment's required rate of return.</p>",
+              "position": 2
+            },
+            {
+              "id": "65902b27-7d0c-4da9-bc12-0dcaf86ccf47",
+              "itemBody": "<p>C. cost of debt or cost of equity, depending on the financing source.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54717",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-CorpIssuers-Simsek-02",
+        "feedback": {},
+        "itemBody": "<p>An analyst gathers the following information (in $ millions) about two mutually exclusive capital projects:</p>\n<table style=\"border-collapse: collapse; width: 432px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<th scope=\"col\">&nbsp;</th>\n<th style=\"text-align: center; width: 113px; max-width: 113px;\" scope=\"col\"><strong>NPV at 9% Required Rate of Return</strong></th>\n<th style=\"text-align: center; width: 121px; max-width: 121px;\" scope=\"col\"><strong>NPV at 12% Required Rate of Return&nbsp;</strong></th>\n<th style=\"text-align: center; width: 116px; max-width: 116px;\" scope=\"col\"><strong>NPV at 15% Required Rate of Return</strong></th>\n</tr>\n<tr>\n<td>Project 1</td>\n<td style=\"text-align: center; width: 113px; max-width: 113px;\">50</td>\n<td style=\"text-align: center; width: 121px; max-width: 121px;\">17</td>\n<td style=\"text-align: center; width: 116px; max-width: 116px;\">−10</td>\n</tr>\n<tr>\n<td>Project 2</td>\n<td style=\"text-align: center; width: 113px; max-width: 113px;\">61</td>\n<td style=\"text-align: center; width: 121px; max-width: 121px;\">13</td>\n<td style=\"text-align: center; width: 116px; max-width: 116px;\">−31</td>\n</tr>\n</tbody>\n</table>\n<p>Project 1 should be selected for investment if the required rate of return is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8afce3fb-7b42-406f-806a-41eb6fb8ffa9"
+        },
+        "answerFeedback": {
+          "6485371e-5f55-4b13-8430-6a2198a96fc5": "<p>Incorrect because the decision rule for the NPV is: Invest if NPV &gt; 0.&nbsp;In the case of mutually exclusive investment projects, a company should choose&nbsp;the one with the higher NPV.</p>",
+          "8afce3fb-7b42-406f-806a-41eb6fb8ffa9": "<p>Correct because the decision rule for the NPV is: Invest if NPV &gt; 0.&nbsp;In the case of mutually exclusive investment projects, a company should choose&nbsp;the one with the higher NPV.</p>",
+          "bf133392-35c9-4b89-8464-03e4a407d07f": "<p>Incorrect because both projects have a negative NPV at this discount rate. The decision rule for the NPV is: Invest if&nbsp;NPV &gt; 0. Do not invest if&nbsp;NPV &lt; 0.&nbsp;Therefore, neither would be selected by the decision maker.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6485371e-5f55-4b13-8430-6a2198a96fc5",
+              "itemBody": "<p>A. 9%.</p>",
+              "position": 1
+            },
+            {
+              "id": "8afce3fb-7b42-406f-806a-41eb6fb8ffa9",
+              "itemBody": "<p>B. 12%.</p>",
+              "position": 2
+            },
+            {
+              "id": "bf133392-35c9-4b89-8464-03e4a407d07f",
+              "itemBody": "<p>C. 15%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54718",
+      "entry": {
+        "title": "ITEM_CFA-L1-07347",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions):</span></p>\n<p>&nbsp;</p>\n<table style=\"width: 297px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col width=\"25.85%\"> <col width=\"33.97%\"> <col width=\"20.09%\"> <col width=\"20.09%\"> </colgroup>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong>Initial Outlay</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong>Year 1</strong></span></td>\n<td style=\"width: 64px; text-align: center; max-width: 64px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong>Year 2</strong></span></td>\n</tr>\n<tr>\n<td><span style=\"font-family: Arial,Helvetica,sans-serif;\">Cash flow</span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">−£150</span></td>\n<td style=\"text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">£8</span></td>\n<td style=\"width: 64px; max-width: 64px; text-align: center;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\">£175</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">The expected IRR for the project is <i>closest</i> to:</span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "7dd81438-5c72-435e-b532-178c378d0290"
+        },
+        "answerFeedback": {
+          "6a892856-ca48-48c5-9643-5d6dc692149e": "<p>Incorrect because it inflates cash flows in Year 2 by 8 and represents an IRR calculation using the following calculator inputs:</p><p>IRR ≠ PV= −150, PMT = 8, N = 2, FV = 175, Calculate I = 13.15246%, rounded to 13.2%.</p>",
+          "7dd81438-5c72-435e-b532-178c378d0290": "<p>Correct because the IRR is the discount rate that makes the present value of the future after-tax cash flows equal the investment outlay or:</p><p>∑<i><sup>n</sup><sub>t</sub></i><sub>=1</sub> CF<i><sub>t</sub></i> ÷ (1 + IRR)<i><sup>t</sup></i> = Outlay,</p><p>where IRR is the internal rate of return.&nbsp;Solved using the following calculator inputs: CF<sub>0</sub> = −150, CF<sub>1</sub> = 8, CF<sub>2</sub> = 175, Calculate IRR = 10.7119, rounded to 10.7%.</p>",
+          "91f7e58a-d787-4341-98d8-3c9e51d13be3": "<p>Incorrect because 12% is the company's required rate of return, not the expected IRR.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7dd81438-5c72-435e-b532-178c378d0290",
+              "itemBody": "<p>A. <span style=\"font-family:Arial,Helvetica,sans-serif\">10.7%.</span></p>",
+              "position": 1
+            },
+            {
+              "id": "91f7e58a-d787-4341-98d8-3c9e51d13be3",
+              "itemBody": "<p>B. <span style=\"font-family:Arial,Helvetica,sans-serif\">12.0%.</span></p>",
+              "position": 2
+            },
+            {
+              "id": "6a892856-ca48-48c5-9643-5d6dc692149e",
+              "itemBody": "<p>C. <span style=\"font-family:Arial,Helvetica,sans-serif\">13.2%.</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8812,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 840,
+      "sourceModuleId": 4657,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54070",
+      "entry": {
+        "title": "ITEM_20170421050",
+        "feedback": {},
+        "itemBody": "<div>The incremental after-tax cash flows (in € thousands) and information on two mutually exclusive projects are as follows:\n<div>\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: middle; width: 90px; max-width: 90px; text-align: center;\" scope=\"col\"><strong>Year</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 79px; max-width: 79px;\" scope=\"col\"><strong>0</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 85px; max-width: 85px;\" scope=\"col\"><strong>1</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 80px; max-width: 80px;\" scope=\"col\"><strong>2</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 76px; max-width: 76px;\" scope=\"col\"><strong>3</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 90px; max-width: 90px;\" scope=\"col\"><strong>4</strong></th>\n<th style=\"text-align: center; vertical-align: middle; width: 174px; max-width: 174px;\" scope=\"col\"><strong>Net Present Value (NPV, € thousands)</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 121px; max-width: 121px;\" scope=\"col\">\n<p><strong>Internal Rate of Return </strong></p>\n<p><strong>(IRR, %)</strong></p>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 90px; max-width: 90px;\">Project X</td>\n<td style=\"text-align: center; vertical-align: top; width: 79px; max-width: 79px;\">−15,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 85px; max-width: 85px;\">2,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\">5,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 76px; max-width: 76px;\">8,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 90px; max-width: 90px;\">8,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\">354.0</td>\n<td style=\"text-align: center; vertical-align: top; width: 121px; max-width: 121px;\">16.0</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 90px; max-width: 90px;\">Project Y</td>\n<td style=\"text-align: center; vertical-align: top; width: 79px; max-width: 79px;\">−13,250</td>\n<td style=\"text-align: center; vertical-align: top; width: 85px; max-width: 85px;\">200</td>\n<td style=\"text-align: center; vertical-align: top; width: 80px; max-width: 80px;\">500</td>\n<td style=\"text-align: center; vertical-align: top; width: 76px; max-width: 76px;\">7,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 90px; max-width: 90px;\">15,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 174px; max-width: 174px;\">---</td>\n<td style=\"text-align: center; vertical-align: top; width: 121px; max-width: 121px;\">---</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The appropriate hurdle rate to use in evaluating the projects is 15.0%. Which of the following statements is <i>most</i> accurate? The company should accept:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "6329e89f-5349-43f0-8849-2097be0d9286"
+        },
+        "answerFeedback": {
+          "0fcbb75c-8924-4da8-aec1-5a9df2ceb641": "<p>Incorrect. Both NPV<sub>X</sub> and NPV<sub>Y</sub> are positive, but because they are mutually exclusive projects, only the one with higher positive NPV will be chosen.</p>",
+          "6329e89f-5349-43f0-8849-2097be0d9286": "<p><strong>Correct.</strong> The NPV (in € thousands) and IRR of Project Y are calculated as follows:</p><div><table border=\"1\"><tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:78px; max-width:78px\">Project X</td>\n<td style=\"text-align:left; vertical-align:top; width:235px; max-width:235px\">NPV = €354.0 (given)</td>\n<td style=\"text-align:left; vertical-align:top\">IRR = 16.0% (given)</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:middle; width:78px; max-width:78px\">Project Y</td>\n<td style=\"text-align:left; vertical-align:top; width:235px; max-width:235px\">Using a financial calculator: CF<sub>0</sub> = −13,250, CF<sub>1</sub> = 200, CF<sub>2</sub> = 500, CF<sub>3</sub> = 7,000, CF<sub>4</sub> = 15,000, <em>i</em> = 15%, and solving for NPV, NPV = €480.9</td>\n<td style=\"text-align:left; vertical-align:top\">Using a financial calculator: CF<sub>0</sub> = −13,250, CF<sub>1</sub> = 200, CF<sub>2</sub> = 500, CF<sub>3</sub> = 7,000, and CF<sub>4</sub> = 15,000, and solving for IRR, IRR = 16.2%</td>\n</tr>\n</tbody></table></div><p>Because these projects are mutually exclusive, only one can be undertaken: It should be Project Y, which has the highest NPV and thus increases shareholder wealth the most. Both projects’ IRRs exceed the hurdle rate, and the IRR of Project Y exceeds that of Project X. The decision, however, should be based on the superior NPV of Project Y.</p>",
+          "7cf67d3f-a01d-45f9-be21-a8eb997f0c59": "<p>Incorrect because these projects are mutually exclusive and only one can be undertaken: It should be Project Y, which has the highest NPV and thus increases shareholder wealth the most. Both projects’ IRRs exceed the hurdle rate, and the IRR of Project Y exceeds that of Project X. The decision, however, should be based on the superior NPV of Project Y.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0fcbb75c-8924-4da8-aec1-5a9df2ceb641",
+              "itemBody": "<p>A. Both projects.</p>",
+              "position": 1
+            },
+            {
+              "id": "6329e89f-5349-43f0-8849-2097be0d9286",
+              "itemBody": "<p>B. Project Y only.</p>",
+              "position": 2
+            },
+            {
+              "id": "7cf67d3f-a01d-45f9-be21-a8eb997f0c59",
+              "itemBody": "<p>C. Project X only.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54071",
+      "entry": {
+        "title": "ITEM_20170421158",
+        "feedback": {},
+        "itemBody": "<div>Given a discount rate of 10%, the net present value (NPV) of the following investment is <i>closest</i> to:\n<div>\n<table style=\"border-collapse: collapse; width: 415px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: bottom; width: 85px; max-width: 85px; text-align: center;\" scope=\"col\"><strong>Time</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 61.4561px; max-width: 61.4561px;\" scope=\"col\"><strong>0</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 37px; max-width: 37px;\" scope=\"col\"><strong>1</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 36px; max-width: 36px;\" scope=\"col\"><strong>2</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 53px; max-width: 53px;\" scope=\"col\"><strong>3</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 35px; max-width: 35px;\" scope=\"col\"><strong>4</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 42px; max-width: 42px;\" scope=\"col\"><strong>5</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 39px; max-width: 39px;\" scope=\"col\"><strong>6</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 85px; max-width: 85px;\">Cash flow</td>\n<td style=\"text-align: center; vertical-align: top; width: 61.4561px; max-width: 61.4561px;\">−1,500</td>\n<td style=\"text-align: center; vertical-align: top; width: 37px; max-width: 37px;\">300</td>\n<td style=\"text-align: center; vertical-align: top; width: 36px; max-width: 36px;\">600</td>\n<td style=\"text-align: center; vertical-align: top; width: 53px; max-width: 53px;\">1,000</td>\n<td style=\"text-align: center; vertical-align: top; width: 35px; max-width: 35px;\">200</td>\n<td style=\"text-align: center; vertical-align: top; width: 42px; max-width: 42px;\">500</td>\n<td>300</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "cbb5371f-ccdc-4988-85a2-38f64cae7649"
+        },
+        "answerFeedback": {
+          "bd942bdc-88dc-4964-b3d7-476087036434": "<p>Incorrect; the mistake is to use the average cash flow across the six years (483.33). Using a financial calculator: PMT = −483.33, <em>N</em> = 6, <em>I</em>/<em>Y</em> = 10, FV = 0. Computing PV (PV = 2,105.03) and subtracting 1,500: 2,105.03 − 1500 = 605.03 ~ 605.</p>",
+          "bf6f41b5-fee4-4b61-9e07-17a9af7ab27d": "<p>Incorrect; 578 occurs when the cash flows are discounted by one period too many (i.e., Year 0 is discounted as if it were Year 1, Year 1 is discounted as if it were Year 2, etc.): CF<sub>1</sub> = −1,500, CF<sub>2</sub> = 300, CF<sub>3</sub> = 600, CF<sub>4</sub> = 1,000, CF<sub>5</sub> = 200, CF<sub>6</sub> = 500, CF<sub>7</sub> = 300, <em>I</em> = 10. Computing NPV the result is 578.</p>",
+          "cbb5371f-ccdc-4988-85a2-38f64cae7649": "<p><strong>Correct.</strong> The given cash flows are inserted into a financial calculator along with the 10% discount rate: CF<sub>0</sub> = −1,500, CF<sub>1</sub> = 300, CF<sub>2</sub> = 600, CF<sub>3</sub> = 1,000, CF<sub>4</sub> = 200, CF<sub>5</sub> = 500, CF<sub>6</sub> = 300, <em>I</em> = 10. Computing NPV the result is 636.32 ~ <strong>636</strong>. Alternatively, the net present value of the project is found by discounting each cash flow by the time at which it arises, at the appropriate discount rate, as follows:</p>\n<p style=\"margin-left: 1.618em;\">NPV = <math style=\"font-family: Arial;\"> <mrow> <mfrac> <mrow> <mo>−</mo><mn>1500</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>0</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>300</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>1</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>600</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>1000</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>3</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>200</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>4</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>500</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>5</mn> </msup> </mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <mn>300</mn></mrow> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>1.10</mn></mrow> <mo>)</mo></mrow></mrow> <mn>6</mn> </msup> </mrow> </mfrac> </mrow></math></p>\n<p style=\"margin-left: 1.618em;\">= 636.32 ~ 636</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bf6f41b5-fee4-4b61-9e07-17a9af7ab27d",
+              "itemBody": "<p>A. 578.</p>",
+              "position": 1
+            },
+            {
+              "id": "bd942bdc-88dc-4964-b3d7-476087036434",
+              "itemBody": "<p>B. 605.</p>",
+              "position": 2
+            },
+            {
+              "id": "cbb5371f-ccdc-4988-85a2-38f64cae7649",
+              "itemBody": "<p>C. 636.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54072",
+      "entry": {
+        "title": "ITEM_20170502005",
+        "feedback": {},
+        "itemBody": "<div>A project has the following annual cash flows:\n<div>\n<table style=\"border-collapse: collapse; width: 584px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: bottom; width: 109px; max-width: 109px; text-align: center;\" scope=\"col\"><strong>Year 0</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 106px; max-width: 106px;\" scope=\"col\"><strong>Year 1</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 120px; max-width: 120px;\" scope=\"col\"><strong>Year 2</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 112px; max-width: 112px;\" scope=\"col\"><strong>Year 3</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; width: 122px; max-width: 122px;\" scope=\"col\"><strong>Year 4</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: top; width: 109px; max-width: 109px;\">‒$4,662,005</td>\n<td style=\"text-align: center; vertical-align: top; width: 106px; max-width: 106px;\">$22,610,723</td>\n<td style=\"text-align: center; vertical-align: top; width: 120px; max-width: 120px;\">‒$41,072,261</td>\n<td style=\"text-align: center; vertical-align: top; width: 112px; max-width: 112px;\">$33,116,550</td>\n<td style=\"text-align: center; vertical-align: top; width: 122px; max-width: 122px;\">‒$10,000,000</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>Which of the following discount rates <i>most likely </i>produces the highest net present value (NPV)?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "17bb3aec-d718-46ea-b553-339cf9c6769c"
+        },
+        "answerFeedback": {
+          "17bb3aec-d718-46ea-b553-339cf9c6769c": "<p><strong>Correct.</strong> The NPV at 15% is $99.93. The NPV at 10% is –$0.01. The NPV at 8% is –$307.59.</p>",
+          "5538605d-8952-422b-9505-5f5d1ae39005": "<p>Incorrect. The NPV at 15% is $99.93. The NPV at 10% is –$0.01. The NPV at 8% is –$307.59.</p>",
+          "f7f0ae91-90ce-4405-bbd7-cb96211683d8": "<p>Incorrect. The NPV at 15% is $99.93. The NPV at 10% is –$0.01. The NPV at 8% is –$307.59.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f7f0ae91-90ce-4405-bbd7-cb96211683d8",
+              "itemBody": "<p>A. 8%</p>",
+              "position": 1
+            },
+            {
+              "id": "5538605d-8952-422b-9505-5f5d1ae39005",
+              "itemBody": "<p>B. 10%</p>",
+              "position": 2
+            },
+            {
+              "id": "17bb3aec-d718-46ea-b553-339cf9c6769c",
+              "itemBody": "<p>C. 15%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54073",
+      "entry": {
+        "title": "ITEM_20170502075",
+        "feedback": {},
+        "itemBody": "<p>A firm is considering a project that would require an initial investment of THB270 million (Thai baht). The project will help increase the firm’s after-tax net cash flows by THB30 million per year in perpetuity, and it is found to have a negative NPV of THB20 million. The IRR (%) of the project is <i>closest </i>to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "70f8ee6a-78b8-428a-bf8e-8c649fab6d7a"
+        },
+        "answerFeedback": {
+          "02390550-45e4-4dd2-8496-583baddbd4c4": "<p>Incorrect. It assumes a negative NPV of 20 and solves for IRR = 30/250 = 12.00%.</p>",
+          "10a0fa33-c26f-43e2-bb07-baf4a30103fe": "<p>Incorrect. It assumes a positive NPV of 20 and solves for IRR = 30/290 = 10.34%.</p>",
+          "70f8ee6a-78b8-428a-bf8e-8c649fab6d7a": "<p><strong>Correct.</strong> The IRR is the discount rate that makes the NPV = 0. Because the cash flow stream is in perpetuity, it can be solved as follows:</p><p>0 = –270 + (30/IRR)</p><p>IRR = 11.1%</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "10a0fa33-c26f-43e2-bb07-baf4a30103fe",
+              "itemBody": "<p>A. 10.3%.</p>",
+              "position": 1
+            },
+            {
+              "id": "70f8ee6a-78b8-428a-bf8e-8c649fab6d7a",
+              "itemBody": "<p>B. 11.1%.</p>",
+              "position": 2
+            },
+            {
+              "id": "02390550-45e4-4dd2-8496-583baddbd4c4",
+              "itemBody": "<p>C. 12.0%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54074",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.01-CorpIssuers-Kassem-05",
+        "feedback": {},
+        "itemBody": "<p>A measure of how effectively capital is converted into after-tax operating profits is the:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1123fcca-cc8a-4361-8e00-86acd410ecf7"
+        },
+        "answerFeedback": {
+          "1123fcca-cc8a-4361-8e00-86acd410ecf7": "<p>Correct because ROIC reflects how effectively a company’s management&nbsp;is able to&nbsp;convert capital into after-tax operating profits.</p>",
+          "90ebfd4c-3eb5-4b30-a2c7-22e0d065ab8b": "<p>Incorrect because the hurdle rate is the rate that a project’s IRR must exceed for the project to be accepted by the company.</p>",
+          "acdad722-2fdd-4fea-829c-6531d4f05f11": "<p>Incorrect because cost of capital (COC), is&nbsp;the required return used in the NPV calculation, and the company’s associated cost of funds.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "90ebfd4c-3eb5-4b30-a2c7-22e0d065ab8b",
+              "itemBody": "<p>A. hurdle rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "acdad722-2fdd-4fea-829c-6531d4f05f11",
+              "itemBody": "<p>B. cost of capital.</p>",
+              "position": 2
+            },
+            {
+              "id": "1123fcca-cc8a-4361-8e00-86acd410ecf7",
+              "itemBody": "<p>C. return on invested capital.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54075",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-CorpIssuers-Groenning-18",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is considered a capital allocation pitfall? Basing investment decisions on:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "624427a8-97c9-4e75-990a-889a9da97b08"
+        },
+        "answerFeedback": {
+          "624427a8-97c9-4e75-990a-889a9da97b08": "<p>Correct because one common pitfall is&nbsp;basing investment decisions on EPS, net income, or ROE: Companies sometimes have incentives to boost earnings per share, net income, or return on equity. Many investments, even those with strong NPVs, do not increase these accounting numbers in the short run and may even reduce them. Paying too much attention to short-run accounting numbers can result in a company choosing investments that are not in the long-run economic interests of its shareholders.</p>",
+          "71e3868b-aff4-40a6-9f5c-48fb51b74965": "<p>Incorrect because one of the capital allocation assumptions is that decisions must reflect the impact of taxes. Furthermore, in analyzing a complicated investment, individuals assessing the investment for the company may erroneously omit relevant cash flows, double-count cash flows, and mishandle taxes. Basing investments decisions on after-tax cash flows is the correct approach and hence not a capital allocation pitfall.</p>",
+          "856d2f91-9c3b-4dc2-bf5a-9e5feec6fa54": "<p>Incorrect because not identifying the economic alternatives (real and financial) that are the opportunity costs is probably the biggest failure by companies in their analyses.&nbsp;Basing investments decisions on opportunity costs is&nbsp;the correct approach and hence not a capital allocation pitfall.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "856d2f91-9c3b-4dc2-bf5a-9e5feec6fa54",
+              "itemBody": "<p>A. opportunity costs.</p>",
+              "position": 1
+            },
+            {
+              "id": "71e3868b-aff4-40a6-9f5c-48fb51b74965",
+              "itemBody": "<p>B. after-tax cash flows.</p>",
+              "position": 2
+            },
+            {
+              "id": "624427a8-97c9-4e75-990a-889a9da97b08",
+              "itemBody": "<p>C. short-run accounting numbers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54076",
+      "entry": {
+        "title": "ITEM_CFA-L1-09001",
+        "feedback": {},
+        "itemBody": "<p>When choosing between mutually exclusive projects, an analyst should:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "8a71700b-429d-4711-a53e-d23731a46de7"
+        },
+        "answerFeedback": {
+          "3ba6ade2-2003-4a94-b9aa-779986ee2b16": "<p>Incorrect because&nbsp;the decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment: Invest if : IRR &gt; <i>r</i>; and Do not invest if: IRR &lt; <i>r</i>.&nbsp;However,&nbsp;when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred.&nbsp;Therefore, the&nbsp;IRR criterion is not preferred&nbsp;in this case. In addition, mutually exclusive projects imply that only one project can be chosen.</p>",
+          "8a71700b-429d-4711-a53e-d23731a46de7": "<p>Correct because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. We referred to the rate used in discounting the cash flows as the “required rate of return.” The required rate of return is the discount rate that the issuer’s suppliers of capital require given the riskiness of the project. This discount rate is frequently called the “opportunity cost of funds” or the “cost of capital.” For a capital investment with one investment outlay, made initially, the net present value (NPV) is the present value of the future after-tax cash flows minus the investment outlay, where the discount rate equals the required rate of return.</p>",
+          "e93c9cf1-6b12-48db-960d-b81ab02f28e7": "<p>Incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred.&nbsp;Independent projects versus mutually exclusive projects: Independent projects are capital investments whose cash flows are independent of each other. Mutually exclusive projects compete directly with each other.&nbsp;The decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment: Invest if : IRR &gt; <i>r</i>; and Do not invest if: IRR &lt; <i>r</i>.&nbsp;The required rate of return is often called the hurdle rate, the rate that a project’s IRR must exceed for the project to be accepted by the company.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e93c9cf1-6b12-48db-960d-b81ab02f28e7",
+              "itemBody": "<p>A. accept the project with the highest IRR.</p>",
+              "position": 1
+            },
+            {
+              "id": "8a71700b-429d-4711-a53e-d23731a46de7",
+              "itemBody": "<p>B. use the&nbsp;opportunity cost of funds as the discount rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "3ba6ade2-2003-4a94-b9aa-779986ee2b16",
+              "itemBody": "<p>C. accept the projects for which the IRR is greater than the opportunity cost of funds.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 7,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54077",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.09-CorpIssuers-Hung-01",
+        "feedback": {},
+        "itemBody": "<p>A company is evaluating the following mutually exclusive capital projects:</p>\n<table style=\"border-collapse: collapse; width: 351px; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"width: 66px; max-width: 66px;\" scope=\"col\">&nbsp;</th>\n<th style=\"text-align: center; width: 135px; max-width: 135px;\" scope=\"col\"><strong>Project 1</strong></th>\n<th style=\"text-align: center; width: 136px; max-width: 136px;\" scope=\"col\"><strong>Project 2</strong></th>\n</tr>\n<tr>\n<td style=\"width: 66px; max-width: 66px;\">NPV</td>\n<td style=\"text-align: center; width: 135px; max-width: 135px;\">$180,000</td>\n<td style=\"text-align: center; width: 136px; max-width: 136px;\">$100,000</td>\n</tr>\n<tr>\n<td style=\"width: 66px; max-width: 66px;\">IRR</td>\n<td style=\"text-align: center; width: 135px; max-width: 135px;\">10%</td>\n<td style=\"text-align: center; width: 136px; max-width: 136px;\">15%</td>\n</tr>\n</tbody>\n</table>\n<p>If the hurdle rate is 8%, the company should invest in:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b8bf9357-b3d7-4089-9081-d110c74c5da8"
+        },
+        "answerFeedback": {
+          "0d30117a-1297-4625-b74d-24f874a70538": "<p>Incorrect because Project 2&nbsp;has a lower NPV despite a higher IRR. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound.</p>",
+          "b8bf9357-b3d7-4089-9081-d110c74c5da8": "<p>Correct because Project 1&nbsp;has a higher NPV. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound.</p>",
+          "d81bfa94-89c9-478b-9704-9bc39791d4bf": "<p>Incorrect because Project 1&nbsp;and Project 2&nbsp;are mutually exclusive projects. In the case of mutually exclusive investment projects, a company could, on occasion, face the following situation: Project A might have a larger NPV than Project B, but Project B has a higher IRR than Project A. Since the company can invest in only one project, which should it be— Project A or Project B? The correct choice is Project A, the one with the higher NPV.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b8bf9357-b3d7-4089-9081-d110c74c5da8",
+              "itemBody": "<p>A. Project 1 only.</p>",
+              "position": 1
+            },
+            {
+              "id": "0d30117a-1297-4625-b74d-24f874a70538",
+              "itemBody": "<p>B. Project 2 only.</p>",
+              "position": 2
+            },
+            {
+              "id": "d81bfa94-89c9-478b-9704-9bc39791d4bf",
+              "itemBody": "<p>C. both Project 1&nbsp;and Project 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 8,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54078",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.06-CorpIssuers-Ma-06",
+        "feedback": {},
+        "itemBody": "<p>An electric vehicle manufacturer invests in a new technology to meet new safety standards. This project is <i>best</i> classified as a(n):</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9d68ac26-4b9e-4029-8ae2-5a0690156d2f"
+        },
+        "answerFeedback": {
+          "9d68ac26-4b9e-4029-8ae2-5a0690156d2f": "<p>Correct because&nbsp;regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards.&nbsp;The investment in&nbsp;new technology to&nbsp;meet improved safety standards&nbsp;is&nbsp;therefore a compliance&nbsp;project.</p>",
+          "9f4c5783-9036-47c5-8a7a-9d8a0d074c26": "<p>Incorrect because going concern projects are those investments needed to continue the company’s current operations and maintain the existing size of the business.&nbsp;The investment in&nbsp;new technology&nbsp;to meet improved safety standards&nbsp;is not a going concern&nbsp;project.</p>",
+          "f72c4acc-2f56-42f7-88cf-f8d34ee7b36e": "<p>Incorrect because expansion projects are those that increase business size, usually by investing in the development of new products or services and/or acquiring other companies.&nbsp;The investment in&nbsp;new technology&nbsp;to meet improved safety standards&nbsp;is not an expansion project.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f72c4acc-2f56-42f7-88cf-f8d34ee7b36e",
+              "itemBody": "<p>A. expansion project.</p>",
+              "position": 1
+            },
+            {
+              "id": "9d68ac26-4b9e-4029-8ae2-5a0690156d2f",
+              "itemBody": "<p>B. compliance project.</p>",
+              "position": 2
+            },
+            {
+              "id": "9f4c5783-9036-47c5-8a7a-9d8a0d074c26",
+              "itemBody": "<p>C. going concern project.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 9,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54079",
+      "entry": {
+        "title": "ITEM_CFA-MC-2022.08-CorpIssuers-Tsependa-02",
+        "feedback": {},
+        "itemBody": "<p>Compared to going concern projects, expansion projects <i>most likely</i> involve:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "b42b5d0b-6fb5-4b89-ab85-0ad1ac8ae1be"
+        },
+        "answerFeedback": {
+          "3d620228-97ec-494c-a77c-8ce24275151e": "<p>Incorrect because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects.</p>",
+          "a192a320-26b6-4baa-958d-7ab63fb0a4ce": "<p>Incorrect because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects.</p>",
+          "b42b5d0b-6fb5-4b89-ab85-0ad1ac8ae1be": "<p>Correct because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3d620228-97ec-494c-a77c-8ce24275151e",
+              "itemBody": "<p>A. greater uncertainty only.</p>",
+              "position": 1
+            },
+            {
+              "id": "a192a320-26b6-4baa-958d-7ab63fb0a4ce",
+              "itemBody": "<p>B. greater amounts of capital&nbsp;only.</p>",
+              "position": 2
+            },
+            {
+              "id": "b42b5d0b-6fb5-4b89-ab85-0ad1ac8ae1be",
+              "itemBody": "<p>C. both greater uncertainty and greater amounts of capital.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 10,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54080",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.03-CorpIssuers-Sabau-05",
+        "feedback": {},
+        "itemBody": "<p>A company should exercise the abandonment option on an investment if the present value of the cash flows from continuing the investment is:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "5b499b0e-b7f7-4794-8fb6-7518d950ccdd"
+        },
+        "answerFeedback": {
+          "5b499b0e-b7f7-4794-8fb6-7518d950ccdd": "<p>Correct because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. Conversely, if the PV of the cash flows from continuing the investment is lower than the cash flow from abandoning the investment, the company should exercise the abandonment option.&nbsp;</p>",
+          "c7df0148-47f9-4eed-a19a-ec23d170a9de": "<p>Incorrect because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. The PV of the cash flows from continuing the investment is greater than the cash flow from abandoning the investment, the company should not exercise the abandonment option.&nbsp;</p>",
+          "f69f363c-7842-43b2-875c-bde6129b57f7": "<p>Incorrect because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment (and not when it is equal to), the company should exercise the abandonment option.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5b499b0e-b7f7-4794-8fb6-7518d950ccdd",
+              "itemBody": "<p>A. lower than the cash flow from abandoning the investment.</p>",
+              "position": 1
+            },
+            {
+              "id": "f69f363c-7842-43b2-875c-bde6129b57f7",
+              "itemBody": "<p>B. the same as the cash flow from abandoning the investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "c7df0148-47f9-4eed-a19a-ec23d170a9de",
+              "itemBody": "<p>C. greater than the cash flow from abandoning the investment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 11,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54081",
+      "entry": {
+        "title": "ITEM_CFA-L1-08087",
+        "feedback": {},
+        "itemBody": "<p>A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions):</p>\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col width=\"25.85%\"> <col width=\"33.97%\"> <col width=\"20.09%\"> <col width=\"20.09%\"> </colgroup>\n<tbody>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th scope=\"col\">&nbsp;</th>\n<th style=\"width: 101px; text-align: center; max-width: 101px;\" scope=\"col\"><strong>Initial Outlay</strong></th>\n<th style=\"width: 51px; text-align: center; max-width: 51px;\" scope=\"col\"><strong>Year 1</strong></th>\n<th style=\"text-align: center;\" scope=\"col\"><strong>Year 2</strong></th>\n</tr>\n<tr>\n<td>Cash flow</td>\n<td style=\"width: 101px; max-width: 101px; text-align: center;\">−£150</td>\n<td style=\"width: 51px; max-width: 51px; text-align: center;\">£8</td>\n<td style=\"text-align: center;\">£175</td>\n</tr>\n</tbody>\n</table>\n<p>The expected IRR for this project is <i>most likely</i>:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "bfda77d3-d57b-43a7-b539-c9976c2776dd"
+        },
+        "answerFeedback": {
+          "2c2048db-c371-4efd-bc77-ed6770757948": "<p>Incorrect because it refers to the company's required rate of return, not the expected IRR.</p>",
+          "bfda77d3-d57b-43a7-b539-c9976c2776dd": "<p>Correct because the IRR is the discount rate that makes the present value of the future after-tax cash flows equal that investment outlay or ∑<i><sup>n</sup><sub>t</sub></i><sub>=1</sub> CF<i><sub>t</sub></i> ÷ (1 + IRR)<i><sup>t</sup></i> = Outlay, where IRR is the internal rate of return.&nbsp;Solved using the following calculator inputs: CF<sub>0</sub> = −150, CF<sub>1</sub> = 8, CF<sub>2</sub> = 175, Calculate IRR = 10.7119, rounded to 10.71% which is less than 12%.&nbsp;</p>",
+          "f985c053-a167-403b-966a-29ddd087319b": "<p>Incorrect because it inflates cash flows in Years 2 by 8 and represents an IRR calculation using the following calculator inputs: IRR ≠ PV= −150, PMT = 8, N = 2, FV = 175, Calculate I = 13.15246%, rounded to 13.15% which is more than 12%.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bfda77d3-d57b-43a7-b539-c9976c2776dd",
+              "itemBody": "<p>A. less than 12%.</p>",
+              "position": 1
+            },
+            {
+              "id": "2c2048db-c371-4efd-bc77-ed6770757948",
+              "itemBody": "<p>B. equal to 12%.</p>",
+              "position": 2
+            },
+            {
+              "id": "f985c053-a167-403b-966a-29ddd087319b",
+              "itemBody": "<p>C. greater than 12%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 12,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54082",
+      "entry": {
+        "title": "ITEM_CFA-MC-2021.03-CorpIssuers-Pech-03",
+        "feedback": {},
+        "itemBody": "<p>Subsequent to making a capital investment, a company reacts&nbsp;to poor financial results&nbsp;from the project by abandoning it. This action alone&nbsp;<i>best </i>exemplifies the exercise of a:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "0c86cb95-a489-4d66-83dc-df6165ea3789"
+        },
+        "answerFeedback": {
+          "0c86cb95-a489-4d66-83dc-df6165ea3789": "<p>Correct because sizing options encompass abandonment or expansion of capacity. If after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option. At some future date, if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. Conversely, if the company can make additional investments when future financial results are strong, the company has a growth option or an expansion option.</p>",
+          "b9633a7e-c19e-4794-a2af-bbf393aa8abb": "<p>Incorrect because timing options involve the sequencing of projects. Instead of investing now, the company can delay investing. Delaying an investment and basing the decision on hopefully improved information that you might have in, say, a year could help improve the NPV of the projects selected. Project sequencing options allow the company to defer the decision to invest in a future investment until the outcome of some or all of a current investment is known. Investments are sequenced over time, so that investing in a project creates the option to make future investments.</p>",
+          "f97d15f9-06d5-4cd1-8d5d-66f112c9989e": "<p>Incorrect because flexibility options include operational changes&nbsp;possible with current capacity, such as paying overtime or adding a shift to meet excess demand.&nbsp;Once an investment is made, operational flexibilities besides abandonment or expansion may be available. If demand exceeds capacity, by increasing prices, the company could benefit from the excess demand, which it cannot do by increasing production. There are also production-flexibility options, which offer the operational flexibility to alter production when demand varies from what is forecast. Even though it is expensive, the company can profit from working overtime or from adding additional shifts.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0c86cb95-a489-4d66-83dc-df6165ea3789",
+              "itemBody": "<p>A. sizing option.</p>",
+              "position": 1
+            },
+            {
+              "id": "b9633a7e-c19e-4794-a2af-bbf393aa8abb",
+              "itemBody": "<p>B. timing option.</p>",
+              "position": 2
+            },
+            {
+              "id": "f97d15f9-06d5-4cd1-8d5d-66f112c9989e",
+              "itemBody": "<p>C. flexibility option.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 13,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8610,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50846",
+      "entry": {
+        "body": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Larissa Soroka, an analyst at ABC company, has been asked to prepare cash flow forecasts for two mutually exclusive investment projects related to new products. ABC’s management asks Soroka to include the cost of market research that was recently completed as well as the potential loss of revenue from existing products that could occur if either project is undertaken. Soroka presents the forecast in <strong>Exhibit 1</strong> and is asked to calculate IRR and NPV for both projects. Investors in ABC have a required rate of return of 8%.</p>\n<div id=\"CFA0151-R-s05-EXH1\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 1</h2>\n<h3 style=\"text-align: center;\">Cash Flow Forecast for Projects A and B</h3>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"vertical-align: bottom; padding: 8px; text-align: center;\" scope=\"row\"><strong>Time</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"row\"><strong>0</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"row\"><strong>1</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"row\"><strong>2</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"row\"><strong>3</strong></th>\n<th style=\"text-align: center; vertical-align: middle; padding: 8px;\" scope=\"row\"><strong>4</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">Project A</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(18.5)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">4.5</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">6.0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">6.0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">5.5</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding: 8px;\">Project B</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(33.5)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(2.5)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">(1.0)</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">24.0</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">25.5</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">ABC’s management asks Soroka to consider in her forecast the impact of a six-month delay in all future cash flows and estimate the impact of that event on IRR and NPV.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">After reviewing the forecast, ABC’s management asks Soroka to estimate ABC’s ROIC for 20X2. ABC earned operating profit of $8,830, had an effective tax rate of 22%, and reported the balance sheet in <strong>Exhibit 2</strong>.</p>\n<div id=\"CFA0151-R-s05-EXH2\" style=\"border: 2px solid #ccc; padding: 15px; margin-top: 20px; margin-bottom: 20px; overflow: auto; background-color: #fff;\">\n<h2 style=\"font-family: Arial, sans-serif; font-size: 18pt !important; text-align: center; line-height: 1.5; padding: 15px; margin-bottom: 20px; margin-top: 20px !important; background-color: inherit !important; border-top: 2px solid #ccc; border-bottom: none !important; border-right: none; border-left: none;\"><i class=\"fas fa-image\" style=\"background: inherit !important;\"> </i>Exhibit 2</h2>\n<h3 style=\"text-align: center;\">ABC Balance Sheet (end-of-period values)</h3>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Assets:</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>20X1</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"row\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>20X2</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Cash</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1,600</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">1,720</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Short-term assets</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">30,450</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">29,910</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Long-term assets</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px; border: 1px solid #000000; border-width: 0px 0px 1px 0px;\">60,250</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px; border: 1px solid #000000; border-width: 0px 0px 1px 0px;\">62,060</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Total assets</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">92,300</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">93,690</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>&nbsp;</p>\n<div style=\"overflow-x: auto; display: flex; justify-content: center;\">\n<table style=\"border-collapse: collapse; border-style: none; border-bottom: 1px solid #000000;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<thead>\n<tr style=\"border-top: 1px solid #000000; border-bottom: 1px solid #000000;\">\n<th style=\"text-align: left; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>Liabilities and equity:</strong></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>20X1</strong></th>\n<th style=\"text-align: left; vertical-align: top; padding: 8px;\" scope=\"row\"></th>\n<th style=\"text-align: center; vertical-align: bottom; padding: 8px;\" scope=\"row\"><strong>20X2</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Accounts payable</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">12,930</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">11,620</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Short-term debt</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">8,030</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">8,390</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Long-term debt</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">25,040</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">25,910</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Share capital</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">39,800</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">40,990</td>\n</tr>\n<tr>\n<td style=\"text-align: left; vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Retained earnings</td>\n<td style=\"padding: 8px; text-align: center; vertical-align: middle; border: 1px solid #000000; border-width: 0px 0px 1px 0px;\">6,500</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"padding: 8px; text-align: center; vertical-align: middle; border: 1px solid #000000; border-width: 0px 0px 1px 0px;\">6,780</td>\n</tr>\n<tr>\n<td style=\"vertical-align: middle; padding-top: 8px; padding-right: 8px; padding-bottom: 8px;\">Total liabilities and equity</td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">92,300</td>\n<td style=\"text-align: left; vertical-align: top; padding: 8px;\"></td>\n<td style=\"text-align: center; vertical-align: middle; padding: 8px;\">93,690</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">ABC’s management has an ROIC objective of at least 9.2% and asks Soroka for her recommendation about the projects.</p>",
+        "title": "Vignette",
+        "passage": false,
+        "sourceUrl": "",
+        "orientation": "left",
+        "instructions": null
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Stimulus",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 0.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "50847",
+      "entry": {
+        "title": "CFA0151-R-s05-Q6",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is correct. Capital allocation analysis should include only incremental cash flows associated with a new investment. The loss of revenue from existing products is an incremental negative effect that should be included in the analysis. The market research costs in this case are a sunk cost because the research has already been completed and therefore does not affect cash-flow estimates, no matter whether ABC undertakes either of these projects or neither of them.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">When preparing the cash-flow forecasts for both projects, Soroka should include:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "e743b4ab-d0ce-417d-b09b-45966982728f"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8cdb05c1-59e0-4903-80df-f3d398bab07f",
+              "itemBody": "A. only the cost of the market research.",
+              "position": 1
+            },
+            {
+              "id": "e743b4ab-d0ce-417d-b09b-45966982728f",
+              "itemBody": "B. only the loss of revenue from existing products.",
+              "position": 2
+            },
+            {
+              "id": "51ff864a-f912-46db-9c11-1bd0f3dcf67f",
+              "itemBody": "C. both the market research cost and the loss of revenue from existing products.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": "50846"
+    },
+    {
+      "id": "50848",
+      "entry": {
+        "title": "CFA0151-R-s05-Q7",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. The IRR decision rule is to invest if the IRR exceeds the required rate of return or hurdle rate. Project B’s IRR is 8.97%, which exceeds the required rate of return of 8%; however, Project A’s IRR is 7.04%, which is below the required rate of return of 8%.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The NPV of both projects can be calculated as follows:</p>\n<div id=\"CFA0151-R-s05-E___11\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>NPV</mtext> </mrow> <mi>A</mi> </msub> <mo>=</mo> <mo>−</mo> <mn>18.5</mn> <mo>+</mo> <mstyle><mfrac> <mrow> <mn>4.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>1</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mn>6</mn> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac></mstyle> <mstyle><mfrac> <mn>6</mn> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mfrac></mstyle> <mstyle><mfrac> <mrow> <mn>5.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>4</mn> </msup> </mrow> </mfrac></mstyle> <mo>=</mo> <mo>−</mo> <mn>0.38.</mn> </mrow> </semantics></math></div>\n<div id=\"CFA0151-R-s05-E___12\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>NPV</mtext> </mrow> <mi>B</mi> </msub> <mo>=</mo> <mo>−</mo> <mn>33.5</mn> <mo>+</mo> <mstyle><mfrac> <mrow> <mo>−</mo> <mn>2.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>1</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mrow> <mo>−</mo> <mn>2.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac></mstyle> <mstyle><mfrac> <mrow> <mn>24</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mfrac></mstyle> <mstyle><mfrac> <mrow> <mn>25.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.08</mn> <mo>)</mo> </mrow> <mn>4</mn> </msup> </mrow> </mfrac></mstyle> <mo>=</mo> <mtext>&nbsp;</mtext> <mn>1.12.</mn> </mrow> </semantics></math></div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Using the same equation, we can solve for the IRRs by assuming that NPV = 0.</p>\n<div id=\"CFA0151-R-s05-E___13\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <mn>0</mn> <mo>=</mo> <mo>−</mo> <mn>18.5</mn> <mo>+</mo> <mstyle><mfrac> <mrow> <mn>4.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>A</mtext> </msub> <mo>)</mo> </mrow> <mn>1</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mn>6</mn> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>A</mtext> </msub> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mn>6</mn> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>A</mtext> </msub> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mrow> <mn>5.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>A</mtext> </msub> <mo>)</mo> </mrow> <mn>4</mn> </msup> </mrow> </mfrac></mstyle> <mo>.</mo> </mrow> </semantics></math></div>\n<div id=\"CFA0151-R-s05-E___14\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mi>A</mi> </msub> <mo>=</mo> <mn>7.04</mn> <mtext>%</mtext> <mo>.</mo> </mrow> </semantics></math></div>\n<div id=\"CFA0151-R-s05-E___15\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <mn>0</mn> <mo>=</mo> <mo>−</mo> <mn>33.5</mn> <mo>+</mo> <mstyle><mfrac> <mrow> <mo>−</mo> <mn>2.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>B</mtext> </msub> <mo>)</mo> </mrow> <mn>1</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mrow> <mo>−</mo> <mn>2.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>B</mtext> </msub> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mrow> <mn>24</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>B</mtext> </msub> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mfrac></mstyle> <mo>+</mo> <mstyle><mfrac> <mrow> <mn>25.5</mn> </mrow> <mrow> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mtext>B</mtext> </msub> <mo>)</mo> </mrow> <mn>4</mn> </msup> </mrow> </mfrac></mstyle> <mo>.</mo> </mrow> </semantics></math></div>\n<div id=\"CFA0151-R-s05-E___16\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math><semantics> <mrow> <msub> <mrow> <mtext>IRR</mtext> </mrow> <mi>B</mi> </msub> <mo>=</mo> <mn>8.97</mn> <mtext>%</mtext> <mo>.</mo> </mrow> </semantics></math></div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is incorrect because Project B’s IRR is 8.97%, which exceeds the required rate of return of 8%; however, Project A’s IRR is 7.04%, which is below the required rate of return of 8%. Consequently, only Project B meets the IRR decision rule.</p>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is incorrect because the NPV decision rule is to invest if the NPV is greater than 0. Project B’s NPV is $1.12 million, while Project A’s NPV is –$0.38. Consequently, only Project B meets the NPV decision rule.</p>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">With regard to Project A and Project B, which of the following is true?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "1ec3076b-2992-4e62-ba5b-717b15e9a2b7"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "05497a52-d1b7-4723-97d8-0f9f04a95265",
+              "itemBody": "A. Both projects should be invested in according to the IRR decision rule.",
+              "position": 1
+            },
+            {
+              "id": "545fb170-c684-4b02-8e21-0da09cde9e06",
+              "itemBody": "B. Both projects should be invested in according to the NPV decision rule.",
+              "position": 2
+            },
+            {
+              "id": "1ec3076b-2992-4e62-ba5b-717b15e9a2b7",
+              "itemBody": "C. Only Project B should be invested in according to the IRR decision rule.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": "50846"
+    },
+    {
+      "id": "50849",
+      "entry": {
+        "title": "CFA0151-R-s05-Q8",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. The forecasted timing of cash flow is an important factor affecting both projects’ IRR and NPV. In the case of delaying all future cash flows from both projects by six months, the result would be a lower IRR and a lower NPV. Given that all future cash flows are to be received six months later, their present value decreases; hence, the NPV and IRR of an entire project also decrease.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is incorrect because when cash flows from the investment projects are delayed by six months, both projects’ NPV and IRR would decrease, not stay unchanged.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is incorrect because when cash flows from the investment projects are delayed by six months, both project’s NPV and IRR would decrease.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">The <em>most likely</em> impact from the cash-flow timing considered by Soroka is that:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f527fdad-7522-4861-94e5-5d04fe61c662"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f527fdad-7522-4861-94e5-5d04fe61c662",
+              "itemBody": "A. both IRR and NPV would decrease.",
+              "position": 1
+            },
+            {
+              "id": "4101fcb8-941c-4532-a079-5fdf7fefc500",
+              "itemBody": "B. both IRR and NPV stay unchanged.",
+              "position": 2
+            },
+            {
+              "id": "129185f4-aa0c-4458-98f8-3b30004d9419",
+              "itemBody": "C. only IRR would decrease but NPV would increase.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": "50846"
+    },
+    {
+      "id": "50850",
+      "entry": {
+        "title": "CFA0151-R-s05-Q9",
+        "feedback": {
+          "correct": "",
+          "neutral": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. To calculate ROIC, we can use the following formula:</p>\n<div id=\"CFA0151-R-s05-E___17\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <mtext>ROIC</mtext> <mo>=</mo> <mtext>&nbsp;</mtext> <mstyle> <mfrac> <mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>−</mo> <mtext>Tax&nbsp;rate</mtext> </mrow> <mo>)</mo> </mrow> <mtext>&nbsp;</mtext> <mo>×</mo> <msub> <mrow> <mtext>Operating&nbsp;profit</mtext> </mrow> <mi>t</mi> </msub> </mrow> <mrow> <msub> <mrow> <mtext>Average&nbsp;invested&nbsp;capital</mtext> </mrow> <mrow> <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo>,</mo> <mi>t</mi> </mrow> </msub> </mrow> </mfrac> </mstyle> <mo>,</mo> </mrow> </semantics> </math></div>\n<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">where</p>\n<div id=\"CFA0151-R-s05-E___18\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <msub> <mrow> <mtext>Average&nbsp;invested&nbsp;capital</mtext> </mrow> <mrow> <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo>,</mo> <mi>t</mi> </mrow> </msub> <mo>=</mo> <mo>&nbsp;</mo> <mstyle> <mfrac> <mrow> <msub> <mrow> <mrow> <mo>(</mo> <mrow> <mtext>Debt</mtext> <mo>+</mo> <mtext>Equity</mtext> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mn>20</mn> <mtext>X</mtext> <mn>1</mn> <mtext>&nbsp;</mtext> </mrow> </msub> <mo>+</mo> <msub> <mrow> <mrow> <mo>(</mo> <mrow> <mtext>Debt</mtext> <mo>+</mo> <mtext>Equity</mtext> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mn>20</mn> <mtext>X</mtext> <mn>2</mn> <mtext>&nbsp;</mtext> </mrow> </msub> <mo>)</mo> </mrow> <mn>2</mn> </mfrac> </mstyle> <mo>&nbsp;</mo> </mrow> </semantics> </math></div>\n<div id=\"CFA0151-R-s05-E___19\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <msub> <mrow> <mtext>Average&nbsp;invested&nbsp;capital</mtext> </mrow> <mrow> <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo>,</mo> <mi>t</mi> </mrow> </msub> <mo>=</mo> <mtext>&nbsp;</mtext> <mstyle> <mfrac> <mrow> <mrow> <mo>[</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mn>25</mn> <mo>,</mo> <mn>040</mn> <mo>+</mo> <mn>39</mn> <mo>,</mo> <mn>800</mn> <mo>+</mo> <mn>6</mn> <mo>,</mo> <mn>500</mn> <mo>)</mo> <mo>+</mo> <mo>(</mo> <mn>25</mn> <mo>,</mo> <mn>910</mn> <mo>+</mo> <mn>40</mn> <mo>,</mo> <mn>990</mn> <mo>+</mo> <mn>6</mn> <mo>,</mo> <mn>780</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> <mn>2</mn> </mfrac> </mstyle> </mrow> </semantics> </math></div>\n<div id=\"CFA0151-R-s05-E___20\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <msub> <mrow> <mtext>Average&nbsp;invested&nbsp;capital</mtext> </mrow> <mrow> <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo>,</mo> <mi>t</mi> </mrow> </msub> <mo>=</mo> <mn>72</mn> <mo>,</mo> <mn>510.</mn> </mrow> </semantics> </math></div>\n<div id=\"CFA0151-R-s05-E___21\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <mtext>ROIC</mtext> <mo>=</mo> <mtext>&nbsp;</mtext> <mstyle> <mfrac> <mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>−</mo> <mn>0.22</mn> </mrow> <mo>)</mo> </mrow> <mo>×</mo> <mn>8</mn> <mo>,</mo> <mn>830</mn> </mrow> <mrow> <mn>72</mn> <mo>,</mo> <mn>510</mn> </mrow> </mfrac> </mstyle> <mo>.</mo> </mrow> </semantics> </math></div>\n<div id=\"CFA0151-R-s05-E___21\" style=\"margin-left: 1.618em; overflow-x: auto; padding: 10px 0;\"><math> <semantics> <mrow> <mtext>ROIC</mtext> <mo>=</mo> <mtext>9.50%</mtext> <mo>.</mo> </mrow> </semantics> </math></div>",
+          "incorrect": ""
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Based on ABC’s balance sheet presented in <strong>Exhibit  2</strong>, Soroka should calculate:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "746739f9-1992-4571-9839-a4ec6c7e7fc6"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "746739f9-1992-4571-9839-a4ec6c7e7fc6",
+              "itemBody": "A. average invested capital of $72,510 and ROIC of 9.50%.",
+              "position": 1
+            },
+            {
+              "id": "47ff053b-63af-4a1c-8a85-d379022606c4",
+              "itemBody": "B. average invested capital of $80,720 and ROIC of 10.94%.",
+              "position": 2
+            },
+            {
+              "id": "32295cc3-ec2e-4cf7-86f8-77e9afd8beac",
+              "itemBody": "C. average invested capital of $92,995 and ROIC of 9.50%.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": "50846"
+    },
+    {
+      "id": "50851",
+      "entry": {
+        "title": "CFA0151-R-s05-Q10",
+        "feedback": {
+          "neutral": "\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. ABC’s management aims to achieve a minimum ROIC above 9.20%, but the IRR of both projects fails to meet this investment criterion. Even though Project B has a positive NPV, if it were undertaken, it would reduce ROIC.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">B is incorrect because even though Project B’s NPV is $1.12 million (which increases ABC’s value to shareholders), its IRR is 8.97%, which is below the target ROIC of 9.20%. Consequently, if Project B was undertaken, it would lower ABC’s ROIC.</p>\n               <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is incorrect because Project A’s IRR is below ABC management’s target ROIC of 9.2%. Additionally, Project A’s NPV is negative, so it decreases ABC’s shareholder value.</p>\n            "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Considering ABC management’s ROIC-based investment criterion and the IRR and NPV of both projects, Soroka should recommend to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "20d146cd-d5b5-47d4-b84c-927bf9835a74"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "20d146cd-d5b5-47d4-b84c-927bf9835a74",
+              "itemBody": "A. reject both projects A and B.",
+              "position": 1
+            },
+            {
+              "id": "27cf7109-62f3-4999-ae88-b47cebe059cd",
+              "itemBody": "B. invest only in Project B because it has a higher NPV.",
+              "position": 2
+            },
+            {
+              "id": "5c6c5256-1ba8-4387-bbbc-4a5b39f06882",
+              "itemBody": "C. invest only in Project A because has positive cash flow during all four years.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8169,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 849,
+      "sourceModuleId": 4440,
+      "stimulusQuizEntryId": "50846"
+    },
+    {
+      "id": "2027-24-1",
+      "entry": {
+        "title": "2027-Mod24-Q1",
+        "itemBody": "<p>What will be the effect on a direct exchange rate quote if the domestic \ncurrency appreciates?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In the case of a direct exchange rate, the domestic currency is the  \nprice currency (the numerator) and the foreign currency is the base currency  (the \ndenominator). If the domestic currency appreciates, then fewer units of  the \ndomestic currency are required to buy one unit of the foreign currency, and  the \nexchange rate (domestic per foreign) declines. For example, if British pound sterling \n(GBP) appreciates against the euro (EUR), then euro –sterling (GBP/EUR)  might \ndecline.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a24a3c39-e711-448e-8137-9519692c8519",
+              "itemBody": "<p>A. Increase</p>",
+              "position": 1
+            },
+            {
+              "id": "f7731950-43f7-4831-86a2-fd2e98f012e2",
+              "itemBody": "<p>B. Decrease</p>",
+              "position": 2
+            },
+            {
+              "id": "29ad0139-f23b-4c6b-89d7-d72357de2f24",
+              "itemBody": "<p>C. No change</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f7731950-43f7-4831-86a2-fd2e98f012e2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-2",
+      "entry": {
+        "title": "2027-Mod24-Q2",
+        "itemBody": "<p>An executive from Switzerland checks into a hotel room in Spain and is \ntold by the manager that EUR1 will buy CHF1.2983. From the executive’s perspective, \nan indirect exchange rate quote would be:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. An indirect quote takes the foreign country as the price currency  and \nthe domestic country as the base currency. To get Swiss francs —which is the  \nexecutive’s domestic currency—as the base currency, the quote must be stated  as \nEUR/CHF. Using the manager’s information, the indirect exchange rate is (1/1.2983) \n= 0.7702.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ea7ae6ef-6d90-465c-8a72-593b8f080546",
+              "itemBody": "<p>A. EUR0.7702 per CHF1.</p>",
+              "position": 1
+            },
+            {
+              "id": "12bcfe53-967a-4523-a2e7-54c35e9887e6",
+              "itemBody": "<p>B. CHF0.7702 per EUR1.</p>",
+              "position": 2
+            },
+            {
+              "id": "692bd58f-6ae0-40c5-afa1-cd99fd7fda4c",
+              "itemBody": "<p>C. EUR1.2983 per CHF1.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ea7ae6ef-6d90-465c-8a72-593b8f080546"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-3",
+      "entry": {
+        "title": "2027-Mod24-Q3",
+        "itemBody": "<p>Over the past month, the Swiss franc (CHF) has depreciated 12 percent \nagainst the British pound (GBP). How much has the pound sterling appreciated against \nthe Swiss franc?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The appreciation of the British pound against the Swiss franc is the  \ninverse of the 12 percent depreciation of the Swiss franc against the pound sterling: \n[1/(1 – 0.12)] – 1 = (1/0.88) – 1 = 0.1364, or 13.64%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de2ca47d-0108-478b-b768-8918ad2f8f59",
+              "itemBody": "<p>A. 12 percent</p>",
+              "position": 1
+            },
+            {
+              "id": "87b71562-ef0f-4c2f-a7fb-ea985d234035",
+              "itemBody": "<p>B. Less than 12 percent</p>",
+              "position": 2
+            },
+            {
+              "id": "d49c718c-d052-47cf-84a8-5a18e914a559",
+              "itemBody": "<p>C. More than 12 percent</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d49c718c-d052-47cf-84a8-5a18e914a559"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-4",
+      "entry": {
+        "title": "2027-Mod24-Q4",
+        "itemBody": "<p>An exchange rate between two currencies has increased to 1.4500. If the \nbase currency has appreciated by 8 percent against the price currency, the initial \nexchange rate between the two currencies was closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The percentage appreciation of the base currency can be calculated by \ndividing the appreciated exchange rate by the initial exchange rate. In this case, the \nunknown is the initial exchange rate. The initial exchange is the value of  X that \nsatisfies the formula: 1.4500/X = 1.08 \nSolving for X leads to 1.45/1.08 = 1.3426.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2e4be282-9dcd-4c3e-86e4-320984d92ede",
+              "itemBody": "<p>A. 1.3340.</p>",
+              "position": 1
+            },
+            {
+              "id": "7a0cbad2-0d37-4b6b-9186-cf62eb35d09f",
+              "itemBody": "<p>B. 1.3426.</p>",
+              "position": 2
+            },
+            {
+              "id": "7d841c2e-ec1e-40f6-943c-62b52b7bede7",
+              "itemBody": "<p>C. 1.5660.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7a0cbad2-0d37-4b6b-9186-cf62eb35d09f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-5",
+      "entry": {
+        "title": "2027-Mod24-Q5",
+        "itemBody": "<p>In the classification of currency regimes, a currency board system (CBS) \nmost likely differs from a fixed-rate parity system in that:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In a CBS, the monetary authority has an obligation to maintain 100% \nforeign currency reserves against the monetary base. It therefore cannot lend to \ntroubled financial institutions. As long as the country under a fixed parity regime \nmaintains its exchange peg, the central bank can serve as a lender of last resort.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "23c86dad-59bb-4637-9b53-edc7f4350654",
+              "itemBody": "<p>A. a CBS can peg to a basket of currencies but a fixed-rate system cannot.</p>",
+              "position": 1
+            },
+            {
+              "id": "117e73a1-dd01-4fc3-ac54-ae51a78d13e1",
+              "itemBody": "<p>B. the monetary authority within a CBS does not act as a traditional lender of last \nresort.</p>",
+              "position": 2
+            },
+            {
+              "id": "c82bf176-0fb4-459f-860a-ff049624ccb2",
+              "itemBody": "<p>C. a CBS has a discretionary target level of foreign exchange reserves.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "117e73a1-dd01-4fc3-ac54-ae51a78d13e1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-6",
+      "entry": {
+        "title": "2027-Mod24-Q6",
+        "itemBody": "<p>The most likely reason for a country to encourage foreign direct \ninvestment while heavily restricting foreign investment in liquid domestic assets is \nto:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Capital flight occurs when foreign investment in liquid domestic assets \nsuddenly decreases. Restricting foreign investment in liquid domestic assets and \nencouraging foreign direct investment (i.e., investment in illiquid domestic assets) \nprevents capital flight.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "961171dc-9419-4fd0-a831-bc3af114a418",
+              "itemBody": "<p>A. prevent capital flight.</p>",
+              "position": 1
+            },
+            {
+              "id": "0ae219f9-ec45-454b-9d15-b13b9eb888f5",
+              "itemBody": "<p>B. generate an increase in the domestic interest rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "5163c329-f045-44df-9d37-1b69a9cf300b",
+              "itemBody": "<p>C. stabilize the production capacity of the domestic country. \n \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 2 of 6</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "961171dc-9419-4fd0-a831-bc3af114a418"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-7",
+      "entry": {
+        "title": "2027-Mod24-Q7",
+        "itemBody": "<p>Based on the table, the appreciation of which of the following currencies \nis most likely to occur?  \nSpot Rate Expected Spot Rate in One Year \nUSD/EUR 1.3001 1.3456 \nUSD/GBP 1.5805 1.5489</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. In the exchange rate quotation, USD/EUR, the US dollar is the price \ncurrency and the euro is the base currency. The USD/EUR is expected to increase \nfrom 1.3001 to 1.3456. This represents a 3.5% appreciation of the euro against the \ndollar, i.e., a percentage change of (1.3456/1.3001) – 1 = +3.50%. \n \n8. A is c orrect. Exchange-traded funds are part of a class of institutional investors \nreferred to as real money accounts. They are usually restricted in their use of \nleverage or financial derivatives in their accounts. \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 5 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d9d84dac-1833-46e9-bc04-2ad47fd96410",
+              "itemBody": "<p>A. The British pound against the US dollar by 2.00%</p>",
+              "position": 1
+            },
+            {
+              "id": "1e49e73a-243d-4769-abae-cb0ba5f70f83",
+              "itemBody": "<p>B. The US dollar against the euro by 3.38%</p>",
+              "position": 2
+            },
+            {
+              "id": "a5e63c31-4aca-4be3-84c1-4f2580ac6cca",
+              "itemBody": "<p>C. The euro against the US dollar by 3.50%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a5e63c31-4aca-4be3-84c1-4f2580ac6cca"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-8",
+      "entry": {
+        "title": "2027-Mod24-Q8",
+        "itemBody": "<p>Which of the following is most likely a characteristic of a country that \nfollows the dollarization exchange rate regime? The country:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. When a country adopts the US currency as its currency, hence the name \ndollarization, the dollarized country inherits the currency credibility of the US \ndollar.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e6bae69-5206-4ce2-8089-b7a4c2e7653e",
+              "itemBody": "<p>A. is able to monetize its domestic debt.</p>",
+              "position": 1
+            },
+            {
+              "id": "76cd7692-095d-4665-962c-a8aabf9ac9ff",
+              "itemBody": "<p>B. has the currency credibility of the US dollar.</p>",
+              "position": 2
+            },
+            {
+              "id": "73b9c123-051d-42b4-b335-184c29711f63",
+              "itemBody": "<p>C. has a term structure similar to that of the United States.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "76cd7692-095d-4665-962c-a8aabf9ac9ff"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-9",
+      "entry": {
+        "title": "2027-Mod24-Q9",
+        "itemBody": "<p>An analyst gathers the following information: \nForeign inflation rate 2% \nDomestic inflation rate 3% \nChange in nominal exchange rate 6% \n \nNote: the exchange rate is expressed as the number of units of domestic currency \nper unit of foreign currency. \nThe change in the real exchange rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the change in the real exchange rate is \n(1 + ΔSd/f/Sd/f) × (1 + ΔPf/Pf) / (1 + ΔPd/Pd) − 1 = (1 + 6%) × (1 + 2%)/(1 + 3%) − 1 = \n1.06 × 1.02/1.03 − 1 = 0.0497 ≈ 0.05 = 5%, \nwhere ΔSd/f/Sd/f is the change of the nominal exchange rate, ΔPf/Pf is the foreign \ninflation rate, and ΔPd/Pd is the domestic inflation rate. \nUsing the appropriate approximate formula, 6.0% + 2.0% – 3.0% = 5% leads to the \nsame answer choice.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "923bc547-9792-4428-8048-019ce5c331fd",
+              "itemBody": "<p>A. 4%.</p>",
+              "position": 1
+            },
+            {
+              "id": "62e734f7-ce1f-4030-a852-3d8deadac509",
+              "itemBody": "<p>B. 5%.</p>",
+              "position": 2
+            },
+            {
+              "id": "b2e3eb8e-6468-4299-b4fa-8a7eaf4083a5",
+              "itemBody": "<p>C. 7%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "62e734f7-ce1f-4030-a852-3d8deadac509"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-10",
+      "entry": {
+        "title": "2027-Mod24-Q10",
+        "itemBody": "<p>When a country has a fiscal surplus and an excess of private saving over \ninvestment, its exports are:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because using a fundamental identity from macroeconomics, the \nrelationship between the trade balance and expenditure/saving decisions can be \nexpressed as: X– M = (S – I) + (T – G) where X represents exports, M is imports, S is \nprivate savings, I is investment in plant and equipment, T is taxes net of transfers, \nand G is government expenditure. From this relationship, we can see that a trade \nsurplus (X > M) must be reflected in a fiscal surplus (T > G), an excess of private \nsaving over investment (S > I), or both. \nWe can also see that when a country has a fiscal surplus (T > G) and an excess of \nprivate saving over investment (S > I), its exports are greater than its imports (X > \nM).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b476193c-b006-44a1-ad7e-5d465da28c96",
+              "itemBody": "<p>A. less than its imports.</p>",
+              "position": 1
+            },
+            {
+              "id": "9a807bf1-7df4-475d-8faa-158abc7d71d7",
+              "itemBody": "<p>B. equal to its imports.</p>",
+              "position": 2
+            },
+            {
+              "id": "e64db01d-3044-4536-ae15-397abaad1d28",
+              "itemBody": "<p>C. greater than its imports.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e64db01d-3044-4536-ae15-397abaad1d28"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-11",
+      "entry": {
+        "title": "2027-Mod24-Q11",
+        "itemBody": "<p>The conversion of nominal exchange rates into real exchange rates \nrequires the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because real exchange rates, which are indexes often constructed by \neconomists and other market analysts to assess changes in the relative purchasing \npower of one currency compared with another. Creating these indexes requires \nadjusting the nominal exchange rate by using the price levels in each country of the \ncurrency pair.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "02d96b04-cc11-4ab7-97d6-51125de4172d",
+              "itemBody": "<p>A. GDP of both countries.</p>",
+              "position": 1
+            },
+            {
+              "id": "acfb5ef8-39e1-4857-8362-6d5d5c5f1099",
+              "itemBody": "<p>B. price levels in both countries. \nCapital Flows and the FX Market \nFaculty:                                                                         Page 3 of 6</p>",
+              "position": 2
+            },
+            {
+              "id": "40f67442-5e21-40f1-b687-f9ae3a5fbe34",
+              "itemBody": "<p>C. interest rates in both countries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "acfb5ef8-39e1-4857-8362-6d5d5c5f1099"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-12",
+      "entry": {
+        "title": "2027-Mod24-Q12",
+        "itemBody": "<p>Price levels increase by 2% in the US  and by 6% in the Eurozone. If the \nnominal spot exchange rate of the USD/EUR (amount of US dollars per 1 euro) \ndecreases by 4%, the absolute change in the real exchange rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the change in the real exchange rate is \n(1 +\nΔ𝑠𝑑/𝑓\n𝑠𝑑/𝑓\n) ×\n(1 + Δ𝑃𝑓\n𝑃𝑓\n)\n(1 + Δ𝑃𝑑\n𝑃𝑑\n)\n− 1 \n \n(1 − 4%)× (1 + 6%\n1 + 2%) − 1 ≈ 0% \n \nThus, the change in the real exchange rate is approximately zero percent. The rough \ncalculation is: −4% + 6% − 2% = 0%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "13e8709d-7cc6-44df-b745-d52c81688fa2",
+              "itemBody": "<p>A. 0%.</p>",
+              "position": 1
+            },
+            {
+              "id": "a6616b02-4246-491a-acd8-b36f2d949b56",
+              "itemBody": "<p>B. 4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "81416818-ade1-4460-89f9-43b067566b07",
+              "itemBody": "<p>C. 8%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "13e8709d-7cc6-44df-b745-d52c81688fa2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-13",
+      "entry": {
+        "title": "2027-Mod24-Q13",
+        "itemBody": "<p>An ideal international currency regime would most likely have:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the ideal currency regime would have three properties. One of \nthose properties is, all currencies would be fully convertible (i.e., currencies could be \nfreely exchanged for any purpose and in any amount). This condition ensures \nunrestricted flow of capital. \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 6 of 6</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e44ca2a1-3d49-48f6-b8f5-5cbd094710ba",
+              "itemBody": "<p>A. currencies that are fully convertible.</p>",
+              "position": 1
+            },
+            {
+              "id": "2c680ce1-7ab8-4334-ab56-58d4d284bfd5",
+              "itemBody": "<p>B. floating exchange rates between currencies.</p>",
+              "position": 2
+            },
+            {
+              "id": "33427e33-347d-4937-a1fe-d8af96a3feb0",
+              "itemBody": "<p>C. a common monetary policy across different countries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e44ca2a1-3d49-48f6-b8f5-5cbd094710ba"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-14",
+      "entry": {
+        "title": "2027-Mod24-Q14",
+        "itemBody": "<p>In contrast to real exchange rates, nominal foreign exchange rates:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because nominal exchange rates exhibit persistent deviations from PPP.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8abe5855-25e8-4fa5-8125-80459446f876",
+              "itemBody": "<p>A. tend to deviate from purchasing power parity.</p>",
+              "position": 1
+            },
+            {
+              "id": "d0810758-1fbd-4cce-b2ea-0488389888a0",
+              "itemBody": "<p>B. represent the relative price levels in the domestic and foreign countries.</p>",
+              "position": 2
+            },
+            {
+              "id": "8bee6f27-9ad0-44c7-8092-fe4665a89624",
+              "itemBody": "<p>C. are indexes useful for understanding international trade and capital flows.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8abe5855-25e8-4fa5-8125-80459446f876"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-15",
+      "entry": {
+        "title": "2027-Mod24-Q15",
+        "itemBody": "<p>Which of the following economic conditions for a country best supports a \nwell-functioning currency board exchange rate system?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because a currency board system works best if domestic prices and \nwages are very flexible. \n \n17. . A is correct because in case of dollarization the country uses the currency of \nanother nation as its medium of exchange and unit of account.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "14b3e050-1a6b-4946-a4bc-aadfed42fed9",
+              "itemBody": "<p>A. Flexible domestic prices and wages</p>",
+              "position": 1
+            },
+            {
+              "id": "238a3d6c-831c-4adb-a519-5d89091cbca2",
+              "itemBody": "<p>B. Rapid growth in supply of the global reserve asset</p>",
+              "position": 2
+            },
+            {
+              "id": "5833501b-5785-4778-8863-a9b2c7f90bd4",
+              "itemBody": "<p>C. Large non-traded sectors of the domestic economy</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "14b3e050-1a6b-4946-a4bc-aadfed42fed9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-24-16",
+      "entry": {
+        "title": "2027-Mod24-Q16",
+        "itemBody": "<p>Assume that the nominal spot exchange rate (USD/EUR) increases by \n7.5%, the eurozone price level decreases by 4%, and the US price level increases by \n2.5%. The change in the real exchange rate (%) is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Real exchange rate = Nominal spot exchange rate × (CPI of the foreign country/CPI \nof the domestic country) \nChange in the real exchange rate = [(1 + Change in exchange rate) × (1 + Change in \nprice level in foreign country)]/(1 + Change in price level in domestic country) – 1 \n= [(1 + 7.5%) × (1 – 4%)]/(1 + 2.5%) – 1 = 0.7%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6d02452c-d60b-4ad5-bd91-218875730fcd",
+              "itemBody": "<p>A. 0.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "da86dae5-a3af-4d7d-8d83-bd6685d12836",
+              "itemBody": "<p>B. –6.3%.</p>",
+              "position": 2
+            },
+            {
+              "id": "bf5426f4-9c8e-4f54-bd37-da57f3f288ba",
+              "itemBody": "<p>C. 14.8%. \n \n \nSUMMARY: - \n \n(LOS 18.a): – 1, 2, 3, 4, 7, 8, 10, 12, 13, 15, 18. \n(LOS 18.b): – 5, 9, 11, 14, 16, 17. \n(LOS 18.c): – 6. \nCapital Flows and the FX Market \nFaculty:                                                                         Page 4 of 6</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6d02452c-d60b-4ad5-bd91-218875730fcd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": null,
+  "scored_data": null,
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 16
+}

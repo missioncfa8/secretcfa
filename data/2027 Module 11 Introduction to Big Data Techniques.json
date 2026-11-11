@@ -1,0 +1,1863 @@
+{
+  "user_id": 239466,
+  "quiz_id": 6131,
+  "time_spent": null,
+  "questions_answered": 0,
+  "question_count": 36,
+  "hidden_question_count": 0,
+  "points": 2,
+  "points_possible": 14,
+  "correct_questions_count": 0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Module 11: Introduction to Big Data Techniques",
+    "topic_id": 1031,
+    "topic": "CFA-26-02-LI-C: Quantitative Methods",
+    "subtopic_id": 6131,
+    "subtopic": "Module 11: Introduction to Big Data Techniques",
+    "question_count": 36,
+    "type": "practice",
+    "warehouses": [
+      {
+        "id": 799,
+        "name": "Warehouse Course: Quantitative Methods 26-LI",
+        "code": "Warehouse Course: Quantitative Methods 26-LI",
+        "module_id": 4427,
+        "question_count": 9,
+        "type": "warehouse"
+      },
+      {
+        "id": 838,
+        "name": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+        "code": "Practice Pack Warehouse: Quantitative Methods 26-LI",
+        "module_id": 4632,
+        "question_count": 5,
+        "type": "practice_pack"
+      }
+    ],
+    "instructions": [
+      "",
+      "",
+      ""
+    ],
+    "points_possible": 36.0,
+    "has_new_questions": false,
+    "settings": {
+      "filters": {
+        "ips": []
+      },
+      "has_time_limit": false,
+      "calculator_type": "none",
+      "shuffle_answers": false,
+      "filter_ip_address": false,
+      "multiple_attempts": {
+        "score_to_keep": "highest",
+        "build_on_last_attempt": false
+      },
+      "shuffle_questions": false,
+      "allow_backtracking": true,
+      "one_at_a_time_type": "none",
+      "student_access_code": null,
+      "result_view_settings": {},
+      "require_student_access_code": false,
+      "session_time_limit_in_seconds": 0
+    }
+  },
+  "metadata": {
+    "shuffle_seed": "26416256e6801f49",
+    "ordered_item_ids": [
+      "54472",
+      "54473",
+      "54474",
+      "54475",
+      "54476",
+      "53113",
+      "53114",
+      "53115",
+      "53558",
+      "53559",
+      "53560",
+      "53561",
+      "53562",
+      "53563"
+    ],
+    "visible_item_ids": [
+      "53113",
+      "53114",
+      "53115",
+      "53558",
+      "53559",
+      "53560",
+      "53561",
+      "53562",
+      "53563",
+      "54472",
+      "54473",
+      "54474",
+      "54475",
+      "54476"
+    ]
+  },
+  "items": [
+    {
+      "id": "54472",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-PM-Glover-01",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is <i>most likely</i> used to detect sentiment shifts in an analyst's commentary?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c8eebb76-db75-430e-ab5c-dcb03a122d9d"
+        },
+        "answerFeedback": {
+          "9e6d381f-7667-4b27-8115-75ebf8d353a5": "<p>Incorrect because tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger.&nbsp;It is not able to detect&nbsp;shifts in an analyst's sentiment.</p>",
+          "a91791a9-4ff2-49d1-88db-ba9aba832cff": "<p>Incorrect because data curation refers to the process of ensuring data quality and accuracy through a data cleaning exercise. This process consists of reviewing all data to detect and uncover data errors—bad or inaccurate data—and making adjustments for missing data when appropriate. While the data used for natural language processing may need to be curated, it is not, in of itself, able to detect shifts in an analyst's sentiment.</p>",
+          "c8eebb76-db75-430e-ab5c-dcb03a122d9d": "<p>Correct because NLP [natural language processing] may be used to monitor analyst commentary to aid investment decision making. Since analysts tend not to change their buy, hold, and sell recommendations for a company frequently, they may instead offer nuanced commentary without making a change in their investment recommendation. NLP can, therefore, be used to detect, monitor, and tag shifts in sentiment, potentially ahead of an analyst's recommendation change.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9e6d381f-7667-4b27-8115-75ebf8d353a5",
+              "itemBody": "<p>A. Tokenization</p>",
+              "position": 1
+            },
+            {
+              "id": "a91791a9-4ff2-49d1-88db-ba9aba832cff",
+              "itemBody": "<p>B. Data curation</p>",
+              "position": 2
+            },
+            {
+              "id": "c8eebb76-db75-430e-ab5c-dcb03a122d9d",
+              "itemBody": "<p>C. Natural language processing</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8781,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4632,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54473",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-PM-Tsependa-13",
+        "feedback": {},
+        "itemBody": "<p>The failure of machine learning models to accurately predict outcomes can be the result of:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "267a8208-6e3f-4c73-8c19-fe7396c2685a"
+        },
+        "answerFeedback": {
+          "267a8208-6e3f-4c73-8c19-fe7396c2685a": "<p>Correct because an ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex.&nbsp;Also, underfitted models will typically fail to fully discover patterns that underlie the data&nbsp;and thus may&nbsp;not be able to accurately predict outcomes.</p>",
+          "bad9238d-f28f-4c5a-80d1-211c16216e9b": "<p>Incorrect because underfitting also results in this problem. Underfitted models will typically fail to fully discover patterns that underlie the data&nbsp;and thus may&nbsp;not be able to accurately predict outcomes. ML involves splitting the dataset into three distinct subsets: a training dataset, a validation dataset, and a test dataset. Once an algorithm has been trained, validated, and tested, the ML model can be used to predict outcomes based on other datasets. ML models also require sufficiently large amounts of data and may not perform well where there may not be enough available data to train and validate the model.</p>",
+          "bd807c40-ba5f-42f1-9e56-42b8cf45fb74": "<p>Incorrect because overfitting also results in this problem. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bad9238d-f28f-4c5a-80d1-211c16216e9b",
+              "itemBody": "<p>A. overfitting, but not underfitting.</p>",
+              "position": 1
+            },
+            {
+              "id": "bd807c40-ba5f-42f1-9e56-42b8cf45fb74",
+              "itemBody": "<p>B. underfitting, but not overfitting.</p>",
+              "position": 2
+            },
+            {
+              "id": "267a8208-6e3f-4c73-8c19-fe7396c2685a",
+              "itemBody": "<p>C. either overfitting or underfitting.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8781,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4632,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54474",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-PM-Gottschalk-02",
+        "feedback": {},
+        "itemBody": "<p>In its broadest sense, fintech is <i>best </i>described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "634c9d53-641e-4ebc-ae71-41a3d72a57e4"
+        },
+        "answerFeedback": {
+          "634c9d53-641e-4ebc-ae71-41a3d72a57e4": "<p>Correct because in its broadest sense, the term 'fintech' generally refers to technology-driven innovation occurring in the financial services industry. For the purposes of this reading, <b>fintech</b> refers to technological innovation in the design and delivery of financial services and products. Note, however, that in common usage, fintech can also refer to companies (often new, startup companies) involved in developing the new technologies and their applications, as well as the business sector that comprises such companies.</p>",
+          "7b0eab9e-0adb-43ee-82e4-53f224d517dc": "<p>Incorrect because the term Big Data has been in use since the late 1990s and refers to the vast amount of data being generated by industry, governments, individuals, and electronic devices.&nbsp;The term fintech is much broader.</p>",
+          "928b9d6c-32d4-4ad3-a0b2-07f52107b433": "<p>Incorrect because automated trading, not fintech, refers to executing investment decisions through computer algorithms or automated trading applications.&nbsp;The term fintech is much broader.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7b0eab9e-0adb-43ee-82e4-53f224d517dc",
+              "itemBody": "<p>A. the vast amount of data being generated by the financial services industry.</p>",
+              "position": 1
+            },
+            {
+              "id": "928b9d6c-32d4-4ad3-a0b2-07f52107b433",
+              "itemBody": "<p>B. the execution of investment strategies through computer-generated algorithms.</p>",
+              "position": 2
+            },
+            {
+              "id": "634c9d53-641e-4ebc-ae71-41a3d72a57e4",
+              "itemBody": "<p>C. technological innovation in the design and delivery of financial services and products.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8781,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4632,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54475",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020B-PM-Conover-13",
+        "feedback": {},
+        "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span class=\"x_x_x_x_x_x_x_x_x_x_x_x_x_x_ice-no-decoration\">With respect to Big Data, which of the following is <i>most likely</i> classified as alternative data?</span></span></p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "62f4bd35-11b7-4b6b-abed-7abcd4e4e592"
+        },
+        "answerFeedback": {
+          "62f4bd35-11b7-4b6b-abed-7abcd4e4e592": "<p>Correct because Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as <b>alternative data</b>, arising from the use of electronic device.&nbsp; As the internet and the presence of such networked devices have grown, the use of non-traditional data sources, or alternative data sources—including social media (posts, tweets, and blogs), email and text communications and other electronic information sources—has risen.</p>",
+          "90af4aef-851d-4ad8-a0d6-a0432fd2268e": "<p>Incorrect because Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as <b>alternative data</b>, arising from the use of electronic devices.&nbsp;Traditional data sources include corporate data in the form of regulatory filings.&nbsp;</p>",
+          "a7b2a489-0193-49c8-949d-b38ed0137ef2": "<p>Incorrect becausee Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as <b>alternative data</b>, arising from the use of electronic devices.&nbsp;Traditional data sources include corporate data in the form of regulatory filings.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "62f4bd35-11b7-4b6b-abed-7abcd4e4e592",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">A. Email communication data</span></p>",
+              "position": 1
+            },
+            {
+              "id": "90af4aef-851d-4ad8-a0d6-a0432fd2268e",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">B. Corporate regulatory filings</span></p>",
+              "position": 2
+            },
+            {
+              "id": "a7b2a489-0193-49c8-949d-b38ed0137ef2",
+              "itemBody": "<p><span style=\"font-family: Arial,Helvetica,sans-serif;\">C. Data from derivative markets</span></p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8781,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4632,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "54476",
+      "entry": {
+        "title": "ITEM_CFA-L1-2020-C2-PM-Croitoru-14",
+        "feedback": {},
+        "itemBody": "<p>Which of the following is the <i>most </i>recent advancement in fintech? Applications&nbsp;that can:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "73b66b12-a57e-438f-9204-4aa59b8a71e9"
+        },
+        "answerFeedback": {
+          "08977483-4fa1-4159-b2ee-89193bd8dfd4": "<p>Incorrect because early forms of&nbsp;fintech included data processing and the automation of routine tasks.&nbsp;Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'&nbsp;how to complete tasks over time.&nbsp;Thus, it was earlier forms of fintech that included data processing,&nbsp;not advanced forms of fintech.&nbsp;</p>",
+          "73b66b12-a57e-438f-9204-4aa59b8a71e9": "<p>Correct because early forms of&nbsp;fintech included data processing and the automation of routine tasks. Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'&nbsp;how to complete tasks over time.&nbsp;Thus, advanced forms of fintech include applications that are capable of decision-making.</p>",
+          "879adfd8-3b9b-4b55-add4-aefc78885354": "<p>Incorrect because early forms of&nbsp;fintech included data processing and the automation of routine tasks.&nbsp;Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn'&nbsp;how to complete tasks over time.&nbsp;Thus, it was earlier forms of fintech that included data processing,&nbsp;not advanced forms of fintech.&nbsp;</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "879adfd8-3b9b-4b55-add4-aefc78885354",
+              "itemBody": "<p>A. process data</p>",
+              "position": 1
+            },
+            {
+              "id": "08977483-4fa1-4159-b2ee-89193bd8dfd4",
+              "itemBody": "<p>B. automate tasks</p>",
+              "position": 2
+            },
+            {
+              "id": "73b66b12-a57e-438f-9204-4aa59b8a71e9",
+              "itemBody": "<p>C. make decisions</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8781,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 838,
+      "sourceModuleId": 4632,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53113",
+      "entry": {
+        "title": "CFA2409-R-s02-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A is correct. Big Data is collected from many different sources and is in a variety of formats, including structured data (e.g., SQL tables), semistructured data (e.g., HTML code), and unstructured data (e.g., video messages).</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">A characteristic of Big Data is that:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "87ab4e52-8139-4e46-a523-4c9556da79e7"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "87ab4e52-8139-4e46-a523-4c9556da79e7",
+              "itemBody": "A. it involves formats with diverse structures.",
+              "position": 1
+            },
+            {
+              "id": "0592cfe2-6b78-469b-87f6-3d6bd71e4928",
+              "itemBody": "B. one of its traditional sources is business processes.",
+              "position": 2
+            },
+            {
+              "id": "87cd252e-5e0b-497c-a955-1af94da7e484",
+              "itemBody": "C. real-time communication of it is uncommon due to vast content.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53114",
+      "entry": {
+        "title": "CFA2409-R-s03-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Overfitting occurs when the ML model learns the input and target dataset too precisely. In this case, the model has been “overtrained” on the data and is treating noise in the data as true parameters. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and might be too complex.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Which of the following statements is true in the use of ML:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "d93a30df-e471-4b3e-83df-b3b193e2d082"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1a7d4eb2-e1d8-4b3c-b6d4-9dd3f33b9f45",
+              "itemBody": "A. some techniques are termed “black box” due to data biases.",
+              "position": 1
+            },
+            {
+              "id": "14874116-1b9d-4193-bf9e-5d90de474840",
+              "itemBody": "B. human judgment is not needed because algorithms continuously learn from data.",
+              "position": 2
+            },
+            {
+              "id": "d93a30df-e471-4b3e-83df-b3b193e2d082",
+              "itemBody": "C. training data can be learned too precisely, resulting in inaccurate predictions when used with different datasets.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53115",
+      "entry": {
+        "title": "CFA2409-R-s04-Q1",
+        "feedback": {
+          "neutral": "\n            <p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">C is correct. Through the text analytics application of NLP, models using NLP analysis might incorporate non-traditional information to evaluate what people are saying—through their preferences, opinions, likes, or dislikes— in an attempt to identify trends and short-term indicators—for example, about a company, a stock, or an economic event—to forecast coming trends that may affect investment performance in the future.</p>\n         "
+        },
+        "itemBody": "<p style=\"margin-top: 0.75rem; margin-bottom: 0.75rem;\">Text analytics is appropriate for application to:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9103e096-bba0-4305-933f-a87b693cf6af"
+        },
+        "answerFeedback": {},
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "79d2d905-62ba-438e-ae41-ac012255e1b9",
+              "itemBody": "A. large, structured datasets.",
+              "position": 1
+            },
+            {
+              "id": "9faa3053-2206-4f3e-bd12-a06e39e1d1d4",
+              "itemBody": "B. public but not private information.",
+              "position": 2
+            },
+            {
+              "id": "9103e096-bba0-4305-933f-a87b693cf6af",
+              "itemBody": "C. identifying possible short-term indicators of coming trends.",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 7977,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53558",
+      "entry": {
+        "title": "ITEM_20190531031",
+        "feedback": {},
+        "itemBody": "<p>“Fintech” is <i>best</i> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9a05e902-7aff-446a-9bb0-ab7404acd619"
+        },
+        "answerFeedback": {
+          "50ff2c29-9722-48b8-92f1-ac2801010bac": "<p>Incorrect. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.</p>",
+          "91444d99-3bbe-47af-ba37-0dd49b93779e": "<p>Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.</p>",
+          "9a05e902-7aff-446a-9bb0-ab7404acd619": "<p>Correct. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9a05e902-7aff-446a-9bb0-ab7404acd619",
+              "itemBody": "<p>A. technology-driven innovation in the financial service industry.</p>",
+              "position": 1
+            },
+            {
+              "id": "50ff2c29-9722-48b8-92f1-ac2801010bac",
+              "itemBody": "<p>B. the collection of large quantities of financial data from a variety of sources in multiple formats.</p>",
+              "position": 2
+            },
+            {
+              "id": "91444d99-3bbe-47af-ba37-0dd49b93779e",
+              "itemBody": "<p>C. the use of technical models to describe patterns in financial markets and make trading decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 1,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53559",
+      "entry": {
+        "title": "ITEM_20190531032",
+        "feedback": {},
+        "itemBody": "<p>An analyst creating a dataset composed largely of product reviews would <i>most likely</i> classify the data sources as generated by:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978"
+        },
+        "answerFeedback": {
+          "6dcf9789-4780-4e64-9960-6409dbcb90d5": "<p>Incorrect. Data from sensors would most likely be generated by satellites, geolocation, and connected devices and would not include product reviews.</p>",
+          "da5f825f-2de6-4715-b9d1-be21ccfdb573": "<p>Incorrect. Data from business processes would most likely be transactional or corporate in nature.</p>",
+          "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978": "<p>Correct. Product reviews would most likely come from individual sources.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6dcf9789-4780-4e64-9960-6409dbcb90d5",
+              "itemBody": "<p>A. sensors.</p>",
+              "position": 1
+            },
+            {
+              "id": "f0a8cbe4-aa0a-45f5-a412-4f7185f8b978",
+              "itemBody": "<p>B. individuals.</p>",
+              "position": 2
+            },
+            {
+              "id": "da5f825f-2de6-4715-b9d1-be21ccfdb573",
+              "itemBody": "<p>C. business processes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 2,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53560",
+      "entry": {
+        "title": "ITEM_20190531033",
+        "feedback": {},
+        "itemBody": "<p>Which of the following errors would <i>most likely</i> be a result of overfitting a machine learning model?</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "afb6005f-a0e3-483e-8aa5-b18c0157bee6"
+        },
+        "answerFeedback": {
+          "afb6005f-a0e3-483e-8aa5-b18c0157bee6": "<p>Correct. Overfitting a model can lead to the discovery of unsubstantiated patterns that lead to prediction errors and incorrect output forecasts.</p>",
+          "e4cf28b7-67e9-4a1b-bbaf-8b3ef97459d3": "<p>Incorrect. The development of a predictive model that treats true parameters as if they are noise is most likely a result of underfitting the model.</p>",
+          "f121c9f2-b73d-45eb-b19e-49de4b4e79df": "<p>Incorrect. The inability to recognize relationships within the training data most likely results from underfitting the model.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f121c9f2-b73d-45eb-b19e-49de4b4e79df",
+              "itemBody": "<p>A. Inability to recognize relationships within the training data</p>",
+              "position": 1
+            },
+            {
+              "id": "e4cf28b7-67e9-4a1b-bbaf-8b3ef97459d3",
+              "itemBody": "<p>B. A predictive model that treats true parameters as if they are noise</p>",
+              "position": 2
+            },
+            {
+              "id": "afb6005f-a0e3-483e-8aa5-b18c0157bee6",
+              "itemBody": "<p>C. The discovery of unsubstantiated patterns that lead to prediction errors</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 3,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53561",
+      "entry": {
+        "title": "ITEM_20190531034",
+        "feedback": {},
+        "itemBody": "<p>Which of the following statements <i>best</i> describes a potential concern for clients using robo-advisers? Robo-advisers:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "c785377c-f271-421f-b644-815555a0d369"
+        },
+        "answerFeedback": {
+          "65716a10-ba7f-4d49-a8c1-0883a18e7a67": "<p>Incorrect. It is an advantage to clients that robo-advisers must be registered as investment advisers, because they are subject to guidance from the securities regulator of their country.</p>",
+          "9d9cdd7d-b798-49df-831a-35018b3b906c": "<p>Incorrect. It is an advantage to clients that robo-advisers must be held to a similar code of conduct as other investment professionals in the given region.</p>",
+          "c785377c-f271-421f-b644-815555a0d369": "<p>Correct. Initial research has shown that robo-advisers do not seem to incorporate the full range of investment information into their recommendations, meaning that important points may be missing in investment decisions.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65716a10-ba7f-4d49-a8c1-0883a18e7a67",
+              "itemBody": "<p>A. must be established as registered investment advisers.</p>",
+              "position": 1
+            },
+            {
+              "id": "c785377c-f271-421f-b644-815555a0d369",
+              "itemBody": "<p>B. do not seem to incorporate the full range of investment information into their recommendations.</p>",
+              "position": 2
+            },
+            {
+              "id": "9d9cdd7d-b798-49df-831a-35018b3b906c",
+              "itemBody": "<p>C. are likely to be held to a similar code of conduct as other investment professionals in the given region.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 4,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53562",
+      "entry": {
+        "title": "ITEM_20190531035",
+        "feedback": {},
+        "itemBody": "<p>The computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines, is <i>best</i> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "31a15068-fa59-4c84-8731-374b39c2eccd"
+        },
+        "answerFeedback": {
+          "31a15068-fa59-4c84-8731-374b39c2eccd": "<p>Correct. Algorithmic trading is defined as the computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines.</p>",
+          "33e1f93e-aa34-4121-a2f6-67ef41f271f9": "<p>Incorrect. Robo-advising suggests assets for clients but does not necessarily place the trades.</p>",
+          "f04aaf9c-7db6-4641-9104-b270795b1fb3": "<p>Incorrect. Dark pools are alternative trading destinations.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f04aaf9c-7db6-4641-9104-b270795b1fb3",
+              "itemBody": "<p>A. a dark pool.</p>",
+              "position": 1
+            },
+            {
+              "id": "33e1f93e-aa34-4121-a2f6-67ef41f271f9",
+              "itemBody": "<p>B. robo-advising.</p>",
+              "position": 2
+            },
+            {
+              "id": "31a15068-fa59-4c84-8731-374b39c2eccd",
+              "itemBody": "<p>C. algorithmic trading.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 5,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "53563",
+      "entry": {
+        "title": "ITEM_20190531038",
+        "feedback": {},
+        "itemBody": "<p>“Big data” is <i>best</i> described as:</p>",
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          },
+          "varyPointsByAnswer": false
+        },
+        "scoringData": {
+          "value": "9487f644-e734-47f1-b456-482ce4ad7306"
+        },
+        "answerFeedback": {
+          "21d47b5a-26ef-4e46-b405-922c6d05fa76": "<p>Incorrect. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.</p>",
+          "69691215-4af3-42ab-8bc7-9470475e4557": "<p>Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.</p>",
+          "9487f644-e734-47f1-b456-482ce4ad7306": "<p>Correct. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.</p>"
+        },
+        "calculatorType": "none",
+        "interactionData": {
+          "choices": [
+            {
+              "id": "21d47b5a-26ef-4e46-b405-922c6d05fa76",
+              "itemBody": "<p>A. technology-driven innovation in the financial service industry.</p>",
+              "position": 1
+            },
+            {
+              "id": "9487f644-e734-47f1-b456-482ce4ad7306",
+              "itemBody": "<p>B. the collection of large quantities of financial data from a variety of sources in multiple formats.</p>",
+              "position": 2
+            },
+            {
+              "id": "69691215-4af3-42ab-8bc7-9470475e4557",
+              "itemBody": "<p>C. the use of technical models to describe patterns in financial markets and make trading decisions.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "status": "mutable",
+      "archived": false,
+      "position": 6,
+      "entryType": "Item",
+      "properties": {},
+      "sourceQuizId": 8576,
+      "entryEditable": false,
+      "pointsPossible": 1.0,
+      "sourceCourseId": 799,
+      "sourceModuleId": 4427,
+      "stimulusQuizEntryId": ""
+    },
+    {
+      "id": "2027-11-1",
+      "entry": {
+        "title": "2027-Mod11-Q1",
+        "itemBody": "<p>Which of the following statements regarding a country’s political \ncooperation is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. If a country is engaged in military conflict, there is a higher cost to  \ncooperation. B is incorrect because a country with few internal resources is likely to \nrely on political cooperation. C is incorrect because interest prioritization does  \ndetermine the depth and nature of political cooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c86a26af-192f-4e8a-8098-4f455c72bd02",
+              "itemBody": "<p>A. If a country is engaged in military conflict, there is a higher cost to cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "7f370a48-897c-4c54-88ea-91d16c706230",
+              "itemBody": "<p>B. A country with few internal resources is not likely to rely on political cooperation.</p>",
+              "position": 2
+            },
+            {
+              "id": "8f7ab8b2-04b7-42d3-963b-15ca810432e6",
+              "itemBody": "<p>C. Interest prioritization does not determine the depth and nature of political  \ncooperation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c86a26af-192f-4e8a-8098-4f455c72bd02"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-2",
+      "entry": {
+        "title": "2027-Mod11-Q2",
+        "itemBody": "<p>A consequence of one of the disadvantages of globalization is that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Through the process of greater economic and financial cooperation,  \ncompanies may become dependent on other countries’ resources for their supply  \nchains. On aggregate, this can result in the nation itself becoming dependent on other \nnations for certain resources (such as rare earth metals, cobalt, or copper). If there \nis a disruption to the supply chain, including via a moment of political non-cooperation, \nthen firms may not be able to produce the good themselves.  A is incorrect because \nthe narrowing of pay differences between countries results  from a motivation to \npursue globalization, which is related to one of its advantages. It is an important way \nfor companies to increase profitability by reducing their  costs. Although wage \ndifferentials remain, they are decreasing. B is incorrect  because the proportion of \nflows between developed economies as a share of overall trade continuing to decline \nas emerging market trade flows rise is a function  of increased international \ninvestment. This increased investment has provided  beneficial aggregate economic \nbenefits, such as increased choice, higher quality goods, increased competition among \nfirms, higher efficiency, and increased labor mobility.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "226a2cae-5b34-4622-9824-3139e4adac67",
+              "itemBody": "<p>A. pay differences between countries have narrowed.</p>",
+              "position": 1
+            },
+            {
+              "id": "5cc84725-c435-47f3-981e-db6e28d92609",
+              "itemBody": "<p>B. emerging market trade flows have grown more important.</p>",
+              "position": 2
+            },
+            {
+              "id": "bf35d1a2-b3c0-4aa7-a4b0-52098ba2a122",
+              "itemBody": "<p>C. greater economic and financial cooperation has increased interdependence.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bf35d1a2-b3c0-4aa7-a4b0-52098ba2a122"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-3",
+      "entry": {
+        "title": "2027-Mod11-Q3",
+        "itemBody": "<p>Which of the following outcomes is most likely a result of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Unequal accrual of economic and financial gains is a cost of globalization \nbecause improvement on the aggregate does not mean improvement  for everyone. B \nis incorrect because globalization leads to interdependency as companies may become \ndependent on other countries’ resources for their supply  chains. C is incorrect \nbecause rather than decreased access to talent, a country might actually globalize to \nimprove access to talent as cooperation and globalization can lead to increased access \nto resources.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "541930df-6ba7-411f-8b6f-9f33fe260606",
+              "itemBody": "<p>A. Unequal gains</p>",
+              "position": 1
+            },
+            {
+              "id": "d2300a7b-b868-46a8-bdb9-acacdfb94735",
+              "itemBody": "<p>B. Increased independence</p>",
+              "position": 2
+            },
+            {
+              "id": "973064dc-c736-435a-bd3f-ad42f9ffeb0e",
+              "itemBody": "<p>C. Decreased access to talent</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "541930df-6ba7-411f-8b6f-9f33fe260606"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-4",
+      "entry": {
+        "title": "2027-Mod11-Q4",
+        "itemBody": "<p>A US company expanding critical spare part inventories for local \ncustomers made at its existing Canadian facility after a supply chain disruption is \nmost likely using the coping tactic of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The COVID-19 pandemic has highlighted the need for certain essential \nsupply chains to be rebuilt domestically for emergency situations, with availability of \ncritical spare parts being an analogy. The close integration of the  US and Canadian \neconomies through the revised USMCA agreement effectively  makes expanded \nproduction at an existing Canadian factory an example of reducing manufacturing risk \nby relocating to home countries via reshoring. B  is incorrect because instead of \nreducing manufacturing risk by duplicating or fortifying its supply chain, the company \nis s imply continuing to use its existing  capacity more intensively. C is incorrect \nbecause although the production is intended to better supply its home market, there \nis no evidence that the company is expanding its presence in the US market or shifting \nits focus to the exclusion of available opportunities elsewhere.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e1e43a15-0b62-4ca5-84ec-fc868e30b226",
+              "itemBody": "<p>A. reshoring the essentials.</p>",
+              "position": 1
+            },
+            {
+              "id": "148db22e-950a-4368-bc3b-f72a2d53ef32",
+              "itemBody": "<p>B. reglobalizing production.</p>",
+              "position": 2
+            },
+            {
+              "id": "3b3b95ec-cf6c-4df3-a86c-6a1f9feaf86f",
+              "itemBody": "<p>C. doubling down on key markets.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e1e43a15-0b62-4ca5-84ec-fc868e30b226"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-5",
+      "entry": {
+        "title": "2027-Mod11-Q5",
+        "itemBody": "<p>An example of a geopolitical multifaceted tool for furthering national \ninterests is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cabotage is the right to transport passengers or goods within a country \nby a foreign firm. Many countries —including those with multilateral  trade \nIntroduction to Geopolitics \nFaculty:                                                                         Page 6 of 8 \n \nagreements—impose restrictions on cabotage across transportation subsectors,  \nmeaning that shippers, airlines, and truck drivers are not allowed to transport goods \nand services within another country’s borders. Allowing cabotage  requires \ncoordination on areas like physical security and economic coordination,  a highly \nmultilateral (multifaceted tool) process. B is incorrect because armed conflict is the \nmost extreme example of a national security tool. It can be either internal or external \nto a country in taking a direct and active approach to wielding influence. C is incorrect \nbecause nationalization of key export industries is an economic tool. This process of \ntransferring an activity or industry from private to state control is a non-cooperative \napproach to asserting economic control.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "54e0caef-0b30-4391-8623-f2c479e391da",
+              "itemBody": "<p>A. cabotage.</p>",
+              "position": 1
+            },
+            {
+              "id": "a8bc4c22-9cf1-4290-8650-537cfdb9ee9e",
+              "itemBody": "<p>B. armed conflict.</p>",
+              "position": 2
+            },
+            {
+              "id": "94e88c80-f840-4c2f-9bee-393b39d2f8c8",
+              "itemBody": "<p>C. nationalization of key export industries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "54e0caef-0b30-4391-8623-f2c479e391da"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-6",
+      "entry": {
+        "title": "2027-Mod11-Q6",
+        "itemBody": "<p>Which of these is most likely to be described as an event risk?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections and new legislation, \nor other date-driven milestones, such as holidays or political anniversaries  known in \nadvance. The other choices could not be known in advance. An  earthquake (A) is an \nexample of an exogenous risk. An ongoing civil war (C) is an  example of a thematic \nrisk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "70940e6f-c1a0-4cf3-91c6-afd1407d8587",
+              "itemBody": "<p>A. An earthquake</p>",
+              "position": 1
+            },
+            {
+              "id": "bfd860bc-253c-4c1b-8e8e-315c144d1436",
+              "itemBody": "<p>B. An election</p>",
+              "position": 2
+            },
+            {
+              "id": "7cdc988b-be9d-4c83-87a4-d862ece3e56c",
+              "itemBody": "<p>C. An ongoing civil war</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bfd860bc-253c-4c1b-8e8e-315c144d1436"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-7",
+      "entry": {
+        "title": "2027-Mod11-Q7",
+        "itemBody": "<p>Exogenous risks are best described as those that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Exogenous risks are best described as those that are sudden or  \nunanticipated and that affect either a country’s cooperative stance, the ability  of \nnon-state actors to globalize, or both. A is incorrect because thematic (not  \nexogenous) risks are known risks that evolve and expand over a period of time. B  is \nincorrect because event (not exogenous) risks are those that evolve around set dates, \nincluding elections, new legislation, or other date-driven milestones.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bfef6a26-0b95-4a29-a604-51ed09ebfabd",
+              "itemBody": "<p>A. are known and evolve and expand over a period of time.</p>",
+              "position": 1
+            },
+            {
+              "id": "e923e01b-220c-46d2-8e84-edb9e1eea4f1",
+              "itemBody": "<p>B. revolve around set dates, such as elections, new legislation, or other date-driven \nmilestones, such as holidays or political anniversaries.</p>",
+              "position": 2
+            },
+            {
+              "id": "313ffe7c-f1b6-448b-a354-cb78f7b8aca0",
+              "itemBody": "<p>C. are sudden or unanticipated and impact either a country’s cooperative stance, the \nability of non-state actors to globalize, or both. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "313ffe7c-f1b6-448b-a354-cb78f7b8aca0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-8",
+      "entry": {
+        "title": "2027-Mod11-Q8",
+        "itemBody": "<p>Which of the following statements about geopolitical threats in the \ninvestment environment is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Although highly collaborative and globalized countries are, on  balance, \nless likely to experience geopolitical risk because the political, economic, and financial \ncosts of partners inflicting those risks are higher than less collaborative  countries, \nthe same interconnectedness may make them more vulnerable  to geopolitical risk. A \nis incorrect because geopolitical risk is always present in the investment environment. \nC is incorrect because geopolitical risk tends to  have a greater impact on markets \nalready experiencing a general contraction or economic downturn.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e9d0c794-a8dd-4e5b-89e4-6913a57a3285",
+              "itemBody": "<p>A. Geopolitical risk is not always present in the investment environment.</p>",
+              "position": 1
+            },
+            {
+              "id": "0ca768f1-e2af-4cc2-b8da-f0aa0415c308",
+              "itemBody": "<p>B. Highly collaborative, interconnected countries are vulnerable to geopolitical risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "caea00ea-2f5a-4303-96fa-a2183fa89a61",
+              "itemBody": "<p>C. Geopolitical risk tends to have less of an impact on markets already experiencing \na general contraction or economic downturn.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0ca768f1-e2af-4cc2-b8da-f0aa0415c308"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-9",
+      "entry": {
+        "title": "2027-Mod11-Q9",
+        "itemBody": "<p>An applicable conclusion drawn from the Geopolitical Risk Index (GPR) is \nthat:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The GPR creators found that high levels of geopolitical risk reduce US \ninvestment, employment, and price level of the stock market. B is  incorrect because \nfirms reduce investment in the wake of idiosyncratic events, which would be unlikely \nto repeat. C is incorrect because the threat of an event  was shown to have a larger \nimpact over time than that of the actual events themselves.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3040cdef-1f9c-4f1b-9d09-b242ba6f827f",
+              "itemBody": "<p>A. high geopolitical risk results in tangible macroeconomic effects.</p>",
+              "position": 1
+            },
+            {
+              "id": "c7b85706-b287-480e-8a7f-b9f8b2f4c705",
+              "itemBody": "<p>B. recurring geopolitical risk events lead to reduced corporate investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "ce97d546-e4fd-44aa-915e-c85782c9b845",
+              "itemBody": "<p>C. the adverse impact of actual events is greater over time than that of the threat \nof such events.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3040cdef-1f9c-4f1b-9d09-b242ba6f827f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-10",
+      "entry": {
+        "title": "2027-Mod11-Q10",
+        "itemBody": "<p>The basic geopolitical risk type most likely in comparison to have the \nsmallest degree of uncertainty is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections or new legislation, \nor other date-driven milestones, such as holidays or political anniversaries. Analysts \ncan thus look to political calendars as a predictable starting point for  determining \nthe occurrence of event risk, with time to devise a suitable response.  A is incorrect \nbecause exogenous risk is sudden and unanticipated. Examples  include sudden \nuprisings, invasions, or the aftermath of natural disasters. The  timing and range of \nits effects thus have the greatest unknowns. C is incorrect  because thematic risks \nIntroduction to Geopolitics \nFaculty:                                                                         Page 7 of 8 \n \nare known risks that evolve and expand over a period of time. Climate change, pattern \nmigration, the rise of populist forces, and the ongoing  threat of terrorism fall into \nthis category. These are more foreseeable than  exogenous risks, but with their \nextended interval of exposure, planned responses  likely require continual \nadjustments. \n \n11. C is c orrect. The International Monetary Fund has the ability to lend foreign \ncurrencies to a country with an extreme current account deficit. \n \n12. B is c orrect because bilateralism is characterized by nationalism/anti -globalization \nand cooperation. \n \n13. C is c orrect because for countries, regions, or sectors perceived to be at more \nconsistent risk of geopolitical disruption, investors may require higher compensation, \neffectively increasing the discount rate investors use when valuing those securities. \nPortfolio investment flows face greater volatility due to geopolitical factors, and \ninvestors will factor in a higher risk premium. \n \n14. B is c orrect because multilateral trade agreements, such as the World Trade \nOrganization (WTO), are a tool of geopolitics that is consistent with globalization and \ncooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b005b341-5b2b-4d03-bb0e-9a4eeddfb933",
+              "itemBody": "<p>A. exogenous risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "59a09b61-b8b6-4ceb-99d7-f80efb39d024",
+              "itemBody": "<p>B. event risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "b5442f7b-ffa8-4a32-aa36-ff106a3eaac9",
+              "itemBody": "<p>C. thematic risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "59a09b61-b8b6-4ceb-99d7-f80efb39d024"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-11",
+      "entry": {
+        "title": "2027-Mod11-Q11",
+        "itemBody": "<p>With respect to motivations for globalization, which of the following \nis best characterized as an intrinsic gain?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because intrinsic gain is a side effect or consequence of an activity that \ngenerates a benefit beyond profit itself. It is difficult to measure but contributes \nto globalization's momentum. It can also be a stabilizing force, increasing empathy \nbetween actors and reducing the likelihood that a geopolitical threat is levied. One \nexample of intrinsic gain is the accelerated productivity from learning new methods.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "03650dba-7cec-4337-a89d-4a3e91dc024a",
+              "itemBody": "<p>A. Increased supply chain efficiency</p>",
+              "position": 1
+            },
+            {
+              "id": "3bbaa752-69e1-48ad-845f-035f5016963f",
+              "itemBody": "<p>B. Accelerated productivity from learning new methods</p>",
+              "position": 2
+            },
+            {
+              "id": "39b8b282-2b5c-4fcc-a811-5fa6e34fa9cf",
+              "itemBody": "<p>C. Access to resources that are not readily available in the home country</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3bbaa752-69e1-48ad-845f-035f5016963f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-12",
+      "entry": {
+        "title": "2027-Mod11-Q12",
+        "itemBody": "<p>Which of the following organizations was founded with the goal of \nassisting in the reconstruction of the international payment system?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IMF was founded with the goal to stabilize exchange rates and \nassist the reconstruction of the world’s international payment system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "de2c107f-04cc-4138-991d-d2aac962036f",
+              "itemBody": "<p>A. The World Trade Organization</p>",
+              "position": 1
+            },
+            {
+              "id": "3af156ac-fe11-4f7f-8af5-00938a2133d8",
+              "itemBody": "<p>B. The International Monetary Fund</p>",
+              "position": 2
+            },
+            {
+              "id": "fce34008-82d6-42c1-be1b-1f3be62370b9",
+              "itemBody": "<p>C. The International Bank for Reconstruction and Development</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3af156ac-fe11-4f7f-8af5-00938a2133d8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-13",
+      "entry": {
+        "title": "2027-Mod11-Q13",
+        "itemBody": "<p>Which of the following behavioral archetypes best describes a country \nthat is high on the globalization spectrum but low on the cooperation spectrum?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because using the two axes we have discussed —political cooperation \nversus non-cooperation and globalization versus nationalism—investment analysts can \nassess geopolitical actors and the likelihood of threat to investment outcomes. \nSpecifically, there are four archetypes of country behaviour: autarky, hegemony, \nmultilateralism, and bilateralism, where hegemony is situated low on the cooperation \nspectrum and high on the globalization spectrum. Hegemonic countries tend to be \nregional or even global leaders, and they use their political or economic influence of \nothers to control resources. State -owned enterprises tend to control key export \nmarkets. Examples of hegemonic countries include the United States and Russia.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "184b939c-38af-4aea-b02b-dfd366a58869",
+              "itemBody": "<p>A. Autarky</p>",
+              "position": 1
+            },
+            {
+              "id": "da839864-6940-40f0-a055-13a0cef33c42",
+              "itemBody": "<p>B. Hegemony</p>",
+              "position": 2
+            },
+            {
+              "id": "75c42395-71ad-4a78-9ced-e7274223fe30",
+              "itemBody": "<p>C. Bilateralism</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "da839864-6940-40f0-a055-13a0cef33c42"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-14",
+      "entry": {
+        "title": "2027-Mod11-Q14",
+        "itemBody": "<p>With respect to geopolitics, setting standards for the size and shape of \ncontainers used for shipping is most likely an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because an example of operational synchronization is standards set for \ncontainers of uniform size and shape using multi-modal forms of transport (land, sea, \nair, rail) and port cranes. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9b85492c-e73b-4970-8d2f-182749b17e8c",
+              "itemBody": "<p>A. regulatory cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "445056e3-67fe-4e52-97d4-fd1f2a9d5f60",
+              "itemBody": "<p>B. process standardization.</p>",
+              "position": 2
+            },
+            {
+              "id": "6312f35d-ae9f-4c3a-a1f1-1be00329ccf9",
+              "itemBody": "<p>C. operational synchronization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6312f35d-ae9f-4c3a-a1f1-1be00329ccf9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-15",
+      "entry": {
+        "title": "2027-Mod11-Q15",
+        "itemBody": "<p>Which of the following would most likely lead to an increase in \nglobalization? A decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because globalization is marked by economic and financial cooperation, \nincluding the active trade of goods and services, capital flows, currency exchange, \nand cultural and information exchange. Actors participating in globalization are likely \nto reach beyond their national borders for access to new markets, talent, or learning. \nBy contrast, anti -globalization or nationalism is the promotion of a country’s own \neconomic interests to the exclusion or detriment of the interests of other nations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e5a3b60a-9766-4f6e-b7d7-41c0043d04ca",
+              "itemBody": "<p>A. soft power.</p>",
+              "position": 1
+            },
+            {
+              "id": "25005e33-65ea-4ea2-8ef6-4823d5bc95d5",
+              "itemBody": "<p>B. nationalism.</p>",
+              "position": 2
+            },
+            {
+              "id": "00440c6a-94cd-47cf-80d6-ec9a405ae567",
+              "itemBody": "<p>C. standardization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "25005e33-65ea-4ea2-8ef6-4823d5bc95d5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-16",
+      "entry": {
+        "title": "2027-Mod11-Q16",
+        "itemBody": "<p>Which of the following changes are investors most likely to make in \nresponse to a black swan risk?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the velocity of geopolitical risk is the pace at which it impacts \nan investor portfolio. For the sake of simplicity, we explore short -term or 'high \nvelocity' impacts, medium-term, and long-term or 'low velocity' impacts [...]. In the \nshort term, we may see volatility in the markets affecting entire industries or even \nthe entire market. Exogenous or 'black swan' events tend to fit into this category, \ncausing market volatility and investor flight to quality. A black swan risk is an event \nthat is rare and difficult to predict but has an important impact. Investors with the \nappropriate time horizon and risk tolerance may make tactical changes to their \ninvestment choices as a result of these events. Long-term changes are unlikely to be \nnecessary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cd7376f2-a593-4403-ab82-72c921b9d42d",
+              "itemBody": "<p>A. Tactical.</p>",
+              "position": 1
+            },
+            {
+              "id": "5bbd753b-cdea-4fb4-9834-8e24905881fb",
+              "itemBody": "<p>B. Sector specific.</p>",
+              "position": 2
+            },
+            {
+              "id": "e6aab405-0b3f-4c30-b947-02bd0aece5c3",
+              "itemBody": "<p>C. Asset allocation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cd7376f2-a593-4403-ab82-72c921b9d42d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-17",
+      "entry": {
+        "title": "2027-Mod11-Q17",
+        "itemBody": "<p>Cyber threats most likely fall into the category of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because cyber threats are another example of thematic risk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a6a3bf5e-94b2-4bae-91ce-ecb818d7cd65",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "3ea6cf2f-9f46-41ff-8d4b-9e93bb18ac4b",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "6ef5dae3-f3f7-4644-9447-b863b0f01415",
+              "itemBody": "<p>C. exogenous risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3ea6cf2f-9f46-41ff-8d4b-9e93bb18ac4b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-18",
+      "entry": {
+        "title": "2027-Mod11-Q18",
+        "itemBody": "<p>Natural disasters are an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because exogenous risk is a sudden or unanticipated risk that impacts \neither a country’s cooperative stance, the ability of non-state actors to globalize, or \nboth. Examples include sudden uprisings, invasions, or the aftermath of natural \ndisasters.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "405db225-63de-40e8-a1f4-f80ff935b6f5",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "02b5d523-db7b-4f56-b58c-578678ad1c90",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "60d32b12-7865-427e-a53a-c22363dfcc2f",
+              "itemBody": "<p>C. exogenous risk. \nIntroduction to Geopolitics \nFaculty:                                                                         Page 4 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "60d32b12-7865-427e-a53a-c22363dfcc2f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-19",
+      "entry": {
+        "title": "2027-Mod11-Q19",
+        "itemBody": "<p>Which of the following is most likely a benefit of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the opportunity to generate higher profits may motivate \ncompanies to globalize. The first way to generate profit is to increase sales. \nCompanies may choose to engage in globalization in order to access new customers \nfor their goods and  services. Another way to increase profits is to reduce costs. \nGlobalization allows companies to access lower tax -operating environments, reduce \nlabor costs, or seek other supply chain efficiency gains.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ea1eb571-e2e1-46f3-a46c-a12fd68f9290",
+              "itemBody": "<p>A. Increased profits</p>",
+              "position": 1
+            },
+            {
+              "id": "b75a0088-db03-4b26-b218-b44666bfba65",
+              "itemBody": "<p>B. More equal income distribution</p>",
+              "position": 2
+            },
+            {
+              "id": "8c4564a4-ba1b-4700-a656-e3beff5e892b",
+              "itemBody": "<p>C. Stronger environmental, social, and governance standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ea1eb571-e2e1-46f3-a46c-a12fd68f9290"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-20",
+      "entry": {
+        "title": "2027-Mod11-Q20",
+        "itemBody": "<p>The main objective of the World Bank Group is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the World Bank's main objective is to help developing countries \nfight poverty and enhance environmentally sound economic growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "df915bd9-adbb-4547-a957-5628016fdb06",
+              "itemBody": "<p>A. support exchange rate stability and an open system of international payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "58e47e27-d42f-4cfa-a2fb-10ece97809cd",
+              "itemBody": "<p>B. provide the legal and institutional foundation of the multinational trading \nsystem.</p>",
+              "position": 2
+            },
+            {
+              "id": "e900dd9d-1bb7-4357-8dc0-6a027d7df439",
+              "itemBody": "<p>C. help developing countries fight poverty and enhance environmentally sound \neconomic growth.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e900dd9d-1bb7-4357-8dc0-6a027d7df439"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-21",
+      "entry": {
+        "title": "2027-Mod11-Q21",
+        "itemBody": "<p>A nation that cooperates with a neighboring country is most \nlikely characterized as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because bilateralism is the conduct of political, economic, financial, or \ncultural cooperation between two countries. Countries engaging in bilateralism may \nhave relations with many different countries, but they are one-at-a-time agreements \nwithout multiple partners.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f585f6f0-9a53-4d91-a1e0-e9c08d3054e0",
+              "itemBody": "<p>A. autarkic.</p>",
+              "position": 1
+            },
+            {
+              "id": "1adf3983-d132-4b8e-9f35-69dd3057b187",
+              "itemBody": "<p>B. bilateral.</p>",
+              "position": 2
+            },
+            {
+              "id": "4fad9c19-c848-419c-af6f-84ee564ab99e",
+              "itemBody": "<p>C. hegemonic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1adf3983-d132-4b8e-9f35-69dd3057b187"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    },
+    {
+      "id": "2027-11-22",
+      "entry": {
+        "title": "2027-Mod11-Q22",
+        "itemBody": "<p>Which of the following is most likely a motivation for globalization?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because non-state actors, such as companies and investors, who choose \nto participate in globalization consider three potential gains, including: intrinsic gain. \nOne example of intrinsic gain is the personal growth or education that individuals may \nreceive from expanding their horizons, experiencing new places, or learning new ideas.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d2d30835-7643-40e0-a05a-f52edd2e1649",
+              "itemBody": "<p>A. Increasing interdependence of supply chains</p>",
+              "position": 1
+            },
+            {
+              "id": "941679d8-d17a-4b17-aacc-6cdb3e383666",
+              "itemBody": "<p>B. Personal growth by expanding personal horizons</p>",
+              "position": 2
+            },
+            {
+              "id": "319d943b-c0ed-4dd1-bbb7-b303d53d66d5",
+              "itemBody": "<p>C. Creating jobs in a new country and reducing them at home \n \n \nSUMMARY: - \n \n(LOS 16.a): – 1, 25 \n(LOS 16.b): – 2, 3, 12, 15, 17, 19, 23, 26 \n(LOS 16.c): – 11, 16, 24 \n(LOS 16.d): – 6, 7, 9, 10, 21, 22 \n(LOS 16.e): – 4, 5, 14, 18 \n(LOS 16.f): – 8, 13, 20 \n \n \n \n \n \n \n \n \n \n \n \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "941679d8-d17a-4b17-aacc-6cdb3e383666"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      },
+      "is_2027_new": true
+    }
+  ],
+  "responses": {},
+  "scored_data": {
+    "points": 2,
+    "points_possible": 14
+  },
+  "curriculum_year": "2027",
+  "has_2027_updates": true,
+  "new_2027_questions_count": 22
+}
