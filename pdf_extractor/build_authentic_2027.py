@@ -188,7 +188,7 @@ for topic, mod_num, mod_name, sp, ep in MODULE_SPECS:
     # Save module JSON
     clean_topic = re.sub(r'[^A-Za-z0-9 ]', '', topic).strip()
     safe_name = re.sub(r'[/\\:*?"<>|]', '', mod_name).strip()
-    file_title = f"2027 {clean_topic} - Module {mod_num} {safe_name}"
+    file_title = f"2027 {clean_topic} - Module {mod_num:02d} {safe_name}"
     file_path = os.path.join(DATA_DIR, f"{file_title}.json")
     
     module_data = {

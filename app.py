@@ -5915,7 +5915,7 @@ def new_2027_dashboard():
                     
                     mod_info = {
                         'filename': name_no_ext,
-                        'title': f"Module {mod_num}: {mod_name}",
+                        'title': f"Module {mod_num:02d}: {mod_name}",
                         'questions': len(items),
                         'num': mod_num
                     }
