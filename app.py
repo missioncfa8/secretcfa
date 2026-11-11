@@ -2703,17 +2703,18 @@ NEW_2027_TEMPLATE = """
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>New 2027 Curriculum - CFA Level 1</title>
+<title>2027 Practice Dashboard</title>
 <style>
 :root{--bg:#121212;--card:#0A2540;--card-border:#1a3a5c;--muted:#94a3b8;--accent:#0052A5;--accent-dark:#003d7a;--accent-light:#4d8fd6;--success:#2E7D32;--danger:#C62828;--warning:#fbbf24;--text-primary:#FAFAFA;--text-secondary:#cbd5e1;--text-muted:#94a3b8;--gold:#d4af37;--jewel-emerald:#2E7D32;--jewel-sapphire:#0052A5;--jewel-amethyst:#6c5ce7;--jewel-ruby:#C62828;--glass-bg:rgba(255,255,255,0.05);--glass-border:rgba(255,255,255,0.1);--sidebar-width:210px}
 body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;background:linear-gradient(135deg, var(--bg) 0%, #0A2540 100%);color:var(--text-primary);min-height:100vh;display:flex}
+.emoji,.sidebar-item-icon{-webkit-text-fill-color:initial;color:inherit}
 .sidebar{width:var(--sidebar-width);background:var(--card);border-right:1px solid var(--card-border);padding:20px 0;display:flex;flex-direction:column;position:fixed;height:100vh;left:0;top:0;z-index:100;transition:transform 0.3s ease}
 .sidebar-logo{padding:0 20px 20px 20px;border-bottom:1px solid var(--card-border);margin-bottom:12px}
 .sidebar-logo h2{margin:0;font-size:16px;font-weight:800;background:linear-gradient(135deg, var(--accent-light) 0%, var(--gold) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
 .sidebar-nav{flex:1;display:flex;flex-direction:column;gap:4px;padding:0 12px}
 .sidebar-item{display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:8px;color:var(--text-secondary);text-decoration:none;font-size:13px;font-weight:500;transition:all 0.2s}
 .sidebar-item:hover{background:rgba(255,255,255,0.08);color:var(--text-primary)}
-.sidebar-item.active{background:linear-gradient(135deg, #d4af37 0%, #f59e0b 100%);color:#000;font-weight:700}
+.sidebar-item.active{background:linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%);color:#fff;font-weight:600}
 .sidebar-item-icon{font-size:16px;width:20px;text-align:center}
 .sidebar-footer{padding:16px 20px;border-top:1px solid var(--card-border);margin-top:auto}
 .sidebar-user{font-size:11px;color:var(--text-muted)}
@@ -2723,33 +2724,41 @@ body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;backgrou
 .main-content{margin-left:var(--sidebar-width);flex:1;min-height:100vh;transition:margin-left 0.3s ease}
 .container{max-width:1100px;margin:24px auto;padding:0 32px}
 .header{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;border-bottom:1px solid var(--card-border);padding-bottom:12px}
-.header h1{font-size:26px;margin:0;font-weight:800;background:linear-gradient(135deg, #f1f5f9 0%, var(--gold) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
-.banner{background:linear-gradient(135deg, rgba(212,175,55,0.15) 0%, rgba(0,82,165,0.2) 100%);border:1px solid rgba(212,175,55,0.3);border-radius:12px;padding:20px 24px;margin-bottom:28px}
-.banner h3{margin:0 0 6px 0;font-size:18px;color:var(--gold)}
-.banner p{margin:0;color:var(--text-secondary);font-size:14px;line-height:1.5}
-.stats-strip{display:flex;gap:20px;margin-top:16px;flex-wrap:wrap}
-.stat-pill{background:rgba(0,0,0,0.3);padding:8px 16px;border-radius:8px;font-size:13px;border:1px solid var(--glass-border)}
-.stat-pill strong{color:var(--gold);font-size:16px;margin-right:4px}
-.search-container{margin-bottom:24px}
-.search-box{width:100%;padding:12px 18px;border:1px solid var(--card-border);border-radius:10px;background:var(--card);color:var(--text-primary);font-size:15px;box-sizing:border-box}
-.search-box:focus{outline:none;border-color:var(--gold)}
-.category-group{margin-bottom:32px}
-.category-header{font-size:18px;font-weight:700;color:var(--accent-light);margin-bottom:14px;padding-bottom:8px;border-bottom:1px solid var(--card-border);display:flex;align-items:center;justify-content:space-between}
-.category-count{font-size:12px;background:rgba(255,255,255,0.1);padding:3px 10px;border-radius:12px;color:var(--text-muted);font-weight:normal}
-.modules-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
-.mod-card{background:var(--card);border:1px solid var(--card-border);border-radius:12px;padding:18px;transition:all 0.25s ease;display:flex;flex-direction:column;justify-content:space-between}
-.mod-card:hover{transform:translateY(-3px);border-color:var(--gold);box-shadow:0 8px 24px rgba(0,0,0,0.3)}
-.mod-title{font-size:15px;font-weight:700;color:var(--text-primary);margin-bottom:8px;line-height:1.4}
-.mod-meta{display:flex;align-items:center;gap:10px;margin-bottom:14px;flex-wrap:wrap}
-.badge-updated{background:linear-gradient(135deg, #d4af37, #f59e0b);color:#000;font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px}
-.badge-qcount{font-size:12px;color:var(--text-muted)}
-.btn-practice{background:linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%);color:#fff;text-decoration:none;padding:10px 16px;border-radius:8px;font-size:13px;font-weight:600;text-align:center;transition:opacity 0.2s}
-.btn-practice:hover{opacity:0.9}
-.btn-practice.updated-btn{background:linear-gradient(135deg, #d4af37 0%, #b8860b 100%);color:#000}
+.header h1{font-size:24px;margin:0;font-weight:700;color:var(--text-primary)}
+.reset-link{color:var(--gold);text-decoration:none;font-size:14px;font-weight:600}
+.reset-link:hover{text-decoration:underline}
+.completion-section{margin-bottom:32px}
+.completion-label{font-size:14px;color:var(--text-secondary);margin-bottom:8px;display:block}
+.progress-bar-outer{background:rgba(0,40,80,0.6);height:24px;border-radius:12px;overflow:hidden;border:1px solid var(--card-border)}
+.progress-bar-fill{height:100%;background:linear-gradient(90deg, var(--accent) 0%, var(--accent-light) 100%);width:0%;transition:width 0.5s ease;border-radius:12px}
+.metrics-row{display:flex;gap:1px;background:var(--card-border);border:1px solid var(--card-border);border-radius:8px;overflow:hidden;margin-bottom:40px}
+.metric-box{background:var(--card);padding:24px;flex:1;display:flex;flex-direction:column;justify-content:center}
+.metric-box.large{flex:0 0 200px;text-align:center;border-right:1px solid var(--card-border)}
+.metric-value.large{font-size:48px;font-weight:800;line-height:1;margin-bottom:8px;color:var(--accent-light)}
+.metric-label.large{font-size:12px;color:var(--text-muted);text-transform:uppercase;letter-spacing:1px}
+.metric-content{border-left:4px solid var(--accent);padding-left:12px}
+.metric-value{font-size:18px;font-weight:700;color:var(--text-primary);margin-bottom:4px}
+.metric-label{font-size:12px;color:var(--text-muted)}
+.tabs{display:flex;gap:32px;border-bottom:1px solid var(--card-border);margin-bottom:24px}
+.tab{padding:12px 0;font-size:16px;font-weight:600;color:var(--text-muted);cursor:pointer;position:relative;text-decoration:none}
+.tab.active{color:var(--accent-light)}
+.tab.active::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:3px;background:var(--accent-light)}
+.topics-table{width:100%;border-collapse:collapse}
+.topics-table th{text-align:left;font-size:12px;text-transform:uppercase;color:var(--text-muted);padding:12px;border-bottom:1px solid var(--card-border)}
+.topics-table td{padding:12px;border-bottom:1px solid var(--card-border);font-size:14px}
+.topic-header{font-weight:700;color:var(--accent-light)}
+.subtopic-item{padding-left:32px !important}
+.subtopic-link{color:var(--text-primary);text-decoration:none}
+.subtopic-link:hover{color:var(--accent-light);text-decoration:underline}
+.text-right{text-align:right}
+.sidebar-toggle{background:none;border:none;font-size:24px;color:var(--text-primary);cursor:pointer;padding:8px;margin-right:15px;display:flex;align-items:center;justify-content:center;border-radius:8px}
+body.sidebar-collapsed .sidebar{transform:translateX(-100%)}
+body.sidebar-collapsed .main-content{margin-left:0}
 @media(max-width:768px){
+  .metrics-row{flex-direction:column}
+  .metric-box.large{flex:none;border-right:none;border-bottom:1px solid var(--card-border)}
   .main-content{margin-left:0 !important}
   .sidebar{transform:translateX(-100%)}
-  .modules-grid{grid-template-columns:1fr}
 }
 </style>
 </head>
@@ -2791,95 +2800,141 @@ body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;backgrou
     <a href="/logout" class="sidebar-logout">Logout</a>
   </div>
 </div>
-
 <div class="main-content">
 <div class="container">
-  
-    <div style="background: linear-gradient(135deg, rgba(212,175,55,0.15) 0%, rgba(0,82,165,0.2) 100%); border: 1px solid rgba(212,175,55,0.4); border-radius: 12px; padding: 20px 24px; margin: 24px 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;">
-      <div>
-        <div style="font-size: 18px; font-weight: 800; color: var(--gold); margin-bottom: 4px;">✨ New 2027 Curriculum Modules Available</div>
-        <div style="font-size: 14px; color: var(--text-secondary);">Practice the updated 2027 syllabus with brand-new questions and full solution rationales.</div>
-      </div>
-      <a href="/new-2027" style="background: linear-gradient(135deg, #d4af37 0%, #f59e0b 100%); color: #000; font-weight: 700; text-decoration: none; padding: 12px 22px; border-radius: 10px; font-size: 14px; box-shadow: 0 4px 15px rgba(212,175,55,0.3);">Explore New 2027 Modules →</a>
-    </div>
-
   <div class="header">
-    <div>
-      <h1>✨ New 2027 Curriculum Practice</h1>
-      <div style="font-size:14px; color:var(--text-muted); margin-top:4px">Module-wise practice updated with the latest 2027 curriculum changes & new questions</div>
+    <div style="display:flex;align-items:center">
+      <button class="sidebar-toggle" onclick="document.body.classList.toggle('sidebar-collapsed')">☰</button>
+      <h1>Dashboard <span style="font-size:13px;font-weight:600;color:var(--gold);margin-left:10px;background:rgba(212,175,55,0.15);border:1px solid rgba(212,175,55,0.3);padding:3px 10px;border-radius:12px;vertical-align:middle">2027 Curriculum</span></h1>
     </div>
-    <a href="/practice" style="color:var(--gold); text-decoration:none; font-size:14px; font-weight:600">Switch to 2026 Curriculum →</a>
-  </div>
-
-  <div class="banner">
-    <h3>✨ 2027 Curriculum Upgrade</h3>
-    <p>This section contains the official CFA Level 1 learning modules updated for 2027. Modules with syllabus changes incorporate the brand-new questions and full solution rationales, while unchanged topics remain seamlessly accessible.</p>
-    <div class="stats-strip">
-      <div class="stat-pill"><strong>{{ total_modules }}</strong> 2027 Learning Modules</div>
-      <div class="stat-pill"><strong>{{ categories|length }}</strong> Curriculum Topics</div>
-      <div class="stat-pill"><strong>{{ total_q }}</strong> Practice Questions & Full Solutions</div>
+    <div style="display:flex;gap:15px">
+      <a href="#" class="restore-link" style="color:var(--success);text-decoration:none;font-size:14px;font-weight:600">Restore Responses</a>
+      <a href="#" class="reset-link">Reset Questions</a>
     </div>
   </div>
-
-  <div class="search-container">
-    <input type="text" id="moduleSearch" class="search-box" placeholder="🔍 Search modules by name or topic..." onkeyup="filterModules()"/>
+  <div class="completion-section">
+    <span class="completion-label">Completion</span>
+    <div class="progress-bar-outer">
+      <div class="progress-bar-fill" style="width: {{ completion_percent }}%"></div>
+    </div>
   </div>
-
-  <div id="moduleList">
-    {% for category, modules in categories.items() %}
-    <div class="category-group" data-category="{{ category }}">
-      <div class="category-header">
-        <span>{{ category }}</span>
-        <span class="category-count">{{ modules|length }} Modules</span>
+  <div class="metrics-row">
+    <div class="metric-box large">
+      <div class="metric-value large">{{ avg_correct }}%</div>
+      <div class="metric-label large">Correct</div>
+    </div>
+    <div class="metric-box">
+      <div class="metric-content">
+        <div class="metric-value">{{ questions_taken }} of {{ total_questions }}</div>
+        <div class="metric-label">Questions Taken</div>
       </div>
-      <div class="modules-grid">
-        {% for mod in modules %}
-        <div class="mod-card" data-title="{{ mod.title|lower }}">
-          <div>
-            <div class="mod-title">{{ mod.title }}</div>
-            <div class="mod-meta">
-              <span class="badge-qcount">{{ mod.questions }} Questions</span>
-              {% if mod.has_updates %}
-              <span class="badge-updated">✨ 2027 Updated (+{{ mod.new_q }} New)</span>
+    </div>
+    <div class="metric-box">
+      <div class="metric-content">
+        <div class="metric-value">{{ avg_answer_time }}</div>
+        <div class="metric-label">Avg. Answer Time</div>
+      </div>
+    </div>
+    <div class="metric-box">
+      <div class="metric-content">
+        <div class="metric-value">{{ avg_correct_time }}</div>
+        <div class="metric-label">Avg. Correct Answer Time</div>
+      </div>
+    </div>
+    <div class="metric-box">
+      <div class="metric-content">
+        <div class="metric-value">{{ avg_incorrect_time }}</div>
+        <div class="metric-label">Avg. Incorrect Answer Time</div>
+      </div>
+    </div>
+    <div class="metric-box">
+      <div class="metric-content">
+        <div class="metric-value">{{ avg_session_duration }}</div>
+        <div class="metric-label">Avg. Session Duration</div>
+      </div>
+    </div>
+  </div>
+  <div class="tabs">
+    <a href="#" class="tab active">Question Categories</a>
+    <a href="/reports" class="tab">Reports</a>
+  </div>
+  <table class="topics-table">
+    <thead>
+      <tr>
+        <th>Category Name</th>
+        <th class="text-right">Complete</th>
+        <th class="text-right">% Correct</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for topic in topics %}
+      <tr class="topic-row">
+        <td class="topic-header">{{ topic.name }}</td>
+        <td class="text-right">{{ topic.complete }} of {{ topic.total }}</td>
+        <td class="text-right">{{ topic.percent_correct if topic.percent_correct != '--' else '--' }}{% if topic.percent_correct != '--' %}%{% endif %}</td>
+      </tr>
+      {% for sub in topic.subtopics %}
+      <tr>
+        <td class="subtopic-item">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <span class="subtopic-link">{{ sub.display_name }}</span>
+            <div style="display:flex;gap:8px">
+              {% if sub.status == 'in_progress' %}
+                <a href="/{{ sub.full_name }}" class="btn" style="padding:4px 8px;font-size:11px;background:var(--warning);color:#000;border-radius:4px;text-decoration:none">Resume</a>
+              {% elif sub.status == 'completed' %}
+                <a href="/{{ sub.full_name }}" class="btn" style="padding:4px 8px;font-size:11px;background:var(--success);color:#000;border-radius:4px;text-decoration:none">Review</a>
+              {% else %}
+                <a href="/{{ sub.full_name }}" class="btn" style="padding:4px 8px;font-size:11px;background:var(--accent);color:#000;border-radius:4px;text-decoration:none">Start</a>
               {% endif %}
             </div>
           </div>
-          <a href="/{{ mod.filename }}" class="btn-practice {% if mod.has_updates %}updated-btn{% endif %}">
-            Start Practice →
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
+        </td>
+        <td class="text-right" style="color:{% if sub.status == 'completed' %}var(--success){% elif sub.status == 'in_progress' %}var(--warning){% else %}var(--text-secondary){% endif %}">
+          {{ sub.complete }} of {{ sub.total }}
+        </td>
+        <td class="text-right">{{ sub.percent_correct if sub.percent_correct != '--' else '--' }}{% if sub.percent_correct != '--' %}%{% endif %}</td>
+      </tr>
+      {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
 </div>
 </div>
-
 <script>
-function filterModules() {
-  const query = document.getElementById('moduleSearch').value.toLowerCase();
-  const cards = document.querySelectorAll('.mod-card');
-  const groups = document.querySelectorAll('.category-group');
+document.querySelector('.reset-link').addEventListener('click', function(e) {
+  e.preventDefault();
+  if (confirm('Are you sure you want to reset all practice questions? This will clear your progress and accuracy for all modules.')) {
+    fetch('/api/reset-progress', { method: 'POST' })
+      .then(res => res.json())
+      .then(data => {
+        if (data.status === 'success') {
+          window.location.reload();
+        } else {
+          alert('Error: ' + data.message);
+        }
+      });
+  }
+});
 
-  cards.forEach(card => {
-    const title = card.getAttribute('data-title');
-    if (title.includes(query)) {
-      card.style.display = 'flex';
-    } else {
-      card.style.display = 'none';
-    }
-  });
-
-  groups.forEach(group => {
-    const visibleCards = group.querySelectorAll('.mod-card[style="display: flex;"]');
-    if (query === '' || visibleCards.length > 0) {
-      group.style.display = 'block';
-    } else {
-      group.style.display = 'none';
-    }
-  });
-}
+document.querySelector('.restore-link').addEventListener('click', function(e) {
+  e.preventDefault();
+  const btn = this;
+  btn.textContent = 'Restoring...';
+  btn.style.pointerEvents = 'none';
+  
+  fetch('/api/restore-progress', { method: 'POST' })
+    .then(res => res.json())
+    .then(data => {
+      if (data.status === 'success') {
+        alert(data.message);
+        window.location.reload();
+      } else {
+        alert('Error: ' + data.message);
+        btn.textContent = 'Restore Responses';
+        btn.style.pointerEvents = 'auto';
+      }
+    });
+});
 </script>
 </body>
 </html>
@@ -5882,8 +5937,32 @@ def update_exam_date():
 @app.route('/new-2027')
 @login_required
 def new_2027_dashboard():
-    """Dashboard displaying authentic 2027 curriculum modules strictly module-wise"""
+    """2027 Practice Dashboard matching the official Practice UI"""
     user_id = session.get('user_id')
+    
+    all_files = []
+    for f in os.listdir(DATA_FOLDER):
+        if f.startswith("2027 Module ") and f.endswith(".json"):
+            name = f[:-5]
+            path = os.path.join(DATA_FOLDER, f)
+            try:
+                with open(path, 'r', encoding='utf-8') as jf:
+                    data = json.load(jf)
+                    items = data.get('items', [])
+                    topic = data.get('topic', 'Other')
+                    mod_num = data.get('module_number', 0)
+                    mod_name = data.get('module_name', name)
+                    all_files.append({
+                        'full_name': name,
+                        'questions': len(items),
+                        'num': mod_num,
+                        'topic': topic,
+                        'mod_name': mod_name
+                    })
+            except Exception:
+                continue
+
+    snapshots = db.get_all_module_progress(user_id)
     
     TOPIC_ORDER = [
         'Quantitative Methods',
@@ -5898,52 +5977,110 @@ def new_2027_dashboard():
         'Ethical and Professional Standards'
     ]
     
-    categories = {topic: [] for topic in TOPIC_ORDER}
-    total_q = 0
-    total_modules = 0
+    topics_data = []
+    total_q_all = 0
+    total_c_all = 0
     
-    for f in os.listdir(DATA_FOLDER):
-        if f.startswith("2027 ") and f.endswith(".json"):
-            filepath = os.path.join(DATA_FOLDER, f)
-            name_no_ext = f[:-5]
-            try:
-                with open(filepath, 'r', encoding='utf-8') as jf:
-                    data = json.load(jf)
-                    items = data.get('items', [])
-                    topic = data.get('topic', 'Other')
-                    mod_num = data.get('module_number', 0)
-                    mod_name = data.get('module_name', name_no_ext)
-                    
-                    mod_info = {
-                        'filename': name_no_ext,
-                        'title': f"Module {mod_num:02d}: {mod_name}",
-                        'questions': len(items),
-                        'num': mod_num
-                    }
-                    total_q += len(items)
-                    total_modules += 1
-                    
-                    if topic in categories:
-                        categories[topic].append(mod_info)
-                    else:
-                        categories.setdefault(topic, []).append(mod_info)
-            except Exception:
-                continue
-
-    # Sort each category by module number
-    for t in list(categories.keys()):
-        categories[t].sort(key=lambda x: x['num'])
-        if not categories[t]:
-            del categories[t]
-
+    total_attempted_global = 0
+    total_correct_global = 0
+    total_time_global = 0
+    total_correct_time_global = 0
+    total_incorrect_time_global = 0
+    
+    for topic_name in TOPIC_ORDER:
+        topic_modules = [m for m in all_files if m['topic'] == topic_name]
+        if not topic_modules:
+            continue
+        topic_modules.sort(key=lambda x: x['num'])
+        
+        topic_total_q = sum(m['questions'] for m in topic_modules)
+        topic_complete_q = 0
+        topic_correct_q = 0
+        topic_scores = []
+        
+        subtopics = []
+        for m in topic_modules:
+            full_name = m['full_name']
+            mod_num = m['num']
+            mod_title = m['mod_name']
+            display_name = f"Module {mod_num:02d}. {mod_title}"
+            
+            snapshot = snapshots.get(full_name)
+            if snapshot:
+                status = snapshot.get('status', 'not_started')
+                m_comp = snapshot.get('attempted', 0)
+                m_correct = snapshot.get('correct', 0)
+                m_score = round(m_correct / m_comp * 100, 0) if m_comp > 0 else '--'
+                if m_score != '--':
+                    m_score = int(m_score)
+                
+                topic_complete_q += m_comp
+                topic_correct_q += m_correct
+                
+                total_attempted_global += m_comp
+                total_correct_global += m_correct
+                total_time_global += snapshot.get('time_spent', 0)
+                total_correct_time_global += snapshot.get('correct_time_spent', 0)
+                total_incorrect_time_global += snapshot.get('incorrect_time_spent', 0)
+            else:
+                status = 'not_started'
+                m_comp = 0
+                m_score = '--'
+            
+            if m_score != '--':
+                topic_scores.append(m_score)
+            
+            subtopics.append({
+                'full_name': full_name,
+                'display_name': display_name,
+                'total': m['questions'],
+                'complete': m_comp,
+                'percent_correct': m_score,
+                'status': status
+            })
+        
+        avg_topic_score = round(sum(topic_scores) / len(topic_scores), 0) if topic_scores else '--'
+        if avg_topic_score != '--':
+            avg_topic_score = int(avg_topic_score)
+        
+        topics_data.append({
+            'name': topic_name,
+            'total': topic_total_q,
+            'complete': topic_complete_q,
+            'percent_correct': avg_topic_score,
+            'subtopics': subtopics
+        })
+        total_q_all += topic_total_q
+        total_c_all += topic_complete_q
+    
+    questions_taken = total_c_all
+    total_questions = total_q_all
+    completion_percent = round((questions_taken / total_questions * 100), 1) if total_questions > 0 else 0
+    
+    def format_time(seconds):
+        if seconds >= 60:
+            return f"{int(seconds // 60)}m {int(seconds % 60)}s"
+        return f"{int(seconds)}s"
+    
+    avg_correct = round((total_correct_global / total_attempted_global * 100), 0) if total_attempted_global > 0 else 0
+    avg_answer_time = format_time(total_time_global / total_attempted_global) if total_attempted_global > 0 else "--"
+    avg_correct_time = format_time(total_correct_time_global / total_correct_global) if total_correct_global > 0 else "--"
+    avg_incorrect_time = format_time(total_incorrect_time_global / (total_attempted_global - total_correct_global)) if (total_attempted_global - total_correct_global) > 0 else "--"
+    avg_session_duration = format_time(total_time_global / len(snapshots)) if snapshots else "--"
+    
     return render_template_string(
         NEW_2027_TEMPLATE,
-        categories=categories,
-        total_modules=total_modules,
-        total_q=total_q,
+        completion_percent=completion_percent,
+        avg_correct=int(avg_correct),
+        questions_taken=questions_taken,
+        total_questions=total_questions,
+        avg_answer_time=avg_answer_time,
+        avg_correct_time=avg_correct_time,
+        avg_incorrect_time=avg_incorrect_time,
+        avg_session_duration=avg_session_duration,
+        topics=topics_data,
         active_tab='new_2027'
     )
-
 @app.route('/practice')
 @login_required
 def practice_dashboard():
