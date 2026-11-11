@@ -1,0 +1,740 @@
+{
+  "title": "Module 21: Capital Structure",
+  "topic": "Corporate Finance",
+  "module_number": 21,
+  "module_name": "Capital Structure",
+  "year": 2027,
+  "items": [
+    {
+      "id": "456e5117-a9b2-4e15-ba43-5dfb68d322a0",
+      "prompt": {
+        "text": "The WACC of the unleveraged firm, prior to the debt issue, is closest to:"
+      },
+      "choices": [
+        "4.00%.",
+        "9.33%.",
+        "13.33%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Sales risks"
+      }
+    },
+    {
+      "id": "e6893b23-1f37-4cf1-885d-5285c2c8ec35",
+      "prompt": {
+        "text": "The use of the $15 million of debt financing increases the value of Boulder \nby ____________ over its unlevered value. Ignore the costs of financial distress."
+      },
+      "choices": [
+        "$4.5 million",
+        "$10.5 million",
+        "$15 million"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Profitability risks (operating leverage)"
+      }
+    },
+    {
+      "id": "db3329e9-ac96-4669-ae55-6ced772ece9f",
+      "prompt": {
+        "text": "Including the present value of the cost of distress, the value of Boulder \nis closest to:"
+      },
+      "choices": [
+        "$49 million.",
+        "$55 million.",
+        "$59.5 million. \n \nCapital Structure \nFaculty:                                                                         Page 2 of 16"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Financial leverage and interest coverage"
+      }
+    },
+    {
+      "id": "72cb4d07-22a9-486e-93cc-d139392aeabf",
+      "prompt": {
+        "text": "The level of debt that will maximize the value of Boulder Inc. is closest \nto:"
+      },
+      "choices": [
+        "$15 million.",
+        "$20 million.",
+        "$30 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Collateral/type of assets owned by the firm \nCapital Structure \nFaculty:                                                                         Page 15 of 16"
+      }
+    },
+    {
+      "id": "863ea836-8de4-4c64-a83f-a1067f7b6591",
+      "prompt": {
+        "text": "A financial analyst is evaluating the capital structure for Plover, Inc., a  \nEuropean-based unleveraged firm with a constant (perpetual) cash flow of  EUR10.0 \nmillion per year before taxes. The firm has a market value of EUR100.0 million and a \ncorporate tax rate of 20%. Plover plans to issue EUR35.0 million in debt to retire an \nequivalent amount of equity, so the size of the firm will remain unchanged. The debt \nwill have a cost of 4.5%. Assume the cost of financial distress is close to zero. After \nthe debt issuance and change in the capital structure, Plover’s WACC is closest to:"
+      },
+      "choices": [
+        "5.47%.",
+        "7.48%.",
+        "8.82%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The calculations to determine the WACC are as follows: \n \nThe after-tax cash flows for the company are EUR10.0 million (1 – 0.20) = EUR8.0 \nmillion. Since the cash flows are assumed to be perpetual, WACC for the unlevered \nfirm is calculated as \n \nrWACC = CF(1 – t)/V = EUR8.0 million/EUR100.0 million = 8.0%. \n \nThe market value of Plover with the debt financing is EUR107 million: \nVL = VU + tD = EUR100.0 million + 0.20(EUR35.0 million) = EUR107.0 million. \n \nTo find the cost of equity, we first need to find the market value of equity: \nVL = D + E, where D and E are market values of debt and equity, respectively. \n \nE = EUR107.0 million – EUR35.0 million = EUR72.0 million. \n \nThe cost of equity is given by \nre=r0+(r0−rd)(1−t)(D/E) \n \n= 8.0% + (8.0% – 4.5%)(0.80)(EUR35.0 million/EUR72.0 million) = 9.36%. \n \nPlover’s WACC is calculated as follows: \nWACC = (Weighting of debt × Cost of debt) + (Weighting of equity × Cost of equity) \n= (EUR35 million/EUR107.0 million)(4.5%)(1 – 0.2) + (EUR72.0 million/EUR107.0 \nmillion)(9.36%) \n= 7.48%, which is lower than the 8.0% for the unlevered firm."
+      }
+    },
+    {
+      "id": "a6996021-a215-4c9d-a51c-61b3b676bdd7",
+      "prompt": {
+        "text": "A firm’s before-tax costs of debt, preferred stock, and equity are 12%, \n17%, and 20%, respectively. Assuming equal funding from each source and a marginal \ntax rate of 40%, the weighted average cost of capital (%) is closest to:"
+      },
+      "choices": [
+        "9.8%.",
+        "13.9%.",
+        "14.7%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nWACC = 𝑤𝑑𝑟𝑑(1 − 𝑡) + 𝑤𝑝𝑟𝑝 + 𝑤𝑒𝑟𝑒 \n= (1\n3) (0.12)(1 − 0.4) + (1\n3) (0.17) + (1\n3) (0.20) \n=  14.73%"
+      }
+    },
+    {
+      "id": "df6a031e-f421-4b0b-b534-a276b1d73d02",
+      "prompt": {
+        "text": "A firm with a marginal tax rate of 40% has a weighted average cost of \ncapital of 7.11%. The before-tax cost of debt is 6%, and the cost of equity is 9%. The \nweight of equity in the firm’s capital structure is closest to:"
+      },
+      "choices": [
+        "79%.",
+        "65%.",
+        "37%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nWACC = 𝑤𝑑𝑟𝑑(1 − 𝑡) + 𝑤𝑒𝑟𝑒,  where 𝑤𝑑 + 𝑤𝑒 = 1 \n7.11 = (1 − 𝑤𝑒) × 6 × (1 − 0.4) + 𝑤𝑒 × 9 \n𝑤𝑒 = 65% \n \nCapital Structure \nFaculty:                                                                         Page 11 of 16"
+      }
+    },
+    {
+      "id": "d9480967-41d7-4211-bd36-671ba55d24ab",
+      "prompt": {
+        "text": "According to Modigliani and Miller's Proposition II without taxes:"
+      },
+      "choices": [
+        "the cost of bankruptcy is high.",
+        "a company's cost of equity is a linear function of its debt-to-assets ratio.",
+        "substituting equity with lower-cost debt capital results in an unchanged overall \nWACC."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because MM Proposition II without taxes tells us that adding any amount \nof lower-cost debt capital to the capital structure is always perfectly offset by an \nincrease in the cost of equity, resulting in no change to the company’s overall weighted \naverage cost of capital."
+      }
+    },
+    {
+      "id": "f4a3de4f-1558-48fa-aeaf-5ffcde58c3af",
+      "prompt": {
+        "text": "According to the Modigliani and Miller Proposition I with taxes, the \nvalue of a levered company is greater than the value of the unlevered company by an \namount equal to the:"
+      },
+      "choices": [
+        "value of the debt.",
+        "after-tax interest paid.",
+        "tax rate multiplied by the value of the debt. \n \n \nCapital Structure \nFaculty:                                                                         Page 3 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Modigliani and Miller show that in the presence of corporate \ntaxes (but not personal taxes), the value of the levered company is greater than that \nof the all-equity company by an amount equal to the tax rate multiplied by the value \nof the debt, also termed the debt tax shield."
+      }
+    },
+    {
+      "id": "e6e15ab9-358e-4f87-b34c-7e1b7539b7eb",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nCapital Source Market Value \n(Millions) \nBefore-tax \nCost of Capital \nBonds €60 6% \nPreferred stock €20 8% \nCommon stock €120 15% \n \nIf the company's marginal tax rate is 40%, its weighted average cost of capital \nis closest to:"
+      },
+      "choices": [
+        "9.7%.",
+        "10.9%.",
+        "11.6%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the WACC = wdrd × (1 – t) + wprp + were. \nWhere: \nwd = the market value weight for debt = 60 / (60 + 20 + 120) = 0.30 \nrd = the before-tax cost of debt = 6% \nt = the company's marginal tax rate = 40% = 0.4 \nwp = the market value weight for preferred stock = 20 / (60 + 20 + 120) = 0.10 \nrp = the marginal cost of preferred stock = 8% \nwe = the market value weight for equity = 120 / (60 + 20 + 120) = 0.60 \nre = the marginal cost of equity = 15% \nWACC = (0.30 × 6% × (1 – 0.4)) + (0.10 × 8%) + (0.60 × 15%) = 10.88%."
+      }
+    },
+    {
+      "id": "7394179c-e498-4d86-884d-c0f61f26aec8",
+      "prompt": {
+        "text": "All else being equal, if interest on debt is tax deductible, an increase in \nthe company's marginal tax rate will:"
+      },
+      "choices": [
+        "decrease the company's WACC.",
+        "not affect the company's WACC.",
+        "increase the company's WACC."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the marginal cost of debt financing is the cost of debt after \nconsidering the allowable deduction for interest on debt. If interest can be deducted \nin full, the tax deductibility of debt reduces the effective marginal cost of debt to \nreflect the income shielded from taxation (often referred to as the tax shield) and \nthe marginal cost of debt is rd(1 – t). If the marginal tax rate increases, this \nincreases the tax shield and lowers the marginal cost of debt and also the WACC."
+      }
+    },
+    {
+      "id": "590eac45-1141-4251-8a02-c442e5533066",
+      "prompt": {
+        "text": "If a company's debt-to-equity ratio is 0.5, the weight of equity applied \nin estimating the company's WACC is closest to:"
+      },
+      "choices": [
+        "0.33.",
+        "0.50.",
+        "0.67."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the weight of debt is determined by the formula: wd= D/E / (1 \n+ D/E) where D is the value of debt and E is the value of equity. Weight of equity \n(we) is represented by 1 minus the weight of debt. Calculation: 1 - 0.5/ (1.5) = 1 - \n0.333 = 0.667 ≈ 0.67."
+      }
+    },
+    {
+      "id": "45b0f277-3de6-4716-a8e9-b8a7bb723789",
+      "prompt": {
+        "text": "According to the Modigliani–Miller propositions, if a company's debt-to-\nequity ratio increases, which of the following costs is most likely to exhibit the \nlargest increase?"
+      },
+      "choices": [
+        "WACC",
+        "Cost of debt",
+        "Cost of equity"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because as the debt-to-equity ratio increases and the company uses more \ndebt, its risk goes up and the cost of equity must increase. MM Proposition II holds \nCorporate Issuers: Practice Pack Faculty:  Page 13 of 20 that the increase \nin the cost of equity must exactly offset the greater use of lower cost debt."
+      }
+    },
+    {
+      "id": "d94b95e3-07f3-425b-899f-0467b7f437d1",
+      "prompt": {
+        "text": "The stage of a company's life cycle where debt financing \nis least accessible is the:"
+      },
+      "choices": [
+        "growth stage.",
+        "start-up stage.",
+        "maturity stage."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because at this early stage, debt capital is typically not available or \navailable only at a high cost. Most lenders require stable and positive cash flow to \nservice debt and/or collateral to secure it. An early-stage company often has neither, \nmaking it a high-risk prospect to lenders."
+      }
+    },
+    {
+      "id": "b911d79a-34cf-41c0-9a81-ef028faae228",
+      "prompt": {
+        "text": "At which stage in its life cycle would a typical company most likely have \nmore debt than equity in its capital structure?"
+      },
+      "choices": [
+        "Start-up stage",
+        "Growth stage",
+        "Mature stage \nCapital Structure \nFaculty:                                                                         Page 4 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because at the mature stage, the company becomes able to support low-\ncost debt, often on an unsecured basis. From the company’s perspective, debt \nCapital Structure \nFaculty:                                                                         Page 12 of 16 \n \nfinancing is likely to be more attractive than higher -cost equity financing. Also, as \ncompanies mature, business risk typically declines, and their cash flows turn positive \nand become increasingly predictable, allowing for greater use of leverage on more \nattractive (less costly) financing terms. Debt then becomes a larger component of \ntheir capital structures."
+      }
+    },
+    {
+      "id": "25ed57e0-cea4-449b-b45b-b690f13e2dc8",
+      "prompt": {
+        "text": "The relative proportions of debt and equity at market \nvalues best describes a company's:"
+      },
+      "choices": [
+        "target capital structure.",
+        "current capital structure.",
+        "inferred capital structure."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because if we assume that a company has a target capital structure and \nraises capital consistent with this target, we should use this target capital structure, \nor the capital structure that a company is striving to obtain. If we know the company’s \ntarget capital structure, then of course we should use this in our analysis. Individuals \noutside the company, however, such as analysts, typically do not know the target \ncapital structure and must estimate it by assuming  the company’s current capital \nstructure, at market value weights for the components, represents the company’s \ntarget capital structure.  Suppose we are using the company’s current capital \nstructure as a proxy for the target capital structure. In this case, we use the market \nvalue of the different capital sources in the calculation of these proportions."
+      }
+    },
+    {
+      "id": "56cedad5-1b8d-4fbf-9258-d81ef250653b",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company that uses \n60% debt and 40% equity in its capital structure: \nPre-tax cost of debt   9% \nEquity investors' required rate of return 15% \n \nIf the marginal corporate tax rate decreases from 35% to 10%, the change in the \nWACC is closest to:"
+      },
+      "choices": [
+        "–2.25%.",
+        "–1.35%.",
+        "1.35%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the weighted average cost of capital is WACC = [(1 – Tax rate) \n× Pre -tax cost of debt × Weighting of debt] + (Cost of equity × Weighting of \nequity). Substituting in yields for a 35% tax rate: WACC = ((1 – 0.35) × 0.09 × 0.60) \n+ (0.15 × 0.40)) = 9.51%. For a 10% tax rate, we get: WACC = ((1 – 0.10) × 0.09 × 0.60) \n+ (0.15 × 0.40)) = 10.86%. Hence, the change in WACC is an increase of 10.86% – 9.51% \n= 1.35%."
+      }
+    },
+    {
+      "id": "107578d2-87ab-4157-a61e-8c9ddd415b93",
+      "prompt": {
+        "text": "When a publicly traded company's target capital structure is unknown, \nwhich of the following is most likely an acceptable proxy?"
+      },
+      "choices": [
+        "Equal weights for debt and equity",
+        "The company’s current capital structure at book value weights",
+        "An unweighted average of comparable companies’ capital structures"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because an analyst, typically does not know the target capital structure \nand must estimate it using averages of comparable companies’ capital structures as \nthe target capital structure. Note that in applying this method, we use an unweighted, \narithmetic average, as is often done for simplicity."
+      }
+    },
+    {
+      "id": "3bc13322-788d-4761-9e37-88f48c00e4f3",
+      "prompt": {
+        "text": "A company's target capital structure is usually expressed by firm \nmanagers as:"
+      },
+      "choices": [
+        "a range in book value terms.",
+        "a range in market value terms.",
+        "a specific number in market value terms."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct  because transaction costs and minimum deal sizes make it impractical \nfor firms to constantly align capital structure to a specific number. As a result, firm \nmanagers usually set an optimal capital range: for example, 30% –50% debt rather \nthan 40%. Target capital structure is often expressed using the book value of equity \nand debt for the several reasons including market values can fluctuate substantially \nand capital structure policy is aligned to measures used by third parties. Since \nlenders, debt investors, and rating agencies generally focus on the book value of debt \nand equity for their calculation measures, firm managers take this fact into account \nin determining their capital structure policies."
+      }
+    },
+    {
+      "id": "6828f13f-4d0a-4b8f-846f-5f5e201978a9",
+      "prompt": {
+        "text": "According to the Modigliani–Miller Proposition I without taxes, when a \nfirm increases the proportion of debt in its capital structure, the firm value:"
+      },
+      "choices": [
+        "decreases.",
+        "remains unchanged.",
+        "increases."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Modigliani and Miller proved that changing the capital structure \ndoes not affect firm value. The value of a firm is thus determined not by the \nsecurities it issues but, rather, by its expected future cash flows."
+      }
+    },
+    {
+      "id": "a428404c-2809-48a8-85a2-72dc9c3af1f9",
+      "prompt": {
+        "text": "Which of the following is defined as the sensitivity of a firm’s operating profit to a \nchange in its revenues?"
+      },
+      "choices": [
+        "Total leverage",
+        "Financial leverage",
+        "Operating leverage"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because operating leverage captures the sensitivity of operating profit, \nproxied by EBIT, to a change in revenues. \nCapital Structure \nFaculty:                                                                         Page 13 of 16"
+      }
+    },
+    {
+      "id": "f73b0c48-1c02-49fd-9390-680806d07102",
+      "prompt": {
+        "text": "Consider the following information about a company: \nMarket value of debt outstanding £15,000 \nMarket value of company £40,000 \nCapital Structure \nFaculty:                                                                         Page 5 of 16 \n \nCost of debt 4.0% \nUnlevered WACC 9.0% \nTax rate 25% \n \nBased on the Modigliani-Miller propositions, the company's cost of equity \nis closest to:"
+      },
+      "choices": [
+        "10.4%.",
+        "11.3%.",
+        "12.0%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Modigliani and Miller also show that the cost of equity for the \nsame company with debt is: re = r0 + (r0 – rd)(1 – t)(D/E), where: \nre = cost of equity \nro = cost of capital for a company financed only with equity \nrd = cost of debt \nD = market value of debt \nE = market value of equity. \nCost of equity = 0.09 + (0.09 – 0.04) × (1 – 0.25) × (£15,000/ (£40,000 – 15,000)) = \n0.1125 ≈ 11.3%."
+      }
+    },
+    {
+      "id": "6f676f95-11ca-41a7-a9cc-c86ae18bf62d",
+      "prompt": {
+        "text": "A company increases its debt from 20% to 60% of its capital structure. \nBased on the Modigliani and Miller proposition (without taxes) regarding capital \nstructure, the WACC of the company:"
+      },
+      "choices": [
+        "decreases.",
+        "remains the same.",
+        "increases."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the Modigliani and Miller proposition implies that higher leverage \nraises the cost of equity but does not change firm value or WACC."
+      }
+    },
+    {
+      "id": "5c2315b3-d0a2-439e-a343-d43b958ffffb",
+      "prompt": {
+        "text": "All else being equal, a company most likely has a reduced debt capacity \nwhen its:"
+      },
+      "choices": [
+        "current ratio increases.",
+        "leverage ratio decreases.",
+        "interest coverage ratio decreases."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because interest coverage ratios are also commonly used to assess \ncompanies’ debt capacities. Generally, these ratios provide an estimate of how many \ntimes a company can cover its interest expense (or interest expense plus lease \npayments) with current earnings (usually measured as EBIT or EBITDA). In other \nwords, interest coverage ratios provide an indication of a company’s financial cushion \nin meeting its debt service obligations. The larger the interest coverage ratio, the \nlarger the financial cushion and the greater the company’s ability to service its debt \nobligations."
+      }
+    },
+    {
+      "id": "8886f3b0-fe6e-4b8d-b5d8-60b08f12d90b",
+      "prompt": {
+        "text": "Which of the following combination of factors most likely increases a \ncompany's ability to support debt in its capital structure?"
+      },
+      "choices": [
+        "High revenue, low cash flow volatility, and a low level of fungible assets",
+        "High revenue, low operating leverage, and a high level of fungible assets",
+        "Low cash flow volatility, low operating leverage, and a low level of fungible assets"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because an increased ability to support debt is indicated by high revenue, \nlow operating leverage, and greater fungible assets."
+      }
+    },
+    {
+      "id": "646dbd4e-c88f-4833-8ab6-19e4dd6a453c",
+      "prompt": {
+        "text": "According to the pecking order theory, company managers most \nlikely prefer to:"
+      },
+      "choices": [
+        "issue debt as the last resort.",
+        "raise equity first to preserve cash-flow.",
+        "rely on internal financing over new equity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the pecking order theory suggests that managers choose \nmethods of financing according to a hierarchy that gives first preference to methods \nwith the least potential information content (internally generated funds) and lowest \npreference to the form with the greatest potential information content (public equity \nofferings). In brief, managers prefer internal financing. If internal financing is \ninsufficient, managers next prefer debt, then equity."
+      }
+    },
+    {
+      "id": "3afd8513-9722-44ed-955d-64a81cccbffa",
+      "prompt": {
+        "text": "The source of capital that most likely benefits from a tax shield is:"
+      },
+      "choices": [
+        "debt.",
+        "equity.",
+        "preferred equity."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if interest can be deducted in full, the tax deductibility of debt \nreduces the effective marginal cost of debt to reflect the income shielded from \ntaxation and the marginal cost of debt is rd(1 – t). The cost of debt capital is the only \ncost of capital that can benefit from a tax shield."
+      }
+    },
+    {
+      "id": "aa77cb29-9ef0-4052-95a5-ecddf69960ea",
+      "prompt": {
+        "text": "An analyst gathers the following information about three companies in \nthe same industry but at different stages of their life cycles:  \n  Year 1 Revenue \n($ millions) \nYear 2 Revenue \n($ millions) \nYear 3 Revenue \n($ millions) \nYear 3 \nDebt/Capital \nCompany 1 10 11 9 0% \nCapital Structure \nFaculty:                                                                         Page 6 of 16 \n \nCompany 2 30 36 44 8% \nCompany 3 100 95 97 25% \n  \nThe company in the growth phase of its lifecycle is most likely:"
+      },
+      "choices": [
+        "Company 1.",
+        "Company 2.",
+        "Company 3."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because since the company's revenue is growing steadily (20% in the first \nyear and 22% subsequently) and there is already a small amount of debt in the capital \nstructure, this company is most likely in its growth phase."
+      }
+    },
+    {
+      "id": "374c3f2e-4851-4802-af79-116a4c4c0b6a",
+      "prompt": {
+        "text": "A corporate treasurer gathers the following information about her \ncompany: \nDebt-to-equity ratio based on market value 43% \nDebt-to-equity ratio based on book value 52% \n \nThe weight of debt in the company's target capital structure is closest to:"
+      },
+      "choices": [
+        "34%.",
+        "43%.",
+        "52%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a simple way of transforming a debt -to-equity ratio (D/E) into \na weight –that is,  D/(D + E)–is to divide  D/E by 1 +  D/E. While optimal capital \nstructure is calculated using the market value of equity and debt, company capital \nCapital Structure \nFaculty:                                                                         Page 14 of 16 \n \nstructure targets often use book value. As such, the weight of debt in the company's \ntarget capital structure is most likely 0.52 / (1 + 0.52) = 34.21% ≈ 34%."
+      }
+    },
+    {
+      "id": "4174c23a-8b3f-43f0-a540-38ff79bace10",
+      "prompt": {
+        "text": "An analyst gathers the following information about a US company: \nMarket value of debt $550 million \nMarket value of preferred stock $200 million \nMarket value of common stock $450 million \nBefore-tax cost of debt 7% \nCost of preferred stock 9% \nCost of common stock 12% \nMarginal tax rate 25% \n  \nThe company's WACC is closest to:"
+      },
+      "choices": [
+        "8.0%.",
+        "8.4%.",
+        "9.2%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the WACC is calculated as follows: \nWACC = wdrd (1 – t) + wprp + were \nWhere: \nwd = proportion of debt = 550 / sum of total capital = 550 / (550 + 200 + 450) = 0.458 \nrd = before tax cost of debt = 7% \nt = tax rate = 25% \nwp = proportion of preferred stock = 200 / (550 + 200 + 450) = 0.167 \nrp = cost of preferred stock = 9% \nwe = proportion of common stock = 450 / (550 + 200 + 450) = 0.375 \nre = cost of common stock = 12%. \nWACC = 0.458 × 0.07 × (1 – 0.25) + 0.167 × 0.09 + 0.375 × 0.12 = 0.024 + 0.0150 + \n0.045 = 0.0840 =8.4%."
+      }
+    },
+    {
+      "id": "722d266e-0cc7-4c98-80b6-a379abd0a656",
+      "prompt": {
+        "text": "According to Modigliani–Miller Proposition I without taxes, all else being \nequal, the value of a levered firm increases as its:"
+      },
+      "choices": [
+        "unlevered value decreases.",
+        "debt-to-equity ratio decreases.",
+        "expected future cash flows increase."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because according to Modigliani–Miller Proposition I without taxes, the \nvalue of a company is determined solely by its expected future cash flows (not its \nrelative use of debt versus equity capital). It’s a firm’s future cash flows that are \nthe primary driver of value, not capital structure."
+      }
+    },
+    {
+      "id": "bc5f4c81-3346-4bf8-be7c-5af03740314a",
+      "prompt": {
+        "text": "Based on Modigliani–Miller's Proposition II with taxes, if a firm has \ndebt in its capital structure and the tax rate increases, the firm's cost of equity \nwill:"
+      },
+      "choices": [
+        "decrease.",
+        "remain the same.",
+        "increase. \nCapital Structure \nFaculty:                                                                         Page 7 of 16"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because in the Modigliani –Miller model, the cost of equity,  re = r0 + \n(r0 – rd) × (1 – t) × (D/E). If the tax rate, t, increases, the product of the terms will \ndecrease, decreasing the cost of equity. When  t is not zero, the term (1 −  t) is less \nthan 1 and serves to reduce the cost of levered equity. The cost of equity still rises \nas the company increases the amount of debt in its capital structure, but it rises at \na slower rate than in the no-tax case."
+      }
+    },
+    {
+      "id": "da7126b1-6a63-4a0f-bdd9-29071e3c40a2",
+      "prompt": {
+        "text": "A company's cost of equity capital exceeds its cost of debt capital. If \ninterest expenses are tax deductible, which of the following most likely decreases \nthe company’s weighted average cost of capital? An increase in the:"
+      },
+      "choices": [
+        "weighting of equity",
+        "pre-tax cost of debt",
+        "marginal corporate tax rate"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the weighted average cost of capital is WACC = [(1 – Tax rate) \n× Pre -tax cost of debt × Weighting of debt] + (Cost of equity × Weighting of \nequity). Therefore, an increase in the tax rate decreases the pre -tax cost of debt \nwhich decreases the WACC."
+      }
+    },
+    {
+      "id": "2900d332-190a-4727-8663-0585c7e784f4",
+      "prompt": {
+        "text": "An analyst gathers the following information about a corporation: \nBefore-tax required rate of return of debt investors 6% \nRequired rate of return of equity investors 10% \nTax rate 15% \n \nIf the capital structure of the corporation is 40% debt and 60% equity, the WACC \nof the corporation is:"
+      },
+      "choices": [
+        "7.50%.",
+        "8.04%.",
+        "8.40%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because WACC = [(1 – Tax rate) × Pre-tax cost of debt × Weighting of \ndebt] + (Cost of equity × Weighting of equity) = (1 – 15%) × 6% × 40% + 10% × 60% = \n8.04%."
+      }
+    },
+    {
+      "id": "13e3c55d-fd4d-4c13-b477-cf5d996867ef",
+      "prompt": {
+        "text": "With respect to capital structure, operating leverage is:"
+      },
+      "choices": [
+        "an industry factor.",
+        "an issuer-specific factor.",
+        "a financial market factor."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because operating leverage is an issuer-specific factor. Debt and equity \ninvestors consider the risk and return profile of an issuer and adjust their required \nrates of return relative to base rates or broad averages by evaluating risk factors, \nincluding the following:"
+      }
+    },
+    {
+      "id": "57f527a7-a709-41ad-986f-daded7ce2c50",
+      "prompt": {
+        "text": "Target capital structure is often expressed using book values of equity \nand debt because:"
+      },
+      "choices": [
+        "capital structure policy is not aligned to measures used by third parties.",
+        "market values can fluctuate substantially and seldom impact the appropriate \nlevel of borrowing.",
+        "for management, the primary concern is the amount and types of capital \ninvested in the company, not by the company."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because market values can fluctuate substantially and seldom impact the \nappropriate level of borrowing."
+      }
+    },
+    {
+      "id": "3dd3d03c-341b-4807-b5c7-8f1ded05bee1",
+      "prompt": {
+        "text": "A company's required rate of return is its:"
+      },
+      "choices": [
+        "IRR.",
+        "WACC.",
+        "cost of equity."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because an issuer’s weighted-average cost of capital (WACC) blends its \ncosts of debt and equity to obtain a single cost of capital. The WACC, after adjusting \nfor any project -specific risks, is what issuers use as r in NPV analysis and as the \nhurdle rate for IRR analysis."
+      }
+    },
+    {
+      "id": "e0195b93-a1f3-46e2-bdc5-b7f57789f2b9",
+      "prompt": {
+        "text": "Under the static trade-off theory, the optimal capital structure \nmaximizes:"
+      },
+      "choices": [
+        "firm value.",
+        "total equity value.",
+        "the tax shield from debt."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the debt level corresponding to D, which maximizes firm value, \nand the associated level of equity are referred to as the optimal capital structure."
+      }
+    },
+    {
+      "id": "7740d8f4-51c9-48d8-8a39-425359b3086d",
+      "prompt": {
+        "text": "An increased use of debt may result in a reduction in the agency costs \nof equity according to the: \nCapital Structure \nFaculty:                                                                         Page 8 of 16"
+      },
+      "choices": [
+        "free cash flow hypothesis.",
+        "pecking order theory of capital structure.",
+        "static trade-off theory of capital structure."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because in the case of capital structure decisions, savings in the agency \ncosts of equity may arise with the increased use of debt. Similarly, the more \nfinancially leveraged a company, the less freedom for managers to either take on \nmore debt or spend cash unwisely. This is the foundation of Michael Jensen’s (1986) \nfree cash flow hypothesis."
+      }
+    },
+    {
+      "id": "f3d456fa-0b5c-4f88-a5fc-ac427c0c7492",
+      "prompt": {
+        "text": "When a company's target capital structure is unknown to analysts, which \nof the following is the least appropriate method to estimate the capital structure \nweights?"
+      },
+      "choices": [
+        "Using the book values of capital components",
+        "Using current market values of capital components",
+        "Analysing management's statements to infer the target capital structure"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because using market value weights based on the current capital \ncomponents is the baseline method recommended. Because the book value of the \ncapital components based on historical values of the capital sources likely will be \nsignificantly different from ma rket value, book value is not one of the three \nrecommended approaches."
+      }
+    },
+    {
+      "id": "d71871e9-3ece-4747-a721-da11f72995e2",
+      "prompt": {
+        "text": "All else being equal, if interest on a company's debt is tax deductible, an \nincrease in the tax rate will most likely:"
+      },
+      "choices": [
+        "decrease the WACC.",
+        "have no impact on the WACC.",
+        "increase the WACC."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if interest can be deducted in full, the tax deductibility of debt \nreduces the effective marginal cost of debt to reflect the income shielded from \ntaxation and the marginal cost of debt is  rd(1 – t). A higher tax rate would result in \nan increase in the tax deductibility of interest and result in a lower cost of debt and \nWACC."
+      }
+    },
+    {
+      "id": "2192aae9-38f4-44a1-8227-6f7492495940",
+      "prompt": {
+        "text": "All else being equal, if a US company's marginal tax rate increases, the \ncompany's WACC will most likely:"
+      },
+      "choices": [
+        "decrease.",
+        "remain unchanged.",
+        "increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A correct because an increase in the marginal tax rate will cause the after-tax cost \nof debt to decrease (with no effect on the cost of preferred or common), all else \nbeing equal. WACC is calculated using the following formula: \nWACC = wd × rd × (1 – t) + wp × rp + we × re \nwhere \nwd = the proportion of debt the company uses when it raises new funds \nrd = the before-tax marginal cost of debt \nt = the company's marginal tax rate \nwp = the proportion of preferred stock the company uses when it raises new funds \nrp = the marginal cost of preferred stock \nwe = the proportion of equity the company uses when it raises new funds \nre = the marginal cost of equity \nAn increase in the tax rate causes the value of (1 – t) to decrease resulting in a \ndecrease in both the after-tax cost of debt and the WACC. \n \nCapital Structure \nFaculty:                                                                         Page 16 of 16"
+      }
+    },
+    {
+      "id": "38da0898-a193-4276-ba48-82527ad84085",
+      "prompt": {
+        "text": "If a company’s D/E is 0.25, the weight of equity used to estimate the \nWACC is:"
+      },
+      "choices": [
+        "0.20.",
+        "0.75.",
+        "0.80. \n \n \n \nSUMMARY: - \n(LOS 25.a): - 1, 5, 6, 7, 10, 17, 30, 33, 34, 41, 42. \n(LOS 25.b): - 14, 15, 16, 24, 25, 28, 35, 36. \n(LOS 25.c): - 2, 3, 8, 9, 13, 20, 22, 23, 31, 32. \n(LOS 25.d): - 4, 11, 12, 18, 19, 26, 27, 29, 37, 38, 39, 40, 43. \n \n \n \n \n \n \n \n \n \nCapital Structure \nFaculty:                                                                         Page 9 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a simple way of transforming a debt-to-equity ratio (D/E) into a \nweight— that is, D/(D + E) is to divide D/E by 1 + D/E. Accordingly, w e = 1 – wd; and \nwd = D/(D + E) = (D/E)/((D/E) + 1) = 0.25/(0.25 + 1) = 0.2. Therefore w e = 1 – 0.2 = \n0.80."
+      }
+    }
+  ]
+}

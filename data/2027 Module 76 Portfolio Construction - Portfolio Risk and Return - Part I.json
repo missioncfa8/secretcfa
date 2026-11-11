@@ -1,0 +1,26 @@
+{
+  "title": "Module 76: Portfolio Risk and Return - Part I",
+  "topic": "Portfolio Construction",
+  "module_number": 76,
+  "module_name": "Portfolio Risk and Return - Part I",
+  "year": 2027,
+  "items": [
+    {
+      "id": "704ab865-9c89-4f0f-8764-9289e8ce41ad",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Portfolio Risk and Return - Part I."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Portfolio Risk and Return - Part I available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

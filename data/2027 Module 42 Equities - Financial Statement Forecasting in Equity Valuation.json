@@ -1,0 +1,111 @@
+{
+  "title": "Module 42: Financial Statement Forecasting in Equity Valuation",
+  "topic": "Equities",
+  "module_number": 42,
+  "module_name": "Financial Statement Forecasting in Equity Valuation",
+  "year": 2027,
+  "items": [
+    {
+      "id": "d4f58bdd-bf1e-470e-9b38-db889a6bf204",
+      "prompt": {
+        "text": "An analyst is constructing a dividend valuation of a company and has assumed the following earnings per \nshare (EPS) and dividend payout ratio for the next four years.\nYear EPS Payout Ratio (%)\n0 4.00 40\n1 4.60 40\n2 5.29 40\n3 5.819 60\n4 6.10995 80\nThe analyst’s table above reflects a disaggregated model in which of the following years?"
+      },
+      "choices": [
+        "Years 1 and 2",
+        "Years 2 and 3",
+        "Years 3 and 4\nFeedback\nC is correct. Choice C is correct because the increase in assumed dividend payout ratio for Years 3 and 4 \ncauses assumed dividends per share to grow more rapidly than EPS during those two years.\nChoice A is incorrect because the dividend payout ratio remains at 40% for both years, so EPS and dividends \nper share are assumed to grow at the same rate in those two years.\nChoice B is incorrect because the dividend payout ratio remains at 40% in Year 2 before increasing in Year 3. \nAs a result, EPS and dividends per share grow at the same rate in Year 2."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "04eac314-fb7e-46b8-a8a2-902a39a2261a",
+      "prompt": {
+        "text": "An analyst is forecasting selling, general, and administrative (SG&A) expenses for a company for next \nyear. She estimates a regression of the annual percentage change in SG&A (y-variable) on annual \npercentage change in sales (x-variable) using the last 20 years of the company’s income statement \ninformation. The analyst’s regression produces the following output:\nCoefficients Standard Error t-Statistic\nIntercept −0.008 0.011 2.00\n% Δ Sales 1.15 0.115 10.00\nWhich one of the following statements is most correct about the analyst’s forecast of the company’s SG&A \nexpense for the next year if she utilizes the regression results?"
+      },
+      "choices": [
+        "The analyst forecasts that SG&A expense will grow by more than sales in the coming year regardless of the \nsales forecast.",
+        "The analyst forecasts that SG&A expense will grow by less than sales in the coming year in the event of a \n10% increase in sales.",
+        "The analyst forecasts that SG&A expense will grow by less than sales in the coming year in the event of a \n5% increase in sales."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "bf0b3a29-b182-4088-b0c7-1d8cffe7607d",
+      "prompt": {
+        "text": "An analyst has created an income statement and balance sheet forecast for PT Indorinjani, an Indonesian \nmanufacturer. The following table shows a simplified version of the company’s balance sheet (in IDR \nthousands).\nYear t Year t+1\nNon-cash assets 122,000 130,540\nNon-debt liabilities 133,000 136,010\nThe analyst forecasts that PT Indorinjani’s net income (in thousands) for the next year (t+1) is 6,440 and that \nthe company is expected to pay 50% of its net income as dividends.\nWhich one of the following most closely states PT Indorinjani’s financing needs for next year and its FCFE if \nthe financing needs are met entirely by using surplus cash?"
+      },
+      "choices": [
+        "Financing needs are 2,310, and FCFE is 910.",
+        "Financing needs are −910, and FCFE is 910.",
+        "Financing needs are 2,310, and FCFE is 3,220."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1382c76e-6264-4671-8303-088d3f8871d7",
+      "prompt": {
+        "text": "Which of the following statements best describes the characteristics of a start-up company valuation?"
+      },
+      "choices": [
+        "Start-up company valuation models focus on the first-year cash flow forecast, with less importance assigned \nto the expected terminal value.",
+        "Start-up company valuation models forego a near-term cash flow forecast and primarily focus on the firm’s \nexpected future terminal value.",
+        "Start-up company valuation models are usually based on a constant cash flow growth assumption plus a \nterminal value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f0782659-f45c-4671-9155-4c83cc6bc9c1",
+      "prompt": {
+        "text": "Which of the following statements best describes the key features of a disaggregated model for a growth \ncompany?"
+      },
+      "choices": [
+        "Key equity value drivers in the growth phase include detailed revenue and profit projections to achieve \ntargeted financial results.",
+        "Key equity value drivers in the growth phase include the level of earnings and the stability of earnings.",
+        "Key equity value drivers in the growth phase include the assumption of a constant growth rate and its use in \nestimating terminal value.\nFeedback\nA is correct. A is correct because growth companies focus on achieving scale and profitability over time via \nrapid growth.\nB is incorrect because growth firms often have low to no earnings and are seeking growth to achieve scale and \ntargeted earnings over time.\nC is incorrect because growth firms typically are not expected to expand at a constant rate."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fef0907c-b4d1-4a84-b270-65dde6a016d9",
+      "prompt": {
+        "text": "Which of the following statements best represents the process of how free cash flow metrics are estimated \nin a disaggregated forecast model for equity valuation purposes?"
+      },
+      "choices": [
+        "Income statement and balance sheet forecasts provide the necessary inputs required to compute forecasted \nfree cash flow metrics.",
+        "Assumed cash flow growth rates provide the necessary inputs required to compute forecasted free cash \nflow metrics.",
+        "Historical financial statements provide the inputs required to compute forecasted free cash flow metrics.\nFeedback\nA is correct. A is correct because income statement and balance sheet forecasts provide the necessary inputs \nrequired to compute forecasted free cash flow metrics.\nB is incorrect because assumed cash flow growth rate inputs are used in present value models, not \ndisaggregated forecast models.\nC is incorrect because while historical financial statements may form the basis for revenue, expense, and asset \nforecasts, they do not provide the inputs to compute free cash flow forecasts."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

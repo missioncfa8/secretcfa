@@ -1,0 +1,519 @@
+{
+  "title": "Module 20: Capital Investments and Capital Allocation",
+  "topic": "Corporate Finance",
+  "module_number": 20,
+  "module_name": "Capital Investments and Capital Allocation",
+  "year": 2027,
+  "items": [
+    {
+      "id": "fc4a81de-2223-429a-9b69-09b8f82627b9",
+      "prompt": {
+        "text": "When preparing the cash-flow forecasts for both projects, Soroka should \ninclude:"
+      },
+      "choices": [
+        "only the cost of the market research.",
+        "only the loss of revenue from existing products.",
+        "both the market research cost and the loss of revenue from existing products."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Capital allocation analysis should include only incremental cash  flows \nassociated with a new investment. The loss of revenue from existing products  is an \nincremental negative effect that should be included in the analysis.  The market \nresearch costs in this case are a sunk cost because the research has  already been \ncompleted and therefore does not affect cash -flow estimates, no  matter whether \nABC undertakes either of these projects or neither of them."
+      }
+    },
+    {
+      "id": "9dacceac-5870-49d8-8cdc-7631dd5561f5",
+      "prompt": {
+        "text": "With regard to Project A and Project B, which of the following is true?"
+      },
+      "choices": [
+        "Both projects should be invested in according to the IRR decision rule.",
+        "Both projects should be invested in according to the NPV decision rule.",
+        "Only Project B should be invested in according to the IRR decision rule."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The IRR decision rule is to invest if the IRR exceeds the required rate \nof return or hurdle rate. Project B’s IRR is 8.97%, which exceeds the required rate  \nof return of 8%; however, Project A’s IRR is 7.04%, which is below the required rate \nof return of 8%. \nThe NPV of both projects can be calculated as follows: \n𝑁𝑃𝑉𝐴 = −18.5 + 4.5\n(1 + 0.08)1 + 6\n(1 + 0.08)2 + 6\n(1 + 0.08)3 + 5.5\n(1 + 0.08)4 = −0.38 \n𝑁𝑃𝑉𝐵 = −33.5 + −2.5\n(1 + 0.08)1 + −2.5\n(1 + 0.08)2 + 24\n(1 + 0.08)3 + 25.5\n(1 + 0.08)4 = 1.12 \n \nUsing the same equation, we can solve for the IRRs by assuming that NPV = 0. \n0 = −18.5 + 4.5\n(1 + IRR𝐴)1 + 6\n(1 + IRR𝐴)2 + 6\n(1 + IRR𝐴)3 + 5.5\n(1 + IRR𝐴)4 \nIRR𝐴 = 7.04% \n \n0 = −33.5 + −2.5\n(1 + IRR𝐵)1 + −2.5\n(1 + IRR𝐵)2 + 24\n(1 + IRR𝐵)3 + 25.5\n(1 + IRR𝐵)4 \nIRR𝐵 = 8.97%"
+      }
+    },
+    {
+      "id": "f40997a5-26e4-4e9a-affa-2158d284fb30",
+      "prompt": {
+        "text": "The most likely impact from the cash -flow timing considered by Soroka \nis that:"
+      },
+      "choices": [
+        "both IRR and NPV would decrease.",
+        "both IRR and NPV stay unchanged.",
+        "only IRR would decrease but NPV would increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The forecasted timing of cash flow is an important factor affecting  \nboth projects’ IRR and NPV. In the case of delaying all future cash flows from both \nprojects by six months, the result would be a lower IRR and a lower NPV. Given that \nall future cash flows are to be received six months later, their present  value \ndecreases; hence, the NPV and IRR of an entire project also decrease. B is incorrect \nbecause when cash flows from the investment projects are delayed  by six months, \nboth projects’ NPV  and IRR would decrease, not stay unchanged.  C is incorrect \nbecause when cash flows from the investment projects are delayed  by six months, \nboth project’s NPV and IRR would decrease."
+      }
+    },
+    {
+      "id": "43f29001-11cf-4862-8780-445c8a545ab5",
+      "prompt": {
+        "text": "Based on ABC’s balance sheet presented in Exhibit 2, Soroka should \ncalculate:"
+      },
+      "choices": [
+        "average invested capital of $72,510 and ROIC of 9.50%.",
+        "average invested capital of $80,720 and ROIC of 10.94%.",
+        "average invested capital of $92,995 and ROIC of 9.50%. \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 3 of 12"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. To calculate ROIC, we can use the following formula: \n \nROIC = (1 − Tax rate) × Operating profit𝑡\nAverage invested capital𝑡−1,𝑡\n, \nWhere \n \nAverage invested capital𝑡−1,𝑡 = (Debt + Equity)20𝑋1 + (Debt + Equity)20𝑋2\n2  \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 9 of 12 \n \nAverage invested capital𝑡−1,𝑡 = (25,040 + 39,800 + 6,500) + (25,910 + 40,990 + 6,780)\n2  \nAverage invested capital𝑡−1,𝑡 = 72,510 \nROIC = 9.50%"
+      }
+    },
+    {
+      "id": "bb148794-9aa2-41bc-bd39-9972e6fdd93b",
+      "prompt": {
+        "text": "Considering ABC management’s ROIC-based investment criterion and the \nIRR and NPV of both projects, Soroka should recommend to:"
+      },
+      "choices": [
+        "reject both projects A and B.",
+        "invest only in Project B because it has a higher NPV.",
+        "invest only in Project A because has positive cash flow during all four years."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. ABC’s management aims to achieve a minimum ROIC above 9.20%,  but \nthe IRR of both projects fails to meet this investment criterion. Even though Project \nB has a positive NPV, if it were undertaken, it would reduce ROIC.  B is incorrect \nbecause even though Project B’s NPV is $1.12 million (which increases ABC’s value to \nshareholders), its IRR is 8.97%, which is below the target  ROIC of 9.20%. \nConsequently, if Project B was undertaken, it would lower ABC’s ROIC. C is incorrect \nbecause Project A’s I RR is below ABC management’s target ROIC  of 9.2%. \nAdditionally, Project A’s NPV is negative, so it decreases ABC’s shareholder value."
+      }
+    },
+    {
+      "id": "c4153fb0-0a4f-4525-b66f-da696b38205c",
+      "prompt": {
+        "text": "Given a discount rate of 10%, the net present value (NPV) of the following \ninvestment is closest to: \nTime 0 1 2 3 4 5 6 \nCash flow −1,500 300 600 1,000 200 500 300"
+      },
+      "choices": [
+        "605.",
+        "578.",
+        "636."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The given cash flows are inserted into a financial calculator along with  \nthe 10% discount rate: CF0 = −1,500, CF1 = 300, CF2 = 600, CF3 = 1,000, CF4 = 200,  \nCF5 = 500, CF6 = 300, I = 10. Computing NPV the result is 636.32 ~ 636."
+      }
+    },
+    {
+      "id": "87fee240-0e06-4650-84f5-49037f16a482",
+      "prompt": {
+        "text": "The incremental after-tax cash flows (in € thousands) and information on \ntwo mutually exclusive projects are as follows: \nYear 0 1 2 3 4 \nNet Present \nValue (NPV, \n€ thousands) \nInternal Rate \nof Return (IRR, \n%) \nProject X −15,000 2,000 5,000 8,000 8,000 354 16 \nProject Y −13,250 200 500 7,000 15,000 --- --- \n \nThe appropriate hurdle rate to use in evaluating the projects is 15.0%. Which of the \nfollowing statements is most accurate? The company should accept:"
+      },
+      "choices": [
+        "Both projects.",
+        "Project Y only.",
+        "Project X only."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The NPV (in € thousands) and IRR of Project Y are calculated as follows: \n \nBecause these projects are mutually exclusive, only one can be undertaken: It should \nbe Project Y, which has the highest NPV and thus increases shareholder wealth the \nmost. Both projects’ IRRs exceed the hurdle rate, and the IRR of Project Y exceeds \nthat of Project X. The decision, however, should be based on the superior NPV of \nProject Y."
+      }
+    },
+    {
+      "id": "5dc48b9f-1c62-4112-92c8-0211d13c1dc1",
+      "prompt": {
+        "text": "A project has the following annual cash flows: \nYear 0 Year 1 Year 2 Year 3 Year 4 \n‒$4,662,005 $22,610,723 ‒$41,072,261 $33,116,550 ‒$10,000,000 \n \nWhich of the following discount rates most likely produces the highest net present \nvalue (NPV)?"
+      },
+      "choices": [
+        "8%",
+        "15%",
+        "10%"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The NPV at 15% is $99.93. The NPV at 10% is –$0.01. The NPV at 8% is \n–$307.59."
+      }
+    },
+    {
+      "id": "a42cd426-3794-43c8-a65a-6a5ba6216fc4",
+      "prompt": {
+        "text": "A measure of how effectively capital is converted into after-tax operating \nprofits is the:"
+      },
+      "choices": [
+        "hurdle rate.",
+        "cost of capital.",
+        "return on invested capital. \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 4 of 12"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because ROIC reflects how effectively a company’s management is able \nto convert capital into after-tax operating profits."
+      }
+    },
+    {
+      "id": "b5ced98f-8ad9-466d-9223-a3d797177368",
+      "prompt": {
+        "text": "Which of the following is considered a capital allocation pitfall? Basing \ninvestment decisions on:"
+      },
+      "choices": [
+        "opportunity costs.",
+        "after-tax cash flows.",
+        "short-run accounting numbers."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because one common pitfall is basing investment decisions on EPS, net \nincome, or ROE: Companies sometimes have incentives to boost earnings per share, \nnet income, or return on equity. Many investments, even those with strong NPVs, do \nnot increase these accounting numbers in the short run and may even reduce them. \nPaying too much attention to short -run accounting numbers can result in a company \nProject X NPV = €354.0 (given) IRR = 16.0% (given) \nProject Y \nUsing a financial calculator: CF0 = \n−13,250, CF1 = 200, CF2 = 500, \nCF3 = 7,000, CF4 = 15,000, i = 15%, \nand solving for NPV, NPV = €480.9 \nUsing a financial calculator: \nCF0 = −13,250, CF1 = 200, \nCF2 = 500, CF3 = 7,000, and \nCF4 = 15,000, and solving for \nIRR, IRR = 16.2% \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 10 of 12 \n \nchoosing investments that are not in the long -run economic interests of its \nshareholders."
+      }
+    },
+    {
+      "id": "db7e661d-65f3-4868-a46d-ca4726b032ad",
+      "prompt": {
+        "text": "When choosing between mutually exclusive projects, an analyst should:"
+      },
+      "choices": [
+        "accept the project with the highest IRR.",
+        "use the opportunity cost of funds as the discount rate.",
+        "accept the projects for which the IRR is greater than the opportunity cost of \nfunds."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. We referred to the rate used in discounting the cash flows as the \n“required rate of return.” The required rate of return is the discount rate that the \nissuer’s suppliers of capital require given the riskiness of the project. This discount \nrate is frequently called the “opportunity cost of funds” or the “cost of capital.” For \na capital investment with one investment outlay, made initially, the net present value \n(NPV) is the present value of the future after -tax cash flows minus the investment \noutlay, where the discount rate equals the required rate of return."
+      }
+    },
+    {
+      "id": "a6f42f08-0d94-480e-83b2-c4661f253ac2",
+      "prompt": {
+        "text": "A company is evaluating the following mutually exclusive capital projects: \n  Project 1 Project 2 \nNPV $180,000 $100,000 \nIRR 10% 15% \n \nIf the hurdle rate is 8%, the company should invest in:"
+      },
+      "choices": [
+        "Project 1 only.",
+        "Project 2 only.",
+        "both Project 1 and Project 2."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Project 1 has a higher NPV. For mutually exclusive investments \nthat are ranked differently by the NPV and IRR, the NPV criterion is more \neconomically sound."
+      }
+    },
+    {
+      "id": "4a47f8b6-3152-4631-9322-2414fd62e9fb",
+      "prompt": {
+        "text": "Compared to going concern projects, expansion projects most \nlikely involve:"
+      },
+      "choices": [
+        "greater uncertainty only.",
+        "greater amounts of capital only.",
+        "both greater uncertainty and greater amounts of capital."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because expansion projects typically involve greater uncertainty, time, \nand amounts of capital than going concern projects."
+      }
+    },
+    {
+      "id": "aa96aced-0742-4759-b1a7-7d95c5fbf811",
+      "prompt": {
+        "text": "An electric vehicle manufacturer invests in a new technology to meet \nnew safety standards. This project is best classified as a(n):"
+      },
+      "choices": [
+        "expansion project.",
+        "compliance project.",
+        "going concern project."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because regulatory and compliance projects are required by third \nparties, such as government regulatory bodies, to meet safety and regulatory \ncompliance standards. The investment in new technology to meet improved safety \nstandards is therefore a compliance project."
+      }
+    },
+    {
+      "id": "e9840522-23c0-4e32-8d85-57a476b0724f",
+      "prompt": {
+        "text": "A company should exercise the abandonment option on an investment if \nthe present value of the cash flows from continuing the investment is:"
+      },
+      "choices": [
+        "lower than the cash flow from abandoning the investment.",
+        "the same as the cash flow from abandoning the investment.",
+        "greater than the cash flow from abandoning the investment."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if the cash flow from abandoning an investment exceeds the \npresent value of the cash flows from continuing the investment, the company should \nexercise the abandonment option. Conversely, if the PV of the cash flows from \ncontinuing the investment is lower than the cash flow from abandoning the \ninvestment, the company should exercise the abandonment option."
+      }
+    },
+    {
+      "id": "652e5d7f-c394-4384-9fcb-56dba8f0f0f3",
+      "prompt": {
+        "text": "A company with a required rate of return of 12% is considering a capital \nproject with the following cash flows (in millions): \n  Initial Outlay Year 1 Year 2 \nCash flow −£150 £8 £175 \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 5 of 12 \n \n \nThe expected IRR for this project is most likely:"
+      },
+      "choices": [
+        "less than 12%.",
+        "equal to 12%.",
+        "greater than 12%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the IRR is the discount rate that makes the present value of \nthe future after-tax cash flows equal that investment outlay or ∑nt=1 CFt ÷ (1 + IRR)t \n= Outlay, where IRR is the internal rate of return. Solved using the following \ncalculator inputs: CF0 = −150, CF1 = 8, CF2 = 175, Calculate IRR = 10.7119, rounded to \n10.71% which is less than 12%."
+      }
+    },
+    {
+      "id": "74eae0e5-bf2d-40b5-b174-9af512d5fb42",
+      "prompt": {
+        "text": "Subsequent to making a capital investment, a company reacts to poor \nfinancial results from the project by abandoning it. This action \nalone best exemplifies the exercise of a:"
+      },
+      "choices": [
+        "sizing option.",
+        "timing option.",
+        "flexibility option."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because sizing options encompass abandonment or expansion of capacity. \nIf after investing the company can abandon the investment if the financial results \nare disappointing, it has an abandonment option. At some future date, if the cash flow \nfrom abandoning an investment exceeds the present value of the cash flows from \ncontinuing the investment, the company should exercise the abandonment option. \nConversely, if the company can make additional investments when future financial \nresults are strong, the company has a growth option or an expansion option. \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 11 of 12"
+      }
+    },
+    {
+      "id": "db632786-e37b-4518-a021-d5bd0cecdddb",
+      "prompt": {
+        "text": "An analyst gathers the following information about a project: \nInitial outlay €100 million \nCash flow at end of Year 1 €65 million \nCash flow at end of Year 2 €65 million \nCash flow at end of Year 3 €65 million \n \nIf the required rate of return is 15%, the NPV is closest to:"
+      },
+      "choices": [
+        "€48 million.",
+        "€95 million.",
+        "€148 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because it discounts all the cash flows at the required return and sums \nthem as follows: NPV = t=1nΣCFt /(1 + r)t − Outlay, where CFt = After-tax cash flow at \ntime t, r = Required rate of return for the investment, Outlay = Investment cash flow \nat time zero, NPV = 65/(1 + 15%) + 65/(1 + 15%)2 + 65/(1 + 15%)3 – 100 ≈ 56.52 + 49.15 \n+ 42.74 – 100 = 148.41 ≈ 48."
+      }
+    },
+    {
+      "id": "8356cf40-ffa6-47ae-91c0-3b86addca895",
+      "prompt": {
+        "text": "The NPV of a new project is expected to be –$0.20 million. An \nincremental investment of $0.40 million would give management the flexibility to \nswitch to a lower cost input in the future. If this option has an estimated value of \n$0.80 million, the value of the project including the option is:"
+      },
+      "choices": [
+        "$0.20 million.",
+        "$0.40 million.",
+        "$1.00 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the NPV, including the real option, should be: Project NPV = NPV \n(based on DCF alone) – Cost of options + Value of options. Project NPV = –$0.2 million \n– $0.4 million + $0.8 million = $0.2 million."
+      }
+    },
+    {
+      "id": "fccd848a-f170-4191-a2b3-fd4a742e8682",
+      "prompt": {
+        "text": "A company is deciding whether to invest in one of two mutually exclusive \nprojects with positive NPVs. If Project 1 has a higher NPV but a lower IRR than \nProject 2, the company should:"
+      },
+      "choices": [
+        "prefer Project 1.",
+        "prefer Project 2.",
+        "be indifferent between Project 1 and Project 2."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. ... As a practical matter, once a corporation has the data to calculate the \nNPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. \nHowever, the most appropriate and theoretically sound criterion is the NPV."
+      }
+    },
+    {
+      "id": "0a4b8dfb-08a7-4e50-86aa-dd642a96589a",
+      "prompt": {
+        "text": "Management most likely has the least amount of discretion when \ndeciding to invest in a(n):"
+      },
+      "choices": [
+        "regulatory project.",
+        "expansion project.",
+        "going concern project. \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 6 of 12"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because unlike going concern and expansion projects, for which \nmanagement has discretion in deciding whether or not to invest, regulatory and \ncompliance projects are required by third parties, such as government regulatory \nbodies, to meet safety and regulatory compliance standards."
+      }
+    },
+    {
+      "id": "ed5a2d09-e87f-4be4-9448-59b2bb065bc0",
+      "prompt": {
+        "text": "The ability to abandon an investment if it has produced disappointing \nfinancial results is most likely a type of:"
+      },
+      "choices": [
+        "sizing option.",
+        "flexibility option.",
+        "fundamental option."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because an abandonment option is a type of sizing option. If after \ninvesting the company can abandon the investment if the financial results are \ndisappointing, it has an abandonment option. At some future date, if the cash flow \nfrom abandoning an investme nt exceeds the present value of the cash flows from \ncontinuing the investment, the company should exercise the abandonment option."
+      }
+    },
+    {
+      "id": "a3af8b09-2fe4-4c73-9989-06507bb8ad8c",
+      "prompt": {
+        "text": "Which statement regarding capital investments is correct?"
+      },
+      "choices": [
+        "Going concern projects are investments to increase the size of the business",
+        "Regulatory compliance projects seldom increase a firm’s expenses with no added \nrevenue",
+        "Capital investments are usually necessary if a firm extends its existing \noperations to adjacent products and services"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because capital investments are also usually necessary if an established \nfirm decides to extend its existing operations to adjacent products and services or \nexpand to new regions or markets."
+      }
+    },
+    {
+      "id": "514f33ec-d6d5-4c7d-9405-4c7f5336c2c5",
+      "prompt": {
+        "text": "Maintenance capital expenditures include:"
+      },
+      "choices": [
+        "continuous improvements of existing facilities.",
+        "anti-money-laundering training for employees.",
+        "investing in solar panel production to benefit from government subsidies."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because continuous improvements of existing facilities are going concern \nprojects. Going concern projects, often known as maintenance capital expenditures, \nare investments to continue the company’s current operations and maintain the \nexisting size of the business. Common going concern projects include replacing assets \nnearing the end of their useful life, maintaining IT hardware and software, and \ncontinuous improvements of existing facilities."
+      }
+    },
+    {
+      "id": "3d1f4eb9-b19a-437a-ad19-ca21c3d271b0",
+      "prompt": {
+        "text": "Which of the following is a common capital allocation pitfall?"
+      },
+      "choices": [
+        "Ignoring sunk costs",
+        "Anchoring capital investment budgets to prior year amounts",
+        "Considering different states of the world for investment alternatives"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because this is often a sign of inertia, which is a common mistake in \ncapital allocation. Inertia is the result of management anchoring their capital \ninvestment budgets to prior year amounts. If capital investment each year is static \nor increasing despite falling returns on investment, the analyst should question the \nissuer’s justification for its capital investment and whether management should be \nconsidering alternative uses. \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 12 of 12"
+      }
+    },
+    {
+      "id": "833c5b9e-449e-4f5c-a31a-65e8844b7ce9",
+      "prompt": {
+        "text": "With respect to capital budgeting, which of the following statements \nis most accurate? The internal rate of return calculation assumes that a project's \ninterim cash flows are reinvested at the project's:"
+      },
+      "choices": [
+        "hurdle rate.",
+        "internal rate of return.",
+        "weighted average cost of capital."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the IRR assumes reinvestment at the IRR. Mathematically, \nwhenever you discount a cash flow at a particular discount rate, you are implicitly \nassuming that you can reinvest a cash flow at that same discount rate."
+      }
+    },
+    {
+      "id": "df65d384-4b1f-48ac-8e46-06679a872c8d",
+      "prompt": {
+        "text": "When evaluating potential capital investments, the most appropriate \ndiscount rate is the:"
+      },
+      "choices": [
+        "overall cost of capital for the company.",
+        "individual investment's required rate of return.",
+        "cost of debt or cost of equity, depending on the financing source."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the required rate of return for an investment is the rate of \nreturn that a corporate issuer’s investors could earn on a similarly risky investment."
+      }
+    },
+    {
+      "id": "2208a09f-3f2f-4155-a965-6844d09d29b3",
+      "prompt": {
+        "text": "An analyst gathers the following information (in $ millions) about two \nmutually exclusive capital projects: \n  \nNPV at 9% \nRequired Rate \nof Return \nNPV at 12% \nRequired Rate \nof Return  \nNPV at 15% \nRequired Rate \nof Return \nProject 1 50 17 −10 \nProject 2 61 13 −31 \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 7 of 12 \n \nProject 1 should be selected for investment if the required rate of return is:"
+      },
+      "choices": [
+        "9%.",
+        "12%.",
+        "15%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the decision rule for the NPV is: Invest if NPV > 0. In the case \nof mutually exclusive investment projects, a company should choose the one with the \nhigher NPV."
+      }
+    },
+    {
+      "id": "3e239c58-091a-4465-a077-261a69e8b37a",
+      "prompt": {
+        "text": "A company with a required rate of return of 12% is considering a capital \nproject with the following cash flows (in millions):  \n  Initial Outlay Year 1 Year 2 \nCash flow −£150 £8 £175 \n  \nThe expected IRR for the project is closest to:"
+      },
+      "choices": [
+        "10.7%.",
+        "12.0%.",
+        "13.2%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the IRR is the discount rate that makes the present value of \nthe future after-tax cash flows equal that investment outlay or: \n∑nt=1 CFt ÷ (1 + IRR)t = Outlay,  \nwhere IRR is the internal rate of return. Solved using the following calculator inputs: \nCF0 = −150, CF1 = 8, CF2 = 175, Calculate IRR = 10.7119, rounded to 10.71%."
+      }
+    },
+    {
+      "id": "60150d73-71f2-4384-9c56-273f9d0ccdd4",
+      "prompt": {
+        "text": "A firm is considering a project that would require an initial investment of \nTHB270 million (Thai baht). The project will help increase the firm’s after -tax net \ncash flows by THB30 million per year in perpetuity, and it is found to have a negative \nNPV of THB20 million. The IRR (%) of the project is closest to:"
+      },
+      "choices": [
+        "10.3%.",
+        "11.1%.",
+        "12.0%. \n \n \n \n \n \nSUMMARY: - \n \n(LOS 24.a): - 13, 14, 21, 23, 24 \n(LOS 24.b): - 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 16, 18, 20, 26, 27, 28, 29, 30  \n(LOS 24.c): - 1, 10, 25 \n(LOS 24.d): - 15, 17, 19, 22 \n \n \n \n \n \n \n \n \n \n \n \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 8 of 12"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The IRR is the discount rate that makes the NPV = 0. Because the cash \nflow stream is in perpetuity, it can be solved as follows: \n0 = –270 + (30/IRR) \nIRR = 11.1%."
+      }
+    }
+  ]
+}

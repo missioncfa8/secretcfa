@@ -1,0 +1,230 @@
+{
+  "title": "Module 40: Discounted Cash Flow (DCF) and Growth Models",
+  "topic": "Equities",
+  "module_number": 40,
+  "module_name": "Discounted Cash Flow (DCF) and Growth Models",
+  "year": 2027,
+  "items": [
+    {
+      "id": "bf635d78-250e-4b7b-a032-041f5060630e",
+      "prompt": {
+        "text": "Which of the following statements best describes the difference between the FCFE (free cash flow to \nequity) metric and dividends?"
+      },
+      "choices": [
+        "FCFE involves cash flows to shareholders in the form of both share buybacks and cash dividends.",
+        "FCFE includes dividends, retained earnings, and changes in cash.",
+        "FCFE includes changes in cash plus dividends minus changes in equity.\nFeedback\nC is correct because it incorporates net cash flows distributed and available to shareholders once other \nobligations are satisfied.\nB is incorrect because it ignores changes in equity from new issuance and share buybacks.\nA is incorrect because it omits cash available to shareholders"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "026e5bee-0c8c-4c00-a8b5-e5dd9d205ed9",
+      "prompt": {
+        "text": "Which of the following statements best describes the relationship between FCFE and FCFF?"
+      },
+      "choices": [
+        "FCFF and FCFE are equal as long as debt outstanding does not change.",
+        "When debt financing is used, a firm’s FCFF will exceed FCFE as long as debt outstanding remains \nunchanged.",
+        "FCFF is always either greater than or equal to FCFE.\nFeedback\nB is correct because FCFF is equal to FCFE plus after-tax interest expense less debt changes.\nC is incorrect because FCFF can fall below FCFE if debt outstanding changes.\nA is incorrect because FCFF and FCFE cannot be equal if debt is outstanding; they can be equal only if no \ndebt is used by the firm."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9f0dc3b7-a75d-4911-840e-05431d776404",
+      "prompt": {
+        "text": "Storeham plc is expected to reach an FCFE of GBP15 per share next year with a cost of equity of 12.5%. \nStoreham’s market price is GBP150 per share. Which of the following is closest to Storeham’s implied \nFCFE growth rate?"
+      },
+      "choices": [
+        "1.875%",
+        "2.5%",
+        "10%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c796d479-4581-462f-8407-e49cca84c543",
+      "prompt": {
+        "text": "Which of the following statements best describes the sustainable growth rate for a firm with required return \non equity of 10%, a dividend payout ratio of 70%, and return on equity of 15%?"
+      },
+      "choices": [
+        "4.5%",
+        "7.0%",
+        "10.5%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b87d39b2-bb2c-46b2-9dd5-e90c60df3024",
+      "prompt": {
+        "text": "Which of the following statements best explains why preferred shares have a lower required rate of return \nthan common shares for a given issuer?"
+      },
+      "choices": [
+        "Preferred shareholders have a priority claim over common stock in the receipt of dividends and on the \nissuer’s assets in the event of liquidation.",
+        "Preferred shareholders receive fixed dividends, while common shares receive discretionary dividends.",
+        "Preferred shares generally have contingency features that represent an economic benefit to the issuer, \nresulting in a lower expected return.\nFeedback\nA is correct because the priority claim over common stock in the receipt of dividends and on assets under \nliquidation is the primary driver of the lower expected rate of return.\n\nB is incorrect because the type or size of the dividend does not affect the discount rate applied based on the \nrequired rate of return.\nC is incorrect because contingency features associated with preferred shares may represent an economic \nbenefit to either an issuer or an investor."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "58799fdd-84fa-40e3-9153-e7d461a90df7",
+      "prompt": {
+        "text": "The following information is available about a company:\nNext year's sales revenue $180 million\nNext year's net profit margin 15%\nDividend payout ratio 60%\nDividend growth rate expected during Years 2 and 3 25%\nDividend growth rate expected after Year 3 5%\nInvestors' required rate of return 12%\nNumber of outstanding shares 8.1 million\nThe current value per share of the company’s common stock according to the two-stage dividend discount \nmodel is closest to:"
+      },
+      "choices": [
+        "$39.36.",
+        "$49.20.",
+        "$52.86."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6b179a77-5ada-4bd3-8327-4f0e928bf8a7",
+      "prompt": {
+        "text": "The following data pertain to a company that can be appropriately valued using the dividend \ndiscount model. The dividend is expected to grow indefinitely at the existing sustainable growth rate.\n\nEPS growth rate (three-year \naverage) 7.50%\nCurrent dividend per share $3.00\nReturn on equity 15%\nDividend payout ratio 45%\nInvestor's required rate of return 16%\nThe stock’s intrinsic value is closest to:"
+      },
+      "choices": [
+        "$34.62.",
+        "$37.94.",
+        "$41.90."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "588eeb89-d8c7-4f02-ab14-62af9cee64ef",
+      "prompt": {
+        "text": "An investor gathers the following information about a company and its common stock:\nCurrent dividend per share (D0) $1.00\nDividend payout ratio 60%\nROE 12%\nIf the required rate of return is 10%, using the dividend discount model, the intrinsic value per share of the \nstock is closest to:"
+      },
+      "choices": [
+        "$14.56.",
+        "$19.23.",
+        "$20.15."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9a0a77a6-4a45-464a-bfbc-e2d2d8680230",
+      "prompt": {
+        "text": "An analyst gathers and estimates the following information about a company's stock:\n\nCurrent dividend per share (D0) $4\nCurrent EPS $5\nDividend growth rate 4%\nIf the estimated stock value using the dividend discount model is $92 per share, the required return on this \nstock is closest to:"
+      },
+      "choices": [
+        "8.35%.",
+        "8.52%.",
+        "9.44%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7f080b76-0c44-45b3-9c9b-66c0a5b603d4",
+      "prompt": {
+        "text": "A company's current dividend (D0) of $3 per share is expected to grow 20% per year for three years, then \n5% per year thereafter. If the required rate of return is 10%, using a multistage dividend discount model, \nthe intrinsic value of the stock at the end of Year 3 is closest to:"
+      },
+      "choices": [
+        "$81.79.",
+        "$92.53.",
+        "$108.86"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "175c2d41-b64f-4842-a0e5-6b92bf4ecbb7",
+      "prompt": {
+        "text": "A company’s $100 par value perpetual preferred stock has a dividend rate of 7% and a required rate of \nreturn of 11%. The company’s earnings are expected to grow at a constant rate of 3% per year. If the \nmarket price per share for the preferred stock is $75, the preferred stock is most appropriately described as \nbeing:"
+      },
+      "choices": [
+        "overvalued by $11.36.",
+        "undervalued by $15.13.",
+        "undervalued by $36.36."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7592fb74-20c8-4b87-b2dc-88dd79ffac22",
+      "prompt": {
+        "text": "Assuming a 4% required rate of return, what is the intrinsic value per share of an outstanding issue of 5% \nperpetual preferred stock with a par value of £100 and no embedded options?"
+      },
+      "choices": [
+        "£80",
+        "£100",
+        "£125"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8d5b32c1-6729-4af7-846a-07781ee5a23c",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's non-callable, non-convertible preferred \nstock:\nPar value per share €100\nRequired rate of return 7.2%\nMaturity 5 years\nIf the stock's intrinsic value is €125, the company's semi-annual dividend on the preferred stock is closest to:"
+      },
+      "choices": [
+        "€6.62.",
+        "€7.20.",
+        "€9.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

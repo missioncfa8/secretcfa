@@ -1,0 +1,128 @@
+{
+  "title": "Module 55: Credit Analysis for Government Issuers",
+  "topic": "Fixed Income",
+  "module_number": 55,
+  "module_name": "Credit Analysis for Government Issuers",
+  "year": 2027,
+  "items": [
+    {
+      "id": "3f918064-a800-48af-9d1a-8d822aab5fa3",
+      "prompt": {
+        "text": "Which of the following statements best characterizes higher creditworthiness for a \nnon-reserve currency emerging market sovereign government?"
+      },
+      "choices": [
+        "A country with a government budget surplus, current account surplus with high \neconomic growth, and a freely floating currency.",
+        "A country with a government budget deficit, a current account deficit with \nmoderate economic growth and a fixed exchange rate regime",
+        "A country with a government budget deficit, a current account deficit, low \neconomic growth, and a fixed exchange rate regime."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. This country exhibits fiscal stability as evidenced by its government  \nbudget surplus, high economic growth, and external strength given its current  \naccount surplus and freely floating currency."
+      }
+    },
+    {
+      "id": "b2558f4b-28ba-4e5e-b0ee-12b5714fe4f4",
+      "prompt": {
+        "text": "Match the indicators below to the impact (positive or negative) on the  \ncreditworthiness of a general obligation bond issued by a state government: \n▪ Positive \n▪ Negative"
+      },
+      "choices": [
+        "Low unemployment",
+        "Low per capita income",
+        "Low per capita debt"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A. Positive, as low unemployment indicates a more productive and income-generating \npopulation with potential for higher tax revenue. \nB. Negative, as low per capita income reduces the potential for tax collection and  \nany potential tax raise. \nC. Positive, as low per capita debt suggests a higher debt service ratio and greater  \ncapacity for additional debt, if required. \nD. Negative, a low tax base limits the potential for tax collection and significantly  \nweakens the potential for state revenue to meet expenses and service its debt. \nE. Negative, as the more diversified the state’s revenue stream, the higher its  \ncredit quality. Overreliance on a single revenue stream creates the potential for  \nvolatility in case of any economic disruption. \nF. Negative, as high post -retirement obligations indicate further state \nindebtedness, reducing its ability to service its debt."
+      }
+    },
+    {
+      "id": "9594094d-ffd7-4ffc-b0cd-24c4affb5a58",
+      "prompt": {
+        "text": "Based upon the following data, which country is expected to be assigned the lowest \nsovereign credit rating? \n  Country \nEconomic Statistics Costa Rica Dominican Republic \nEl \nSalvador \nLong-term external debt/GDP (%) 39.6 35.7 57 \nGDP growth (%) 2.06 5.07 2.39 \nCurrency reserves (% of GDP) 13.9 8.1 12.4"
+      },
+      "choices": [
+        "Costa Rica",
+        "Dominican Republic",
+        "El Salvador"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. El Salvador is expected to have the lowest credit rating due to its high \nlong-term external debt -to-GDP ratio. While the Dominican Republic has  lower \ncurrency reserves than El Salvador, it also has a lower external debt burden  and \nhigher economic growth."
+      }
+    },
+    {
+      "id": "9f1e2610-5d7e-492d-800d-ccbffd41818f",
+      "prompt": {
+        "text": "Gulf Investment Corporation (GIC) is an investment company incorporated in  Kuwait \nas a Gulf Shareholding Company. GIC is equally owned by the governments of the six \nmember states of the Gulf Cooperation Council (GCC). GIC was  formed to foster \neconomic growth, economic diversification, and capital market  development across \nthe GCC region. The credit rating for GIC should be assessed based on its status as:"
+      },
+      "choices": [
+        "sovereign agency.",
+        "supranational issuer.",
+        "specialized financial intermediary or public bank. \nCredit Analysis for Government Issuers \nFaculty:                                                                                    Page 2 of 4"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. GIC is a supranational issuer, as it is sponsored and owned by multiple  \nsovereigns. Its credit rating would be assessed as a supranational based on weighted \nsovereign ratings of the sponsoring countries and the nature of their implicit support \nin case of financial distress."
+      }
+    },
+    {
+      "id": "520a8a11-dd08-4416-9e37-3b74694fe9b6",
+      "prompt": {
+        "text": "Which of the following statements best characterizes external strength for a  non-\nreserve currency sovereign country?"
+      },
+      "choices": [
+        "The ability to impose and enforce strict capital controls",
+        "The establishment of a fixed exchange rate regime",
+        "The ability to generate sufficient stable foreign currency cash inflows"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A key factor influencing whether a non -reserve currency sovereign  \ngovernment can meet external debt obligations is external liquidity and solvency,  or \nthe ability to generate sufficient, stable foreign currency cash inflows to  meet \ninterest and principal payments on external debt. A is incorrect, as capital  controls \nmay restrict the ability to generate FX inflows. B is incorrect, as a fixed  exchange \nrate regime may cause instability in the case of currency devaluation."
+      }
+    },
+    {
+      "id": "7eec96c3-1b68-4a48-b51e-fc8fb6673965",
+      "prompt": {
+        "text": "Which of the following is most likely a key factor in the credit analysis of revenue-\nbacked non-sovereign government bonds?"
+      },
+      "choices": [
+        "Per capita income",
+        "Breadth of the tax base",
+        "Debt-service-coverage ratio of the project"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because revenue bonds are issued for specific project financing (e.g., \nfinancing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). \nRevenue bonds, which are issued to finance a specific project, have a higher degree \nof risk than GO bonds because they are dependent on a single source of revenue.  A \nCredit Analysis for Government Issuers \nFaculty:                                                                                    Page 4 of 4 \n \nkey credit measure for revenue-backed non-sovereign government bonds is the debt-\nservice-coverage (DSC) ratio, which measures how much revenue is available to cover \ndebt payments (principal and interest) after operating expenses."
+      }
+    },
+    {
+      "id": "710cb2ca-e4cd-4fca-b5e7-ae7cd2dd0bbe",
+      "prompt": {
+        "text": "Agora is an emerging market economy with restricted capital convertibility (domestic \nto foreign exchange is not freely convertible). It is significantly dependent on income \nfrom the tourism sector and repatriation of income by its  citizens living in foreign \ncountries. It also has a high percentage of external debt  to GDP. Which of the \nfollowing is the most important factor that may result in an  improvement in its \nsovereign creditworthiness?"
+      },
+      "choices": [
+        "Diversification of its foreign currency inflows",
+        "Reducing foreign currency reserves as a percentage of GDP",
+        "Devaluation of its exchange rate versus major reserve currencies \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCredit Analysis for Government Issuers \nFaculty:                                                                                    Page 3 of 4"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Since Agora has high external debt to GDP and is very dependent  on \nforeign currency inflows, it should seek to diversify its sources of foreign  currency \nto avoid financial distress in case of disruption in tourism revenue  or immigrant \nrepatriation.  \nB is incorrect, as maintaining or increasing foreign currency reserves is important for \ndebt service rather than reducing FX reserves. \nC is incorrect. While the devaluation of Agora’s exchange rate versus foreign reserve \ncurrencies may make it a more affordable tourist destination, it may also reduce the \nrationale for income repatriation, leading to lower foreign inflows and  a reduced \nability to service external debt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "title": "Module 67: Option Replication Using Put-Call Parity",
+  "topic": "Derivatives",
+  "module_number": 67,
+  "module_name": "Option Replication Using Put-Call Parity",
+  "year": 2027,
+  "items": [
+    {
+      "id": "10e48aca-ee07-410a-a0c0-5cbf71bad945",
+      "prompt": {
+        "text": "SCSI is considering the sale of a three -month call on CWI shares. If you observe  a \ntraded put price with the same underlying details, which of the following statements \nbest describes how to derive the no-arbitrage call price?"
+      },
+      "choices": [
+        "Using put–call parity, the call price may be derived by subtracting the traded put \nprice from the underlying price less the present value of the exercise price.",
+        "Using put–call parity, the call price may be derived by adding the traded put price \nto the underlying price less the present value of the exercise price.",
+        "Using put–call parity, the call price may be derived by adding the traded put price \nto the present value of the exercise price minus the underlying price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. From Equation 1, the put–call parity relationship is \nS 0 + p 0 = c 0 + X(1 + r)– T . \n \nWe can rearrange these terms to solve for c 0: c 0 = S 0 + p 0 – X(1 + r)– T , which \nshows that the call price may be derived by adding the traded put price to the \nunderlying price less the present value of the exercise price."
+      }
+    },
+    {
+      "id": "b39711e0-604c-4a17-953d-15338c870776",
+      "prompt": {
+        "text": "Due to the recent sharp rise in CWI’s share price, SCSI is recommending that clients \nconsider protective put strategies for three - to six-month tenors. If you  observe \nthat a six-month CWI call option at an exercise price of CNY120 is trading at a price \nof CNY22.60, which answer is closest to what you would expect to pay for a six-month \nput option with the same underlying terms?"
+      },
+      "choices": [
+        "CNY15.10",
+        "CNY9.83",
+        "CNY12.77"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If c0 = CNY22.60, S0 = CNY127.50, and PV(X) = CNY117.67 (= 120(1.04)-\n0.5), we can solve for p0 using put–call parity: \nS 0 + p 0 = c 0 + X(1 + r)– T . \np 0 = c 0 + X(1 + r)– T – S 0. \nCNY12.77 = 22.60 + 117.67 – 127.50."
+      }
+    },
+    {
+      "id": "7cf129b6-b12c-4b1f-8faa-fac9cde8e5c9",
+      "prompt": {
+        "text": "You realize that the six-month put option on CWI shares is overpriced relative to the \nno-arbitrage price from Question 2. Which of the following statements best  \ndescribes the steps you would take to earn a riskless arbitrage profit under this  \nscenario?"
+      },
+      "choices": [
+        "Sell the six-month put option and sell CWI short, investing the proceeds in a call \noption and a risk-free bond.",
+        "Sell the six-month put option, buy a call option, and borrow at the risk-free rate \nto buy CWI shares.",
+        "Sell the six-month put option, buy a call option, enter a forward purchase of CWI, \nand invest in a risk-free bond. \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 2 of 10"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Since the put option is overpriced, we would sell it to earn the difference \nbetween the price at which it is sold and the no -arbitrage price. The put–call parity \nrelationship, from Equation 1, is \nS 0 + p 0 = c 0 + X(1 + r)– T . \n \nWe can rearrange this to demonstrate that the put option value is equivalent to a \nlong call option, a long risk-free bond, and a short position in CWI shares: \np 0 = c 0 + X(1 + r)– T – S 0. \n \nAnswer A reflects this long risk-free bond and short CWI combination, which has a \npayoff of X – ST at expiration matching that of the put payoff, whereas Answer B \ninvolves a long cash position in CWI and Answer C involves a long synthetic (forward \npurchase) position in CWI stock."
+      }
+    },
+    {
+      "id": "f332b10b-3e96-4bde-824d-3548da5b4c4f",
+      "prompt": {
+        "text": "In her most recent research note on CWI, SCSI’s equity analyst specifically mentions \nan increase in CWI’s leverage ratio as a reason for her bearish outlook on the stock. \nApplying the put –call parity relationship to the value of the firm, which  of the \nfollowing statements most accurately describes the CWI outlook in terms  of option \npricing?"
+      },
+      "choices": [
+        "The shareholder payoff has improved versus debtholders, because they have sold \na put option on the firm value that has appreciated.",
+        "The debtholder payoff has deteriorated versus the shareholders, because  they \nare effectively short a put option on the value of the firm equal to the  value of \ndebt, which has appreciated in value.",
+        "The shareholder payoff has improved versus the debtholders, because the  \ndebtholders have sold a call option on the firm’s assets to the shareholders."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct . The debtholder payoff has deteriorated versus the shareholders,  \nbecause they are effectively short a put option on the value of the firm equal to the \nvalue of debt, which has appreciated in value. The debtholder payoff is min(D, VT) = \nD – max(0, D – VT) and equals the debt face value (D) minus a put option on firm value \n(VT) with an exercise price of D. Answer A is incorrect because the debtholders, not \nthe shareholders, have sold  a put option. C is incorrect, because the shareholders \nown a call option, but it is not sold by the debtholders."
+      }
+    },
+    {
+      "id": "84f37fb1-f113-45b0-a419-135687533019",
+      "prompt": {
+        "text": "Which of the following choices best describes how SCSI could replicate a long risk-\nfree bond return using a forward contract on CWI and call and put options on CWI?"
+      },
+      "choices": [
+        "Short a forward contract on CWI, short a put option on CWI, and long a call option \non CWI",
+        "Long a forward contract on CWI, long a put option on CWI, and short a call option \non CWI",
+        "Long a forward contract on CWI, long a put option on CWI, and long a call  option \non CWI"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Using the put–call forward parity equation as follows: \nF 0(T)(1 + r)–T + p 0 = c 0 + X(1 + r)–T \n \nAnd rearranging to solve for the risk-free bond gives the following: \nF 0(T)(1 + r)–T + p 0 – c 0 = X(1 + r)–T . \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 7 of 10 \n \nThe signs on the forward contract and put option positions are both positive, \nindicating long positions. The negative sign on the call option indicates a short position."
+      }
+    },
+    {
+      "id": "471017b0-124e-4ca6-9748-027c97f08c2c",
+      "prompt": {
+        "text": "SCSI observes that a 3-month call option on CWI with an exercise price of CNY 130 \ntrades at a premium of CNY 3. A 3 -month forward contract on CWI trades  at a \nforward price of CNY 128.76. Which of the following choices is closest to the correct \npremium for a 3-month put option with an exercise price of CNY 130 on CWI?"
+      },
+      "choices": [
+        "CNY 4.20",
+        "CNY 1.20",
+        "CNY 0.50"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The solution can be derived through either put –call parity or put –call \nforward parity. You can demonstrate the solution using put–call forward parity: \nF 0(T)(1 + r)–T + p0 = c0 + X(1 + r)–T \n128.76(1.04)–0.25 + p0 = 3 + 130(1.04)–0.25 \n127.50 + p 0 = 131.73 \np 0 = 4.23."
+      }
+    },
+    {
+      "id": "e2f41166-b478-4e25-bd24-c6653cb323e7",
+      "prompt": {
+        "text": "According to put –call parity, if a fiduciary call expires in the money, the payoff is \nmost likely equal to the:"
+      },
+      "choices": [
+        "difference between the market value of the asset and the face value of the risk-\nfree bond.",
+        "market value of the asset.",
+        "face value of the risk-free bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect. A fiduciary call, defined as a long position in a call and in a risk -free \nbond, generates a payoff that is equal to the market value of the asset if it expires \nin the money."
+      }
+    },
+    {
+      "id": "ad2f6458-574a-4048-8584-28b2fb7b9465",
+      "prompt": {
+        "text": "An investor takes a long position in a risk-free bond and in a forward contract on a \nnon-dividend-paying stock. The forward contract is priced at £50. The annual risk-\nfree rate is 10%. A nine-month put option on the stock with an exercise price of \n£47 trades at £4. The price of a nine-month call option on the stock with an \nexercise price of £47 is closest to: \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 3 of 10"
+      },
+      "choices": [
+        "£6.79.",
+        "£7.22.",
+        "£7.30."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a long put and a short call are equivalent to a long risk-free \nbond and short forward position: p0 –c0 =[X–F0(T)](1+r)–T as calculated below: \np0 – c0 = [X–F0(T)](1+r)–T (4) \nRearranging for c0: \nc0 = p0 – [X–F0(T)](1+r) –T \np0 = put = £4 \nX = exercise price = £47 \nF0(T) = forward = £50 \nr = risk-free rate = 10% \np0 – [X–F0(T)](1+r) –T = c0 \nThus, c0 = £4 – [£47 – £50](1.10)–0.75 = £6.79"
+      }
+    },
+    {
+      "id": "0963c6fa-ae83-48c6-bead-79d079b0ebba",
+      "prompt": {
+        "text": "Based on put-call parity, which of the following is equivalent to a long position in the \nunderlying asset?"
+      },
+      "choices": [
+        "Long call, long put, and short bond",
+        "Long put, short call, and long bond",
+        "Long call, short put, and long bond"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the put -call parity relationship implies  S0 = c0 – p0 + X/(1 \n+ r)T which implies that a long asset = long call, short put, long bond."
+      }
+    },
+    {
+      "id": "6e8adefa-ead3-4492-94e0-39b25fee7765",
+      "prompt": {
+        "text": "According to put-call-forward parity, the payoff on a fiduciary call is equivalent to \nthe payoff on a portfolio consisting of:"
+      },
+      "choices": [
+        "a long call and a short risk-free bond.",
+        "a long put, a long forward contract.",
+        "a short call, a long forward contract and a long risk-free bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because recall our put–call parity discussion and assume that Investor A \ncreates his protective put in a slightly different manner. Instead of buying the asset, \nhe buys a forward contract and a risk-free bond in which the face value is the forward \nprice. This strategy is a synthetic protective put. Because we showed that the \nfiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent \nto a protective put with a forward contract. Therefore, the payoff on a fiduciary call \n= the payoff on a synthetic protective put, fiduciary call = long call + long risk -free \nbond = long risk-free bond + long forward contract + long put."
+      }
+    },
+    {
+      "id": "dc0e92ee-8ec6-4ae7-8451-521ce7033c78",
+      "prompt": {
+        "text": "According to put-call parity, the payoff of a European put option is equivalent to a \npayoff of a portfolio consisting of:"
+      },
+      "choices": [
+        "a long asset, a short call and a long risk-free bond.",
+        "a short asset, a long call and a long risk-free bond.",
+        "a short asset, a short call and a short risk-free bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because according to put-call parity, po = c0 – S0 + X/(1 + r)T, long put = \nlong call, short asset, long bond. Therefore, the payoff of  a European put option is \nequal to a payoff of a portfolio consisting of a short asset, a long call and a long risk-\nfree bond. \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 8 of 10"
+      }
+    },
+    {
+      "id": "81d6b02d-2844-4264-b33e-3f4bc9a7a1c9",
+      "prompt": {
+        "text": "Which of the following best describes put–call–forward parity?"
+      },
+      "choices": [
+        "The present value of the exercise price plus the call price equals the put price \nplus the underlying price.",
+        "The underlying price plus the call price equals the present value of the exercise \nprice plus the put price.",
+        "The call price minus the put price equals the present value of the exercise price \nminus the underlying price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the put price plus the underlying price equals the call price plus \nthe present value of the exercise price. Rearranged, this is as follows: The present \nvalue of the exercise price plus the call price equals the put price plus the underlying \nprice."
+      }
+    },
+    {
+      "id": "6349b472-b634-44c8-97f0-3c5759b4988e",
+      "prompt": {
+        "text": "An analyst gathers the following information: \nCall price $10 \nStock price $40 \nExercise price $60 \nInterest rate 3% \nTime to expiry 1 year \n \nAccording to put-call parity, the price of the put is closest to:"
+      },
+      "choices": [
+        "$28.25.",
+        "$30.00.",
+        "$108.25. \n \n \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 4 of 10"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because S0 + p0 = c0 + X / (1+r)T. This relationship is known as put-call \nparity. Here S0 is the spot price, p0 is the put premium, X is the strike price \nand r is the interest rate. \nS0 + p0 = c0 + X / (1+r)T \n40 + p0 = 10 + 60 / 1.03 \np0 = 10 + 60 / 1.03 - 40 \n= 28.25242718 = 28.25"
+      }
+    },
+    {
+      "id": "79d39d09-afd4-4882-a8e8-8b4ee2e5fb9b",
+      "prompt": {
+        "text": "All else being equal, the cost of a fiduciary call must be:"
+      },
+      "choices": [
+        "less than the cost of a synthetic protective put.",
+        "equal to the cost of a synthetic protective put.",
+        "greater than the cost of a synthetic protective put."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the cost of the fiduciary call must equal the cost of the \nsynthetic protective put, giving us what is referred to as put–call–forward parity."
+      }
+    },
+    {
+      "id": "d5373e58-de8b-4727-8877-6b070c4b89d0",
+      "prompt": {
+        "text": "Based on put-call parity, the payoff on a short underlying position is equivalent to \nthe payoff on a portfolio consisting of a:"
+      },
+      "choices": [
+        "short call, a long put, and a long bond.",
+        "short call, a long put, and a short bond.",
+        "long call, a short put, and a short bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the put-call parity relationship implies that a long underlying \ncan be mimicked as follows: S0 = c0 – p0 + X/(1 + r)T. This implies that a short \nunderlying position is equivalent to: –S0 = –c0 + p0 – X/(1 + r)T, that is, a short call, a \nlong put, and a short bond."
+      }
+    },
+    {
+      "id": "ef2b1c06-90e8-4a21-a457-3b588e60e3cd",
+      "prompt": {
+        "text": "According to put-call-forward parity, a trader can create a synthetic short position \nin a risk-free bond by setting up a long position in a call option along with a:"
+      },
+      "choices": [
+        "short position in a forward contract and a long position in a put.",
+        "long position in a forward contract and a short position in a put.",
+        "short position in a forward contract and a short position in a put."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because combining the synthetic asset with the put–call parity \nrelationship—so, substituting the present value of F0(T) for S0 —we have what is \nreferred to as put–call forward parity: \nF0(T)(1+r)-T + p0 = c0 + X(1 + r)-T , \n  \nwhere F0(T)(1+r)-T s the present value of F0(T) discounted at the risk-free \nrate, p0 is the price of the put option on the underlying at t=0, c0 is the price of \nthe call option on the underlying at t=0, X(1 + r)-T is a risk free bond that pays the \namount of the exercise price X at t=T. \nIn other words, under put–call parity, at t = 0 the price of the long underlying asset \nplus the long put must equal the price of the long call plus the risk-free asset. \n  \nRearranging the formula yields:  \n-X(1 + r)-T = c0 - p0 - F0(T)(1+r)-T \n  \nIn other words, one can create a synthetic short position in a risk–free bond \nby going long a call, short a put, and short a forward contract."
+      }
+    },
+    {
+      "id": "0eb57b1b-ef68-408e-b15f-3217d11613ec",
+      "prompt": {
+        "text": "According to put-call-forward parity, the payoff on a synthetic protective put is \nequivalent to the payoff on a portfolio consisting of:"
+      },
+      "choices": [
+        "a long call and a long risk-free bond.",
+        "a long call, a short forward contract and a long risk-free bond.",
+        "a long put, a short forward contract and a short risk-free bond."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because recall our put–call parity discussion and assume that Investor A \ncreates his protective put in a slightly different manner. Instead of buying the asset, \nhe buys a forward contract and a risk-free bond in which the face value is the forward \nprice. This strategy is a synthetic protective put. Because we showed that the \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 9 of 10 \n \nfiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent \nto a protective put with a forward contract.  Therefore, the payoff on a synthetic \nprotective put = the payoff on a fiduciary call, synthetic protective put =  long risk-\nfree bond + long forward contract + long put = long call + long risk-free bond."
+      }
+    },
+    {
+      "id": "a069e2eb-9e45-4e94-bb81-420039dea4b5",
+      "prompt": {
+        "text": "According to put-call parity, the payoff of a long risk-free bond can be replicated \nsynthetically by going:"
+      },
+      "choices": [
+        "long an asset, long a put and long a call.",
+        "long an asset, long a put and short a call.",
+        "long an asset, short a put and short a call."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because according to put-call parity, X/(1 + r)T = S0 + p0 – c0, long bond \n= long asset, long put, short call. Therefore, the payoff of a long risk-free bond \ncan be synthetically created by going long an asset, long a put and short a call."
+      }
+    },
+    {
+      "id": "90437df4-b5a7-4ad7-a928-219b90a1dea7",
+      "prompt": {
+        "text": "A fiduciary call is a strategy in which a trader purchases a call option:"
+      },
+      "choices": [
+        "and takes a short position in the underlying asset.",
+        "with funds received from selling short a zero coupon bond of the same maturity \nas the call option.",
+        "along with a zero coupon bond of the same maturity as the call option and with a \nface value equal to the exercise price of the option."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because this combination of instruments is the precise definition of a \nfiduciary call. At time 0, this investor buys a call option on this asset with an \nexercise price of X that expires at T and a risk-free zero-coupon bond with a face \nvalue of X that matures at T. This strategy is sometimes known as a fiduciary call."
+      }
+    },
+    {
+      "id": "08aa1a91-aea2-437b-985b-72dc3d8b211d",
+      "prompt": {
+        "text": "Which of the following is most accurate? Put-call-forward parity:"
+      },
+      "choices": [
+        "assumes that the strike of the options is equal to the forward price of the \nunderlying.",
+        "is derived by equating the price of an at the money put to the price of an at the \nmoney call.",
+        "assumes that the maturity of the put option, the call option, the forward and \nthe bond are the same. \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 5 of 10"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the put-call-forward parity equation is formed by comparing the \nmaturity payoffs of synthetic protective put and a fiduciary call. It follows that \nmaturity of all the components have to be the same. Because we showed that the \nfiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent \nto a protective put with a forward contract. It follows that the cost of the fiduciary \ncall must equal the cost of the synthetic protective put, giving us what is referred to \nas put–call–forward parity."
+      }
+    },
+    {
+      "id": "cb188821-74c1-4ccf-aa06-dc9d74182ddc",
+      "prompt": {
+        "text": "All else being equal, based on put-call–forward parity, the price of a put is higher \nthan the price of a call when:"
+      },
+      "choices": [
+        "the forward price of the underlying is lower than the exercise price.",
+        "the forward price of the underlying is equal to the exercise price.",
+        "the forward price of the underlying is higher than the exercise price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because it follows that the cost of the fiduciary call must equal the \ncost of the synthetic protective put, giving us what is referred to as put–call–\nforward parity, F0(T)/(1 + r)T + p0 = c0 + X/(1 + r)T. Rearranging this equation \nresults in: p0 - c0 = [X – F0(T)]/(1 + r)T. Based on this parity equation, p0 > c0 when \nX > F0(T)."
+      }
+    },
+    {
+      "id": "04e3076f-f9e8-42d3-8b5f-0aabd8d3f817",
+      "prompt": {
+        "text": "An analyst gathers the following information: \nPut price $120 \nForward price $110 \nExercise price $100 \nInterest rate 2% \nTime to expiry 1 year \n  \nAccording to put-call-forward parity, the price of the call is closest to:"
+      },
+      "choices": [
+        "$127.84.",
+        "$129.80.",
+        "$131.96."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the cost of the fiduciary call must equal the cost of the \nsynthetic protective put, giving us what is referred to as put–call–forward \nparity, F0(T)/ (1+r)T  + p0 = c0 + X / (1+r)T    Here F0(T) is the forward price at \nexpiration, X is the strike price and r is the interest rate, p0  is the put premium \nand c0 is the call premium. \nF0(T)/ (1+r)T  + p0 = c0 + X / (1+r)T     \n110/1.02 + 120 = c0 + 100 / 1.02 \n110/1.02 + 120 - 100 / 1.02 = c0  \nc0 = 129.803922 = 129.80"
+      }
+    },
+    {
+      "id": "5dd49403-b1de-4f38-8a6a-07824da288d0",
+      "prompt": {
+        "text": "According to put–call parity, a long put option is equivalent to being:"
+      },
+      "choices": [
+        "long a call, short the underlying asset, and long a risk-free bond.",
+        "long a call, long the underlying asset, and short a risk-free bond.",
+        "short a call, long the underlying asset, and long a risk-free bond."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the formula for put –call parity is  S0 + p0 = c0 + X/(1 \n+ r)T, where S0 is the stock price at time zero, p0 is the price of a put option at time \nzero, c0 is the price of a call option at time zero, X is the strike price, r is the risk-\nfree rate, and T is time. By using the symbols and the signs in these versions of put–\nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 10 of 10 \n \ncall parity, we can see several important interpretations. In the equations below, plus \nsigns mean long and minus signs mean short: p0 = c0 − S0 + X/(1 + r)T ⇒ long put = long \ncall, short asset, long bond."
+      }
+    },
+    {
+      "id": "f7a55331-ebb0-4083-a232-a8b21732035d",
+      "prompt": {
+        "text": "According to put –call–forward parity, if the put in a protective put with forward \ncontract expires out of the money, the payoff is most likely equal to:"
+      },
+      "choices": [
+        "the market value of the underlying asset.",
+        "zero.",
+        "the face value of a risk-free bond. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nOption Replication Using Put-Call Parity \nFaculty:                                                                                    Page 6 of 10"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A protective put with forward contract is defined as a long position in \n(1) a bond that has the face value equal to the forward contract, (2) a forward \ncontract, and (3) a long position in a put. If the put expires out of the money, the \nvalue of the overall position is equal to the market value of the asset. \n \n \n \n \n \n \n+ F0(t) (payoff of bond) \n+ ST – F0(t) (payoff of forward) \n+ 0 (payoff of option) \n= ST (payoff of strategy)"
+      }
+    }
+  ]
+}

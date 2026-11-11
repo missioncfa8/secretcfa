@@ -1,0 +1,570 @@
+{
+  "title": "Module 53: Curve-Based and Empirical Fixed-Income Risk Measures",
+  "topic": "Fixed Income",
+  "module_number": 53,
+  "module_name": "Curve-Based and Empirical Fixed-Income Risk Measures",
+  "year": 2027,
+  "items": [
+    {
+      "id": "235ce1cd-c16f-4bb3-be26-aad4a4ef0eaf",
+      "prompt": {
+        "text": "For the two bonds offered by Large -Cap Company, which duration calculation  would \nbe the most appropriate to use to measure interest rate risk?"
+      },
+      "choices": [
+        "Modified duration",
+        "Macaulay duration",
+        "Effective duration"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Since Bond B is callable, it has an embedded option, and effective \nduration is the most appropriate duration measure. Effective duration also works on \nbonds without embedded options and would allow the analyst to compare the interest \nrate risk of the two bonds."
+      }
+    },
+    {
+      "id": "4ce2befd-9ca8-4d61-b221-3f7497b8899b",
+      "prompt": {
+        "text": "For Bond B, as the benchmark yield curve declines, the slope of the line tangent  to \nthe bond flattens as the benchmark yield declines and reaches an inflection  point, \nafter which the effective convexity becomes:"
+      },
+      "choices": [
+        "positive.",
+        "negative.",
+        "neither positive nor negative."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Since the bond is callable, after a certain point on the yield curve, the \nissuer will exercise the call and the owner will not be able to realize additional gains \nfrom declines in the benchmark yield curve."
+      }
+    },
+    {
+      "id": "e864973d-074c-4172-8059-71cc19f9aa1c",
+      "prompt": {
+        "text": "The following information on Bonds A and B was obtained: \nBond Effective Duration Effective Convexity \nA 7.48621 29.35972 \nB 7.23852 –321.75618 \n \nCompare the interest rate risk of Bond A and Bond B."
+      },
+      "choices": [
+        "Bond A is riskier than Bond B.",
+        "Bond B is riskier than Bond A.",
+        "Bond A and Bond B have approximately the same interest rate risk."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Bond B is riskier since the 200 bps upward shift in the yield curve results \nin a greater percentage price decrease, owing to its negative effective convexity: \n \n%∆PVFull Bond A ≈ (–7.48621 × 0.0100) + [½ × 29.35972 × (–0.0100)^2] = –7.33941%. \n%∆PVFull Bond B ≈ (–7.23853 × 0.0100) + [½ × –321.75618 × (0.0100)^2] = –8.84730%."
+      }
+    },
+    {
+      "id": "c40e2ec0-e028-4281-860b-7bdf38938c85",
+      "prompt": {
+        "text": "For the percentage price change for Bond A, given a 200 bp increase in benchmark  \nyield, what part of the price change is of the most concern?"
+      },
+      "choices": [
+        "Duration",
+        "Convexity",
+        "Not able to determine with given information"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Typically, the effect of duration is much larger than the effect of \nconvexity. \n \n%∆PVFull Bond A, Duration ≈ –7.48621 × 0.0200 = –14.97242%. \n%∆PVFull Bond A, Convexity Adjustment ≈ ½ × 29.35972 × (–0.0200)^2 = –0.58719%."
+      }
+    },
+    {
+      "id": "394eab4e-f208-442a-a151-64df8f73a984",
+      "prompt": {
+        "text": "A colleague asks whether you also considered looking at the key rate durations when \ncomparing the interest rate risks of Bond A and Bond B. Would research into key rate \ndurations for Bond A and Bond B help you make a better decision about the interest \nrate risk of the two bonds?"
+      },
+      "choices": [
+        "Yes \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 2 of 11",
+        "No",
+        "Inconclusive"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Since both bonds mature in one year, key rate duration analysis would \nnot give you any additional insight, since both bonds would undergo the same shift in \nthe curve."
+      }
+    },
+    {
+      "id": "4ec6e5ca-ee0b-46c2-9d20-474a2c7a5a10",
+      "prompt": {
+        "text": "The investor’s portfolio is diversified, and the fixed -income component of the  \nportfolio has bonds of various maturities, with a duration of 7.48621. What  would \nhappen to the effective duration of the fixed -income component of the  investor’s \nportfolio if Bond A is added to the portfolio?"
+      },
+      "choices": [
+        "It would increase.",
+        "If would decrease.",
+        "It would stay the same."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Bond A has the same effective duration as the portfolio effective \nduration."
+      }
+    },
+    {
+      "id": "30e9b90f-d2f1-4eda-9811-ef12a79c057e",
+      "prompt": {
+        "text": "For the two bonds under consideration, would analytical duration estimates or  \nempirical duration estimates be most appropriate in conducting your analysis?"
+      },
+      "choices": [
+        "Analytical duration estimates",
+        "Empirical duration estimates",
+        "Either type of estimate would be appropriate."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Since both Bond A and Bond B are corporate bonds, they have credit \nrisk, and as such, empirical duration would be the most appropriate because \nbenchmark yields and credit spreads may not be positively correlated."
+      }
+    },
+    {
+      "id": "80e0dd06-77b0-4836-88e5-de51485550c5",
+      "prompt": {
+        "text": "What impact would a “flight to safety” (i.e., government bond yields falling and credit \nspreads widening) have on the analytical duration estimate of Bond A?"
+      },
+      "choices": [
+        "Decreased duration",
+        "Increased duration",
+        "No impact"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. There would be no impact on the analytical duration estimate. However, \nan empirical duration estimate would be impacted. A flight to safety would result in \nan increase in the bond price due to the falling benchmark yield being offset by \nwidening credit spread. This would lead to a lower empirical duration than analytical \nduration."
+      }
+    },
+    {
+      "id": "9feaaee9-fcef-4b2e-9fbe-2fd9d47e2400",
+      "prompt": {
+        "text": "Which of the following duration measures is the most appropriate measure of \ninterest rate risk for a complex bond?"
+      },
+      "choices": [
+        "Effective duration",
+        "Modified duration",
+        "Macaulay duration"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A complex bond (such as a bond with an imbedded call option) does not \nhave a well-defined yield to maturity because of the uncertainty of the bond’s future \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 8 of 11 \n \ncash flows, which depend on future interest rate changes. Because a complex bond’s \nyield to maturity is not well defined, yield duration measures such as Macaulay \nduration and modified duration are inappropriate measures of interest rate risk. \nTherefore, effective duration is the appropriate duration measure for a complex \nbond."
+      }
+    },
+    {
+      "id": "25767258-2aaf-4e16-baaf-961caf0c68b1",
+      "prompt": {
+        "text": "A fixed-income security’s current price is $101.45. The manager estimates that the \nprice will rise to $103.28 if interest rates decrease 0.25% or fall to $100.81 if \ninterest rates increase 0.25%. The security’s effective duration is closest to:"
+      },
+      "choices": [
+        "4.87.",
+        "9.74.",
+        "1.22."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The effective duration is defined as: \nEffective duration = (𝑃𝑉−) − (𝑃𝑉+)\n2 × (ΔCurve) × (𝑃𝑉0) \n \n= 103.28 − 100.81\n2 × 0.0025 × 101.45 \n \n=  4.87"
+      }
+    },
+    {
+      "id": "0086d9ef-41fa-4bbe-9d35-5c4a895876df",
+      "prompt": {
+        "text": "In a low interest rate environment, the effective duration of a callable bond relative \nto a comparable non-callable bond, will most likely be:"
+      },
+      "choices": [
+        "higher.",
+        "lower.",
+        "the same. \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 3 of 11"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. When interest rates are low, the callable bond’s price will not increase \nas much because the presence of the call option will limit the price increase. Because \nthe bond is likely to be called when interest rates are falling, the embedded call \noption will reduce the effective duration of the bond."
+      }
+    },
+    {
+      "id": "4e735c91-47f9-4b4a-a96c-9088418a4523",
+      "prompt": {
+        "text": "For bonds with embedded options, the most appropriate measure of price \nsensitivity to interest rate changes is:"
+      },
+      "choices": [
+        "effective duration.",
+        "modified duration.",
+        "Macaulay duration."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because effective duration is essential to the measurement of the \ninterest rate risk of a complex bond, such as a bond that contains an embedded call \noption. In brief, a callable bond does not have a well-defined internal rate of return \n(yield-to-maturity). Therefore, yield duration statistics, such as modified and \nMacaulay durations, do not apply; effective duration is the appropriate duration \nmeasure."
+      }
+    },
+    {
+      "id": "b98be68b-f754-41af-a7a3-3909ab29a3d1",
+      "prompt": {
+        "text": "An analyst gathers the following information about a pension plan's liabilities: \nInterest Rate \nAssumption \nPresent Value of Liabilities \n(in $ Millions) \n0.5% 198 \n1.0% 186 \n1.5% 174 \n \nIf interest rates are currently 1.0%, the effective duration of \nthe liabilities is closest to:"
+      },
+      "choices": [
+        "6.5.",
+        "12.9.",
+        "25.8."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because effective duration = [(PV–) – (PV+)] / (2 × ΔCurve × PV0) = \n($198 million – $174 million)/(2 × 0.005 × $186 million) = 12.9032 ≈ 12.9."
+      }
+    },
+    {
+      "id": "e14e0368-bc4d-4f7d-b8be-4ba0905e2726",
+      "prompt": {
+        "text": "Effective duration is the most appropriate measure of interest rate risk for a bond \nwith an embedded option because the bond does not have a well-defined:"
+      },
+      "choices": [
+        "effective convexity.",
+        "internal rate of return.",
+        "curve duration statistic."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in brief, a callable bond does not have a well -defined internal \nrate of return (yield -to-maturity). Therefore, yield duration statistics, such as \nmodified and Macaulay durations, do not apply; effective duration is the appropriate \nduration measure."
+      }
+    },
+    {
+      "id": "6852b429-a3a6-455a-aed1-03d77acd0caa",
+      "prompt": {
+        "text": "When interest rates are high relative to the coupon rate, a bond that is callable at \npar will most likely exhibit:"
+      },
+      "choices": [
+        "negative convexity.",
+        "zero convexity.",
+        "positive convexity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when the benchmark yield is high and the value of the embedded \ncall option is low, the callable and the non -callable bonds experience very similar \neffects from interest rate changes. They both have positive convexity.  When rates \nare high relative to the coupon rate, the bond is unlikely to be called, resulting in a \nprice appreciation pattern similar to a non-callable bond. This pattern is described as \npositive convexity. \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 9 of 11"
+      }
+    },
+    {
+      "id": "7d5cab04-3c8e-4965-8d4a-887f7895754f",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond currently trading at par: \nChange in Benchmark Curve Price per 100 of Par Value \n+25 bps 98 \n−25 bps 103 \n \nThe effective duration of this bond is closest to:"
+      },
+      "choices": [
+        "2.5.",
+        "5.0.",
+        "10.0. \n \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 4 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the effective duration is calculated as (PV- – PV+)/(2 × ∆Curve × \nPV0), where: PV - = the bond price when the benchmark yield is decreased, PV + = the \nbond price when the benchmark yield is increased, and PV0 = then current bond price. \nEffective duration = (103 – 98)/(2 × 0.0025 × 100) = 10."
+      }
+    },
+    {
+      "id": "4eeae06a-548b-4b73-ad95-30925b8c9882",
+      "prompt": {
+        "text": "Among three otherwise comparable bonds, the bond with the highest price is most \nlikely to be:"
+      },
+      "choices": [
+        "putable.",
+        "callable.",
+        "option-free."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the price of a putable bond is always higher than that of an \notherwise comparable non -putable bond. The price difference is the value of the \nembedded put option and the price of the non -callable bond is always greater than \nthat of the callable bond with otherwise identical features."
+      }
+    },
+    {
+      "id": "c28e7cc1-62ad-4a33-bf52-44511e7bb5df",
+      "prompt": {
+        "text": "With respect to a bond with an embedded option, for parallel shifts in the \nbenchmark yield curve, effective duration most likely indicates the same interest \nrate sensitivity as:"
+      },
+      "choices": [
+        "modified duration.",
+        "key rate durations.",
+        "Macaulay duration."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because for parallel shifts in the benchmark yield curve, key rate \ndurations will indicate the same interest rate sensitivity as effective duration."
+      }
+    },
+    {
+      "id": "e207df73-ebb3-49b3-a937-2770320c8b05",
+      "prompt": {
+        "text": "All else being equal, when the market interest rate falls below a bond's coupon rate, \npotential price appreciation is most limited for a:"
+      },
+      "choices": [
+        "putable bond.",
+        "callable bond.",
+        "option-free bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when interest rates are low, the effective duration of the \ncallable bond is lower than that of the otherwise comparable non-callable bond \nbecause the callable bond price does not increase as much when benchmark yields \nfall. The presence of the call option limits price appreciation especially when \ninterest rates are falling and the bond is more likely to be called."
+      }
+    },
+    {
+      "id": "5c59258f-b9e7-4b94-862e-4470d2ce46c1",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond which is currently trading \nat 95.35 per 100 par: \nBenchmark Yield Bond Price \n3.50% 99.50 \n4.00% 95.35 \n4.50% 92.25 \n \nThe effective duration of the bond is closest to:"
+      },
+      "choices": [
+        "6.5.",
+        "7.6.",
+        "8.7."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the effective duration of a bond is the sensitivity of the \nbond's price to a change in a benchmark yield curve. \nEffDur = [(PV– ) – (PV+)] / [2 × (ΔCurve) × (PV0)] \nWith PV0 = 95.35, PV– = 99.50, PV+ = 92.25, \nEffDur = (99.50 – 92.25) / (2 × 0.005 × 95.35) = 7.60."
+      }
+    },
+    {
+      "id": "530f7bae-c892-49ad-a496-9ec93286c2e4",
+      "prompt": {
+        "text": "Which of the following is a curve duration measure?"
+      },
+      "choices": [
+        "Modified duration",
+        "Effective duration",
+        "Macaulay duration"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because effective duration is a curve duration statistic in that it \nmeasures interest rate risk in terms of a parallel shift in the benchmark yield curve."
+      }
+    },
+    {
+      "id": "8993adf4-0f32-4596-8b1a-881709ee95bb",
+      "prompt": {
+        "text": "An analyst gathers the following information about a 6% coupon bond currently \ntrading at par: \nBenchmark Rate Price per 100 of Par Value \n5.9% 100.75 \n6.0% 100.00 \n6.1%   99.26 \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 5 of 11 \n \n \nThe bond's effective duration is closest to:"
+      },
+      "choices": [
+        "3.75.",
+        "7.45.",
+        "7.50."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because effective duration = (PV+ − PV- ) / (2 × Δcurve × PV0) = ( 100.75 − \n99.26) / (2 × 0.001 × 100.00) = 7.45."
+      }
+    },
+    {
+      "id": "b0b749d0-8708-4888-bf2b-6afe010a0e1d",
+      "prompt": {
+        "text": "Effective duration is:"
+      },
+      "choices": [
+        "a useful interest rate risk measure only for bonds with embedded options.",
+        "an accurate estimate of interest rate risk only when the assumed benchmark \nrate change is small.",
+        "the same as the modified duration of an option-free bond only when the yield \ncurve is perfectly flat."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the modified duration and effective duration on an option-free \nbond are identical only in the rare circumstance of an absolutely flat yield curve."
+      }
+    },
+    {
+      "id": "a94fb464-2d89-47d7-a7b3-75ab9e9adc2d",
+      "prompt": {
+        "text": "For a bond with an embedded option, effective duration is \nthe most appropriate measure of interest rate risk because the bond's:"
+      },
+      "choices": [
+        "future cash flows are uncertain.",
+        "internal rate of return is well-defined.",
+        "pricing is sensitive to changes in credit spreads."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because effective duration is essential to the measurement of the \ninterest rate risk of a complex bond, such as a bond that contains an embedded call \noption. The problem is that future cash flows are uncertain because they are \ncontingent on future interest rates. The issuer’s decision to call the bond depends on \nthe ability to refinance the debt at a lower cost of funds. Effective duration is the \nappropriate duration measure. \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 10 of 11"
+      }
+    },
+    {
+      "id": "ff854d54-53c6-4976-adf5-f30d7a21cb19",
+      "prompt": {
+        "text": "The key rate duration best measures a bond's sensitivity to a change in the:"
+      },
+      "choices": [
+        "level of the yield-to-maturity.",
+        "slope of the yield-to-worst curve.",
+        "shape of the benchmark yield curve."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because key rate duration (or partial duration) is a measure of a bond’s \nsensitivity to a change in the benchmark yield curve at a specific maturity segment. \nIn contrast to effective duration, key rate durations help identify 'shaping risk' for \na bond—that is, a bond’s sensitivity to changes in the sh ape of the benchmark yield \ncurve (e.g., the yield curve becoming steeper or flatter)."
+      }
+    },
+    {
+      "id": "32e3a3af-b96e-47d9-b5a7-718239b77109",
+      "prompt": {
+        "text": "Which of the following duration statistics best measures the sensitivity of a bond’s \nprice to a flattening of the yield curve?"
+      },
+      "choices": [
+        "Key rate duration",
+        "Effective duration",
+        "Macaulay duration"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because key rate duration (or partial duration) is a measure of a bond’s \nsensitivity to a change in the benchmark yield curve at a specific maturity segment. \nIn contrast to effective duration, key rate durations help identify 'shaping risk' for \na bond—that is, a bond’s sensitivity to changes in the shape of the benchmark yield \ncurve (e.g., the yield curve becoming steeper or flatter)."
+      }
+    },
+    {
+      "id": "eac1edbf-235b-422f-8da3-186a84414610",
+      "prompt": {
+        "text": "Callable bonds exhibit:"
+      },
+      "choices": [
+        "positive convexity only.",
+        "negative convexity only.",
+        "either positive or negative convexity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when the benchmark yield is high and the value of the embedded \ncall option is low, the callable and the non -callable bonds experience very similar \neffects from interest rate changes. They both have positive convexity. But as the \nbenchmark yield is  reduced, the curves diverge. At some point, the callable bond \nmoves into the range of negative convexity, which indicates that the embedded call \noption has more value to the issuer and is more likely to be exercised."
+      }
+    },
+    {
+      "id": "a7feb3d1-d774-43b5-8e8e-2542f3c0269e",
+      "prompt": {
+        "text": "Effective duration is the appropriate interest rate risk measure for callable bonds \nbecause it:"
+      },
+      "choices": [
+        "measures the sensitivity of the bond price to a change in the yield to worst.",
+        "accounts for the convexity adjustment which can be significant for callable \nbonds.",
+        "can be calculated for bonds that do not have a well-defined internal rate of \nreturn. \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 6 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a callable bond does not have a well -defined internal rate of \nreturn (yield to maturity). Therefore, yield duration statistics, such as modified and \nMacaulay durations, do not apply; effective duration is the appropriate duration \nmeasure."
+      }
+    },
+    {
+      "id": "f46f02fb-60fb-41d2-b3ba-34893ea61650",
+      "prompt": {
+        "text": "The most appropriate measure of interest rate risk for a bond with an embedded \noption is:"
+      },
+      "choices": [
+        "effective duration.",
+        "modified duration.",
+        "Macaulay duration."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the effective duration of a bond is the sensitivity of the \nbond’s price to a change in a benchmark yield. Modified duration is a yield duration \nstatistic in that it measures interest rate risk in terms of a change in the bond’s \nown yield-to-maturity (ΔYield). Effective duration is a curve duration statistic in \nthat it measures interest rate risk in terms of a parallel shift in the benchmark \nyield curve (ΔCurve). Effective duration is essential to the measurement of the \ninterest rate risk of a complex bond, such as a bond that contains an embedded call \noption. The problem is that future cash flows are uncertain because they are \ncontingent on future interest rates. Therefore, yield duration statistics, such as \nmodified and Macaulay durations, do not apply; effective duration is the appropriate \nduration measure."
+      }
+    },
+    {
+      "id": "af5add04-409b-41b4-a076-a3ec92dd2bbd",
+      "prompt": {
+        "text": "The yield duration and the curve duration of a zero-coupon bond are most similar \nwhen the:"
+      },
+      "choices": [
+        "benchmark yield curve is flat.",
+        "bond has a long time to maturity.",
+        "bond is priced at a significant discount."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because in general, the differences [between yield duration and \nconvexity and  curve duration and convexity] are heightened when the benchmark \nyield curve is not flat, when the bond has a long time -to-maturity, and the bond is \npriced at a significant discount or premium. Therefore, the difference between yield \nduration and curve duration are most similar when the benchmark yield curve is flat. \n \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 11 of 11"
+      }
+    },
+    {
+      "id": "cb3ebf20-1418-4040-ac39-6700442317a7",
+      "prompt": {
+        "text": "Which of the following statements is most accurate? The convexity adjustment is:"
+      },
+      "choices": [
+        "positive for an option-free bond in all circumstances.",
+        "negative for a callable bond when the value of the option is very low.",
+        "positive when bond yields decrease and negative when bond yields increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the convexity adjustment is the annual convexity statistic, \nAnnConvexity, times one -half, multiplied by the change in the yield -to-maturity \nsquared. This additional term is a positive amount on a traditional (option-free) fixed-\nrate bond for either an increase or decrease in the yield."
+      }
+    },
+    {
+      "id": "8f4804d7-03b0-4037-bec8-9133291f486d",
+      "prompt": {
+        "text": "Effective duration is the most appropriate interest rate risk measure for a bond \nwhen:"
+      },
+      "choices": [
+        "the shape of the yield curve changes.",
+        "there is a change in the bond's credit spread.",
+        "the issuer has the right to pay off the bond prior to maturity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because if a bond has contingency features, such as embedded options, \nas with a callable (or puttable) bond, then future cash flows are uncertain since option \nexercise depends on the level of market interest rates relative to coupon interest \nbeing paid (or received). Consequently, bonds with embedded options do not have well-\ndefined yields-to-maturity, so Macaulay and modified durations are not appr opriate \ninterest rate risk measures for such bonds. Rather, the appropriate measure of \ninterest rate risk is the sensitivity of the bond’s price to a change in a  benchmark \nyield curve—for example, the government par curve —known as effective duration, \na curve duration rather than a yield duration statistic."
+      }
+    },
+    {
+      "id": "d9916727-6140-4198-829b-adef9c0b5cf2",
+      "prompt": {
+        "text": "For bonds that are otherwise identical, the one exhibiting the highest level of \npositive convexity is most likely the one that is:"
+      },
+      "choices": [
+        "callable.",
+        "option-free.",
+        "putable. \n \n \n \n  \nCurve-Based and Empirical Fixed-Income Risk Measures \nFaculty:                                                                                    Page 7 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. When interest rates rise, a putable bond is more likely to be put back \nto the issuer by the investor, limiting the loss of value and giving the bond more \npositive convexity than an option -free bond. In contrast, a callable bond is likely to \nbe called from the investor when interest rates fall, limiting the gain in value and \ngiving the bond negative convexity."
+      }
+    }
+  ]
+}

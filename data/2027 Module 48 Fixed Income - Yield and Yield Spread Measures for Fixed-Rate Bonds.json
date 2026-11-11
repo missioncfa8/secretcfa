@@ -1,0 +1,247 @@
+{
+  "title": "Module 48: Yield and Yield Spread Measures for Fixed-Rate Bonds",
+  "topic": "Fixed Income",
+  "module_number": 48,
+  "module_name": "Yield and Yield Spread Measures for Fixed-Rate Bonds",
+  "year": 2027,
+  "items": [
+    {
+      "id": "5411c1cf-364f-4bb8-912e-b82b83649fa0",
+      "prompt": {
+        "text": "A bond issued by RTR pays a quarterly coupon of 3.25%, has three years to maturity, \nand is currently trading at 97.28. The semi-annual bond basis yield is closest to:"
+      },
+      "choices": [
+        "1.055%.",
+        "2.121%.",
+        "4.242%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. As a first step, we need to calculate the quarterly yield and annualize it: \n𝑃𝑉 = 𝑃𝑀𝑇\n(1 + 𝑟)1 + 𝑃𝑀𝑇\n(1 + 𝑟)2 + ⋯ + 𝑃𝑀𝑇 + 𝐹𝑉\n(1 + 𝑟)𝑁 . \n \n97.28 = 0.8125\n(1 + 𝑟)1 + 0.8125\n(1 + 𝑟)2 + ⋯ + 100.8125\n(1 + 𝑟)12 \n \n𝑟 =  0.01055 × 4 =  0.0422 \n \nThe next step is to convert the annualized quarterly yield to the semiannual bond \nbasis yield. \n \n(1 + 𝐴𝑃𝑅𝑚\n𝑚 )\n𝑚\n= (1 + 𝐴𝑃𝑅𝑛\n𝑛 )\n𝑛\n \n \n(1 + 0.0422\n4 )\n4\n= (1 + 𝐴𝑃𝑅2\n2 )\n2\n \n \n𝐴𝑃𝑅2 = 0.04242 = 4.242%. \n \nA is incorrect because 1.0550% is the yield per quarter. \nB is incorrect because 2.1100% is the yield per quarter (1.0550%) multiplied by 2."
+      }
+    },
+    {
+      "id": "5706a4a5-e554-496d-9148-b6b74326dfaa",
+      "prompt": {
+        "text": "An analyst is analyzing  a three -year, 2.25% annual coupon bond issued by QWE  \nCompany. Currently, the bond’s yield -to-maturity is 2.707%. The three -year swap  \nrate is 1.840%. The government spot rates are presented in the table. \nMaturity Government Spot Rate \n1Y 0.90% \n2Y 1.26% \n3Y 1.90% \n \nThe G-Spread (in basis points) for the QWE bond is closest to:"
+      },
+      "choices": [
+        "80.",
+        "87.",
+        "135."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The G -spread is a yield spread above that of a government bond with  \nthe same maturity date. The yield -to-maturity for the corporate bond is 2.7070%.  \nThe yield-to-maturity for the government benchmark bond is 1.9036%.  \nG-spread = 2.707% – 1.904% = 0.8034% = 80.3 bps.  \nB is incorrect because 87 bps is the I-spread calculated as the yield spread of a bond \nover the standard swap rate in the same currency and with the same tenor.  \nC is incorrect because 135 bps is the spread calculated as the difference between  \nthe yield-to-maturity of the QWE bond and the average of government rates for all \nmaturities."
+      }
+    },
+    {
+      "id": "9d25b8e5-424c-45ad-98ad-eb974717cbb9",
+      "prompt": {
+        "text": "The I-spread (in basis points) for the QWE bond is closest to:"
+      },
+      "choices": [
+        "46.",
+        "80.",
+        "87."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The I-spread is the yield spread of a bond over the standard swap rate \nin the same currency and with the same tenor. The yield -to-maturity for the  \ncorporate bond is 2.707%, and the swap rate for the same maturity is 1.840%.  \nI-spread = 2.707% – 1.840% = 0.867% = 87 bps.  \nA is incorrect because 46 bps is the difference between the bond’s yield-to-maturity \nand coupon rate. 2.707% – 2.250% = 0.457% = 46 bps.  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 5 of 6 \n \nB is incorrect because 80 bps is the G -spread—the yield -to-maturity for the \ncorporate bond less the yield -to-maturity for the government benchmark bond.  G-\nspread = 2.707% – 1.904% = 80 bps."
+      }
+    },
+    {
+      "id": "3239fd03-2d0a-4845-9afe-5a071e67fdfa",
+      "prompt": {
+        "text": "If the price of the QWE bond is 98.70% of par, its Z -spread (in basis points) is  \nclosest to:"
+      },
+      "choices": [
+        "80.",
+        "82.",
+        "87."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. To calculate the Z-spread, we must solve for Z in the following equation, \ngiven the spot rates and price of the bond: \n \n𝑃𝑉 = 𝑃𝑀𝑇\n(1 + 𝑧1 + 𝑍)1 + 𝑃𝑀𝑇\n(1 + 𝑧2 + 𝑍)2 + ⋯ + 𝑃𝑀𝑇 + 𝐹𝑉\n(1 + 𝑧𝑁 + 𝑍)𝑁. \n \n98.70 = 2.25\n(1 + 0.00899 + 𝑍)1 + 2.25\n(1 + 0.01260 + 𝑍)2 + 102.25\n(1 + 0.01904 + 𝑍)3. \n \nThe Solver add -in for Microsoft Excel finds  Z = 0.0082, or 82 bps, by setting the \nprice (sum of present values of cash flows) equal to 98.70 as the objective and  Z as \nthe change variable.  \n \nA is incorrect because 80 bps is the value of the G-spread, not the Z-spread. The G-\nspread is calculated as the difference between the QWE bond yield and the yield of \nthe government bond with the same maturity: \n \nG-spread = 2.707% – 1.904% = 80 bps. \n \nC is incorrect because 87 bps is the I -spread, not the Z -spread. The I -spread is \ncalculated as a yield spread of a bond over the standard swap rate in the same \ncurrency and with the same tenor. The yield -to-maturity for the corporate bond is \n2.707%, and the swap rate for the same maturity is 1.840%. \n \nI-spread = 2.707% – 1.840% = 87 bps."
+      }
+    },
+    {
+      "id": "c1c4fe4c-ef9e-4fe8-925a-515bcd8fbec3",
+      "prompt": {
+        "text": "Consider a $100 par value bond with an 8% coupon paid annually, maturing in 20 years. \nIf the bond currently sells for $96.47, the yield to maturity is closest to:"
+      },
+      "choices": [
+        "8.37%.",
+        "8.29%.",
+        "7.41%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A security with a present value of 96.47, 19 interest payments of 8, and \na 20th payment of principal plus interest (108) has a yield to maturity of 8.37%."
+      }
+    },
+    {
+      "id": "9d3a845b-cce9-41b5-b8a0-2f24f4565a9a",
+      "prompt": {
+        "text": "Stellar Corp. recently issued $100 par value deferred coupon bonds, which will make \nno coupon payments in the next four years. Regular annual coupon payments at a rate \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 2 of 6 \n \nof 8% will then be made until the bonds mature at the end of 10 years. If the bonds \nare currently priced at $87.00, their yield to maturity is closest to:"
+      },
+      "choices": [
+        "6.0%.",
+        "8.0%.",
+        "10.1%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The yield to maturity (r) is computed by solving for r in the following \nequation: \n87.00 = 8/(1 + r)5 + 8/(1 + r)6 + 8/(1 + r)7 + 8/(1 + r)8 + 8/(1 + r)9 + 108/(1 + r)10 which \ngives a yield to maturity of 6.0%."
+      }
+    },
+    {
+      "id": "c6b80a92-3bad-4c98-8de8-94bb253030db",
+      "prompt": {
+        "text": "For a coupon bond with a negative yield, compounding more frequently within the \nyear results in a yield-to-maturity that is:"
+      },
+      "choices": [
+        "more negative.",
+        "the same.",
+        "less negative."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because compounding more frequently within the year results in a lower \n(more negative) yield-to-maturity. \n \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 6 of 6"
+      }
+    },
+    {
+      "id": "a3f32eb6-260c-48cc-a5c2-9a7239503878",
+      "prompt": {
+        "text": "The yield spread over an interpolated sovereign bond is best described as a(n):"
+      },
+      "choices": [
+        "I-spread.",
+        "G-spread.",
+        "Z-spread."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the yield spread in basis points over an actual or interpolated \ngovernment bond is known as the G-spread. The spread over a government bond is the \nreturn for bearing greater credit, liquidity, and other risks relative to the sovereign \nbond."
+      }
+    },
+    {
+      "id": "f6302498-1051-4256-a086-523e06b21f0e",
+      "prompt": {
+        "text": "An analyst gathers the following information about a callable bond that pays \ninterest annually: \nCurrent price 105 per 100 of par value \nTime-to-maturity 4 years \nCoupon rate 4% \nCall price at year 2 103 per 100 of par value \nCall price at year 3 101 per 100 of par value \n \nThis bond's yield to worst is the:"
+      },
+      "choices": [
+        "yield to maturity.",
+        "yield to first call.",
+        "yield to second call."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the lowest of the sequence of yields-to-call and the yield-to-\nmaturity is known as the yield-to-worst. The sequence of yields for the bond is as \nfollows: \nYield-to-maturity, rytm is calculated by solving this equation: \n105 = 4/(1 + rytm)^1 + 4/(1 + rytm)^2 + 4/(1 + rytm)^3 + 104/(1 + rytm)^4 \nUsing a financial calculator with N = 4, PV = –105, FV = 100, PMT = 4 and solving for \nI, rytm = 2.6656% ≈ 2.7%. \nYield-to-first-call, r1 is calculated by solving this equation: \n105 = 4/(1 + r1)^1 + (4+103)/(1 + r1)^2 \nUsing a financial calculator with N = 2, PV = –105, FV = 103, PMT = 4 and solving for \nI, r1 = 2.8706% ≈ 2.9%. \nYield-to-second-call, r2 is calculated by solving this equation: \n105 = 4/(1 + r2)^1 + 4/(1 + r2)^2 + (4+101)/(1 + r2)^3 \nUsing a financial calculator with N = 3, PV = –105, FV = 101, PMT = 4 and solving for \nI, r2 = 2.5718% ≈ 2.6%. \nTherefore the yield-to-worst is equal to the yield-to-second-call."
+      }
+    },
+    {
+      "id": "63a739c3-9b9c-42ef-8102-54427d873a78",
+      "prompt": {
+        "text": "The stated annual yield to maturity on a semiannual bond basis is 3.66%. The \neffective annual yield is closest to:"
+      },
+      "choices": [
+        "3.63%.",
+        "3.69%.",
+        "7.45%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because an effective annual rate has a periodicity of one because there \nis just one compounding period in the year. No calculations are required based on \nthe intuitive idea that due to semi-annual compounding, the effective annual yield \nmust be slightly higher. The formula to calculate the effective annual yield of a \nsemi-annual pay bond is: \n= (1 + yield/2)^2 – 1 = (1 + 0.0366/2)^2 – 1 = 1.036935 – 1 = .036935 ≈ 3.69%."
+      }
+    },
+    {
+      "id": "cd55b5a3-27b0-4371-9a3a-821341fc60fc",
+      "prompt": {
+        "text": "A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted \nto a quarterly periodicity, the APR is closest to:"
+      },
+      "choices": [
+        "1.98%.",
+        "3.92%.",
+        "7.92%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because (1 + APR 2/2)2 = (1 + APR 4/4)4 for annual percentage rates using \nsemiannual and quarterly periodicity  (APR2 and APR 4, respectively). This gives (1 + \n0.08/2)2 = (1 + APR4/4)4 ⇔ APR4/4 = 1.98% and APR4 = 4 × 1.98% = 7.92%."
+      }
+    },
+    {
+      "id": "8a0c64f8-2e3f-41c8-9e55-416a7a6c8cf7",
+      "prompt": {
+        "text": "The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the: \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 3 of 6"
+      },
+      "choices": [
+        "I-spread.",
+        "Z-spread.",
+        "option-adjusted spread."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the yield spread of a specific bond over the standard swap rate \nin that currency of the same tenor is known as the  I-spread or interpolated \nspread to the swap curve."
+      }
+    },
+    {
+      "id": "744e7958-cdb4-40a0-abd3-0c96ddb18248",
+      "prompt": {
+        "text": "The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of \n$100 and currently priced at $85.70 is closest to:"
+      },
+      "choices": [
+        "4.50%.",
+        "5.25%.",
+        "5.93%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because current yield is calculated as ($4.5/$85.70) = 5.25%."
+      }
+    },
+    {
+      "id": "c046321c-a0ff-4646-9544-8052fa74d6ed",
+      "prompt": {
+        "text": "The factor least likely to influence the yield spread on an option -free, fixed-rate \nbond is a change in the:"
+      },
+      "choices": [
+        "credit risk of the issuer.",
+        "expected inflation rate.",
+        "liquidity of the bond. \n \n  \nYield and Yield Spread Measures for Fixed-Rate Bonds \nFaculty:                                                                                    Page 4 of 6"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because for an option-free, fixed-rate bond, changes in the yield spread \ncan arise from changes in the credit risk of the issuer and/or changes in the liquidity \nof the issue. Changes in the expected inflation rate influence the benchmark rate."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "title": "Module 07: Estimation and Hypothesis Testing",
+  "topic": "Quantitative Methods",
+  "module_number": 7,
+  "module_name": "Estimation and Hypothesis Testing",
+  "year": 2027,
+  "items": [
+    {
+      "id": "77549021-e3a7-40e0-b21f-a7b9a0957ad0",
+      "prompt": {
+        "text": "In hypothesis testing, the Type I error represents:"
+      },
+      "choices": [
+        "incorrectly rejecting a true null hypothesis.",
+        "failing to reject a false null hypothesis.",
+        "failing to reject a false alternative hypothesis."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d9d0fe38-2d23-4a0a-a8a5-79d195c87e5a",
+      "prompt": {
+        "text": "In a sample of eight companies in a particular sector, the average net income is EUR30 million and the \nstandard deviation of net income is EUR10 million. When testing a null hypothesis that the average net \nincome exceeds EUR24 million, the value of the test statistic is closest to:"
+      },
+      "choices": [
+        "0.589.",
+        "1.697.",
+        "3.536."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "3b3a7128-839b-4466-83d3-290e88780bda",
+      "prompt": {
+        "text": "Continuing with the data from the previous question, at the 5% significance level, what should the analyst \nconclude about the null hypothesis of equal variances between periods at the 5% significance level? The \nrelevant critical values are 0.6969 and 1.4349, respectively."
+      },
+      "choices": [
+        "Fail to reject the null hypothesis because the test statistic is within the range of the critical values.",
+        "Reject the null hypothesis because the test statistic is outside the range of the critical values.",
+        "Fail to reject the null alternative hypothesis because the test statistic is within the range of the critical \nvalues."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4041cd65-f5f0-4cd4-8b90-43e310e07edd",
+      "prompt": {
+        "text": "Consider an asset with a mean return of 0% and an annualized standard deviation of 5%. Based on a 99% \nVaR with a corresponding Z-score of 2.33, the asset:"
+      },
+      "choices": [
+        "is not expected to lose more than 11.65% in a year.",
+        "has a 1% chance of losing more than 11.65% in a year.",
+        "has a 99% chance of earning a return greater than 11.65% in a year."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d5333955-7ae2-4f97-8ebe-845344eb958f",
+      "prompt": {
+        "text": "A non-parametric test of a hypothesis is most appropriate when the:"
+      },
+      "choices": [
+        "sample data are ranked according to magnitude.",
+        "sample data come from a normally distributed population.",
+        "validity of the test depends on many assumptions about the nature of the population."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "044c91cd-d422-4cd3-bac1-4b7667104a3c",
+      "prompt": {
+        "text": "A two-tailed hypothesis test is required when testing whether a parameter is:"
+      },
+      "choices": [
+        "less than a hypothesized value.",
+        "equal to a hypothesized value.",
+        "greater than a hypothesized value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "dffc731c-b5bd-4bef-a2e7-73a20fd6895c",
+      "prompt": {
+        "text": "Compared to a parametric test, a non-parametric test:"
+      },
+      "choices": [
+        "has more power.",
+        "is more suitable for ordinal data.",
+        "is more effective at detecting a true effect."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "44db9310-3f13-46ae-8157-17b4bdd734a7",
+      "prompt": {
+        "text": "Under the central limit theorem, the mean of a skewed distribution:"
+      },
+      "choices": [
+        "cannot be estimated accurately.",
+        "requires larger sample sizes for accurate estimation.",
+        "must rely on smaller sample sizes for accurate estimation."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "87fd320e-86d9-4e6d-b6bd-9506908d6afc",
+      "prompt": {
+        "text": "120 months of returns for a stock index show an average monthly return of 0.9% with a standard deviation \nof 3.1%. The 95% confidence interval for monthly index returns is closest to:"
+      },
+      "choices": [
+        "–2.2% to 4.0%.",
+        "0.3% to 1.5%.",
+        "0.6% to 1.2%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "751702e2-c1de-4435-b581-74d62094f095",
+      "prompt": {
+        "text": "With cluster sampling, the central limit theorem applies when:"
+      },
+      "choices": [
+        "the number of clusters is large.",
+        "the size of each cluster is large.",
+        "either the size of each cluster or the number of clusters is large."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "988b136d-eb60-4d6e-8212-8a8189454f21",
+      "prompt": {
+        "text": "Does increasing the power of a test increase the risk of making an error?"
+      },
+      "choices": [
+        "No.",
+        "Yes, it increases the risk of making a Type I error.",
+        "Yes, it increases the risk of making a Type II error."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1827188c-6a17-4d79-8273-13b4686fb663",
+      "prompt": {
+        "text": "It is most appropriate to use a non-parametric test when:"
+      },
+      "choices": [
+        "the data have fat tails.",
+        "the distribution of outcomes is known.",
+        "the assumptions behind the central limit theorem hold."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "281ee67d-89b7-4f4f-bc10-2334230cc0b6",
+      "prompt": {
+        "text": "A sample of 25 observations has a mean of 8 and a standard deviation of 15. The standard error of the \nsample mean is closest to:"
+      },
+      "choices": [
+        "1.60.",
+        "3.00.",
+        "3.06."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ea95238c-ae5c-41d7-9070-921aa69ea2d2",
+      "prompt": {
+        "text": "The sampling error is best described as the:"
+      },
+      "choices": [
+        "sample standard deviation divided by the square root of the sample size.",
+        "sum of squared deviations from the mean divided by the sample size minus one.",
+        "difference between the observed value of a statistic and the quantity it is intended to estimate"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2dd7eedf-a5cc-4412-b33b-bd869618f264",
+      "prompt": {
+        "text": "The following sample of 10 items is selected from a population. The population variance is unknown.\n10 20 –8 2 –9 5 0 –8 3 21\nThe standard error of the sample mean is closest to:"
+      },
+      "choices": [
+        "3.43.",
+        "3.60.",
+        "10.84."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8c5e664f-ced2-4684-b234-260760b1476f",
+      "prompt": {
+        "text": "If the distribution of the population from which samples of size n are drawn is positively skewed and given \nthat the sample size, n, is large, the sampling distribution of the sample means is most likely to have a:"
+      },
+      "choices": [
+        "distribution that is approximately normal.",
+        "variance equal to that of the entire population.",
+        "mean smaller than the mean of the entire population."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "71494393-2d16-4a5b-bde0-765bc1a9b989",
+      "prompt": {
+        "text": "The distribution of all the distinct possible values for a statistic when calculated from samples of the same \nsize randomly drawn from the same population is most accurately referred to as:"
+      },
+      "choices": [
+        "a discrete uniform distribution.",
+        "a multivariate normal distribution.",
+        "the sampling distribution of a statistic."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c723642a-8961-42ef-8401-c7b18eec1ed0",
+      "prompt": {
+        "text": "A mutual fund manager wants to create a fund based on a high-grade corporate bond index. She first \ndistinguishes between utility bonds and industrial bonds; she then, for each segment, defines maturity \nintervals of less than 5 years, 5 to 10 years, and greater than 10 years. For each segment and maturity \nlevel, she classifies the bonds as callable or noncallable. She then randomly selects bonds from each of \nthe subpopulations she has created. For the manager’s sample, which of the following best describes the \nsampling approach?"
+      },
+      "choices": [
+        "Systematic",
+        "Simple random",
+        "Stratified random"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "46fb8057-0445-4238-a0ca-6fafb72eb901",
+      "prompt": {
+        "text": "Using the following sample results drawn as 25 paired observations from their underlying distributions, test \nwhether the mean returns of the two portfolios differ from each other at the 1% level of statistical \nsignificance. Assume the underlying distributions of returns for each portfolio are normal and that their \npopulation variances are not known.\n  Portfolio 1 Portfolio 2 Difference\nMean return 17.00 21.25 4.25\nStandard deviation 15.50 15.75 6.25\nt-statistic for 24 degrees of freedom and at the 1% level of statistical significance = 2.807\nNull hypothesis (H0): Mean difference of returns = 0\nBased on the paired comparisons test of the two portfolios, the most appropriate conclusion is that H0 should \nbe:"
+      },
+      "choices": [
+        "rejected because the computed test statistic exceeds 2.807.",
+        "accepted because the computed test statistic exceeds 2.807.",
+        "accepted because the computed test statistic is less than 2.807."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "89e9fbbf-1da2-47d1-b8ea-b523e3bc1103",
+      "prompt": {
+        "text": "A small-cap growth fund’s monthly returns for the past 36 months have been consistently outperforming its \nbenchmark. An analyst is determining whether the standard deviation of monthly returns is greater than \n6%. Which of the following best describes the hypothesis to be tested?"
+      },
+      "choices": [
+        "H0: σ2 ≤ 0.36%",
+        "Ha: σ2 > 6%",
+        "H0: σ2 ≥ 0.36%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "cadfa07a-1796-4d1a-b551-69bb155e4677",
+      "prompt": {
+        "text": "An analyst collects the following data related to paired observations for Sample A and Sample B. Assume \nthat both samples are dependent and are drawn from normally distributed populations and that the \npopulation variances are not known.\nThe t-statistic to test the hypothesis that the mean difference is equal to zero is closest to:"
+      },
+      "choices": [
+        "0.23.",
+        "0.27.",
+        "0.52."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "748f8a3b-945c-4668-a645-c4d82da02ecd",
+      "prompt": {
+        "text": "Which of the following is most likely to be an explanation of the power of a test? The power of a test is the \nprobability of:"
+      },
+      "choices": [
+        "Type I error.",
+        "rejecting the null when it is false.",
+        "not accepting the alternative when it is false."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "bb991013-dc99-4e8b-9cd3-5c5cffdb9705",
+      "prompt": {
+        "text": "An analyst examines 30 paired monthly returns for two stock indexes. To determine if the mean difference \nof the returns is zero, the number of degrees of freedom of the t-test is:"
+      },
+      "choices": [
+        "28.",
+        "29.",
+        "58."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e093b710-d778-4238-b102-8380c3dac65e",
+      "prompt": {
+        "text": "An analyst performs a hypothesis test concerning the difference between the mean returns of two \nportfolios, assuming normally distributed populations with unknown but equal variances. If the analyst \ndecides to change the hypothesized difference in mean returns from 0% to 1%, which of the following \nwill change?"
+      },
+      "choices": [
+        "The value of the test statistic",
+        "The degrees of freedom used in the test",
+        "The pooled estimate of the common population variance"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a1eb0d46-09b9-4487-a3be-5a4b5e97ecdc",
+      "prompt": {
+        "text": "A Type I error is best described as the probability of:"
+      },
+      "choices": [
+        "rejecting a true null hypothesis.",
+        "failing to reject a false null hypothesis.",
+        "rejecting a true alternative hypothesis."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "5ca8d4fd-5236-40ec-9679-061a42b6cc87",
+      "prompt": {
+        "text": "In hypothesis testing, which of the following best describes a Type II error?"
+      },
+      "choices": [
+        "Rejecting a true null hypothesis",
+        "Rejecting a false null hypothesis",
+        "Failure to reject a false null hypothesis"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c830771b-e77d-4cd6-b046-7a32619541d2",
+      "prompt": {
+        "text": "A parametric test is most likely preferred to a non-parametric test when:"
+      },
+      "choices": [
+        "the population is heavily skewed.",
+        "defined sets of assumptions are given.",
+        "the data are given in ratio or ordinal scale."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9ecc0f28-2f20-445b-9ef3-7feec85ac13b",
+      "prompt": {
+        "text": "For a sample of 50 observations, in which of the following situations is a nonparametric test least likely to \nbe appropriate? The data:"
+      },
+      "choices": [
+        "contain outliers.",
+        "are given in ranks.",
+        "come from a population with a lognormal distribution."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9ac450b0-13bd-42c7-9ebb-ad37701c1986",
+      "prompt": {
+        "text": "An analyst has made the following return projections for each of three possible outcomes with an equal \nlikelihood of occurrence.\nAsset 1 Asset 2 Asset 3\nOutcome 1 12% 12% 0%\nOutcome 2 0% 6% 6%\nOutcome 3 6% 0% 12%\nExpected return 6% 6% 6%\nThe lowest portfolio standard deviation would be achieved using an equally weighted portfolio of:"
+      },
+      "choices": [
+        "Asset 1 and Asset 2.",
+        "Asset 1 and Asset 3.",
+        "Asset 2 and Asset 3.\nModule 8 The Return and Risk of a Financial Portfolio"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "151bbe79-569f-4c32-965a-b65cdbd24f85",
+      "prompt": {
+        "text": "Would an increase in the correlations between assets in a portfolio be expected to affect the portfolio’s \nvolatility?"
+      },
+      "choices": [
+        "No.",
+        "Yes, the portfolio’s volatility would decrease.",
+        "Yes, the portfolio’s volatility would increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a3893c4f-287e-43d5-8d09-b034ce75a336",
+      "prompt": {
+        "text": "To answer Questions 3 and 4, use the information in the following table:\nAn analyst gathers the following information:\nSecurity\nExpected Annual Return \n(%)\nStandard Deviation \n(%)\nCorrelation Between Security and the \nMarket\nSecurity 1 11 25 0.6\nSecurity 2 11 20 0.7\nSecurity\nExpected Annual Return \n(%)\nStandard Deviation \n(%)\nCorrelation Between Security and the \nMarket\nSecurity 3 14 20 0.8\nMarket 10 15 1.0\nWhich security has the highest beta?"
+      },
+      "choices": [
+        "Security 1",
+        "Security 2",
+        "Security 3"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9cc7afc2-10a2-40e0-9b26-f48fc0e0fa25",
+      "prompt": {
+        "text": "Which security has the least amount of systematic risk?"
+      },
+      "choices": [
+        "Security 1",
+        "Security 2",
+        "Security 3"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ef288cbd-d8e5-4fdf-9101-be91b7638e07",
+      "prompt": {
+        "text": "An analyst gathers the following information:\nSecurity Beta\nSecurity 1 1.50\nSecurity 2 1.40\nSecurity 3 1.60\nThe risk-free rate is 3%, and the market risk premium is 6%.\nBased on the capital asset pricing model, the security with the highest expected return is:"
+      },
+      "choices": [
+        "Security 1.",
+        "Security 2.",
+        "Security 3."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "163f0743-e0a4-4e7d-8eb8-1feb4d6dbe62",
+      "prompt": {
+        "text": "An investor who focuses solely on expected return is best described as:"
+      },
+      "choices": [
+        "risk-averse.",
+        "risk-neutral.",
+        "risk-seeking"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a8d46e90-0281-432c-9ba2-5d0c43d7c23b",
+      "prompt": {
+        "text": "Stocks have an expected return of 12% and a standard deviation of 15%. Bonds have an expected return \nof 6% and a standard deviation of 8%. The correlation between stocks and bonds is 0.5.\nThe proportion of stocks in the minimum-variance portfolio of stocks and bonds is closest to:"
+      },
+      "choices": [
+        "2.37%.",
+        "3.67%.",
+        "12.23%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9dc2f951-6bee-40ec-baba-f1b4e472c004",
+      "prompt": {
+        "text": "Consider a portfolio with three assets, with their expected returns and risk, as well as the correlation matrix, \nlisted as follows:\nAsset Expected Return (%) Standard Deviation (%)\nX 15 18\nY 9 12\nZ 11 16\nCorrelation Matrix, ρ Asset X Asset Y Asset Z\nAsset X 1.0 0.3 −0.2\nCorrelation Matrix, ρ Asset X Asset Y Asset Z\nAsset Y 0.3 1.0 0.4\nAsset Z −0.2 0.4 1.0\nWhat is the standard deviation of a portfolio with 35% in Asset X, 40% in Asset Y, and 25% in Asset Z?"
+      },
+      "choices": [
+        "10.11%",
+        "10.20%",
+        "11.60%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a8b5bd24-912e-41c2-9fb3-8faa95456f8c",
+      "prompt": {
+        "text": "Stocks have an expected return of 12% with a standard deviation of 15%. Bonds have an expected return \nof 6% with a standard deviation of 8%. The correlation between stocks and bonds is 0.6.\nFor a portfolio of 60% stocks and 40% bonds, the variance of returns is closest to:"
+      },
+      "choices": [
+        "1.09%.",
+        "1.26%.",
+        "12.55%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "37187419-864a-44ca-9b0a-c4f232642050",
+      "prompt": {
+        "text": "Under the CAPM assumptions, the optimal risky portfolio is best described as a portfolio that:"
+      },
+      "choices": [
+        "is suitable for all investors.",
+        "offers the minimum variance.",
+        "lies where the capital allocation line is tangential to the efficient frontier"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d4f20dfb-8104-41b5-ae9e-91bdbd62ddbc",
+      "prompt": {
+        "text": "An equally weighted portfolio consists of two securities, each with a standard deviation of 3%. If the two \nsecurities' returns are uncorrelated, the portfolio's standard deviation is closest to:"
+      },
+      "choices": [
+        "0.0%.",
+        "2.1%.",
+        "3.0%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "289c758c-1e85-4cd8-a214-f18da18a72e9",
+      "prompt": {
+        "text": "The following information applies to a portfolio composed of Fund A and Fund B:\n  Fund \nA\nFund \nB\nPortfolio weights (%) 70 30\nExpected returns (%) 10 16\nStandard deviations (%) 7 13\nCorrelation between the returns of Fund A and Fund B 0.80\nThe portfolio's standard deviation of return is closest to:"
+      },
+      "choices": [
+        "7.38%.",
+        "8.35%.",
+        "8.80%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "066e7382-db01-4052-ad74-fd8a82105a67",
+      "prompt": {
+        "text": "Assuming no short selling, a diversification benefit is most likely to occur when the correlations among the \nsecurities contained in the portfolio are:"
+      },
+      "choices": [
+        "greater than +1.",
+        "equal to +1.",
+        "less than +1."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7d4f6377-03e0-4203-b27d-9383f2afe80d",
+      "prompt": {
+        "text": "Which of the following simulation methods is usually associated with the explicit selection of an analytical \ndistribution?"
+      },
+      "choices": [
+        "Bootstrapping",
+        "Historical simulation",
+        "Monte Carlo simulation"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "05a78f5f-ec5c-4f8c-a9a6-284005df60b7",
+      "prompt": {
+        "text": "Historical simulation may be preferred over Monte Carlo simulation because it:"
+      },
+      "choices": [
+        "is less sensitive to the quality of the historical data.",
+        "is regarded as being more intuitive and easier to explain.",
+        "offers more flexibility in adjusting for changes in market conditions."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "51c516fc-17a4-457a-a258-63caa3a1c656",
+      "prompt": {
+        "text": "An analyst is running a Monte Carlo simulation on the joint distribution of the returns of two stocks, A and B. \nThe analyst has the following data:\nStatistic Value\nVolatility of Stock A 1.0%\nVolatility of Stock B 2.0%\nCorrelation between Stocks A and B 60%\nThe analyst assumes a normal distributions and simulates 10,000 runs of Z 1and Z 2; both variables are drawn \nfrom two independent N(0, 1) distributions.\nShe converts the randomly generated Z 1draws to S1—meant to be random scenarios for Stock A—using the \nfollowing equation:\nModule 9 Simulation of Financial Asset Prices and Returns\nS1=0.01× Z1 .\nWhich of the following equations should be used for obtaining the scenarios for S2?"
+      },
+      "choices": [
+        "S2=0.02× Z2",
+        "S2=0.012× Z1+0.008 × Z2",
+        "S2=0.012 × Z1+0.016 × Z2"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c03b6850-bcb3-4ad4-867f-ae5314b81f28",
+      "prompt": {
+        "text": "Bootstrapping enables the:"
+      },
+      "choices": [
+        "filling in of missing data.",
+        "correction of biases in the original dataset.",
+        "generation of multiple datasets from a single source sample"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "cd8f6b94-4928-4891-ab7e-0389e7411c18",
+      "prompt": {
+        "text": "Which of the following situations is best suited for simulation relative to using a parametric approach?"
+      },
+      "choices": [
+        "Determining the 90% worst-case value of an FX rate",
+        "Pricing a European call option on a stock with a given implied volatility",
+        "Assessing the risk of a portfolio of mortgages that are callable at any time"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a3b207fc-9512-45da-bb97-b5a8d850a440",
+      "prompt": {
+        "text": "An analyst uses 5 years of historical data to model the potential price movements of a bond with an original \nmaturity of 10 years and remaining maturity of 3 years. The yield curve is flat and interest rate volatility is \nrelatively constant.\nWill the results of this simulation most likely reflect future price movements?"
+      },
+      "choices": [
+        "Yes.",
+        "No, it will probably overstate the potential for large movements.",
+        "No, it will probably understate the potential for large movements in the price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b13c5e8a-aa95-44bf-b33f-835c3f7e8986",
+      "prompt": {
+        "text": "An analyst uses bootstrapping from a small set of 25 observations of price changes for a stock. Within the \ndataset, there are 4 observations of daily returns below −3%, 10 between −3% and 0%, 7 between 0% and \n2%, and 4 above 2%.\nFor each simulation run, the analyst will need five returns.\nOn simulation X, the first pull takes an observation of −4.5% and the next pull takes an observation of 0.1%.\nWhat is the probability that the third pull will take an observation below −3%?"
+      },
+      "choices": [
+        "12.0%",
+        "13.0%",
+        "16.0%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "59a2243e-c479-46aa-bb37-4911356728b6",
+      "prompt": {
+        "text": "Compared to Monte Carlo simulation, which of the following is a limitation of the bootstrapping approach?"
+      },
+      "choices": [
+        "It cannot model non-normal distributions.",
+        "Scenarios are confined to the range of the sample set.",
+        "Computational times are in general significantly higher."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2ed4c75a-0be3-49de-ab6e-5716d70ca128",
+      "prompt": {
+        "text": "In a typical well-constructed simulation, a set of calculations are defined in the setup phase. In which step \nof a simulation are those applied to each input scenario, producing the corresponding output values?"
+      },
+      "choices": [
+        "Scenario generation",
+        "Scenario evaluation",
+        "Result compilation"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1a6c376e-9d47-45cf-8636-d829879c33e9",
+      "prompt": {
+        "text": "Which of the following simulation approaches introduces randomness by allowing repeated sampling of the \nsame data points?"
+      },
+      "choices": [
+        "Historical",
+        "Bootstrap",
+        "Monte Carlo"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d33193d2-b31d-435b-b618-b75492b325ca",
+      "prompt": {
+        "text": "A disadvantage of historical simulation is that:"
+      },
+      "choices": [
+        "it requires correlation modeling.",
+        "historical data may be incomplete.",
+        "it requires assumptions about future return distributions."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f49ddd43-ee1c-4371-87ed-0209033c6eac",
+      "prompt": {
+        "text": "In Monte Carlo simulation, the Cholesky decomposition is used to generate:"
+      },
+      "choices": [
+        "correlated random normally distributed variables.",
+        "uncorrelated random normally distributed variables.",
+        "correlated random non-normally distributed variables."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d34d35bb-4d00-4c0a-8bd0-52fbe3256e6c",
+      "prompt": {
+        "text": "A common criticism of Monte Carlo simulations is that they are:"
+      },
+      "choices": [
+        "complex.",
+        "imprecise.",
+        "backward looking."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6b67591d-12a1-4be5-afa1-e2d85844baca",
+      "prompt": {
+        "text": "An analyst regresses estimates of stock market returns (in %) as a dependent variable based on GDP \ngrowth (in %) as the independent variable. She estimates a simple linear regression using OLS as:\nY =3.2+4.3 X.\nFor every 1% change in GDP growth, X, she should expect an increase in stock market returns closest to:"
+      },
+      "choices": [
+        "0.23%.",
+        "4.30%.",
+        "7.50%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d998521d-24b5-4e02-ba45-c9ef30e40a25",
+      "prompt": {
+        "text": "A regression based on panel data would be most appropriate for analyzing:"
+      },
+      "choices": [
+        "the same entity over multiple time periods.",
+        "multiple entities over the same time period.",
+        "multiple entities over multiple time periods."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4d2cc181-fb72-4b6d-a8df-29b818f60ace",
+      "prompt": {
+        "text": "The standard error of the forecast for a regression model will be smaller if there is a larger:"
+      },
+      "choices": [
+        "sample size.",
+        "standard error of the estimate.",
+        "distance between the forecasted value and the mean of the independent variable.\nModule 10 Applications of Simple Linear Regression in Finance"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "70fd8793-5c8d-4728-ad1b-2045536674bd",
+      "prompt": {
+        "text": "An analyst wants to test whether a one-unit change in X leads to a constant percentage change in Y. It \nwould be most appropriate to use a:"
+      },
+      "choices": [
+        "log-lin model.",
+        "lin-log model.",
+        "log-log model."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "83908c34-2bcf-40b8-ab60-f2af36a2a7b2",
+      "prompt": {
+        "text": "Based on the following information, answer the questions that follow\nThe intercept coefficient reflects the mean annual growth rate in the money supply:"
+      },
+      "choices": [
+        "over the entire 30-year period.",
+        "in the 15 years before the policy shift.",
+        "in the 15 years after the policy shift."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "5c8429ff-ba07-4e8e-9212-585fdbcace61",
+      "prompt": {
+        "text": "The slope coefficient reflects the:"
+      },
+      "choices": [
+        "annualized change in the growth rate of the money supply during the 30-year period.",
+        "average annual growth rate in the money supply after the policy shift.",
+        "difference in the average annual growth rate in the money supply from before the policy shift to after."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "13389781-4848-4872-ae3c-a9e26a04efab",
+      "prompt": {
+        "text": "With respect to the analyst’s hypothesis, she should:"
+      },
+      "choices": [
+        "reject the null hypothesis that the money supply growth did not change.",
+        "fail to reject the null hypothesis that the money supply growth rate changed.",
+        "accept the alternative hypothesis that the money supply growth changed."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b3914a50-c4c9-4b2b-92be-102ad431263a",
+      "prompt": {
+        "text": "Based on the following information, answer the questions that follow\nWhich of the following best describes this regression?"
+      },
+      "choices": [
+        "Panel regression",
+        "Time-series regression",
+        "Cross-sectional regression"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ccb3a8ce-5800-4b0a-908e-7d66e6ce0757",
+      "prompt": {
+        "text": "If energy prices decrease by 1.0%, the expected return on the stock will be closest to:"
+      },
+      "choices": [
+        "0.65%.",
+        "1.38%.",
+        "2.03%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "0f135b25-596d-44f2-9898-2c6a51449de7",
+      "prompt": {
+        "text": "The coefficient of determination in Exhibit 31 indicates that the variation in:"
+      },
+      "choices": [
+        "Shaams’s returns explain 2.11% of the variation in ENG prices.",
+        "Shaams’s returns explain 14.52% of the variation in ENG prices.",
+        "ENG prices explain 2.11% of the variability in Shaams’s returns."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f481e426-3976-42e6-a6ad-5a3cdafcffcc",
+      "prompt": {
+        "text": "Which of the following is an incorrect conclusion from the regression output?"
+      },
+      "choices": [
+        "The intercept coefficient is statistically different from zero at the 5% significance level.",
+        "If the ENG price change were zero in a given month, Shaams’s expected return would be positive.",
+        "The slope coefficient is not statistically different from zero at the 5% significance level."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6364e06d-c0e7-4122-a13c-7a3bea4f4258",
+      "prompt": {
+        "text": "Based on the following information, answer the questions that follow:\nWhat is the sample variance of the dependent variable?"
+      },
+      "choices": [
+        "1.55",
+        "19.04",
+        "23.80"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "568d5178-a6a3-4f95-9190-211180cad83b",
+      "prompt": {
+        "text": "What is the R2 for this model?"
+      },
+      "choices": [
+        "0.367",
+        "0.924",
+        "0.961"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4bab0101-96d2-48d5-b926-b833a1e30ea2",
+      "prompt": {
+        "text": "To determine whether a regression model is statistically significant, the most appropriate measure is the:"
+      },
+      "choices": [
+        "F-statistic.",
+        "R squared.",
+        "standard error of the estimate."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4cd35987-8bdd-4acb-8d08-4a408fb5d6da",
+      "prompt": {
+        "text": "Calculate the standard error of the estimate (SEE)."
+      },
+      "choices": [
+        "0.92",
+        "2.40",
+        "1.55"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4f6e8117-c3e5-454c-8fad-0d6176326b74",
+      "prompt": {
+        "text": "The standard error of the estimate in a simple linear regression is best described as:"
+      },
+      "choices": [
+        "a relative measure of fit for the regression.",
+        "the percentage of the variation of the dependent variable that is explained by the independent variable.",
+        "a measure of the distance between the observed values of the dependent variable and those predicted from \nthe estimated regression."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "71b741ef-d0fd-4956-87a9-f2801f62a4ff",
+      "prompt": {
+        "text": "An analyst regresses net profit margin (NPM) on research and development expenditure scaled by \nrevenues (RDR) and gathers the following information:\n  Estimate\nIntercept 17.38%\nSlope \ncoefficient −0.6000\nThe predicted value of NPM for a forecasted RDR of 7% is closest to:"
+      },
+      "choices": [
+        "4.20%.",
+        "13.18%.",
+        "21.58%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "3a3ce7af-8f81-4a18-acd5-83fbdd76bef5",
+      "prompt": {
+        "text": "Which of the following statements is most characteristic of big data?"
+      },
+      "choices": [
+        "Big data involve formats with diverse structures.",
+        "One of big data’s traditional sources is business processes.",
+        "Real-time communication of big data is uncommon due to vast content."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f4d81256-54c5-4c8b-8be6-6cdbb922ff5e",
+      "prompt": {
+        "text": "In the use of machine learning:"
+      },
+      "choices": [
+        "some techniques are called “black box” due to data biases.",
+        "human judgment is not needed because algorithms continuously learn from data.",
+        "training data can be learned too precisely, resulting in inaccurate predictions when used with different \ndatasets."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "72ffc413-7b4d-492a-9e91-632c33fa6b49",
+      "prompt": {
+        "text": "Text analytics are appropriate for application to:"
+      },
+      "choices": [
+        "economic trend analysis.",
+        "large, structured datasets.",
+        "public but not private information.\nModule 11 Introduction to Financial Data Science"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2a3a6a99-5175-4df7-9d16-d5f2f1330137",
+      "prompt": {
+        "text": "Which of the following best describes how financial data science differs from general data science?"
+      },
+      "choices": [
+        "Financial data science focuses exclusively on quantitative data analysis.",
+        "Financial data science relies solely on machine learning algorithms for all analyses.",
+        "Financial data science applies data science principles specifically to financial data and contexts."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7ee07876-ec90-48b9-942b-9746727c6243",
+      "prompt": {
+        "text": "“Fintech” is best described as:"
+      },
+      "choices": [
+        "technology-driven innovation in the financial service industry.",
+        "the collection of large quantities of financial data from a variety of sources in multiple formats.",
+        "the use of technical models to describe patterns in financial markets and make trading decisions."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "0255a561-3bea-4567-b981-cfa6bf97b79a",
+      "prompt": {
+        "text": "An analyst creating a dataset composed largely of product reviews would most likely classify the data \nsources as generated by:"
+      },
+      "choices": [
+        "sensors.",
+        "individuals.",
+        "business processes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "73796c67-7beb-43a8-9bf3-94aec6cf6c18",
+      "prompt": {
+        "text": "Which of the following errors would most likely be a result of overfitting a machine learning model?"
+      },
+      "choices": [
+        "Inability to recognize relationships within the training data",
+        "A predictive model that treats true parameters as if they are noise",
+        "The discovery of unsubstantiated patterns that lead to prediction errors"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

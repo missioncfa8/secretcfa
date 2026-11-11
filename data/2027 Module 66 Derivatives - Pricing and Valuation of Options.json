@@ -1,0 +1,536 @@
+{
+  "title": "Module 66: Pricing and Valuation of Options",
+  "topic": "Derivatives",
+  "module_number": 66,
+  "module_name": "Pricing and Valuation of Options",
+  "year": 2027,
+  "items": [
+    {
+      "id": "17e00382-9a39-4b5e-b788-ef63282e8c9a",
+      "prompt": {
+        "text": "Which of the following statements correctly describes the put option and call option \npremiums given the relationship between Biomian’s current price of INR 295 and the \nexercise price equal to the forward price of INR 300.84?"
+      },
+      "choices": [
+        "The call option’s premium consists solely of time value, and the put option’s  \npremium consists solely of exercise value.",
+        "The call option’s premium consists solely of exercise value, and the put  option’s \npremium consists solely of time value.",
+        "The call option’s premium consists solely of time value, and the put option’s  \npremium consists solely of time value."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The exercise value of both the call and put options are zero because the \npresent value of the exercise price is INR 295, which is equivalent to the stock price \nof INR 295. Thus, both option premiums reflect time value only. A is incorrect as this \nstatement does not properly account for the discounting of the  exercise price. B is \nincorrect as the call option’s premium does not reflect exercise value."
+      }
+    },
+    {
+      "id": "b12a41f0-47e2-4e74-bac7-969c2f0b6429",
+      "prompt": {
+        "text": "Which of the following statements correctly describes an important distinction  \nbetween the two strategies of buying a put option and selling a call option with respect \nto option time value decay?"
+      },
+      "choices": [
+        "Time value decay is a benefit to both option strategies.",
+        "Time value decay is a cost to both option strategies.",
+        "Time value decay is a benefit to selling a call option and a cost to buying a  put \noption."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The time value component of an option premium declines toward zero as \ntime passes toward the expiration date. A purchased option declines in value, all else \nequal, because of the time value decline. A sold option increases in value, all else equal, \nbecause of the time value decline. A is incorrect as time value decay is a cost to the \npurchased put option strategy, and B is incorrect as time value decay is a benefit to \nthe sold option strategy."
+      }
+    },
+    {
+      "id": "5f351d3c-e474-42ff-b501-72bf42cedfb5",
+      "prompt": {
+        "text": "VFO is considering the purchase of the put option to hedge against a decline in  \nBiomian’s share price. Which of the following statements best characterizes the  \ntrade-off between the put and the forward based on no-arbitrage pricing?"
+      },
+      "choices": [
+        "The gain on the forward sale will equal the purchased put option’s profit at  \nmaturity provided the put option ends up in the money at maturity.",
+        "The loss on the forward sale will exceed the loss on the purchased put at maturity \nif Biomian’s share price exceeds the forward price by more than the  initial put \npremium paid.",
+        "We do not have enough information to answer this question, since we donot know \nthe time value of the option at maturity. \n \n \n \nPricing and Valuation of Options \nFaculty:                                                                                    Page 2 of 11"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct . The loss on the forward sale will be greater than the loss  on the \npurchased put at maturity if Biomian’s share price exceeds the forward price by more \nthan the initial put premium. VFO’s downside return is limited to  the put premium \npaid, while the forward sale has unlimited downside as Biomian  shares appreciate. A \nis incorrect as it does not take the put premium paid into account, while C is incorrect \nas the time value of an option is equal to zero at maturity."
+      }
+    },
+    {
+      "id": "b0092334-9dd3-4a27-b38c-fc81bcb65614",
+      "prompt": {
+        "text": "In evaluating the purchased put strategy (with X = F0(T)), the CIO has asked you to \nconsider selling the put in three months’ time if its price appreciates over that period. \nWhich of the following best characterizes the no-arbitrage put price at that time?"
+      },
+      "choices": [
+        "As VFO will exercise only if the spot price is below the exercise price, the lower \nbound of the put price is the greater of zero and the present value of  the spot \nprice minus the exercise price.",
+        "As VFO will exercise only if the spot price is below the exercise price, the upper \nbound of the put price equals the present value of the exercise price  minus the \nspot price.",
+        "The put price can be no greater than the forward price and no less than the  \ngreater of zero and the present value of the exercise price minus the spot price."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The put exercise price, X (equal to F0(T) in this case),  represents the \nupper bound on the put value, while the lower bound is the greater  of the present \nvalue of the exercise price minus the spot price and zero: \nMax(0,  𝑋(1 + 𝑟)−(𝑇−𝑡) − 𝑆𝑡) < 𝑝𝑡 ≤ 𝑋"
+      }
+    },
+    {
+      "id": "02ec5884-752f-4920-a8e4-2e0615cfd4cf",
+      "prompt": {
+        "text": "VFO is considering a sold call strategy to generate income from the sale of a call. In \nyour scenario analysis of the sold call option alternative, VFO has asked you to value \nthe call option in three months’ time if Biomian’s spot price is INR 325  per share. \nGiven an estimated call price of INR 46.41 at that time, which of the  following \ncorrectly reflects the relationship between the call’s exercise value and  its time \nvalue?"
+      },
+      "choices": [
+        "The call’s exercise value is INR 24.16, and its time value is INR 22.25.",
+        "The call’s exercise value is INR 27.10, and its time value is INR 19.31.",
+        "The call’s exercise value is INR 20.99, and its time value is INR 25.42."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The option price is equal to the sum of the exercise value and the time \nvalue. A call option’s exercise value is equal to the greater of zero and the spot price \nminus the present value of the exercise price: \n \nMax(0, 𝑆𝑡 − 𝑋(1 + 𝑟)−(𝑇−𝑡)) \n= Max(0,  INR 325 − INR 300.84(1.04)−0.25) \n= INR 27.10 \n \nThe time value is equal to the call price minus the exercise value, or INR 19.31 (= \nINR46.41 − INR27.10). A is incorrect as it takes the spot price minus the exercise \nprice as the exercise value, while C calculates the exercise value as the present value \nof the spot price minus the exercise price."
+      }
+    },
+    {
+      "id": "723f2cfc-5015-4d65-9516-5a05dcc59bf5",
+      "prompt": {
+        "text": "Which of the following statements correctly describes how VFO could replicate  \nselling a call option on Biomian if exercise is certain?"
+      },
+      "choices": [
+        "Borrow X(1 + r)–T at the risk-free rate and use the proceeds to buy Biomian stock \nat the current spot price, S0. At expiration, sell the Biomian stock and  use the \nproceeds to pay off the loan.",
+        "Sell short Biomian stock at the current spot price, S0, and use the proceeds  to \nlend X(1 + r) –T at the risk -free rate. At expiration, receive X as repayment  of \nthe risk-free loan and buy back the Biomian stock.",
+        "Sell short Biomian stock at the current spot price, S0, and borrow X(1 + r) –T at \nthe risk-free rate. At expiration, pay off the risk -free loan of X and buy  back \nthe Biomian stock."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. To replicate selling a call option, combine shorting the underlying  with \nrisk-free lending. This is exactly the opposite strategy to replicate buying  a call \nPricing and Valuation of Options \nFaculty:                                                                                    Page 8 of 11 \n \noption in which the underlying is purchased with proceeds from risk-free borrowing. \nA is incorrect as this statement describes replicating buying a call  inflows at t = 0 \nfollowed by two cash outflows at t = T."
+      }
+    },
+    {
+      "id": "01e62615-e629-47c6-8b2a-99520a6cf88b",
+      "prompt": {
+        "text": "In comparing the sold call and purchased put strategies at the forward price, VFO’s \nCIO is concerned about how an increase in the volatility of the underlying  Biomian \nshares affects option premiums. Which of the following statements  about volatility \nchange and its effect on strategy is most accurate?"
+      },
+      "choices": [
+        "An increase in the volatility of the underlying shares has the same effect on call \nand put option values, so this change should not affect VFO’s strategy decision. \nPricing and Valuation of Options \nFaculty:                                                                                    Page 3 of 11",
+        "Since changes in the volatility of the underlying shares have the opposite effect \non put versus call options, this change will increase the attractiveness of the put \nstrategy versus the call strategy.",
+        "An increase in the volatility of the underlying shares will increase both the  cost \nof the purchased put strategy and the premium received on the sold call strategy, \nso this change will increase the attractiveness of the call strategy versus the put \nstrategy."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. An increase in the volatility of the underlying share  price will increase \nboth the upfront premium received on the sold call option and  the premium paid on \nthe purchased put option. Therefore, since the purchased  put strategy involves an \nincreased upfront payment made by VFO and the sold  call strategy involves an \nincreased premium received, the volatility increase will  increase the attractiveness \nof the call strategy versus the put strategy."
+      }
+    },
+    {
+      "id": "03215e5e-a4ea-4209-9996-b803e4e26481",
+      "prompt": {
+        "text": "In comparing the Biomian purchased put and sold call strategies, which of the  \nfollowing statements is most correct about how the call and put values are affected \nby changes in factors other than volatility?"
+      },
+      "choices": [
+        "Changes in the time to expiration and the risk-free rate have a similar directional \neffect on the put and call strategies, while changes in the exercise price tend to \nhave the opposite effect.",
+        "Changes in the time to expiration tend to have a similar directional effect on the \nput and call strategies, while changes in the exercise price and the risk-free rate \ntend to have the opposite effect.",
+        "Changes in the risk-free rate have a similar directional effect on the put and call \nstrategies, while changes in the exercise price and the time to expiration tend to \nhave the opposite effect."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Changes in the time to expiration tend to have a similar  directional \neffect on the put and call strategies (the only exception being deep-in-the-money put \noptions in some cases), while changes in the exercise  price and the risk -free rate \ntend to have the opposite effect."
+      }
+    },
+    {
+      "id": "7d588f26-b8b4-429a-af59-8633114313f6",
+      "prompt": {
+        "text": "VFO is concerned about the potential for increasing interest rates in the future.  \nWhich of the following statements provides the most correct description as to  how \nrising rates after entering into the two option strategies would affect the  option \nvaluations?"
+      },
+      "choices": [
+        "Rising risk -free rates would make the selling a call option strategy more  \nadvantageous to VFO because call options increase in value with higher risk-free \nrates.",
+        "Rising risk -free rates would make the buying a put option strategy more  \nadvantageous to VFO because the company locks in the put option premium  at \nlower interest rates.",
+        "Rising risk-free rates are a negative for both option strategies."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Because both option strategies (buy a put or sell a call) are short  \nstrategies, VFO is delaying cash inflows so higher risk -free rates are negative. A is \nincorrect as this statement describes the value effect from buying a call option, not \nfrom selling. B is incorrect as the locked-in premium will decline after rising risk-free \nrates."
+      }
+    },
+    {
+      "id": "adceceb6-1cf0-42f6-af80-d5abf59a154d",
+      "prompt": {
+        "text": "If dividends paid by the underlying increase, the value of a European call option will \nmost likely:"
+      },
+      "choices": [
+        "not change.",
+        "increase.",
+        "decrease. \n \n \n \nPricing and Valuation of Options \nFaculty:                                                                                    Page 4 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A European call option is worth less the more dividends are paid by the \nunderlying."
+      }
+    },
+    {
+      "id": "32f87218-f6ac-4a76-91e5-ddb65499b3d4",
+      "prompt": {
+        "text": "If the exercise price of a European put option at expiration is below the price of the \nunderlying, the value of the option is most likely:"
+      },
+      "choices": [
+        "equal to zero.",
+        "less than zero.",
+        "greater than zero."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. If the exercise price of a European put option is below the underlying \nprice at expiration, the option is worthless and has a value of zero."
+      }
+    },
+    {
+      "id": "b49c2761-f2da-4f28-903a-7300770847cd",
+      "prompt": {
+        "text": "All, else held equal, the value of a European call option is best characterized as \nhaving a:"
+      },
+      "choices": [
+        "negative relationship with the price of the underlying.",
+        "negative relationship with the volatility of the underlying.",
+        "positive relationship with the time to expiration."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The value of a European call option is directly related to the time to \nexpiration. That is, all else held equal, the value of a European call option is higher \nthe longer the time to expiration."
+      }
+    },
+    {
+      "id": "9fcf0d20-9e4d-447c-8aff-5ea7d0ce78a8",
+      "prompt": {
+        "text": "The upper bound of a call value is the:"
+      },
+      "choices": [
+        "underlying's price.",
+        "underlying’s price plus the present value of its exercise price or zero, whichever \nis greater.",
+        "underlying’s price minus the present value of its exercise price or zero, \nwhichever is greater."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the upper no-arbitrage bound of a call value is the underlying's \nspot price."
+      }
+    },
+    {
+      "id": "3dd02457-0cb1-4100-bf57-6d2416dab27c",
+      "prompt": {
+        "text": "If the price of the underlying is $57, which of the following long option positions is \nout of the money? A:"
+      },
+      "choices": [
+        "put with a strike price of $60",
+        "put with a strike price of $50",
+        "call with a strike price of $50"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when the underlying has not reached the exercise price \n(currently lower for a call, higher for a put), the option is said to be out-of-the-\nmoney. In this case, as the underlying price of $57 is higher than the strike price \nof $50, the put is out of the money."
+      }
+    },
+    {
+      "id": "2791fb62-f4b2-42e8-a844-079d05b85370",
+      "prompt": {
+        "text": "A put option with the greatest moneyness has a strike price:"
+      },
+      "choices": [
+        "less than the price of the underlying.",
+        "equal to the price of the underlying.",
+        "greater than the price of the underlying."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when the underlying is beyond the exercise price in the \nappropriate direction (higher for a call, lower for a put), the option is said to be in -\nPricing and Valuation of Options \nFaculty:                                                                                    Page 9 of 11 \n \nthe-money. In addition, for puts to expire in-the-money, the value of the underlying \nmust fall below the exercise price. The higher the exercise price, the better chance \nthe underlying has of getting below it. Likewise, if the value of the underlying does \nfall below the exercise price, the higher the exercise price, the greater the payoff. \nSo, if X is higher, ST will be below it more often, and if ST is less than X, the payoff \nof X – ST is greater, the higher is X for whatever value of S T occurs. Therefore, a \nput option with the greatest moneyness has a strike price greater than the price of \nthe underlying."
+      }
+    },
+    {
+      "id": "046e37bd-1e20-45e7-bd98-358a90683a35",
+      "prompt": {
+        "text": "Which of the following European options has the greatest value at expiration? A:"
+      },
+      "choices": [
+        "call with an exercise price of 72 and an underlying priced at 83",
+        "call with an exercise price of 83 and an underlying priced at 70",
+        "put with an exercise price of 70 and an underlying priced at 83"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the value of the call option at expiration is the greater of either \nzero or the underlying price at expiration minus the exercise price, which is typically \nwritten as: c T = Max(0,S T – X), where c T= call option price at expiration and S T= \nunderlying price at expiration. Therefore, a call option with an exercise price of 72 \nand an underlying priced at 83 will have a value: cT = Max(0, 83 – 72)= 11."
+      }
+    },
+    {
+      "id": "9e6058db-bb31-48d5-b286-e01c89b6ae49",
+      "prompt": {
+        "text": "All else being equal, if the exercise values of a European call option and a European \nput option on the same underlying are equal, both options must be:"
+      },
+      "choices": [
+        "in-the-money options.",
+        "at-the-money options.",
+        "out-of-the-money options."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the value of a European call at expiration is the exercise value, \nwhich is the greater of zero or the value of the underlying minus the exercise \nprice. And the value of a European put at expiration is the exercise value, which is \nthe greater of ze ro or the exercise price minus the value of the underlying.  This \nmeans if the call option is in -the-money (out-of-the-money), the put option of the \nsame strike will be out-of-the-money (in-the-money). That is, if the exercise value of \na call (put) option is positive, the exercise value of a put (call) option will be zero. But \nwhen the underlying is precisely at the exercise price (the option is said to be at -\nthe-money), the exercise value of a European call and a European put will the same, \nwhich is zero. Therefore, all else being equal, if the exercise values of a European call \noption and a European put option are the same, then the European call and the \nEuropean put must be both at-the-money options."
+      }
+    },
+    {
+      "id": "9a95491d-24dc-42d1-bc3b-b029354b8b22",
+      "prompt": {
+        "text": "The value of a long position in a European put option is directly related to the:"
+      },
+      "choices": [
+        "exercise price.",
+        "risk-free interest rate. \nPricing and Valuation of Options \nFaculty:                                                                                    Page 5 of 11",
+        "value of the underlying."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the value of a European put option is directly related to the \nexercise price."
+      }
+    },
+    {
+      "id": "7b753a10-ba1e-49bd-a9b0-5a8e441c99c5",
+      "prompt": {
+        "text": "The current price of the underlying is $7.40 and the annual risk-free rate is 6%. \nThe minimum price for a 6-month call option with a strike price of $7.50 \nis closest to:"
+      },
+      "choices": [
+        "$0.00.",
+        "$0.12.",
+        "$0.31."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the price for a European call option is known to satisfy the \nformula c0 ≥ Max[0,S0 – X/(1 + r)T] where c0 is the current price of the European \ncall option, S0 is the current stock price, X is the strike price, r is the risk-free \ninterest rate and T is time.  Therefore the minimum price is equal to Max[0,$7.40 – \n$7.50/(1.06)6/12] = Max[0,$7.40 – $7.28] = Max[0,$0.12] = $0.12."
+      }
+    },
+    {
+      "id": "96c026a0-be57-4200-aa73-4cc5171541c1",
+      "prompt": {
+        "text": "The upper bound of a put value is the:"
+      },
+      "choices": [
+        "exercise price.",
+        "price of the underlying.",
+        "present value of the exercise price minus the spot price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the exercise price, X, therefore represents the upper bound on \nthe put value."
+      }
+    },
+    {
+      "id": "57c946e3-41d7-4c9a-a1ef-f795a0e0628c",
+      "prompt": {
+        "text": "The value of a European call option is inversely related to the:"
+      },
+      "choices": [
+        "exercise price.",
+        "time to expiration.",
+        "risk-free interest rate."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the value of a European call option is inversely related to the \nexercise price. \nPricing and Valuation of Options \nFaculty:                                                                                    Page 10 of 11"
+      }
+    },
+    {
+      "id": "66206a1c-b2ca-4bda-853f-1bcbb7a6089b",
+      "prompt": {
+        "text": "All else being equal, if the risk-free rate increases, the value of a European put \noption:"
+      },
+      "choices": [
+        "decreases.",
+        "remains the same.",
+        "increases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the value of a European put is inversely related to the risk-\nfree interest rate. Therefore, an increase in the risk-free rate decreases the value \nof a European put option."
+      }
+    },
+    {
+      "id": "e18f8ff8-1c81-4628-9aa5-7521208b5532",
+      "prompt": {
+        "text": "For a European call option with one month until expiration, if the spot price is below \nthe exercise price, the call option most likely has:"
+      },
+      "choices": [
+        "positive time value only.",
+        "positive intrinsic value only.",
+        "both positive time value and positive intrinsic value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a European call option with two months until expiration will \ntypically have positive time value, where time value reflects the value of the \nuncertainty that arises from the volatility in the underlying. In addition, cT = Max (0, \nST – X) or intrinsic value equals the greater of zero or the value of the underlying \nminus exercise price.  The call option is out -of-the-money and therefore, has zero \nintrinsic value."
+      }
+    },
+    {
+      "id": "72a2540f-0ccc-4486-a3f8-f88538133c1f",
+      "prompt": {
+        "text": "When the strike price of a call option is lower, the likelihood of the option expiring \nin-the-money is:"
+      },
+      "choices": [
+        "lower.",
+        "unchanged.",
+        "higher."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for a call option, a lower exercise price has two benefits. One \nis that there are more values of the underlying at expiration that are above the \nexercise price, meaning that there are more outcomes in which the call expires in-\nthe-money."
+      }
+    },
+    {
+      "id": "b76deb9c-1ea5-4f3b-b58d-3d9416758beb",
+      "prompt": {
+        "text": "The value of a European put is directly related to the:"
+      },
+      "choices": [
+        "risk-free rate.",
+        "exercise price.",
+        "value of the underlying. \n \n \nPricing and Valuation of Options \nFaculty:                                                                                    Page 6 of 11"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the value of a European put option is directly related to the \nexercise price."
+      }
+    },
+    {
+      "id": "23ad5335-8a6f-4847-83c2-368fac3863e3",
+      "prompt": {
+        "text": "Before expiration, if the price of the underlying is above the exercise price, the \nEuropean put option has a positive:"
+      },
+      "choices": [
+        "time value.",
+        "intrinsic value.",
+        "exercise value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if the underlying is equal to or worth more than the exercise \nprice at expiration ( ST ≥ X), the put will simply expire with no value. So, the put is \nworth the greater of either zero or the exercise price minus the price of the \nunderlying at expiration. Also, the time value of an option is the difference between \nthe market price of the option and its intrinsic value. As the price of the underlying \nis above the exercise price the put has a zero exercise value and only a positive time \nvalue."
+      }
+    },
+    {
+      "id": "fabdd58f-2aae-4141-9466-9da1372b1537",
+      "prompt": {
+        "text": "All else being equal, which of the following European put options on the same \nunderlying most likely has the highest value? \n  Time to Expiration Exercise Price \nOption 1 2 months $52 \nOption 2 4 months $52 \nOption 3 4 months $58"
+      },
+      "choices": [
+        "Option 1",
+        "Option 2",
+        "Option 3"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the value of a European put option is directly related to the \nexercise price. Also, The value of a European put option can be either directly or \ninversely related to the time to expiration. The direct effect is more \ncommon. Option 1 and Option 2 have the same exercise price, but Option 2 has a \nlonger time to expiration. So, Option 2 is more likely to have a higher value than \nOption 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has \na higher exercise price. So, Option 3 is most likely to have a higher value than \nOption 2."
+      }
+    },
+    {
+      "id": "76719fd0-e570-414d-b2ba-e4ff850a3d4c",
+      "prompt": {
+        "text": "Which of the following is equal to the greater of zero or the present value of the \nexercise price minus the spot price?"
+      },
+      "choices": [
+        "The lower bound of a put option",
+        "The lower bound of a call option",
+        "The upper bound of a put option"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a put option buyer will exercise only if the spot price,  ST, is \nbelow X at maturity. The exercise price, X, therefore represents the upper bound on \nthe put value. The lower bound is the present value of the exercise price minus the \nspot price or zero, whichever is greater.  \nPricing and Valuation of Options \nFaculty:                                                                                    Page 11 of 11"
+      }
+    },
+    {
+      "id": "a54706d9-2988-4689-abe2-49156b138457",
+      "prompt": {
+        "text": "The upper bound of a call price is the:"
+      },
+      "choices": [
+        "exercise price.",
+        "price of the underlying.",
+        "underlying’s price minus the present value of the exercise price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the call buyer will not pay more for the right to purchase an \nunderlying than the price of that underlying, which is the upper bound."
+      }
+    },
+    {
+      "id": "3cfcaae1-9a9e-4f7d-be5e-3c537f17501c",
+      "prompt": {
+        "text": "Which of the following is most accurate regarding a call option replication \nstrategy?"
+      },
+      "choices": [
+        "The strategy requires adjustment over the life of the option contract based on \nthe likelihood of exercise",
+        "If the call option is exercised, the strategy requires purchasing the underlying \nfrom the proceeds of the loan",
+        "At inception, the strategy requires buying long a forward contract on the \nunderlying and borrowing at the risk free rate"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the non -linear payoff profile of an option requires that the \nreplicating transaction be adjusted as this likelihood changes, while the replicating \ntrades for a forward commitment remain constant.  Also, as in the case of the call \noption, the asymme tric payoff profile requires adjustment over time based on \nthe likelihood of exercise."
+      }
+    },
+    {
+      "id": "e0536abb-2520-467a-a841-99f21487d5be",
+      "prompt": {
+        "text": "Holding other factors constant, the value of a European put option will most likely \ndecrease as the:"
+      },
+      "choices": [
+        "risk-free interest rate increases.",
+        "volatility of the underlying increases.",
+        "value of the underlying decreases. \n \n \nPricing and Valuation of Options \nFaculty:                                                                                    Page 7 of 11"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. The value of a European put option will decrease as the risk -free \ninterest rate increases."
+      }
+    }
+  ]
+}

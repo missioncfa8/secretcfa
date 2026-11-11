@@ -1,0 +1,366 @@
+{
+  "title": "Module 25: Analyzing Balance Sheets",
+  "topic": "Financial Statement Analysis",
+  "module_number": 25,
+  "module_name": "Analyzing Balance Sheets",
+  "year": 2027,
+  "items": [
+    {
+      "id": "92abc9f2-dce5-4dd2-8b93-d0eaf6b6b9c0",
+      "prompt": {
+        "text": "All of the following are current assets except:"
+      },
+      "choices": [
+        "cash.",
+        "goodwill.",
+        "inventories."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Goodwill is a long -term asset, and cash and inventories are current  \nassets."
+      }
+    },
+    {
+      "id": "e5855355-3f16-4d60-aba8-39634738fa11",
+      "prompt": {
+        "text": "The initial measurement of goodwill is most likely affected by:"
+      },
+      "choices": [
+        "an acquisition’s purchase price.",
+        "the acquired company’s book value.",
+        "the fair value of the acquirer’s assets and liabilities."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Initially, goodwill is measured as the difference between the purchase  \nprice paid for an acquisition and the fair value of the acquired, not acquiring,  \ncompany’s net assets (identifiable assets less liabilities)."
+      }
+    },
+    {
+      "id": "bfcd5744-0d6d-4134-b2cd-4418d7f08f34",
+      "prompt": {
+        "text": "For financial assets classified as trading securities, how are unrealized gains and  \nlosses reflected in shareholders’ equity?"
+      },
+      "choices": [
+        "They are not recognized.",
+        "They flow through income into retained earnings.",
+        "They are a component of accumulated other comprehensive income."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. For financial assets classified as trading securities, unrealized gains and \nlosses are reported on the income statement and flow to shareholders’ equity as part \nof retained earnings."
+      }
+    },
+    {
+      "id": "0747fac6-509f-4a58-a8d6-9d6a516e926c",
+      "prompt": {
+        "text": "For financial assets classified as available for sale, how are unrealized gains and  \nlosses reflected in shareholders’ equity?"
+      },
+      "choices": [
+        "They are not recognized.",
+        "They flow through retained earnings.",
+        "They are a component of accumulated other comprehensive income."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. For financial assets classified as available for sale, unrealized gains and \nlosses are not recorded on the income statement and instead are part of other  \ncomprehensive income. Accumulated other comprehensive income is a component  of \nshareholders’ equity."
+      }
+    },
+    {
+      "id": "296657ef-c3bf-4c88-8062-69a77b888299",
+      "prompt": {
+        "text": "For financial assets classified as held to maturity, how are unrealized gains and losses \nreflected in shareholders’ equity?"
+      },
+      "choices": [
+        "They are not recognized.",
+        "They flow through retained earnings.",
+        "They are a component of accumulated other comprehensive income."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Financial assets classified as held to maturity are measured at \namortized cost. Gains and losses are recognized only when realized."
+      }
+    },
+    {
+      "id": "2329425d-4187-4a78-8456-84791917dcbc",
+      "prompt": {
+        "text": "A company has total liabilities of GBP35 million and total stockholders’ equity  of \nGBP55 million. Total liabilities are represented on a vertical common -size balance \nsheet by a percentage closest to:"
+      },
+      "choices": [
+        "35 percent.",
+        "39 percent.",
+        "64 percent."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Vertical common-size analysis involves stating each balance sheet  item \nas a percentage of total assets. Total assets are the sum of total liabilities  (GBP35 \nmillion) and total stockholders’ equity (GBP55 million), or GBP90  million. Total \nliabilities are shown on a vertical common -size balance sheet as  (GBP35 million ÷ \nGBP90 million) ≈ 39%."
+      }
+    },
+    {
+      "id": "04c2378d-399f-43bd-9228-5c05cef43378",
+      "prompt": {
+        "text": "Which of the following would an analyst most likely be able to determine from a  \ncommon-size analysis of a company’s balance sheet over several periods?"
+      },
+      "choices": [
+        "An increase or decrease in sales",
+        "An increase or decrease in financial leverage",
+        "A more efficient or less efficient use of assets \n \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 2 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A common -size balance sheet analysis provides information about  the \ncomposition of the balance sheet and it changes over time. As a result, it can provide \ninformation about an increase or decrease in a company’s financial leverage."
+      }
+    },
+    {
+      "id": "735f000d-0a64-4ba6-8ba7-df6eb97fb639",
+      "prompt": {
+        "text": "Defining total asset turnover as revenue divided by average total assets, all else  \nequal, impairment write-downs of long-lived assets owned by a company will most likely \nresult in an increase for that company in:"
+      },
+      "choices": [
+        "the debt-to-equity ratio but not the total asset turnover.",
+        "the total asset turnover but not the debt-to-equity ratio.",
+        "both the debt-to-equity ratio and the total asset turnover."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Impairment write-downs reduce equity in the denominator of the debt-\nto-equity ratio but do not affect debt, so the debt -to-equity ratio is expected  to \nincrease. Impairment write -downs reduce total assets but do not affect revenue.   \nThus, total asset turnover is expected to increase."
+      }
+    },
+    {
+      "id": "64f097c8-2de9-4ea1-995f-ce7883ea8d0c",
+      "prompt": {
+        "text": "An investor concerned about a company’s ability to meet its near-term obligations is \nmost likely to calculate the:"
+      },
+      "choices": [
+        "current ratio.",
+        "return on total capital.",
+        "financial leverage ratio."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The current ratio provides a comparison of assets that can be turned  \ninto cash relatively quickly and liabilities that must be paid within one year. The other \nratios are more suited to evaluate longer-term concerns."
+      }
+    },
+    {
+      "id": "3f7bc6fa-3d16-4f2a-b1e3-b163d42c7d60",
+      "prompt": {
+        "text": "The most stringent test of a company’s liquidity is its:"
+      },
+      "choices": [
+        "cash ratio.",
+        "quick ratio.",
+        "current ratio."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The cash ratio determines how much of a company’s near -term \nobligations can be settled with existing amounts of cash and marketable securities."
+      }
+    },
+    {
+      "id": "d284cc6e-1b08-4591-8c11-b41fce67c7f7",
+      "prompt": {
+        "text": "An investor worried about a company’s long-term solvency would most likely examine \nits:"
+      },
+      "choices": [
+        "current ratio.",
+        "return on equity.",
+        "debt-to-equity ratio. \n \nThe following information relates to questions 12 – 15. \nConsider the common-size balance sheets in Exhibit 1 for Company A, Company B, as well \nas the industry average.  \nExhibit 1 Balance Sheet and Industry Average \n  \nCompany \nA  \nCompany \nB  \nIndustry \nAverage \nASSETS \n      \nCurrent assets \n     \n Cash and cash equivalents 5 \n \n5 \n \n7 \n Marketable securities 5 \n \n0 \n \n2 \n Accounts receivable, net 5 \n \n15 \n \n12 \n Inventories 15 \n \n20 \n \n16 \n Prepaid expenses 5 \n \n15 \n \n11 \nTotal current assets 35 \n \n55 \n \n48 \n \nProperty, plant, and \nequipment, net \n40 \n \n35 \n \n37 \n Goodwill 25 \n \n0 \n \n8 \n Other assets 0 \n \n10 \n \n7 \nTotal assets 100 \n \n100 \n \n100 \n      \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 3 of 8 \n \nLIABILITIES AND SHAREHOLDERS’ \nEQUITY      \nCurrent liabilities \n     \n Accounts payable 10 \n \n10 \n \n10 \n Short-term debt 25 \n \n10 \n \n15 \n Accrued expenses 0 \n \n5 \n \n3 \nTotal current liabilities 35 \n \n25 \n \n28 \n Long-term debt 45 \n \n20 \n \n28 \n Other non-current liabilities 0 \n \n10 \n \n7 \nTotal liabilities 80 \n \n55 \n \n63 \n Total shareholders’ equity 20 \n \n45 \n \n37 \nTotal liabilities and shareholders’ \nequity \n100 \n \n100 \n \n100"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The debt -to-equity ratio, a solvency ratio, is an indicator of financial  \nrisk. \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 7 of 8"
+      }
+    },
+    {
+      "id": "b74c8bf5-d3d7-4d11-be75-3b1e0047ab24",
+      "prompt": {
+        "text": "Which statement is correct?"
+      },
+      "choices": [
+        "Company A has below-average liquidity risk.",
+        "Company B has above-average solvency risk.",
+        "Company A has made one or more acquisitions."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The presence of goodwill on Company A’s balance sheet signifies that it \nhas made one or more acquisitions in the past. The current, cash, and quick ratios are \nlower for Company A than for the sector average. These lower  liquidity ratios imply \nabove-average liquidity risk. The total debt, long -term debt-to-equity, debt -to-\nequity, and financial leverage ratios are lower for Company  B than for the sector \naverage. These lower solvency ratios imply below-average solvency risk.  \n \nCurrent ratio is (35 ÷ 35) = 1.00 for Company A, versus (48 ÷ 28) = 1.71 for the sector \naverage. \n \nCash ratio is (5 + 5) ÷35 = 0.29 for Company A, versus (7 + 2) ÷28  = 0.32 for the \nsector average. \n \nQuick ratio is (5 + 5 + 5) ÷35 = 0.43 for Company A, versus (7 + 2 + 12) ÷28 = 0.75 for \nthe sector average. \n \nTotal debt ratio is (55 ÷ 100) = 0.55 for Company B, versus (63 ÷ 100) = 0.63 for the \nsector average. \n \nLong-term debt-to-equity ratio is (20 ÷ 45) = 0.44 for Company B, versus (28 ÷ 37) \n= 0.76 for the sector average. \n \nDebt-to-equity ratio is (55 ÷ 45) = 1.22 for Company B, versus (63 ÷ 37)  = 1.70 for \nthe sector average. \n \nFinancial leverage ratio is (100 ÷ 45) = 2.22 for Company B, versus (100 ÷ 37)  = 2.70 \nfor the sector average."
+      }
+    },
+    {
+      "id": "9433aacb-e0d5-4874-83de-d7ad7027c847",
+      "prompt": {
+        "text": "The quick ratio for Company A is closest to:"
+      },
+      "choices": [
+        "0.43.",
+        "0.57.",
+        "1.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The quick ratio is defined as (Cash and cash equivalents + Marketable  \nsecurities + receivables) ÷ Current liabilities. For Company A, this calculation  is (5 + \n5 + 5) ÷ 35 = 0.43."
+      }
+    },
+    {
+      "id": "97b94987-3fc5-4378-bde3-e15298edbd4a",
+      "prompt": {
+        "text": "The financial leverage ratio for Company B is closest to:"
+      },
+      "choices": [
+        "0.55.",
+        "1.22.",
+        "2.22."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The financial leverage ratio is defined as Total assets ÷ Total equity. For \nCompany B, total assets are 100 and total equity is 45; hence, the financial  leverage \nratio is 100 ÷ 45 = 2.22."
+      }
+    },
+    {
+      "id": "6d27f581-8a6e-4aac-9e26-cab5b1a8df00",
+      "prompt": {
+        "text": "Which ratio indicates lower liquidity risk for Company A compared with Company B?"
+      },
+      "choices": [
+        "Cash ratio",
+        "Quick ratio",
+        "Current ratio"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A higher cash ratio reflects lower liquidity risk. The cash ratio is defined \nas (Cash + Marketable securities) ÷ Current liabilities. Company A’s cash ratio, (5 + 5) \n÷ 35 = 0.29, is higher than (5 + 0) ÷ 25 = 0.20 for Company B."
+      }
+    },
+    {
+      "id": "34b8a5b1-37b4-42b1-a927-4842a28aab85",
+      "prompt": {
+        "text": "Use the following common -size balance sheet information to answer the question \nbelow. \nAssets Company X Company Y Company Z     \nCash and cash equivalents 15.6% 12.0% 2.0% \nMarketable securities 3.4% 5.1% 12.0% \nTrade and other receivables 10.9% 12.7% 4.8% \nOther non-financial assets 14.3% 11.7% 7.4% \nTotal current assets 44.2% 41.5% 26.2%  \nGoodwill 1.6% 2.2% 28.8% \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 4 of 8 \n \nAssets Company X Company Y Company Z \nIntangible assets 17.6% 7.0% 24.0% \nProperty, plant, and equipment 17.7% 25.3% 8.2% \nOther financial assets 12.4% 24.0% 9.6% \nOther non-financial assets 0.3% 0.0% 2.1% \nDeferred tax assets 6.2% 0.0% 1.1% \nTotal non-current assets 55.8% 58.5% 73.8%  \nTotal assets 100.0% 100.0% 100.0%  \nLiabilities and shareholders’ equity \n   \nTrade and other payables 3.4% 3.5% 2.1% \nBank loans and other financial liabilities 8.4% 3.2% 6.0% \nOther non-financial liabilities 5.0% 11.7% 9.0% \nDeferred income 11.8% 9.8% 0.0% \nTotal current liabilities 28.6% 28.2% 17.1% \nFinancial liabilities 18.4% 18.3% 17.4% \nOther non-financial liabilities 12.8% 5.7% 7.9% \nDeferred tax liabilities 2.5% 4.2% 18.6% \nTotal non-current liabilities 33.7% 27.5% 43.9% \nTotal liabilities 62.3% 55.7% 61.0%  \nTotal shareholders’ equity 37.7% 44.3% 39.0% \nTotal liabilities and shareholders’ equity 100.0% 100.0% 100.0% \n \nWhich company is most likely to have grown through acquisitions?"
+      },
+      "choices": [
+        "Company X",
+        "Company Y",
+        "Company Z"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Company Z has the highest percentage of assets in goodwill at 28.8%, \nwith the other companies having much smaller percentages (1.6% for Company X and \n2.2% for Company Y). Because goodwill is an asset recognized by acquirers purchasing \ncompanies at prices above the fair value of their identifiable assets and liabilities, it \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 8 of 8 \n \nis most likely, given the great disparity in goodwill, that of these firms, Company Z \nhas grown through acquisitions."
+      }
+    },
+    {
+      "id": "c1b934a5-9956-41b3-8e8b-b1299de55536",
+      "prompt": {
+        "text": "Deferred tax liabilities result when:"
+      },
+      "choices": [
+        "taxable income in a period is less than reported financial statement income before \ntaxes.",
+        "items of expense are included in financial statement income in earlier periods than \nthose for which taxable income is reported.",
+        "straight-line depreciation methods are used for tax purposes and accelerated \nmethods are employed for financial statement purposes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Deferred tax liabilities result when, for a given period, taxable income \nand the associated income tax payable are less than the reported financial statement \nincome before taxes and the associated income tax expense."
+      }
+    },
+    {
+      "id": "9b1088e8-6725-4e0a-a1dc-cac18de392ac",
+      "prompt": {
+        "text": "Accounting goodwill arising from acquisitions is:"
+      },
+      "choices": [
+        "expensed in the period it arises.",
+        "capitalized and amortized over a finite period.",
+        "capitalized and tested for impairment annually. \n \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 5 of 8"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because under both IFRS and US GAAP, accounting goodwill arising from \nacquisitions is capitalized. Goodwill is not amortised but is tested for impairment \nannually. If goodwill is deemed to be impaired, an impairment loss is charged against \nincome in the current period."
+      }
+    },
+    {
+      "id": "3384d3e2-3275-4710-aaf4-787b7357475b",
+      "prompt": {
+        "text": "A company reporting under US GAAP purchases an equity security issued by another \ncompany.  If the equity security represents less than 1% of the outstanding equity \nof the issuing company and the acquiring company owns no other equity stake in the \nissuing company, the investment is most likely carried on the acquiring company's \nbalance sheet at:"
+      },
+      "choices": [
+        "amortized cost.",
+        "fair value with any unrealized holding gains/losses recognized in the income \nstatement.",
+        "fair value with any unrealized holding gains/losses recognized in other \ncomprehensive income."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because under US GAAP, all investments in equity securities (other than \ninvestments giving rise to ownership positions that confer significant influence over \nthe investee) are measured at fair value with unrealized holding gains or losses \nrecognized in the income statement."
+      }
+    },
+    {
+      "id": "9f9c5c33-dca8-4820-8de3-0e0558ae5f55",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nCash and cash equivalents 40 \nTotal current assets 125 \nTotal non-current assets 35 \nRevenue 200 \n \nApplying vertical common-size analysis to the company's balance sheet, cash and cash \nequivalents are:"
+      },
+      "choices": [
+        "20%.",
+        "25%.",
+        "32%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect because vertical common -size analysis, involves stating each balance \nsheet item as a percentage of total assets. Accordingly, Cash and cash equivalents is \nstated as a percentage of Total assets = Cash and cash equivalents / (Total current \nassets + Total non-current assets) = 40 / (125 + 35) = 40 / 160 = 25%."
+      }
+    },
+    {
+      "id": "b4c61060-f728-4e7f-9c5b-a5c80d0ba84c",
+      "prompt": {
+        "text": "A copyright, for which an active market exists, has a set finite life and is used in a \ncompany's operations over more than one fiscal period. Under U.S. GAAP, this \ncopyright is reported using:"
+      },
+      "choices": [
+        "only the cost model.",
+        "only the revaluation model.",
+        "either the cost or the revaluation model. \n \n \n \n \n  \nAnalyzing Balance Sheets \nFaculty:                                                                         Page 6 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because, under US GAAP, companies are required to use the cost model \nto value intangible assets. IFRS allow companies to value intangible assets under a \ncost model or under a revaluation model. The revaluation model can only be selected \nwhen there is an active market for an intangible asset."
+      }
+    }
+  ]
+}

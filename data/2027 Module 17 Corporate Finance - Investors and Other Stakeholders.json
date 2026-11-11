@@ -1,0 +1,162 @@
+{
+  "title": "Module 17: Investors and Other Stakeholders",
+  "topic": "Corporate Finance",
+  "module_number": 17,
+  "module_name": "Investors and Other Stakeholders",
+  "year": 2027,
+  "items": [
+    {
+      "id": "d953d008-f709-484b-86d6-17975119bae5",
+      "prompt": {
+        "text": "Which of the following is most consistent with good corporate governance \npractices?"
+      },
+      "choices": [
+        "All stakeholders should have the right to participate in the governance of the \nfirm.",
+        "An audit committee that benefits from the direct guidance of management.",
+        "Appropriate controls and procedures to effectively manage the firm should be in \nplace."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Effective corporate governance requires a system of appropriate \ncontrols and procedures to protect financial markets and investors."
+      }
+    },
+    {
+      "id": "52bf5d9f-f62e-479f-8e33-b5a76bab960d",
+      "prompt": {
+        "text": "The primary motivation of activist shareholders is to promote:"
+      },
+      "choices": [
+        "improved shareholder value.",
+        "environmentally sustainable business practices.",
+        "consideration of human rights in employee relations."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. The primary motivation of activist shareholders is to increase \nshareholder value. If they feel management or the board has failed to act in the best \ninterests of shareholders, they may attempt to force changes by gaining control of \nthe board."
+      }
+    },
+    {
+      "id": "159753d8-7320-4903-9608-1ece9c0d464d",
+      "prompt": {
+        "text": "Which of the following statements about a mature company's stakeholders \nis most accurate?"
+      },
+      "choices": [
+        "Equity represents a cheaper financing source for companies",
+        "Shareholders are residual claimants to the company after all other stakeholders \nhave been paid",
+        "Dividend payments to company shareholders are generally treated as a tax -\ndeductible expense for the company"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because debtholders have a prior legal claim on the company’s cash flows \nand assets over the claims of equity owners. Equityholders [shareholders] are \ntherefore residual claimants to the company after all other stakeholders have been \npaid, including  creditors (interest/principal), suppliers (accounts payable), \ngovernment (taxes), and employees (wages)."
+      }
+    },
+    {
+      "id": "3c124828-fd30-4e70-a76f-f35e3fa276a0",
+      "prompt": {
+        "text": "Which of the following statements about corporations is most accurate?"
+      },
+      "choices": [
+        "Upside return potential is unlimited for both equity holders and debtholders",
+        "Equity is riskier than debt from the perspective of both investors and issuers",
+        "Losses for both equity holders and debtholders are limited to their initial \ninvestment"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because shareholder losses are limited to their initial investment. For \nboth equity holders and debtholders, their initial investment represents their \nmaximum possible loss."
+      }
+    },
+    {
+      "id": "c9fd448b-59d8-43f8-9804-ce6b7fde522c",
+      "prompt": {
+        "text": "Which of the following is most accurate?"
+      },
+      "choices": [
+        "Risk appetites are similar among private lenders",
+        "Staggered boards provide continuous implementation of strategy and oversight",
+        "A company's CEO is responsible for implementing the company’s strategy under \nthe oversight of the company's shareholders"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the positive aspect of a staggered board  is that it provides \ncontinuous implementation of strategy and oversight without constantly being \nreassessed by new board members, which otherwise risks bringing short-termism into \ncompany strategy."
+      }
+    },
+    {
+      "id": "299cf1fd-4c38-43f6-bb0d-e858d276fda1",
+      "prompt": {
+        "text": "A corporation's stakeholders most likely include:"
+      },
+      "choices": [
+        "shareholders only.",
+        "controlling shareholders only.",
+        "all shareholders and all employees."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the primary stakeholder groups of a corporation consist of \nshareholders, creditors, managers (or executives), other employees, board of \ndirectors, customers, suppliers, and governments/regulators (and, by extension, \naffected individuals and community groups)."
+      }
+    },
+    {
+      "id": "8fe94e74-e569-4847-93f8-23330ee1912a",
+      "prompt": {
+        "text": "Which of the following company stakeholders is most likely exposed to \nthe greatest information asymmetry when compared to the company's management?"
+      },
+      "choices": [
+        "A bank lender",
+        "A public debtholder \nInvestors and Other Stakeholders \nFaculty:                                                                         Page 2 of 4",
+        "A member of the board"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because public debtholders do not have access to non-public \ninformation. Public debtholders (or bondholders) rely on public information and \ncredit rating agency determinations to make their investment decisions. Unlike \nshareholders, debtholders do not hold voting power, and they typically have limited \ninfluence over a company’s day-to-day operations."
+      }
+    },
+    {
+      "id": "31257e6f-5b35-4dc2-b175-524632062e61",
+      "prompt": {
+        "text": "With respect to ESG implementation, which of the following is most \nlikely a social factor?"
+      },
+      "choices": [
+        "Board composition",
+        "Pollution prevention",
+        "Management of human capital"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because social factors considered in ESG implementation generally \npertain to the management of the human capital of a business, including human rights \nand welfare concerns in the workplace; product development; and, in some cases, \ncommunity impact."
+      }
+    },
+    {
+      "id": "27979c97-00e0-4186-92e8-b6b780305a19",
+      "prompt": {
+        "text": "From an investor's perspective, equity most likely has:"
+      },
+      "choices": [
+        "unlimited loss.",
+        "unlimited upside potential.",
+        "lower investment risk than that of debt. \n \n \n \n \nSUMMARY: - \n \n(LOS 21.a): - 3, 4, 9. \n(LOS 21.b): - 1, 2, 5, 6, 7. \n(LOS 21.c): - 8. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nInvestors and Other Stakeholders \nFaculty:                                                                         Page 3 of 4"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because however, an equity owner has the potential for significant upside \ngain, dependent on future share price increases. If the corporation is successful, \nInvestors and Other Stakeholders \nFaculty:                                                                         Page 4 of 4 \n \nthere is theoretically no limit to how much equity owners could make from their \ninvestment."
+      }
+    }
+  ]
+}

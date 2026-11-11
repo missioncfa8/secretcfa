@@ -1,0 +1,230 @@
+{
+  "title": "Module 16: Organizational Forms, Corporate Issuer Features, and Ownership",
+  "topic": "Corporate Finance",
+  "module_number": 16,
+  "module_name": "Organizational Forms, Corporate Issuer Features, and Ownership",
+  "year": 2027,
+  "items": [
+    {
+      "id": "18bdfec3-d056-4130-9e48-82c017a38067",
+      "prompt": {
+        "text": "What percentage of the timber and forest assets are effectively owned \nby the Dee family members in this scenario?"
+      },
+      "choices": [
+        "24%",
+        "30%",
+        "80% \n \n \n \n \n\nOrganizational Forms, Corporate Issuer Features, and Ownership \nFaculty:                                                                         Page 2 of 5"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The Dee family effectively owns 24% of the timber and forest assets.  \nThey own 30% of the shares of DAG (the publicly traded corporation), and they own \n80% of the limited partnership (which owns the assets): 24% = 30% × 80%."
+      }
+    },
+    {
+      "id": "5e02da5f-e580-4d12-a7e9-021d24821dfa",
+      "prompt": {
+        "text": "Which of the following best describes the taxation of DAG Inc. and DAG \nLP?"
+      },
+      "choices": [
+        "DAG LP pays tax based on its pre-tax income.",
+        "Shareholders of DAG Inc. pay tax based on dividend income.",
+        "DAG Inc. pays tax based on its pre-tax income."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. DAG Inc. is organized as a special corporate form available in its \njurisdiction in which it does not pay corporate income taxes. DAG LP, as a limited  \npartnership, is a pass -through entity. DAG Inc. shareholders pay tax on dividend  \nincome.  \nA is incorrect. DAG LP is a limited partnership. Partnership income is passed through \nto each partner, and the partners pay tax at the personal level.  \nC is incorrect. DAG Inc. is organized as a special corporate form available in its \njurisdiction in which it does not pay corporate income taxes."
+      }
+    },
+    {
+      "id": "d3c330b5-e179-4224-8f95-de5045924869",
+      "prompt": {
+        "text": "Which of the following best describes DAG LP and DAG Inc.?"
+      },
+      "choices": [
+        "Neither DAG LP nor DAG Inc. is managed by a majority owner.",
+        "DAG Inc. has limits to its ability to raise new capital because of the dividend  \nrequirement on its corporate form.",
+        "DAG Inc. faces unlimited liability as the general partner, while DAG Inc.’s status \nas a corporation implies that its shareholders face limited liability."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. DAG Inc. is the general partner of DAG LP and thus has unlimited liability \nin the partnership. However, as a corporation, DAG Inc.’s shareholders  have limited \nliability for its losses and obligations.  \nA is incorrect. DAG LP is 80% owned by DAG Inc., the general partner that manages \nthe partnership. DAG Inc. is 30% owned by the Dee family, who holds  several key \nmanagerial positions.  \nB is incorrect. As a public company, DAG Inc. can raise new equity by issuing  shares \non an exchange. The dividend requirement is not a binding limit on its ability to raise \ncapital but, rather, might be an attractive feature to prospective investors."
+      }
+    },
+    {
+      "id": "b66cbf29-203b-4500-903c-e77767deab5d",
+      "prompt": {
+        "text": "What is a significant difference between the limited partners of DAG LP \nand the outside shareholders of DAG Inc.?"
+      },
+      "choices": [
+        "Managerial responsibilities",
+        "Taxation of income from the partnership",
+        "The ability to vote and replace members of the DAG Inc. board of directors"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The limited partners of DAG LP are not shareholders of DAG Inc.,  so \nthey do not have voting rights in the corporation. Additionally, because the  limited \npartners own only 20% of the partnership, they also have little ability to remove DAG \nInc. as the general partner. In contrast, outside shareholders own 70% of DAG Inc. \nand have voting rights. They could use their collective ownership to effect change in \nthe management of DAG Inc.  \nA is incorrect. Neither the DAG LP limited partners nor the outside shareholders of \nDAG Inc. have managerial responsibilities. The general partner has managerial  \nresponsibilities of the partnership, and the board of DAG Inc. has managerial  \nresponsibilities of the corporation.  \nB is incorrect. Owing to the special corporate form of DAG Inc., both the corporation \nand the limited partnership are pass -through entities. Therefore, neither  the \npartnership nor the corporation pays entity-level income taxes, but both the limited \npartners and shareholders are responsible for personal income taxes."
+      }
+    },
+    {
+      "id": "7c0134e4-9cc2-4dd2-84eb-b847b04ac028",
+      "prompt": {
+        "text": "Which of the following rationales would be most consistent with the Dee \nfamily’s choice to create this complex organizational structure instead of simply \norganizing as a limited partnership?"
+      },
+      "choices": [
+        "It provides management control without the need for majority ownership by  the \nfamily, while maintaining limited liability.",
+        "The complex structure eliminates the potential for double taxation.",
+        "The complex structure avoids potential problems associated with outside  \ninvestors exercising voting rights."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The Dee family can effectively control management of the timber  and \nforest assets with only a 24% effective ownership stake in the partnership. If  the \nfamily had opted for a limited partnership as the organizational form, they  likely \nwould need a much higher ownership stake to assert management control  and would \nhave unlimited personal liability.  \nOrganizational Forms, Corporate Issuer Features, and Ownership \nFaculty:                                                                         Page 5 of 5 \n \nB is incorrect. The double taxation problem is not an issue in the more complex  \nstructure, nor is it a problem in the partnership structure, because both are  pass-\nthroughs.  \nC is incorrect. The complex structure potentially creates problems because of the  \nexistence of outside shareholders constituting a majority of votes."
+      }
+    },
+    {
+      "id": "56488634-27c2-48d7-b0e9-8ca91eae3143",
+      "prompt": {
+        "text": "The owner exposed to the least business liability is a:"
+      },
+      "choices": [
+        "sole trader.",
+        "partner in a general partnership.",
+        "general partner in a limited partnership."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect because general partnerships are like sole proprietorships with the \nimportant distinction that they allow for additional resources to be brought into the \nbusiness along with the sharing of business risk among a larger group of individuals."
+      }
+    },
+    {
+      "id": "1afcdf28-fa2c-457b-8e2f-b9c19cdd5636",
+      "prompt": {
+        "text": "Owners have limited liability in a:"
+      },
+      "choices": [
+        "corporation.",
+        "sole proprietorship.",
+        "general partnership."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because owners in a corporation have limited liability."
+      }
+    },
+    {
+      "id": "d15ad006-a758-473a-a643-b7d16d525dfb",
+      "prompt": {
+        "text": "Compared to those of public companies, share issuances of private \ncompanies most likely:"
+      },
+      "choices": [
+        "raise larger amounts of capital.",
+        "include a larger number of investors.",
+        "include investors with longer holding periods. \n \n \nOrganizational Forms, Corporate Issuer Features, and Ownership \nFaculty:                                                                         Page 3 of 5"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because to raise more capital after listing, public companies may issue \nadditional shares in the capital markets, typically raising very large amounts from \nmany investors who may then actively trade shares among themselves in the \nsecondary market. In cont rast, private companies finance much smaller amounts in \nthe primary market (private debt or equity) with far fewer investors who have much \nlonger holding periods."
+      }
+    },
+    {
+      "id": "29eedba6-1e53-4e14-ba08-3bb696c1d4fc",
+      "prompt": {
+        "text": "Double taxation of profits is most likely a concern for owners in:"
+      },
+      "choices": [
+        "corporations.",
+        "limited partnerships.",
+        "general partnerships."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because tax disadvantage for owners  in countries with double taxation \nis a key feature of corporations. In most countries, corporations are taxed directly \non their profits. In many countries, shareholders pay an additional tax on \ndistributions (dividends) that are passed on to them. Economists refer to this as the \ndouble taxation of corporate profits."
+      }
+    },
+    {
+      "id": "fa07463b-8e64-41c5-8449-48857cb1f612",
+      "prompt": {
+        "text": "In a limited partnership, business operations are the responsibility of:"
+      },
+      "choices": [
+        "the general partner only.",
+        "the limited partners only.",
+        "both the general partner and the limited partners."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because key features of limited partnerships include: • GP operates the \nbusiness, having unlimited liability,  • LPs have limited liability but lack control over \nbusiness operations."
+      }
+    },
+    {
+      "id": "f0ca8bef-741f-4642-b04a-f22b05398ef6",
+      "prompt": {
+        "text": "Compared to private corporations, which of the following is a typical \ncharacteristic of public corporations?"
+      },
+      "choices": [
+        "A government is a shareholder",
+        "Shares are listed on a stock exchange",
+        "Transfer of ownership between investors is more difficult"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when it comes to corporations, 'public'  and 'private'  are \ntypically defined by whether the company’s equity is listed on a stock exchange, \nalthough in some countries whether a company is considered public or not may depend \non its number of shareholders, irrespective of whether it is listed."
+      }
+    },
+    {
+      "id": "9fab5c0e-f771-4bcf-93ae-5ffc9927adc1",
+      "prompt": {
+        "text": "The purchase of which of the following shares most likely requires \ninvestors to be accredited?"
+      },
+      "choices": [
+        "Public company shares only",
+        "Private company shares only",
+        "Both public company shares and private company shares"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because private company investors may be limited to qualified or so -\ncalled accredited investors or sophisticated investors, or those deemed to be able \nand willing by regulatory authorities to assume the greater risk of a non -public \noffering."
+      }
+    },
+    {
+      "id": "1e79d2cd-a422-4844-8e67-0fc2bc663259",
+      "prompt": {
+        "text": "The business structure that provides the most operational simplicity and \nflexibility is a:"
+      },
+      "choices": [
+        "limited partnership.",
+        "general partnership.",
+        "sole proprietorship. \n \n \n \nSUMMARY: - \n \n(LOS 20.a): - 1, 2, 3, 4, 5, 6, 7, 9, 10, 13.  \n(LOS 20.c): - 8, 11, 12. \n \n \n \n \n \n \n \n \n \n \n \nOrganizational Forms, Corporate Issuer Features, and Ownership \nFaculty:                                                                         Page 4 of 5"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the simplest business structure is the sole proprietorship, also \ncalled the sole trader. Key features of sole proprietorships include: Operational \nsimplicity and flexibility."
+      }
+    }
+  ]
+}

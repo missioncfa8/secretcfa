@@ -1,0 +1,349 @@
+{
+  "title": "Module 59: Derivative Instrument and Derivative Market Features",
+  "topic": "Derivatives",
+  "module_number": 59,
+  "module_name": "Derivative Instrument and Derivative Market Features",
+  "year": 2027,
+  "items": [
+    {
+      "id": "e25c0c79-da91-4415-8a58-c89cd500a483",
+      "prompt": {
+        "text": "Which of the following statements best describes why Montau AG should consider a \nderivative rather than a spot market transaction to manage the financial risk of this \ncommercial contract?"
+      },
+      "choices": [
+        "Montau AG is selling a machine at a contract price in KRW and incurs costs based \nin EUR.",
+        "Montau AG faces a 75 -day timing difference between the commercial contract \ndate and the delivery date when Montau AG is paid for the machine in KRW.",
+        "Montau AG is unable to sell KRW today in order to offset the contract price of \nmachinery delivered to Jeon Inc. \n \n \nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 2 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A 75 -day timing difference exists between the commercial contract \ndate and the delivery date when Montau AG is paid for the machine in KRW. A is true \nbut does not explain why the use of a derivative is preferable to a spot market \ntransaction. If as in C Montau were to sell the KRW it receives and buy EUR in a spot \nmarket transaction on the delivery date, it would be exposed to unfavorable changes \nin the KRW/EUR exchange rate over the 75 -day period. A derivative contract in \nwhich the underlying KRW/EUR forward rate is agreed today and exchanged on the \ndelivery date allows Montau to hedge or offset the EUR value of the future KRW \npayment. The derivative is therefore a more suitable contract to address the \nfinancial risk of the commercial transaction than a spot market sale of KRW."
+      }
+    },
+    {
+      "id": "3751a5a5-6697-47a2-a84d-da8564bf20fb",
+      "prompt": {
+        "text": "Which of the following types of derivative and underlyings are best suited to hedge \nMontau’s financial risk under the commercial transaction?"
+      },
+      "choices": [
+        "Montau AG should consider a firm commitment derivative with currency as an \nunderlying, specifically the sale of KRW at a fixed EUR price.",
+        "Montau AG should consider a contingent claim derivative with the price of the \nmachine as its underlying, specifically an A-series laser cutting machine.",
+        "Montau AG should consider a contingent claim derivative with currency as an \nunderlying, specifically the sale of EUR at a fixed KRW price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The derivative best suited to hedge Montau’s financial risk is a firm \ncommitment derivative in which a pre-determined amount is exchanged at settlement. \nThe derivative underlying should be currencies, specifically the sale of KRW at a \nfixed EUR price in the future to offset or hedge the financial risk of the commercial \ncontract. The machine price referenced under B is not considered an underlying, and \nC hedges the opposite of Montau’s underlying exposure."
+      }
+    },
+    {
+      "id": "c358e12f-d7df-43ff-9199-f301307f37f6",
+      "prompt": {
+        "text": "Identify A, B, and C in the correct order in the following diagram, as in Exhibit 1, for \nthe derivative to hedge Montau's financial risk under the commercial transaction."
+      },
+      "choices": [
+        "A: Financial intermediary, B: KRW650,000,000, C: Fixed EUR amount",
+        "A: Jeon Inc., B: KRW650,000,000, C: Fixed EUR amount",
+        "A: Financial intermediary, B: Fixed EUR amount, C: KRW650,000,000."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct as per the following diagram:"
+      }
+    },
+    {
+      "id": "ae88a236-6cdb-4849-81ed-1441ebe5d510",
+      "prompt": {
+        "text": "Which of the following statements about the most appropriate derivative market \nto hedge Montau AG’s financial risk under the commercial contract is most \naccurate?"
+      },
+      "choices": [
+        "The OTC market is most appropriate for Montau, as it is able to customize  the \ncontract to match its desired risk exposure profile.",
+        "The ETD market is most appropriate for Montau, as it offers a standardized and \ntransparent contract to match its desired risk exposure profile.",
+        "Both the ETD and OTC markets are appropriate for Montau AG to hedge  its \nfinancial risk under the transaction, so it should choose the market with the best \nprice."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The OTC market is most appropriate for Montau, as OTC contracts may \nbe customized to match Montau’s desired risk exposure profile. This is important to \nend users seeking to hedge a specific underlying exposure based upon  non-standard \nterms. Montau would be unlikely to find an ETD contract under  B that matches the \nexact size and maturity date of its desired hedge, which also makes C incorrect. \n \n\nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 7 of 8"
+      }
+    },
+    {
+      "id": "214a3152-0de3-4568-b947-62a075886039",
+      "prompt": {
+        "text": "If Montau enters into a centrally cleared derivative contract on the OTC market,  \nwhich of the following statements about credit risk associated with the derivative is \nmost likely correct?"
+      },
+      "choices": [
+        "Montau faces credit risk associated with the possibility that its counterparty to \nthe contract may not fulfill its contractual obligation. \n\nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 3 of 8",
+        "Montau poses a credit risk to its counterparty because it may fail to fulfill its  \ncontractual obligation.",
+        "Montau poses a credit risk to a derivative contract end user holding a contract  \nwith the opposite features of Montau’s."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In a centrally cleared OTC derivative contract, the central counterparty \nbecomes the counterparty in all contracts and assumes the credit risk associated  \nwith individual derivative contracts. A is likely incorrect because the CCP  takes \nactions to ensure that it can fulfill its obligations to its counterparties. C is incorrect \nbecause the CCP inserts itself between parties with opposite positions."
+      }
+    },
+    {
+      "id": "279a874a-1aec-453e-814c-170393d83915",
+      "prompt": {
+        "text": "Which of these is best classified as a forward commitment?"
+      },
+      "choices": [
+        "A convertible bond",
+        "A call option",
+        "A swap agreement"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A swap agreement is equivalent to a series of forward agreements, which \ncan be described as forward commitments."
+      }
+    },
+    {
+      "id": "1e2796ab-ff4c-4580-b12c-c82a8981b139",
+      "prompt": {
+        "text": "Which of the following derivatives is least likely to be classified as a contingent \nclaim?"
+      },
+      "choices": [
+        "A futures contract",
+        "A call option contract",
+        "A credit default swap"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A futures contract is classified as a forward commitment in which the \nbuyer undertakes to purchase the underlying asset from the seller at a later date \nand at a price agreed on by the two parties when the contract is initiated."
+      }
+    },
+    {
+      "id": "c61775af-39d4-4e14-bd67-b861ebb52059",
+      "prompt": {
+        "text": "A derivative can best be described as a financial instrument that:"
+      },
+      "choices": [
+        "duplicates the underlying asset’s performance.",
+        "transforms the underlying asset’s performance.",
+        "passes through the underlying asset’s returns."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The best characterization of a derivative is that it typically transforms \nthe underlying asset’s performance."
+      }
+    },
+    {
+      "id": "5a4644d7-a0fe-402d-8cc3-5dad03ec0871",
+      "prompt": {
+        "text": "Compared to over-the-counter (OTC) derivatives that are not cleared, the credit \nrisk of exchange-traded derivatives is most likely:"
+      },
+      "choices": [
+        "lower.",
+        "the same.",
+        "higher."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because derivative exchanges require collateral on deposit upon \ninception and during the life of a trade in order to minimize counterparty credit \nrisk. This deposit is paid by each counterparty via a financial intermediary to the \nexchange, which then provides a guarantee against counterparty default, whereas \nOTC (over-the-counter) instruments have less transparency, usually involve more \ncounterparty risk. Therefore, compared to OTC derivatives that are not cleared, \nthe credit risk of exchange-traded derivatives is lower."
+      }
+    },
+    {
+      "id": "d583ca79-b088-4e86-8228-bde1778f7728",
+      "prompt": {
+        "text": "Which of the following statements is most accurate?"
+      },
+      "choices": [
+        "Longevity is an example of an underlying of a derivative",
+        "A convertible bond is an example of a stand-alone derivative",
+        "Derivatives directly pass through the returns of the underlying"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because other derivative underlyings include weather, cryptocurrencies, \nand longevity, all of which can influence the financial performance of various market \nparticipants. Therefore, longevity is an example of an underlying of a derivative."
+      }
+    },
+    {
+      "id": "20407fcc-9af0-46c3-8ade-8d5406bc1c7e",
+      "prompt": {
+        "text": "Derivatives derive their performance from:"
+      },
+      "choices": [
+        "the performance of the underlying asset.",
+        "eliminating the risk of counterparty default.",
+        "the straight pass-through performance of the underlying."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the most common definition of a derivative  is a financial \ninstrument that derives its performance from the performance of the underlying \nasset."
+      }
+    },
+    {
+      "id": "d188f087-c53c-45d4-82af-d1dcaafbab77",
+      "prompt": {
+        "text": "Compared to over-the-counter (OTC) derivative markets, exchange-traded \nderivative markets most likely have greater:"
+      },
+      "choices": [
+        "flexibility.",
+        "transparency.",
+        "customization. \n \nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 4 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because many transactions in OTC markets will retain a degree of privacy \nwith lower transparency. In contrast, exchange markets are said to have \ntransparency, which means that full information on all transactions is disclosed to \nexchanges and regulatory b odies. Therefore, exchange-traded derivatives markets \nhave greater transparency than OTC derivatives markets."
+      }
+    },
+    {
+      "id": "6a0d116d-aa04-448a-8c53-17bac95b7c81",
+      "prompt": {
+        "text": "Which of the following derivative underlyings is an example of a soft commodity?"
+      },
+      "choices": [
+        "Gold",
+        "Crude oil",
+        "Soybeans"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because soft commodities are agricultural products, such as cattle and \ncorn, and hard commodities are natural resources, such as crude oil and metals. Also, \ncrude oil, soybeans, copper, and gold are all commodities. Commodities are considered \neither 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft' (those \ngrown over a period of time, such as livestock, grains, and cash crops, such as coffee). \nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 8 of 8"
+      }
+    },
+    {
+      "id": "a0a0b558-c20b-4541-8370-5cbf77f92ff6",
+      "prompt": {
+        "text": "Which of the following derivative contracts is best described as a contingent claim?"
+      },
+      "choices": [
+        "A swap contract",
+        "A forward contract",
+        "An option contract"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because another type of derivative is a contingent claim, in which one of \nthe counterparties determines whether and when the trade will settle.  An option is \nthe primary contingent claim."
+      }
+    },
+    {
+      "id": "6f88c2da-b3da-41a0-bbce-76cb0b33c566",
+      "prompt": {
+        "text": "Compared to over-the-counter derivatives, exchange-traded derivatives:"
+      },
+      "choices": [
+        "are less standardized.",
+        "provide less transparency.",
+        "have lower transaction costs."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because OTC and ETD markets differ in several ways, including that ETD \ncontracts have lower trading and transaction costs."
+      }
+    },
+    {
+      "id": "688240ca-5af2-42c0-8788-4436a2412d99",
+      "prompt": {
+        "text": "Which of the following most likely has an embedded derivative in its structure?"
+      },
+      "choices": [
+        "A put option",
+        "A callable bond",
+        "A futures contract"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because an embedded derivative is a derivative within an underlying, such \nas a callable, puttable, or convertible bond."
+      }
+    },
+    {
+      "id": "81548255-e215-4f67-a571-98c3b483cea5",
+      "prompt": {
+        "text": "In the over-the-counter derivatives market, most transactions occur between end \nusers and:"
+      },
+      "choices": [
+        "dealers.",
+        "other end users.",
+        "a central counterparty."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because OTC (over-the-counter) derivative markets involve contracts \nentered between derivatives end users and dealers, or financial intermediaries, \nsuch as commercial banks or investment banks."
+      }
+    },
+    {
+      "id": "3adc0376-576d-486f-8cbc-1d27e8743bf2",
+      "prompt": {
+        "text": "An end user seeking to hedge a specific underlying exposure having non-standard \nsize and settlement dates would most likely trade on a(n):"
+      },
+      "choices": [
+        "futures market.",
+        "over-the-counter derivative market.",
+        "exchange-traded derivative market."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the terms of OTC (over-the-counter) contracts can be \ncustomized to match a desired risk exposure profile. This flexibility is important to \nend users seeking to hedge a specific existing or anticipated underlying exposure \nbased upon non-standard terms."
+      }
+    },
+    {
+      "id": "3331d29f-7c08-412c-af80-3599e1c80674",
+      "prompt": {
+        "text": "The following portfolios contain a company's stock and a derivative on the stock: \nPortfolio Securities \n1 Stock and a short futures position \n2 Stock and a short call option position \n3 Stock and a short warrant position \n \nThe portfolio containing a derivative acting as a firm commitment to hedge the \nstock is most likely:"
+      },
+      "choices": [
+        "Portfolio 1.",
+        "Portfolio 2.",
+        "Portfolio 3. \n \nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 5 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the buyer of a derivative enters a contract whose value changes \nin a way similar to a long position in the underlying.  Thus a short futures position \nhedges the exposure to the underlying: Use of a derivative to offset or neutralize \nexisting or anticipated exposure to an underlying is referred to as hedging, with the \nderivative itself commonly described as a hedge of the underlying transaction.  In \naddition, a futures position is a firm commitment: Firm commitments include forward \ncontracts, futures contracts, and swaps involving a periodic exchange of cash flows."
+      }
+    },
+    {
+      "id": "f0a7e6c5-d5f7-4fed-868f-43d1ba86b5b6",
+      "prompt": {
+        "text": "In contrast to over-the-counter options, futures contracts most likely:"
+      },
+      "choices": [
+        "are not exposed to default risk.",
+        "represent a right rather than a commitment.",
+        "are private, customized transactions. \n  \nDerivative Instrument and Derivative Market Features \nFaculty:                                                                                    Page 6 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. Over -the-counter options are exposed to default risk, but futures \ncontracts are standardized transactions that take place on futures exchanges and \nare not exposed to default risk."
+      }
+    }
+  ]
+}

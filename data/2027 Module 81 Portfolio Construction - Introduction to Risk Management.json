@@ -1,0 +1,26 @@
+{
+  "title": "Module 81: Introduction to Risk Management",
+  "topic": "Portfolio Construction",
+  "module_number": 81,
+  "module_name": "Introduction to Risk Management",
+  "year": 2027,
+  "items": [
+    {
+      "id": "f40e5702-86ba-49a4-9bc7-890e425ef410",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Introduction to Risk Management."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Introduction to Risk Management available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

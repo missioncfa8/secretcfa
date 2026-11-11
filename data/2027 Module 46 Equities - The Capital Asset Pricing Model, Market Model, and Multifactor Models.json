@@ -1,0 +1,111 @@
+{
+  "title": "Module 46: The Capital Asset Pricing Model, Market Model, and Multifactor Models",
+  "topic": "Equities",
+  "module_number": 46,
+  "module_name": "The Capital Asset Pricing Model, Market Model, and Multifactor Models",
+  "year": 2027,
+  "items": [
+    {
+      "id": "33c863f5-3539-4134-b255-b6da5b641d1a",
+      "prompt": {
+        "text": "An analyst observes that a stock’s standard deviation of returns is 30%, and its returns show a correlation of \n75% with those of the market. The market returns have a standard deviation of 18%. The stock’s beta is \nclosest to:"
+      },
+      "choices": [
+        "0.45.",
+        "0.80.",
+        "1.25."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4f6fc722-9d39-4def-840b-e7a6489ee5f1",
+      "prompt": {
+        "text": "Assuming a risk-free rate of 4%, compared to a stock with a beta (βa) of 0.70, the cost of equity for a stock \nwith a beta (βb) of 1.40 will be:"
+      },
+      "choices": [
+        "twice as high.",
+        "less than twice as high.",
+        "more than twice as high."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "20aa82a1-3853-4116-b7eb-53390eedf4e7",
+      "prompt": {
+        "text": "Gableton is a privately held mining company based in Australia with properties producing gold, silver, and \ncopper. An analyst is assessing the potential for Gableton in the IPO market and has created a set of 10 \ncomparable publicly traded mining companies in Australia. The beta estimate for an equally weighted portfolio \nof these 10 companies is 0.65. The average ratio of debt to market capitalization across the 10 companies is \n40%, and the average tax rate is 30%. Gableton’s ratio of debt to estimated market value of equity is 60%, and \nits tax rate is 25%. Which of the following is closest to the analyst’s estimate of Gableton’s beta?"
+      },
+      "choices": [
+        "0.51",
+        "0.74",
+        "0.94"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fd4e38c8-5e91-48b0-b1e8-7f8bbbc3dcb3",
+      "prompt": {
+        "text": "An analyst seeks to estimate the expected rate of return for Air Astana, a publicly traded company based in \nKazakhstan. She observes EUR-denominated Kazakh sovereign bonds at 125 bps over the EUR government \nyield of 3.5%. She estimates an adjusted beta of 1.1 and observes a 4.5% ERP for the STOXX Europe 600 \nIndex used as a developed market reference. If the annualized Kazakh equity market volatility is 1.5 that of the \nbond market, which of the following is the best estimate of Air Astana’s rate of equity return?"
+      },
+      "choices": [
+        "9.83%",
+        "10.06%",
+        "10.51%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "82cd6016-babf-48e5-8fad-bd08c27e9d5b",
+      "prompt": {
+        "text": "A stock exhibits the following beta estimates from the four-factor model:\nβi,Market= 0.75, βi,¿¿¿= 0.40, βi,V alue= 0.35, βi,Momentum= −¿0.10\nThe stock is best described as having below-average exposure to:"
+      },
+      "choices": [
+        "all four factors.",
+        "the momentum factor only.",
+        "the market and momentum factors only."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "386f20c0-7a30-43ba-820f-971e3b69d057",
+      "prompt": {
+        "text": "The risk-free rate is 4%, and a stock has the following factor exposures:\nFactor Stock Beta Factor Risk Premium\nMarket 1.2 5%\nSize –0.5 2%\nValue –0.4 4%\nBased on the three-factor model, the company’s cost of equity is closest to:"
+      },
+      "choices": [
+        "3.4%.",
+        "7.4%.",
+        "10.0%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

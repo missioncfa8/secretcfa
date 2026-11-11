@@ -1,0 +1,349 @@
+{
+  "title": "Module 50: The Term Structure of Interest Rates Spot, Par, and Forward Curves",
+  "topic": "Fixed Income",
+  "module_number": 50,
+  "module_name": "The Term Structure of Interest Rates Spot, Par, and Forward Curves",
+  "year": 2027,
+  "items": [
+    {
+      "id": "10f19fc6-8b4e-488e-81a9-4a82a331b492",
+      "prompt": {
+        "text": "Which level of coupon would the Swiss government choose if its goal is to minimize \nthe premium over par value for a five-year debt issue?"
+      },
+      "choices": [
+        "1.0%",
+        "0.5%",
+        "0.0%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Assuming no capital gain or loss when the bond is sold, an investor’s horizon  yield is \nequal to a bond’s yield -to-maturity at the time of investment if coupons  are \nreinvested at a rate: \nA. lower than the bond’s yield-to-maturity at investment. \nB. equal to the bond’s yield-to-maturity at investment. \nC. higher than the bond’s yield-to-maturity at investment."
+      }
+    },
+    {
+      "id": "31e7e0f7-e091-4910-a471-ab89b1408307",
+      "prompt": {
+        "text": "The Australian government is considering issuing three-year bonds with a 3.0% \ncoupon with annual payments. Given the spot rates in Australia, the price \nis closest to:"
+      },
+      "choices": [
+        "108.05.",
+        "108.07.",
+        "108.69."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor purchases an eight -year, 6.4% annual coupon eurobond priced at  par \n(settlement: 15 June 2031; maturity: 15 December 2039) and sells it after six years. \nAssuming interest rates rise by 100 bps immediately after purchase, the  investor’s \nrate of return at the end of six years is: \nA. lower than 6.4%. \nB. equal to 6.4%. \nC. higher than 6.4%."
+      }
+    },
+    {
+      "id": "da97912d-747f-47c7-9087-f3cd60d66d90",
+      "prompt": {
+        "text": "Suppose the one-year and two-year spot rates in Canada move upward by 20 bps but \nthe three-year Canadian spot rate remains unchanged. Which of the following best \nreflects the updated three-year Canadian par rate? \nThe Term Structure of Interest Rates Spot, Par, and Forward Curves \nFaculty:                                                                                    Page 2 of 9"
+      },
+      "choices": [
+        "Increases by approximately 13 bps",
+        "Increases by approximately 7 bps",
+        "Increases by approximately 0.16 bps"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "The carrying value of a bond purchased at a price below par is equal to the original  \npurchase price: \nA. minus the accumulated premium amortization. \nB. minus the accumulated discount amortization. \nC. plus the accumulated discount amortization."
+      }
+    },
+    {
+      "id": "c01a092d-1c4b-41d3-b1cb-b8568a10aa9c",
+      "prompt": {
+        "text": "Which of the following choices is the closest to the implied five-year forward rate \nin two years for Swiss government bonds?"
+      },
+      "choices": [
+        "–0.191%",
+        "–0.001%",
+        "–0.317%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "The duration gap at which reinvestment risk and price risk are equal is: \nA. less than zero. \nB. equal to zero. \nC. greater than zero."
+      }
+    },
+    {
+      "id": "810ff1f6-1671-44d1-ad19-c606225c8034",
+      "prompt": {
+        "text": "Which of the following statements about yield curves is true?"
+      },
+      "choices": [
+        "Spot curves are derived from par rates.",
+        "Par curves are derived from forward rates.",
+        "Forward curves are derived from spot rates."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "When an investor’s investment horizon is less than a bond’s Macaulay duration,  the \ninvestor faces downside risk if, after the purchase of the bond, interest rates: \nA. decrease. \nB. increase. \nC. either decrease or increase."
+      }
+    },
+    {
+      "id": "ac653a72-b6e6-4567-ac8c-c63f5db27570",
+      "prompt": {
+        "text": "Which of the following statements about yield curves is true?"
+      },
+      "choices": [
+        "Spot curves are derived from par rates.",
+        "Par curves are derived from forward rates.",
+        "Forward curves are derived from spot rates."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor purchases a 12 -year, 5.8% annual bond and intends to sell it after 10  \nyears. The Macaulay duration of the bond is 8.97 years. If interest rates fall by 75  \nbps immediately after the purchase of the bond, the investor faces: \nA. negative reinvestment risk. \nB. no reinvestment risk. \nC. positive reinvestment risk. \n \nInterest Rate Risk and Return \nFaculty:                                                                                    Page 2 of 10"
+      }
+    },
+    {
+      "id": "92e47534-c80b-48df-9140-89531d34bdd7",
+      "prompt": {
+        "text": "Eldora Ltd. recently issued deferred-coupon bonds for which no coupon payments will \nbe paid in the first two years of the bond’s life. Regular annual coupon payments at a \nrate of 9% will then be made until the bonds mature at the end of six years. The spot \nrates for various maturities are given in the following table. \nTime to Maturity Spot Rate \n1 year 8.00% \n2 years 7.50% \n3 years 7.00% \n4 years 6.50% \n5 years 6.00% \n6 years 5.50% \n \nOn the basis of these spot rates, the price of the bond today is closest to:"
+      },
+      "choices": [
+        "100.12.",
+        "108.20.",
+        "116.24."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Consider a bond that has three years remaining to maturity, a coupon of 4% paid  \nsemiannually, and a yield-to-maturity of 4.60%. Assuming it is 12 days into the  first \ncoupon period and a 30/360 basis, the bond’s annualized Macaulay duration is closest \nto: \nA. 1.8764 years. \nB. 2.8386 years. \nC. 2.8553 years."
+      }
+    },
+    {
+      "id": "cc0d2dee-b913-4b01-bbef-8a75cc57e8e4",
+      "prompt": {
+        "text": "Assume the following annual forward rates were calculated from the yield curve. \nTime Period Forward Rate \n0y1y 0.50% \n1y1y 0.70% \n2y1y 1.00% \n3y1y 1.50% \nThe Term Structure of Interest Rates Spot, Par, and Forward Curves \nFaculty:                                                                                    Page 3 of 9 \n \n4y1y 2.20% \n \nThe four-year spot rate is closest to:"
+      },
+      "choices": [
+        "0.924%.",
+        "1.348%.",
+        "1.178%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Hightest Capital purchases a seven -year, 6.4% coupon bond and has an intended  \ninvestment horizon of four years. The Macaulay duration of the bond is 5.86  years. \nIf interest rates increase by 50 bps immediately after buying the bond,  Hightest \nCapital faces: \nA. negative price risk. \nB. negative reinvestment risk. \nC. positive price risk."
+      }
+    },
+    {
+      "id": "5671a3f0-00b5-41cb-aa4b-367df03adfd1",
+      "prompt": {
+        "text": "Using the following US Treasury forward rates, the value of a 2.5 -year $100 par \nvalue Treasury bond with a 5% coupon rate is closest to: \nPeriod Years Forward Rate \n1 0.5 1.20% \n2 1 1.80% \n3 1.5 2.30% \n4 2 2.70% \n5 2.5 3.00%"
+      },
+      "choices": [
+        "$104.87.",
+        "$101.52.",
+        "$106.83."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "The weighted average number of years to receipt of the principal and interest \npayments that will result in realization of the initial market discount rate on a bond \nis best described as: \nA. effective duration. \nB. modified duration. \nC. Macaulay duration."
+      }
+    },
+    {
+      "id": "1b577ba9-0e64-4a64-bdd0-5b6e7c9a5641",
+      "prompt": {
+        "text": "Using the following US Treasury spot rates, the arbitrage -free value of a two-year \n$100 par value Treasury bond with a 6% coupon rate is closest to: \nPeriod Years Spot Rate (Annualized) \n1 0.5 1.60% \n2 1 2.20% \n3 1.5 2.70% \n4 2 3.10%"
+      },
+      "choices": [
+        "$99.75.",
+        "$105.65.",
+        "$107.03."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following statements regarding the interest rate risk of a fixed -rate \nbond is correct? \nA. Coupon reinvestment risk and market price risk are positively related. \nB. All investors in a particular bond are exposed to the same interest rate risk. \nC. Market price risk matters more than coupon reinvestment risk when the investor’s \ntime horizon is short relative to the bond’s time to maturity."
+      }
+    },
+    {
+      "id": "52a231e0-0711-4664-afb5-ee5f0c6d666a",
+      "prompt": {
+        "text": "An analyst observes the following yields to maturity on zero-coupon government \nbonds: \nMaturity Yield to Maturity \n1 year 1.5% \n2 years 2.5% \n3 years 3.5% \n \nThe 2y1y implied forward rate is closest to:"
+      },
+      "choices": [
+        "4.5%.",
+        "5.5%.",
+        "6.6%. \nThe Term Structure of Interest Rates Spot, Par, and Forward Curves \nFaculty:                                                                                    Page 4 of 9"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A long-term bond investor with an investment horizon of 8 years invests in option -\nfree, fixed-rate bonds with a Macaulay duration of 10.5. The investor most likely \ncurrently has a: \nA. positive duration gap and is currently exposed to the risk of lower interest rates. \nB. positive duration gap and is currently exposed to the risk of higher interest rates. \nC. negative duration gap and is currently exposed to the risk of higher interest \nrates."
+      }
+    },
+    {
+      "id": "e5d65afd-8953-4d90-a167-8a6347506978",
+      "prompt": {
+        "text": "An analyst gathers the following information about spot rates: \nTime to Maturity Sequence 1 Sequence 2 \n1 year 2.0% 4.7% \n2 years 3.5% 3.5% \n3 years 4.7% 2.0% \n \nFor a 3-year, 2% annual coupon payment bond, the price using Sequence 1 is:"
+      },
+      "choices": [
+        "less than the price using Sequence 2.",
+        "the same as the price using Sequence 2.",
+        "greater than the price using Sequence 2."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor purchases a five -year, 4% annual coupon bond for 104.58 and sells it \nexactly three years later. Immediately after the bond is purchased and before the \nfirst coupon is received, interest rates decline to 2.25%, and they remain at that \nInterest Rate Risk and Return \nFaculty:                                                                                    Page 3 of 10 \n \nlevel for the next three years. Assuming that the coupon payments are received and \nreinvested at 2.25%, the investor’s realized horizon yield is closest to: \nA. 2.26%. \nB. 2.31%. \nC. 3.41%."
+      }
+    },
+    {
+      "id": "1c07066f-39b4-484b-a269-5345f023e224",
+      "prompt": {
+        "text": "Implied forward rates are best defined as the:"
+      },
+      "choices": [
+        "geometric average of spot rates.",
+        "breakeven reinvestment rates between zero-coupon bonds.",
+        "current yield to maturity on zero-coupon bonds of different maturities."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following conditions is not required for the realized horizon yield to \nequal the original yield to maturity on an option-free, fixed-coupon bond? \nA. The coupon payments are reinvested at the same interest rate as the original \nyield to maturity. \nB. The bond is sold at a price on the constant-yield price trajectory. \nC. The bond is held to maturity."
+      }
+    },
+    {
+      "id": "2b25179b-88fa-4e54-a3a4-1d720ceb6bc7",
+      "prompt": {
+        "text": "An analyst gathers the following information about a spot curve: \nTerm to Maturity Spot Rate \n1 year 6% \n2 years 5% \n3 years 4% \n \nIf the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond \nis closest to:"
+      },
+      "choices": [
+        "97.28.",
+        "99.86.",
+        "100.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor is least likely exposed to reinvestment risk from owning a(n): \nA. amortizing security. \nB. zero-coupon bond. \nC. callable bond."
+      }
+    },
+    {
+      "id": "401e9d2d-4da2-40e6-9535-d60ab8d1ed57",
+      "prompt": {
+        "text": "A bond trading at its no-arbitrage value is priced at a premium. The sum of the \npresent value of the bond's cash flows discounted at spot rates is:"
+      },
+      "choices": [
+        "less than the sum of the present values of the bond's cash flows discounted at \nits yield to maturity.",
+        "equal to the sum of the present values of the bond's cash flows discounted at \nits yield to maturity.",
+        "greater than the sum of the present values of the bond's cash flows discounted \nat its yield to maturity."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor gathers the following information about an investment in a bond with a \n10-year tenor: \nPurchase price 95.27 \nSale price 102.06 \nSum of reinvested coupon payments 24.28 \n \nIf the holding period was seven years, the horizon yield is closest to: \nA. 2.29%. \nB. 2.86%. \nC. 4.11%."
+      }
+    },
+    {
+      "id": "f0ae3070-7730-4812-8775-d461db141cbf",
+      "prompt": {
+        "text": "An analyst gathers the following spot and forward rates: \n2-year spot rate 1.0% \n4-year spot rate 2.5% \n4-year forward rate, two years from today 3.0% \n \nThe Term Structure of Interest Rates Spot, Par, and Forward Curves \nFaculty:                                                                                    Page 5 of 9 \n \nThe 2-year forward rate, four years from today is closest to:"
+      },
+      "choices": [
+        "2%.",
+        "3%.",
+        "4%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "With respect to interest rate risk, an investor who sells a fixed-rate bond after \nthe first coupon is received and before its maturity is exposed to:  \nA. market price risk, only. \nB. coupon reinvestment risk, only. \nC. both market price risk and coupon reinvestment risk."
+      }
+    },
+    {
+      "id": "0035427c-2ca6-4f1b-a572-e28e26bb86bf",
+      "prompt": {
+        "text": "A break-even reinvestment rate is most likely equivalent to a(n):"
+      },
+      "choices": [
+        "par rate.",
+        "spot rate.",
+        "implied forward rate."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An analyst gathers the following information about a bond: \nPar value 100 \nCoupon rate 5.50% \nCoupon frequency Annual \nTime to maturity  5 years \nHolding period 3 years \n \nInterest Rate Risk and Return \nFaculty:                                                                                    Page 4 of 10 \n \nIf the market discount rate is 4.75% for the holding period, the future value of \nreinvested coupons at the end of the holding period is closest to: \nA. 15.05. \nB. 17.30. \nC. 18.12."
+      }
+    },
+    {
+      "id": "42578deb-c47c-4329-ba64-d155a8541738",
+      "prompt": {
+        "text": "An analyst gathers the following information about forward rates: \nTime Period Forward Rate \n0y1y 1% \n1y1y 2% \n2y1y 4% \n \nUsing only this information, the price per 100 of par value of a 3-year, 1% annual \ncoupon bond is closest to:"
+      },
+      "choices": [
+        "84.05.",
+        "91.74.",
+        "96.23."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested \ncoupon payments most likely: \nA. decreases and the market price of the bond increases. \nB. increases and the market price of the bond decreases. \nC. increases and the market price of the bond increases."
+      }
+    },
+    {
+      "id": "99462db2-864f-4ac5-980f-5d44c38460f8",
+      "prompt": {
+        "text": "An analyst observes the following series of 1-year forward rates: \nTime Period Forward Rate \n0y1y 0.1% \n1y1y 0.3% \n2y1y 0.6% \n \nBased on only this information, the price per 100 of par value of a 3-year 0.2% \nannual coupon bond is closest to:"
+      },
+      "choices": [
+        "97.64.",
+        "98.82.",
+        "99.60."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An investor holds a bond with the following characteristics: \nYield to maturity 9% \nModified duration 7.4 \n \nIf the duration gap is zero, the investment horizon is closest to: \nA. 6.8 years. \nB. 7.4 years. \nC. 8.1 years."
+      }
+    },
+    {
+      "id": "1c3a7a02-cdc0-4254-be16-47cb1a2c8537",
+      "prompt": {
+        "text": "A two-year spot rate of 5% is most likely the:"
+      },
+      "choices": [
+        "yield to maturity on a zero-coupon bond maturing at the end of Year 2.",
+        "yield to maturity on a coupon-paying bond maturing at the end of Year 2.",
+        "coupon rate in Year 2 on a coupon-paying bond maturing at the end of Year 4. \n \n \n  \nThe Term Structure of Interest Rates Spot, Par, and Forward Curves \nFaculty:                                                                                    Page 6 of 9"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An analyst gathers the following information about a 4% annual-payment bond with a \ncurrent yield-to-maturity of 4.0%: \nAnnualized Yield to Maturity Bond Price \n3.9% 100.45 \n4.0% 100.00 \n4.1% 99.56 \n \nThe bond’s annualized Macaulay duration is closest to: \nA. 4.28. \nB. 4.45. \nC. 4.63."
+      }
+    }
+  ]
+}

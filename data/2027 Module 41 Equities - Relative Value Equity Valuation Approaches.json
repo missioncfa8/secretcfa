@@ -1,0 +1,196 @@
+{
+  "title": "Module 41: Relative Value Equity Valuation Approaches",
+  "topic": "Equities",
+  "module_number": 41,
+  "module_name": "Relative Value Equity Valuation Approaches",
+  "year": 2027,
+  "items": [
+    {
+      "id": "7ff7bc05-5094-4171-ab0b-eb2aab207092",
+      "prompt": {
+        "text": "Which one of the following statements most correctly describes a positively skewed distribution of P/E \nmultiples?"
+      },
+      "choices": [
+        "The average P/E is greater than the median P/E.",
+        "The distribution includes firms with negative EPS.",
+        "The average P/E more likely reflects the distribution’s central tendency.\nFeedback\nA is correct because the mean (i.e., average) P/E exceeds the median P/E in a positively skewed distribution \nsince the average is affected by the presence of very high P/E multiples that may be outliers within the \ndistribution.\nB is incorrect because P/E multiples are not economically meaningful and are typically not included in the \ndistribution.\nC is incorrect because the median is a more likely reflection of the distribution’s central tendency when the \ndistribution is positively skewed."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "df84913b-ee3f-4ee6-aec1-f26251bd78ee",
+      "prompt": {
+        "text": "Relative valuation is least likely to be a primary method for valuing equity of:"
+      },
+      "choices": [
+        "firms operating in concentrated industries.",
+        "firms operating in industries with wide variation in company age.",
+        "firms operating in multiple industries.\nFeedback\nA is correct because the ability of an analyst to construct a peer group is much more limited for firms in which \nthere are fewer competitors. For these types of firms, present value methods of valuing equity may be \npreferable.\nB is incorrect because firms of differing phases in the company life cycle can be included in the analyst’s peer \ngroup as long as differences in fundamental characteristics can be incorporated into the analysis.\nC is incorrect because an analyst can create multiple peer groups across industry classifications and weight \nthe peer group multiples according to the firm’s proportion of business activity in each industry."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d35fd347-1fd3-40f6-8bb2-aa40a0ec4b7d",
+      "prompt": {
+        "text": "An analyst analyzes StevCo’s observed value-to-book multiple of 1.60 based on the following information:\n StevCo’s WACC is 7.5%, and its long-run growth of FCFF is 3.0%.\n StevCo’s book value of equity is EUR400 million, and its book value of debt is EUR900 million.\n StevCo’s base-year (t = 0) EBITDA is equal to EUR300 million, and its depreciation expense is \nEUR150 million. The company spends EUR190 million on capital expenditures. StevCo operates with \nzero net working capital. StevCo’s tax rate is 30%.\nWhich one of the following is closest to the analyst’s estimate of StevCo’s justified value-to-book multiple \nassuming constant growth?"
+      },
+      "choices": [
+        "0.17",
+        "1.11",
+        "2.22"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "75553bae-33bb-44a0-9f6d-805c0927cba4",
+      "prompt": {
+        "text": "An analyst is comparing two mature companies with stable dividend policies. Firm 1 has a dividend payout \nratio of 60%, and its stock has a dividend yield of 4.2%. Firm 2 has a dividend payout ratio of 70%, and its \nstock has a dividend yield of 4.5%. The analyst finds that the two stocks have the same cost of equity of 9%. \nThe analyst calculates Firm 1’s expected dividend growth rate at 4.7% and Firm 2’s growth rate at 4.2%. Which \none of the following is the most correct relative valuation conclusion from this analyst?"
+      },
+      "choices": [
+        "Firm 2’s stock is underpriced compared to Firm 1’s stock based on the differences in dividend yield.",
+        "Firm 1’s stock is underpriced compared to Firm 2’s stock price based on their P/E multiples.",
+        "Firm 1’s stock is underpriced and Firm 2’s stock is overpriced based on their justified dividend yields."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4cc04e79-7f54-4b5b-9ba4-34c724754f8d",
+      "prompt": {
+        "text": "Which one of the following statements most correctly describes a weakness of using relative valuation \nmultiples in trying to identify misvalued stocks?"
+      },
+      "choices": [
+        "The peer group used as part of the relative valuation may include firms that are not identical.",
+        "The peer group used as part of the relative valuation process may exhibit variation in fundamental \ncharacteristics.",
+        "The peer group used as part of the relative valuation process may not be fairly valued.\nFeedback\nC is correct because a misvalued peer group creates a situation in which firms may be classified only as \nundervalued or overvalued relative to the peer group. For example, a stock that is undervalued relative to an \novervalued peer group may be overvalued if valuing the stock on an absolute basis using a present value \nmodel.\nA is incorrect because relative valuation is based on the concept that similar companies should trade at similar \nmultiples after controlling for differences. Peer companies do not need to be identical to be appropriate peers.\nB is incorrect because differences in fundamental characteristics among peer group firms may be controlled for \nby using adjustment or regression based on the method of forecasted fundamentals."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "3d524727-f339-4aa8-938b-6ca258053e14",
+      "prompt": {
+        "text": "An analyst gathers the following information for a set of firms from the same industry.\nFirm P/E Dividend payout ratio Growth rate Cost of equity\n1 15.80 80.00% 2.0% 8.2%\n2 14.20 75.00% 2.5% 8.0%\n3 28.10 70.00% 5.0% 8.3%\n4 23.80 72.00% 4.0% 7.5%\n5 16.50 82.00% 2.5% 7.5%\n6 17.50 90.00% 2.0% 7.8%\n7 26.40 77.00% 4.0% 8.0%\n8 25.10 81.00% 3.5% 7.8%\n9 19.30 70.00% 3.5% 7.0%\n10 21.60 79.00% 3.0% 8.5%\nThe average P/E of this peer group is 20.83, with a median of 20.45. Across the distribution, the average \npayout ratio is 77.6%, the average growth rate is 3.2%, and the average cost of equity is 7.9%.\nThe analyst runs a linear regression of the P/E multiples on payout ratios and growth rates and the regression \ngenerates the following results.\nCoefficient Standard Error t-Stat. P-Value\nIntercept –32.63 9.49 –3.44 0.0108\nPayout ratio 42.54 10.16 4.19 0.0041\nGrowth rate 639.14 64.50 9.91 0.0000\nThe analyst is curious about Firm 3’s stock given the fact that its expected growth rate is the highest among \nthe firms. However, she also notes that Firm 3’s stock trades at the highest P/E in the peer group. Additionally, \nshe observes that Firm 7 offers higher payout to shareholders along with relatively high growth expectations.\nThe analyst considers Firm 2 stock as possibly undervalued because its P/E of 14.2 is the lowest in the \ndistribution. Which of the following statements about Firm 2’s characteristics most correctly implies that its P/E \nshould be low relative to its peers?"
+      },
+      "choices": [
+        "Firm 2’s payout ratio and cost of equity are low relative to its peers.",
+        "Firm 2’s payout ratio and growth rate are low relative to its peers.",
+        "Firm 2’s growth rate and cost of equity are low relative to its peers\nFeedback\nB is correct because Firm 2’s payout ratio and growth rate are both well below the average of the distribution. \nBecause these two fundamental characteristics should be related to a company’s P/E multiple, it should not be \nsurprising that Firm 2 has a low P/E.\nA is incorrect because a low cost of equity is associated with a higher, not lower, P/E multiple.\nC is incorrect because a low cost of equity is associated with a higher, not lower, P/E multiple"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "15a75c81-5637-4f22-97a9-9376844d8843",
+      "prompt": {
+        "text": "Which one of the following is closest to the justified P/E multiple on Firm 3’s stock using a constant growth \nassumption?"
+      },
+      "choices": [
+        "14.0",
+        "22.3",
+        "30.3"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "18f6ca61-d673-42c1-b78e-933a13ec328a",
+      "prompt": {
+        "text": "Which of the following is a reasonable conclusion for the analyst from observing Firm 7’s P/E multiple \ncompared to its justified multiple computed from the regression results?"
+      },
+      "choices": [
+        "The comparison suggests that Firm 7’s stock may be undervalued.",
+        "The comparison suggests that Firm 7’s stock may be overvalued.",
+        "The comparison suggests Firm 7’s stock is probably neither under- or overvalued"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "0ac68353-d71a-4958-bb92-a1d9a9e2532c",
+      "prompt": {
+        "text": "An investor gathers the following data to estimate the intrinsic value of a company’s stock using the \njustified forward price-to-earnings ratio (P/E) approach.\nNext year's earnings per share $3.00\nReturn on equity 12.5%\nDividend payout ratio 60%\nRequired return on shares 10%\nThe intrinsic value per share is closest to:"
+      },
+      "choices": [
+        "$36.",
+        "$48.",
+        "$72."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "69ef70ce-bbaa-4e5d-adaa-1d1b46ea8315",
+      "prompt": {
+        "text": "An analyst gathered the following information about a company:\nCurrent earnings per share $6.00\nCurrent dividend per share $2.40\nCurrent market price per share $35\nRequired rate of return on the stock 15.0%\nExpected growth rate of earnings and \ndividends 8.0%\nWhich of the following statements best describes the company’s price-to-earnings ratio (P/E)? Compared to \nthe company’s trailing P/E ratio, the justified forward P/E ratio based on the dividend discount model is:"
+      },
+      "choices": [
+        "lower.",
+        "the same.",
+        "higher."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "db1e25d7-43e1-42ad-b408-12131e734ca0",
+      "prompt": {
+        "text": "An analyst collects the following data on a company:\nReturn on Equity \n(%) Payout Ratio (%) Justified Forward P/E\n12.0 30 7.5\nUsing a required return of 12.4%, if the company increases its dividend payout ratio to 40%, the justified \nforward P/E ratio will be closest to:"
+      },
+      "choices": [
+        "5.3.",
+        "7.7.",
+        "11.5."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

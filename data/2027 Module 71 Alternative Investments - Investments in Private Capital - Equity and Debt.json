@@ -1,0 +1,26 @@
+{
+  "title": "Module 71: Investments in Private Capital - Equity and Debt",
+  "topic": "Alternative Investments",
+  "module_number": 71,
+  "module_name": "Investments in Private Capital - Equity and Debt",
+  "year": 2027,
+  "items": [
+    {
+      "id": "aba515ea-3397-4dd9-8519-a136e5a2c4f3",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Investments in Private Capital - Equity and Debt."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Investments in Private Capital - Equity and Debt available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

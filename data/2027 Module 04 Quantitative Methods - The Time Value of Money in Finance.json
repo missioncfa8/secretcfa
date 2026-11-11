@@ -1,0 +1,264 @@
+{
+  "title": "Module 04: The Time Value of Money in Finance",
+  "topic": "Quantitative Methods",
+  "module_number": 4,
+  "module_name": "The Time Value of Money in Finance",
+  "year": 2027,
+  "items": [
+    {
+      "id": "ae31ce3e-00ca-4530-a9a7-8965bac16b93",
+      "prompt": {
+        "text": "A two-year Swedish government bond is issued with a 2.5% annual coupon rate, a par value of SEK5,000, \nand a yield-to-maturity of 2.418%. One year later, interest rates have risen to 3.61%. The value of the bond \nis now:"
+      },
+      "choices": [
+        "SEK4,946.",
+        "SEK5,000.",
+        "SEK5,004."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "64f99a34-482c-48d2-9b28-2928423c7cf8",
+      "prompt": {
+        "text": "Mr. and Mrs. Schmidt invest CHF1,000,000 in an annuity that makes annual payments for 20 years at a 3% \nannual return. How much can they expect to withdraw annually?"
+      },
+      "choices": [
+        "CHF51,589",
+        "CHF66,551",
+        "CHF67,215"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9eac814a-25fe-4c37-b3c7-6763cd7753fc",
+      "prompt": {
+        "text": "What is the expected one-year return on MOL Rt shares with a current price of HUF2,810, a one-year \ndividend growth of 17%, and a dividend yield of 13% when the interest rate is 12%?"
+      },
+      "choices": [
+        "29%",
+        "30%",
+        "32%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d393ee22-e1fb-4fcc-9fff-141ed04642f6",
+      "prompt": {
+        "text": "LVMH Moët Hennessy Louis Vuitton pays an annual dividend of EUR12.50 per share. The dividend is \nexpected to grow by 10% annually for the next two years due to increasing global demand for luxury \ngoods. Thereafter, the dividend growth rate is projected to stabilize at 7% indefinitely. If the market’s \nrequired rate of return is 11%, what is the intrinsic value of LVMH equity per share?"
+      },
+      "choices": [
+        "EUR320",
+        "EUR353",
+        "EUR405"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8389e686-c410-4321-97c7-5bf19345e86c",
+      "prompt": {
+        "text": "Based on the following observed annual interest rates for government debt of the Republic of South Africa, \nwhat is the best estimate of the two-year forward rate one year from today?\nTime Annual rate\n12 months 8.2%\n24 months 7.8%\n36 months 7.7%"
+      },
+      "choices": [
+        "6.71%",
+        "7.45%",
+        "16.24%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d6f4ba96-921c-432b-8874-8269a2b1b633",
+      "prompt": {
+        "text": "Given a 5% required return, are the investment opportunities in the following table equivalent?\nCash flows (in thousands) t = 0 t = 1 t = 2 t = 3 t = 4\nOpportunity 1 –700 215 210 205 200\nOpportunity 2 –700 200 205 210 215"
+      },
+      "choices": [
+        "No, Opportunity 1 is preferable.",
+        "No, Opportunity 2 is preferable.",
+        "Yes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "71497532-89a4-4fb4-9342-ab8fd8664e05",
+      "prompt": {
+        "text": "If the current exchange rate between the Swedish krona and the US dollar is USD/SEK10.500 and the one-\nyear risk-free interest rates are 3.457% for the Swedish krona and 4.982% for the US dollar, what is the no-\narbitrage one-year USD/SEK forward rate?"
+      },
+      "choices": [
+        "USD/SEK9.990",
+        "USD/SEK10.3403",
+        "USD/SEK10.6613"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1ed39114-80b4-4a77-bb8e-5faf5fb2b687",
+      "prompt": {
+        "text": "An investor deposits £2,000 into an account that pays 6% per annum compounded continuously. The value \nof the account at the end of four years is closest to:"
+      },
+      "choices": [
+        "£2,525.",
+        "£2,542.",
+        "£2,854."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "38015944-7a37-460e-9778-3bc5e8aa4671",
+      "prompt": {
+        "text": "A consumer purchases an automobile using a loan. The amount borrowed is €30,000, and the terms of the \nloan call for the loan to be repaid over five years using equal monthly payments with an annual nominal \ninterest rate of 8% and monthly compounding. The monthly payment is closest to:"
+      },
+      "choices": [
+        "€608.29.",
+        "€626.14.",
+        "€700.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a4b3401c-27a2-451d-b458-2521fe9cd5a8",
+      "prompt": {
+        "text": "A financial contract offers to pay €1,200 per month for five years with the first payment made immediately. \nAssuming an annual discount rate of 6.5%, compounded monthly, the present value of the contract \nis closest to:"
+      },
+      "choices": [
+        "€61,330.",
+        "€61,663.",
+        "€63,731"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a5d3ac3e-15f2-4641-8d47-d904aeff8845",
+      "prompt": {
+        "text": "If the price of a stock goes from $15.00 to $16.20 in one year, the continuously compounded rate of return \nis closest to:"
+      },
+      "choices": [
+        "7.70%.",
+        "8.00%.",
+        "8.33%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2787ea3b-a5ac-41a1-8575-b46dd6ec3950",
+      "prompt": {
+        "text": "An individual wants to be able to spend €80,000 per year for an anticipated 25 years in retirement. To fund \nthis retirement account, he will make annual deposits of €6,608 at the end of each of his working years. He \ncan earn 6% compounded annually on all investments. The minimum number of deposits that are needed \nto reach his retirement goal is closest to:"
+      },
+      "choices": [
+        "28.",
+        "40.",
+        "51."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "74b968af-be79-4374-a422-2da53fcb77a6",
+      "prompt": {
+        "text": "An annuity makes seven annual payments of $10,000 each, with the first payment occurring five years \nfrom today. If the discount rate is 6% per year, the value of the annuity today is closest to:"
+      },
+      "choices": [
+        "$41,715.",
+        "$44,218.",
+        "$55,824"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9e3dd15e-b5fd-4124-ab38-be25398e00c8",
+      "prompt": {
+        "text": "Using a discount rate of 5%, compounded monthly, the present value (PV) of $5,000 to be received three \nyears from today is closest to:"
+      },
+      "choices": [
+        "$4,250.",
+        "$4,305.",
+        "$4,319."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c35b5312-f5bb-4eae-a392-979e0f480ebb",
+      "prompt": {
+        "text": "A consultant starts a project today that will last for three years. Her compensation package includes the \nfollowing:\nYea\nr End-of-Year Payment\n1 $100,000\n2 $150,000\n3 $200,000\nIf she expects to invest these amounts at an annual interest rate of 3%, compounded annually until her \nretirement 10 years from now, the value at the end of 10 years is closest to:"
+      },
+      "choices": [
+        "$460,590.",
+        "$566,466.",
+        "$618,994."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "title": "Module 14: Capital Flows and the FX Market",
+  "topic": "Economics",
+  "module_number": 14,
+  "module_name": "Capital Flows and the FX Market",
+  "year": 2027,
+  "items": [
+    {
+      "id": "0164600b-fc8f-48b3-89de-837c0a0b1379",
+      "prompt": {
+        "text": "What will be the effect on a direct exchange rate quote if the domestic \ncurrency appreciates?"
+      },
+      "choices": [
+        "Increase",
+        "Decrease",
+        "No change"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In the case of a direct exchange rate, the domestic currency is the  \nprice currency (the numerator) and the foreign currency is the base currency  (the \ndenominator). If the domestic currency appreciates, then fewer units of  the \ndomestic currency are required to buy one unit of the foreign currency, and  the \nexchange rate (domestic per foreign) declines. For example, if British pound sterling \n(GBP) appreciates against the euro (EUR), then euro –sterling (GBP/EUR)  might \ndecline."
+      }
+    },
+    {
+      "id": "c91d023c-3f18-4f78-9cbf-9e033bf52dae",
+      "prompt": {
+        "text": "An executive from Switzerland checks into a hotel room in Spain and is \ntold by the manager that EUR1 will buy CHF1.2983. From the executive’s perspective, \nan indirect exchange rate quote would be:"
+      },
+      "choices": [
+        "EUR0.7702 per CHF1.",
+        "CHF0.7702 per EUR1.",
+        "EUR1.2983 per CHF1."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. An indirect quote takes the foreign country as the price currency  and \nthe domestic country as the base currency. To get Swiss francs —which is the  \nexecutive’s domestic currency—as the base currency, the quote must be stated  as \nEUR/CHF. Using the manager’s information, the indirect exchange rate is (1/1.2983) \n= 0.7702."
+      }
+    },
+    {
+      "id": "c112e9a5-e133-4fc9-9dfb-d63c79554941",
+      "prompt": {
+        "text": "Over the past month, the Swiss franc (CHF) has depreciated 12 percent \nagainst the British pound (GBP). How much has the pound sterling appreciated against \nthe Swiss franc?"
+      },
+      "choices": [
+        "12 percent",
+        "Less than 12 percent",
+        "More than 12 percent"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The appreciation of the British pound against the Swiss franc is the  \ninverse of the 12 percent depreciation of the Swiss franc against the pound sterling: \n[1/(1 – 0.12)] – 1 = (1/0.88) – 1 = 0.1364, or 13.64%."
+      }
+    },
+    {
+      "id": "ffb24427-2271-48dd-8ec6-49143fdf2f79",
+      "prompt": {
+        "text": "An exchange rate between two currencies has increased to 1.4500. If the \nbase currency has appreciated by 8 percent against the price currency, the initial \nexchange rate between the two currencies was closest to:"
+      },
+      "choices": [
+        "1.3340.",
+        "1.3426.",
+        "1.5660."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The percentage appreciation of the base currency can be calculated by \ndividing the appreciated exchange rate by the initial exchange rate. In this case, the \nunknown is the initial exchange rate. The initial exchange is the value of  X that \nsatisfies the formula: 1.4500/X = 1.08 \nSolving for X leads to 1.45/1.08 = 1.3426."
+      }
+    },
+    {
+      "id": "2071b83f-bf24-4668-a5a5-3a57b15880b6",
+      "prompt": {
+        "text": "In the classification of currency regimes, a currency board system (CBS) \nmost likely differs from a fixed-rate parity system in that:"
+      },
+      "choices": [
+        "a CBS can peg to a basket of currencies but a fixed-rate system cannot.",
+        "the monetary authority within a CBS does not act as a traditional lender of last \nresort.",
+        "a CBS has a discretionary target level of foreign exchange reserves."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In a CBS, the monetary authority has an obligation to maintain 100% \nforeign currency reserves against the monetary base. It therefore cannot lend to \ntroubled financial institutions. As long as the country under a fixed parity regime \nmaintains its exchange peg, the central bank can serve as a lender of last resort."
+      }
+    },
+    {
+      "id": "78979d5c-8fbb-4b4d-8662-0d44d8daafe8",
+      "prompt": {
+        "text": "The most likely reason for a country to encourage foreign direct \ninvestment while heavily restricting foreign investment in liquid domestic assets is \nto:"
+      },
+      "choices": [
+        "prevent capital flight.",
+        "generate an increase in the domestic interest rate.",
+        "stabilize the production capacity of the domestic country. \n \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 2 of 6"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Capital flight occurs when foreign investment in liquid domestic assets \nsuddenly decreases. Restricting foreign investment in liquid domestic assets and \nencouraging foreign direct investment (i.e., investment in illiquid domestic assets) \nprevents capital flight."
+      }
+    },
+    {
+      "id": "06251568-3179-4be9-9b81-577a81d44cec",
+      "prompt": {
+        "text": "Based on the table, the appreciation of which of the following currencies \nis most likely to occur?  \nSpot Rate Expected Spot Rate in One Year \nUSD/EUR 1.3001 1.3456 \nUSD/GBP 1.5805 1.5489"
+      },
+      "choices": [
+        "The British pound against the US dollar by 2.00%",
+        "The US dollar against the euro by 3.38%",
+        "The euro against the US dollar by 3.50%"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. In the exchange rate quotation, USD/EUR, the US dollar is the price \ncurrency and the euro is the base currency. The USD/EUR is expected to increase \nfrom 1.3001 to 1.3456. This represents a 3.5% appreciation of the euro against the \ndollar, i.e., a percentage change of (1.3456/1.3001) – 1 = +3.50%."
+      }
+    },
+    {
+      "id": "0f8f0cd3-e6f9-4e63-b7e3-3297b2a14378",
+      "prompt": {
+        "text": "Which market participants are most likely to limit the use of leverage in \nthe management of their accounts?"
+      },
+      "choices": [
+        "Exchange-traded funds",
+        "Commodity trading advisers",
+        "Bank proprietary trading desks"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. Exchange-traded funds are part of a class of institutional investors \nreferred to as real money accounts. They are usually restricted in their use of \nleverage or financial derivatives in their accounts. \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 5 of 6"
+      }
+    },
+    {
+      "id": "117b09e1-b84b-4883-b351-2278a848c22e",
+      "prompt": {
+        "text": "Which of the following is most likely a characteristic of a country that \nfollows the dollarization exchange rate regime? The country:"
+      },
+      "choices": [
+        "is able to monetize its domestic debt.",
+        "has the currency credibility of the US dollar.",
+        "has a term structure similar to that of the United States."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. When a country adopts the US currency as its currency, hence the name \ndollarization, the dollarized country inherits the currency credibility of the US \ndollar."
+      }
+    },
+    {
+      "id": "467232db-9b13-4124-88bd-4106e5c4b2e3",
+      "prompt": {
+        "text": "An analyst gathers the following information: \nForeign inflation rate 2% \nDomestic inflation rate 3% \nChange in nominal exchange rate 6% \n \nNote: the exchange rate is expressed as the number of units of domestic currency \nper unit of foreign currency. \nThe change in the real exchange rate is closest to:"
+      },
+      "choices": [
+        "4%.",
+        "5%.",
+        "7%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the change in the real exchange rate is \n(1 + ΔSd/f/Sd/f) × (1 + ΔPf/Pf) / (1 + ΔPd/Pd) − 1 = (1 + 6%) × (1 + 2%)/(1 + 3%) − 1 = \n1.06 × 1.02/1.03 − 1 = 0.0497 ≈ 0.05 = 5%, \nwhere ΔSd/f/Sd/f is the change of the nominal exchange rate, ΔPf/Pf is the foreign \ninflation rate, and ΔPd/Pd is the domestic inflation rate. \nUsing the appropriate approximate formula, 6.0% + 2.0% – 3.0% = 5% leads to the \nsame answer choice."
+      }
+    },
+    {
+      "id": "6783d461-8f8d-4395-b89b-6c2b4f9b6de1",
+      "prompt": {
+        "text": "When a country has a fiscal surplus and an excess of private saving over \ninvestment, its exports are:"
+      },
+      "choices": [
+        "less than its imports.",
+        "equal to its imports.",
+        "greater than its imports."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because using a fundamental identity from macroeconomics, the \nrelationship between the trade balance and expenditure/saving decisions can be \nexpressed as: X– M = (S – I) + (T – G) where X represents exports, M is imports, S is \nprivate savings, I is investment in plant and equipment, T is taxes net of transfers, \nand G is government expenditure. From this relationship, we can see that a trade \nsurplus (X > M) must be reflected in a fiscal surplus (T > G), an excess of private \nsaving over investment (S > I), or both. \nWe can also see that when a country has a fiscal surplus (T > G) and an excess of \nprivate saving over investment (S > I), its exports are greater than its imports (X > \nM)."
+      }
+    },
+    {
+      "id": "08f5254d-6c3e-4dfb-8751-af9c98c6014e",
+      "prompt": {
+        "text": "The conversion of nominal exchange rates into real exchange rates \nrequires the:"
+      },
+      "choices": [
+        "GDP of both countries.",
+        "price levels in both countries. \nCapital Flows and the FX Market \nFaculty:                                                                         Page 3 of 6",
+        "interest rates in both countries."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because real exchange rates, which are indexes often constructed by \neconomists and other market analysts to assess changes in the relative purchasing \npower of one currency compared with another. Creating these indexes requires \nadjusting the nominal exchange rate by using the price levels in each country of the \ncurrency pair."
+      }
+    },
+    {
+      "id": "8be3a15b-6f08-4384-a585-4b9c0749bf6c",
+      "prompt": {
+        "text": "Price levels increase by 2% in the US  and by 6% in the Eurozone. If the \nnominal spot exchange rate of the USD/EUR (amount of US dollars per 1 euro) \ndecreases by 4%, the absolute change in the real exchange rate is closest to:"
+      },
+      "choices": [
+        "0%.",
+        "4%.",
+        "8%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the change in the real exchange rate is \n(1 +\nΔ𝑠𝑑/𝑓\n𝑠𝑑/𝑓\n) ×\n(1 + Δ𝑃𝑓\n𝑃𝑓\n)\n(1 + Δ𝑃𝑑\n𝑃𝑑\n)\n− 1 \n \n(1 − 4%)× (1 + 6%\n1 + 2%) − 1 ≈ 0% \n \nThus, the change in the real exchange rate is approximately zero percent. The rough \ncalculation is: −4% + 6% − 2% = 0%."
+      }
+    },
+    {
+      "id": "30294d4a-d69e-4914-b9b6-5b65b54b0e9b",
+      "prompt": {
+        "text": "An ideal international currency regime would most likely have:"
+      },
+      "choices": [
+        "currencies that are fully convertible.",
+        "floating exchange rates between currencies.",
+        "a common monetary policy across different countries."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the ideal currency regime would have three properties. One of \nthose properties is, all currencies would be fully convertible (i.e., currencies could be \nfreely exchanged for any purpose and in any amount). This condition ensures \nunrestricted flow of capital. \n \nCapital Flows and the FX Market \nFaculty:                                                                         Page 6 of 6"
+      }
+    },
+    {
+      "id": "eff3a043-aad2-40eb-9ccf-1ced8288d7e5",
+      "prompt": {
+        "text": "In contrast to real exchange rates, nominal foreign exchange rates:"
+      },
+      "choices": [
+        "tend to deviate from purchasing power parity.",
+        "represent the relative price levels in the domestic and foreign countries.",
+        "are indexes useful for understanding international trade and capital flows."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because nominal exchange rates exhibit persistent deviations from PPP."
+      }
+    },
+    {
+      "id": "ef0b6842-2dcc-4ae0-a4cf-54ac4d6c247f",
+      "prompt": {
+        "text": "Which of the following economic conditions for a country best supports a \nwell-functioning currency board exchange rate system?"
+      },
+      "choices": [
+        "Flexible domestic prices and wages",
+        "Rapid growth in supply of the global reserve asset",
+        "Large non-traded sectors of the domestic economy"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a currency board system works best if domestic prices and \nwages are very flexible."
+      }
+    },
+    {
+      "id": "b1f8495a-6dfb-43ec-83c9-caabb70cbb1d",
+      "prompt": {
+        "text": "Dollarization is best described as an exchange rate regime whereby a \ncountry:"
+      },
+      "choices": [
+        "uses the currency of another nation as its medium of exchange.",
+        "participates in a monetary union whose members share the same legal tender.",
+        "makes a commitment to exchange domestic currency for a specified foreign \ncurrency at a fixed exchange rate."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": ". A is correct because in case of dollarization the country uses the currency of \nanother nation as its medium of exchange and unit of account."
+      }
+    },
+    {
+      "id": "594ec2c3-f90c-4b8e-b846-5af748f1811e",
+      "prompt": {
+        "text": "Assume that the nominal spot exchange rate (USD/EUR) increases by \n7.5%, the eurozone price level decreases by 4%, and the US price level increases by \n2.5%. The change in the real exchange rate (%) is closest to:"
+      },
+      "choices": [
+        "0.7%.",
+        "–6.3%.",
+        "14.8%. \n \n \nSUMMARY: - \n \n(LOS 18.a): – 1, 2, 3, 4, 7, 8, 10, 12, 13, 15, 18. \n(LOS 18.b): – 5, 9, 11, 14, 16, 17. \n(LOS 18.c): – 6. \nCapital Flows and the FX Market \nFaculty:                                                                         Page 4 of 6"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \nReal exchange rate = Nominal spot exchange rate × (CPI of the foreign country/CPI \nof the domestic country) \nChange in the real exchange rate = [(1 + Change in exchange rate) × (1 + Change in \nprice level in foreign country)]/(1 + Change in price level in domestic country) – 1 \n= [(1 + 7.5%) × (1 – 4%)]/(1 + 2.5%) – 1 = 0.7%."
+      }
+    }
+  ]
+}

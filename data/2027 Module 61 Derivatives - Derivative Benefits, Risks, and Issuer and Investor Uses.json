@@ -1,0 +1,213 @@
+{
+  "title": "Module 61: Derivative Benefits, Risks, and Issuer and Investor Uses",
+  "topic": "Derivatives",
+  "module_number": 61,
+  "module_name": "Derivative Benefits, Risks, and Issuer and Investor Uses",
+  "year": 2027,
+  "items": [
+    {
+      "id": "848831f1-04bd-48bb-812d-a106cbdaf90a",
+      "prompt": {
+        "text": "Which of the following statements best describes the derivative instrument that is \nembedded in the Baywhite Financial LLC Structured Note? \nDerivative Benefits, Risks, and Issuer and Investor Uses \nFaculty:                                                                                    Page 2 of 6"
+      },
+      "choices": [
+        "The Structured Note has an embedded long futures contract with the S&P 500 \nHealth Care Select Sector Index (SIXV) as an underlying.",
+        "The Structured Note has an embedded long call option contract with the S&P 500 \nHealth Care Select Sector Index (SIXV) as an underlying.",
+        "The Structured Note has an embedded short put option contract with the S&P \n500 Health Care Select Sector Index (SIXV) as an underlying."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The Structured Note is linked to the performance of the S&P 500  \nHealth Care Select Sector Index (SIXV). Note that the SIXV derivative is similar  \nto that in the earlier SCSI CSI 300 example. The “Additional Amount” paid at  \nmaturity is equal to the greater of 100% of the returns on the S&P 500 Health Care \nSelect Sector Index (SIXV) in excess of 5% above the current spot price of  the \nSIXV or zero. This payoff profile [Max (0, ST – X)] is identical to that of a purchased \nsix-month SIXV call option with an exercise price (X) at 5% above today’s SIXV spot \nprice."
+      }
+    },
+    {
+      "id": "a300d709-3bfa-413c-af60-10a34b6f3868",
+      "prompt": {
+        "text": "Which of the following statements best contrasts the credit risk of the Baywhite  \nFinancial LLC Structured Note with the counterparty credit risk of an investor  \nentering into the embedded exchange-traded derivative on a stand-alone basis?"
+      },
+      "choices": [
+        "An investor in the Baywhite Structured Note assumes the credit risk of Baywhite \nFinancial LLC for 20% of the note’s face value, as the remaining  80% is principal \nprotected. An investor entering into the SIXV derivative  on a stand-alone basis \nassumes the counterparty credit risk of a financial intermediary.",
+        "An investor in the Baywhite Structured Note assumes the credit risk of Baywhite \nFinancial LLC for 80% of the note’s face value, as the remaining 20% is associated \nwith the embedded derivative. An investor entering into  the SIXV derivative on \na stand -alone basis assumes the counterparty credit  risk of a financial \nintermediary.",
+        "An investor in the Baywhite Structured Note assumes the credit risk of Baywhite \nFinancial LLC for 100% of the note’s face value, while an investor  entering into \nthe SIXV derivative on a stand-alone basis assumes the counterparty credit risk \nof an exchange and its clearinghouse."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The investor assumes the credit risk of Baywhite Financial LLC for the \nfull value of the structured note as the structured note issuer. Under the purchased \nexchange-traded SIXV call option, the investor faces the risk of the exchange  and \nits clearinghouse, which provides a guarantee of contract settlement  backed by the \nexchange insurance fund."
+      }
+    },
+    {
+      "id": "37bc9846-7374-4461-b66b-fe90083d3f72",
+      "prompt": {
+        "text": "Which of the following statements most accurately describes the liquidity of  the \nBaywhite Structured Note versus that of the embedded exchange -traded \nderivative?"
+      },
+      "choices": [
+        "The Baywhite Structured Note is likely to be more liquid than the  stand-alone \nSIXV call option, as the Note has 80% principal protection  while an investor in \nthe stand -alone derivative may lose the entire option  premium if it expires \nworthless at maturity.",
+        "The Baywhite Structured Note is likely to be more liquid than the  stand-alone \nSIXV call option, as the Note is priced at a stated 2% premium  above par while \nan investor in the stand-alone derivative faces the lack of transparency as well as \nbasis, liquidity, and counterparty credit risks associated  with derivative \ntransactions.",
+        "Structured notes such as the Baywhite Financial LLC Structured Note  often \ninvolve greater cost, lower liquidity, and less transparency than an  equivalent \nstand-alone derivative instrument, while the exchange -traded SIXV derivative \ncontract is standardized and trades in a liquid, transparent market. \n \nDerivative Benefits, Risks, and Issuer and Investor Uses \nFaculty:                                                                                    Page 3 of 6"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The Structured Note is likely to be far less liquid than the stand-alone \nSIXV call option, which is traded on a derivatives exchange. Recall  from an earlier \nlesson that exchange -traded contracts are more formal and  standardized, which \nfacilitates a more liquid and transparent market. Note also  that the Baywhite \nFinancial LLC Structured Note is issued at 102% of face value,  suggesting that an \ninvestor will likely forgo this premium if selling the note prior to maturity."
+      }
+    },
+    {
+      "id": "788c0ae2-3a67-4fda-9837-848f21026ec1",
+      "prompt": {
+        "text": "Which of the following statements best describes how an investor should evaluate  \nthe terms of the Baywhite Financial LLC Structured Note as compared with  the \nstand-alone derivative price in order to make a recommendation?"
+      },
+      "choices": [
+        "The Baywhite Financial LLC Structured Note issuance price of 2% above par value \nshould be compared with the upfront premium for a six -month SIXV call option \nwith an exercise price at 5% above the current SIXV spot price.",
+        "The Baywhite Financial LLC Structured Note 20% Principal at Risk should  be \ncompared with the upfront premium for a six -month SIXV call option  with an \nexercise price at 5% above the current SIXV spot price.",
+        "The Baywhite Financial LLC Structured Note issuance price of 2% above par value \nplus the 20% Principal at Risk should be compared with the upfront  premium for \na six-month SIXV call option with an exercise price at 5% above the current SIXV \nspot price."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The 20% Principal at Risk, or USD200 of Face Value for each USD1,000 \n(the minimum denomination), combined with the 2% (or USD20) issue premium, should \nbe compared with the upfront premium for a six -month SIXV call option with an \nexercise price at 5% above the current SIXV spot price. The comparison should also \nconsider the additional credit risk and liquidity risk  of the Structured Note versus \nthe exchange-traded option."
+      }
+    },
+    {
+      "id": "c92314fc-0d1b-4cab-9008-9da8fdf13f28",
+      "prompt": {
+        "text": "Which of the following statements about derivatives is most accurate?"
+      },
+      "choices": [
+        "Derivatives reduce the efficiency of price discovery for the underlying",
+        "Transaction cost of derivatives are greater than the transaction cost of the \nunderlying",
+        "Excessive risk taking and use of leverage in derivative markets may contribute \nto market stress"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because excessive risk taking and use of leverage in derivative markets \nmay contribute to market stress, as in the 2008 financial crisis."
+      }
+    },
+    {
+      "id": "db3601d2-9238-4335-9a39-a68bc94fa1e1",
+      "prompt": {
+        "text": "The potential divergence between the cash flow timing of a derivative instrument \nversus its underlying best describes:"
+      },
+      "choices": [
+        "basis risk.",
+        "liquidity risk.",
+        "systemic risk."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because liquidity risk is described as potential divergence between the \ncash flow timing of a derivative instrument versus an underlying or hedged \ntransaction."
+      }
+    },
+    {
+      "id": "bf299ceb-6abd-42c8-80ec-48dcb738d809",
+      "prompt": {
+        "text": "The potential divergence between the expected value of a derivative instrument \nversus an underlying or hedged transaction best describes:"
+      },
+      "choices": [
+        "basis risk.",
+        "liquidity risk.",
+        "systemic risk."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because basis risk is the potential divergence between the expected \nvalue of a derivative instrument versus an underlying or hedged transaction. \n \nDerivative Benefits, Risks, and Issuer and Investor Uses \nFaculty:                                                                                    Page 6 of 6"
+      }
+    },
+    {
+      "id": "23d6684f-4259-44ee-8aa8-cfff84ab079d",
+      "prompt": {
+        "text": "A commodities producer selling its inventory forward in anticipation of lower prices \nin the future is an example of a:"
+      },
+      "choices": [
+        "fair value hedge.",
+        "cash flow hedge.",
+        "net investment hedge."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a  fair value hedge  designation applies when a derivative is \ndeemed to offset the fluctuation in fair value of an asset or liability. A commodities \nproducer might sell its inventory forward in anticipation of lower future prices."
+      }
+    },
+    {
+      "id": "3b9053c5-1612-4948-a2eb-6b15f601f323",
+      "prompt": {
+        "text": "Basis risk is best described as a(n):"
+      },
+      "choices": [
+        "investor's inability to meet a margin call due to a lack of funds.",
+        "potential divergence between the expected value of a derivative and its \nunderlying. \nDerivative Benefits, Risks, and Issuer and Investor Uses \nFaculty:                                                                                    Page 4 of 6",
+        "divergence in the cash flow timing of a derivative versus that of an underlying \ntransaction."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because basis risk is the potential divergence between the expected \nvalue of a derivative instrument versus an underlying or hedged transaction."
+      }
+    },
+    {
+      "id": "21b5bee3-f304-44ce-8d33-3d24dc6aef3d",
+      "prompt": {
+        "text": "With respect to hedge accounting designation types, a:"
+      },
+      "choices": [
+        "foreign exchange forward to hedge forecasted sales is an example of a fair \nvalue hedge.",
+        "commodity futures contract used to hedge inventory is an example of a cash \nflow hedge.",
+        "currency forward to offset the foreign exchange risk of equity of a foreign \noperation is an example of a net investment hedge."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because currency forward designated as offsetting the FX risk of the \nequity of a foreign operation is an example of a net investment hedge."
+      }
+    },
+    {
+      "id": "cfedbdb6-fd82-4338-8590-9e9928453ab3",
+      "prompt": {
+        "text": "A principal argument against using derivatives is that they:"
+      },
+      "choices": [
+        "destabilize the financial system.",
+        "are ineffective in transferring risk between parties.",
+        "prevent price discovery of underlying assets in spot markets."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the two principal arguments against derivatives are that they \nare such speculative devices that they effectively permit legalized gambling and that \nthey destabilize the financial system."
+      }
+    },
+    {
+      "id": "20878b8c-02fb-4757-9df8-0cda5ef4e030",
+      "prompt": {
+        "text": "If the implied volatility for options on a broad -based equity market index goes up, \nthen it is most likely that:"
+      },
+      "choices": [
+        "the broad-based equity market index has gone up in value.",
+        "the general level of market uncertainty has gone up.",
+        "market interest rates have gone up. \n \n  \nDerivative Benefits, Risks, and Issuer and Investor Uses \nFaculty:                                                                                    Page 5 of 6"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. One benefit of derivatives market is information discovery. Implied \nvolatility reveals information about the risk of the underlying. Increases in implied \nvolatility are an implication of increased market uncertainty."
+      }
+    }
+  ]
+}

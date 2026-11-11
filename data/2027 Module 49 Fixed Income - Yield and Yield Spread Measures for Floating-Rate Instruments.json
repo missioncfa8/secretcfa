@@ -1,0 +1,230 @@
+{
+  "title": "Module 49: Yield and Yield Spread Measures for Floating-Rate Instruments",
+  "topic": "Fixed Income",
+  "module_number": 49,
+  "module_name": "Yield and Yield Spread Measures for Floating-Rate Instruments",
+  "year": 2027,
+  "items": [
+    {
+      "id": "0cb1f3b6-ef5b-4018-bff8-c0a93ae9e9a0",
+      "prompt": {
+        "text": "A two-year floating-rate note issued by a French corporation pays the  three-month \nMRR of –0.55% plus 160 bps. The floater is priced at 101.20 per 100  of par value. \nAssuming the 30/360 day -count convention and 90 days per period,  the discount \nmargin for the floater is closest to:"
+      },
+      "choices": [
+        "25 bps.",
+        "50 bps.",
+        "110 bps. \n(Note: The solutions and options provided by the CFA Institute are wrong. The \naccurate answer is 99.69 bps. Look at the solutions sheet for the corrected answer.)"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct.  The estimated discount margin is 195 bps. Using the information \nprovided, the periodic PMT is equal to: \n \n(𝑀𝑅𝑅 + 𝑄𝑀) × 𝐹𝑉\n𝑚 = (−0.0055 + 0.016) × 100\n4 = 0.2625. \n \nUsing the RATE function in Microsoft Excel, Google Sheets, or a financial calculator \nand using PV = –101.20, FV = 100, PMT =0.275, and N = 8, we solve for the discount \nrate per period of 12.4161%. The discount margin can then be estimated by solving \nfor DM: \n \n𝑟 = 𝑀𝑅𝑅 + 𝐷𝑀\n𝑚 . \n \n0.124161 = −0.005 + 𝐷𝑀\n4 . \n \n𝐷𝑀 =  0.4525. \n \nNote: Above solution is incorrect. \n \ncorrect solutions \nUsing BA II plus calculator: \n2nd CLR TVM \n4x2= N \n(-.55+1.60)/4= PMT \n-101.20 PV \n100 FV \nCPT I/Y 0.11174% \nMultiply by 4 = 0.44697% \n \nYTM = 0.44697% per annum compounding quarterly \nMRR = -0.55% \nDiscount margin = 0.44697%+0.55% = 0.99697% or 99.697 bps"
+      }
+    },
+    {
+      "id": "7a45001d-0051-47f4-b897-c54e26bd6c15",
+      "prompt": {
+        "text": "Changes in the required margin for a floater usually come from:"
+      },
+      "choices": [
+        "shifts in the yield curve.",
+        "changes in credit risk.",
+        "increases or decrease in inflation. \n \nThe following information relates to questions 3-4 \nA fixed-income portfolio manager is looking to value a one -year US dollar–denominated \nfloating-rate note that has quarterly payments based on 90-day MRR plus 80 bps. Assume \nthe following information: \n90-Day MRR: 2.5% \nQuoted Margin: 80 bps \nDiscount Margin: 100 bps \nFace Value: USD100"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The required margin is the yield spread over or under a reference rate, \nreflecting the credit risk of an issuer. Changes in the required margin typically come \nfrom a change in the issuer’s credit risk.  \nA and C are incorrect. Both risks, as “top -down” or macroeconomic risks, would  be \nreflected in changes in the MRR, not in a spread such as the required margin. \n \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 5 of 7"
+      }
+    },
+    {
+      "id": "fb99b945-3a2f-43f3-a5d3-c40cdee686a4",
+      "prompt": {
+        "text": "Without doing any calculation, this floating-rate note is priced at:"
+      },
+      "choices": [
+        "a premium.",
+        "a discount.",
+        "par."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. This FRN is priced at a discount, because the quoted margin is less than \nthe discount (required) margin."
+      }
+    },
+    {
+      "id": "68cba7bf-e5fb-43f7-a813-e16cda15dfc7",
+      "prompt": {
+        "text": "The price of the FRN is closest to:"
+      },
+      "choices": [
+        "98.804.",
+        "99.804.",
+        "100.804."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The FRN is priced at 99.804 per 100 of par value. Using the information \nprovided, the periodic PMT is equal to  \n \n(𝑀𝑅𝑅 + 𝑄𝑀) × 𝐹𝑉\n𝑚 = (0.025 + 0.008) × 100\n4 = 0.825. \n \nThe assumed discount rate per period is equal to 0.875%. \n \n𝑟 = 𝑀𝑅𝑅 + 𝐷𝑀\n𝑚 . \n \n𝑟 = 0.025 + 0.01\n4 . \n \n𝑟 =  0.00875. \n \nTo value this FRN, take the present value of each cash flow using the discount rate \nper period. The FRN is priced at 99.804 per 100 of par value. \n \n𝑃𝑉 = 0.825\n(1 + 0.00875)1 + 0.825\n(1 + 0.00875)2 + 0.825\n(1 + 0.00875)3 + 100.825\n(1 + 0.00875)4. \n \n𝑃𝑉 =  99.804."
+      }
+    },
+    {
+      "id": "d0d8994d-9671-440c-a58b-8fee5614d753",
+      "prompt": {
+        "text": "The bond equivalent yield of a 90-day European bank certificate of deposit quoted at \na discount rate of 0.55% for a 360-day year is closest to:"
+      },
+      "choices": [
+        "0.21%.",
+        "0.24%.",
+        "0.56%. \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 2 of 7"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The bond equivalent yield is closest to 0.28%.  \nThe present value of the banker’s certificate of deposit is calculated as follows: \n \n𝑃𝑉 = 𝐹𝑉 × (1 − Days\nYear × 𝐷𝑅). \n \n𝑃𝑉 = 100 × (1 − 90\n360 × 0.0055). \n𝑃𝑉 =  99.865. \n \nThe bond equivalent yield (AOR using a 365 -day year) is calculated to be \napproximately 0.56%: \n  \n𝐴𝑂𝑅 = Year\nDays × 𝐹𝑉 − 𝑃𝑉\n𝑃𝑉 . \n \n𝐴𝑂𝑅 = 365\n90 × 100 − 99.8625\n99.8625 . \n𝐴𝑂𝑅 =  0.0056. \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 6 of 7"
+      }
+    },
+    {
+      "id": "999f4ac1-b7d7-49e5-b9dc-2278436defa0",
+      "prompt": {
+        "text": "A 91-day UK gilt (Treasury bill) has a face value of GBP2 million, a discount rate of \n0.25%, and a price of GBP1.9 million. If a year has 366 days, the discount rate  for \nthe UK gilt on 366 days is closest to:"
+      },
+      "choices": [
+        "0.1821.",
+        "0.2011.",
+        "0.2134."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The discount rate is closest to 0.2011. \n𝐷𝑅 = Year\nDays × 𝐹𝑉 − 𝑃𝑉\n𝐹𝑉 . \n \n𝐷𝑅 = 366\n91 × 2,000,000 − 1,900,000\n2,000,000 . \n \n𝐷𝑅 =  0.2011."
+      }
+    },
+    {
+      "id": "70252345-7226-4009-ae91-c33bb4a6a529",
+      "prompt": {
+        "text": "DMT Corp. issued a five-year floating-rate note (FRN) that pays a quarterly coupon \nof three-month market reference rate (MRR) plus 125 bps. The FRN is priced at 96 \nper 100 of par value. Assuming a 30/360-day count convention, evenly spaced periods, \nand constant three-month market reference rate (MRR) of 5%, the discount margin \nfor the FRN is closest to:"
+      },
+      "choices": [
+        "180 bps.",
+        "221 bps.",
+        "400 bps."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the interest payment each period per 100 of par value is \n \n(Index + 𝑄𝑀) × 𝐹𝑉\n𝑚 = (0.05 + 0.0125) × 100\n4 = 1.5625 \n \nWhere index is the market reference rate \nThe discount margin can be estimated by solving for DM in the equation \n \n96 = 1.5625\n(1 + 0.05 + 𝐷𝑀\n4 )\n1 + 1.5625\n(1 + 0.05 + 𝐷𝑀\n4 )\n2 + ⋯ + 1.5625\n(1 + 0.05 + 𝐷𝑀\n4 )\n20 \n \nThe solution for the discount rate,  r = (0.05 +  DM)/4 is 1.8025%. Therefore,  DM = \n2.21% or 221 bps."
+      }
+    },
+    {
+      "id": "20380b97-23ee-458e-94fb-f67a0080d093",
+      "prompt": {
+        "text": "Which of the following 90 -day money market instruments most likely offers the \ninvestor the highest rate of return? \nMoney Market Instrument Quoted Rate Quotation Basis Day Convention \nInstrument A 5.78% 360 Discount rate \nInstrument B 5.80% 365 Discount rate \nInstrument C 5.96% 365 Add-on rate"
+      },
+      "choices": [
+        "Instrument A",
+        "Instrument C",
+        "Instrument B"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Instrument C provides a bond equivalent yield of 5.96%, compared with \n5.946% for Instrument A and 5.883% for Instrument B."
+      }
+    },
+    {
+      "id": "1361aeb1-5313-43dc-a341-1c9ec96ec136",
+      "prompt": {
+        "text": "Money market yields are:"
+      },
+      "choices": [
+        "annualized and compounded.",
+        "stated for a common periodicity.",
+        "stated on a simple interest basis."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the rate of return on a money market instrument is stated on a \nsimple interest basis."
+      }
+    },
+    {
+      "id": "a8b851d0-ed57-4ab1-a1ba-c27ecad7cae3",
+      "prompt": {
+        "text": "For a floating-rate note, the specified yield spread over the reference \nrate best defines the:"
+      },
+      "choices": [
+        "coupon.",
+        "quoted margin.",
+        "required margin. \n \n \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 3 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because this specified yield spread over the reference rate is called the \nquoted margin on the FRN. The role of the quoted margin is to compensate the \ninvestor for the difference in the credit risk of the issuer and that implied by the \nreference rate."
+      }
+    },
+    {
+      "id": "ff5987da-9c31-4ee0-8803-0e33d236e64f",
+      "prompt": {
+        "text": "A commercial paper has the following characteristics: \nRedemption value $5,000,000 \nInterest earned $140,500 \nDays to maturity 160 \n \nFor a 365-day year, the discount rate is closest to:"
+      },
+      "choices": [
+        "6.2%.",
+        "6.4%.",
+        "6.6%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the discount rate, DR = (Year/Days) × ((FV – PV)/FV), where \nYear = number of days in the year, Days = number of days between settlement and \nmaturity, FV = future value paid at maturity/face value of the money market \ninstrument, PV = present value/price of the money market instrument, and FV – PV, \nis the interest earned. \nDR = (365/160) × (140,500/5,000,000) = 0.0641 ≈ 6.4%.  \n \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 7 of 7"
+      }
+    },
+    {
+      "id": "35dd4d6b-4422-45a5-88b1-015705fb1bdf",
+      "prompt": {
+        "text": "A floating-rate note makes semiannual interest payments and has a coupon rate \nequal to the six-month market reference rate plus 45 basis points. The interest \npayments are made in June and December. If the six-month market reference rate \nwas 1.95% in June and 2.25% in December of the same year, the coupon rate paid in \nDecember of that year was closest to:"
+      },
+      "choices": [
+        "2.40%.",
+        "2.55%.",
+        "2.70%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the applicable interest rate in December is the six -month \nmarket reference rate in June plus the 45 basis point margin = 1.95% + 0.45% = \n2.40%."
+      }
+    },
+    {
+      "id": "0c001bbd-0494-419e-86b5-1765004152a3",
+      "prompt": {
+        "text": "If the yield to maturity on an annual -pay bond is 7.75%, the bond-equivalent yield \nyield on semi-annual basis is closest to:"
+      },
+      "choices": [
+        "8.05%.",
+        "7.90%.",
+        "7.61%. \n \n \n  \nYield and Yield Spread Measures for Floating-Rate Instruments \nFaculty:                                                                                    Page 4 of 7"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The most common periodicity for US dollar-denominated bond yields is \ntwo because most bonds in the US dollar market make semiannual coupon payments. \nAn annual rate having a periodicity of two is known as a semiannual bond basis yield, or \nsemiannual bond equivalent yield. Therefore, a semiannual bond basis yield is the yield \nper semiannual period times two. For this example, we need to take the YTM of the \nannual coupon bond, which is an effective annual rate, and convert it to a semiannual \nbond equivalent yield: 2 × (1.07750.5 – 1) = 0.07605 or 7.61%."
+      }
+    }
+  ]
+}

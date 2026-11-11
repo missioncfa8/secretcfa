@@ -1,0 +1,366 @@
+{
+  "title": "Module 03: Benchmarking Returns",
+  "topic": "Quantitative Methods",
+  "module_number": 3,
+  "module_name": "Benchmarking Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "11425775-8aa6-4cd5-a803-43a9ab771643",
+      "prompt": {
+        "text": "The fund attracts another net USD400 million at the start of Year 2 and earns a return of 8% in Year 2. \nThe fund’s money-weighted rate of return is:"
+      },
+      "choices": [
+        "less than its time-weighted rate of return.",
+        "the same as its time-weighted rate of return.",
+        "greater than its time-weighted rate of return."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "baec6b30-c4fa-49a1-9eab-b2ebe6fbc67d",
+      "prompt": {
+        "text": "Given the prices of the following three stocks, what is the percentage change in the price-weighted index \nfor the period?\nStock t = 0 t = 1\nA 30 35\nB 20 15\nC 10 13"
+      },
+      "choices": [
+        "−7.22%",
+        "5.00%",
+        "7.22%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "56a7e261-0a6e-43ff-8288-2f7ec2dacf02",
+      "prompt": {
+        "text": "Given the prices of the following three stocks, what is the percentage change in the equal-weighted index \nfor this period?\nStock t = 0 t = 1\nA 30 35\nB 20 15\nC 10 13"
+      },
+      "choices": [
+        "1.34%",
+        "5.00%",
+        "7.22%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d1933e8b-40fe-4338-845d-ea0dc0e26363",
+      "prompt": {
+        "text": "Stock A is included in both an equal-weighted index and a price-weighted index, with the same proportional \nrepresentation in each. A two-for-one stock split for Stock A is announced and will take effect immediately \nbefore the reweighting date of both indexes. Assuming no other stocks in the indexes undergo splits and \nthere are no significant price fluctuations or capital distributions for these stocks, the price change due to \nthe stock split for Stock A will impact:"
+      },
+      "choices": [
+        "both indexes the same.",
+        "the price-weighted index more than the equal-weighted index.",
+        "the equal-weighted index more than the price-weighted index"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "afe73862-217c-456e-ac98-0fd49ef94f0f",
+      "prompt": {
+        "text": "Given the prices and the number of securities in the table, what is the percentage change in the market \ncapitalization—weighted index for this period?\nStock Number of Securities t = 0 t = 1\nA 1,000 30 35\nB 2,000 20 15\nC 3,000 10 13"
+      },
+      "choices": [
+        "4.00%",
+        "5.00%",
+        "7.22%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fa4d4214-0a59-4937-90b0-278e2cc0068f",
+      "prompt": {
+        "text": "Three companies are included in various indexes. A significant increase in the value of Company A is \nannounced. Which type of index will benefit the most from Company A’s increase in value?"
+      },
+      "choices": [
+        "A price-weighted index",
+        "An equal-weighted index",
+        "A market capitalization–weighted index"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fb192b00-f6af-4316-92a6-6f792225eddb",
+      "prompt": {
+        "text": "An investor purchases one share of stock for $85. Exactly one year later, the company pays a dividend of \n$2.00 per share. This is followed by two more annual dividends of $2.25 and $2.75 in successive years. \nUpon receiving the third dividend, the investor sells the share for $100. The money-weighted rate of return \non this investment is closest to:"
+      },
+      "choices": [
+        "7.97%.",
+        "8.15%.",
+        "8.63%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "edf2eedd-08cb-47e1-8e15-6e3db95dd6d5",
+      "prompt": {
+        "text": "The quarterly returns on a portfolio are as follows:\nQuarter 1 2 3 4\nReturn 20% −20% 10% −10%\nThe time-weighted rate of return of the portfolio is closest to:"
+      },
+      "choices": [
+        "−5.0%.",
+        "−1.3%.",
+        "0.0%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e29677b3-d6d1-424f-897f-9c5ab808e348",
+      "prompt": {
+        "text": "Investor A and Investor B invest in a fund for two years:\nYear 1 Year 2\nFund Return Positive Negative\nPortfolio Money-Weighted Rate of Return\nInvestor A 7.5%\nInvestor B 8.2%\nGiven the information in the table, which of the following is least likely to be an explanation for the \ndifference between the two money-weighted rates of return?"
+      },
+      "choices": [
+        "Investor A increased the investment in the fund at the end of year 1 whereas investor B did not make \nany additions or withdrawals",
+        "Investor B decreased the investment in the fund at the end of year 1 whereas investor A did not make \nany additions or withdrawals",
+        "The investors invested different amounts at inception and afterward did not make any additions or \nwithdrawals"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9af4420f-1874-4aae-84df-c2df8dfe9dfd",
+      "prompt": {
+        "text": "Consider the investment in the following table:\nStart of Year 1 One share purchased at $100\nEnd of Year 1 $5.00 dividend/share paid and one additional share purchased at $125\nEnd of Year 2 $5.00 dividend/share paid and both shares are sold for $140 per share\nAssuming dividends are not reinvested, compared with the time-weighted return, the money-weighted \nreturn is:"
+      },
+      "choices": [
+        "lower.",
+        "the same.",
+        "higher."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "29c588da-7b44-459c-8139-da717bf6c7c0",
+      "prompt": {
+        "text": "An investor summarizes end-of-year cash outlays and proceeds from a two-year investment in a \ncompany's shares below:\nYear Outlays Proceeds\n0 $100 to purchase the first share ---\n1 $110 to purchase the second share $10 dividend received from first share (not reinvested)\n2 --- $230 received from selling two shares at $115 per share\nThe annualized time-weighted rate of return of the investment over the two-year period is closest to:"
+      },
+      "choices": [
+        "9.7%.",
+        "12.0%.",
+        "12.3%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "cbeb61f9-06d9-41dd-8413-831e5be810c9",
+      "prompt": {
+        "text": "An investor gathers the following information about a stock:\nStock price at t = 0 $20\nDividend paid at t = 1 $3\nStock price at t = 1 $12\nDividend paid at t = 2 $1\nStock price at t = 2 $20\nThe investor purchased one unit of the stock at t = 0 and sold it at t = 2. If the dividends were not \nreinvested, the money-weighted rate of return is closest to:"
+      },
+      "choices": [
+        "10%.",
+        "15%.",
+        "20%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fdc68f2e-119e-418b-a045-3ba0cd64093e",
+      "prompt": {
+        "text": "An investor records the following information and transactions for a stock:\nYear Price per Share at Beginning of Year Cash Flow at Beginning of Year\n1 $100 $100 used to purchase one share\n2 $100 $9 received in dividends and not reinvested\n3 $100 $100 received from selling one share\nThe investor's money-weighted rate of return is closest to:"
+      },
+      "choices": [
+        "4.4%.",
+        "4.5%.",
+        "4.6%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "daa0dabb-e564-44e7-9777-dcaf83fcec97",
+      "prompt": {
+        "text": "A portfolio of securities representing a given security market, market segment, or asset class \nis best described as a:"
+      },
+      "choices": [
+        "benchmark.",
+        "total return index.",
+        "security market index."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9e41ccb2-3910-4d05-932b-2d8009ddf695",
+      "prompt": {
+        "text": "A market index contains only the following three securities:\nSecurit\ny Beginning of Period Price per Share ($) Market Cap ($ millions)\nX 100 100\nY 200 150\nZ 110 300\nWhich approach to indexing will most likely give Security X a weight of 18%?"
+      },
+      "choices": [
+        "Equal",
+        "Price",
+        "Market capitalization"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a6025db1-3422-4ecd-9e75-ba0318706a73",
+      "prompt": {
+        "text": "A security market index that reports returns based on the reinvestment of income and the change in \nprice of its constituent securities is best described as which type of index?"
+      },
+      "choices": [
+        "Total return",
+        "Price return",
+        "Float-adjusted"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8fc2578c-d9fb-4319-a008-50aaa1e8b470",
+      "prompt": {
+        "text": "An analyst gathers the following information about an equal-weighted index composed of three \nsecurities:\nSecurit\ny Beginning of Period Price (€) End of Period Price (€) Total Dividends (€)\nA 20 18 1\nB 10 15 3\nC 15 21 0\nThe price return of the index is closest to:"
+      },
+      "choices": [
+        "20%.",
+        "27%.",
+        "38%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "14f534b9-3872-4682-89eb-a93d4329ae2e",
+      "prompt": {
+        "text": "Which of the following index weighting schemes most likely causes a bias in the index when high-priced \nstocks split?"
+      },
+      "choices": [
+        "Price weighted",
+        "Equal weighted",
+        "Value weighted"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9340e11c-82f5-4303-9769-39b4662ba3d5",
+      "prompt": {
+        "text": "If a stock index's constituents make no distributions to their shareholders, the total return of the index \nis:"
+      },
+      "choices": [
+        "less than its price return.",
+        "equal to its price return.",
+        "greater than its price return."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "27d339b0-8abc-4a49-a337-6dda6a037e2e",
+      "prompt": {
+        "text": "An analyst gathers the following information about a price-weighted index composed of three stocks:\nStoc Outstanding Shares Beginning of Period Dividends per Share End of Period Price\nk Price\n1 10,000 $25.00 $2.00 $20.00\n2 40,000 $10.00 $0.50 $13.50\n3 50,000 $10.00 $0.00 $14.00\nThe index's price return is closest to:"
+      },
+      "choices": [
+        "5.6%.",
+        "11.1%.",
+        "25.2%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b963b403-c217-422e-b4f3-7877f1e1477e",
+      "prompt": {
+        "text": "The index weighting method that underrepresents securities that constitute the largest fraction of the \ntarget market value is most likely the:"
+      },
+      "choices": [
+        "price-weighting method.",
+        "equal-weighting method.",
+        "market-capitalization-weighting method"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "title": "Module 23: Introduction to Financial Statement Analysis",
+  "topic": "Financial Statement Analysis",
+  "module_number": 23,
+  "module_name": "Introduction to Financial Statement Analysis",
+  "year": 2027,
+  "items": [
+    {
+      "id": "714a994c-2ffa-4205-8ada-1242652d03a3",
+      "prompt": {
+        "text": "Ratios are an input into which step in the financial statement analysis framework?"
+      },
+      "choices": [
+        "Process data",
+        "Collect input data",
+        "Analyze/interpret the processed data"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Ratios are an output of the process information step but are an input  \ninto the analyze/interpret data step."
+      }
+    },
+    {
+      "id": "c29f144d-75a8-4dd3-92e3-6901a48de203",
+      "prompt": {
+        "text": "Which phase in the financial statement analysis framework is most likely to involve  \nproducing updated reports and recommendations?"
+      },
+      "choices": [
+        "Follow-up",
+        "Analyze/interpret the processed data",
+        "Develop and communicate conclusions and recommendations"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The follow -up phase involves gathering information and repeating  the \nanalysis to determine whether it is necessary to update reports and  \nrecommendations."
+      }
+    },
+    {
+      "id": "2b863b55-69c2-4b73-9b8f-6dc963e29540",
+      "prompt": {
+        "text": "Which of the following best describes the role of financial statement analysis?"
+      },
+      "choices": [
+        "To provide information about a company’s performance",
+        "To provide information about a company’s changes in financial position",
+        "To form expectations about a company’s future performance and financial position"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. In general, analysts seek to examine the past and current performance \nand financial position of a company to form expectations about its future  \nperformance and financial position."
+      }
+    },
+    {
+      "id": "50f4c39f-eac1-439a-8c8c-b6cc26428de2",
+      "prompt": {
+        "text": "The primary role of financial statement analysis is best described as:"
+      },
+      "choices": [
+        "providing information useful for making investment decisions.",
+        "evaluating a company for the purpose of making economic decisions.",
+        "using financial reports prepared by analysts to make economic decisions."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The primary role of financial statement analysis is to use financial  \nreports prepared by companies to evaluate their past, current, and potential  \nperformance and financial position for the purpose of making investment, credit, and \nother economic decisions."
+      }
+    },
+    {
+      "id": "65899745-ea58-4b8e-98d0-0a925a9fa0f9",
+      "prompt": {
+        "text": "International Financial Reporting Standards are currently developed by which entity?"
+      },
+      "choices": [
+        "IFRS Foundation",
+        "International Accounting Standards Board",
+        "International Organization of Securities Commissions"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The International Accounting Standards Board (IASB) is currently  \ncharged with developing International Financial Reporting Standards."
+      }
+    },
+    {
+      "id": "363a8d17-dcea-4c86-bf0d-d05aadf4cc65",
+      "prompt": {
+        "text": "US GAAP are currently developed by which entity?"
+      },
+      "choices": [
+        "Securities and Exchange Commission",
+        "Financial Accounting Standards Board",
+        "Public Company Accounting Oversight Board"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. US Generally Accepted Accounting Principles are developed by the  US \nFinancial Accounting Standards Board (FASB)."
+      }
+    },
+    {
+      "id": "185a5e60-5cb0-42e2-8b12-88cd502265e2",
+      "prompt": {
+        "text": "A core objective of the International Organization of Securities Commissions is to:"
+      },
+      "choices": [
+        "eliminate systemic risk.",
+        "protect users of financial statements.",
+        "ensure that markets are fair, efficient, and transparent."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, \nand transparent. The other core objectives are to reduce, not eliminate,  systemic \nrisk and to protect investors, not all users of financial statements."
+      }
+    },
+    {
+      "id": "510f385c-8be4-4b78-aed0-a0ce4bae4c8d",
+      "prompt": {
+        "text": "Which of the following best describes why the notes that accompany the  financial \nstatements are required? The notes:"
+      },
+      "choices": [
+        "permit flexibility in statement preparation.",
+        "standardize financial reporting across companies.",
+        "provide information necessary to understand the financial statements. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 2 of 8"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The notes provide information that is essential to understanding the  \ninformation provided in the primary statements."
+      }
+    },
+    {
+      "id": "899dbdbb-6598-467c-b727-8877d6369254",
+      "prompt": {
+        "text": "Accounting policies, methods, and estimates used in preparing financial statements  \nare most likely to be found in the:"
+      },
+      "choices": [
+        "auditor’s report.",
+        "management commentary.",
+        "notes to the financial statements."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The notes disclose choices in accounting policies, methods, and  \nestimates."
+      }
+    },
+    {
+      "id": "355bb64c-12a2-452f-83d6-144c5c0ea49e",
+      "prompt": {
+        "text": "Information about management and director compensation is most likely to be found \nin the:"
+      },
+      "choices": [
+        "auditor’s report.",
+        "proxy statement.",
+        "earnings release."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Disclosure of management compensation is typically included in the proxy \nstatement. An earnings release is about corporate earnings, not what managers earn \nas compensation."
+      }
+    },
+    {
+      "id": "61c0840b-917c-4b5d-af54-5152f7875e44",
+      "prompt": {
+        "text": "Information about a company’s objectives, strategies, and significant risks are most \nlikely to be found in the:"
+      },
+      "choices": [
+        "auditor’s report.",
+        "management commentary.",
+        "notes to the financial statements."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. These are components of management commentary."
+      }
+    },
+    {
+      "id": "eb8895ef-12e0-4b6f-b162-2fb463ab59eb",
+      "prompt": {
+        "text": "What type of audit opinion is preferred when analyzing financial statements?"
+      },
+      "choices": [
+        "Adverse",
+        "Qualified",
+        "Unqualified"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. An unqualified opinion is a “clean” opinion and indicates that the financial \nstatements present the company’s performance and financial position  fairly in \naccordance with applicable accounting standards. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 7 of 8"
+      }
+    },
+    {
+      "id": "9bba6f2e-9d86-4040-b6a4-75231541af39",
+      "prompt": {
+        "text": "An auditor determines that a company’s financial statements are prepared in \naccordance with applicable accounting standards except with respect to inventory  \nreporting. This exception is most likely to result in an audit opinion that is:"
+      },
+      "choices": [
+        "adverse.",
+        "qualified.",
+        "unqualified."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A qualified audit opinion is one in which there is some scope limitation or \nexception to accounting standards. Exceptions are described in the audit report with \nadditional explanatory paragraphs so that the analyst can determine the importance \nof the exception."
+      }
+    },
+    {
+      "id": "4b7adaa3-6c42-40cc-bbd7-4e4b6c87f319",
+      "prompt": {
+        "text": "An independent audit report is most likely to provide:"
+      },
+      "choices": [
+        "absolute assurance about the accuracy of the financial statements.",
+        "reasonable assurance that the financial statements are fairly presented.",
+        "a qualified opinion with respect to the transparency of the financial statements."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The independent audit report provides reasonable assurance that the  \nfinancial statements are fairly presented, meaning that there is a high probability  \nthat the audited financial statements are free from material error, fraud, or illegal  \nacts that have a direct effect on the financial statements."
+      }
+    },
+    {
+      "id": "c0102cf2-ffb8-4089-956e-515f0e81aa9f",
+      "prompt": {
+        "text": "Interim financial reports released by a company are most likely to be:"
+      },
+      "choices": [
+        "monthly.",
+        "unaudited.",
+        "unqualified."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Interim reports are typically provided semiannually or quarterly and  \nrequire certain financial information, including unaudited financial statements and an \nMD&A for the interim period covered by the report. Unqualified refers to a type of \naudit opinion."
+      }
+    },
+    {
+      "id": "1dcb955e-ab7e-426d-93c6-12962a1de956",
+      "prompt": {
+        "text": "Which of the following sources of information used by analysts is found outside a  \ncompany’s annual report?"
+      },
+      "choices": [
+        "Auditor’s report",
+        "Peer company analysis",
+        "Management discussion and analysis \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 3 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. When performing financial statement analysis, analysts should review all \ncompany sources of information as well as information from external  sources \nregarding the economy, the industry, the company, and peer (comparable) companies."
+      }
+    },
+    {
+      "id": "66cc1651-5fdf-4f71-ba3d-80dddf6c0849",
+      "prompt": {
+        "text": "For a company issuing securities in the United States to meet its obligations under \nthe Sarbanes–Oxley Act, which of the following is management required to attest to?"
+      },
+      "choices": [
+        "The adequacy of internal control over financial reporting",
+        "The suitability of management and director compensation agreements",
+        "The accuracy of estimates and assumptions used in preparing the financial \nstatements"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the [Sarbanes-Oxley] act addresses auditor independence (it \nprohibits auditors from providing certain non -audit services to the companies they \naudit); strengthens corporate responsibility for financial reports (it requires \nexecutive management to certify that the company's financial reports fairly present \nthe company's condition); and requires management to report on the effectiveness \nof the company's internal control over financial reporting (including obtaining \nexternal auditor confirmation of the effectiveness of internal control)."
+      }
+    },
+    {
+      "id": "180ef436-d4e4-4346-b77a-1834bf22ceeb",
+      "prompt": {
+        "text": "Which of the following reports is least likely to be filed with the US SEC?"
+      },
+      "choices": [
+        "Annual report",
+        "Form 10-K",
+        "Proxy statement"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the annual report is not a requirement of the US SEC."
+      }
+    },
+    {
+      "id": "aff7fa4d-b81a-4b05-8fe9-f497b36790f9",
+      "prompt": {
+        "text": "Interim reports most likely:"
+      },
+      "choices": [
+        "are audited.",
+        "are issued semi-annually or quarterly.",
+        "include a full set of financial statements and notes."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Interim reports are provided semi -annually or quarterly, depending on \napplicable regulatory requirements."
+      }
+    },
+    {
+      "id": "332a7339-1848-4f48-a8ae-0c225b8a4e4b",
+      "prompt": {
+        "text": "Which of the following statements is most accurate about the responsibilities of an \nauditor for a publicly traded firm in the United States? The auditor must:"
+      },
+      "choices": [
+        "state that the financial statements are prepared according to generally accepted \naccounting principles.",
+        "ensure that the financial statements are free from error, fraud, or illegal acts.",
+        "express an opinion about the effectiveness of the company’s internal control \nsystems."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. For a publicly traded firm in the United States, the auditor must express \nan opinion as to whether the company’s internal control system is in accordance with \nthe Public Accounting Oversight Board, under the Sarbanes –Oxley Act. The opinion \nis given either in a final paragraph in the auditor’s report or as a separate opinion."
+      }
+    },
+    {
+      "id": "1bc5d443-5ede-4943-8b73-0b4b8d76fe22",
+      "prompt": {
+        "text": "Common-size financial statements are most likely a component of which step in the \nfinancial analysis framework?"
+      },
+      "choices": [
+        "Collect data",
+        "Analyze/interpret data",
+        "Process data"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Preparing common-size financial statements is part of the process data \nstep."
+      }
+    },
+    {
+      "id": "f6a1f464-40f2-4d00-a229-2c7f58c46927",
+      "prompt": {
+        "text": "Providing information about the performance of a company, its financial position, and \nchanges in financial position that is useful to a wide range of users is most accurately \ndescribed as the role of:"
+      },
+      "choices": [
+        "financial reporting.",
+        "the audit report.",
+        "financial statement analysis."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The role of financial reporting is to provide information about the \nperformance of a company, its financial position, and changes in financial position that \nis useful to a wide range of users in making economic decisions. \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 8 of 8"
+      }
+    },
+    {
+      "id": "e4cc8395-241f-44cd-ad01-e9f2871d1ea2",
+      "prompt": {
+        "text": "The role of the International Organization of Securities Commissions (IOSCO) is \nbest described as:"
+      },
+      "choices": [
+        "promoting cross-border cooperation and uniformity in securities regulation.",
+        "enforcing financial reporting requirements for entities participating in capital \nmarkets. \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 4 of 8",
+        "promoting the use of International Financial Reporting Standards (IFRS) and the \nconvergence of national accounting standards."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because IOSCO assists in attaining the goal of uniform regulation as well \nas cross-border cooperation in combating violations of securities and derivatives laws."
+      }
+    },
+    {
+      "id": "6f83cb2a-e940-41dd-bc8c-24a890973ad9",
+      "prompt": {
+        "text": "Where might an analyst look for details covering the full extent of a company’s capital \nresources?"
+      },
+      "choices": [
+        "Balance sheet",
+        "Notes to the financial statements",
+        "Management discussion and analysis (MD&A)"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because in the MD&A, management must highlight  any favorable or \nunfavorable trends and identify significant events and uncertainties that affect the \ncompany’s liquidity, capital resources, and results of operations. The MD&A must also \nprovide information a bout off -balance-sheet obligations and about contractual \ncommitments, such as purchase obligations."
+      }
+    },
+    {
+      "id": "86ec67a0-d17b-4b76-a7dd-56ebbfdad988",
+      "prompt": {
+        "text": "Notes to financial statements most likely include:"
+      },
+      "choices": [
+        "an auditor’s opinion as to the fair presentation of the financial statements.",
+        "supplementary information about accounting policies, methods, and estimates.",
+        "a discussion of significant trends, events, and uncertainties that affect the \noperating results."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the notes also disclose information about the accounting policies, \nmethods, and estimates used to prepare the financial statements."
+      }
+    },
+    {
+      "id": "f611a3fc-bf02-4b6f-8a96-785790027a6a",
+      "prompt": {
+        "text": "A disclaimer of opinion is issued when an auditor:"
+      },
+      "choices": [
+        "is unable to issue an opinion.",
+        "notes an exception to accounting standards.",
+        "finds a material departure from accounting standards."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a disclaimer of opinion occurs when auditors are unable to issue \nan opinion."
+      }
+    },
+    {
+      "id": "e0942df4-8ed7-46ec-90df-1a4883a26c4a",
+      "prompt": {
+        "text": "Which of the following opinions is the best indication that the auditor believes that \nthe financial statements depart materially from accounting standards and are not \nfairly presented?"
+      },
+      "choices": [
+        "Adverse opinion",
+        "Qualified opinion",
+        "Disclaimer of opinion"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because an adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented."
+      }
+    },
+    {
+      "id": "5acc2c75-5842-4c60-976e-7228bb3c6664",
+      "prompt": {
+        "text": "A qualified audit opinion is most likely issued when financial statements are prepared:"
+      },
+      "choices": [
+        "in compliance with accounting standards.",
+        "with material departures from accounting standards.",
+        "with some limitation or exception to accounting standards."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because financial statements showing “scope limitation or exception to \naccounting standards” will earn a qualified opinion."
+      }
+    },
+    {
+      "id": "d2861409-d901-42e9-bdd5-098b5c20ebaa",
+      "prompt": {
+        "text": "Common-size statements are most likely the output of which of the following phases \nof the financial statement analysis framework?"
+      },
+      "choices": [
+        "Process data",
+        "Analyze/interpret the processed data",
+        "Develop and communicate conclusions and recommendations"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because common-size statements are an output of the “process data” \nphase of the financial statement analysis framework."
+      }
+    },
+    {
+      "id": "89dc098e-2bd6-49dc-8a7c-620300402c20",
+      "prompt": {
+        "text": "Which of the following is most likely found in the management commentary?"
+      },
+      "choices": [
+        "Forward-looking disclosures",
+        "Basis of preparation for the financial statements",
+        "Reasonable assurance whether the financial statements as a whole are free from \nmaterial misstatement \n \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 5 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the management commentary, or MD&A, is a good starting place \nfor understanding information in the financial statements. In particular, the forward-\nlooking disclosures, such as those about planned capital expenditures, new store \nopenings, or divestitures, can be useful in projecting a company’s future performance."
+      }
+    },
+    {
+      "id": "c46e83c7-57a1-459f-9f87-4b506f74390e",
+      "prompt": {
+        "text": "Which of the following is most appropriately issued when an auditor determines that \nthe financial statements materially depart from accounting standards and are not \nfairly presented?"
+      },
+      "choices": [
+        "Adverse opinion",
+        "Qualified opinion",
+        "Disclaimer of opinion"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because \"[a]n adverse audit opinion is issued when an auditor determines \nthat the financial statements materially depart from accounting standards and are \nnot fairly presented.\""
+      }
+    },
+    {
+      "id": "28b82dc5-2217-42f8-b51a-bf653fbb5605",
+      "prompt": {
+        "text": "Which of the following statements is most accurate? The role of financial statement \nanalysis is to:"
+      },
+      "choices": [
+        "provide assurance that the audited financial statements are free from material \nerror.",
+        "provide information about a company’s performance, financial position, and \nchanges in financial position.",
+        "evaluate the performance and financial position of a company for  making \ninvestment, credit, and other economic decisions."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the role of financial statement analysis is to use financial reports \nprepared by companies, combined with other information, to evaluate the past, \ncurrent, and potential performance and financial position of a company for the \npurpose of making investment, credit, and other economic decisions."
+      }
+    },
+    {
+      "id": "fb6780f2-1e4b-4a94-b404-ac32f0357b60",
+      "prompt": {
+        "text": "Earnings calls are most likely sourced from:"
+      },
+      "choices": [
+        "issuers.",
+        "public third parties.",
+        "proprietary third parties."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because \"earnings calls\" are considered to be from \"issuer sources\"."
+      }
+    },
+    {
+      "id": "50387e27-dd31-48da-b43e-7297a0385201",
+      "prompt": {
+        "text": "The role of financial reporting is best described as:"
+      },
+      "choices": [
+        "making operating, investing, and financial decisions.",
+        "providing information about a company's performance, financial position, and \nchange in financial position.",
+        "evaluating a company's past, current, and potential performance for the purpose \nof making economic decisions. \n \n \n \n \n  \nIntroduction to Financial Statement Analysis \nFaculty:                                                                         Page 6 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the role of financial statements issued by companies is to \nprovide information about a company’s performance, financial position, and changes in \nfinancial position."
+      }
+    }
+  ]
+}

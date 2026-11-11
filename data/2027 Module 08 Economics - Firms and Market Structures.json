@@ -1,0 +1,859 @@
+{
+  "title": "Module 08: Firms and Market Structures",
+  "topic": "Economics",
+  "module_number": 8,
+  "module_name": "Firms and Market Structures",
+  "year": 2027,
+  "items": [
+    {
+      "id": "906af5ad-cb49-4146-8a48-414d99e8a9f9",
+      "prompt": {
+        "text": "The short-term shutdown point of production for a firm operating under \nperfect competition will most likely occur when:"
+      },
+      "choices": [
+        "price is equal to average total cost.",
+        "marginal revenue is equal to marginal cost.",
+        "marginal revenue is equal to average variable costs."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The firm should shut down production when marginal revenue is less than \nor equal to average variable cost."
+      }
+    },
+    {
+      "id": "68554850-66d9-4110-a30c-558c8e6b945d",
+      "prompt": {
+        "text": "Under conditions of perfect competition, a company will break even when \nmarket price is equal to the minimum point of the:"
+      },
+      "choices": [
+        "average total cost curve.",
+        "average variable cost curve.",
+        "short-run marginal cost curve."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A company is said to break even if its total revenue is equal to its total \ncost. Under conditions of perfect competition, a company will break even when market \nprice is equal to the minimum point of the average total cost curve."
+      }
+    },
+    {
+      "id": "2082a740-cd38-4ef7-a290-9ad8a287dfda",
+      "prompt": {
+        "text": "A company will shut down production in the short run if total revenue is \nless than total:"
+      },
+      "choices": [
+        "fixed costs.",
+        "variable costs.",
+        "opportunity costs."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A company will shut down production in the short run when total revenue \nis below total variable costs."
+      }
+    },
+    {
+      "id": "d4874c5d-629e-4973-b9c9-05ea7632b1c8",
+      "prompt": {
+        "text": "A company has total variable costs of $4 million and fixed costs of $3 \nmillion. Based on this information, the company will stay in the market in the long term \nif total revenue is at least:"
+      },
+      "choices": [
+        "$3.0 million.",
+        "$4.5 million.",
+        "$7.0 million."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A company will stay in the market in the long term if total revenue is  \nequal to or greater than total cost. Because total costs are $7 million ($4 million  \nvariable costs and $3 million fixed costs), the company will stay in the market in the \nlong term if total revenue equals at least $7 million."
+      }
+    },
+    {
+      "id": "b2be1ace-8887-43be-9e27-7bb5d6336898",
+      "prompt": {
+        "text": "When total revenue is greater than total variable costs but less than total \ncosts, in the short term, a firm will most likely:"
+      },
+      "choices": [
+        "exit the market.",
+        "stay in the market.",
+        "shut down production."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. When total revenue is enough to cover variable costs but not total fixed \ncosts in full, the firm can survive in the short run but would not be able to  maintain \nfinancial solvency in the long run."
+      }
+    },
+    {
+      "id": "22f85399-77d6-4483-95e3-7125d2243ee4",
+      "prompt": {
+        "text": "Under conditions of perfect competition, in the long run, firms will most \nlikely earn:"
+      },
+      "choices": [
+        "normal profits.",
+        "positive economic profits.",
+        "negative economic profits."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Competition should drive prices down to long-run marginal cost, resulting \nin only normal profits being earned."
+      }
+    },
+    {
+      "id": "52c5be3d-bde9-4337-88fe-c81e7828db62",
+      "prompt": {
+        "text": "A firm that increases its quantity produced without any change in per-unit \ncost is experiencing:"
+      },
+      "choices": [
+        "economies of scale.",
+        "diseconomies of scale.",
+        "constant returns to scale. \nFirms and Market Structures \nFaculty:                                                                         Page 2 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Output increases in the same proportion as input increases occur at  \nconstant returns to scale."
+      }
+    },
+    {
+      "id": "4e81b5e1-a8dc-4af5-bb2a-d9a3a612e237",
+      "prompt": {
+        "text": "A company is experiencing economies of scale when:"
+      },
+      "choices": [
+        "cost per unit increases as output increases.",
+        "it is operating at a point on the LRAC curve at which the slope is negative.",
+        "it is operating beyond the minimum point on the long-run average total cost curve."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Economies of scale occur if, as the firm increases output, cost per unit \nof production falls. Graphically, this definition translates into an LRAC with a negative \nslope."
+      }
+    },
+    {
+      "id": "bec0b580-9db4-4694-b609-d214b17c8f01",
+      "prompt": {
+        "text": "Diseconomies of scale most likely result from:"
+      },
+      "choices": [
+        "specialization in the labor force.",
+        "overlap of business functions and product lines.",
+        "discounted prices on resources when buying in larger quantities."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. As the firm increases output, diseconomies of scale and higher average \ntotal costs can result when business functions and product lines overlap or  are \nduplicated."
+      }
+    },
+    {
+      "id": "e78b60a9-b061-47f1-a6a4-ff9cfd61b97d",
+      "prompt": {
+        "text": "A firm is operating beyond minimum efficient scale in a perfectly \ncompetitive industry. To maintain long-term viability, the most likely course of action \nfor the firm is to:"
+      },
+      "choices": [
+        "operate at the current level of production.",
+        "increase its level of production to gain economies of scale.",
+        "decrease its level of production to the minimum point on the long-run average total \ncost curve."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The firm operating at greater than long-run efficient scale is subject to \ndiseconomies of scale. It should plan to decrease its level of production."
+      }
+    },
+    {
+      "id": "7fd32e51-15ad-4b01-a34e-cd3dd6e938b3",
+      "prompt": {
+        "text": "Companies most likely have a well-defined supply function when the market \nstructure is:"
+      },
+      "choices": [
+        "oligopoly.",
+        "perfect competition.",
+        "monopolistic competition."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A company in a perfectly competitive market must accept whatever price \nthe market dictates. The marginal cost schedule of a company in a perfectly  \ncompetitive market determines its supply function."
+      }
+    },
+    {
+      "id": "35d9a2cd-697d-4c97-aae9-a0efa42a541f",
+      "prompt": {
+        "text": "Aquarius, Inc. is the dominant company and the price leader in its market. \nOne of the other companies in the market attempts to gain market share by \nundercutting the price set by Aquarius. The market share of Aquarius will most likely:"
+      },
+      "choices": [
+        "increase.",
+        "decrease.",
+        "stay the same."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. As prices decrease, smaller companies will leave the market rather than \nsell below cost. The market share of Aquarius, the price leader, will increase. \n \nFirms and Market Structures \nFaculty:                                                                         Page 11 of 16"
+      }
+    },
+    {
+      "id": "60e7fd36-2f89-4caf-8755-d9117689556b",
+      "prompt": {
+        "text": "Over time, the market share of the dominant company in an oligopolistic \nmarket will most likely:"
+      },
+      "choices": [
+        "increase.",
+        "decrease.",
+        "remain the same."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The dominant company’s market share tends to decrease as profits  \nattract entry by other companies."
+      }
+    },
+    {
+      "id": "c67e38ab-bcac-4d0a-8c75-3a6eb0287b63",
+      "prompt": {
+        "text": "Successful advertising and product differentiation are most likely to have \na positive impact on the economic profits of a producer under:"
+      },
+      "choices": [
+        "monopolistic competition.",
+        "perfect competition.",
+        "monopoly. \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 3 of 16"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Advertising and product differentiation are most likely to have a positive \nimpact on the economic profits of producers under monopolistic competition. The \nmonopoly aspect of this structure arises from the ability to differentiate its product."
+      }
+    },
+    {
+      "id": "618ca313-2d26-40f2-ae01-201b206f22db",
+      "prompt": {
+        "text": "The two dominant supermarket chains in the area are attempting to \nincrease their market share by moving to 24-hour service instead of closing at 9 p.m. \nevery night. The strategic outcomes and payoff matrix that arise from their actions \nare depicted in the diagram (with the shaded sections representing payoffs for Chain \n2). \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe most likely Nash equilibrium strategy for the two chains is for:"
+      },
+      "choices": [
+        "both chains to open for 24 hours.",
+        "only Chain 2 to open for 24 hours.",
+        "both chains to close at 9 p.m."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Each company will consider the other’s reaction in selecting its strategy. \nUsing the following summary, it is best for both chains to provide 24-hour service. \nChain Consideration Best Decision \n  If it opens for 24 hours, it will see a higher \npayoff regardless of what Chain 2 does. \n \n  Chain 2 Chain 2  \n1 Closes at 9 p.m. Opens for 24 hours Open for 24 \nhours \n  Chain 1 earns 540 instead \nof 180 \nChain 1 earns 108 \ninstead of 55 \n \n  If it opens for 24 hours, it will see a higher \npayoff regardless of what Chain 1 does. \n \n  Chain 1 Chain 1  \n2 Chain 1 \nCloses at 9 p.m. \nChain 1 \nOpens for 24 hours \nOpen for 24 \nhours \n  Chain 2 earns 592 instead \nof 290 \nChain 2 earns 140 \ninstead of 75"
+      }
+    },
+    {
+      "id": "838ac2d4-eb2b-4874-a0c2-5c996f2997d9",
+      "prompt": {
+        "text": "Six companies in an industry have the following market shares: \nCompany A B C D E F \nMarket Share (%) 30 25 16 12 10 7 \n \nIf Companies D and F merge into a new Company, G, the industry’s three -company \nconcentration ratio would be closest to:"
+      },
+      "choices": [
+        "71%.",
+        "72%.",
+        "74%. \n \n \n \n \n \n \n \n \n \n \n \n\nFirms and Market Structures \nFaculty:                                                                         Page 4 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The concentration ratio for the top three companies would be 74%: \nA (30%) + B (25%) + G (12% + 7%)."
+      }
+    },
+    {
+      "id": "a250da2e-7bb7-4ec2-ae51-1ae9bf9299ec",
+      "prompt": {
+        "text": "Assume that two firms in a duopoly enter into a collusive agreement in an \nattempt to form a cartel and restrict output, raise prices, and increase profits. \nAccording to the Nash equilibrium, a low price is most likely charged by:"
+      },
+      "choices": [
+        "only one firm.",
+        "both firms.",
+        "neither firm."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The market outcomes for two firms in a duopoly is shown in the diagram. \nThe lower left hand quadrant is the Nash solution when there is no collusion. However, \nwith collusion, if ArcCo shares at least enough of its profit in the bottom right \nquadrant to provide BatCo more than it would receive in the lower left, it will be the \noptimal solution for the pair: the maximum joint profits will arise where both firms \ncharge high prices for the product. \n \n \n \n \n \n \n \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 12 of 16"
+      }
+    },
+    {
+      "id": "c7b99439-9251-4cca-9e79-359cb682c807",
+      "prompt": {
+        "text": "Which characteristic is a firm least likely to exhibit if it faces a downward \nsloping demand curve for its product(s), many competitors, and zero economic profits \nin the long run?"
+      },
+      "choices": [
+        "No pricing power",
+        "Low barriers to entry",
+        "Differentiated product"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The characteristics of monopolistic competition include a large number \nof competitors, low pricing power, and the production of differentiated products \n(through advertising and other non -price strategies), but these still result in some \npricing power. The ease of entry results in zero economic profits in the long run."
+      }
+    },
+    {
+      "id": "3d2a959c-8807-4478-b6f2-04a2e0870b95",
+      "prompt": {
+        "text": "With its existing production facilities, a monopolist firm can produce up \nto 100 units. It faces the following demand and cost schedules: \nOutput (Units) Price ($/Unit) Total Costs ($) \n0 3,000 600 \n20 2,800 10,600 \n40 2,600 32,600 \n60 2,400 66,600 \n80 2,200 112,600 \n100 2,000 170,600 \n \nThe optimal output level for this producer (in units) is closest to:"
+      },
+      "choices": [
+        "100.",
+        "60.",
+        "20. \n \n\nFirms and Market Structures \nFaculty:                                                                         Page 5 of 16"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The optimal output level is 60 units because that level produces the \nhighest profit: \nOutput \n(Units) \nPrice \n($/Unit) \nTotal \nRevenue ($) \nTotal Costs \n($) Profit ($) \n20 2,800 56,000 10,600 45,400 \n40 2,600 1,04,000 32,600 71,400 \n60 2,400 1,44,000 66,600 77,400 \n80 2,200 1,76,000 1,12,600 63,400 \n100 2,000 2,00,000 1,70,600 29,400"
+      }
+    },
+    {
+      "id": "9ec08007-5312-4a04-a751-84a5c8a927b8",
+      "prompt": {
+        "text": "Three firms operate under perfect competition, producing 900 units of \nthe same product but using different production technologies. Each company’s cost \nstructure is indicated in the table: \nCompany X Y Z \nTotal Variable Costs $2,700 $3,600 $4,500 \nTotal Fixed Costs 2,700 1,800 900 \nTotal Costs $5,400 $5,400 $5,400 \n \nWhich of the following statements is most accurate? If the unit selling price is:"
+      },
+      "choices": [
+        "$6.00, all firms should exit the market in the long run.",
+        "$4.50, all firms should continue to operate in the short run, but exit the market \nin the long run if these conditions are expected to persist.",
+        "$3.00, Firm X should continue to operate in the short run, but Firms Y and Z \nshould shut down production."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nRevenue–Cost Relationship Short-Run Decision Long-Term Decision \nTR ≥ TC Stay in market Stay in market \nTR > TVC but TR < TFC + TVC Stay in market Exit market \nTR < TVC Shut down production Exit market \n \nTR = Total Revenue; TC = Total Costs; TVC = Total Variable Costs; TFC = Total Fixed \nCosts \nHence, if the selling price is $3.00, total revenue for all firms will be $3.00/unit × \n900 units = $2,700. Only Firm X’s variable costs are covered and it should continue \noperating, while Firms Y and Z should immediately shut down production."
+      }
+    },
+    {
+      "id": "a53cd9d4-1205-46db-9bd8-845f1085fb3f",
+      "prompt": {
+        "text": "Which of the following statements about a downward -sloping long -run \naverage cost (LRAC) curve is most accurate? A downward -sloping LRAC curve is \nrepresentative of a firm experiencing:"
+      },
+      "choices": [
+        "economies of scale.",
+        "diseconomies of scale.",
+        "decreasing levels of investment."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. When the LRAC curve is downward sloping, it means the firm is producing \nunits at lower average costs per unit as production levels rise. This situation \nrepresents economies of scale in production."
+      }
+    },
+    {
+      "id": "c67aa9e3-aa6d-44fe-ba3d-8136dc9e49e8",
+      "prompt": {
+        "text": "Firms operating under a monopolistic competition market structure most \nlikely:"
+      },
+      "choices": [
+        "have few competitors.",
+        "benefit from high barriers to entry.",
+        "sell products that are close substitutes for those offered by other firms."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because under monopolistic competition, the products offered by each \nseller are close substitutes for the products offered by other firms, and each firm \ntries to make its product look different."
+      }
+    },
+    {
+      "id": "38f36970-6119-4d49-8a11-e6b73782b610",
+      "prompt": {
+        "text": "A market structure characterized by homogeneous/standardized \nproduct differentiation is best described as:"
+      },
+      "choices": [
+        "monopoly.",
+        "monopolistic competition.",
+        "perfect competition and oligopoly."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct Perfect competition and oligopoly are characterized by \nhomogeneous/standardized product differentiation. \nMarket Structure Degree of Product Differentiation \nPerfect competition Homogeneous/standardized \nMonopolistic competition Differentiated \nOligopoly Homogeneous/standardized \nMonopoly Unique product \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 13 of 16"
+      }
+    },
+    {
+      "id": "84cbf347-97c1-4132-b65f-a12bcbc175d8",
+      "prompt": {
+        "text": "In a perfectly competitive market, a firm's breakeven point is the \nminimum point of the:"
+      },
+      "choices": [
+        "average total cost curve.",
+        "average fixed cost curve.",
+        "average variable cost curve."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because economists refer to the minimum AVC point as the shutdown \npoint and the minimum ATC point as the breakeven point."
+      }
+    },
+    {
+      "id": "3756c67c-99c6-4f79-a8d8-78dd18c32757",
+      "prompt": {
+        "text": "In the long run, a monopolistically competitive firm: \nFirms and Market Structures \nFaculty:                                                                         Page 6 of 16"
+      },
+      "choices": [
+        "earns positive economic profits.",
+        "faces a perfectly elastic demand curve.",
+        "produces at a higher level of average cost than the minimum average cost."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because in the hybrid market of monopolistic competition, zero economic \nprofit in long-run equilibrium resembles perfect competition. However, the long -run \nlevel of output, Q1, is less than Q2, which corresponds to the minimum average cost \nof production an d would be the long -run level of output in a perfectly competitive \nmarket."
+      }
+    },
+    {
+      "id": "e153e53c-a311-4fff-9abd-c9cc60dec99f",
+      "prompt": {
+        "text": "In an oligopoly market, which of the following best describes the \nsituation when firms have no incentive to deviate from their current pricing \nstrategy based on the anticipated choices of competitors?"
+      },
+      "choices": [
+        "The Nash equilibrium",
+        "The Stackelberg model",
+        "Pricing interdependence"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the Nash equilibrium is present when two or more participants in \na non - cooperative game have no incentive to deviate from their respective \nequilibrium strategies after they have considered and anticipated their opponent’s \nrational choices or strategies."
+      }
+    },
+    {
+      "id": "9de5f2ae-78a9-423b-a30c-ba5b3b4cee99",
+      "prompt": {
+        "text": "In which of the following market structures does marginal revenue equal \nprice?"
+      },
+      "choices": [
+        "Oligopoly",
+        "Monopoly",
+        "Perfect competition"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because only in perfect competition does the marginal revenue equal \nprice. In the remaining structures, price generally exceeds marginal revenue because \na firm can sell more units only by reducing the per unit price."
+      }
+    },
+    {
+      "id": "f1f1b786-0fed-4cb6-89c1-39bc1f439d46",
+      "prompt": {
+        "text": "The perfectly competitive firm's supply curve is its long-run:"
+      },
+      "choices": [
+        "marginal cost schedule.",
+        "average revenue schedule.",
+        "average total cost schedule."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the long-run marginal cost schedule is the perfectly competitive \nfirm's supply curve."
+      }
+    },
+    {
+      "id": "b28ed362-54f0-4089-afb2-4dff7cf8e5ce",
+      "prompt": {
+        "text": "To calculate the Herfindahl–Hirschman index:"
+      },
+      "choices": [
+        "add the market shares of the largest firms.",
+        "add the market shares of the largest firms and then square the sum.",
+        "square the market shares of the largest firms and then add the results."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because to avoid the known issues with concentration ratios, economists \nO.C. Herfindahl and A.O. Hirschman suggested an index where the market shares of \nthe top N companies are first squared and then added."
+      }
+    },
+    {
+      "id": "a7ebabdd-25b2-4ab5-b67d-f04a2524e79f",
+      "prompt": {
+        "text": "An analyst gathers the following information about three markets: \n  Number of \nSellers \nNon-Price \nCompetition \nMarket 1 Many None \nMarket 2 Few Strong \nMarket 3  Many Strong \n \nWhich market is most likely an oligopoly?"
+      },
+      "choices": [
+        "Market 1",
+        "Market 2",
+        "Market 3"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in an oligopoly market  there are a small number of potential \nsellers and products are often highly differentiated through marketing, features, \nand other non-price strategies."
+      }
+    },
+    {
+      "id": "3fd3d34e-f292-40d8-9e5c-560b9e043135",
+      "prompt": {
+        "text": "Monopolistic competition is best characterized by:"
+      },
+      "choices": [
+        "high barriers to entry and exit.",
+        "a small number of buyers and sellers.",
+        "product differentiation through non-price strategies. \n \nFirms and Market Structures \nFaculty:                                                                         Page 7 of 16"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for a monopolistically competitive firm: suppliers differentiate \ntheir products through advertising and other non-price strategies."
+      }
+    },
+    {
+      "id": "15dd7823-7f00-4040-a55b-03a09f924906",
+      "prompt": {
+        "text": "If a perfectly competitive industry becomes monopolistically \ncompetitive, each firm's long-run average total cost per unit sold will most likely:"
+      },
+      "choices": [
+        "decrease.",
+        "remain the same.",
+        "increase."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because unlike long-run equilibrium in perfect competition, in the market \nof monopolistic competition, the equilibrium position is at a higher level of average \ncost than the level of output that minimizes average cost. Average cost does not \nreach its minim um until output level Q2 is achieved.  Under perfect competition a \nproduct is produced at the efficient quantity (marginal revenue equals marginal cost) \nand average total cost is minimized. The demand faced by each firm is perfectly \nelastic (ho rizontal demand curve). However, under monopolistic competition the \ndemand curve is downward sloping and the quantity produced (marginal revenue equals \nmarginal cost) is not where average total cost is minimized. Thus, average total cost \nis lower under perfect competition."
+      }
+    },
+    {
+      "id": "3ed93bd2-b800-4fc8-bc51-8835c382d47e",
+      "prompt": {
+        "text": "If a monopolistically competitive industry becomes perfectly \ncompetitive, each firm's long-run average total cost per unit sold will most likely:"
+      },
+      "choices": [
+        "decrease.",
+        "remain the same.",
+        "increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because under perfect competition a product is produced at the efficient \nquantity (marginal revenue equals marginal cost) and the average total cost is \nFirms and Market Structures \nFaculty:                                                                         Page 14 of 16 \n \nminimized. The demand curve faced by each firm is perfectly elastic (horizontal \ndemand curve). However, under monopolistic competition the demand curve is \ndownward sloping and the quantity produced (marginal revenue equals marginal cost) \nis not where average total cost is minimized. Thus, average total cost is lower under \nperfect competition."
+      }
+    },
+    {
+      "id": "172253d7-41c5-49b9-a5dc-1f2298a0bb75",
+      "prompt": {
+        "text": "In the short run, the shutdown point of a company with a total variable \ncost of $3 million and a total fixed cost of $5 million is when total revenue declines \nto:"
+      },
+      "choices": [
+        "$3 million.",
+        "$5 million.",
+        "$8 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because as long as the firm’s revenues cover  at least its variable cost, \nthe firm is better off continuing to operate. If price is greater than average variable \ncost (AVC), the firm is covering not only all of its variable cost but also a portion of \nfixed cost. Also, average revenue (AR) is revenue per unit."
+      }
+    },
+    {
+      "id": "49a21632-f3d9-46e2-aeb6-a38bf3cc7365",
+      "prompt": {
+        "text": "A firm in a market environment characterized by monopolistic \ncompetition is most likely to:"
+      },
+      "choices": [
+        "continue to experience economic profit in the long run.",
+        "have a well-defined supply function reflecting its marginal and average costs.",
+        "have many competitors each following its own product differentiation strategy."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct as the name implies, monopolistic competition is a hybrid market \nstructure. The most distinctive factor in monopolistic competition is product \ndifferentiation. Although the market is made up of many firms that compose the \nproduct group, each producer attempt s to distinguish its product from that of the \nothers, and product differentiation is accomplished in a variety of ways."
+      }
+    },
+    {
+      "id": "f8628e56-d0ee-41c1-aabb-e90074583311",
+      "prompt": {
+        "text": "In long-run equilibrium, the perfectly competitive firm's supply curve \nis best represented by the firm's long-run:"
+      },
+      "choices": [
+        "marginal cost schedule.",
+        "average revenue schedule.",
+        "marginal revenue schedule."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the long-run marginal cost schedule is the perfectly competitive \nfirm’s supply curve. The firm’s demand curve is dictated by the aggregate market’s \nequilibrium price. The basic rule of profit maximization is that MR = MC, as is the \ncase in long-run equilibrium."
+      }
+    },
+    {
+      "id": "f7a0574a-373a-4c44-b1f1-9a4a762c3753",
+      "prompt": {
+        "text": "Under monopolistic competition, a firm's supply curve is represented by:"
+      },
+      "choices": [
+        "average cost.",
+        "marginal cost.",
+        "neither average cost nor marginal cost."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because in perfect competition, the firm’s supply schedule is represented \nby the marginal cost schedule. In monopolistic competition, there is no well -defined \nsupply function. The information used to determine the appropriate level of output is \nbased on the intersection of MC and MR. However, the price that will be charged is \nbased on the market demand schedule. The firm’s supply curve should measure the \nquantity the firm is willing to supply at various prices. That information is not \nrepresented by either marginal cost or average cost."
+      }
+    },
+    {
+      "id": "3534df2d-f895-4451-92f9-a16dbe6c80f4",
+      "prompt": {
+        "text": "Under which of the following market structures are pricing \nstrategies most likely influenced by the expected reaction of other firms?"
+      },
+      "choices": [
+        "Oligopoly",
+        "Perfect competition",
+        "Monopolistic competition"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the oligopoly market structure is based on a relatively small \nnumber of firms supplying the market. The small number of firms in the market means \nthat each firm must consider what retaliatory strategies the other firms will pursue \nwhen prices and production levels change. Consider the pricing behavior of commercial \nairline companies. Pricing strategies and route scheduling are based on the expected \nreaction of the other carriers in similar markets."
+      }
+    },
+    {
+      "id": "dadcef44-5365-4ff7-b51d-88bdc82462f8",
+      "prompt": {
+        "text": "Each oligopoly firm faces an individual demand curve under: \nFirms and Market Structures \nFaculty:                                                                         Page 8 of 16"
+      },
+      "choices": [
+        "colluding market conditions only.",
+        "non-colluding market conditions only.",
+        "both colluding and non-colluding market conditions."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in an oligopoly market where collusion is present, the aggregate \nmarket demand curve is divided up by the individual production participants. Under \nnon-colluding market conditions, each firm faces an individual demand curve."
+      }
+    },
+    {
+      "id": "68a81561-547a-482f-ab52-bdf279bf2b9c",
+      "prompt": {
+        "text": "In theory, under which of the following market structures do firms have \nthe least control over price?"
+      },
+      "choices": [
+        "Oligopoly",
+        "Monopoly",
+        "Monopolistic competition"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because from the perspective of the owners of the firm, the most \ndesirable market structure is that with the most control over price, because this \ncontrol can lead to large profits. Monopoly and oligopoly markets offer the greatest \nFirms and Market Structures \nFaculty:                                                                         Page 15 of 16 \n \npotential control over price; monopolistic competition offers less control. Firms \noperating under perfectly competitive market conditions have no control over price."
+      }
+    },
+    {
+      "id": "85884725-61b9-442e-9392-af2f8addd3ba",
+      "prompt": {
+        "text": "According to the Cournot assumption, in an oligopoly market each firm \ndetermines its profit-maximizing production level by assuming that other firms will:"
+      },
+      "choices": [
+        "decrease output.",
+        "not change output.",
+        "increase output."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in the Cournot assumption, each firm determines its profit -\nmaximizing production level by assuming that the other firms' output will not change. \nThis assumption simplifies pricing strategy because there is no need to guess what \nthe other firm will do to retaliate."
+      }
+    },
+    {
+      "id": "9957ca30-0886-4579-be93-f5493a90c845",
+      "prompt": {
+        "text": "Which of the following indicators suggest(s) a monopoly market?"
+      },
+      "choices": [
+        "A concentration ratio of 100% only",
+        "A Herfindahl–Hirschman index of zero only",
+        "Both a concentration ratio of 100% and a Herfindahl–Hirschman index of zero"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the concentration ratio is the sum of the market shares of the \nlargest N firms. This number is always between zero (perfect competition) and 100 \npercent (monopoly)."
+      }
+    },
+    {
+      "id": "6e24ee73-54c2-4def-8a2f-97835e53379a",
+      "prompt": {
+        "text": "The Herfindahl–Hirschman index is calculated based on:"
+      },
+      "choices": [
+        "market shares of the companies.",
+        "elasticity of demand in the market.",
+        "probability of new entry into the market."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because in calculating the Herfindahl –Hirschman index the market \nshares of the top N companies are first squared and then added. If one firm controls \nthe whole market (a monopoly), the Herfindahl –Hirschman index (HHI) equals 1. If \nthere are M firms in the  industry with equal market shares, then the HHI equals \n(1/M)."
+      }
+    },
+    {
+      "id": "42ae9321-b5e9-481d-8d91-d4d4274b45f8",
+      "prompt": {
+        "text": "Which of the following market structures has high barriers to entry?"
+      },
+      "choices": [
+        "An oligopoly",
+        "Perfect competition",
+        "Monopolistic competition"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the characteristics of oligopoly markets include: entry into the \nmarket is difficult, with fairly high costs and significant barriers to competition."
+      }
+    },
+    {
+      "id": "91b8d77f-5242-4c6b-98e1-08b11804de5f",
+      "prompt": {
+        "text": "Under which of the following market structures is product \ndifferentiation most important?"
+      },
+      "choices": [
+        "Monopoly",
+        "Perfect competition",
+        "Monopolistic competition"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because monopolistic competition is also highly competitive; however, it \nis considered a form of imperfect competition. The competitive characteristic is a \nnotably large number of firms, while the monopoly aspect is the result of product \ndifferentiation. That is, if the seller can convince consumers that its product is \nuniquely different from other, similar products, then the seller can exercise some \ndegree of pricing power over the market."
+      }
+    },
+    {
+      "id": "9b248323-4ff2-4d2c-8244-6cb67be7e8ec",
+      "prompt": {
+        "text": "An analyst gathers the following information (in $ millions) about a firm \noperating in a perfectly competitive market: \nTotal variable costs 700 \nTotal fixed costs 400 \n \nIf the firm's total revenue is $1,000 million, the firm should: \nFirms and Market Structures \nFaculty:                                                                         Page 9 of 16"
+      },
+      "choices": [
+        "stay in the market in both the short run and long run.",
+        "stay in the market in the short run and exit the market in the long run.",
+        "shut down production in the short run and exit the market in the long run."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when TR total revenue is enough to cover TVC (total variable \ncosts) but not all of TFC total fixed costs, the firm can continue to produce in the \nshort run but will be unable to maintain financial solvency in the long run. TR is $1,000 \nwhich is greater than TVC of $700, but not enough to cover the firm's TFC of $400. \nTherefore, the firm will exit the market in the long run."
+      }
+    },
+    {
+      "id": "77702149-7297-4d9c-85a8-b064ce86968f",
+      "prompt": {
+        "text": "A perfectly competitive market structure:"
+      },
+      "choices": [
+        "is not possible in reality.",
+        "causes all industries to ultimately fail due to lack of profits.",
+        "drives company profits to the investors' required rate of return."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because profits under the conditions of perfect competition are driven \nto the required rate of return paid by the entrepreneur to borrow capital from \ninvestors (so-called normal profit or rental cost of capital)."
+      }
+    },
+    {
+      "id": "00bcbff6-53a5-4427-bf11-0eecc5fecf9e",
+      "prompt": {
+        "text": "In the short run, a firm most likely shuts down production when:"
+      },
+      "choices": [
+        "economic profit is zero.",
+        "sunk costs are greater than total revenue.",
+        "total revenue is less than total variable cost."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the firm must cover its variable cost to remain in business in the \nshort run. If TR cannot cover TVC, the firm shuts down production to minimize loss. \nThe loss would be equal to the amount of fixed cost."
+      }
+    },
+    {
+      "id": "04e46f2c-edcc-47b8-a091-bf0b9e9a6b32",
+      "prompt": {
+        "text": "A disadvantage of the concentration ratio is that it:"
+      },
+      "choices": [
+        "requires a large number of time-series observations.",
+        "is largely unaffected by mergers among the top market incumbents.",
+        "requires the specification of the explanatory variables used in regression \nanalysis."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a disadvantage of the concentration ratio is that it tends to be \nunaffected by mergers among the top market incumbents. For example, if the largest \nand second-largest incumbents merge, the pricing power of the combined entity is \nFirms and Market Structures \nFaculty:                                                                         Page 16 of 16 \n \nlikely to be larger than that of the two pre-existing companies. But the concentration \nratio may not change much."
+      }
+    },
+    {
+      "id": "66efc8ca-ad88-4011-aed0-8f86556cab5b",
+      "prompt": {
+        "text": "A manufacturing company expanded in a new region by setting up local \nassembly lines and hiring local staff. Two years later, the company's sale had grown \nas expected but operating margin had shrunk from 15 to 12 percent. The company:"
+      },
+      "choices": [
+        "has yet to reach its breakeven volume.",
+        "is suffering from diseconomies of scale.",
+        "has reached its minimum efficient scale \n \n \n \nSUMMARY: - \n \n(LOS 12.a): - 1,2,3,4,5,6,7,8,9,10,20,21,24,34,46,48,50. \n(LOS 12.b): - 11,14,18,19,22,23,25,27,28,31,35,36,40,44,45,47. \n(LOS 12.c): - 32,33,37. \n(LOS 12.d): - 12,13,15,17,26,38,39,41. \n(LOS 12.e): - 16,29,30,42,43,49. \n \n \n \n \n \n \n \n \n \nFirms and Market Structures \nFaculty:                                                                         Page 10 of 16"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the company is most likely suffering from diseconomies of scale. \nIt is having to duplicate all costs in each location, and by targeting different \ndemographics, it has added additional costs for inputs and marketing. Therefore, the \ncompany’s fixed costs have increased faster than output, and the economic result is \ndiseconomies of scale."
+      }
+    }
+  ]
+}

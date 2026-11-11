@@ -1,0 +1,417 @@
+{
+  "title": "Module 10: Fiscal Policy",
+  "topic": "Economics",
+  "module_number": 10,
+  "module_name": "Fiscal Policy",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a2d18e05-5103-4f4a-8cd5-d577ce576548",
+      "prompt": {
+        "text": "Crowding out refers to a:"
+      },
+      "choices": [
+        "fall in interest rates that reduces private investment.",
+        "rise in private investment that reduces private consumption.",
+        "rise in government borrowing that reduces the ability of the private sector  to \naccess investment funds."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A fall in interest rates is likely to lead to a rise in investment. Crowding \nout refers to government borrowing that reduces the ability of the private sector to \ninvest."
+      }
+    },
+    {
+      "id": "0b38352b-aaa4-4b4d-8f06-b31b97704996",
+      "prompt": {
+        "text": "A contractionary fiscal policy will always involve which of the following?"
+      },
+      "choices": [
+        "Balanced budget",
+        "Reduction in government spending",
+        "Fall in the budget deficit or rise in the surplus"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Note that a reduction in government spending could be accompanied by \nan even bigger fall in taxation, making it be expansionary."
+      }
+    },
+    {
+      "id": "df8d790b-8d57-4736-9b08-76ab59be5f09",
+      "prompt": {
+        "text": "Which one of the following statements is most accurate?"
+      },
+      "choices": [
+        "Ricardian equivalence refers to individuals having no idea of future tax liabilities.",
+        "Governments do not allow political pressures to influence fiscal policies but  do \nallow voters to affect monetary policies.",
+        "If there is high unemployment in an economy, then easy monetary and fiscal  \npolicies should lead to an expansion in aggregate demand."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Note that governments often allow pressure groups to affect fiscal  \npolicy and that Ricardian equivalence involves individuals correctly anticipating future \ntaxes. Thus, A and B are not correct choices."
+      }
+    },
+    {
+      "id": "4d909be8-f8ad-43e1-b045-62073216382d",
+      "prompt": {
+        "text": "Which statement regarding fiscal policy is most accurate?"
+      },
+      "choices": [
+        "Cyclically adjusted budget deficits are appropriate indicators of fiscal policy.",
+        "To raise business capital spending, personal income taxes should be reduced.",
+        "An increase in the budget surplus is associated with expansionary fiscal policy."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Cyclically adjusted budget deficits are appropriate indicators of fiscal \npolicy. These are defined as the deficit that would exist if the economy was at full  \nemployment (or full potential output)."
+      }
+    },
+    {
+      "id": "bc18d3b0-ca82-45c2-bbb8-579b0dd40a92",
+      "prompt": {
+        "text": "The least likely explanation for why fiscal policy cannot stabilize \naggregate demand completely is that:"
+      },
+      "choices": [
+        "private sector behavior changes over time.",
+        "policy changes are implemented very quickly.",
+        "fiscal policy focuses more on inflation than on unemployment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Fiscal policy is subject to recognition, action, and impact lags."
+      }
+    },
+    {
+      "id": "6a24e32b-a514-428e-a441-c4e837ea6d6d",
+      "prompt": {
+        "text": "The government embarks on a policy intended to reduce the budget \ndeficit. This is most likely:"
+      },
+      "choices": [
+        "an expansionary fiscal policy.",
+        "a contractionary fiscal policy.",
+        "an example of quantitative easing."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A policy intended to reduce a budget deficit would involve raising taxes \nand/or reducing spending. Either action is fiscal and would likely cause the economy \nto slow, which is contractionary."
+      }
+    },
+    {
+      "id": "37818497-74f0-49cd-b4c1-b2055093a2b6",
+      "prompt": {
+        "text": "If a government increases its spending on domestically produced goods by \nan amount that is financed by an equivalent increase in taxes, the aggregate demand \nwill most likely:"
+      },
+      "choices": [
+        "decrease.",
+        "remain unchanged.",
+        "increase. \n \nFiscal Policy \nFaculty:                                                                         Page 2 of 7"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Aggregate demand rises when the government increases spending by the \nsame amount as it raises taxes because the marginal propensity to spend out of \ndisposable income is less than 1, and hence for every dollar less in disposable income, \nspending only falls by $c (where c is the marginal propensity to consume). Aggregate \nspending will fall less than the tax rise by a factor c. This additional output will, in \nturn, lead to further increases in income and output through the multiplier effect."
+      }
+    },
+    {
+      "id": "626de6ee-0963-49bf-95a5-da3df00e991f",
+      "prompt": {
+        "text": "The primary goal of both monetary and fiscal policy focuses on balancing \neconomic growth and:"
+      },
+      "choices": [
+        "income distribution.",
+        "inflation.",
+        "employment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The goal of both monetary and fiscal policy is the creation of an economic \nenvironment characterized by positive, stable growth and low, stable inflation."
+      }
+    },
+    {
+      "id": "93208eae-687b-4c73-9d98-127b34b75ad7",
+      "prompt": {
+        "text": "The crowding-out effect is most likely associated with:"
+      },
+      "choices": [
+        "falling real interest rates.",
+        "decreasing government borrowing.",
+        "increasing government borrowing."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The tendency for government borrowing to decrease private sector \ninvestment is called the crowding-out effect."
+      }
+    },
+    {
+      "id": "5ac6d4c5-d97f-4038-a2bb-fccbd6dbf319",
+      "prompt": {
+        "text": "Fiscal policy refers to the government's decisions about:"
+      },
+      "choices": [
+        "taxation only.",
+        "taxation and spending only.",
+        "taxation, spending, and the quantity of money in the economy."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because fiscal policy refers to the government's decisions about taxation \nand spending."
+      }
+    },
+    {
+      "id": "79bc1876-b41b-4542-b0ba-ab4edbd325d2",
+      "prompt": {
+        "text": "Which of the following economic policies is most likely directed toward \ninfluencing the quantity of credit in an economy?"
+      },
+      "choices": [
+        "Fiscal policy only",
+        "Monetary policy only",
+        "Both fiscal policy and monetary policy"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because monetary policy refers to central bank activities that are \ndirected toward influencing the quantity of money and credit in an economy."
+      }
+    },
+    {
+      "id": "5b8298df-e731-47ed-ac8a-c631f24b6ea3",
+      "prompt": {
+        "text": "Which of the following is most likely an objective of fiscal policy?"
+      },
+      "choices": [
+        "Maintaining price stability",
+        "Affecting aggregate demand",
+        "Achieving an exchange rate target"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the tools associated with fiscal policy involve the use of \ngovernment spending and changing tax revenue to affect a number of aspects of the \nFiscal Policy \nFaculty:                                                                         Page 6 of 7 \n \neconomy: including the overall level of aggregate demand in an economy and hence the \nlevel of economic activity."
+      }
+    },
+    {
+      "id": "dfc2d6b1-64d1-4ea2-9446-13c63b90dee0",
+      "prompt": {
+        "text": "An objective of fiscal policy is to:"
+      },
+      "choices": [
+        "supervise the banking system.",
+        "influence the quantity of credit in an economy.",
+        "distribute income among different segments of the population."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because fiscal policy involves the use of government spending and \nchanging tax revenue to affect a number of aspects of the economy including the \ndistribution of income and wealth among different segments of the population."
+      }
+    },
+    {
+      "id": "3fee4966-14c3-4603-a21d-15c240ce641d",
+      "prompt": {
+        "text": "Which of the following changes most likely reflects a discretionary \nfiscal policy action?"
+      },
+      "choices": [
+        "A decrease in corporate tax revenues due to lower corporate profitability",
+        "An increase in government expenditures due to new infrastructure projects",
+        "An increase in payments of unemployment benefits due to increasing \nunemployment"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in addition to these automatic adjustments, governments also \nuse discretionary fiscal adjustments to influence aggregate demand. These will \ninvolve tax changes and/or spending cuts or increase usually with the aim of \nstabilizing the economy. An in crease in government expenditures due to new \ninfrastructure projects is a discretionary fiscal policy action because new public \nspending on social goods and infrastructure, such as hospitals and schools, boosting \npersonal incomes with the objective of raising aggregate demand."
+      }
+    },
+    {
+      "id": "c2af1faa-a9cf-4525-9635-d10e630481f3",
+      "prompt": {
+        "text": "With respect to fiscal policy, transfer payments are best described as:"
+      },
+      "choices": [
+        "welfare payments.",
+        "infrastructure spending.",
+        "spending on recurring goods and services. \n \n \nFiscal Policy \nFaculty:                                                                         Page 3 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because transfer payments are welfare payments made through the \nsocial security system, and, depending on the country, comprise payments for state \npensions, housing benefits, tax credits and income support for poorer families, child \nbenefits, unemployment benefits and job search allowances."
+      }
+    },
+    {
+      "id": "03cf769f-4881-4dcd-b2f5-bcd61023f02d",
+      "prompt": {
+        "text": "A decline in tax revenues due to a recession is best described as an \nexample of a(n):"
+      },
+      "choices": [
+        "automatic stabilizer.",
+        "expansionary fiscal policy.",
+        "contractionary fiscal policy."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because falling tax revenues due to a recession is an example of \nautomatic stabilizer, not a discretionary fiscal policy. Automatic stabilizers will lead \nto changes in the budget deficit unrelated to fiscal policy changes; a recession will \ncause tax revenues to fall and the budget deficit to rise."
+      }
+    },
+    {
+      "id": "91c75a92-9d18-4027-ad64-c4100ba242eb",
+      "prompt": {
+        "text": "Which of the following is an expansionary fiscal policy?"
+      },
+      "choices": [
+        "An increase in sales taxes",
+        "A decrease in interest rates",
+        "An increase in public spending on infrastructure"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because there are a number of ways that fiscal policy can influence \naggregate demand … expansionary policy could take one or more of the following \nforms: … New public spending on social goods and infrastructure."
+      }
+    },
+    {
+      "id": "6fced78b-dd8b-40ed-9bc1-0827d19ab9ad",
+      "prompt": {
+        "text": "Which of the following fiscal policy actions is most likely contractionary?"
+      },
+      "choices": [
+        "Increasing taxes and decreasing spending",
+        "Decreasing taxes and increasing spending",
+        "Decreasing taxes and decreasing spending"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because increasing taxes and decreasing spending are indicative of a \ncontractionary fiscal policy. When an economy has full employment and wages and \nprices are rising too fast —then government spending may be reduced and taxes \nraised (contractionary fiscal policy)."
+      }
+    },
+    {
+      "id": "97887c2d-5b60-4c57-afef-bbd3d611a352",
+      "prompt": {
+        "text": "A fiscal policy tool that can immediately influence spending is most \nlikely:"
+      },
+      "choices": [
+        "indirect taxes.",
+        "exchange rate targeting.",
+        "capital expenditure plans."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because indirect taxes can be adjusted almost immediately after they \nare announced and can influence spending behaviour instantly and generate revenue \nfor the government at little or no cost to the government."
+      }
+    },
+    {
+      "id": "0f204d91-9da4-4fb0-931b-6c6cd01166b8",
+      "prompt": {
+        "text": "An objective of fiscal policy is to:"
+      },
+      "choices": [
+        "maintain price stability.",
+        "redistribute the wealth within an economy.",
+        "influence the quantity of credit in an economy."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because fiscal policy can be used to redistribute income and wealth."
+      }
+    },
+    {
+      "id": "2a6bfe44-d66b-4846-ad5b-6b1ce847b5f3",
+      "prompt": {
+        "text": "Which of the following government actions is most likely an expansionary \nfiscal policy?"
+      },
+      "choices": [
+        "Increasing sales tax rate",
+        "Decreasing savings tax rate",
+        "Decreasing infrastructure spending"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a decrease in taxes, including tax on savings, would be \nexpansionary fiscal policy. For example, an expansionary policy could take the form \nof cuts in tax rates on personal savings to raise disposable income for those with \nsavings, with the objective of raising consumer demand.  \n \nFiscal Policy \nFaculty:                                                                         Page 7 of 7"
+      }
+    },
+    {
+      "id": "38272ee1-91f1-4f53-b295-1a91ff6a9e38",
+      "prompt": {
+        "text": "Monetary policy is used to:"
+      },
+      "choices": [
+        "promote stable growth.",
+        "redistribute income and wealth.",
+        "determine taxation and spending."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the overarching goal of both monetary and fiscal policy is \nnormally the creation of an economic environment where growth is stable and positive \nand inflation is stable and low."
+      }
+    },
+    {
+      "id": "c21fb29e-75ba-4bd8-b381-ff8a0afc7e36",
+      "prompt": {
+        "text": "An argument against being concerned about high national debt levels is \nthat:"
+      },
+      "choices": [
+        "the debt is owed internally to fellow citizens.",
+        "government borrowing leads to higher private sector investment.",
+        "the central bank can print money to finance a government deficit. \n \nFiscal Policy \nFaculty:                                                                         Page 4 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because this internally owed debt may overstate the problem. The \narguments against being concerned about national debt (relative to GDP) include the \nfollowing: The scale of the problem may be overstated because the debt is owed \ninternally to fellow citizens."
+      }
+    },
+    {
+      "id": "b9cee64a-477f-424b-a018-517182f5b9e5",
+      "prompt": {
+        "text": "In a hypothetical economy, consumption is 70% of pre-tax income, and \nthe average tax rate is 25% of total income. If planned government expenditures \nare expected to increase by $1.25 billion, the increase in total income and spending, \nin billions, is closest to:"
+      },
+      "choices": [
+        "$2.6.",
+        "$4.2.",
+        "$1.3. \n \n \nSUMMARY: - \n \n(LOS 14.a): - 8, 10, 11, 22 \n(LOS 14.b): - 3, 13, 20, 23 \n(LOS14.c): - 1, 9, 15, 19, 24 \n(LOS 14.d): - 2, 4, 5, 6, 7, 12, 14, 16, 17, 18, 21 \n \n \n \n  \nFiscal Policy \nFaculty:                                                                         Page 5 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nThe fiscal multiplier is  \n1\n1−𝑐(1−𝑇)  where \nc = marginal propensity to consume = consumption/disposable income \nT = the tax rate \nAssuming pre-tax income of $100 \nDisposable income: $100 × (1 – 0.25) = $75 \nMarginal propensity to consume: $70/$75 = 0.933 \nThe fiscal multiplier: 1/[1 – 0.933(1 – 0.25)] = 3.33 \nWith government expenditure of $1.25 billion, total incomes and spending will rise by \n$1.25 billion × 3.33 = $4.2 billion"
+      }
+    }
+  ]
+}

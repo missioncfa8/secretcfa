@@ -1,0 +1,264 @@
+{
+  "title": "Module 06: Statistical Distributions for Financial Asset Prices and Returns",
+  "topic": "Quantitative Methods",
+  "module_number": 6,
+  "module_name": "Statistical Distributions for Financial Asset Prices and Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "170fc444-660b-491d-b5cb-a494e756fbd3",
+      "prompt": {
+        "text": "The variance of a sample indicates:"
+      },
+      "choices": [
+        "the spread of a random variable around its mean.",
+        "the direction of the linear relationship between two variables.",
+        "the probability-weighted average outcome for a random variable over an infinite number of trials"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c4fecadd-ad2a-470d-9a24-d64edb04d353",
+      "prompt": {
+        "text": "An analyst determines that stocks have an expected return of 10% with a standard deviation of \n15% and bonds have an expected return of 6% with a standard deviation of 9%. The correlation \nbetween stocks and bonds is 0.6. An equally weighted portfolio of stocks and bonds would have a \nstandard deviation (square root of variance) of:"
+      },
+      "choices": [
+        "less than 12%.",
+        "equal to 12%.",
+        "greater than 12%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "08e5de69-269c-4959-9db8-b5b8719e2d57",
+      "prompt": {
+        "text": "An asset is currently valued at USD50. In any given period, it can increase in value by 10% with a \nprobability of 0.55 or decline in value by 8% with a probability of 0.45. At Time 0, the expected \nprice at the end of two periods is closest to:"
+      },
+      "choices": [
+        "39.39.",
+        "50.10.",
+        "51.92."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "64159c27-2040-42de-ae58-e67a14c0f8d6",
+      "prompt": {
+        "text": "A typical characteristic of a Poisson distribution is that:"
+      },
+      "choices": [
+        "variance is unrelated to the mean.",
+        "skewness decreases as λ increases.",
+        "skewness and kurtosis are independent of λ"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7dac57a7-dde3-4272-8b03-0754543988f1",
+      "prompt": {
+        "text": "A bond has a hazard rate (default probability) of 0.03 per year. The probability that it will default \nwithin the next five years is closest to:"
+      },
+      "choices": [
+        "13.9%.",
+        "15.0%.",
+        "16.2%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8d3edd16-e67e-4b83-bf4d-06677630562e",
+      "prompt": {
+        "text": "The log-normal distribution is:"
+      },
+      "choices": [
+        "S-shaped.",
+        "symmetrical.",
+        "skewed to the right."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "395c4aa4-1625-4b4b-8215-6bf56824b334",
+      "prompt": {
+        "text": "The probability distribution for a company’s sales is:\nProbability Sales (USD, millions)\n0.05 70\n0.70 40\n0.25 25\nThe standard deviation of sales is closest to which of the following?"
+      },
+      "choices": [
+        "USD9.61 million",
+        "USD9.81 million",
+        "USD96.18 million"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "8217fddf-e729-40c4-b665-fbf2375d2496",
+      "prompt": {
+        "text": "In a typical year, 5% of all CEOs are fired. Assume that CEO performance is judged according to \nstock performance and that 50% of stocks have above-average returns or good performance.\nEmpirically, 30% of all CEOs who were fired had good performance. Using Bayes’ formula, what is \nthe probability that a CEO will be fired given “good” performance?"
+      },
+      "choices": [
+        "1.5%",
+        "2.5%",
+        "3.0%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "335198d9-a2df-4d74-8918-99056daece2d",
+      "prompt": {
+        "text": "An analyst wants to estimate the potential stock market reaction to the next monetary policy \nmeeting that may change the prevailing policy rate. The analyst estimates the following \nprobabilities for market reactions in the event of no change in the monetary policy rate, a 25 bp \nreduction, or a 50 bp reduction.\nIn the event of a 50 bp reduction, the return variance is closest to:"
+      },
+      "choices": [
+        "0.003.",
+        "5.449.",
+        "7.422."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "7d10fbd0-05ce-4ae7-9e1f-025284f8250e",
+      "prompt": {
+        "text": "In contrast to normal distributions, lognormal distributions:"
+      },
+      "choices": [
+        "are skewed to the left.",
+        "have random variables that cannot be negative.",
+        "are more suitable for describing asset returns than asset prices."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e7ae1987-7dae-4ed6-af56-79475af75094",
+      "prompt": {
+        "text": "The conditional expected value of a random variable is best described as the:"
+      },
+      "choices": [
+        "expected value of a random variable given an event or scenario.",
+        "probability-weighted average of the possible outcomes of the random variable.",
+        "weighted average of the probabilities of an event given all possible scenarios."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "0d2f55d3-c4e1-4d94-82c0-2510d740c788",
+      "prompt": {
+        "text": "A tree diagram is most likely used when dealing with investment problems that involve outcomes \nthat are:"
+      },
+      "choices": [
+        "mutually exclusive.",
+        "independent at each node.",
+        "unconditional at each node."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4d52c1b9-de5d-406c-8370-491f9bcc143e",
+      "prompt": {
+        "text": "When working backward from the nodes on a binomial tree diagram, the analyst is most \nlikely attempting to calculate:"
+      },
+      "choices": [
+        "an expected value as of today.",
+        "the number of potential outcomes.",
+        "the probability of a given scenario"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6c507f86-1921-4f71-9110-0605b9df33c6",
+      "prompt": {
+        "text": "An analyst has established the following prior probabilities regarding a company's next quarter's \nearnings per share (EPS) exceeding, equaling, or being below the consensus estimate.\n  Prior Probabilities\nEPS exceed consensus 25%\nEPS equal consensus 55%\nEPS are less than consensus 20%\nSeveral days before releasing its earnings statement, the company announces a cut in its \ndividend. Given this new information, the analyst revises his opinion regarding the likelihood that \nthe company will have EPS below the consensus estimate. He estimates the likelihood the \ncompany will cut the dividend, given that EPS exceeds/meets/falls below consensus, as reported \nbelow.\n  Probabilities the Company Cuts Dividends, Conditional on EPS \nExceeding/Equaling/Falling below Consensus\nP(Cut div | EPS \nexceed) 5%\nP(Cut div | EPS \nequal) 10%\nP(Cut div | EPS \nbelow) 85%\nThe analyst thus determines that the unconditional probability for a cut in the dividend, P(Cut div), \nis equal to 23.75%. Using Bayes’ formula, the updated (posterior) probability that the company’s \nEPS are below the consensus is closest to:"
+      },
+      "choices": [
+        "20%.",
+        "72%.",
+        "85%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a0772cf5-0a24-40d6-809e-f3e3e17be51b",
+      "prompt": {
+        "text": "An investor in Abco stock forecasts the probability that Abco exceeded, met, or fell short of \nconsensus expectations for free cash flow (FCF) during the prior quarter:\nP(FCF exceeded consensus) = 0.50\nP(FCF met consensus) = 0.35\nP(FCF fell short of consensus) = 0.15\nWhile waiting for Abco to release last quarter’s FCF data, the investor learns that Abco will acquire \na competitor. Believing that the upcoming acquisition makes it more likely that last quarter’s FCF \nwill exceed the consensus, the investor generates a list of FCF events that may have influenced \nthe acquisition:\nP(Acquisition | FCF exceeded consensus) = 0.40\nP(Acquisition | FCF met consensus) = 0.25\nP(Acquisition | FCF fell short of consensus) = 0.35\nUsing Bayes’ Formula, calculate the probability that Abco is likely to exceed consensus FCF \nexpectations for last quarter given the acquisition. P(FCF exceeded consensus | \nAcquisition) is closest to:"
+      },
+      "choices": [
+        "27%.",
+        "34%.",
+        "59%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

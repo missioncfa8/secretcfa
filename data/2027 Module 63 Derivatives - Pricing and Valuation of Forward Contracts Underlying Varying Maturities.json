@@ -1,0 +1,230 @@
+{
+  "title": "Module 63: Pricing and Valuation of Forward Contracts Underlying Varying Maturities",
+  "topic": "Derivatives",
+  "module_number": 63,
+  "module_name": "Pricing and Valuation of Forward Contracts Underlying Varying Maturities",
+  "year": 2027,
+  "items": [
+    {
+      "id": "fdded690-9de5-4449-b7c4-2e35ee732d6f",
+      "prompt": {
+        "text": "A Baywhite client currently owns 5,000 common non-dividend-paying shares of Vivivyu \nInc. (VIVU), a digital media company, at a spot price of USD173 per share. The client \nenters into a forward commitment to sell half of its VIVU position in six months at a \nprice of USD175.58. Which of the following market events is most likely to result in \nthe greatest gain in the VIVU forward contract MTM  value from the client’s \nperspective?"
+      },
+      "choices": [
+        "An increase in the risk-free rate",
+        "An immediate decline in the VIVU spot price following contract inception",
+        "A steady rise in the spot price of VIVU stock over time"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The original VIVU spot price (S0) at t = 0 must equal the present value \nof the forward price discounted at the risk -free rate, so an immediate fall in  the \nspot price to S0 - < S0 results in an MTM gain for the forward contract seller.  A is \nnot correct, since a higher risk -free rate will reduce the contract MTM from  the \nclient’s perspective by reducing the PV of F0(T), while C will also reduce the forward \ncontract MTM from the seller’s perspective."
+      }
+    },
+    {
+      "id": "ed1b486e-c08f-43e2-a862-35b6b5a22089",
+      "prompt": {
+        "text": "A Baywhite client has entered into a long six -month MXN/USD FX forward  \ncontract—that is, an agreement to sell MXN and buy USD. The MXN/USD spot  \nexchange rate at inception is 19.8248 (MXN19.8248 = USD1), the six -month MXN \nrisk-free rate is 4.25%, and the six -month USD risk -free rate is 0.5%.  Baywhite’s \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 2 of 7 \n \nmarket strategist predicts that the Mexican central bank (Banco de  Mexico) will \nsurprise the market with a 50 bp short-term rate cut at its upcoming meeting. Which \nof the following statements best describes how the client’s existing  FX forward \ncontract will be impacted if this prediction is realized and other  parameters remain \nunchanged?"
+      },
+      "choices": [
+        "The lower interest rate differential between MXN and USD will cause th e \nMXN/USD contract forward rate to be adjusted downward.",
+        "The client will realize an MTM gain on the FX forward contract due to the decline \nin the MXN versus USD interest rate differential.",
+        "The lower interest rate differential between MXN and USD will cause the client \nto realize an MTM loss on the MXN/USD forward contract."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A decline in the interest rate differential between MXN and USD  will \ncause the client to realize an MTM loss on the MXN/USD forward contract, while B \nstates that this decline will result in an MTM gain. A is incorrect as the forward price, \nF0(T), is not adjusted during the contract life.  Specifically, the original MXN/USD \nforward exchange rate at inception is equal  to 20.20 (= 19.8248e (.0425 – 0.005) × 0.5). If \nthe MXN rate were to decline by 50 bps immediately after the contract is agreed, a \nnew MXN/USD forward contract  would be at a forward exchange rate of 20.15 (= \n19.8248e(.0375 – 0.005) × 0.5). The MXN would weaken or depreciate against the USD. Since \nthe MXN seller  has locked in a forward sale at the original 20.20 versus the new \n20.15 rate, the seller’s MTM loss is equal to 0.05, or MXN50,000 per MXN1,000,000 \n(= 0.05 × 1,000,000) notional amount."
+      }
+    },
+    {
+      "id": "3de8f701-f49d-47e6-8710-059e6a196bf1",
+      "prompt": {
+        "text": "A client seeking advice on her fixed -income portfolio observes the price and  yield-\nto-maturity of one-year (r1) and two-year (r2) annual coupon government benchmark \nbonds currently available in the market. Which of the following statements  best \ndescribes how the analyst can determine a breakeven reinvestment rate in one year’s \ntime to help decide whether to invest now for one or two years?"
+      },
+      "choices": [
+        "As the two-year rate involves intermediate cash flows, divide the square root of \n(1 + r2) by (1 + r1) and subtract 1 to arrive at a breakeven reinvestment  rate for \none year in one year’s time.",
+        "Since the first year’s returns are compounded in the second year, set (1 + r1)  \nmultiplied by 1 plus the breakeven reinvestment rate equal to (1 + r2)2 and  solve \nfor the breakeven reinvestment rate.",
+        "Since the breakeven reinvestment involves a zero -coupon cash flow, first  \nsubstitute the one-year rate (r1) into the two -year bond price equation to solve \nfor the two -year spot or zero rate (z2), then set (1 + r1) × (1 +  breakeven \nreinvestment rate) = (1 + z2)2 and solve for the breakeven reinvestment rate."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The one-year annual rate equals the one-year zero rate, as it involves a \nsingle cash flow at maturity (z1 = r1). Since the breakeven reinvestment rate involves \na single cash flow at maturity, substitute the one -year rate (r1) into the  two-year \nbond price equation to solve for z2, then set (1 + r1) × (1 + breakeven  reinvestment \nrate) = (1 + z2)2 and solve for the breakeven reinvestment rate (IFR1,1)."
+      }
+    },
+    {
+      "id": "24099da2-67b9-4b25-9d89-6c9faf1f46fa",
+      "prompt": {
+        "text": "Baywhite Financial seeks to gain a competitive advantage by making margin loans  at \nfixed rates for up to 60 days to its investor clients. Since Baywhite borrows at a  \nvariable one-month market reference rate to finance these client loans, the firm  \nenters into one-month FRA contracts on one-month MRR to hedge the interest rate \nexposure of its margin loan book. Which of the following statements best describes \nBaywhite’s interest rate exposure and the FRA position it should take to hedge that \nexposure?"
+      },
+      "choices": [
+        "Baywhite faces exposure to a rise in one-month MRR over the next 30 days, so it \nshould enter into the FRA as a fixed-rate payer in order to benefit from a rise in \none-month MRR above the FRA rate and offset its higher borrowing cost.",
+        "Baywhite faces exposure to a rise in one-month MRR over the next 30 days, so it \nshould enter into the FRA as a fixed-rate receiver in order to benefit from a rise \nin one-month MRR above the FRA rate and offset its higher borrowing cost. \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 3 of 7",
+        "Baywhite faces exposure to a decline in one-month MRR over the next 30 days, so \nit should enter into the FRA as a fixed -rate receiver in order to benefit from a \nrise in one-month MRR above the FRA rate and offset its higher borrowing cost."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. As Baywhite faces exposure to a rise in one -month MRR over the next \n30 days, it should enter into the FRA as a fixed-rate payer in order to benefit from \na rise in one -month MRR above the FRA rate and offset its higher borrowing  cost. \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 6 of 7 \n \nBoth B and C are incorrect, as the fixed-rate receiver in an FRA does not benefit but \nrather must make a higher payment upon settlement if MRR rises."
+      }
+    },
+    {
+      "id": "4bffba5d-2ff9-4ecc-aec8-059b904313b2",
+      "prompt": {
+        "text": "Baywhite observes that one-month MRR is 1.2% and two -month MRR is 1.5%. Which \nof the following rates is closest to the forward rate that Baywhite would  expect on \n1m1m forward rate agreement?"
+      },
+      "choices": [
+        "1.80%",
+        "1.35%",
+        "3.55%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The APR of the monthly compounded two-month rate is 1.499%. Dividing \n(1.01499/12)2 by (1.012/12) equals 1.001499. Subtracting 1 and then multiplying by 12 \ngives 1.7982%. Thus, the approximate forward rate is 1.80%. B  is incorrect because \nthis is a simple average of the two spot rates. C is incorrect  because this result is \nderived from simply dividing (1.01499/12) by (1.012/12), then subtracting 1, and then \nmultiplying by 12."
+      }
+    },
+    {
+      "id": "261d2c2e-8b79-4b89-a585-7d619f6c929e",
+      "prompt": {
+        "text": "Two-year and three-year government benchmark zero-coupon bonds are priced at \n96 and 93 (per 100 face value), respectively. The implied one-year forward rate in \ntwo years’ time is closest to:"
+      },
+      "choices": [
+        "3.00%.",
+        "3.23%.",
+        "3.36%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a discount factor may also be interpreted as the price of a \nzero-coupon cash flow or bond. The price equivalent of a zero rate is the present \nvalue of a currency unit on a future date, known as a discount factor. The discount \nfactor for period i (DFi) is: DFi = 1 / (1+zi). Accordingly, the equivalent zero rate is: \nDF2 = 0.96 = 1 / (1 + z2)2; and z2 = 2.0621%  \nDF3 = 0.93 = 1 / (1 + z3)3; and z3 =  2.4485%  \nThe implied forward rate between period A and period B is denoted as IFRA,B–A. It is \na forward rate on a bond that starts in period A and ends in period B a general \nformula for the relationship between the two spot rates (zA, zB) and the implied \nforward rate (IFRA,B–A): (1 + zA)A × (1 + IFRA,B–A)B–A = (1 + zB)B. \n(1.020621)2 × (1 + IFR2,3–2)3–2 = (1.024485)3 \n(1 + IFR2,1) = (1.024485)3 / (1.020621)2  \n(1 + IFR2,1) = (1.075269 / 1.041667) \n1 + IFR2,1 = 1.032258 \nIFR2,1 = 1.032258 – 1 = 3.2258% ≈ 3.23%."
+      }
+    },
+    {
+      "id": "16d145f1-084e-4e11-b40a-03150401364f",
+      "prompt": {
+        "text": "A forward agreement has the following terms: \nSpot price at inception $275 \nForward price $285 \nNumber of shares 2,000 \n \nAt expiration, if the spot price is $282, the value to the seller is:"
+      },
+      "choices": [
+        "–$6,000.",
+        "$6,000.",
+        "$14,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the value at expiration for the seller: \n= F0(T) – ST = $285 – $282 = $3. \nHence the total value is $3 × 2,000 shares = $6,000."
+      }
+    },
+    {
+      "id": "3f77e7f9-f827-4bfa-a0cf-2c6866df3cf5",
+      "prompt": {
+        "text": "An investor observes that the price of an underlying asset is $20. The investor \nimmediately enters into forward contract to purchase the underlying asset in one \nyear at a price of $10. At contract initiation, the value of the forward contract \nis closest to:"
+      },
+      "choices": [
+        "$0.",
+        "$10.",
+        "$30."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because when a forward contract is initiated, neither party pays anything \nto the other. It is a valueless contract, neither an asset nor a liability. Therefore, its \nvalue at initiation is zero."
+      }
+    },
+    {
+      "id": "ab3609e6-0470-4978-969f-9c021780be6d",
+      "prompt": {
+        "text": "The spot price of an asset is $70.00. If the annual risk-free rate is 2.50%, the 9-\nmonth forward price is closest to:"
+      },
+      "choices": [
+        "$68.72.",
+        "$71.31.",
+        "$71.75. \n \n \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 4 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the forward price is the spot price compounded at the risk-free \nrate over the life of the contract or F0(T) = S0 (1+ r)T where S0 is the current spot \nprice, r is the risk-free rate and T is time. Therefore, the 9-month forward price is \nequal to £70.00 (1+.025)0.75 = £71.31."
+      }
+    },
+    {
+      "id": "25372155-3422-4d4b-8e79-fef3c27441a8",
+      "prompt": {
+        "text": "Over time, a forward contract most likely has variable:"
+      },
+      "choices": [
+        "value and constant price.",
+        "price and constant value.",
+        "value and variable price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the price of a forward contract remains constant throughout \nits life. It is set as part of the contract specifications. The value varies with changes \nin the price of the underlying. \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 7 of 7"
+      }
+    },
+    {
+      "id": "89db68a9-4783-4e60-8f1f-2d77be78b338",
+      "prompt": {
+        "text": "All else being equal, if the risk-free rate increases immediately after the inception \nof a forward contract, the value of the contract to the forward buyer will:"
+      },
+      "choices": [
+        "decrease.",
+        "stay the same.",
+        "increase."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the higher risk -free rate increases the opportunity cost of a \ncash position and lowers the present value of the forward price. The present value of \nthe forward price has decreased, increasing the value to the buyer. If St is the spot \nprice of the underlying asset at time  t, the equation  shows the forward contract \nMTM value at time  t, Vt (T), from the long forward position's perspective:  Vt(T) \n= St − F0(T)(1 + r)–(T – t)."
+      }
+    },
+    {
+      "id": "a13e51f1-f959-420f-ba50-8fa51f8b9386",
+      "prompt": {
+        "text": "The value of a forward contract at initiation is most likely equal to:"
+      },
+      "choices": [
+        "zero.",
+        "the spot price minus the forward price.",
+        "the forward price minus the spot price."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because neither the long nor the short pays anything to the other at the \ninitiation date of a forward contract, the value of a forward contract when initiated \nis zero."
+      }
+    },
+    {
+      "id": "e3f8694b-96d0-48db-ae00-f59e94bb71c1",
+      "prompt": {
+        "text": "There are two forward contracts, contract 1 and contract 2, on the same underlying. \nThe underlying makes no cash payments, does not yield any nonfinancial benefits, and \ndoes not incur any storage costs. Contract 1 expires in one year, and contract 2 \nexpires in two years. It is most likely that the price of contract 1:"
+      },
+      "choices": [
+        "is equal to the price of contract 2.",
+        "is less than the price of contract 2.",
+        "exceeds the price of contract 2. \n \n \n \n  \nPricing and Valuation of Forward Contracts Underlying Varying Maturities \nFaculty:                                                                                    Page 5 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The forward price is the spot price compounded at the risk -free rate \nover the life of the contract. Because contract 2 has the longer life, compounding will \nlead to a larger value."
+      }
+    }
+  ]
+}

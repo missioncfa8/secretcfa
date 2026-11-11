@@ -1,0 +1,315 @@
+{
+  "title": "Module 19: Working Capital and Liquidity",
+  "topic": "Corporate Finance",
+  "module_number": 19,
+  "module_name": "Working Capital and Liquidity",
+  "year": 2027,
+  "items": [
+    {
+      "id": "2af66647-6f42-4cc7-8bc6-0cca8732e7e1",
+      "prompt": {
+        "text": "An issuer changing its credit terms for customers from 2/10, net 30 to \n2/10, net 40 will most likely experience:"
+      },
+      "choices": [
+        "a pull on its liquidity.",
+        "a drag on its liquidity.",
+        "no change in its liquidity."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. By extending the net period, the issuer will likely see its accounts \nreceivable increase, lengthening its cash conversion cycle and producing a drag on its \nliquidity."
+      }
+    },
+    {
+      "id": "f97f604e-8bec-4c30-aac7-9046ba312438",
+      "prompt": {
+        "text": "Which of the following will most likely decrease an issuer’s cash conversion \ncycle? An increase in its days:"
+      },
+      "choices": [
+        "sales outstanding.",
+        "of inventory on hand.",
+        "payable outstanding."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Increasing days payable outstanding would reduce the cash conversion \ncycle, because payments to suppliers are delayed. Days payable outstanding is \nsubtracted from the sum of days sales outstanding and days of inventory on hand to \ncompute the cash conversion cycle."
+      }
+    },
+    {
+      "id": "79626794-5afb-43d7-9bd2-586fddc5a98e",
+      "prompt": {
+        "text": "An analyst gathers balance sheet information for the most recent fiscal \nyear for three issuers. \n Issuer A Issuer B Issuer C \nCash 100 120 50 \nMarketable securities 20 10 20 \nAccounts receivable 300 300 200 \nInventory 500 600 300 \nPrepaid expenses 50 0 10 \nAccounts payable 400 500 300 \nAccrued expenses 40 20 0 \n \nWhich issuer is most liquid based on the quick ratio?"
+      },
+      "choices": [
+        "Issuer A",
+        "Issuer B",
+        "Issuer C"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The quick ratio is defined as: \n \nQuick ratio = Cash + Short-term marketable instruments + Receivables\nCurrent liabilities  \nThe quick ratio for each issuer is: \n \nIssuer A quick ratio =\n100+20+300\n400+40 =\n420\n440 = 0.9545  \nIssuer B quick ratio =\n120+10+300\n500+20 =\n430\n520 = 0.8269  \nIssuer C quick ratio =\n50+20+200\n300+0 =\n270\n300 = 0.9000"
+      }
+    },
+    {
+      "id": "c9a86020-2521-40a7-b145-080a616329b3",
+      "prompt": {
+        "text": "An analyst is evaluating an issuer’s liquidity and calculates a negative cash \nconversion cycle for the issuer in the most recent fiscal year. This result is:"
+      },
+      "choices": [
+        "not feasible.",
+        "possible, because the issuer has sufficient cash and marketable securities on hand \nto support short-term needs.",
+        "possible, because the investment in inventory is returned quickly and the  issuer \ntakes advantage of vendor financing."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If days of inventory on hand is low, the accounts receivable collection  \nperiod is short, and the issuer takes advantage of its vendors’ financing, a  negative \ncash conversion cycle is a possible result. A is incorrect, because issuers may have a \nnegative cash conversion cycle if days payable outstanding is larger than the sum of \ndays of inventory on hand and days  sales outstanding. B is incorrect, because the \namount of cash and marketable securities on hand does not affect the company’s cash \nconversion cycle."
+      }
+    },
+    {
+      "id": "f10b5a22-e4d8-49ba-b335-6a4fd0dcced7",
+      "prompt": {
+        "text": "An issuer eliminated the prompt -payment discount it had offered to \ncustomers. This action most likely will:"
+      },
+      "choices": [
+        "increase the issuer’s liquidity.",
+        "decrease the issuer’s liquidity.",
+        "not affect the issuer’s liquidity. \nWorking Capital and Liquidity \nFaculty:                                                                         Page 2 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct, because the elimination of the discount will likely result in customers  \npaying later as there is no incentive to pay early without the discount. With customers \npaying later, this action becomes a drag on liquidity.  \nA and C are incorrect, because customers likely paying later will reduce the issuer’s  \nliquidity. \n \n \n \n \n \n \n \nWorking Capital and Liquidity \nFaculty:                                                                         Page 6 of 7"
+      }
+    },
+    {
+      "id": "f3858a55-0ec0-4f31-8321-53afc3690d59",
+      "prompt": {
+        "text": "Data for a firm are presented in the following table: \nAs of 31 December £ Thousands \nCash 200 \nAccounts receivable 350 \nInventory 1,250 \nAccounts payable 300 \nTaxes payable 200 \nInstalment loan payable, due in three equal annual \npayments on 30 June. \n600 \n \nThe current ratio for the firm’s industry is 3.2. Based on the current ratio, the firm’s \nliquidity compared with the industry is best described as being:"
+      },
+      "choices": [
+        "higher.",
+        "equivalent.",
+        "lower."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The higher the current ratio, the more liquid the company. Thus, with a \ncurrent ratio of 2.6 (1,800/700), the company is less liquid than the industry, which \nhas a current ratio of 3.2. \nCurrent ratio = Current assets/Current liabilities. \nCurrent Assets \n£ \nthousands Current Liabilities \n£ \nThousands \nCash 200 Accounts payable 300 \nAccounts receivable 350 Taxes payable 200 \nInventory 1,250 Loan payable, first \ninstalment \n200 \nTotal 1,800 Total 700"
+      }
+    },
+    {
+      "id": "847ef91f-a23f-40f0-807e-494140403c3a",
+      "prompt": {
+        "text": "With respect to liquidity management, which of the following \nactivities most likely provides access to a primary source of liquidity?"
+      },
+      "choices": [
+        "Liquidating obsolete assets",
+        "Creating an effective cash management system",
+        "Negotiating new debt contracts that delay principal repayment"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because primary sources of liquidity are liquidity sources that are the \nmost readily accessible resources available  to the company. One of the examples is \ncash flow management, which is the company's effectiveness in its cash management \nsystem and practic es, and the degree of decentralization of the collections or \npayments processes. The more decentralized the system of collections, for example, \nthe more likely the company will be to have cash tied up in the system and not available \nfor use.  Therefore, an effective cash management system is a primary source of \nliquidity as it is likely to be the most readily accessible resources available to the \ncompany."
+      }
+    },
+    {
+      "id": "e181399b-41b2-47e5-a3ad-1b936bf1d236",
+      "prompt": {
+        "text": "Which of the following statements about sources of liquidity \nis most accurate?"
+      },
+      "choices": [
+        "Filing for bankruptcy is considered a secondary source of liquidity.",
+        "Secondary sources of liquidity have a lower cost than primary sources of \nliquidity.",
+        "Using a primary source of liquidity impacts the financial and operating positions \nof a company."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because secondary sources include: filing for bankruptcy protection and \nreorganization. Further, reorganization through bankruptcy, may also be considered \na liquidity tool because a company under bankruptcy protection that generates \noperating cash will be liquid and generally able to continue business operations until a \nrestructuring has been devised and approved."
+      }
+    },
+    {
+      "id": "321880ca-f1be-4ebf-9ac2-6eca1e1b5f28",
+      "prompt": {
+        "text": "Which of the following is an example of a secondary source of liquidity \nfor a company?"
+      },
+      "choices": [
+        "Short-term funds",
+        "Liquidating assets",
+        "Effective cash management"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the main difference between primary and secondary sources of \nliquidity is that using a primary source is not likely to affect the normal operations \nof the company, whereas using a secondary source might result in a change in the \ncompany’s financial and operating positions. Secondary sources used by companies \ninclude: liquidating assets, which depends on the degree to which short-term and/or \nlong-term assets can be liquidated and converted into cash without substantial loss \nin value."
+      }
+    },
+    {
+      "id": "125c6788-2808-4d1d-a493-e3e83183865d",
+      "prompt": {
+        "text": "Which of the following is a pull on a company's liquidity?"
+      },
+      "choices": [
+        "Obsolete inventory",
+        "Reduced credit limits",
+        "Uncollected receivables"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a pull on liquidity is when disbursements (outflows) are paid too \nquickly by the company or trade credit availability is limited, requiring companies to \nexpend funds before they receive funds from sales that could cover the liability. \nAlso, major pulls on payments include reduced credit limits. If a company has a history \nof making late payments, suppliers might cut the amount of credit they will allow to \nbe outstanding at any time. So, reduced credit limits are a pull on a company’s liquidity."
+      }
+    },
+    {
+      "id": "ce5df87a-c1eb-4e40-8d1f-fd12456d96b0",
+      "prompt": {
+        "text": "Which of the following is best categorized as a drag on liquidity?"
+      },
+      "choices": [
+        "Insufficient credit lines",
+        "Uncollected receivables",
+        "Early payments to vendors \nWorking Capital and Liquidity \nFaculty:                                                                         Page 3 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a drag on liquidity is when receipts lag, creating pressure from \nthe decreased available funds. Major drags on receipts involve pressures from credit \nWorking Capital and Liquidity \nFaculty:                                                                         Page 7 of 7 \n \nmanagement and deterioration in other assets and include: Uncollected receivables. \nThe longer these are outstanding, the greater the risk that they will not be collected \nat all."
+      }
+    },
+    {
+      "id": "07c42a4a-ab8d-43bf-847f-750136bc63e0",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ millions) about a \ncompany: \nCash 50 \nShort-term marketable investments 37 \nReceivables 15 \nCurrent assets 114 \nCurrent liabilities 100 \n \nThe quick ratio of this company is closest to:"
+      },
+      "choices": [
+        "0.87.",
+        "1.02.",
+        "1.14."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the quick ratio (also known as the acid-test ratio) is the ratio of \nthe quick assets to current liabilities. Quick assets are those assets that can be most \nreadily converted to cash.  \nQuick ratio = (Cash + Short -term marketable investments + Receivables)/Current \nliabilities\" = (50 + 37 + 15)/100 = 1.02."
+      }
+    },
+    {
+      "id": "d00f31eb-46fc-4171-85bf-3b7e674dde24",
+      "prompt": {
+        "text": "An analyst gathers the following liquidity indicators for a company and \nits peer group: \n  Company Peer Group \nQuick ratio 0.9 1.1 \nOperating cycle (days) 70 73 \nCash conversion cycle (days) 40 38 \n \nAll else being equal, the company’s liquidity compares favourably to the peer group \nbased on the:"
+      },
+      "choices": [
+        "quick ratio.",
+        "operating cycle.",
+        "cash conversion cycle."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because based on the operating cycle, the company’s 70 days compares \nfavourably to 73 days for its peer group. The operating cycle is a measure of the time \nneeded to convert raw materials into cash from a sale. In general, the shorter these \ncycles the greater a company’s cash-generating ability and the less its need for liquid \nassets or outside finance.  Of the three measures, the operating cycle is the only \nmeasure to which the company has a favourable comparison."
+      }
+    },
+    {
+      "id": "b9c757bb-ad8c-444a-a453-a6e19269cb08",
+      "prompt": {
+        "text": "Which of the following is most likely classified as a drag on liquidity?"
+      },
+      "choices": [
+        "Tight credit market conditions",
+        "Reduced trade credit availability",
+        "Limits on short-term lines of credit"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a drag on liquidity is when receipts lag, creating pressure from \nthe decreased available funds. Major drags on receipts involve pressures from credit \nmanagement and deterioration in other assets such as tight credit. When economic \nconditions make capital scarcer, short-term debt becomes more expensive to arrange \nand use."
+      }
+    },
+    {
+      "id": "a7425e94-1187-4a37-b64a-caacf8d9a059",
+      "prompt": {
+        "text": "An analyst gathers the following information (in $ millions) about three \npeer companies: \n  Year 2 Year 1 \nCompany Credit \nSales \nAverage \nReceivables \nBalance \nCredit \nSales \nAverage \nReceivables \nBalance \n1 6.5 3.0 5.0 2.5 \n2 4.0 1.5 3.0 1.0 \n3 3.0 1.0 2.5 0.8 \n \nWorking Capital and Liquidity \nFaculty:                                                                         Page 4 of 7 \n \nWhich company reduced the average time to collect accounts receivable between \nYear 1 and Year 2?"
+      },
+      "choices": [
+        "Company 1",
+        "Company 2",
+        "Company 3"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the average time it took Company 1 to collect its accounts \nreceivable decreased from 183 days in Year 1 to 168 days in Year 2. Number of days \nreceivable = Accounts receivable / (Sales on credit / 365). In Year 1 number of days \nreceivable = 2,500,0 00 / (5,000,000 / 365) = 183 days. In Year 2 number of days \nreceivable = 3,000,000 / (6,500,000 / 365) = 168 days."
+      }
+    },
+    {
+      "id": "10edbdd4-1bc9-4190-96df-66715fb2cb90",
+      "prompt": {
+        "text": "Which of the following is best described as a secondary source of \nliquidity?"
+      },
+      "choices": [
+        "Bank line of credit",
+        "Cash flow management",
+        "Renegotiated debt contract"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the main difference between the primary and secondary sources \nof liquidity is that using a primary source is not likely to affect the normal operations \nof the company, whereas using a secondary source may result in a change in the \ncompany's financial and operating positions. Secondary sources include: negotiating \ndebt contracts, relieving pressures from high interest payments or principal \nrepayments."
+      }
+    },
+    {
+      "id": "8832022e-d716-404a-8d8f-cf1bb89bbdcd",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \n  Year 1 Year 2 \nDays sales outstanding 85 76 \nDays of inventory on hand 136 129 \nDays payable outstanding 29 13 \n \nThe company's cash conversion cycle in Year 2 is:"
+      },
+      "choices": [
+        "shorter than the cash conversion cycle in Year 1.",
+        "the same as the cash conversion cycle in Year 1.",
+        "longer than the cash conversion cycle in Year 1."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the cash conversion cycle is the same for both years.  The cash \nconversion cycle equals Days of inventory on hand + Days sales outstanding − Days \npayable outstanding. In Year 1 the cash conversion cycle was 85 + 136 – 29 = 192 days. \nIn Year 2 the cash conversion cycle was 76 + 129 – 13 = 192 days."
+      }
+    },
+    {
+      "id": "e844a4cf-3a24-4d44-8e1d-0e5865d653fa",
+      "prompt": {
+        "text": "Which of the following is most likely a secondary source of liquidity?"
+      },
+      "choices": [
+        "Bank line of credit",
+        "Inventory liquidation",
+        "Trade credit \n \n \n \n \nSUMMARY: - \n \n(LOS 23.a): - 2, 4, 13, 15, 17. \n(LOS 23.b): - 1, 3, 5, 6, 10, 11, 12, 14. \n(LOS 23.c): - 7, 8, 9, 16, 18. \n  \nWorking Capital and Liquidity \nFaculty:                                                                         Page 5 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Trade credit and a bank line of credit are considered primary sources \nof liquidity. Liquidating inventory is a secondary source of liquidity."
+      }
+    }
+  ]
+}

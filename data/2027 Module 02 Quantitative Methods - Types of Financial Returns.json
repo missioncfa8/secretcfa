@@ -1,0 +1,77 @@
+{
+  "title": "Module 02: Types of Financial Returns",
+  "topic": "Quantitative Methods",
+  "module_number": 2,
+  "module_name": "Types of Financial Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "f5fed5d3-6bd7-4273-98f4-6128c76c0dac",
+      "prompt": {
+        "text": "In the context of total investment risk, macro risks:"
+      },
+      "choices": [
+        "represent non-systematic risks.",
+        "are independent from total investment risk.",
+        "significantly influence overall investment performance."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "413aed04-aa1e-415e-9129-ef0f5db413a9",
+      "prompt": {
+        "text": "A wider range of annual returns for an asset class is typically associated with:"
+      },
+      "choices": [
+        "lower risk and higher returns.",
+        "higher risk and lower returns.",
+        "higher risk and higher returns."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2387d91d-a162-427a-8526-bbc48e898c3e",
+      "prompt": {
+        "text": "What does the decline in capital distribution returns in long-term government bonds over the period from \nthe early 2000s to early 2020s indicate?"
+      },
+      "choices": [
+        "A shift toward higher equity investments",
+        "A decrease in market interest rates",
+        "An increase in corporate default rates"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "69f1cb23-9a8d-4ecb-9b09-41177cbc8b5b",
+      "prompt": {
+        "text": "How does the risk–return trade-off principle affect asset allocation among investors with different \nobjectives?"
+      },
+      "choices": [
+        "It encourages all investors to prioritize high-risk assets for maximum returns.",
+        "It leads investors to allocate assets based on their risk tolerance and return objectives.",
+        "It suggests that low-risk assets offer the highest potential returns."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

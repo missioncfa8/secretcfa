@@ -1,0 +1,26 @@
+{
+  "title": "Module 78: Portfolio Management - An Overview",
+  "topic": "Portfolio Construction",
+  "module_number": 78,
+  "module_name": "Portfolio Management - An Overview",
+  "year": 2027,
+  "items": [
+    {
+      "id": "7898a654-8396-4343-8eb6-902c0ca5168f",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Portfolio Management - An Overview."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Portfolio Management - An Overview available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

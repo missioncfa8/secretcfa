@@ -1,0 +1,111 @@
+{
+  "title": "Module 44: Company Analysis - Past, Present, and Future",
+  "topic": "Equities",
+  "module_number": 44,
+  "module_name": "Company Analysis - Past, Present, and Future",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a0005f02-77cb-419b-80db-7471da95c102",
+      "prompt": {
+        "text": "Which of the following strategies is most likely to apply to economies of both scale and scope?"
+      },
+      "choices": [
+        "Cost leadership",
+        "Cost-based focus strategy",
+        "Differentiation-based focus\nFeedback\nA is correct because economies of scale and scope are most applicable under a cost leadership strategy, \nsince each aims to reduce the average cost of supplying goods and services.\nB is incorrect because it is difficult to achieve economies of scope in a focus strategy.\nC is incorrect because differentiation focus strategies are unlikely to benefit from economies of scale or scope."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4deb13db-f4ca-41e2-9a70-2aec0e107eb8",
+      "prompt": {
+        "text": "Focus strategies typically focus on:"
+      },
+      "choices": [
+        "differentiation only.",
+        "cost leadership only.",
+        "either cost leadership or differentiation.\nFeedback\nC is correct because a focused strategy may employ either cost leadership or differentiation aimed at a specific \ngroup or product.\nA is incorrect because either cost leadership or differentiation can be the basis for a focus strategy.\nB is incorrect because either cost leadership or differentiation can be the basis for a focus strategy."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "78c0bcab-3d22-475d-a58c-eec0b2d872aa",
+      "prompt": {
+        "text": "In a declining industry, which of the following factors is most likely to intensify competitive rivalry?"
+      },
+      "choices": [
+        "Excess capacity",
+        "Product differentiation",
+        "Research and development\nFeedback\nA is correct because declining industries often face excess capacity due to declining demand, a factor that \nintensifies competitive rivalry among industry participants.\nB is incorrect as product differentiation may occur at any life-cycle stage and is not necessarily a competitive \ndriver in declining industries.\nC is incorrect as research and development is more likely to be a factor affecting competitive rivalry among \nstartup or growth companies."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b99d1af3-87a8-4e47-bb21-ba640827db48",
+      "prompt": {
+        "text": "Higher working capital efficiency is most likely to be associated with an increase in:"
+      },
+      "choices": [
+        "days sales outstanding.",
+        "days inventory on hand.",
+        "days payables outstanding.\nFeedback\nC is correct because an increase in a firm’s payables outstanding results in a shorter cash conversion cycle, \nwhich is equal to days of sales outstanding plus days of inventory on hand minus days of payables \noutstanding.\nA is incorrect as an increase in days sales outstanding will lengthen, not shorten, the cash conversion cycle.\nB is incorrect as an increase in days inventory on hand will lengthen, not shorten, the cash conversion cycle."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e6eece69-e756-42c6-9768-7354d414cc79",
+      "prompt": {
+        "text": "Return on invested capital (ROIC) is best described as a measure of:"
+      },
+      "choices": [
+        "pre-tax returns to shareholders.",
+        "value created across all assets.",
+        "the amount needed for a company to earn excess returns\nFeedback\nB is correct because the ROIC measures return to all investors, as it includes both long-term liabilities such as \ndebt and average equity in the calculation.\nA is incorrect because ROIC measures after-tax return to all investors.\nC is incorrect because it describes the weighted average cost of capital (WACC), not ROIC"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "858273e2-7deb-47fa-b78c-a819e8a400cc",
+      "prompt": {
+        "text": "A firm raises debt to finance a new production facility. Prior to the facility opening, the firm will most likely \nexperience:"
+      },
+      "choices": [
+        "an increased operating margin.",
+        "an increase in financial leverage.",
+        "a reduction in net working capital.\nFeedback\nB is correct because issuing debt increases the firm’s liabilities and associated interest expenses, thereby \nincreasing financial leverage.\nA is incorrect because operating margin excludes interest and would not be affected by financing decisions.\nC is incorrect because raising debt typically affects long-term liabilities, not current assets or liabilities directly \nassociated with net working capital."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

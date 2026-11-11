@@ -1,0 +1,400 @@
+{
+  "title": "Module 58: Mortgage-Backed Security (MBS) Instrument and Market Features",
+  "topic": "Fixed Income",
+  "module_number": 58,
+  "module_name": "Mortgage-Backed Security (MBS) Instrument and Market Features",
+  "year": 2027,
+  "items": [
+    {
+      "id": "6c47b6ab-58d0-40ef-90e3-129951829a45",
+      "prompt": {
+        "text": "Compare the credit rating of the Class A bonds issued by the SPE and the \nuncollateralized bonds issued directly by AR&C. The Class A bonds are most likely  \nrated:"
+      },
+      "choices": [
+        "lower than AR&C bonds.",
+        "the same as AR&C bonds.",
+        "higher than AR&C bonds."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The Class A bonds issued by the SPE are backed by collateral, the leases \nsold by AR&C to the SPE, and they are the most senior of the  bonds issued by the \nSPE. A secured bond is secured by collateral and is considered less risky than a bond \nwithout collateral backing. The Class A bonds issued by the SPE would most likely be \nrated higher than any unsecured corporate bonds issued directly by AR&C."
+      }
+    },
+    {
+      "id": "0500cbfd-18d2-4ebf-87f7-ffa9a77a2131",
+      "prompt": {
+        "text": "Select which of the following statements related to the collateralized bonds issued  \ndirectly by the SPE is most accurate."
+      },
+      "choices": [
+        "This senior/subordinated structure is an example of time tranching.",
+        "Losses are realized by the subordinated bond classes before any losses are  \nrealized by Class A bonds.",
+        "In a waterfall structure such as this one, losses are shared proportionally across \nall subordinated bond classes. \n \nThe following information relates to questions 3-4 \nA borrower wishes to procure a mortgage loan to purchase a property. Information  \nregarding the property, the desired loan, and the buyer’s finances is shown below: \n▪ Property price: CAD750,000 \n▪ Desired loan amount: CAD525,000 \n▪ Annual interest rate: 5.00% \n▪ Loan term: 30 years/360 months \n▪ Monthly payment: CAD2,818.31 \n▪ Borrower’s annual pre-tax gross income: CAD210,000"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Losses are realized by the subordinated bond classes before any losses \nare realized by the senior Class A bonds.  \nA is incorrect because this senior/subordinated structure is an example of credit \ntranching, not time tranching.  \nC is incorrect because in a waterfall structure such as this one, the most junior \ntranche, Class D, will absorb all losses up to its full CAD50 million par value first. \nThen, if credit losses exceed that threshold, Bond Class C will absorb all losses up to \nits full CAD100 million par value. The losses are not shared proportionally across all \nsubordinated bond classes; instead, they are absorbed by the most junior classes \nfirst and subsequently by the more senior ones up to the value of the loss."
+      }
+    },
+    {
+      "id": "1626c94d-d6be-4ce5-b8ed-17ab298bf42f",
+      "prompt": {
+        "text": "The loan-to-value (LTV) ratio is closest to:"
+      },
+      "choices": [
+        "54%.",
+        "66%.",
+        "70%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct . The loan -to-value ratio (LTV) is the ratio of the amount  of the \nloan/mortgage to the property’s value. \nLTV = Amount of the Amount of loan divided by Property's value \nLTV = 525,000/750,000 \nLTV = 70%."
+      }
+    },
+    {
+      "id": "87285cbe-753e-4a4c-9ea0-46167447d973",
+      "prompt": {
+        "text": "The debt-to-income (DTI) ratio is closest to:"
+      },
+      "choices": [
+        "1.30%.",
+        "16.10%.",
+        "250.00%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct . The DTI is calculated using the monthly debt payment  and the \nborrower’s monthly pre-tax gross income, as follows: \nDTI = Monthly debt payment divided by monthly pre-tax gross income \nDTI = 2,818.31 divided by (210,000/12) = 16.10%"
+      }
+    },
+    {
+      "id": "61d8be8f-3505-41c1-b6d9-5ca36946eaad",
+      "prompt": {
+        "text": "For a CMO that includes Planned Amortization Class (PAC) tranches, if the  \nprepayment rate is within the anticipated range, which of the following tranches most \nlikely protects investors from prepayment risk?"
+      },
+      "choices": [
+        "PAC tranche",
+        "Senior tranche",
+        "Support tranche \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 3 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If the prepayment rate is within the specified range, all prepayment risk \nis absorbed by the support tranche. This provides greater predictability of the size \nand timing of cash flows paid to investors in the PAC tranches. \nA is incorrect because in a CMO that includes a PAC tranche, the PAC tranche is  \nprotected from prepayment risk because all prepayment risk is absorbed by the  \nsupport tranche \nB is incorrect because in a CMO that includes a PAC tranche, the senior (PAC) tranche \nis protected from prepayment risk because all prepayment risk is absorbed  by the \nsupport tranche."
+      }
+    },
+    {
+      "id": "809c4977-87ac-449f-92f4-fb07b33a5826",
+      "prompt": {
+        "text": "Which of the following approaches redistributes prepayment risk?"
+      },
+      "choices": [
+        "Tranching",
+        "Excess spread",
+        "Overcollateralization \n \nUse the following information for questions 7 and 8: \nShown below are five mortgages that comprise the entire pool in a mortgage-backed \nsecurity. \nMortgage Interest \nRate (i) \nBeginning \nBalance (BB) \nCurrent \nBalance (CB) \nOriginal \nTerm \n(months) \nNumber \nof Months \nto \nMaturity \nA 2.00% CAD200,000 CAD83,000 420 140 \nB 3.00% CAD300,000 CAD193,000 360 192 \nC 4.00% CAD400,000 CAD315,000 360 240 \nD 5.00% CAD500,000 CAD357,000 240 144 \nE 6.00% CAD600,000 CAD548,000 420 324 \n    CAD2,000,000 CAD1,496,000"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The tranching structure in CMOs cannot eliminate prepayment risk, but \nit can redistribute prepayment risk across the different tranches,  insulating some \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 8 of 11 \n \ntranches more than others. CMO tranche structures reduce the uncertainties of the \nsize and timing of payments investors receive.  \nB and C are incorrect because excess spread and overcollateralization are both  \ncommon forms of credit enhancement, but they do not redistribute prepayment risk."
+      }
+    },
+    {
+      "id": "a170a127-03bc-4ab3-99ee-ee35d98d44b1",
+      "prompt": {
+        "text": "The WAM for this security is closest to:"
+      },
+      "choices": [
+        "208 months.",
+        "224 months.",
+        "236 months."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The weighted average maturity is calculated by weighting the number of \nmonths to maturity for each mortgage in the pool by the percentage  of the \noutstanding mortgage balance relative to the outstanding amount of all the mortgages \nin the pool, as shown in the following equation: \n𝑊𝐴𝑀 = 𝑀𝑀𝐴 ( 𝐶𝐵𝐴\n∑ 𝐶𝐵) + 𝑀𝑀𝐵 ( 𝐶𝐵𝐵\n∑ 𝐶𝐵) + 𝑀𝑀𝐶 ( 𝐶𝐵𝐶\n∑ 𝐶𝐵) + 𝑀𝑀𝐷 ( 𝐶𝐵𝐷\n∑ 𝐶𝐵) + 𝑀𝑀𝐸 ( 𝐶𝐵𝐸\n∑ 𝐶𝐵) \n \n𝑊𝐴𝑀 = 140 ( 83,000\n1,496,000) + 192 ( 193,000\n1,496,000) + 240 ( 315,000\n1,496,000) + 144 ( 357,000\n1,496,000) \n \n+324 ( 548,000\n1,496,000) \n \n𝑊𝐴𝑀 = 236~months."
+      }
+    },
+    {
+      "id": "75729dd2-e18b-4e2b-b8c5-3fe79046ad84",
+      "prompt": {
+        "text": "Which of the following adverse consequences is most likely associated with extension \nrisk?"
+      },
+      "choices": [
+        "Investors must reinvest the proceeds at lower interest rates.",
+        "Higher interest rates reduce the value of the cash flows investors receive.",
+        "The prepayment option reduces the potential price appreciation for the bond. \n \n \n \n \n \n \n \n \n \n \n \n \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 4 of 11 \n \nUse the following information for questions 9, 10, and 11: \nShown below are three properties whose mortgages are securitized to create a  \nsequential-pay CMBS and information related to the four tranches comprising the CMBS. \nProperty Information \nProperty \nType \nFair Market \nValue \nMortgaged \nAmount \nCoupon \nRate Maturity Repayment \nOffice \nBuilding 3,50,00,000 2,70,00,000 4.00% \nFour years \nfrom \nsettlement \ndate \nFully \namortizing \nOffice \nBuilding 6,00,00,000 4,40,00,000 3.00% \nFour years \nfrom \nsettlement \ndate \nFully \namortizing \nWarehouse 1,50,00,000 1,20,00,000 5.00% \nEight years \nfrom \nsettlement \ndate \nFully \namortizing \n \nTranche Information \nTranche Coupon Rate Principal Value \nA 2.00% 2,00,00,000 \nB 3.00% 2,20,00,000 \nC 4.00% 2,30,00,000 \nD 5.00% 1,80,00,000"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Extension risk is the risk that the borrower might pay  back the money \nborrowed more slowly than anticipated, extending the time  of repayment and the \nmaturity of the bond. For investors, this has one adverse  consequence: Higher \ninterest rates reduce the value of the cash flows investors  receive. The payments \nthe investors receive will be discounted at a higher interest rate, and the extension \nstretches out the payments the investors receive. \nA is incorrect because contraction risk (the risk that the borrower might pay  back \nthe money borrowed more quickly than anticipated, reducing the amount of  future \npayments the investor receives), not extension risk, has the adverse consequence  \nthat investors must reinvest the proceeds at lower interest rates. \nC is incorrect because contraction risk (the risk that the borrower might pay  back \nthe money borrowed more quickly than anticipated, reducing the amount  of future \npayments the investor receives), not extension risk, has the adverse  consequence \nthat the prepayment option reduces the potential price appreciation for the bond."
+      }
+    },
+    {
+      "id": "973119b1-15fc-419b-a3eb-9a337adf997b",
+      "prompt": {
+        "text": "The associated loan to value ratio is closest to:"
+      },
+      "choices": [
+        "0.75.",
+        "0.77.",
+        "0.80."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The associated loan to value ratio is calculated as the total value of all \nloans (mortgages) divided by the total value of the properties  associated with the \nmortgages, as follows: \n𝐿𝑇𝑉 = Total value of all loans (mortgages)\nTotal value of all properties mortgaged \n \n𝐿𝑇𝑉 = 83,000,000\n110,000,000 = 0.75. \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 9 of 11"
+      }
+    },
+    {
+      "id": "48290ac2-6025-4433-bebe-fdb0d0158e4b",
+      "prompt": {
+        "text": "The weighted average coupon payment is closest to:"
+      },
+      "choices": [
+        "3.47%.",
+        "3.50%.",
+        "3.61%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The weighted average coupon payment is calculated as the value of each \ntranche’s coupon rate weighted by the principal value of that tranche as a percentage \nof the total value of all tranches: \n𝑊𝐴𝐶 = 𝑖𝐴 ( 𝑃𝑉𝐴\n∑ 𝑃𝑉) + 𝑖𝐵 ( 𝑃𝑉𝐵\n∑ 𝑃𝑉) + 𝑖𝐶 ( 𝑃𝑉𝐶\n∑ 𝑃𝑉) + 𝑖𝐷 ( 𝑃𝑉𝐷\n∑ 𝑃𝑉) \n \n𝑊𝐴𝐶 = 2.00% (20,000,000\n83,000,000) + 3.00% (22,000,000\n83,000,000) + 4.00% (23,000,000\n83,000,000) \n \n+5.00% (18,000,000\n23,000,000) \n \n𝑊𝐴𝐶 =  3.47%."
+      }
+    },
+    {
+      "id": "13db1f30-e81f-4491-bec0-5a7206a0683c",
+      "prompt": {
+        "text": "The weighted average proceeds from the mortgages is closest to:"
+      },
+      "choices": [
+        "3.47%.",
+        "3.50%.",
+        "3.61%. \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 5 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct . The weighted average proceeds from the mortgages  (WAMP shown \nbelow) is calculated as the coupon rate of each mortgage weighted by that mortgage’s \nvalue/amount as a percentage of the total value of all the mortgages: \n𝑊𝐴𝑀𝑃 = 𝑖𝐴 ( 𝑀𝐴𝐴\n∑ 𝑀𝐴) + 𝑖𝐵 ( 𝑀𝐴𝐵\n∑ 𝑀𝐴) + 𝑖𝐶 ( 𝑀𝐴𝐶\n∑ 𝑀𝐴) \n \n𝑊𝐴𝑀𝑃 = 4.00% (27,000,000\n83,000,000) + 3.00% (44,000,000\n83,000,000) + 5.00% (12,000,000\n83,000,000) \n \n𝑊𝐴𝑀𝑃 =  3.61%."
+      }
+    },
+    {
+      "id": "16f7750e-702f-457f-9d10-bcd797c135a0",
+      "prompt": {
+        "text": "Which of the following would most likely increase balloon risk for a commercial  \nmortgage loan that is maturing?"
+      },
+      "choices": [
+        "High DSCR",
+        "Low LTV ratio",
+        "Lack of property buyers in market"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A lack of property buyers in the market will make it  challenging for a \nborrower to sell a property to generate sufficient funds to pay  off the outstanding \nprincipal balance. A is incorrect because a high DSCR would  reduce the balloon risk. \nB is incorrect because a low LTV ratio would also reduce the balloon risk of a maturing \nloan."
+      }
+    },
+    {
+      "id": "6e1af66f-7b2c-4ea8-a57b-1a43a62e28be",
+      "prompt": {
+        "text": "Which of the following provides call protection for CMBS investors at the structural \nlevel?"
+      },
+      "choices": [
+        "Defeasance",
+        "Prepayment lockout",
+        "Sequential-pay tranches"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Structural call protection is achieved through  sequential-pay tranches \nin the CMBS as a lower -rated tranche cannot be paid  down until the higher -rated \ntranche is completely retired. A is incorrect because  defeasance provides call \nprotection at the individual loan level. Defeasance allows  prepayment, but the \nborrower must purchase a portfolio of government securities  that fully replicates \nthe cash flows of the remaining scheduled principal and interest payments, including \nthe balloon loan balan ce, on the loan. B is incorrect  because prepayment lockout \nprovides call protection at the individual loan level.  Prepayment lockout is a \ncontractual agreement that prohibits any prepayments during a specified period. \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 10 of 11"
+      }
+    },
+    {
+      "id": "f7cf3f51-8366-4f69-9ab6-73754020c6da",
+      "prompt": {
+        "text": "An investor who owns a mortgage pass -through security is exposed to contraction \nrisk, which is the risk that when interest rates:"
+      },
+      "choices": [
+        "decline, the security will effectively have a longer maturity than was anticipated \nat the time of purchase.",
+        "decline, the security will effectively have a shorter maturity than was anticipated \nat the time of purchase.",
+        "rise, the security will effectively have a shorter maturity than was anticipated at \nthe time of purchase."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Contraction risk is the risk faced by investors when interest rates fall \nin that the security will effectively have a shorter maturity than was anticipated at \nthe time of purchase because homeowners can refinance at new, lower interest rates."
+      }
+    },
+    {
+      "id": "7fa449db-fb93-48af-b8a4-bbfa0d8e4c8b",
+      "prompt": {
+        "text": "Investors in commercial mortgage-backed securities (CMBS) face balloon risk, which \nis most likely a type of:"
+      },
+      "choices": [
+        "call risk.",
+        "contraction risk.",
+        "extension risk."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Balloon risk is the risk that the borrower will not be able to arrange for \nrefinancing or sell the property to make the balloon payment typically associated with \ncommercial loans backing CMBS. As a result, the CMBS may extend in maturity, \nimplying that balloon risk is a type of extension risk."
+      }
+    },
+    {
+      "id": "866fa6dc-7b0e-4c7d-8851-746366bd591b",
+      "prompt": {
+        "text": "In a mortgage pass-through security, the pass-through rate:"
+      },
+      "choices": [
+        "is adjusted as market rates rise or fall.",
+        "adjusts the rate on the underlying pool of mortgages by a servicing fee.",
+        "is equal to the mortgage rate on the underlying pool of mortgages."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In a mortgage pass-through security, the pass-through rate is less than \nthe mortgage rate on the underlying pool of mortgages by an amount equal to the \nservicing (and other administrative) fees."
+      }
+    },
+    {
+      "id": "29cf381a-2c3d-4a6d-86d5-5feda334b8dd",
+      "prompt": {
+        "text": "An investor who owns a mortgage pass-through security is exposed to extension risk, \nwhich is the risk that when interest rates:"
+      },
+      "choices": [
+        "fall, the security will effectively have a shorter maturity than was anticipated at \nthe time of purchase.",
+        "rise, the security will effectively have a shorter maturity than was anticipated at \nthe time of purchase.",
+        "rise, the security will effectively have a longer maturity than was anticipated at \nthe time of purchase. \n \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 6 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is c orrect. Extension risk is the risk faced that when interest rates rise, fewer \nprepayments will occur because homeowners will be reluctant to give up the benefits \nof a contractual interest rate that is now lower than the market rate. As a result, \nthe security becomes longer in maturity than anticipated at the time of purchase."
+      }
+    },
+    {
+      "id": "7f6a2a17-0f2d-4df0-b3a0-f51c36117b9a",
+      "prompt": {
+        "text": "All else being equal, the risk of a strategic default for a non-recourse mortgage \nis most likely:"
+      },
+      "choices": [
+        "lower than for a recourse mortgage.",
+        "the same as for a recourse mortgage.",
+        "greater than for a recourse mortgage."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for a non-recourse mortgage, the borrower may have an incentive \nto default on an underwater mortgage and allow the lender to foreclose on the \nproperty, even if resources are available to continue to make mortgage payments. \nThis type of default by a borrower is referred to as a “strategic default\". In \ncountries where residential mortgages are recourse loans, a strategic default is less \nlikely because the lender can seek to recover the shortfall from the borrower's other \nassets and/or income. Therefore, the risk of a strategic default is higher for a non-\nrecourse mortgage."
+      }
+    },
+    {
+      "id": "80e829dd-c936-4ce3-845c-763d71ed9c65",
+      "prompt": {
+        "text": "Which of the following mortgage features most likely benefits the lender?"
+      },
+      "choices": [
+        "Non-recourse loan",
+        "Prepayment option",
+        "Prepayment penalty"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the purpose of the prepayment penalty is to compensate the \nlender for the difference between the contract rate and the prevailing mortgage \nrate if the borrower prepays when interest rates decline."
+      }
+    },
+    {
+      "id": "1519a2db-177e-4904-a048-917196377936",
+      "prompt": {
+        "text": "When interest rates increase, mortgage-backed securities most likely exhibit \nincreased:"
+      },
+      "choices": [
+        "extension risk.",
+        "contraction risk.",
+        "reinvestment risk."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because extension risk is the risk that when interest rates rise, \nprepayments will be lower than forecasted because homeowners are reluctant to give \nup the benefits of a contractual interest rate that now looks low. As a result, a \nsecurity backed by mortg ages will typically have a longer maturity than was \nanticipated at the time of purchase."
+      }
+    },
+    {
+      "id": "850eafda-f446-48bb-a981-42cb5d22e873",
+      "prompt": {
+        "text": "The coupon of a residential mortgage-backed security is the:"
+      },
+      "choices": [
+        "pass-through rate.",
+        "weighted average coupon rate.",
+        "rate on the underlying pool of mortgages."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a mortgage pass-through security’s coupon rate is called the \npass- through rate. The pass -through rate is lower than the mortgage rate on the \nunderlying pool of mortgages by an amount equal to the servicing and other \nadministrative fees. The pass-through rate that the investor receives is said to be \n'net interest' or 'net coupon'. \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 11 of 11"
+      }
+    },
+    {
+      "id": "8c416c67-54b8-4f82-969a-a93613dcf635",
+      "prompt": {
+        "text": "In a securitization, time tranching most likely refers to differences in:"
+      },
+      "choices": [
+        "default risk.",
+        "expected maturities.",
+        "underlying collateral."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the creation of bond classes that possess different expected \nmaturities is referred to as time tranching."
+      }
+    },
+    {
+      "id": "21fba51d-1d41-4c8b-b6f8-1463c12780cc",
+      "prompt": {
+        "text": "Which of the following is least likely a feature typical of an agency residential \nmortgage-backed security (RMBS)?"
+      },
+      "choices": [
+        "A guarantee by a government-sponsored enterprise",
+        "The satisfaction of specific established underwriting standards",
+        "The use of credit enhancements to reduce credit risk \n \n \n  \nMortgage-Backed Security (MBS) Instrument and Market Features \nFaculty:                                                                                    Page 7 of 11"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because RMBS issued by GSEs do not carry the full faith and credit of \nthe government, but rather the GSEs’ guarantee of the timely payment of interest \nand principal for the securities. The GSE’s charge a fee for this guarantee. \nDue to changing regulatory guidance and increased scrutiny, non-agency-RMBS all but \ndisappeared after the global financial crisis. They were issued by banks, financial \ninstitutions, and other private businesses and were not beneficiaries of government \nguarantees. These private pass -throughs or private label MBS gained credit \nenhancement through pool insurance, letters of credit, guarantees, or subordination."
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "title": "Module 68: Valuing a Derivative Using a One-Period Binomial Model",
+  "topic": "Derivatives",
+  "module_number": 68,
+  "module_name": "Valuing a Derivative Using a One-Period Binomial Model",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a94cb5ea-99b6-4220-9d02-444a6585c060",
+      "prompt": {
+        "text": "Kleinert’s analyst estimates a 50 -50 chance that the price of SparCoin will either  \nincrease by 12% or decline by 10% at the put option’s expiration date. Which of  the \nfollowing statements best describes the no -arbitrage option price implied by  this \nassumption?"
+      },
+      "choices": [
+        "Since there is a 50% chance that the stock will fall to €94.73, there is a 50 -50 \nchance of a €5.27 payout upon exercise and the no -arbitrage put is therefore  \nworth €2.64 (= €5.27 / 2).",
+        "Since there is a 50% chance that the stock will fall to €94.73, there is a 50 -50 \nchance of a €5.27 payout upon exercise and given the risk -neutral probability of \n0.47, the no-arbitrage put price is €2.48 (= €5.27 × 0.47).",
+        "Since there is a 50% chance that the stock will fall to €94.73 and the risk-neutral \nprobability is 0.47, the no -arbitrage put price is €2.78 (= €5.27 ×  {[1 –"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A 12% increase in the stock price gives: \n \n𝑆1\n𝑢 = 𝑅𝑢𝑆0 = 1.12 ×  € 105.25 =  € 117.88 \n \nThe put option will expire unexercised: \n \n𝑝1\n𝑢 = Max(0, 𝑋 − 𝑆1\n𝑢) = Max(0,  € 100 −  € 117.88) =  € 0 \n \nAlternatively, a 10% price decrease gives: \n \n𝑆1\n𝑑 = 𝑅𝑑𝑆0 = 0.9 ×  € 105.25 =  € 94.73 \n \nThe put option will pay off: \n \n𝑝1\n𝑑 = Max(0, 𝑋 − 𝑆1\n𝑑) = Max(0,  € 100 −  € 94.73) =  € 5.27 \n \nTo price this option, the risk-neutral pricing formula gives the risk-neutral \nprobability π as: \n \nπ = 1 + 0.0037 − 0.9\n1.12 − 0.9 = 0.47 \n \nThe no-arbitrage price is: \n𝑝0 = π × 𝑝1\n𝑢 + (1 − π)𝑝1\n𝑑\n1 + 𝑟  \n𝑝0 = 0.47 ×  € 0 + 0.53 ×  € 5.27\n1 + 0.0037 =  € 2.79\n1.0037 =  € 2.78"
+      }
+    },
+    {
+      "id": "c1e47689-ecba-415d-8d68-b0abce0071f5",
+      "prompt": {
+        "text": "If Kleinert’s clients observe that the one-year put option with a €100 exercise price \nis trading at €2.50, which of the following statements best describes how Kleinert’s \nclients could take advantage of this to earn a risk -free return greater than 0.37% \nover the year."
+      },
+      "choices": [
+        "Kleinert should purchase the put option and also purchase approximately  0.23 \nshares per option to match the hedge ratio.",
+        "Kleinert should purchase the put option and purchase 50% of the underlying  \nshares given the 50-50 chance the stock will fall and the put option exercised.",
+        "Kleinert should purchase the put option and purchase 47% of the underlying  \nshares to match the risk-neutral probability of put exercise."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. If the put option can be purchased for less than the no-arbitrage price, \nthen a potential arbitrage opportunity is available. In this case,  Kleinert’s clients \nshould purchase the underpriced put option and buy h* units of SparCoin’s stock. The \nhedge ratio, h*, is calculated as: \n \nℎ∗ = 𝑝1\n𝑢 − 𝑝1\n𝑑\n𝑆1\n𝑢 − 𝑆1\n𝑑 =  € 0 −  € 5.27\n € 117.88 −  € 94.73 = − € 5.27\n € 23.15 = −0.2276 \n \nNote that the negative hedge ratio implies that both the put option and underlying \nare purchased or sold to create a hedge. This initial purchase of the put option and \nstock will cost: \n \n € 2.50 +  0.2276 ×  € 105.25 =   € 26.45 \n \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 5 of 7 \n \nShould the stock price decrease, the value of this portfolio will be: \n \n𝑉1 = 𝑉1\n𝑑 = ℎ∗𝑆1\n𝑑 + 𝑝1\n𝑑 = 0.2276 ×  € 94.73 +  € 5.27 =  € 26.83 \n \nThe strategy generates a risk -free return of (€26.83 – €26.45)/€26.45 = 1.44%, \nwhich is greater than the 0.37% return on other available risk-free investments."
+      }
+    },
+    {
+      "id": "0ec39b35-17b7-46dd-ad77-f1e91caafe51",
+      "prompt": {
+        "text": "If risk-free investments yielded a higher return over the next year, which of the  \nfollowing statements best describes how this would affect the no-arbitrage value of \nthe put option on SparCoin shares?"
+      },
+      "choices": [
+        "An increase in the risk-free rate will have no effect on SparCoin’s put option price, \nas it is solely a function of the probability and degree of share price increase or \ndecrease upon option expiration. \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 2 of 7",
+        "An increase in the risk -free rate will increase the value of the put option, as  it \nwill increase the risk-neutral probability of a price decline.",
+        "An increase in the risk -free rate will decrease the value of the put option,  as it \nwill both increase the risk-neutral probability of a price increase π and decrease \nthe present value of the expected option payoff."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Rising interest rates reduce the value of a put option.  Increasing the \nrisk-free rate will increase the risk -neutral probability of a price  increase π and \ndecrease the present value of the expected option payoff. Since  the value of a put \noption is inversely related to the price of the underlying asset,  an increased \nprobability of an upward price move will reduce the expected payoff  from the put. \nConsequently, both of these effects will reduce the put option value as the return on \nrisk-free investments increases."
+      }
+    },
+    {
+      "id": "b40371d4-2e01-42d3-a043-fc47295b0b3a",
+      "prompt": {
+        "text": "If the expected percentage increase and decrease in SparCoin’s share price were to \ndouble, which of the following is the closest estimate of the one-year put option price \nwith an exercise price of €100?"
+      },
+      "choices": [
+        "The one-year put option price will rise to €7.90.",
+        "The one-year put option price will rise to €8.50.",
+        "The one-year put option price will rise to €7.40."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A 24% (previously 12%) increase in the stock price gives: \n \n𝑆1\n𝑢 = 𝑅𝑢𝑆0 = 1.24 ×  € 105.25 =  € 130.51 \n \nThe put option will expire unexercised: \n \n𝑝1\n𝑢 = Max(0, 𝑋 − 𝑆1\n𝑢) = Max(0,  € 100.00 −  € 130.51) =  € 0 \n \nAlternatively, a 20% (previously 10%) decrease gives: \n𝑆1\n𝑑 = 𝑅𝑑𝑆0 = 0.8 ×  € 105.25 =  € 84.20 \n \nThe put option will pay off: \n \n𝑝1\n𝑑 = Max(0, 𝑋 − 𝑆1\n𝑑) = Max(0,  € 100 −  € 84.20) =  € 15.80 \n \nTo price this option, the risk-neutral pricing formula gives the risk-neutral probability \nas: \nπ = 1 + 0.0037 − 0.8\n1.24 − 0.8 = 0.46 \n \nThe no-arbitrage price is: \n \n𝑝0 = π × 𝑝1\n𝑢 + (1 − π)𝑝1\n𝑑\n1 + 𝑟 = (0.46 ×  € 0 + 0.54 ×  € 15.80)\n1 + 0.0037 =  € 8.53\n1.0037 =  € 8.50"
+      }
+    },
+    {
+      "id": "0537d5b1-498c-4ce4-9087-60fc43c0aa20",
+      "prompt": {
+        "text": "Which of the following factors affects the option price when using a binomial \nmodel? The:"
+      },
+      "choices": [
+        "risk-free rate.",
+        "level of investors' risk aversion.",
+        "expected return of the underlying."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the value of the call option today, c 0, is computed as the \nexpected value of the option at expiration, c 1u and c1d, discounted at the risk -free \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 6 of 7 \n \nrate, r. Also, this no-arbitrage derivative value established separately from investor \nviews on risk is referred to as risk-neutral pricing."
+      }
+    },
+    {
+      "id": "f3a0c7eb-1396-4aba-a7aa-337e50ddfa8e",
+      "prompt": {
+        "text": "An analyst gathers the following information about an underlying: \nCurrent price of underlying asset $16.0 \nEnd of period upward price $22.0 \nEnd of period downward price $12.0 \nRisk-free rate 4.00% \n \nUsing a one-period binomial model, the risk-neutral probability of a price increase \nis closest to:"
+      },
+      "choices": [
+        "0.38.",
+        "0.46.",
+        "0.54."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the risk-neutral probability (π) is the computed probability \nused in binomial option pricing by which the discounted weighted sum of expected \nvalues of the underlying, S1u = RuS0 and S1d = RdS0, equal the current option price. \nSpecifically, this probability is computed using the risk-free rate and assumed up \ngross return and down gross return of the underlying as in Equation 7. \nπ = 1 + r – Rd / Ru – Rd \nMore specifically, π, is the risk-neutral probability of an increase in the underlying \nprice to S1u = RuS0 , and (1 − π) is that of a decrease, S1d = RdS0. \nThus, An increase from $16 to $22 or a decrease from $16 to $12 corresponds to: \nRu = $22/$16 = 1.375 and Rd = $12/$16 = 0.75. \nUsing the risk-neutral probability (π) of a price increase: \nπ = 1 + r – Rd / Ru – Rd = (1 + 0.04 – 0.75) / (1.375 – 0.75) = 0.29/0.625 = 0.464 ≈ \n0.46."
+      }
+    },
+    {
+      "id": "c360ded9-4fd8-4ca9-80f1-bcd12795a770",
+      "prompt": {
+        "text": "All else being equal, if the up gross return increases in a one-period binomial model, \nthe risk-neutral probability of an upward price movement of the asset will:"
+      },
+      "choices": [
+        "decrease.",
+        "remain the same.",
+        "increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the risk-neutral probability (π) is the computed probability used \nin binomial option pricing by which the discounted weighted sum of expected values \nof the underlying,  S1u = RuS0 and S1d = RdS0, equal the current option price. \nSpecifically, this probability is computed using the risk -free rate and assumed up \ngross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru-Rd). So, if \nthe up gross return increases  in a one -period binomial model, the denominator will \nincrease. Therefore,  the risk -neutral probability of an upward price  movement of \nthe asset, (π), decreases."
+      }
+    },
+    {
+      "id": "fae43d52-9a3b-4ce1-b437-fdf97244c2c2",
+      "prompt": {
+        "text": "An analyst collects the following information: \nCurrent stock price € 26 \nGross return from an up move 1.1 \nGross return from a down move 0.75 \nCall and put exercise price € 22 \n \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 3 of 7 \n \nBased on a one-period binomial pricing model, which of the following has the largest \npayoff?"
+      },
+      "choices": [
+        "Put option following an up move.",
+        "Put option following a down move.",
+        "Call option following a down move."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the payoff of a put option following a down move is p1d = Max \n(0, X – S1d) where X is the exercise price and S1d is the price after a down move. In \nthis case, S1d = €26(0.75) = €19.50. So, p1d = Max (0, €22 - €19.50) = €2.50, which is \ngreater than the payoffs of other two responses."
+      }
+    },
+    {
+      "id": "a6abe21f-2578-4986-bab8-8f443a119bd4",
+      "prompt": {
+        "text": "Risk-neutral pricing establishes no-arbitrage option values independent of the:"
+      },
+      "choices": [
+        "spot price of the underlying.",
+        "investor's views on the volatility of the underlying.",
+        "future price of the underlying following an up or down move."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because this no-arbitrage derivative value established separately from \ninvestor views on risk is referred to as risk-neutral pricing. Volatility generally means \nrisk because  the expected price risk of the underlying, is known as  implied \nvolatility. Therefore, risk -neutral pricing establishes no -arbitrage option values \nindependent of the investor views on the underlying's volatility."
+      }
+    },
+    {
+      "id": "97ea198f-2dcc-4442-ac3e-ec4befc80778",
+      "prompt": {
+        "text": "An investor expects an underlying to go up or down by 25% over the next year. If \nthe risk-free rate is 5%, the risk-neutral probability of a decrease in the \nunderlying price is closest to:"
+      },
+      "choices": [
+        "0.25.",
+        "0.40.",
+        "0.60."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the risk-neutral probability (π) is the computed probability used \nin binomial option pricing  with π = (1 + r – Rd) / (R u – Rd), where π is the risk-neutral \nprobability of an increase in the underlying price, r is the risk -free rate and Rd and \nRu represent the underlying asset volatility, i.e., expected up and down moves of the \nunderlying after the period. Here, r = 0.05, Ru is (1 + 0.25)=1.25 and Rd is (1 – 0.25) = \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 7 of 7 \n \n0.75. Substituting in yields (1 + 0.05  – 0.75) / (1.25  – 0.75) = 0.60. Since  the risk-\nneutral probability of a decrease in the underlying price is 1 – π we get 1 – 0.60 = 0.40."
+      }
+    },
+    {
+      "id": "f60a3bab-ecb0-40d5-9ebd-15d51a1a3a3b",
+      "prompt": {
+        "text": "Most derivatives pricing models are established on the foundation that:"
+      },
+      "choices": [
+        "arbitrage opportunities exist.",
+        "only one price for a derivative exists.",
+        "the underlying asset price is inferred to determine the derivative price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the law of one price can be used to value a derivative security \nsince there is a one -to-one relationship between the derivative and its underlying \nasset at maturity. Therefore, there exists only one price for each derivative."
+      }
+    },
+    {
+      "id": "1b0750d0-d22e-4af0-a442-b30394371062",
+      "prompt": {
+        "text": "When valuing a call option using the binomial model, an increase in the probability that \nthe underlying will go up most likely implies that the current price of the call option:"
+      },
+      "choices": [
+        "increases.",
+        "remains unchanged.",
+        "decreases. \n \n  \nValuing a Derivative Using a One-Period Binomial Model \nFaculty:                                                                                    Page 4 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The probability that the underlying will go up is not part of the binomial \nmodel for pricing options. This probability is irrelevant because the options are priced \nusing risk-neutral probabilities. These are derived by constructing a hedged portfolio \nin the absence of arbitrage opportunities."
+      }
+    }
+  ]
+}

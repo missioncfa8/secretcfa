@@ -1,0 +1,910 @@
+{
+  "title": "Module 24: Analyzing Income Statements",
+  "topic": "Financial Statement Analysis",
+  "module_number": 24,
+  "module_name": "Analyzing Income Statements",
+  "year": 2027,
+  "items": [
+    {
+      "id": "fc44eaba-901d-4b79-af9d-d36229198550",
+      "prompt": {
+        "text": "Under IFRS, income includes increases in economic benefits from:"
+      },
+      "choices": [
+        "increases in liabilities not related to owners’ contributions.",
+        "enhancements of assets not related to owners’ contributions.",
+        "increases in owners’ equity related to owners’ contributions."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Under IFRS, income includes increases in economic benefits from  \nincreases in assets, enhancement of assets, and decreases in liabilities."
+      }
+    },
+    {
+      "id": "c773165a-446f-406f-b7f9-bcc732450fda",
+      "prompt": {
+        "text": "Fairplay reported the information shown in Exhibit 1 related to the sale of its  \nproducts during 2009, which was its first year of business: \n \nExhibit 1: Fairplay \nRevenue USD1,000,000 \nReturns of goods sold USD100,000 \nCash collected USD800,000 \nCost of goods sold USD700,000 \n \nUnder the accrual basis of accounting, how much net revenue would be reported on \nFairplay’s 2009 income statement?"
+      },
+      "choices": [
+        "USD200,000",
+        "USD900,000",
+        "USD1,000,000"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Net revenue is revenue for goods sold during the period less any returns \nand allowances, or USD1,000,000 minus USD100,000 = USD900,000."
+      }
+    },
+    {
+      "id": "9cc3b051-f43b-45ce-9797-2d114377eeac",
+      "prompt": {
+        "text": "Apex Consignment sells items over the internet for individuals on a consignment basis. \nApex receives the items from the owner, lists them for sale on the internet,  and \nreceives a 25 percent commission for any items sold. Apex collects the full  amount \nfrom the buyer and pays the net amount after commission to the owner. Unsold items \nare returned to the owner after 90 days. During 2009, Apex had the  following \ninformation: \n■ Total sales price of items sold during 2009 on consignment was EUR2,000,000. \n■ Total commissions retained by Apex during 2009 for these items was EUR500,000. \nHow much revenue should Apex report on its 2009 income statement?"
+      },
+      "choices": [
+        "EUR500,000",
+        "EUR2,000,000",
+        "EUR1,500,000"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Apex is not the owner of the goods and should only report its net  \ncommission as revenue."
+      }
+    },
+    {
+      "id": "012c1c10-3b4a-47d2-bf2b-5d72e8408f9b",
+      "prompt": {
+        "text": "A company previously expensed the incremental costs of obtaining a contract. All else \nbeing equal, adopting the May 2014 IASB and FASB converged accounting standards \non revenue recognition makes the company’s profitability initially appear:"
+      },
+      "choices": [
+        "lower.",
+        "unchanged.",
+        "higher."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under the converged accounting standards, the incremental costs  of \nobtaining a contract and certain costs incurred to fulfill a contract must be  \ncapitalized. If a company expensed these incremental costs in the years prior to  \nadopting the converged standards, all else being equal, its profitability will appear  \nhigher under the converged standards."
+      }
+    },
+    {
+      "id": "f4ca23dd-684d-4aa0-bb54-f19e106287a3",
+      "prompt": {
+        "text": "Under IFRS, a loss from the destruction of property in a fire would most likely be  \nclassified as: \nAnalyzing Income Statements \nFaculty:                                                                         Page 2 of 24"
+      },
+      "choices": [
+        "continuing operations.",
+        "discontinued operations.",
+        "other comprehensive income."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A fire may be infrequent, but it would still be part of continuing \noperations and reported in the profit and loss statement. Discontinued operations  \nrelate to a decision to dispose of an operating division."
+      }
+    },
+    {
+      "id": "1a4af521-33b6-46b5-9120-f73245364e2f",
+      "prompt": {
+        "text": "A company chooses to change an accounting policy. This change requires that, if  \npractical, the company restate its financial statements for:"
+      },
+      "choices": [
+        "all prior periods.",
+        "current and future periods.",
+        "prior periods shown in a report."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If a company changes an accounting policy, the financial statements for \nall fiscal years shown in a company’s financial report are presented, if practical, as if \nthe newly adopted accounting policy had been used throughout the entire period; this \nretrospective application of the change makes the financial results of any prior years \nincluded in the report comparable. Notes to the financial  statements describe the \nchange and explain the justification for the change."
+      }
+    },
+    {
+      "id": "5eea162f-5e70-4728-8049-746cf986b18a",
+      "prompt": {
+        "text": "For 2009, Flamingo Products had net income of USD1,000,000. At 1 January  2009, \nthere were 1,000,000 shares outstanding. On 1 July 2009, the company issued  \n100,000 new shares for USD20 per share. The company paid USD200,000 in  \ndividends to common shareholders. What is Flamingo’s basic earnings per share  for \n2009?"
+      },
+      "choices": [
+        "USD0.80",
+        "USD0.91",
+        "USD0.95"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The weighted average number of shares outstanding for 2009 is  \n1,050,000. Basic earnings per share would be USD1,000,000 divided by 1,050,000, or \nUSD0.95."
+      }
+    },
+    {
+      "id": "d71acbeb-60b4-4662-abec-ad71a0080450",
+      "prompt": {
+        "text": "A company with no debt or convertible securities issued publicly traded common stock \nthree times during the current fiscal year. Under both IFRS and US GAAP,  the \ncompany’s:"
+      },
+      "choices": [
+        "basic EPS equals its diluted EPS.",
+        "capital structure is considered complex at year-end.",
+        "basic EPS is calculated by using a simple average number of shares outstanding."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Basic and diluted EPS are equal for a company with a simple capital  \nstructure. A company that issues only common stock, with no financial instruments  \nthat are potentially convertible into common stock has a simple capital  structure. \nBasic EPS is calculated using the weighted average number of shares outstanding."
+      }
+    },
+    {
+      "id": "1d564a98-3de3-4d57-92a3-74405b57e3ee",
+      "prompt": {
+        "text": "For its fiscal year-end, Sublyme Corporation reported net income of USD200 million \nand a weighted average of 50,000,000 common shares outstanding. There are  \n2,000,000 convertible preferred shares outstanding that paid an annual dividend  of \nUSD5. Each preferred share is convertible into two shares of the common stock. The \ndiluted EPS is closest to:"
+      },
+      "choices": [
+        "USD3.52",
+        "USD3.65",
+        "USD3.70"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nDiluted EPS = (Net income)/(Weighted average number of shares outstanding + New \ncommon shares that would have been issued at conversion) \n= USD200,000,000/[50,000,000 + (2,000,000 × 2)] \n= USD3.70 \nThe diluted EPS assumes that the preferred dividend is not paid and that the shares \nare converted at the beginning of the period. \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 15 of 24"
+      }
+    },
+    {
+      "id": "b1e04007-d927-4e18-8b6c-2fc9b3e05bde",
+      "prompt": {
+        "text": "For its fiscal year -end, Calvan Water Corporation (CWC) reported net income of  \nUSD12 million and a weighted average of 2,000,000 common shares outstanding. The \ncompany paid USD800,000 in preferred dividends and had 100,000 options  \noutstanding with an average exercise price of USD20. CWC’s market price over  the \nyear averaged USD25 per share. CWC’s diluted EPS is closest to:"
+      },
+      "choices": [
+        "USD5.33",
+        "USD5.54",
+        "USD5.94 \n \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 3 of 24"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The formula to calculate diluted EPS is as follows: \nDiluted EPS \n= (Net income – Preferred dividends)/[Weighted average number of shares  \noutstanding + (New shares that would have been issued at option exercise – Shares \nthat could have been purchased with cash received upon exercise) × (Proportion of  \nyear during which the financial instruments were outstanding)]. \n \nThe underlying assumption is that outstanding options are exercised, and then  the \nproceeds from the issuance of new shares are used to repurchase shares  already \noutstanding: \nProceeds from option exercise = 100,000 × USD20 = USD2,000,000 \nShares repurchased = USD2,000,000/USD25 = 80,000 \nThe net increase in shares outstanding is thus 100,000 – 80,000 = 20,000. Therefore, \nthe diluted EPS for CWC = (USD12,000,000 – USD800,000)/2,020,000 = USD5.54."
+      }
+    },
+    {
+      "id": "5f236991-b612-4ef3-98cc-dd90f3f4370b",
+      "prompt": {
+        "text": "Laurelli Builders (LB) reported the financial data shown in Exhibit 1 for year -end 31 \nDecember: \n \nExhibit 1: Laurelli Builders \nCommon shares outstanding, 1 January 20,20,000 \nCommon shares issued as stock dividend, 1 June 3,80,000 \nWarrants outstanding, 1 January 5,00,000 \nNet income USD3,350,000 \nPreferred stock dividends paid USD430,000 \nCommon stock dividends paid USD240,000 \n \nWhich statement about the calculation of LB’s EPS is most accurate?"
+      },
+      "choices": [
+        "LB’s basic EPS is USD1.12.",
+        "LB’s diluted EPS is equal to or less than its basic EPS.",
+        "The weighted average number of shares outstanding is 2,210,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. LB has warrants in its capital structure; if the exercise price is less than \nthe weighted average market price during the year, the effect of their conversion is \nto increase the weighted average number of common shares outstanding,  causing \ndiluted EPS to be lower than basic EPS. If the exercise price is equal to the weighted \naverage market price, the number of shares issued equals the number  of shares \nrepurchased. Therefore, the weighted average number of common shares outstanding \nis not affec ted and diluted EPS equals basic EPS. If the exercise  price is greater \nthan the weighted average market price, the effect of their  conversion is anti -\ndilutive. As such, they are not included in the calculation of basic EPS. LB’s basic EPS \nis USD1.22 [= (USD3,350,000 – USD430,000)/2,400,000]. \nStock dividends are treated as having been issued retroactively to the beginning  of \nthe period."
+      }
+    },
+    {
+      "id": "3939a150-55f3-4118-8aa6-be05b9e70459",
+      "prompt": {
+        "text": "Cell Services Inc. (CSI) had 1,000,000 average shares outstanding during all of 2009. \nDuring 2009, CSI also had 10,000 options outstanding with exercise prices of USD10 \neach. The average stock price of CSI during 2009 was USD15. For purposes  of \ncomputing diluted earnings per share, how many shares would be used  in the \ndenominator?"
+      },
+      "choices": [
+        "1,003,333",
+        "1,006,667",
+        "1,010,000"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. With stock options, the treasury stock method must be used. Under  \nthat method, the company would receive USD100,000 (10,000 × USD10) and  would \nrepurchase 6,667 shares (USD100,000/USD15). The shares for the denominator  \nwould be: \nShares outstanding 10,00,000 \nOptions exercises 10,000 \nTreasury shares purchased -6,667 \nDenominator 10,03,333"
+      }
+    },
+    {
+      "id": "4b57f1df-9048-4c4a-ad3a-4678b7845ab6",
+      "prompt": {
+        "text": "When calculating diluted EPS, which of the following securities in the capital  \nstructure increases the weighted average number of common shares outstanding  \nwithout affecting net income available to common shareholders?"
+      },
+      "choices": [
+        "Stock options",
+        "Convertible debt that is dilutive",
+        "Convertible preferred stock that is dilutive"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. When a company has stock options outstanding, diluted EPS is calculated \nas if the financial instruments had been exercised and the company had used the \nproceeds from the exercise to repurchase as many shares possible at the weighted \naverage market price of common stock during the period. As a result, the conversion \nof stock options increases the number of common shares outstanding but has no \neffect on net income available to common shareholders. The conversion of convertible \ndebt increases the  net income available to common shareholders by the after -tax \namount of interest expense saved. The conversion of convertible preferred shares \nAnalyzing Income Statements \nFaculty:                                                                         Page 16 of 24 \n \nincreases the net income available to common shareholders by the amount of \npreferred dividends paid; the numerator becomes the net income."
+      }
+    },
+    {
+      "id": "cbaf8e59-90ed-4243-bd1a-fa674aa4f280",
+      "prompt": {
+        "text": "Which statement is most accurate? A common size income statement:"
+      },
+      "choices": [
+        "restates each line item of the income statement as a percentage of net income.",
+        "allows an analyst to conduct cross -sectional analysis by removing the effect of \ncompany size.",
+        "standardizes each line item of the income statement but fails to help an analyst \nidentify differences in companies’ strategies."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Common size income statements facilitate comparison across time \nperiods (time -series analysis) and across companies (cross -sectional analysis) by \nstating each line item of the income statement as a percentage of revenue. The \nrelative performance of different companies can be more easily assessed because  \nscaling the numbers removes the effect of size. A common size income statement \nstates each line item on the income statement as a percentage of revenue. The \nstandardization of each line item makes a common size income statement useful for \nidentifying differences in companies’ strategies."
+      }
+    },
+    {
+      "id": "155e92cf-3112-461e-a065-d7093ec19350",
+      "prompt": {
+        "text": "The following information is available about a company for the current year: \nNet income of $32 million \nWeighted average number of common shares outstanding of 4.5 million \nAnalyzing Income Statements \nFaculty:                                                                         Page 4 of 24 \n \n$15 million of 12% convertible bonds, convertible into 50,000 shares \n200,000 options with an exercise price of $50 per share \nAverage market price of $80 per share during the year \nTax rate of 30% \nThe company’s diluted EPS is closest to:"
+      },
+      "choices": [
+        "$6.81.",
+        "$6.99.",
+        "$7.19."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Basic EPS = (Net income – Preferred dividends)/Weighted average \nnumber of shares outstanding. The company’s structure includes two potentially \ndilutive securities: convertible debt (which may be dilutive or anti-dilutive) and \noptions (which are always dilutive). Diluted EPS includes the effects of the dilutive \nsecurities and must be less than basic EPS. \nDetermine whether the convertible bonds are dilutive. \n Basic EPS Diluted EPS \nNet income (there are no preferred dividends) $32,000,000 $32,000,000 \nPlus: After-tax cost of interest = $15,000,000 × 0.12 \n= $1,800,000 × (1 – 0.30) = \n+$0 +$1,260,000 \nNumerator (net income) $32,000,000 $33,260,000 \nWeighted average number of shares outstanding 45,00,000 45,00,000 \nPlus: Convertible bonds, if converted \n \n50,000 \nDenominator (number of shares) 45,00,000 45,50,000 \nBasic EPS: 32,000,000/4,500,000 $7.11 \n \nDiluted EPS with convertible bonds: \n33,260,000/4,550,000 \n \n$7.31 \n \nBecause diluted EPS is greater than basic EPS ($7.31 > $7.11), the convertible bonds \nare anti-dilutive and must be excluded from the diluted EPS calculation. \nCalculate diluted EPS using only the options. \n  Diluted EPS \nNumerator (net income) $32,000,000 \nWeighted average number of shares outstanding 45,00,000 \nOptions if converted = 200,000 options outstanding × $50 per share = \n$10,000,000, which at $80 per share can be used to repurchase \n125,000 shares ($10,000,000/80.00). \n=75,000 \nResults in incremental 200,000 – 125,000 = 75,000 shares issued. \n \nDenominator (number of shares) (4,500,000 + 75,000) 45,75,000 \nDiluted EPS with options = 32,000,000/4,575,000 $6.99 \n \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 17 of 24"
+      }
+    },
+    {
+      "id": "78e17c72-2164-4033-9552-1db2f77edc70",
+      "prompt": {
+        "text": "Unless it is impractical to do so, changes in accounting policies are to be reported:"
+      },
+      "choices": [
+        "prospectively.",
+        "retrospectively.",
+        "at the bottom of the income statement in the year of change."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Changes in accounting policies are reported through retrospective \napplication unless it is impractical to do so."
+      }
+    },
+    {
+      "id": "517d8828-a0f5-490d-9c69-4014d25a7e7a",
+      "prompt": {
+        "text": "For which of the examples given would common -size income statements generally \nprovide the most insight?"
+      },
+      "choices": [
+        "A liquidity analysis of two companies within the same industry",
+        "A time-series analysis of a rapidly expanding single company",
+        "A comparison of similarly sized companies from different industries"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Common -size income statements facilitate comparison across time \nperiods (time-series analysis) because the standardization of each line item removes \nthe effect of size. They would be particularly useful in neutralizing the size effect \nfor a c ompany experiencing rapid growth. For example, efficiencies gained from \nincreased volume may be more readily apparent. Common -size income statements \nwould be less useful for similarly sized companies from different industries because \nthe size effect is less important in the comparison."
+      }
+    },
+    {
+      "id": "24721414-3f2c-40a6-bea3-1b82a6b0a504",
+      "prompt": {
+        "text": "The following information is available on a company for the current year. \nNet income $1,000,000 \nAverage number of common shares outstanding 100,000 \n  \n \nDetails of convertible securities outstanding: \n \nConvertible preferred shares outstanding 2,000 \n   Dividend/share $10 \n   Each preferred share is convertible into five shares of common stock \n \n  \n \nConvertible bonds, $100 face value per bond $80,000 \n   8% coupon \n \n   Each bond is convertible into 25 shares of common stock \n \n  \n \nCorporate tax rate 40% \n \nThe company’s diluted EPS is closest to:"
+      },
+      "choices": [
+        "$7.57.",
+        "$7.69.",
+        "$7.72. \n \n \n \n \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 5 of 24"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Because both the preferred shares and the bonds are dilutive, they \nshould both be converted to calculate the diluted EPS. Diluted EPS is the lowest \npossible value."
+      }
+    },
+    {
+      "id": "7695ad32-b8fe-40f5-8ab5-1ef219024ebe",
+      "prompt": {
+        "text": "The following data is available on two companies that operate in the same industry: \nMetric ($ millions) Company X Company Y \nSales 11.2 14.5 \nCost of goods sold 5.7 7.7 \nAdministration costs 1.9 2.2 \nInterest expense 0.3 0.7 \nResearch and development expenses 1.5 1.7 \n \nWhich of the following statements is most appropriate? Better margin performance \nwill be reported by:"
+      },
+      "choices": [
+        "Company Y at the gross margin level and Company X at the operating margin level.",
+        "Company Y at both the gross margin and operating margin levels.",
+        "Company X at the gross margin level and Company Y at the operating margin level."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Common size statements offer a convenient way to compare companies \nof different magnitudes. Company X reports better (higher) gross margin \nperformance. Company Y reports better (higher) operating margin performance. \nMetric (common size) Company X Company Y Comparison \nSales 100% 100% --- \nCost of goods sold 51 53 --- \nGross margin (GM) 49 47 X’s GM is \nhigher \nAdministrative costs 17 15 --- \n  Basic EPS \nDiluted EPS: \nBond \nConverted \nDiluted EPS: \nPreferred \nConverted \nDiluted \nEPS: Both \nConverted \nNet income $1,000,000 $1,000,000 $1,000,000 $1,000,000 \nPreferred \ndividends \n–$20,000 –$20,000 0 0 \nAfter-tax cost of \ninterest  \n--- $3,840 --- $3,840 \n8% × $80,000 × (1 \n– 0.40) \n    \nNumerator $980,000 $983,840 $1,000,000 $1,003,840 \nAverage common \nshares outstanding \n1,00,000 1,00,000 1,00,000 1,00,000 \nPreferred \nconverted \n--- --- 10,000 10,000 \nBond converted \n \n20,000 --- 20,000 \nDenominator 1,00,000 1,20,000 1,10,000 1,30,000 \n  \n    \nEPS $9.80 $8.20 $9.09 $7.72 \nAnalyzing Income Statements \nFaculty:                                                                         Page 18 of 24 \n \nResearch and development \nexpenses \n13 12 --- \nOperating margin (OM) 19 20 Y’s OM is \nhigher"
+      }
+    },
+    {
+      "id": "347b6faa-cc49-410c-b1d8-5dd33f074fae",
+      "prompt": {
+        "text": "Under general principles of expense recognition, a company should:"
+      },
+      "choices": [
+        "apply uniform treatment for administrative and depreciation costs.",
+        "recognize expenses in the period that it consumes the associated economic \nbenefits.",
+        "allocate lost economic benefits prospectively over the expected period in which \nthe benefits would have been earned."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In general, a company recognizes expenses in the period that it consumes \n(i.e., uses up) the economic benefits associated with the expenditure or loses some \npreviously recognized economic benefit."
+      }
+    },
+    {
+      "id": "1eb099b2-a60d-4e39-8226-097319eb6cbb",
+      "prompt": {
+        "text": "After a two-for-one stock split, which of the following will most likely change relative \nto its pre-split value?"
+      },
+      "choices": [
+        "Earnings per share (EPS)",
+        "Price-to-earnings ratio (P/E",
+        "Dividend payout ratio"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A two -for-one stock split will double the number of shares, thus \nreducing the EPS to half of its pre-split value. P/E will remain unchanged because the \nprice also reduces by half and exactly cancels out the effect of the reduced EPS. \nThe dividend payout ratio remains unchanged because the same proportion of earnings \nwill still be used after the split."
+      }
+    },
+    {
+      "id": "6e15167c-df33-46c6-9fc8-c154a860c43d",
+      "prompt": {
+        "text": "The following relates to a company’s common equity over the course of the year: \nOutstanding shares, at start of the year 20,00,000 \nStock options outstanding, at start and end of the year \n(Exercise price: $5) \n1,00,000 \nShares issued on 1 April 3,00,000 \nShares repurchased (treasury shares) on 1 July 1,00,000 \nAverage market price of common shares for the year $20/share \n \nIf the company’s net income for the year is $5,000,000, its diluted EPS is closest to:"
+      },
+      "choices": [
+        "$2.17.",
+        "$2.20.",
+        "$2.22. \n \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 6 of 24"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. First, determine the incremental shares issued from stock option \nexercise (treasury stock method): \nShares issued at exercise price 100,000 share × $5 = $500,000 100,000 shares \nMinus shares purchased with cash received at average market \nprice: $500,000/$20 \n–25,000 shares \nIncremental shares issues 75,000 shares \n \nWeighted Average Shares Outstanding \nOriginal shares 20,00,000 2,000,000 shares × \n(12 months/12 \nmonths) \nIncremental shares issued, assuming options were \nexercised \n75,000 75,000 shares × \n(12 months/12 \nmonths) \nShares issued 1 April 2,25,000 300,000 shares × \n(9 months/12 \nmonths) \nShares repurchased 1 July –50,000 100,000 shares × \n(6 months/12 \nmonths) \nWeighted average shares outstanding 22,50,000 \n \n \nDiluted EPS = Net income − Preferred dividends\nWeighted average number of shares \n= ($5000000 - $0)/2250000 shares \n= $2.22/share."
+      }
+    },
+    {
+      "id": "5e2d666a-c025-4fc0-bdf0-1d9a32b6af91",
+      "prompt": {
+        "text": "Oceanaqua Apparel (OA) is a manufacturer of swimwear. Abbreviated common -size \nincome statements and relevant industry data are presented below. \nOA Common-Size Income Statement 2015 2014 2013 \nNet Revenues 100.00% 100.00% 100.00% \nCost of Sales 64.3 62.5 59.5 \nGross Profit 35.7 37.5 40.5 \nSelling, General & Admin 23.5 23.2 25.5 \nAdvertising 0.5 2.9 3.1 \nOperating Income 11.7 11.4 11.9 \nInterest Expense 1.8 2.2 3.8 \nEarnings Before Taxes 9.9 9.2 8.1 \nTaxes 2 2 1.9 \nNet Income 7.9 7.2 6.2 \nSwimwear Industry       \nGross Profit Margin 38.40% 39.10% 40.70% \nNet Profit Margin 7.1 6.8 6.1 \n \nWhich statement about OA’s three -year financial performance is most accurate? \nOA’s:"
+      },
+      "choices": [
+        "effective tax rate has been holding steady at approximately 2%.",
+        "revenues per dollar of sales costs are falling over the time period.",
+        "profit margins indicate performance superior to the industry average."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. OA’s cost of sales have been steadily rising, causing the firm’s gross \nprofit margin to fall below the industry average. A falling gross margin indicates \nfalling revenue per dollar of sales costs. \nAnalyzing Income Statements \nFaculty:                                                                         Page 19 of 24"
+      }
+    },
+    {
+      "id": "a76b6e05-60e3-499c-85d0-73b005343669",
+      "prompt": {
+        "text": "An artists’ cooperative sells its artwork on a consignment basis through a local art \ngallery. The cooperative should most likely recognize revenue when the art gallery:"
+      },
+      "choices": [
+        "sells the artwork.",
+        "remits payment for the artwork.",
+        "receives the artwork."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Revenue is recognized by the cooperative when the art gallery sells the \nartwork because that is the point at which the risks and rewards transfer from the \ncooperative to a third party and the amount of revenue is measurable."
+      }
+    },
+    {
+      "id": "6f4548bb-9782-4b43-841f-4896de187ae1",
+      "prompt": {
+        "text": "A company sells a non -refundable, two -year service contract for €420. Based on \nhistorical patterns, the company expects to incur 25% of service costs in the first \nyear of the contract and the remainder in the second year. The amount of revenue \nthe company recognizes in the first year is closest to:"
+      },
+      "choices": [
+        "€105.",
+        "€210.",
+        "€420. \n \n \n \n \n \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 7 of 24"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Service revenues are recognized by reference to the stage of \ncompletion of the service contract. Historical patterns provide evidence that 25% of \nthe services performed under the contract are incurred during the contract’s first \nyear. As suc h, only 25% of the contract revenue would be recognized in the first \nyear: \nCalculation: \nTotal contract value€420 Stage of completion at end of first year25% Revenue \nrecognized in first year€10525% × €420"
+      }
+    },
+    {
+      "id": "7a7f7a11-969d-4333-8dbb-4d39bab413e2",
+      "prompt": {
+        "text": "The following financial information is available at the end of the year. \nShare \nInformation       \nSecurity Authorized \nIssued and \nOutstanding Other Features \nCommon stock 5,00,000 2,50,000 Currently pays a dividend of $1 \nper share. \nPreferred stock, \nSeries A \n50,000 12,000 Nonconvertible, cumulative; \npays a dividend of $4 per \nshare. \nPreferred stock, \nSeries B \n50,000 30,000 Convertible; pays a dividend of \n$7.50 per share. Each share is \nconvertible into 2.5 common \nshares. \nAdditional \ninformation:    \nReported income \nfor the year \n \n$1,000,000 \n \n \nThe diluted EPS (earnings per share) is closest to:"
+      },
+      "choices": [
+        "$2.91.",
+        "$2.93.",
+        "$3.08."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The convertible preferred shares are anti -dilutive, as shown in the \nfollowing table. Therefore, the diluted EPS is the same as the basic EPS, $2.91. \n  Basic EPS \nDiluted EPS (using \nif-converted \nmethod)  \nNet income $1,000,000 $1,000,000 \n \nPreferred stock, Series A -48,000 -48,000 12,000 shares × \n$4/share \nPreferred stock, Series B -2,25,000 0 30,000 shares × \n$7.50/share \nEarnings available to common \nshareholders \n$727,000 $952,000 \n \nWeighted Average Number of Common Shares (WACS)   \nShares outstanding 2,50,000 2,50,000 \n \nIf converted — 75,000 2.5 \ncommon/preferred \n× 30,000 \npreferred \nWACS 2,50,000 3,25,000 \n \nEPS = Earnings available to \ncommon shareholders/WACS \n$2.91 $2.93* \n \n* Exceeds Basic EPS; Series B is anti-dilutive and is thus not included."
+      }
+    },
+    {
+      "id": "aae23f36-343f-4935-9416-a98edb705f1d",
+      "prompt": {
+        "text": "The following table shows changes to the number of common shares outstanding for \na company during 2012: \n1 January 180,000 shares outstanding \n1 June 60,000 shares issued \n1 August 2-for-1 stock split \n31 December 480,000 shares outstanding \n \nTo calculate earnings per share for 2012, the company’s weighted average number of \nshares outstanding is closest to:"
+      },
+      "choices": [
+        "315,000.",
+        "215,000.",
+        "430,000."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The weighted average number of shares outstanding is time weighted: \n1 January to 1 June 5/12 × 180,000 75,000 \n1 June to December 31 7/12 × (180,000 \n+ 60,000) \n1,40,000 \nWeighted average before considering stock split \n \n2,15,000 \nAnalyzing Income Statements \nFaculty:                                                                         Page 20 of 24 \n \nStock split is treated retroactively to the start of \nthe year \n215,000 × 2 4,30,000"
+      }
+    },
+    {
+      "id": "905c1d6c-25b5-40bb-979e-a5ece074e334",
+      "prompt": {
+        "text": "Under US GAAP, for reporting periods after 15 December 2015, unusual or \ninfrequent items are shown on the income statement separately:"
+      },
+      "choices": [
+        "below continuing operations.",
+        "below discontinued operations. \nAnalyzing Income Statements \nFaculty:                                                                         Page 8 of 24",
+        "as part of continuing operations."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under US GAAP, material items that are unusual or infrequent and that \nare both as of reporting periods beginning after 15 December 2015 are shown as part \nof a company’s continuing operations but are presented separately."
+      }
+    },
+    {
+      "id": "54fa3d93-a79e-4501-a557-fc4e75ff3b87",
+      "prompt": {
+        "text": "Selected year-end financial data for Mega Industries follows: \nNet income $100 million \nTax rate 25 percent \nWeighted average number of common shares outstanding 25 million \nConvertible preferred shares* 10 million \nPreferred dividend per share $1.00 \n* Each share is convertible into 0.5 shares of common stock. \n \nThe net difference between Mega’s reported basic EPS and its diluted EPS is closest \nto:"
+      },
+      "choices": [
+        "$0.74.",
+        "$0.27.",
+        "$0.37."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. As the calculations, the basic and diluted EPS are $3.60 and $3.33, \nrespectively, and the resulting net difference is $0.27."
+      }
+    },
+    {
+      "id": "b23acf35-b4fc-4f98-adfa-ee3306525129",
+      "prompt": {
+        "text": "Which of the following items is an example of deferred income?"
+      },
+      "choices": [
+        "Normal operating expenses that have been paid in advance",
+        "A payment received for contracted goods and services prior to their delivery",
+        "An expense recognized on a company’s income statement but not paid for as of \nthe balance sheet date"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the company would record a liability for unearned revenue, or \ndeferred revenue, when the cash is initially received, and revenue would be \nrecognized over time as products and services are delivered. An example would be a \nsubscription payment received in advance for cloud-based software delivered over a \nyear."
+      }
+    },
+    {
+      "id": "01658357-edcf-4e4a-a97b-72ebaa5b350f",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a manufacturing \ncompany: \nCost of sales 150 \nGross profit 100 \nSelling, general, and administrative expenses 30 \n \nBased only on this information, applying vertical common -size analysis to the income \nstatement, selling, general, and administrative expenses are:"
+      },
+      "choices": [
+        "12%.",
+        "20%.",
+        "30%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a vertical common -size income statement divides each income \nstatement item by revenue. Gross profit is the amount of revenue available after \nsubtracting the costs of delivering goods or services. Accordingly, based only on this \ninformation, under vertical common-size analysis, selling, general, and administrative \nexpenses can be expressed as = Selling, general, and administrative expenses / \nRevenue = Selling, general, and administrative expenses / (Gross profit + Cost of \nsales) = 30 / (100 + 150); or = 30 / 250 = 12%."
+      }
+    },
+    {
+      "id": "55f035fb-42c4-41e9-a67b-c3fdcd8317e5",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company for its fiscal year \nended 31 December: \nNet income €80,000 \nCommon dividends declared and paid €16,000 \nPreferred dividends declared and paid €10,000 \nWeighted average common shares outstanding 150,000 \nCommon shares outstanding at year end 130,000 \n \nBasic EPS is closest to: \nAnalyzing Income Statements \nFaculty:                                                                         Page 9 of 24"
+      },
+      "choices": [
+        "€0.36.",
+        "€0.47.",
+        "€0.54."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Basic EPS = (Net income -Preferred dividends) / (Weighted \naverage number of shares outstanding) = (€80,000 – €10,000) / 150,000 ≈ €0.47."
+      }
+    },
+    {
+      "id": "08a4faf1-8a0c-4813-a4ec-8a6c9faebf62",
+      "prompt": {
+        "text": "Which of the following may be reported using the modified retrospective method?"
+      },
+      "choices": [
+        "corrections of prior period errors",
+        "Changes in estimated useful life of PP&E",
+        "Changes in accounting policies based on the new revenue recognition standard"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because at times, standard setters issue new standards that require \ncompanies to change accounting policies. Depending on the standard, companies may \nbe permitted to adopt the standards prospectively (in the future) or retrospectively \n(restate financial statements as though the standard existed in the past) while the \nnew revenue recognition standard also offered companies the option of using a \n“modified retrospective” method of adoption. Under the modified retrospective \napproach, companies were  not required to revise previously reported financial \nstatements. Instead, they adjusted opening balances of retained earnings (and other \napplicable accounts) for the cumulative impact of the new standard."
+      }
+    },
+    {
+      "id": "a45a8ef9-e25b-43d8-bee5-02480a794ca4",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 \nDecember: \nNet income $210,000 \nCommon shares outstanding on 1 January 50,000 \nCommon shares repurchased on 1 April 20,000 \n \nIf a 2-for-1 stock split took effect on 1 July, basic EPS for the year is:"
+      },
+      "choices": [
+        "$3.00.",
+        "$3.50.",
+        "$4.20."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Basic EPS = (Net income – Preferred dividends) / Weighted \naverage number of shares outstanding = ($210,000 – $0) / [[(50,000 × 3/12) + (50,000 \n– 20,000) × 9/12)] × 2] = $210,000 / [(12,500 + 22,500) × 2] = $210,000 / 70,000 = \n$3.00. If the number of shares of common stock increases as a result of a stock \ndividend or a stock split, the EPS calculation reflects the change retroactively to the \nbeginning of the period. \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 21 of 24"
+      }
+    },
+    {
+      "id": "bb5d2f6a-8a44-42d4-aeb2-22e9bb07ad63",
+      "prompt": {
+        "text": "An analyst gathers the following information about two companies (in ¥ thousands): \n  Company 1 Company 2 \nRevenue 75,86,000 94,45,000 \nCost of goods sold 34,13,700 45,33,600 \nResearch and development expense 18,00,000 18,00,000 \nAdvertising expense 5,31,020 7,55,600 \n \nBased only on the companies' common-size income statements, it appears that:"
+      },
+      "choices": [
+        "Company 1 spent more on advertising than Company 2.",
+        "both companies spent equally on research and development.",
+        "Company 1 has a higher gross profit margin than Company 2."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because common-size analysis of the income statement can be performed \nby stating each line item on the income statement as a percentage of revenue. \nAccordingly, Company 1's gross profit margin = (7,586,000 –3,413,700) ÷ 7,586,000 \n= 55%, being higher than Company 2's gross profit margin of (9,445,000 –4,533,600)÷ \n9,445,000 = 52%."
+      }
+    },
+    {
+      "id": "b8cfabe5-78df-433a-a99c-a424d6594157",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company for its fiscal year \nended 31 December: \nNet income €3,000,000 \nCommon shares outstanding, 1 January 3,500,000 \nCommon shares issued, 1 April 1,000,000 \nCommon shares outstanding, 31 December 4,500,000 \nConvertible preferred shares outstanding 400,000 \nConvertible preferred dividend per share €1.00 \n \nEach convertible preferred share is convertible into two common shares. If there \nare no other potentially dilutive securities outstanding, reported diluted EPS is \nclosest to: \nAnalyzing Income Statements \nFaculty:                                                                         Page 10 of 24"
+      },
+      "choices": [
+        "€0.51.",
+        "€0.57.",
+        "€0.59."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Diluted EPS = Net income / (Weighted average number of \ncommon shares + New common shares issued at conversion); and Weighted average \nnumber of common shares during the year = 3,500,000 + 1,000,000 × ¾ = 4,250,000, \nwhich reflects the sh ares issued on April 1 which are outstanding for 9 of the 12 \nmonths of the year. New shares issued at conversion = 400,000 × 2 = 800,000. Diluted \nEPS = €3,000,000 / (4,250,000 + 800,000) = €3,000,000 / 5,050,000 = €0.5941 ≈ \n€0.59. Basic EPS = (Net income – Preferred dividend) / Weighted average common \nshares= (€3,000,000 − €400,000)/4,250,000 = €2,600,000 / 4,250,000 = €0.6118. \nThe convertible preferred shares are not anti -dilutive, as €0.59 is less than basic \nEPS €0.6118. Thus the reported diluted EPS is €0.59."
+      }
+    },
+    {
+      "id": "524db2c9-fdd6-451d-93f7-080c02216055",
+      "prompt": {
+        "text": "According to the converged standards for revenue recognition, a receivable is \nrecognized on the seller's balance sheet when:"
+      },
+      "choices": [
+        "a contract is signed.",
+        "all performance obligations have been met except for payment.",
+        "consideration is received in advance of transferring goods or services."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because it is only at the point when all performance obligations have been \nmet except for payment that a receivable appears on the seller’s balance sheet."
+      }
+    },
+    {
+      "id": "c9c6fc60-98d4-4f21-900c-4c662fb70f93",
+      "prompt": {
+        "text": "The adjustments related to changes in the estimated residual value of a long -lived \nasset should be:"
+      },
+      "choices": [
+        "handled prospectively.",
+        "shown separately on the income statement.",
+        "handled retrospectively unless impractical to do so."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because in contrast to changes in accounting policies (such as whether \nto expense the cost of employee stock options), companies sometimes make changes \nin accounting estimates (such as the useful life of a depreciable asset). Changes in \naccounting estimates are handled prospectively, with the change affecting the \nfinancial statements for the period of change and future periods. No adjustments \nare made to prior statements, and the adjustment is not shown on the face of the \nincome statement."
+      }
+    },
+    {
+      "id": "f0a3e831-dacf-4608-87d1-4cac9b01bf48",
+      "prompt": {
+        "text": "In calculating basic and diluted EPS, if the numerators are the same but the \ndenominators are different, the company:"
+      },
+      "choices": [
+        "split its stock during the year.",
+        "had stock options outstanding at year end.",
+        "had convertible debt outstanding at year end."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the assumed exercise of the stock options would not change net \nincome for the year (or preferred dividends). For calculating EPS, therefore, no \nchange is made to the numerator. However, the denominator would be increased by \nthe increme ntal number of shares issued as a result of the stock option being \nexercised."
+      }
+    },
+    {
+      "id": "747985f7-6d44-40e4-91a9-39a4577dc14b",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's given fiscal year \nended 31 December: \nNet income $1,200,000 \nNumber of common shares outstanding on 1 January 1,000,000 \nNumber of common shares issued on 1 April 100,000 \nNumber of common shares outstanding on 31 December  1,100,000 \nFace value of convertible bonds outstanding for the year $2,000,000 \nCoupon rate on convertible bonds 8% \nTax rate 30% \n \nIf the bonds are convertible into 200,000 common shares and there are no other \npotentially dilutive securities outstanding, the company's reported diluted EPS is \nclosest to:"
+      },
+      "choices": [
+        "$1.01.",
+        "$1.03.",
+        "$1.07."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the basic EPS calculation highlights that the convertible bond is \ndilutive; that is, Basic EPS = (Net income - Preferred dividends) / (Weighted average \nnumber of shares outstanding),  Where net income is $1,200,000. There are no \npreferred dividends. \n \nWeighted average number of shares outstanding is: \n1,000,000 x (3 months ÷ 12 months) = 250,000 \n1,100,000 x (9 months ÷ 12 months) = 825,000 \n \nWeighted average number of shares outstanding equals 250,000 + 825,000 = \n1,075,000 shares. \nAnalyzing Income Statements \nFaculty:                                                                         Page 22 of 24 \n \nBasic EPS = $1,200,000 / 1,075,000 = $1.12. \nDiluted EPS is calculated using the following formula: \n(Net income + After -tax interest on convertible debt - Preferred dividends) / \n(Weighted average number of shares outstanding + Additional common shares that \nwould have been issued at conversion)  After-tax interest on convertible debt equals \n$2,000,000 √ó 8% √ó (1 - 30%) = $112,000. Therefore, computed diluted EPS = \n($1,200,000 + $112,000) / (1,075,000 + 200,000) = $1,312,000 / 1,275,000 = $1.029 \nwhich rounds to $1.03."
+      }
+    },
+    {
+      "id": "3a98275c-b119-4e70-a20e-24363cb05f46",
+      "prompt": {
+        "text": "According to the converged standards for revenue recognition, which of the following \nmight indicate that a seller has transferred control of an asset to a buyer at a point \nin time? The seller has:"
+      },
+      "choices": [
+        "legal title of the asset.",
+        "a present right to payment for the asset.",
+        "significant risks and rewards of ownership related to the asset. \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 11 of 24"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the entity [the seller] will recognize revenue when it is able to \nsatisfy the performance obligation by transferring control to the customer. Factor \nto consider when assessing whether the customer has obtained control of an asset at \na point in time: Entity has a present right to payment."
+      }
+    },
+    {
+      "id": "a928d959-adf9-4fd7-b806-fdde7c23c01b",
+      "prompt": {
+        "text": "A company entered into a 5 -year construction contract with a total sales price of \n£3,000,000. The estimated total costs are £2,000,000 and the company incurred \n£500,000 actual costs in the first year. The company has extensive experience with \nsimilar types of contracts. Costs incurred provide an appropriate measure of progress \ntoward completing the contract. Assuming it is highly probable that revenue will not \nbe subsequently reversed, revenue recognized under the contract in Year 1 is most \nlikely:"
+      },
+      "choices": [
+        "£500,000.",
+        "£600,000.",
+        "£750,000."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the standard states that for performance obligations satisfied \nover time (e.g., where there is a long-term contract), revenue is recognized over time \nby measuring progress toward satisfying the obligation. The standard refers to \nperformance obligations satisfied over time and requires that progress toward \ncomplete satisfaction of the performance obligation be measured based on input \nmethod such as the one illustrated here (recognizing revenue based on the proportion \nof total costs that have been incurred in the period) or an output method (recognizing \nrevenue based on units produced or milestones achieved). Accordingly, the company \nhas incurred 25% of the total expected costs (£0.5m / £2.0m); and will thus \nrecognize £0.75m (25% × £3.0m) in revenue in Year 1."
+      }
+    },
+    {
+      "id": "7a5820f6-23ab-4d1c-bf70-e0e01ed33c60",
+      "prompt": {
+        "text": "For a company reporting on a calendar year basis, the receipt of a payment from a \nclient in Year 1 for the delivery of services in Year 2 most likely increases:"
+      },
+      "choices": [
+        "net income for Year 1.",
+        "liabilities as of 31 December of Year 1.",
+        "cash flow from operating activities for Year 2."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because there are situations when a company receives cash in advance \nand actually delivers the product or service later, perhaps over a period of time. In \nthis case, the company would record a liability for unearned revenue when the cash is \ninitially received, and revenue would be recognized as being earned over time as \nproducts and services are delivered."
+      }
+    },
+    {
+      "id": "db3cd4cb-e270-41e2-8e43-0c30bdc3799e",
+      "prompt": {
+        "text": "According to the converged accounting standards for revenue recognition, which of \nthe following is the first of five steps in recognizing revenue?"
+      },
+      "choices": [
+        "Determine the transaction price",
+        "Identify the contract with the customer",
+        "Identify the distinct performance obligations in the contract"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because this is the first of five steps in recognizing revenue according \nto the converged accounting standard for revenue recognition. The [converged \naccounting] standard [for revenue recognition] describes the application of five steps \nin recognizing revenue: \n1) Identify the contract(s) with a customer \n2) Identify the separate or distinct performance obligations in the contract \n3) Determine the transaction price \n4) Allocate the transaction price to the performance obligations in the contract \n5) Recognize revenue when (or as) the entity satisfies a performance obligation."
+      }
+    },
+    {
+      "id": "0f0123b2-8b3d-4568-97c8-e15dca452c20",
+      "prompt": {
+        "text": "A company establishes a plan to dispose of one of its material lines of business and \nwill have no further involvement in its operation. The income statement most likel  y \nreports the results of this line of business as:"
+      },
+      "choices": [
+        "discontinued operations.",
+        "unusual or infrequent items.",
+        "continuing operations until the actual sale is performed."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because when a company disposes of or establishes a plan to dispose of \none of its component operations and will have no further involvement in the operation, \nthe income statement reports separately the effect of this disposal as a \n“discontinued” operation under both IFRS and US GAAP. Financial standards provide \nAnalyzing Income Statements \nFaculty:                                                                         Page 23 of 24 \n \nvarious criteria for reporting the effect separately, which are generally that the \ndiscontinued component must be separable both physically and operationally."
+      }
+    },
+    {
+      "id": "9dc2a67e-d1a1-45f8-bf24-b69e5f837b87",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 \nDecember: \nNet income €2,500,000 \nWeighted average common shares outstanding \nduring the year 2,000,000 \nConvertible preferred shares outstanding 1,000,000 \nDividend per convertible preferred share €1 \n \nOne convertible preferred share is convertible into two common shares. If the tax \nrate is 40% and there are no other potentially dilutive securities outstanding, \nreported diluted EPS is closest to:"
+      },
+      "choices": [
+        "€0.38.",
+        "€0.48.",
+        "€0.63. \n \nAnalyzing Income Statements \nFaculty:                                                                         Page 12 of 24"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when a company has convertible preferred stock outstanding, \ndiluted EPS is calculated using the if -converted method. The formula to calculate \ndiluted EPS using the if-converted method for preferred stock is: Diluted EPS = Net \nincome ÷ (Weighted average number of shares outstanding + New common shares that \nwould have been issued at conversion). Therefore, Diluted EPS = €2,500,000 ÷ \n(2,000,000 + 2 × 1,000,000) = €2,500,000 ÷ 4,000,000 = €0.625 ≈ €0.63. However, \ndiluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net \nincome - Preferred dividends) ÷ (Weighted average number of shares outstanding) = \n(€2,500,000 – 1,000,000 × €1) ÷ 2,000,000 = €1,500,000 ÷ 2,000,000 = €0.75. \nTherefore the convertible preferred stocks are dilutive and diluted EPS = €0.63."
+      }
+    },
+    {
+      "id": "4f2002e2-ad14-492d-94d2-f9bba57fa80e",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company for its fiscal year \nended 31 December: \nNet income $1,250,000 \nPreferred dividends declared and paid $120,000 \nPar value of 8% convertible bonds $750,000 \nWeighted average common shares outstanding 500,000 \nIncome tax rate 30% \n \nIf the bonds are convertible into 30,000 common shares and there are no other \npotentially dilutive securities outstanding, reported diluted EPS is closest to:"
+      },
+      "choices": [
+        "$2.21.",
+        "$2.25.",
+        "$2.34."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because when a company has convertible debt outstanding, the diluted \nEPS calculation also uses the if-converted method. Diluted EPS is calculated as if the \nconvertible debt had been converted at the beginning of the period. Diluted EPS = \n(Net Income + Aft er-tax interest on convertible debt – Preferred Dividends) / \n(Weighted average number of shares outstanding + Additional common shares that \nwould have been issued at conversion); or = [$1,250,000 + ($750,000 × 8% × (1 – 0.30)) \n– $120,000] / (50 0,000 + 30,000); or = [$1,250,000 + $42,000 – $120,000] / \n(500,000 + 30,000); or = $1,172,000 / 530,000 = $2.21. In addition, it is possible that \nsome potentially convertible securities are antidilutive (i.e., their inclusion in the \ncomputation would result in an EPS higher than the company's basic EPS). Under IFRS \nand US GAAP, antidilutive securities are not included in the calculation of diluted \nEPS. Basic EPS = (Net income – Preferred dividends) / Weighted average number of \nshares outstanding = ($1,250,000 – $120,000) / 500,000 = $2.26. Because the diluted \nEPS is less than basic EPS, the securities (options) are not antidilutive and are \nincluded in the calculation of diluted EPS. Accordingly, reported diluted EPS is $2.21."
+      }
+    },
+    {
+      "id": "500a5c04-d322-4c0f-b481-1b80dc16812f",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's fiscal year which \nends on 31 December: \nNet income €445,000 \nCash dividends declared and paid on common shares €35,000 \nCash dividends declared and paid on preferred shares €15,000 \nWeighted average number of common shares outstanding during the year 41,000 \nNumber of common shares outstanding on 31 December 43,000 \n \nBasic EPS for the year is closest to:"
+      },
+      "choices": [
+        "€9.63.",
+        "€10.00.",
+        "€10.49."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because basic EPS = (Net income – Preferred dividends) / Weighted \naverage number of shares outstanding; or = (€445,000 – €15,000) / 41,000 = \n€430,000 / 41,000 = €10.488 ≈ €10.49."
+      }
+    },
+    {
+      "id": "70ba0821-9fd9-4232-80f9-db02eb642a24",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company for the fiscal year \nending 31 December: \nNet income $252 million \nCash dividends declared and paid on preferred shares $8 million \nCash dividends declared and paid on common shares $16 million \nWeighted average number of common shares outstanding 400 million \n \nBasic EPS for the year is:"
+      },
+      "choices": [
+        "$0.57.",
+        "$0.59.",
+        "$0.61."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Basic EPS = (Net income – Preferred dividends) / Weighted \naverage number of shares outstanding = (252 – 8) / 400 = 0.61"
+      }
+    },
+    {
+      "id": "47a86dc7-a917-4a8e-960d-a55860dffa23",
+      "prompt": {
+        "text": "Stock options issued by a company must be antidilutive when the:"
+      },
+      "choices": [
+        "options are outstanding for the entire fiscal year. \nAnalyzing Income Statements \nFaculty:                                                                         Page 13 of 24",
+        "options' exercise price is less than the average market price of the stock during \nthe period.",
+        "options' exercise proceeds could purchase more shares than would be issued \nthrough option exercise."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for stock options, diluted EPS = (Net income – Preferred \ndividends) / [Weighted average number of shares outstanding + (New shares that \nwould have been issued at option exercise – Shares that could have been repurchased \nupon exercise) × (Proportion of the year during which the financial instruments were \noutstanding)]. If option proceeds purchase more shares in the market than what were \nissued by stock options, it indicates the exercise price is greater than the market \nprice. As a result , the denominator decreases, increasing calculated diluted EPS to \nbe above basic EPS.  \nAnalyzing Income Statements \nFaculty:                                                                         Page 24 of 24"
+      }
+    },
+    {
+      "id": "6379b52d-d990-4f90-a72a-bd6282e5ee52",
+      "prompt": {
+        "text": "Which of the following defines a security as antidilutive? If included in the \ncalculation of diluted EPS, it results in a:"
+      },
+      "choices": [
+        "higher computed EPS than the basic EPS calculation.",
+        "higher pretax income compared to the basic EPS calculation.",
+        "lower number of shares outstanding compared to the basic EPS calculation."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a security is antidilutive  if its inclusion in the diluted \nEPS computation would result in an EPS higher than the company’s basic EPS."
+      }
+    },
+    {
+      "id": "81f8ab41-4463-43bd-9a0a-8a86a03c6856",
+      "prompt": {
+        "text": "A company's diluted EPS calculation including a potentially dilutive security \noutstanding equals $2.53. Assuming basic EPS of $2.50, the company should report \nin its financial statements:"
+      },
+      "choices": [
+        "basic EPS of $2.53.",
+        "basic EPS and diluted EPS of $2.50.",
+        "basic EPS of $2.50 and diluted EPS of $2.53."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because companies are required to report both basic and diluted EPS. \nUnder IFRS and US GAAP, antidilutive securities are not included in the calculation \nof diluted EPS. Diluted EPS should reflect the maximum potential dilution from \nconversion or exercise of potentially dilutive financial instruments. Diluted EPS will \nalways be less than or equal to basic EPS. Using the if-converted method resulted in \ndiluted EPS of 2.53, which is greater than basic EPS of 2.50, therefore the securities \nare anti-dilutive and the effect of their conversion would not be included in diluted \nEPS. Therefore basic and diluted EPS is 2.50."
+      }
+    },
+    {
+      "id": "f22ca787-a581-4a69-b31e-98105b5aa465",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 \nDecember: \nNet income €5,000,000 \nCommon dividends declared and paid € 500,000 \nWeighted average common shares outstanding during the year 2,000,000 \nConvertible preferred shares outstanding 400,000 \nDividend per convertible preferred share €2 \n \nOne convertible preferred share is convertible into six common shares. If there are \nno other potentially dilutive securities outstanding, reported diluted EPS should be \nclosest to:"
+      },
+      "choices": [
+        "€0.95.",
+        "€1.02.",
+        "€1.14. \n \n  \nAnalyzing Income Statements \nFaculty:                                                                         Page 14 of 24"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when a company has convertible preferred stock outstanding, \ndiluted EPS is calculated using the if -converted method. The formula to calculate \ndiluted EPS using the if-converted method for preferred stock is: Diluted EPS = Net \nincome ÷ (Weighted average number of shares outstanding + New common shares that \nwould have been issued at conversion). Therefore, Diluted EPS = 5,000,000 ÷ \n(2,000,000 + 6 X 400,000) = 5,000,000 ÷ 4,400,000 = 1.14 . Checking that diluted \nEPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income \n- Preferred dividends) ÷ (Weighted average number of shares outstanding) = \n(5,000,000 - 400,000 x 2) ÷ 2,000,000 = 4,200,000 ÷ 2,000,000 = 2.1. Therefore, \nthe convertible preferred stocks are dilutive and diluted EPS = 1.14."
+      }
+    }
+  ]
+}

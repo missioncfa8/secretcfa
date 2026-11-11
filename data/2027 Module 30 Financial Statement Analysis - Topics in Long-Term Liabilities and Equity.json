@@ -1,0 +1,468 @@
+{
+  "title": "Module 30: Topics in Long-Term Liabilities and Equity",
+  "topic": "Financial Statement Analysis",
+  "module_number": 30,
+  "module_name": "Topics in Long-Term Liabilities and Equity",
+  "year": 2027,
+  "items": [
+    {
+      "id": "5c49ca1d-978b-4326-b382-03308e66997f",
+      "prompt": {
+        "text": "Which of the following is a potential drawback of compensating employees with stock \noptions?"
+      },
+      "choices": [
+        "The grant may make employees adverse to risk.",
+        "The grant may make employees seek more risk.",
+        "Both of the above are potential drawbacks."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Stock option grants may lead managers to be either risk adverse or have \nthe opposite effect (i.e., encourage excessive risk taking). Therefore, B and C  are \nboth potential drawbacks."
+      }
+    },
+    {
+      "id": "8b13862a-bbdb-47bd-9005-ffc1be77eb61",
+      "prompt": {
+        "text": "Which of the following is typically an objective of a share-based compensation plan?"
+      },
+      "choices": [
+        "Attracting new employees",
+        "Maximizing executive compensation",
+        "Alignment of employees’ interest with those of management"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The objectives of employee compensation plans include  attracting new \nemployees, retaining and motivating existing employees and  aligning employee \ninterests with those of shareholders. Answer B, maximizing executive compensation \nis not typically an objective of a share-based compensation programs. Answer C is not \ncorrect because an objective is to align employee  interests with shareholders, not \nnecessarily management."
+      }
+    },
+    {
+      "id": "7c1ea1ba-777d-417a-9825-c91eec2db7fc",
+      "prompt": {
+        "text": "Which of the following statements is true?"
+      },
+      "choices": [
+        "Share-based compensation does not have to be treated as an expense, when  no \ncash is exchanged.",
+        "Share-based compensation programs can take a variety of forms, including those \nthat are equity-settled and those that are cash settled.",
+        "Employees will receive a benefit of the stock option as long as they work  long \nenough for the option to vest."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. There are numerous types of share-based compensation programs; some \nresult in the issuance of shares to employees, and others result  in a cash payment \nbased on the value of company shares. Answer A is not correct  because even if no \ncash is exchanged at the time of grant, the compensation expense is recognized based \non the fair value of the grant. Answer C is not correct  because, in some cases, \nemployees may not receive the benefit of a stock option.  For example, if the stock \noption expires when the exercise price exceeds the market  value of the company’s \nstock, the recipient may not benefit from the grant."
+      }
+    },
+    {
+      "id": "f8625a0f-f5dd-41fd-bbb6-94759b8318d0",
+      "prompt": {
+        "text": "Which of the following is a difference between a stock grant and a stock option  \ngrant?"
+      },
+      "choices": [
+        "Whereas the fair value of stock grants is usually based on the market value  at \nthe date of the grant, the fair value of option grants must be estimated.",
+        "Companies account for stock grants by allocating compensation expense over the \nemployee service period, whereas compensation expense for stock  options is \nexpensed immediately.",
+        "Compensation expense is determined based on the market value of a share  of \nstock on the grant date, whereas the measurement date for the value of an option \nis when the employee exercises the option."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The compensation for a stock grant is based on the market value at the \ndate of the stock grant. For a stock option, the value is not definitively known  and \nmust be estimated. Answer B is not correct because companies account for both stock \ngrants and option grants by allocating the value of the grant over the service period \n(often the vesting period). Answer C is not correct because for  both a share grant \nand an option grant, the value of the grant is determined based  on the date of the \ngrant."
+      }
+    },
+    {
+      "id": "f006320e-3b44-42d1-bfb8-d35959c8a05b",
+      "prompt": {
+        "text": "Assume ABC Company, a fictional company provides the following disclosure about its \nstock compensation plans: “The average fair value of shares granted was USD20.86, \nUSD16.42, and  USD17.80 in 2021, 2020, and 2019 respectively.” If the company \ngranted 18,000 shares, with a three-year vesting period in 2021, what is the annual \ncompensation expense for the 2021 shares granted?"
+      },
+      "choices": [
+        "USD125,160",
+        "USD339,480",
+        "USD375,480"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct, calculated as follows: 18,000 shares × by average fair  value at grant \ndate of USD20.86 = USD375,480 total compensation. Divide this  amount by the \nthree-year vesting period, and the result is USD125,160 annual  compensation \nexpense."
+      }
+    },
+    {
+      "id": "947f0b58-4f30-4bd5-a94c-8caa946aa7a5",
+      "prompt": {
+        "text": "Assume XYZ Company discloses the following information in its Stock Compensation  \nnote: As of 31 December 2021, we had USD630 million of unrecognized compensation \ncost related to nonvested stock-based compensation awards granted under our plan. \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 2 of 10 \n \nWe expect to recognize this cost over a weighted average  period of 3.2 years as \nstock-based compensation expense. What is the expected  compensation expense in \n2025?"
+      },
+      "choices": [
+        "USD39 million",
+        "USD197 million",
+        "USD630 million"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. USD39 million calculated as follows: USD630 million/3.2 years = USD197 \nmillion per year for years 2022, 2023, and 2024. The amount remaining in 2025 would \nbe USD39 million: USD630 − USD197 − USD197 − USD197 = USD39 million."
+      }
+    },
+    {
+      "id": "60e32267-abe6-4f00-a68a-4b887d0a9a82",
+      "prompt": {
+        "text": "Beginning with fiscal year 2019, for leases with a term longer than one year, lessees \nreport a right-to-use asset and a lease liability on the balance sheet:"
+      },
+      "choices": [
+        "only for finance leases.",
+        "only for operating leases.",
+        "for both finance and operating leases."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Beginning with fiscal year 2019, lessees report a right-of-use asset and \na lease liability for all leases longer than one year. An exception under IFRS  exists \nfor leases when the underlying asset is of low value. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 7 of 10"
+      }
+    },
+    {
+      "id": "7dc42fee-2904-4083-bd59-7541bd4c2c98",
+      "prompt": {
+        "text": "For a lessor, the leased asset appears on the balance sheet and continues to be  \ndepreciated when the lease is classified as:"
+      },
+      "choices": [
+        "a finance lease.",
+        "a sales-type lease.",
+        "an operating lease."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. When a lease is classified as an operating lease, the underlying asset  \nremains on the lessor’s balance sheet. The lessor will record a depreciation expense  \nthat reduces the asset’s value over time."
+      }
+    },
+    {
+      "id": "1d1f4160-4ee0-4f85-b066-6016dd93e241",
+      "prompt": {
+        "text": "Under US GAAP, a lessor’s reported revenues at lease inception will be highest if the \nlease is classified as:"
+      },
+      "choices": [
+        "a sales-type lease.",
+        "an operating lease.",
+        "a direct financing lease."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A sales-type lease treats the lease as a sale of the asset, and revenue  \nis recorded at the time of sale equal to the value of the leased asset. Under a direct \nfinancing lease, only interest income is reported as earned. Under an operating lease, \nrevenue from lease receipts is reported when collected."
+      }
+    },
+    {
+      "id": "c8ad643d-285e-4eff-981e-77e925a1cafd",
+      "prompt": {
+        "text": "Under both IFRS and US GAAP, a lessor in an operating lease recognizes:"
+      },
+      "choices": [
+        "selling profit at lease inception.",
+        "a lease asset comprising the lease receivable and relevant residual value at lease \ninception.",
+        "lease receipts as income and related costs, including depreciation, as  expenses \nover the lease term."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Lessor accounting for an operating lease under US GAAP is similar  to \nthat under IFRS: Over the lease term, the lessor recognizes lease receipts as income \nand recognizes related costs, including depreciation of the leased asset, as expenses. \nUnder IFRS, at inception of a finance lease —not an operating  lease—the lessor \nderecognizes the underlying leased asset and recognizes a lease asset comprising the \nlease receivable and relevant residual value. Further, an  IFRS-reporting lessor will \nrecognize selling profit at the beginning of all leases  that are not classified as \noperating leases. In contrast, a US GAAP–reporting lessor will recognize selling profit \nonly on sales-type leases at the beginning of the lease term."
+      }
+    },
+    {
+      "id": "6a39f73d-95c1-423b-861e-7bddd99e57a2",
+      "prompt": {
+        "text": "Compared with a finance lease, an operating lease:"
+      },
+      "choices": [
+        "is similar to renting an asset.",
+        "is equivalent to the purchase of an asset.",
+        "has a term for the majority of the economic life of the leased asset."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. An operating lease is an agreement that allows the lessee to use an asset \nfor a period of time. Thus, an operating lease is similar to renting an asset,  whereas \na finance lease is equivalent to the purchase of an asset by the lessee that is directly \nfinanced by the lessor."
+      }
+    },
+    {
+      "id": "c82acb47-6aff-48af-831d-4b5250829f42",
+      "prompt": {
+        "text": "Under US GAAP, a lessee’s accounting for a long -term finance lease after inception \nwill include:"
+      },
+      "choices": [
+        "recognizing a single lease expense.",
+        "recording depreciation expense on the right-of-use asset.",
+        "increasing the balance of the lease liability by a portion of the lease payment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A lessee’s accounting for a long-term finance lease under US GAAP and \nafter lease inception includes recording depreciation expense on the  right-of-use \nasset, recognizing interest expense on the lease liability, and reducing the balance of \nthe lease liability for the portion of the lease payments that  represents repayment \nof the lease liability. A lessee’s accounting for an operating lease under US GAAP and \nafter lease inception will recognize a single lease expense,  which is a straight -line \nallocation of the cost of the lease over its term."
+      }
+    },
+    {
+      "id": "a7b2a77f-d61a-4de6-938f-94da8fd63f53",
+      "prompt": {
+        "text": "A company enters into a finance lease agreement to acquire the use of an asset for  \nthree years with lease payments of EUR19,000,000 starting next year. The leased  \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 3 of 10 \n \nasset has a fair market value of EUR49,000,000 and the present value of the lease  \npayments is EUR47,250,188. Based on this information, the value of the lease liability \nreported on the company’s balance sheet at lease inception is closest to:"
+      },
+      "choices": [
+        "EUR47,250,188.",
+        "EUR49,000,000.",
+        "EUR57,000,000."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Under the revised reporting standards under IFRS and US GAAP,  a \nlessee must recognize an asset and a lease liability at inception of each of its leases \n(with an exception for short-term leases). The lessee reports a right -of-use (ROU) \nasset and a lease liability, calculated essentially as the present value of  fixed lease \npayments, on its balance sheet. Thus, at lease inception, the company  will record a \nlease liability on the balance sheet of EUR47,250,188."
+      }
+    },
+    {
+      "id": "0897098d-9247-4554-b482-456dd18e2087",
+      "prompt": {
+        "text": "Penben Corporation has a defined benefit pension plan. At 31 December, its  pension \nobligation is EUR10 million and pension assets are EUR9 million. Under either IFRS or \nUS GAAP, the reporting on the balance sheet would be closest to  which of the \nfollowing?"
+      },
+      "choices": [
+        "EUR10 million is shown as a liability, and EUR9 million appears as an asset.",
+        "EUR1 million is shown as a net pension obligation.",
+        "Pension assets and obligations are not required to be shown on the balance sheet \nbut only disclosed in footnotes."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The company will report a net pension obligation of EUR1 million equal to \nthe pension obligation (EUR10 million) less the plan assets (EUR9 million)."
+      }
+    },
+    {
+      "id": "8c831afd-eeec-4170-ba04-0f7595ff8360",
+      "prompt": {
+        "text": "The information below is associated with a company that offers its employees a  \ndefined benefit plan: \nFair value of fund’s assets USD1,500,000,000 \nEstimated pension obligations USD2,600,000,000 \nPresent value of estimated pension obligations USD1,200,000,000 \n \nBased on this information, the company’s balance sheet will present a net pension:"
+      },
+      "choices": [
+        "asset of USD300,000,000.",
+        "asset of USD1,400,000,000.",
+        "liability of USD1,100,000,000."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A company that offers a defined benefit plan makes payments into  a \npension fund and the retirees are paid from the fund. The payments that a company \nmakes into the fund are invested until they are needed to pay retirees.  If the fair \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 8 of 10 \n \nvalue of the fund’s assets is higher than the present value of the  estimated pension \nobligation, the plan has a surplus and the company’s balance  sheet will reflect a net \npension asset. Because the fair value of the fund’s  assets is USD1,500,000,000 and \nthe present value of estimated pension obligations is USD1,200,000,000, the company \nwill present a net pension asset of USD300,000,000 on its balance sheet."
+      }
+    },
+    {
+      "id": "74ce122b-1f93-45c2-afa2-6c18e09bb1ac",
+      "prompt": {
+        "text": "Relative to purchasing an asset, leases generally:"
+      },
+      "choices": [
+        "have more restrictive provisions than other forms of borrowing.",
+        "provide less costly financing in the form of lower fixed interest rates.",
+        "require a larger down payment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Leases can provide less costly financing and are often offered at lower \nfixed interest rates than those offered for asset purchases."
+      }
+    },
+    {
+      "id": "69779258-ea00-40d5-98cd-d46ed07961d3",
+      "prompt": {
+        "text": "Previously, a manufacturer of high -quality industrial electrical generators only sold \nits units to customers, but it has just introduced a leasing program. The generators \nhave expected useful lives of about 25 years, and the company anticipates that the \nleases will have a term of 20 years or more. If the company reports under \nInternational Financial Reporting Standards, which of the following statements about \nthe first year of the new leasing program is most accurate? The company will \nrecognize:"
+      },
+      "choices": [
+        "revenue equal to the value of the leased asset.",
+        "depreciation of the leased asset as an expense.",
+        "cost of goods sold equal to the market value of the asset."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Because the company is a manufacturer, under IFRS the lessor would \nclassify the lease as a finance lease and recognize revenue equal to the value of the \nleased asset and cost of goods sold equal to the carrying value of the asset, not its \nmarket value. The asset would be derecognized from the balance sheet and replaced \nwith a lease receivable therefore there is no asset to depreciate."
+      }
+    },
+    {
+      "id": "93cc2338-697b-404e-b26f-d16ec6d913b5",
+      "prompt": {
+        "text": "Under US GAAP, for defined-benefit plans, which of the following items is reported \nas profit and loss? \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 4 of 10"
+      },
+      "choices": [
+        "Interest expense accrued on the beginning pension obligation in the period \nincurred.",
+        "Actuarial gains and losses in the current period.",
+        "Past service costs in the period they arise."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. Interest expense accrued on the beginning pension obligation is \nrecognized as profit or loss in the period incurred."
+      }
+    },
+    {
+      "id": "fda8563e-8833-4c53-9309-6ae1b7b761f0",
+      "prompt": {
+        "text": "A company that prepares its financial statements according to IFRS leased a piece \nof equipment on 1 January of Year 1. Information relevant to the transaction is as \nfollows: \n❖ Five annual lease payments of $25,000, with the first payment due 1 January of \nYear 1 \n❖ Interest rate on similar company debt is currently 8% \n❖ The fair value of the equipment is $115,000 \n❖ Useful life of the equipment is seven years \n❖ The company depreciates other equipment in the same asset class on a straight -\nline basis \nThe total expense related to the lease on the company’s income statement for Year \n1 will be closest to:"
+      },
+      "choices": [
+        "$22,024.",
+        "$25,000.",
+        "$28,185."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under IFRS 16 all leases are classified as a finance lease and must be \ncapitalized. \nUsing a financial calculator for an annuity due at the beginning of the period: \nPV of lease payments: PMT = $25,000, i = 8%, N = 5, Mode = Begin, Compute PV. \nPV = $107,803 \nTherefore, the lease would be capitalized at $107,803. \nPresent value of the lease (asset value \ncapitalized and initial liability) \n \n$107,803 \nPayment 1 January 2020 \n \n–25,000 \nLiability value 1 January 2020 \n \n$82,803    \nInterest expense in 2020 0.08 × \n$82,803 \n$6,624.25 \nAmortization expense for the year using the \nlease term as the useful life (no indication \nthat the lease will be renewed beyond the \ninitial term) \n$107,803/5 $21,560.63 \nTotal expense in 2020 \n \n$28,184.88"
+      }
+    },
+    {
+      "id": "2212432c-0fb9-4013-a0b5-22a72ee308ca",
+      "prompt": {
+        "text": "Under IFRS, it is most appropriate to include which of the following pension costs of \na defined-benefit plan in other comprehensive income?"
+      },
+      "choices": [
+        "Net interest expense accrued on the beginning net pension liability",
+        "Actuarial gains or losses",
+        "Employees service cost"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect. Under IFRS, only actuarial gains or losses can be recognized in other \ncomprehensive income."
+      }
+    },
+    {
+      "id": "c59beb69-97af-4b2c-92c7-4076551a498f",
+      "prompt": {
+        "text": "Which of the following is least likely an advantage to the lessee in a leasing \nagreement?"
+      },
+      "choices": [
+        "High residual value",
+        "Low down payment required",
+        "Lower financing costs than purchasing the asset"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. In a lease situation the lessor retains legal title to the asset and would \nbe the party to benefit from a high residual value, not the lessee. A low down payment \nand lower financing cost are advantages for a lessee. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 9 of 10"
+      }
+    },
+    {
+      "id": "4895c521-7eae-40d1-b6a1-ef79cf347f8a",
+      "prompt": {
+        "text": "Under US GAAP, in the second year of a multi-year lease, a lessee with an operating \nlease most likely reports a:"
+      },
+      "choices": [
+        "higher interest expense than it would if the lease were a finance lease.",
+        "lower depreciation expense than it would if the lease were a finance lease.",
+        "greater financing cash outflow than it would if the lease were a finance lease."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because for operating leases, the lessee recognizes a single lease expense \nand no depreciation expense; whereas under a finance lease the lessee records \ndepreciation expense on the right -of-use asset. Under IFRS, there is a single \naccounting model f or both finance and operating leases for lessees. At lease \ninception, the lessee records a lease payable liability and a “right-of-use” (ROU) asset \non its balance sheet, both equal to the present value of future lease payments. The \nfollowing shows how the transaction [under IFRS] affects the financial statements: \nInterest expense on the lease liability and the amortization expense related to the \nROU asset are reported separately on the income statement. The following shows \nhow the [operating lease] tr ansaction [under US GAAP] appears on the financial \nstatements: Interest expense on the lease liability and the amortization expense \nrelated to the ROU asset are reported as a single line titled “lease expense” as an \noperating expense on the income statemen t. The interest and amortization \ncomponents are not reported separately, nor are they grouped with other types of \ninterest and amortization expense (e.g., interest on a bond, amortization of an \nintangible asset)."
+      }
+    },
+    {
+      "id": "6bf2ea36-dff7-4f5c-9378-b53e70d63a1c",
+      "prompt": {
+        "text": "For leases with a term of twelve months or less, the lessee:"
+      },
+      "choices": [
+        "may recognize lease payments on a straight-line basis.",
+        "must report at lease inception a “right -of-use” asset and a lease liability, which \nare both equal to the present value of future lease payments.",
+        "must report at lease inception a “right -of-use” asset and a lease liability, which \nare both equal to the undiscounted value of future lease payments. \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 5 of 10"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because for lessees, there are lease accounting exemptions for certain \nlease contracts: If its term is 12 months or less (IFRS and US GAAP) or it is for a \n“low-value asset,” up to $5,000 in sales price (IFRS only), then the lessee can elect \nto simply expense the lease payments on a straight-line basis. These exemptions are \nnot available to lessors."
+      }
+    },
+    {
+      "id": "6b18a60e-d0a6-4f26-81a2-79bffafc9d55",
+      "prompt": {
+        "text": "Under which of the following classifications of leases will a lessor derecognize the \nleased asset and recognize a lease receivable on the balance sheet at lease inception?"
+      },
+      "choices": [
+        "Only a finance lease under IFRS",
+        "Only an operating lease under US GAAP",
+        "Both a finance lease under IFRS and an operating lease under US GAAP"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the accounting for lessors is substantially identical under IFRS \nand US GAAP. Under both accounting standards, lessors classify leases as finance or \noperating leases, which determines the financial reporting. At finance lease inception, \nthe lessor recognizes a lease receivable asset equal to the present value of future \nlease payments and de -recognizes the leased asset, simultaneously recognizing any \ndifference as a gain or loss."
+      }
+    },
+    {
+      "id": "091983ed-419f-4e56-ad94-4bb99898783e",
+      "prompt": {
+        "text": "Which of the following could motivate a lessee to lease a high-value, long-lived asset \nrather than to purchase it? Lease contracts:"
+      },
+      "choices": [
+        "usually require little, if any, down payment.",
+        "are reported as off-balance sheet financing structures.",
+        "do not require the recognition of a liability on the balance sheet."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because there are several advantages to leasing an asset compared with \npurchasing it: Less cash is needed up front. Leases typically require little, if any, down \npayment."
+      }
+    },
+    {
+      "id": "3b8baf59-0cc7-4f0a-b899-912070149089",
+      "prompt": {
+        "text": "Which of the following components of change in the net pension asset or liability of \na defined-benefit pension plan is recognized in other comprehensive income?"
+      },
+      "choices": [
+        "Employees' service costs",
+        "Actuarial gains and losses",
+        "Net interest expense or income accrued on the beginning net pension asset or \nliability"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because under IFRS, the change in the net pension asset or liability each \nperiod is viewed as having three general components. Two of the components of this \nchange are recognised as pension expense in profit and loss: (1) employees’ service \ncosts, and (2) the net interest expense or income accrued on the beginning net pension \nasset or liability. The third component of the change in the net pension asset or \nliability during a period —“remeasurements”— is recognised in other comprehensive \nincome. Remeasurements are not amortised into profit or loss over time. \nRemeasurements include (a) actuarial gains and losses. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 10 of 10"
+      }
+    },
+    {
+      "id": "5efd8fa5-31de-49c4-9908-e6744ef0fb30",
+      "prompt": {
+        "text": "Compared to purchasing an asset using debt, leasing an asset is most likely to:"
+      },
+      "choices": [
+        "have a higher financing cost.",
+        "require a greater down payment.",
+        "reduce lessee's exposure to obsolescence. \n \n  \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 6 of 10"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because there are several advantages to leasing an asset compared with \npurchasing it: Convenience and lower risks associated with asset ownership, such as \nobsolescence."
+      }
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "title": "Module 39: Introduction to Equity Valuation",
+  "topic": "Equities",
+  "module_number": 39,
+  "module_name": "Introduction to Equity Valuation",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a969a93f-ba3e-456c-a588-bde05ab26032",
+      "prompt": {
+        "text": "The financial adviser finds that the two clients have differing opinions about the future of Rivercreek. \nSophie Cho believes that Rivercreek has tremendous potential to grow its product lines and increase its \nprofitability and cash flows. Cynthia Lee believes that Rivercreek is likely to remain a low-margin business \nand faces potential for disruption from competitors. Which statement below most correctly describes \ninvestor perceived values of Rivercreek?"
+      },
+      "choices": [
+        "Sophie Cho’s perceived value of Rivercreek stock suggests that she is likely to be a buyer of this stock.",
+        "Sophie Cho’s perceived value of Rivercreek stock is likely to be closer to the stock price compared to \nCynthia Lee’s perceived value.",
+        "Cynthia Lee’s perceived value of Rivercreek stock implies that she is unlikely to take a position in the \nstock."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d94e7153-f26b-4ff9-84cb-a9f2c9119422",
+      "prompt": {
+        "text": "The composite industry P/E multiple has risen considerably over the last year from about 20 to the current \nlevel of 50, and several companies in the industry have been issuing new public shares. Which of the \nfollowing statements provides a likely explanation for these observations?"
+      },
+      "choices": [
+        "Retail companies may be issuing shares to pay higher dividends.",
+        "Retail companies have a rising EBITDA, thus increasing returns.",
+        "Retail companies may now be characterized as overvalued.\nFeedback\nC is correct. Choice C is correct because a rapid increase in P/E accompanied by issuers deciding to sell new \nshares of stock to the public implies that the industry’s stocks have become overvalued, on average.\nChoice A is incorrect because issuing shares to pay more dividends does not explain the rise in P/E. \nFurthermore, this action would increase equity and then reduce it with extra dividend payments.\nChoice B is incorrect because a rising EBITDA is not a sufficient explanation for a rising P/E"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "602b09ac-c3fa-4d75-854e-7c68cb388862",
+      "prompt": {
+        "text": "Which one of the following multiples is most likely to be problematic for proper comparison across the three \ncompanies and the composite?"
+      },
+      "choices": [
+        "P/E",
+        "P/B",
+        "EV/EBITDA\n\nFeedback\nB is correct. Choice B is correct because P/B creates problems in comparison for at least one reason. \nArkanoid’s book value of equity is negative because its book value of liabilities is greater than its book value of \nassets. Thus, Arkanoid’s P/B is economically meaningless. Additionally, there appears to be the potential for \ndifferences in leverage across the three companies.\nChoice A is incorrect because net income is positive and, for all three companies, does not appear to be too \nclose to zero to create economically meaningless P/E multiples.\nChoice C is incorrect because EBITDA shows higher values than net income, thus EV/EBITDA is even less \nlikely to provide economically meaningless results than P/E."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c93185d2-3910-40d5-8cac-43a8512996ed",
+      "prompt": {
+        "text": "Which one of the firms below exhibits the lowest leverage as a percentage of book value of assets?"
+      },
+      "choices": [
+        "Rivercreek",
+        "Lough",
+        "Arkanoid\nFeedback\nB is correct. Choice B is correct because Lough’s net debt to assets is only 4.2%. Net debt is equal to EV \nminus equity market capitalization, so Lough’s net debt is 1,000 (= 26,000 − 25,000). Dividing this by Lough’s \nbook value of assets of 24,000 gives a result of 4.2% (= 1,000 ÷ 24,000).\nChoice A is incorrect because Rivercreek’s net debt to assets is 22.2%. Its net debt is 10,000 (= 200,000 − \n190,000), and its book value of assets is 45,000.\nChoice C is incorrect because Arkanoid’s net debt to assets is 20%. Its net debt is 5,000 (= 105,000 − \n100,000), and its book value of assets is 25,000."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "cf0e2a1c-85c0-4c47-bf56-0d39b3542880",
+      "prompt": {
+        "text": "Which one of the following companies is most likely to be undervalued based on the EV/EBITDA multiple?"
+      },
+      "choices": [
+        "Rivercreek",
+        "Lough",
+        "Arkanoid\nFeedback\nB is correct. Choice B is correct because Lough’s EV/EBITDA multiple of 10.4 (= 26,000 ÷ 2,500) is lower than \nthe composite multiple of 16.0.\nChoice A is incorrect because Rivercreek’s EV/EBITDA multiple of 21.11 (= 190,000 ÷ 9,000) is higher than \nthe composite multiple of 16.0.\nChoice C is incorrect because Arkanoid’s EV/EBITDA multiple of 21.0 (= 105,000 ÷ 5,000) is greater than the \ncomposite multiple of 16.0."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6080e0db-1fc9-4a50-852c-1614277deb97",
+      "prompt": {
+        "text": "Which one of the following statements provides the most probable argument for an asset-based valuation \napproach?"
+      },
+      "choices": [
+        "Rivercreek’s high P/B reflects the market value of its real estate holdings.",
+        "Lough’s lower sales-to-assets ratio implies that its business is more capital intensive.",
+        "Arkanoid’s smaller firm size makes valuation of its assets more straightforward\nFeedback\nA is correct. Choice A is correct because Rivercreek’s owned real estate may provide substantial amounts of \nthe company’s overall value. As such, it may be useful to value Rivercreek using an asset-based approach.\nChoice B is incorrect. While Lough does have a lower sales-to-assets ratio compared to its two competitors, \nthe higher capital intensity does not imply that an asset-based valuation may be useful. Rather, we would need \nto know that Lough’s assets are an integral aspect of understanding the value of the business. It was stated \nearlier that Lough does not own its real estate so is unable to capitalize on increases in market value of leased \nretail space.\nChoice C is incorrect. Firm size is not a factor as to whether an asset-based valuation approach is useful."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "11b7a8a5-4348-489d-9eee-5a3cd2a4fcfa",
+      "prompt": {
+        "text": "A company has issued non-callable, non-convertible preferred stock with the following features:\n• Par value per share: $10\n• Annual dividend per share: $2\n• Maturity: 15 years\nAn investor’s required rate of return is 8%, and the current market price per share of the preferred stock is $25. \nBy comparing the estimated intrinsic value with the market price of the preferred stock, the most likely \nconclusion is that the preferred stock is:"
+      },
+      "choices": [
+        "undervalued by $15.00.",
+        "fairly valued at $25.00.",
+        "overvalued by $4.73\n Feedback: \nC correct. Using a financial calculator to find the present value (PV) of the future cash flows, intrinsic value is \nthus: FV = $10; n = 15; PMT = $2; r = 8%. Compute PV = $20.27.\nThe preferred stock is overvalued by $4.73 (Market price of $25 – Estimated value of $20.27)"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e92a2fec-3450-4bd5-bdd0-e7542fa9843d",
+      "prompt": {
+        "text": "In a highly efficient market, unexpected positive news on a stock is announced to the public. After this \nannouncement, the difference between the market value and the intrinsic value of the stock will most likely:"
+      },
+      "choices": [
+        "decrease.",
+        "remain zero.",
+        "increase.\nFeedback: \n\nB is correct. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) \nan asset’s market value equals its intrinsic value. Therefore, after the announcement, the difference between a \nstock’s market value and its intrinsic value will remain equal to zero because both market and intrinsic values \nadjust to reflect the unexpected news by the same amount and at the same time"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9548a579-f46c-47c7-9abd-f390c2c95089",
+      "prompt": {
+        "text": "An asset with a current market price of $15.50 and an estimated intrinsic value of $12.50 is best described \nas being:"
+      },
+      "choices": [
+        "undervalued.",
+        "fairly valued.",
+        "overvalued.\nFeedback: \nC correct because an asset with an estimated intrinsic value less than the market price is considered \novervalued."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2d8c657c-73a3-45ee-a5f2-6a1d9eed9fd8",
+      "prompt": {
+        "text": "If a security’s intrinsic value is $55 per share and is currently selling for $50 per share, the security is:"
+      },
+      "choices": [
+        "undervalued.",
+        "fairly valued.",
+        "overvalued\n Feedback: \nA is correct because the security’s market price is less than its intrinsic value, indicating that it is undervalued. \nThe dividend discount model can be used to estimate an asset’s intrinsic value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "283f6b89-aef5-4624-b4b1-383163d3d210",
+      "prompt": {
+        "text": "An investor who wants to estimate the enterprise value multiple (EV/EBITDA) of a company has gathered \nthe following data:\nMarket value (MV) of debt $10 million\nMarket capitalization $45 million\nCash and short-term investments $2.5 million\nEBITDA $15 million\nFirm's marginal tax rate 40%\nThe company’s EV/EBITDA multiple is closest to:"
+      },
+      "choices": [
+        "2.5.",
+        "3.5.",
+        "5.8.\n Feedback: \nB is correct. Enterprise Value (EV) = Market capitalization + MV of debt + MV of preferred stock – Cash and \nshort-term investments.\n\nEV = 45 + 10 – 2.5 = 52.5\nEV/EBITDA = 52.5 / 15 = 3.5"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ef2d5dc5-1cc3-48bc-9fc8-adabb4801af7",
+      "prompt": {
+        "text": "An investor considering the enterprise value approach to valuation gathers the following data:\nEarnings before interest, taxes, depreciation, and amortization (EBITDA) $65.8 million\nValue of debt $90.0 million\nValue of preferred stock $25.4 million\nCash and marketable securities $6.9 million\nNumber of common shares outstanding 12.5 million\nFirm’s tax rate 30%\nEV/EBITDA multiple 6×\nThe value per share of the company’s common stock is closest to:"
+      },
+      "choices": [
+        "$13.43.",
+        "$22.35.",
+        "$22.90.\nFeedback: \nC is correct. First, compute the enterprise value (EV) from EBITDA × EV/EBITDA multiple.\nNext, determine market capitalization (value of equity per share) using the following expression:\nEV = Market capitalization + Market value (MV) of preferred stock + MV of debt – Cash and investments\nMarket capitalization = EV – MV of preferred stock – MV of debt + Cash and investments\nValue per share = Market capitalization/Number of outstanding shares\nEnterprise value = 65.8 × 6 394.8\n– Value of debt –90.0\n– Value of preferred stock –25.4\n+ Cash and marketable securities 6.9\n= Market capitalization, or value of equity 286.3\nValue per share = 286.3/12.5 $22.90"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6299a720-41d2-47b7-85e2-8d9074679946",
+      "prompt": {
+        "text": "Consider the following financial information for XYZ Corporation:\n\n  (£ millions)\nMarket value of common equity 10,000\nMarket value of preferred stock 2,000\nMarket value of debt 6,000\nCash and short-term investments 1,000\nEBITDA 2,000\nIndustry average EV/EBITDA 8.0\nRelative to the industry average, XYZ Corporation’s EV/EBITDA multiple is:"
+      },
+      "choices": [
+        "lower.",
+        "the same.",
+        "higher.\nFeedback: \nCorrect. XYZ Corporation’s EV/EBITDA multiple is calculated as:\nEnterprise value = Market value of equity + Market value of preferred stock + Market value of debt – Cash and \nshort-term investments\nEnterprise value = £10,000 + £2,000 + £6,000 – £1,000 = £17,000\nEV/EBITDA = £17,000 / 2,000 = 8.5.\nThus, XYZ Corporation’s EV/EBITDA multiple is higher than the industry average EV/EBITDA multiple of 8.0"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "088ebe20-b6bd-4232-b32e-9332ffb6685e",
+      "prompt": {
+        "text": "Equity valuation models that are based on a ratio of share price to some fundamental variable are best \ndescribed as:"
+      },
+      "choices": [
+        "present value models.",
+        "asset-based valuation models.",
+        "method of comparables models.\nFeedback: \nC is correct because method of comparables models establish ratios (or multiples) of market-based measures \nof value to standardized income statement or balance sheet items to establish price comparisons per unit of \nrevenue, cash flow or profit between companies. The numerator of a multiple is typically based upon a firm’s \nshare price or enterprise value, while the denominator is a measure of earnings, free cash flow, or book value."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ceb3ec43-1389-4d4b-9585-e7ffb09d3136",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company:\n\nBalance Sheet\nAssets Liabilities and Shareholders’ Equity\nAdditional Information\nCash $5,000 Accounts payable $10,000\nAccounts receivable 15,000 Notes payable 15,000\nInventory 25,000 Long-term debt 40,000\nNet fixed assets 80,000 Common shareholders' equity 60,000\nTotal assets $125,000 Total liabilities and equity $125,000\nNumber of outstanding shares 7,000\nMarket value of long-term debt $45,000\nMarket value of accounts receivable and inventory 90% of reported value\nMarket value of net fixed assets 120% of reported value\nAccounts payable and notes payable Same as the reported value\nUsing the asset-based valuation approach, the estimated value per share is closest to:"
+      },
+      "choices": [
+        "$9.57.",
+        "$10.29.",
+        "$11.00.\nFeedback: \nA is correct.\nMarket value of assets $5,000 + $40,000 × (0.90) + $80,000 × (1.20) = $137,000\nMarket value of liabilities 10,000 + $15,000 + $45,000 = $70,000\nEstimated value per share ($137,000 – $70,000) / 7,000 shares = $9.57/share"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4d57ebdf-b0f9-40ed-8f3a-a05f5fa899a3",
+      "prompt": {
+        "text": "Present value models follow a fundamental tenet of economics that states that individuals invest:"
+      },
+      "choices": [
+        "to defer consumption.",
+        "based on the law of one price.",
+        "for the expected future benefits.\nFeedback: \nC correct because present value models follow a fundamental tenet of economics stating that individuals defer \nconsumption—that is, they invest—for the future benefits expected."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

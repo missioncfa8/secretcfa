@@ -1,0 +1,94 @@
+{
+  "title": "Module 36: Equity Jurisdictions, Classes, and the Voting Process",
+  "topic": "Equities",
+  "module_number": 36,
+  "module_name": "Equity Jurisdictions, Classes, and the Voting Process",
+  "year": 2027,
+  "items": [
+    {
+      "id": "ce37c210-99ff-49de-ba1f-9cb12eef7cfd",
+      "prompt": {
+        "text": "Which type of DR would MSUMC most likely own?"
+      },
+      "choices": [
+        "Unsponsored DR",
+        "Sponsored DR",
+        "Either type of DR\nFeedback\nChoice B is correct. MSUMC would prefer to own sponsored DRs because the holder of sponsored receipts \nretains shareholder voting rights.\nChoices A and C are incorrect because the depository bank retains the voting rights on the company’s shares \nin an unsponsored DR."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "062b3041-9ee0-45c6-a6ac-7e1600ecb5dd",
+      "prompt": {
+        "text": "Which one of the following statements provides the most likely reason why MSUMC would place a ban on \nowning shares of companies with dual class structures?"
+      },
+      "choices": [
+        "Dual class structures typically provide multiple classes of traded shares with unequal voting rights.",
+        "Dual class structures typically provide unequal cash flow rights to shareholders.",
+        "Dual class structures typically provide one class of untraded shares with superior voting rights to those \nof traded shares.\nFeedback\nCorrect Answer: C. Dual class structures typically provide one class of untraded shares with superior voting \nrights to those of traded shares."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9e199f21-fd93-44f8-901f-3b55487126ba",
+      "prompt": {
+        "text": "Which one of the following conditions would most likely be necessary for MSUMC to vote “yes” on a \nshareholder proposal that would cause the board to encroach on day-to-day management?"
+      },
+      "choices": [
+        "Management presents arguments in the proxy statement that the risk mitigation of the proposal is not \nmaterial.",
+        "Management is already working on the issue underlying the proposal.",
+        "Management following the proposal would materially improve firm value\nFeedback\nChoice C is correct. In general, a shareholder proposal that, if passed, would cause the board to encroach on \nmanagement’s day-to-day operations is not appropriate unless the actions would have material and positive \neffects on firm value and/or risk mitigation.\nChoice A is incorrect because MSUMC is unlikely to base their vote on management’s arguments.\nChoice B is incorrect as this is typically likely to result in a “no” vote by MSUMC."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "423fe761-a495-43e4-bd22-03d3f7c79f1e",
+      "prompt": {
+        "text": "Which of the following are typically correct about management and shareholder proposals?"
+      },
+      "choices": [
+        "Both proposal types are shown in the company’s proxy statement.",
+        "Shareholder proposals are binding if passed.",
+        "Shareholder proposals are frequently passed\nFeedback\nChoice A is correct. A company’s proxy statement includes both management and shareholder proposals, \nincluding the company’s voting recommendations to shareholders along with the rationales for the \nrecommendations.\nChoice B is incorrect because shareholder proposals, if passed, are typically not binding on the company.\nChoice C is incorrect because shareholder proposals are not frequently passed."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9b7797f9-aef3-4ea1-9aaf-4c7abe52f58b",
+      "prompt": {
+        "text": "The voting rights of an unsponsored depository receipt (DR) belong to the:"
+      },
+      "choices": [
+        "depository bank.",
+        "direct owners of the foreign common shares.",
+        "foreign company whose shares are held by the depository.\nFeedback: \nA is correct. In the case of unsponsored DRs, the depository bank, not the investors in the DR, retains the \nvoting rights."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

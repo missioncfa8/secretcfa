@@ -1,0 +1,621 @@
+{
+  "title": "Module 60: Forward Commitment and Contingent Claim Features and Instruments",
+  "topic": "Derivatives",
+  "module_number": 60,
+  "module_name": "Forward Commitment and Contingent Claim Features and Instruments",
+  "year": 2027,
+  "items": [
+    {
+      "id": "88bc3a65-63d5-4f21-81f9-010e50038390",
+      "prompt": {
+        "text": "Which of the following derivative contracts available to VFO’s chief investment  \nofficer is best suited to reduce exposure to a decline in Biomian’s stock price in the \nnext six months?"
+      },
+      "choices": [
+        "A short put position on Biomian stock that expires in six months",
+        "A long call position on Biomian stock that expires in six months",
+        "A short futures position in Biomian stock that settles in six months"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. VFO may consider either a short futures position in (or a forward  sale \nof) Biomian shares in six months to achieve its objective. This firm commitment allows \nVFO to offset its long position with a short position in six months  at a pre-agreed \nprice. The futures contract is an exchange -traded derivative with  standardized \nterms set by the exchange and requires initial margin and daily settlement. Answers \nA and B are contingent claims that can both potentially increase, not decrease, VFO’s \nexposure to Biomian stock in six months."
+      }
+    },
+    {
+      "id": "565f39c8-abbc-41ec-bbbd-7dc7799d2457",
+      "prompt": {
+        "text": "VFO’s market strategist believes that Biomian’s share price will rise over the next  \nsix months but would like to protect against a decline in Biomian’s share price  over \nthe period. Which of the following positions is best suited for VFO to manage  its \nexisting Biomian exposure based on this view?"
+      },
+      "choices": [
+        "A long put position on Biomian stock that expires in six months",
+        "A short call position on Biomian stock that expires in six months",
+        "A long futures position in Biomian stock that settles in six months"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. VFO should purchase a six-month put option on Biomian shares to manage \nits exposure based on the market strategist’s view. This contingent claim grants VFO \nthe right but not the obligation to sell Biomian shares at a pre-agreed exercise price \nin exchange for a premium. A put option buyer exercises the option at maturity when \nthe underlying price is below the exercise price. This allows  VFO to continue to \nbenefit from a rise in Biomian’s share price over the next six  months with a limited \ndownside. Neither B nor C provides VFO with downside  protection if Biomian stock \ndeclines in six months."
+      }
+    },
+    {
+      "id": "5e9aafc5-f851-4366-9f5d-de850fed64d8",
+      "prompt": {
+        "text": "Assume that Biomian shares rise over the next six months. Which of the following  \nstatements about VFO’s derivative strategies under this scenario is most accurate?"
+      },
+      "choices": [
+        "A forward sale of Biomian shares in six months would be more profitable  than \npurchasing the right to sell Biomian shares in six months.",
+        "Purchasing the right to sell Biomian shares in six months would be more profitable \nthan a forward sale of Biomian shares in six months.",
+        "We do not have enough information to determine whether a forward sale or  the \nright to sell Biomian shares will be more profitable in six months."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under a forward sale of Biomian shares, the profit is [F0(T) – ST]. If \nthe shares rise significantly over the next six months —that is, ST > F0(T) —then \nVFO’s loss on the derivative is the difference between the Biomian forward price,  \nF0(T), and the spot price, ST. Under the long put option on Biomian shares,  VFO’s \nprofit is max(0, X – ST) – p0. If Biomian shares rise significantly over the  next six \nmonths (i.e., ST > X), then the option expires worthless and VFO’s loss is  limited to \nthe put pre mium paid, p0. If [F0(T) – ST] > –p0, then VFO’s loss would  be greater \nunder the firm commitment than under the contingent claim."
+      }
+    },
+    {
+      "id": "2c616d45-3ebb-434d-adc1-d7fbd713dbcb",
+      "prompt": {
+        "text": "VFO’s market strategist is considering a six-month call option strategy on the NIFTY \n50 benchmark Indian stock market index to increase broad market equity exposure. \nThe NIFTY 50 price today is INR15,200, and the strategist observes  that a call \noption with a INR16,000 exercise price (X) is trading at a premium of  INR1,500. \nWhich of the following represents the payoff and profit of this strategy  just prior \nto maturity if the NIFTY 50 is trading at INR16,500?"
+      },
+      "choices": [
+        "Payoff is INR500; profit is –INR1,000.",
+        "Payoff is INR1,300; profit is INR800. \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 2 of 12",
+        "Payoff is INR1,300; profit is INR500."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The profit is equal to Π = max(0, ST – X) – c0, and the payoff is equal \nto max(0, ST – X). The exercise price is INR16,000, and the spot price just prior to \nmaturity is INR16,500, so Π = –1,000 [= (16,500 – 16,000) – 1,500], and the payoff is \nequal to INR500 [= (16,500 – 16,000)]."
+      }
+    },
+    {
+      "id": "cf350ca0-cb7e-4bcf-a041-a97484212f24",
+      "prompt": {
+        "text": "Which of the following derivatives most likely requires a payment to be made at the \ninitiation of the contract? A(n):"
+      },
+      "choices": [
+        "swap",
+        "option",
+        "forward"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because an option is a derivative contract in which one party, the buyer, \npays a sum of money to the other party, the seller or writer, and receives the right \nto either buy or sell an underlying asset at a fixed price either on a specific \nexpiration date or at any time prior to the expiration date."
+      }
+    },
+    {
+      "id": "116ee019-5751-45f7-be40-cc7f4f127c11",
+      "prompt": {
+        "text": "Counterparty default risk is most likely lowest for which of the following types of \nderivatives?"
+      },
+      "choices": [
+        "Swaps",
+        "Futures",
+        "Forwards"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because exchange-traded derivatives (ETD) are standardized contracts \ntraded on an organized exchange which requires collateral on deposit to protect \nagainst counterparty default and a futures contract is an exchange-traded derivative \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 9 of 12 \n \n(ETD) with standardized terms set by the exchange.  Therefore, futures has lowest \ncounterparty default risk."
+      }
+    },
+    {
+      "id": "52a9b79b-a52b-4a8f-8a97-83c067bd1772",
+      "prompt": {
+        "text": "Which party in an option contract has the right to sell the underlying stock at the \nexercise price?"
+      },
+      "choices": [
+        "The buyer of a call option",
+        "The buyer of a put option",
+        "The seller of a put option"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct, because an option is a derivative contract in which one party, the buyer, \npays a sum of money to the other party, the seller or writer, and receives the right \nto either buy or sell an underlying asset at a fixed price either on a specific expiration \ndate or at any time prior to the expiration date. The right to sell is a (another) type \nof option, referred to as a put or put option."
+      }
+    },
+    {
+      "id": "50beecd4-b9b4-40f6-bf9b-0d1943c6906f",
+      "prompt": {
+        "text": "Which of the following is most accurate?"
+      },
+      "choices": [
+        "A forward contract is traded on an organized exchange.",
+        "Forward contracts are more transparent than futures contracts.",
+        "The buyer of a forward contract agrees to buy the underlying asset at a fixed \nprice on a future date."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a forward contract is an over -the-counter derivative contract \nin which two parties agree that one party, the buyer, will purchase an underlying asset \nfrom the other party, the seller, at a later date at a fixed price they agree on when \nthe contract is signed."
+      }
+    },
+    {
+      "id": "e67fc393-8526-49c0-975e-ce8e45260583",
+      "prompt": {
+        "text": "A trader sells a call option on a stock index with a strike price of 2,400 for $25. \nThe value of a one-point move in the index is $1. At expiration, the stock index is \ntrading at 2,450. The trader's profit is:"
+      },
+      "choices": [
+        "−$50.",
+        "−$25.",
+        "$25."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the writer of a call is the seller of the call: An option is a \nderivative contract in which one party, the buyer, pays a sum of money to the other \nparty, the seller or writer, and receives the right to either buy or sell an underlying \nasset at a fixed price either on a specific expiration date or at any time prior to the \nexpiration date. The profit to the seller of the call is –Max (0,ST – X) + c0, where X is \nthe exercise price, ST is the value of the underlying at expiration and  c0 is the call \npremium received by the seller. Since one point is equal to one dollar the profit to \nthe call seller is: –Max (0,$2,450 – $2,400) + $25 = –$50 + $25 = –$25."
+      }
+    },
+    {
+      "id": "0d55f590-ff37-4b17-a655-e66fb1400d5f",
+      "prompt": {
+        "text": "An analyst gathers the following information about three portfolios each consisting \nof two derivatives on the same underlying: \n  Forward Position Option Position \nPortfolio 1 Long Long Call \nPortfolio 2 Long Long Put \nPortfolio 3 Short Long Call \n \nAll else being equal, which portfolio will benefit from an increase in price of the \nunderlying?"
+      },
+      "choices": [
+        "Portfolio 1",
+        "Portfolio 2 \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 3 of 12",
+        "Portfolio 3"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because both a long forward position and a long call option position will \ngain from an increase in the underlying price."
+      }
+    },
+    {
+      "id": "8e683388-82e4-4604-bba2-fa0e54be73c6",
+      "prompt": {
+        "text": "Which of the following derivatives have a non-linear payoff?"
+      },
+      "choices": [
+        "Contingent claims only",
+        "Forward commitments only",
+        "Both contingent claims and forward commitments"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because asymmetric payoff profile is a common feature of contingent \nclaims, which are sometimes referred to as non-linear derivatives."
+      }
+    },
+    {
+      "id": "0d4886b2-3120-49de-bafb-344deef52e4b",
+      "prompt": {
+        "text": "Consider a put option selling for $2 in which the exercise price is $45. What is the \nprofit for a put buyer if the price of the underlying at expiration is $41?"
+      },
+      "choices": [
+        "–$2",
+        "$2",
+        "$4"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the put’s value at expiration =  pT = Max(0,X – ST), where pT is \nthe value of the put at expiration, X is the exercise price, and ST is the price of the \nunderlying at expiration. In this case, Max(0,45 – 41) = $4. The put buyer’s profit = \nΠ = pT – p0  (where p0 is the price of the put at time 0), or 4 – 2 = $2."
+      }
+    },
+    {
+      "id": "65c6c166-0f9a-4f90-9b21-22ceb0f47a0a",
+      "prompt": {
+        "text": "An investor collects the following information about a put option: \nStock price at initiation $220 \nStrike price $210 \nOption premium $9 \n \nAt expiration, if the price of the stock is $200, the investor's profit from \nbuying the put is:"
+      },
+      "choices": [
+        "–$19.",
+        "–$9.",
+        "$1."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Π = Max(0,X – ST) – p0 (profit to the put buyer), where ST  is the \nprice of the underlying at expiration,  X is the strike price and  p0 is the option \npremium. Therefore, the correct calculation yields: $1 = Max(0,$210 – $200) – $9."
+      }
+    },
+    {
+      "id": "8af5eb5f-b172-4dcd-aa3d-dbe74ca93601",
+      "prompt": {
+        "text": "An investor sells a European put option with the following characteristics: \nPut price 30 \nExercise price 1,320 \n \nIf the price of the underlying at expiration is 1,340, the profit for the seller is:"
+      },
+      "choices": [
+        "10.",
+        "20.",
+        "30."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because to the put seller, the profit is Π = –Max (0,X – ST) + p0, where \nX is the exercise price, S T is the price of the underlying at expiration, and p 0 is the \nput price. Therefore, Π = –Max (0,(1,320 – 1,340)) + 30 = 30. \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 10 of 12"
+      }
+    },
+    {
+      "id": "b45e3850-6ecb-4f43-b7f2-f06799cfb9bf",
+      "prompt": {
+        "text": "An investor buys a call option for $4 that has an exercise price of $27. At \nexpiration, if the stock price is $22, the call option payoff is:"
+      },
+      "choices": [
+        "negative.",
+        "zero.",
+        "positive."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because cT = Max(0,ST – X), where cT is the value of the call option, or \nthe payoff to the call buyer, X is the strike (or exercise) price, and  ST is the stock \nprice at expiration. In this case, cT = Max(0,$22 – $27) = 0."
+      }
+    },
+    {
+      "id": "b765c9e7-73e3-4588-94dd-778823bbbc04",
+      "prompt": {
+        "text": "An investor gathers the following information about a call option: \nOption premium $5 \nExercise price $25 \nPrice of the underlying at initiation $15 \n \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 4 of 12 \n \nAt expiration, if the price of the underlying is $30, the value of the call option to \nthe call seller is:"
+      },
+      "choices": [
+        "−$5.",
+        "$0.",
+        "$10."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because –cT = –Max(0,ST – X) (payoff to the call seller), where –cT is \nthe call value at expiration for the call seller, ST is the price of the underlying at \nexpiration, and X is the strike price. Therefore, the correct calculation yields: –\n$5 = –Max(0,$30 – $25)."
+      }
+    },
+    {
+      "id": "88f88b12-4c99-4ae8-bc27-3413db0cd052",
+      "prompt": {
+        "text": "An option is a type of a:"
+      },
+      "choices": [
+        "swap.",
+        "contingent claim.",
+        "forward commitment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because another class of derivatives provides the right but not the \nobligation to buy or sell the underlying at a pre-determined price. Because the \nchoice of buying or selling versus doing nothing depends on a particular random \noutcome, these derivatives are called contingent claims. The primary contingent \nclaim is called an option."
+      }
+    },
+    {
+      "id": "7c310c15-a8ba-4c47-906e-f4989f25f293",
+      "prompt": {
+        "text": "The type of derivative that provides the right but not the obligation to buy an \nunderlying is a:"
+      },
+      "choices": [
+        "swap.",
+        "contingent claim.",
+        "forward commitment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because another class of derivatives provides the right but not the \nobligation to buy or sell the underlying at a pre-determined price. Because the choice \nof buying or selling versus doing nothing depends on a particular random outcome, \nthese derivatives are called contingent claims. The primary contingent claim is called \nan option."
+      }
+    },
+    {
+      "id": "1cce0071-db5a-4152-ba5e-31acfaae09c9",
+      "prompt": {
+        "text": "Which of the following types of derivatives most likely has a daily settling of gains \nand losses?"
+      },
+      "choices": [
+        "Currency swap",
+        "Futures contract",
+        "Forward commitment"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a futures contract is a standardized derivative contract in which \nthere is a daily settling of gains and losses."
+      }
+    },
+    {
+      "id": "bf1fc540-6d72-4de5-aff0-a13a5a259436",
+      "prompt": {
+        "text": "An investor buys a call for $5.75 that has a strike price of $130. If the value at \nexpiration for this call is $17.80, the price of the underlying at expiration \nis closest to:"
+      },
+      "choices": [
+        "$112.20.",
+        "$142.05",
+        "$147.80."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the value or \"payoff to the call buyer\" at expiration is c T = \nMax(0,ST – X) where X is the strike price, S T is the price of the underlying at \nexpiration. Given the information in the stem we get $17.80 = Max(0,S T – $130). \nHence, ST =$ 130 + $17.80 = $147.80."
+      }
+    },
+    {
+      "id": "9ad3ccd9-731c-4f7c-a435-ed93e7cffac0",
+      "prompt": {
+        "text": "A call option had the following characteristics on the date it was created: \nExercise price $20 \nOption premium $3 \n \nIf the price of the underlying is $17 at expiration, the profit to the option holder \nis closest to:"
+      },
+      "choices": [
+        "−$3.",
+        "$0.",
+        "$3."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the profit on  the call buyer is Π = Max(0,ST – X) – c0, where \nST is the price of the underlying at expiration, X is the exercise price, and c 0 is the \ncall option premium paid. Hence, the profit to the call option buyer or holder is \nMax(0,$17 – $20) – $3 = – $3."
+      }
+    },
+    {
+      "id": "dffd6ac6-d063-4e85-90ff-c11d5fcfc552",
+      "prompt": {
+        "text": "If ST denotes the price of the underlying at the expiration date and X is the \nexercise price of the option, the payoff at expiration to a call seller \nis best described as:"
+      },
+      "choices": [
+        "–Max(0, ST – X). \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 5 of 12",
+        "–Max(0, X – ST).",
+        "Max(0, ST – X)."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because to the seller, the value of the option at that point is ‒\nMax(0, ST – X), which is negative to the seller if the option is in the money and zero \notherwise."
+      }
+    },
+    {
+      "id": "11496cf0-2969-4a83-a275-bf6653db6460",
+      "prompt": {
+        "text": "A call option that is sold for $4 has an exercise price of $40. If the price of the \nunderlying is $43 at expiration, the value of the option to the seller is closest to:"
+      },
+      "choices": [
+        "–$3, and the loss to the seller is $1.",
+        "–$3, and the profit to the seller is $1.",
+        "$3, and the loss to the seller is $1."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the value or payoff to the call seller is equal to –cT = –Max(0,ST – \nX), where ST is the price of the underlying at expiration and X is the exercise price. \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 11 of 12 \n \nHere the value or payoff of the call to the seller is –Max(0,$43 – $40) = –$3. Further, \nthe profit to the call seller is equal to Π = –Max(0,ST – X) + c0, where c0 is the option \nprice or premium paid by the call buyer to the call seller. Therefore, the profit to \nthe call seller is –Max(0,$43 – $40) + $4 = –$3 + $4 = $1."
+      }
+    },
+    {
+      "id": "1eb6db97-52b2-49d3-b3a5-5a54c67bd802",
+      "prompt": {
+        "text": "An investor pays $5 for a European put option with an exercise price of $102. At \nexpiration, if the price of the underlying is $100, the value of the put option is:"
+      },
+      "choices": [
+        "−$3.",
+        "$0.",
+        "$2."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the payoff to the put holder is:  pT = Max(0,X – ST) where ST is \nthe price of the underlying at expiration, and X is the exercise price. Therefore, the \nvalue of the put at expiration when S T = $100 and X = $102  is pT = Max(0,$102 – \n$100) = $2."
+      }
+    },
+    {
+      "id": "944aaf10-2a77-4ccf-96e2-96b50cd3afbf",
+      "prompt": {
+        "text": "An American put has a strike price of ¥5,000 and expires in one year. The current \nprice of the underlying is ¥4,200 and the risk-free rate is 2%. The maximum value \nof this put is:"
+      },
+      "choices": [
+        "¥800.",
+        "¥4,900.",
+        "¥5,000."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the payoff to the put holder is:  pT = Max(0,X – ST) where ST is \nthe price of the underlying at expiration, and X is the exercise price. Therefore, the \nmaximum payoff is when ST = 0 and pT = Max(0,¥5,000 – 0) = ¥5,000."
+      }
+    },
+    {
+      "id": "4ca52bb7-27ad-43d1-844a-767aced86b65",
+      "prompt": {
+        "text": "The following information relates to a put option and the underlying stock: \nStock price at expiration $85 \nEuropean put strike price $78 \n \nThe value of the put option to the option seller at expiration is:"
+      },
+      "choices": [
+        "–$7.",
+        "$0.",
+        "$7."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because pT = Max(0, X – ST). pT is put option value at expiration,  X is \nEuropean put strike price and  ST is stock price at expiration. So,  pT = \nMax($0,$78 – $85) = $0. Therefore, the value of the put option at expiration is $0."
+      }
+    },
+    {
+      "id": "29457bff-51ff-431b-a5e1-08b09c0fec17",
+      "prompt": {
+        "text": "All else being equal, if the price of the underlying at expiration exceeds the \nexercise price, the option value at expiration for the seller of a put most likely is:"
+      },
+      "choices": [
+        "less than the option value at expiration for the seller of a call.",
+        "equal to the option value at expiration for the seller of a call.",
+        "greater than the option value at expiration for the seller of a call."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the payoff or value at expiration to the put seller is defined as \n–Max(0,X – ST), where X is the exercise price and ST is the value of the underlying at \nexpiration. If ST exceeds X, then the value to the put seller is zero. By contrast, the \npayoff or value to the call seller is defined as –Max(0,ST – X), in which case the value \nis negative. Therefore, for ST > X, the value to the put seller is zero and, therefore, \ngreater than the value to the call seller which is negative."
+      }
+    },
+    {
+      "id": "d07cbe86-02b7-4065-a4d1-3ac476f3d57a",
+      "prompt": {
+        "text": "An investor gathers the following information about a European put option and its \nunderlying: \nExercise price $29 \nOption purchase price $2 \nSpot price at the time of the option purchase $28 \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 6 of 12 \n \n \nIf the price of the underlying at expiration is $27, the profit for a buyer of the \nput is:"
+      },
+      "choices": [
+        "−$1.",
+        "$0.",
+        "$2."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the profit for a put buyer is Π = Max(0,X – ST) – p0, where X is \nthe exercise price, S T is the price of the underlying at expiration, and p 0 is the put \npremium paid. Therefore, the profit is equal to Max(0,$29 – $27) – $2 = $0."
+      }
+    },
+    {
+      "id": "f760cd09-3321-41d6-96d3-b10a12a21ff8",
+      "prompt": {
+        "text": "A call option has the following characteristics: \nValue of underlying at expiration $2,020 \nExercise price $2,100 \nCall premium $80 \n \nThe profit to the call seller is closest to:"
+      },
+      "choices": [
+        "−$80.",
+        "$0.",
+        "$80."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the profit to call seller is Π = –Max(0,ST – X) + c0, where ST is \nthe price of the underlying at expiration, X is the exercise price, and c 0 is the call \noption premium received. Hence, –Max(0,$2,020 – $2,100) + $80 = $0 + $80 = $80."
+      }
+    },
+    {
+      "id": "fcaf6813-ff1f-4083-8d38-0effe37bef91",
+      "prompt": {
+        "text": "Which of the following is most likely an example of a contingent claim? A(n):"
+      },
+      "choices": [
+        "swap contract",
+        "option contract",
+        "futures contract"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because another class of derivatives provides the right but not the \nobligation to buy or sell the underlying at a pre-determined price. Because the choice \nof buying or selling versus doing nothing depends on a particular random outcome, \nthese derivatives are called contingent claims. The primary contingent claim is called \nan option."
+      }
+    },
+    {
+      "id": "8b75a6d6-5641-4870-9f14-79a2e50693aa",
+      "prompt": {
+        "text": "Forward contracts have:"
+      },
+      "choices": [
+        "less counter-party risk than futures.",
+        "the same level of counter-party risk as futures.",
+        "more counter-party risk than futures."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because futures contracts  are forward contracts with standardized \nsizes, dates, and underlyings that trade on futures exchanges. Futures markets offer \nboth greater liquidity and protection against loss by default (compared to \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 12 of 12 \n \nforwards)] by combining contract uniformity with an organized market with rules, \nregulations, and a central clearing facility.  Also a forward contract is an over -the-\ncounter (OTC) derivative in which two counterparties agree that one counterparty, \nthe buyer, will purchase an underlying from the other counterparty, the seller, in the \nfuture at a pre-agreed fixed price. As noted earlier, OTC derivatives offer greater \nflexibility and customization than exchange -traded derivatives (ETD), but also \nusually involve more counterparty risk. Therefore, forwards have more counterparty \nrisk than futures."
+      }
+    },
+    {
+      "id": "0f401c0d-14ff-4813-9e03-f0648dd30005",
+      "prompt": {
+        "text": "The payoff to the seller of a forward contract at expiration is defined as the:"
+      },
+      "choices": [
+        "forward price plus the value of the underlying at expiration.",
+        "forward price minus the value of the underlying at expiration.",
+        "value of the underlying at expiration minus the forward price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the long is obligated to pay F0(T), for which he receives an asset \nworth ST. The short has the mirror image of the long. He is required to deliver the \nasset worth ST and accept a smaller amount,  F0(T). Here F0(T) is the forward price \nagreed at contract initiation with T denoting the time of expiry, and  ST is the value \nof the underlying at expiry. Therefore, the payoff to the forward seller at expiration \nis F0(T) − ST."
+      }
+    },
+    {
+      "id": "7a8fd04d-7cf8-45d6-ae7f-59506d08277c",
+      "prompt": {
+        "text": "Which of the following characteristics is most likely common to both forwards and \nswaps?"
+      },
+      "choices": [
+        "Customization of contract terms",
+        "Marked to the settlement price on a daily basis",
+        "Multiple payments over the life of the contract"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because both forward contracts and swaps are traded over-the-counter \n(OTC), allowing the counterparties to negotiate and agree upon specific features for \neach contract.  Exchange-traded derivatives are standardized, whereas OTC \nderivatives are customized.  Further, a  forward contract is an over -the-counter \nderivative contract .  Also, a  swap is an over -the-counter derivative contract. \nTherefore, both forward contracts and swaps can be  customized as they both are \nOTC derivative products."
+      }
+    },
+    {
+      "id": "42df2996-1d31-4194-979b-d814fa6b69d9",
+      "prompt": {
+        "text": "A forward commitment:"
+      },
+      "choices": [
+        "has a linear payoff in relation to the underlying.",
+        "involves an exchange of cash at contract initiation.",
+        "provides one party the right to transact at a later date. \n \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 7 of 12"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because forwards, futures, and swaps represent firm \ncommitments. Further, the symmetric payoff profile is a common feature of firm \ncommitments. Since the derivative price is a linear function of the underlying, firm \ncommitments are also referred to as linear derivatives."
+      }
+    },
+    {
+      "id": "54c65917-f9a9-4669-b929-7917d25df0cb",
+      "prompt": {
+        "text": "Which of the following types of derivatives has a non-linear payoff?"
+      },
+      "choices": [
+        "Swaps",
+        "Options",
+        "Forwards"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because given that the holder of the contingent claim has a choice, the \nterm contingent claim has become synonymous with the term option. The holder has \na choice of whether or not to exercise the option. This choice creates a payoff that \ntransforms the underlying payoff in a more pronounced manner than does a forward, \nfutures, or swap. Those instruments provide linear payoffs: As the underlying goes \nup (down), the derivative gains (loses). The further up (down) the underlying goes, the \nmore the derivative gains (loses). Options are different in that they limit losses in \none direction."
+      }
+    },
+    {
+      "id": "ecb84a26-1b8c-4cac-9d4d-fba690001211",
+      "prompt": {
+        "text": "Which of the following statements best describes a feature of an option contract? \nIn an option contract:"
+      },
+      "choices": [
+        "both the long and the short can default.",
+        "only the short can default.",
+        "only the long can default. \n \n \n \n \n  \nForward Commitment and Contingent Claim Features and Instruments \nFaculty:                                                                                    Page 8 of 12"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Only the short can default. This scenario occurs when the long exercises \nthe option and the short fails to fulfill its obligation under the contract."
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Module 45: Equity Analyst Research Reports",
+  "topic": "Equities",
+  "module_number": 45,
+  "module_name": "Equity Analyst Research Reports",
+  "year": 2027,
+  "items": [
+    {
+      "id": "0a018c26-b8ae-4f59-8d14-4a723ced9030",
+      "prompt": {
+        "text": "An effective investment thesis:"
+      },
+      "choices": [
+        "includes a detailed analysis of the company’s financial statements.",
+        "articulates why the analyst believes the stock is mispriced.",
+        "includes a detailed analysis of the industry or industries within which it operates.\nFeedback\nB is correct. An effective investment thesis incorporates information as to why the stock’s price should \nconverge to the price target. The thesis succinctly articulates the analyst’s findings and conclusions. It often \nincludes not only company-specific drivers of performance but also the underlying economic and industry \nenvironment that will contribute to the analyst’s predicted outcome for the company. The thesis should be \ndirectly aligned to achieving the price target within the anticipated time horizon.\nA is incorrect. An effective investment thesis reflects an analyst’s abilities to condense key aspects of their \ninvestment rationale into a short summary. Detailed financial statement analysis is not part of the investment \nthesis.\nC is incorrect. An effective investment thesis does not include detailed information from the overall research. \nRather, the analyst condenses this information into the key points driving why the stock’s current mispricing \nshould correct within the anticipated time horizon."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ee61c5ad-8cca-45c7-a76c-dd79442fed7d",
+      "prompt": {
+        "text": "An equity research report that focuses on misinformation or fraud not currently reflected in the stock price is \nmost likely written by:"
+      },
+      "choices": [
+        "a buy-side analyst.",
+        "a sell-side analyst.",
+        "an activist short seller.\nFeedback\nC is correct. Activist short sellers focus on identifying misinformation or fraud that is not currently reflected in a \ncompany’s share price.\nA is incorrect. Buy-side reports are done within, or on behalf of, a buy-side firm that is typically confidential and \nnot focused on misinformation or fraud.\nB is incorrect. Sell-side reports are written for external clients and typically do not focus on misinformation or \nfraud"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "117e74cf-379e-4530-b4a9-23e7dcdecea9",
+      "prompt": {
+        "text": "Compared with sell-side reports, buy-side equity research reports are typically:"
+      },
+      "choices": [
+        "more customized.",
+        "more constrained by regulatory restrictions.",
+        "produced to provide recommendations to firm clients.\nFeedback\nA is correct. Buy-side reports tend to be more customized for internal decision making. In contrast, sell-side \nreports are more general because they cater to a broad audience.\nB is incorrect. Buy-side reports are largely unconstrained.\nC is incorrect. Buy-side reports are intended for internal use by firm decision makers."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c74f5796-7eb6-49c6-8ed2-d5fcde1a34ed",
+      "prompt": {
+        "text": "The purpose of a stock screening process is to:"
+      },
+      "choices": [
+        "expand the investable universe.",
+        "provide more accurate valuations.",
+        "focus resources on opportunities that are consistent with the investment strategy\nFeedback\nC is correct. Screening reduces the number of potential stocks to those that fit criteria that are consistent with \nthe strategy.\nA is incorrect. Screening reduces the size of the investable universe.\nB is incorrect. Equity screening applies before valuation models are used, and it does not ensure accuracy in \nvaluation outcomes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1e993b86-01ec-4d8b-b688-1ab15f496561",
+      "prompt": {
+        "text": "An increased revenue forecast is most likely to result in an increased valuation estimate if it is accompanied \nby an increase in:"
+      },
+      "choices": [
+        "net margin only.",
+        "capital investment only.",
+        "both net margin and capital investment.\nFeedback\nA is correct. Increased revenue plus increased margin will result in higher forecasted free cash flows and a \npositive value change.\nB is incorrect. Increased capital investment will result in lower free cash flows and may result in decreased \nvalue.\nC is incorrect. The positive valuation effect of the net margin increase may be offset by the effect of increased \ncapital investment."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "23757dfe-f45e-49c1-b251-cb96925f28ec",
+      "prompt": {
+        "text": "An analyst valuing a company’s stock revises income statement assumptions to increase revenue growth \nwhile decreasing margins. The most likely implication is that:"
+      },
+      "choices": [
+        "the lower margins will result in a lower equity value.",
+        "the higher revenue growth will result in higher equity value.",
+        "the equity value change depends on the magnitude of the offsetting assumptions\nFeedback\nC is correct. The offsetting effects of higher revenue growth and lower margins will result in profits that may be \nhigher, lower, or possibly equal to the profits assumed in the original scenario. For example, small declines in \nmargins with large revenue growth improvements may result in higher FCFE and higher equity value. In \ncontrast, large declines in margins combined with relatively small revenue growth improvements may result in \nlower FCFE and lower equity value.\nA is incorrect. Lower margins are only likely to result in a revised lower equity value if they more than offset \nincreased revenue growth. Specifically, lower margins may still result in higher net income because of higher \nrevenue growth assumptions.\nB is incorrect. Higher revenue growth is not a guarantee of higher equity value if net income assumptions are \nrevised downward because of lower margins."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Module 65: Pricing and Valuation of Interest Rates and Other Swaps",
+  "topic": "Derivatives",
+  "module_number": 65,
+  "module_name": "Pricing and Valuation of Interest Rates and Other Swaps",
+  "year": 2027,
+  "items": [
+    {
+      "id": "9c0d7306-1bab-442c-ae65-180ab750a479",
+      "prompt": {
+        "text": "Ace’s client is an asset manager with a significant portion of its fixed -rate bond \ninvestment portfolio maturing soon. Ace intends to reinvest the proceeds in five-year \nbond maturities. Which of the following describes the best course of  action in the \nderivatives market for Ace’s client to address its bond reinvestment risk?"
+      },
+      "choices": [
+        "Ace’s client should consider receiving fixed on a cash-settled five-year forward-\nstarting swap that starts and settles in three months in order to best address its \nbond reinvestment risk.",
+        "Ace’s client should consider paying fixed on a cash -settled five-year forward-\nstarting swap starting in three months in order to best address its  bond \nreinvestment risk.",
+        "Ace’s client should consider entering a series of forward rate agreements (FRAs) \nfrom today until five years from now under which it pays a fixed rate and receives \na floating rate each period ending in five years to address its bond reinvestment \nrisk."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Ace’s client should consider receiving fixed on a five -year swap. A  \nreceive-fixed swap has a risk and return profile similar to that of a long fixed -rate \nbond position. Ace’s client would therefore expect to have a similar MTM gain or loss \non the swap position as if it had purchased a five-year bond at inception."
+      }
+    },
+    {
+      "id": "e38d1327-649b-43e2-a539-69aa92445042",
+      "prompt": {
+        "text": "Ace enters a 10-year GBP interest rate swap with a client in which Ace receives  an \ninitial six-month GBP MRR of 1.75% and pays a fixed GBP swap rate of 3.10% for the \nfirst semiannual period. Which of the following statements best describes the value \nof the swap from Ace’s perspective three months after the inception of the trade? \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 2 of 7"
+      },
+      "choices": [
+        "Ace has an MTM loss on the swap, because it owes a net settlement payment  to \nits counterparty equal to 1.35% multiplied by the notional and period.",
+        "Ace has an MTM gain on the swap, because once it makes the first known  net \npayment to its counterparty, the remainder of the future net fixed  versus \nfloating cash flows must have a positive present value from Ace’s perspective.",
+        "While the present value of fixed and future cash flows was set to zero by solving \nfor the swap rate at inception, we do not have enough information to  determine \nwhether the swap currently has a positive or negative value from  Ace’s \nperspective following inception."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. At time t = 0, the present value of fixed and future cash flows was set \nto zero by solving for the swap rate at inception. Although the current settlement  \nvalue is known, we cannot determine whether the swap has a positive or negative value \nfrom Ace’s perspective three months later without further information—specifically, \nthe current level of future forward rates."
+      }
+    },
+    {
+      "id": "cdaa5465-e373-47ac-98cf-5003d107b079",
+      "prompt": {
+        "text": "Ace enters a 10-year GBP interest rate swap with a client in which Ace receives  an \ninitial six-month GBP MRR of 1.75% and pays a fixed GBP swap rate of 3.10% for the \nfirst semiannual period. Six months later, Ace and its counterparty settle  the first \nswap payment, and no change has occurred in terms of future interest  rate \nexpectations. Which of the following statements best describes the value of  the \nswap from Ace’s perspective?"
+      },
+      "choices": [
+        "Ace has an MTM gain on the swap, because once it makes the first known  net \npayment to its counterparty, the remainder of the future net fixed  versus \nfloating cash flows must have a positive present value from Ace’s perspective.",
+        "Ace has an MTM loss on the swap, because once it receives the first known  \npayment from its counterparty, the remainder of the future net fixed  versus \nfloating cash flows must have a negative present value from Ace’s perspective.",
+        "While the present value of fixed and future cash flows was set to zero by solving \nfor the swap rate at inception, we do not have enough information to  determine \nwhether the swap currently has a positive or negative value from  Ace’s \nperspective following inception."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Ace makes the first net payment because the fixed -rate payment is \ngreater than the floating rate received. Given no change in forward interest  rates, \nthis implies that the remaining net cash flows must have positive present  value to \nAce. B is incorrect as this response states the opposite compared to the  prior \nresponse. C is incorrect because we have information about forward rate  \nexpectations."
+      }
+    },
+    {
+      "id": "9ffaa2e3-89b0-43bf-9b9f-6cd9acb2df97",
+      "prompt": {
+        "text": "At time t = 0, Ace observes the following zero rates over three periods: \nPeriods Zero Rates \n1 2.27% \n2 3.03% \n3 3.64% \n \nWhich of the following best describes how Ace arrives at a three-period par swap \nrate (s3)?"
+      },
+      "choices": [
+        "Since the par swap rate represents the fixed rate at which the present value of \nfixed and future cash flows equal one another, we discount each zero rate  back \nto the present using zero rates and solve for s3 to get 2.961%.",
+        "Since the par swap rate represents the fixed rate at which the present value of \nfixed and future cash flows equal one another, we first solve for the  implied \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 3 of 7 \n \nforward rate per period using zero rates, then discount each implied forward rate \nback to the present using zero rates, and solve for s3 to get 3.605%.",
+        "Since the par swap rate represents the fixed rate at which the present value of \nfixed and future cash flows equal one another, we first solve for the  implied \nforward rate per period using zero rates, then discount each zero  rate back to \nthe present using implied forward rates, and solve for s3 to get 3.009%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Since the expected floating cash flows on the swap are the implied  \nforward rates, we first use zero rates to solve for IFRs using Equation 1: \n \n(1 + 𝑧𝐴)𝐴 × (1 + 𝐼𝐹𝑅𝐴, 𝐵−𝐴)\n𝐵−𝐴\n= (1 + 𝑧𝐵)𝐵 \n \nWe may solve for these rates as IFR 0,1 = 2.2727%, IFR 1,1 = 3.7975%, and IFR 2,1 = \n4.8525%. We then substitute the respective IFRs discounted by zero rates into the \nfollowing equation to solve for s 3: \n \n𝐼𝐹𝑅0, 1\n(1 + 𝑧1) + 𝐼𝐹𝑅1, 1\n(1 + 𝑧2)2 + 𝐼𝐹𝑅2, 1\n(1 + 𝑧3)3 = 𝑠3\n(1 + 𝑧1) + 𝑠3\n(1 + 𝑧2)2 + 𝑠3\n(1 + 𝑧3)3 \n \nSolving for the left-hand side of the equation, we get \n \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 6 of 7 \n \n0.10159 = 2.2727%\n1.022727 + 3.7975%\n(1.030323)2 + 4.8525%\n(1.036355)3 \n \nSolving for the right-hand side, we get \n \n2.81819 𝑠3 = [ 1\n1.022727 + 1\n(1.030323)2 + 1\n(1.036355)3] × 𝑠3 \n \n𝑠3 = 3.605% = 0.10159 ÷ 2.81819 \n \nA is incorrect, because it discounts zero rates, not IFRs, back to the present using \nzero rates, while C incorrectly discounts zero rates by the respective IFRs."
+      }
+    },
+    {
+      "id": "39abf737-960d-4f61-a889-bad49a606c11",
+      "prompt": {
+        "text": "Ace’s issuer client has swapped its outstanding fixed-rate debt to floating to match \nasset portfolio cash flows that generate an MRR -based return. Which of  the \nfollowing statements best describes how Ace’s MTM credit exposure to the  issuer \nchanges if interest rates rise immediately following trade inception?"
+      },
+      "choices": [
+        "Since the client receives fixed and pays floating swap, it faces an MTM  loss on \nthe transaction as rates rise, increasing Ace’s MTM exposure to the client.",
+        "Since the client receives fixed and pays floating swap, it faces an MTM gain  on \nthe transaction as rates rise, decreasing Ace’s MTM exposure to the client.",
+        "Since the swap’s value is equal to the current settlement plus future  expected \nsettlement amounts, we do not have enough information to determine  whether \nAce’s MTM exposure to the client increases or decreases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Since the client receives fixed and pays floating swap, in a rising -rate \nenvironment, Σ PV(Floating payments) > Σ PV(Fixed payments), and it will therefore \nowe more in future floating -rate settlements than it will receive in  fixed-rate \nsettlements, resulting in an MTM loss for the client and an increase in  Ace’s MTM \nexposure."
+      }
+    },
+    {
+      "id": "c3558e80-32cd-4a13-889d-1279d66bfbc5",
+      "prompt": {
+        "text": "The price of an interest rate swap that involves the exchange of a fixed payment for \na floating payment is most likely:"
+      },
+      "choices": [
+        "equal to its value at expiration.",
+        "set at initiation and constant over time.",
+        "affected by changes in the floating payment."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Swaps have both a price and a value. Price in the context of a swap is a \nreference to the fixed-rate payment on the swap, which is constant over time. The \nvalue of a swap is zero at initiation but can change over the life of the swap as market \ninterest rates change."
+      }
+    },
+    {
+      "id": "be9e2bb7-3597-47f7-b90c-6c62203f11da",
+      "prompt": {
+        "text": "A $10 million interest rate swap with annual payments has a fixed swap rate of \n1.95%. The implied forward rates are: \nYear Implied Forward Rate (%) \n1 0.50 \n2 1.15 \n3 1.35   \n \nThe periodic settlement value in Year 3 for the fixed-rate payer is expected to \nbe closest to:"
+      },
+      "choices": [
+        "–$95,000.",
+        "–$60,000.",
+        "$60,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the periodic settlement value = (MRR – sN) × Notional amount × \nPeriod. The market reference rate (MMR) for Year 3 is 1.35%, thus: \n= (0.0135 – 0.0195) × $10,000,000 × 1 = –$60,000."
+      }
+    },
+    {
+      "id": "988068f9-5f3b-467d-9f29-3d528cf2a8db",
+      "prompt": {
+        "text": "A series of forward rate agreements and an interest rate swap contract covering \nthe same periods and using the same market reference rate will most \nlikely have the same:"
+      },
+      "choices": [
+        "fixed rates. \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 4 of 7",
+        "cash flows upfront.",
+        "settlement cash flows."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because similarities between interest rate forwards and swaps include \nthe symmetric payoff profile and the fact that no cash flow is exchanged upfront."
+      }
+    },
+    {
+      "id": "ab1179ab-2220-4bc9-9cce-b93c02fffc9c",
+      "prompt": {
+        "text": "From the fixed-rate receiver's perspective, if the market reference rate \nincreases, the value of a swap contract:"
+      },
+      "choices": [
+        "decreases.",
+        "stays the same.",
+        "increases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the fixed -rate receiver pays the market reference rate and \nreceives the par swap par rate. If the market reference rate increases, they are \npaying more and the value of the contract decreases to them. Another interpretation \nof an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long \na floating-rate note (FRN) priced at the MRR and short a fixed -rate bond with a \ncoupon equal to the fixed swap rate. Similarly, the fixed-rate receiver (floating-rate \npayer) is lon g a fixed -rate bond with a coupon equal to the swap rate and short a \nfloating-rate note priced at the MRR. A rise in the expected forward rates after \ninception will increase the present value of floating payments, while the fixed -swap \nrate will remain the same. \n \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 7 of 7"
+      }
+    },
+    {
+      "id": "a5066b70-c192-413a-b576-258a6a103f05",
+      "prompt": {
+        "text": "A swap is most likely similar to a series of forward contracts when:"
+      },
+      "choices": [
+        "all forward contracts are created with the combined value equal to zero.",
+        "all forward contracts are entered into at the price created in the forward \nmarket.",
+        "the value of the long forward contracts are matched with the value of the short \nforward contracts at each swap payment date."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because, in a swap, each forward contract will be created at the fixed \nprice that corresponds to the fixed price of a swap of the same maturity with \npayments made at the same dates as the series of forward contracts. That means \nthat some of the forward contracts would have positive values and some would have \nnegative values, but their combined values would equal zero."
+      }
+    },
+    {
+      "id": "092c2a20-2e7a-4a02-bfd1-146bd6087762",
+      "prompt": {
+        "text": "It is least likely true that a swap may be viewed as a series of forward contracts \nwhere the prices of the implicit forward contracts embedded in the swap:"
+      },
+      "choices": [
+        "are equal.",
+        "sum to zero.",
+        "are not equal. \n \n \n \n  \nPricing and Valuation of Interest Rates and Other Swaps \nFaculty:                                                                                    Page 5 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The statement is incorrect. Although a swap may be viewed as a series \nof forward contracts expiring at various times where one party agrees to make a \nfixed payment and receive a variable payment, with swaps, the fixed payments are \nthe same and are established at initiation. However, the prices of the implicit forward \ncontracts embedded in a swap will not be equal."
+      }
+    }
+  ]
+}

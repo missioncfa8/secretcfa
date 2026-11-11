@@ -1,0 +1,145 @@
+{
+  "title": "Module 37: Equity Issuance and Trading",
+  "topic": "Equities",
+  "module_number": 37,
+  "module_name": "Equity Issuance and Trading",
+  "year": 2027,
+  "items": [
+    {
+      "id": "b46adc35-57e9-48b1-967d-745e96fdd990",
+      "prompt": {
+        "text": "Which one of the following provides the most likely argument as to why Eastern States seeks IPO \nallocations?"
+      },
+      "choices": [
+        "Because of favorable long-run returns from IPOs, on average",
+        "Because IPOs are, on average, underpriced",
+        "Because IPOs are typically non-dilutive to existing shareholder\nFeedback\nB is correct. IPOs, on average, experience a first-day increase in price from the price at which investors \nreceiving an allocation in the IPO buy the shares and the closing price after the first day of public trading. \nOften, the level of underpricing may be 20% or greater.\nA is incorrect because IPO companies are often likely to underperform over long time horizons.\nC is incorrect because Eastern States is unlikely to be affected by the dilutive or non-dilutive effects of the IPO \ngiven that they are a new investor. As a new investor, the company is focused on the potential for underpricing \nbenefits rather than dilution effects, unlike existing shareholders."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "06e18608-95bb-4eea-a63c-03450c1d918d",
+      "prompt": {
+        "text": "Which one of the following conditions may best reflect Eastern States rationale for requiring two years of \ntrading history for secondary market purchases?"
+      },
+      "choices": [
+        "Trading history provides the ability to assess company management quality.",
+        "Trading history provides the ability to forecast future company stock returns.",
+        "Trading history provides the ability to compare return and risk performance across similar publicly traded \ncompanies.\nFeedback\nC is correct. Public market data are a critical input in comparing an individual share’s performance over time to \nsimilar firms. Furthermore, investors can easily measure returns, volatilities, and correlations across time.\nA is incorrect because management quality is unlikely to be assessed solely by historical stock prices but may \nneed more examination of financial statements and other sources of company fundamental research.\n\nB is incorrect as historical stock prices do not provide information about future returns. However, they can be \nvaluable for assessing risk and volatility."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6af8d6ac-e098-45d7-998d-9386897cfb14",
+      "prompt": {
+        "text": "Which one of the following observable costs of trading is a likely concern for Eastern States with respect to \nthe policy on average daily trading volume?"
+      },
+      "choices": [
+        "Bid–ask spread costs",
+        "Opportunity costs",
+        "Market impact costs\nFeedback\nA is correct. Bid–ask spreads are observable for stocks and are likely higher for stocks with relatively low daily \nturnover. As such, Eastern States may be looking to avoid owning stocks with high bid–ask spreads.\nB and C are incorrect as both opportunity and market impact costs are unobservable."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "5fa2c7a2-e19c-4f24-bb72-d1e3bd03093e",
+      "prompt": {
+        "text": "Which one of the following equity index types would be most appropriate for Eastern States to use as a \nbenchmark for their equity portfolio performance?"
+      },
+      "choices": [
+        "A US large-cap ESG index",
+        "A global ESG composite index",
+        "A global large-cap ESG index\nFeedback\nC is correct. Eastern States has a globally diversified portfolio of large-cap stocks in companies incorporating \nESG principles. Therefore, they should benchmark with an equity index that matches those criteria.\nA is incorrect. Despite being a US investor, Eastern States owns a globally diversified portfolio. Thus, a US \nlarge-cap ESG index does not match the global scale.\nB is incorrect. The composite index includes not just large-cap stocks but also smaller stocks. Therefore, this \nindex does not match the large-cap characteristic of Eastern States’ portfolio."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4e9674de-06e1-4e3f-9c06-2ec5aace9cdd",
+      "prompt": {
+        "text": "Which of the following is least likely to involve the sale of new shares by the firm?"
+      },
+      "choices": [
+        "An IPO",
+        "A seasoned equity offering",
+        "A secondary follow-on offering\nFeedback: \nC correct because a secondary follow-on offering, in contrast, involves the sale of existing shares privately held \nin the public market for the first time, which does not change an existing shareholder's proportional claim to the \nfirm's net income and assets under liquidation."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "339b8d64-6b1d-455a-a0c5-1268a9aad0d6",
+      "prompt": {
+        "text": "Over-the-counter markets:"
+      },
+      "choices": [
+        "are electronic order-driven systems.",
+        "involve buying and selling shares via a centralized trading system.",
+        "consist of multiple market makers which are typically broker–dealers\nFeedback: \nC is correct because the over-the-counter OTC market is sometimes referred to as a quote-driven market. In \ncontrast to an electronic order-driven system in the case of exchange trading with a designated market maker \nas described earlier, a quote-driven trading system consists of multiple market makers, which are typically \nbroker–dealers, that continuously show bid and ask prices to investors seeking to buy or sell shares."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "dcd5677c-c5e0-4cdf-8eff-39fc83c0e0f6",
+      "prompt": {
+        "text": "The relative size of orders posted that are at or very near the best currently available bid and offer prices is \nreferred to as the:"
+      },
+      "choices": [
+        "market float.",
+        "market depth.",
+        "market breadth.\nFeedback: \nB is correct because market depth refers to the relative size of orders posted that are at or very near the best \ncurrently available bid and offer prices."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e2391fb5-57f6-49f2-aaf2-a65145b2f64f",
+      "prompt": {
+        "text": "An index that uses ESG ratings to weight its constituents is an example of a(n):"
+      },
+      "choices": [
+        "sectoral index.",
+        "theme-based index.",
+        "index based on fundamental factors.\n Feedback: \nB is correct because investment themes involve indexes created based on investor trends beyond selecting a \ncertain industry or company size. Examples of indexes based upon investment themes include the following \nareas: Issuers screened to ensure compliance with specific environmental, social and governance (ESG) \nprinciples"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

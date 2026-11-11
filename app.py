@@ -5892,6 +5892,7 @@ def new_2027_dashboard():
         'Financial Statement Analysis',
         'Equities',
         'Fixed Income',
+        'Derivatives',
         'Alternative Investments',
         'Portfolio Construction',
         'Ethical and Professional Standards'

@@ -1,0 +1,26 @@
+{
+  "title": "Module 72: Real Estate and Infrastructure",
+  "topic": "Alternative Investments",
+  "module_number": 72,
+  "module_name": "Real Estate and Infrastructure",
+  "year": 2027,
+  "items": [
+    {
+      "id": "0dcad0e4-d195-4455-b7e6-e95ef0434acb",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Real Estate and Infrastructure."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Real Estate and Infrastructure available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

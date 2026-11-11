@@ -1,0 +1,26 @@
+{
+  "title": "Module 80: The Behavioral Biases of Individuals",
+  "topic": "Portfolio Construction",
+  "module_number": 80,
+  "module_name": "The Behavioral Biases of Individuals",
+  "year": 2027,
+  "items": [
+    {
+      "id": "05cc3d74-f634-45b4-9e4e-c1bddbd055df",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: The Behavioral Biases of Individuals."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for The Behavioral Biases of Individuals available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

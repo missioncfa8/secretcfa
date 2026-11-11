@@ -1,0 +1,26 @@
+{
+  "title": "Module 73: Natural Resources",
+  "topic": "Alternative Investments",
+  "module_number": 73,
+  "module_name": "Natural Resources",
+  "year": 2027,
+  "items": [
+    {
+      "id": "4668e32c-ce83-40f1-b4ff-05d9d87987f6",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Natural Resources."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Natural Resources available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

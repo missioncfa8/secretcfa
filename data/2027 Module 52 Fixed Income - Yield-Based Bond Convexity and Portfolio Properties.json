@@ -1,0 +1,485 @@
+{
+  "title": "Module 52: Yield-Based Bond Convexity and Portfolio Properties",
+  "topic": "Fixed Income",
+  "module_number": 52,
+  "module_name": "Yield-Based Bond Convexity and Portfolio Properties",
+  "year": 2027,
+  "items": [
+    {
+      "id": "ea13485a-1ee9-4b50-9e4d-6c04dca24e1b",
+      "prompt": {
+        "text": "A 5.5% semiannual-pay fixed-coupon bond is issued at par on 1 May 2025 and matures \non 1 May 2029. For a 5 bps increase and decrease in yield -to-maturity, PV+ and PV– \nare 98.245077 and 101.792534, respectively. The approximate convexity  is closest \nto:"
+      },
+      "choices": [
+        "3.548.",
+        "15.045.",
+        "101.793."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \n𝐴𝑝𝑝𝑟𝑜𝑥𝐶𝑜𝑛 = 100.177546 + 99.82283− (2 × 100)\n(0.005)2 × 100 = 15.04."
+      }
+    },
+    {
+      "id": "bdce3f6f-a495-4c29-b677-42124e539834",
+      "prompt": {
+        "text": "A bond pays a semiannual fixed coupon of 4.75%. It trades at par on its coupon date \nof 16 December 2025 and matures on 16 December 2033. The bond’s annualized  \nconvexity statistic is closest to:"
+      },
+      "choices": [
+        "51.670.",
+        "53.231.",
+        "206.681."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \n \nEight-Year, 4.70% Semiannual Bond \nFixed Coupon (%) 4.7 \nPeriods p.a. 2 \nPrice (per 100 Par Value) 100 \nYield-to-Maturity (%) 4.7 \n \nCol. 1 Col. 2 Col. 3 Col. 4 Col. 5 \nCol. 6 = \nCol. 2 × \nCol. 5 \nCol. 7 = Col. \n2 × (Col. 2 + \n1) × Col. 5 × \n(1 + YTM/2)–2 \nPeriod \nTime \nto \nReceipt \nCash \nFlow \nPresent \nValue Weight \nTime to \nReceipt \n× \nWeight \nConvexity of \nCash Flows \n1 1 2.35 2.296043 0.02296 0.02296 0.04384 \n2 2 2.35 2.243325 0.02243 0.04487 0.12849 \n3 3 2.35 2.191817 0.02192 0.06575 0.25108 \n4 4 2.35 2.141492 0.02141 0.08566 0.40886 \n5 5 2.35 2.092323 0.02092 0.10462 0.5992 \n6 6 2.35 2.044282 0.02044 0.12266 0.81962 \n7 7 2.35 1.997344 0.01997 0.13981 1.06774 \n8 8 2.35 1.951484 0.01951 0.15612 1.34129 \n9 9 2.35 1.906677 0.01907 0.1716 1.63811 \n10 10 2.35 1.862899 0.01863 0.18629 1.95617 \n11 11 2.35 1.820126 0.0182 0.20021 2.29351 \n12 12 2.35 1.778336 0.01778 0.2134 2.64827 \n13 13 2.35 1.737504 0.01738 0.22588 3.01871 \n14 14 2.35 1.69761 0.01698 0.23767 3.40315 \n15 15 2.35 1.658632 0.01659 0.24879 3.80002 \n16 16 102.35 70.580104 0.7058 11.29282 183.2633 \n      100.0000 1.0000 13.5191 206.68136 \nAnnualized Convexity   51.67034 \n \n \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 9 of 13"
+      }
+    },
+    {
+      "id": "cd9a2b31-4358-4ef1-8b6f-2afcbd2500b3",
+      "prompt": {
+        "text": "For changes in yield-to-maturity, the convexity adjustment is most needed to account \nfor the:"
+      },
+      "choices": [
+        "first-order effect on bond prices.",
+        "bond price risk due to small changes in yield-to-maturity.",
+        "non-linear relationship of bond prices and yield to maturity. \n \nThe following information relates to questions 4-9 \nA bond portfolio consists of the following three option-free, fixed-rate bonds: \nBond Market Value (£) Annual Modified Duration Annual Convexity \nX 50,00,000 3.6239 16.2513 \nY 50,00,000 9.0036 91.0278 \nZ 1,00,00,000 12.7512 179.8591"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The convexity adjustment is a complementary risk measure to duration. \nIt accounts for the second-order (non-linear) effect of yield changes on price. It is \nmost useful for large yield changes, because duration provides a good approximation \nfor small yield changes."
+      }
+    },
+    {
+      "id": "88b5bcc4-e149-4885-8b35-494fb07aa342",
+      "prompt": {
+        "text": "If the yield-to-maturity of Bond X increases by 50 bps, the expected percentage \nprice change of Bond X is closest to:"
+      },
+      "choices": [
+        "–1.792%.",
+        "–1.812%.",
+        "–1.832%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The expected price change is calculated as follows: \n%ΔPVFull ≈ (–3.6239 × 0.005) + [½ × 16.2513 × (0.005)^2] = –1.79164% ≈ –1.792%."
+      }
+    },
+    {
+      "id": "ee823917-1848-4633-9175-4d6d0f5d584b",
+      "prompt": {
+        "text": "Given a 75 bps change in the yields -to-maturity for Bonds Y and Z, the convexity  \nadjustment for Bond Z would be greater than the convexity adjustment of Bond Y:"
+      },
+      "choices": [
+        "if the YTM change is positive.",
+        "if the YTM change is negative.",
+        "regardless of the direction of the change in YTM. \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 2 of 13"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Since the convexity adjustment uses the square of the change in yield, \nit is always positive regardless of the direction of the change in yield -to-maturity. \nAs a result, the convexity adjustment for Bond Z will always be greater than the \nconvexity adjustment for Bond Y, given the same change in yields-to-maturity."
+      }
+    },
+    {
+      "id": "f29e6089-10fd-4f3d-b29b-0dd3ca33ba0a",
+      "prompt": {
+        "text": "For a 100 bps increase in yield -to-maturity and using money duration and money  \nconvexity, the estimated change in Bond Y’s full price is closest to:"
+      },
+      "choices": [
+        "–GBP472,937.",
+        "–GBP450,180.",
+        "–GBP427,423."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nMoneyDur ≈ 9.0036 × 5,000,000 = 45,018,000 \nMoneyCon ≈ 91.0278 × 5,000,000 = 455,139,000 \nΔPVFull ≈ –(45,018,000 × 0.01) + [½ × 455,139,000 × (0.01)^2] = –GBP427,423."
+      }
+    },
+    {
+      "id": "d97b4bdb-94e9-4a81-90f2-44ac9290d7fc",
+      "prompt": {
+        "text": "For a 100 bps increase in yield-to-maturity and using the weighted average duration \nand convexity, the expected percentage price change for the bond portfolio is closest \nto:"
+      },
+      "choices": [
+        "–7.981%.",
+        "–8.949%.",
+        "–9.533%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The portfolio weights for Bonds X, Y, and Z are 0.25, 0.25, and 0.50, \nrespectively. The weighted average duration and convexity measures are calculated \nas follows: \nWeighted-average duration = (0.25 × 3.6239) + (0.25 × 9.0036) + (0.50 × 12.7512) = \n9.5325. \nWeighted-average convexity = (0.25 × 16.2513) + (0.25 × 91.0278) + (0.50 × 179.8591) \n= 116.7493. \n%ΔPVFull ≈ (–9.5325 × 0.01) + [½ × 116.7493 × (0.01)^2] = –8.9487% ≈ –8.949%."
+      }
+    },
+    {
+      "id": "28a8336c-e74d-4256-afd5-b8ba76581aaf",
+      "prompt": {
+        "text": "The bond portfolio’s benchmark is a fixed -income index with a duration of 9.5325  \nand convexity of 103.0677. Based on the weighted -average portfolio duration and  \nconvexity, the portfolio should outperform its benchmark in which of the following  \nscenarios?"
+      },
+      "choices": [
+        "Only when interest rates are rising",
+        "Only when interest rates are falling",
+        "Both when interest rates are rising and falling"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The portfolio has a weighted -average duration of 9.5325, which is \nidentical to the benchmark’s duration. However, the portfolio has higher convexity \n(116.7493) compared to the benchmark (103.0677). All else equal, the portfolio should \noutperform the lower-duration benchmark portfolio in both rising and falling interest \nrate environments."
+      }
+    },
+    {
+      "id": "be8ddc00-c041-4da9-92e4-3a616b9f55ac",
+      "prompt": {
+        "text": "The method of using weighted-average portfolio duration and convexity measures to \nassess price risk of a bond portfolio is best characterized as:"
+      },
+      "choices": [
+        "being theoretically correct.",
+        "being commonly used by portfolio managers.",
+        "accommodating non-parallel shifts in the yield curve."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The weighted-average portfolio duration and convexity method is easy \nto calculate and apply in practice and is commonly used by portfolio managers to \nassess bond portfolio price risk. It does, however, implicitly assume parallel shifts in \nthe yield curve. Using the weighted average of time to receipt of the aggregate cash \nflows is the theoretically correct method to calculate portfolio duration and \nconvexity, but it is difficult to use in practice. \n \n \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 10 of 13"
+      }
+    },
+    {
+      "id": "7d60cc3e-f8a3-48a0-aeef-d2b8c2031fda",
+      "prompt": {
+        "text": "One limitation as to why using the average duration of the bonds in a portfolio does \nnot properly reflect that portfolio’s yield curve risk is that the approach assumes:"
+      },
+      "choices": [
+        "a parallel shift in the yield curve.",
+        "all the bonds have the same discount rate.",
+        "a non-parallel shift in the yield curve."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. A limitation to using the average duration approach in calculating \nportfolio duration is that it assumes all interest rates across the yield curve change \nby the same amount and, therefore, each bond’s price changes by the same \npercentage."
+      }
+    },
+    {
+      "id": "899ed46b-8ba7-438c-8fd1-d6f4ffc01d6a",
+      "prompt": {
+        "text": "An analyst gathers the following information on a bond: \nApproximate modified duration 10.3829 \nApproximate modified convexity 141.217 \n \nWhat is the estimated percentage price change for the bond if yield to maturity \ndecreases by 50 bps? \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 3 of 13"
+      },
+      "choices": [
+        "–5.01%",
+        "5.37%",
+        "5.54%"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The convexity-adjusted estimate of the percentage change in bond price \nis calculated as follows: \n%ΔPVFull≈(−AnnModDur×ΔYield)+[0.5×AnnConvexity×(ΔYield)^2] \n≈(−10.3829×−0.005)+[0.5×141.217×(−0.005)2]  \n=0.051915+0.001765  \n=0.05368"
+      }
+    },
+    {
+      "id": "a22f725c-217d-4e62-b09e-5eb91b1ebc40",
+      "prompt": {
+        "text": "Consider the following information for a traditional (option -free) fixed-rate bond \nwhere PV0 is the bond’s original price, PV+ is the new price of the bond when the yield \nto maturity is increased, PV_ is the new price of the bond when the yield to maturity \nis decreased, ∆Curve is the change in the benchmark yield curve, and ∆Yield is the \nchange in the yield to maturity: \nPV0 PV+ PV– ∆Curve ∆Yield \n99.41172 99.32213 99.50132 3 bps 1 bp \n \nThe bond’s approximate convexity is closest to:"
+      },
+      "choices": [
+        "0.00101.",
+        "1.11769.",
+        "10.05918."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The bond’s approximate convexity (ApproxCon) is 10.05918, calculated \nas: \n𝐴𝑝𝑝𝑟𝑜𝑥𝐶𝑜𝑛 = (𝑃𝑉−) + (𝑃𝑉+) − [2 × (𝑃𝑉0)]\n(ΔYield)2 × (𝑃𝑉0)  \n \n= 99.50132+ 99.32213− (2 × 99.41172)\n(0.0001)2 × 99.41172  \n \n=  10.05918"
+      }
+    },
+    {
+      "id": "f05a5351-0c8f-475c-806e-bb160e32487c",
+      "prompt": {
+        "text": "A bond has a Macaulay duration of 6.0, modified duration of 6.5, and convexity of \n50.25. If the bond’s yield to maturity decreases by 50 bps, the expected percentage \nprice change is closest to:"
+      },
+      "choices": [
+        "3.06%.",
+        "3.31%.",
+        "3.25%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The expected percentage price change for a bond can be is estimated \nas follows: \n%ΔPFull ≈ (–AnnModDur × ΔYield) + [0.5 × AnnConvexity × (ΔYield)^2] \n%ΔPFull ≈ (–6.5 × –0.005) + [0.5 × 50.25 × (–0.005)^2] = 3.313%"
+      }
+    },
+    {
+      "id": "b1c8231c-cbe5-48be-bb0f-6aa3a49a0239",
+      "prompt": {
+        "text": "A bond’s duration is 7.31, and its convexity is –24.85. Using the duration model with \nconvexity adjustment, the bond’s percentage change in price if interest rates \ndecrease 2% is closest to:"
+      },
+      "choices": [
+        "15.12%.",
+        "15.60%.",
+        "14.12%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is c orrect. The duration model estimates the percentage change in price as –\nAnnModDur × ΔYield, or –7.31 × (–0.02)= +14.62%, and the convexity adjustment is ½ \n× AnnConvexity × (∆Yield)^2, or ½ × (–24.85) × (0.02)^2 = –0.50%, and 14.62% – 0.50% \n= 14.12%."
+      }
+    },
+    {
+      "id": "a9dcbca5-c43d-4dcf-b053-79e0967a89a5",
+      "prompt": {
+        "text": "The following table provides information about a portfolio of three bonds. \nBond Maturity Price Par Amount Duration \n1 17-year $109.2461 $16 million 8.56 \n2 20-year $100.4732 $4 million 9.19 \n3 25-year $84.6427 $8 million 11.48 \n \nBased on this information, the duration of the portfolio is closest to:"
+      },
+      "choices": [
+        "9.48. \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 4 of 13",
+        "9.35.",
+        "9.74."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The market values of the bonds (Price × Par amount) are $17,479,376, \n$4,018,928, and $6,771,416, respectively, for a portfolio value of $28,269,720. \nTherefore, the duration of the portfolio is \n(17,479,376\n28,269,720 × 8.56) + ( 4,018,928\n28,269,720 × 9.19) + ( 6,771,416\n28,269,720 × 11.48) = 9.35"
+      }
+    },
+    {
+      "id": "4470e10a-dccd-4613-aa3f-664253ff6036",
+      "prompt": {
+        "text": "Consider the following information on three bonds: Bond A, Bond B, and Bond C. \n Bond A Bond B Bond C \nTime to maturity (years) 10 6 4 \nPar value $10,000,000 $10,000,000 $10,000,000 \nMarket value $9,323,381 $11,189,092 $10,000,000 \nAnnualized modified duration 7.3105 4.6880 3.4370 \n \nA fixed-income portfolio contains Bond A and Bond B. If another $10 million is added \nto the portfolio and is used to purchase Bond C, then the annualized modified duration \nof the portfolio will be closest to:"
+      },
+      "choices": [
+        "5.0793.",
+        "5.1452.",
+        "6.5668."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The new modified duration of the portfolio is calculated as follows: \nThe initial market value of the portfolio = $9,323,381 + $11,189,092 = $20,512,473. \nThe portfolio market value with the purchase of Bond C is: \nNew portfolio market value = $20,512,473 + $10,000,000 = $30,512,473. \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 11 of 13 \n \nModDur = [7.3105× 9,323,381\n30,512,473] + [4.6880× 11,189,092\n30,512,473] + [3.4370 × 10,000,000\n30,512,473] \n = 5.0793 \n \nwhere the first term in each set of brackets is the annualized modified duration and \nthe second term is the weighting factor based on market value."
+      }
+    },
+    {
+      "id": "be8b7664-53f8-4744-a0c6-ebfe4c9b7249",
+      "prompt": {
+        "text": "A bond with a par value of $100 matures in 10 years with a coupon of 4.5% paid \nsemiannually; it is priced to yield 5.83% and has a modified duration of 7.81. If the \nyield of the bond declines by 0.25%, the approximate percentage price change for \nthe bond is closest to:"
+      },
+      "choices": [
+        "3.91%.",
+        "1.95%.",
+        "0.98%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nApproximate percentage price change = –[7.81 × (–0.0025)] = 0.01953 or 1.95%"
+      }
+    },
+    {
+      "id": "5553ff50-aabf-4940-aaca-ed3d99301226",
+      "prompt": {
+        "text": "An analyst gathers the following information about an annual-pay bond: \nCoupon rate 6.0% \nYield to maturity 4.5% \nMacaulay duration 10.0 \n \nIf the yield to maturity decreases by 100 basis points, the expected percentage \nchange in the bond’s price is closest to:"
+      },
+      "choices": [
+        "9.43%.",
+        "9.57%.",
+        "10.00%. \n \n \n \n \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 5 of 13"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because modified duration provides an estimate of the percentage price \nchange for a bond given a change in its yield -to-maturity (YTM).  \nModified duration = Macaulay Duration / (1+r) = 10.0/1.045 = 9.5694  \n%*SYMBOL*PV≈ ¬AnnModDur × ∆Yield = –9.5694 × –1% = 9.5694% ≈ 9.57%."
+      }
+    },
+    {
+      "id": "92fecd0d-f99d-4009-aac0-674b3fad6822",
+      "prompt": {
+        "text": "An investor gathers the following information about a bond portfolio comprised of \ntwo option-free bonds: \nBond Par Value Market Value Duration \n1 $100,000 $120,000 5 \n2 $200,000 $180,000 4 \n \nThe duration of the portfolio is closest to:"
+      },
+      "choices": [
+        "4.33.",
+        "4.40.",
+        "4.55."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the portfolio's duration is the weighted average (by market \nvalue) of the duration of the bonds in the portfolio. \nDuration of portfolio = [(120,000 ÷ 300,000) × 5] + [(180,000 ÷ 300,000) × 4] \n= (0.4 × 5) + (0.6 × 4) \n= 2.00 + 2.40 \n= 4.40"
+      }
+    },
+    {
+      "id": "c723c6c2-ae1d-4c4b-a674-853da5acdaf1",
+      "prompt": {
+        "text": "An analyst gathers the following information about an option-free bond: \nPar value $1,000,000 \nCurrent market value $912,575 \nDuration 2.4 \n \nIf yields are expected to decrease by 50 basis points, the expected price change \nfor the bond is closest to:"
+      },
+      "choices": [
+        "$11,000.",
+        "$22,000.",
+        "$24,000."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because modified duration provides an estimate of the percentage price \nchange for a bond given a change in its yield-to-maturity. A modified duration of 2.4 \ntranslates to a 2.4% percentage price change given a 100 basis points change in the \nbond's yield t o maturity. Therefore, for a 50 basis point decrease in yields, the \nbond's price will change by (2.4)(0.0050)($912,575) = $10,951 ≈ $11,000."
+      }
+    },
+    {
+      "id": "0dbf872c-b475-4711-a18a-6bdd75e61588",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond: \nPrice 96.00 \nPrice with yield to maturity 10 basis points higher 95.80 \nPrice with yield to maturity 10 basis points lower 96.30 \n \nThe approximate convexity of this bond is closest to:"
+      },
+      "choices": [
+        "521.",
+        "1,042.",
+        "2,604."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because 𝐴𝑝𝑝𝑟𝑜𝑥𝐶𝑜𝑛 =\n(𝑃𝑉−)+(𝑃𝑉+)−[2×(𝑃𝑉0)]\n(ΔYield)2×(𝑃𝑉0)  \nTherefore, the approximate convexity of this =\n96.3+95.8−[2×96]\n(0.001)2×96 = 1,042"
+      }
+    },
+    {
+      "id": "8eddd640-ea50-43fd-baea-4392076f0569",
+      "prompt": {
+        "text": "A bond portfolio consists of the following option-free annual-pay coupon bonds: \n  Bond 1 Bond 2 \nPar value $300,000 $450,000 \nMarket value $200,000 $400,000 \nYield to maturity 4% 3% \nMacaulay duration 7.5 5.4 \n \nThe modified duration of this portfolio is closest to:"
+      },
+      "choices": [
+        "5.9.",
+        "6.0.",
+        "6.1. \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 6 of 13"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the Macaulay and modified durations for the portfolio are \ncalculated as the weighted average of the statistics for the individual bonds. The \nshares of overall portfolio market value are the weights.  \nFirst we calculate the modified duration (ModDur) of the individual bonds using \nformula below:  \nModDur = MacDur / (1 + r)  \nModDur of Bond 1 = 7.5 / (1 + 4%) = 7.211538  \nModDur of Bond 2 = 5.4 / (1 + 3%) = 5.242718.  \n \nNext, we calculate the weights for the individual bonds based on market values, as \nfollows:  \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 12 of 13 \n \nWeight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333  \nWeight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667  \n \nModified duration of the portfolio = (Weight for Bond 1 × ModDur of Bond 1) + \n(Weight for Bond 2 × ModDur of Bond 2) = (0.333333 × 7.211538) + (0.666667 × \n5.242718) = 5.898992 ≈ 5.9."
+      }
+    },
+    {
+      "id": "f6cbb15a-ad8f-400e-8072-3f574fda67f7",
+      "prompt": {
+        "text": "A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity \nstatistic of –212. If the market yield increases by 75 basis points, the price of this \nbond is closest to:"
+      },
+      "choices": [
+        "93.7.",
+        "94.3.",
+        "94.9."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because % ∆PVFull = ( –AnnModDur × ∆Yield) + [(0.5 × AnnConvexity × \n∆(Yield)2]= ( –6.9 × 0.0075) + (0.5 × –212 × 0.0075 2) = –0.05175 – 0.0059625 = \n0.0577125, rounded to 5.77%. The percentage decline in price = –0.0577125 × 99.4 = \n–5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66."
+      }
+    },
+    {
+      "id": "52ddf793-1d67-467d-9129-c7f9c1868af4",
+      "prompt": {
+        "text": "An analyst gathers the following information about a zero-coupon bond: \nTime to maturity 5 years \nAnnual convexity 28.835 \nAnnual yield to maturity 2% \n \nIf the yield decreases by 1%, the bond's percentage change in price is closest to:"
+      },
+      "choices": [
+        "4.76%.",
+        "5.05%.",
+        "5.14%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the Macaulay duration of a zero-coupon bond is its time-to-\nmaturity and modified duration is the Macaulay duration statistic divided by one \nplus the yield per period. \nHere, modified duration = 5/1.02 = 4.901961. \nThus, the percentage change in price = (–4.901961 * –0.01) + (0.5 * 28.835 * –\n0.01^2) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%."
+      }
+    },
+    {
+      "id": "bb1f11e1-ab1c-4657-ad15-b26c94183ade",
+      "prompt": {
+        "text": "An analyst gathers the following details about a bond portfolio: \nBond Market Price (per 100 of par value) Money Duration (per 100 of par value) \n1 95 730 \n2 120 515    \n \nIf each bond has a par value of £25 million, the modified duration of this bond \nportfolio is closest to:"
+      },
+      "choices": [
+        "5.8.",
+        "6.1.",
+        "6.2."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because money duration (MoneyDur) is calculated as the annual \nmodified duration times the full price (PVFull) of the bond, including accrued \ninterest. Thus the modified durations of the bonds are 730/95 = 7.6842 and \n515/120 = 4.29167, respectively.  \nThe modified duration of a bond portfolio is calculated as the weighted average of \nthe statistics for the individual bonds. The shares of overall portfolio market value \nare the weights. Here, the market values of the bonds are £25 million * 95/100 \n= £23,750,000 and £25 million * 120/100 = £30,000,000. Thus the weight of the \nfirst bond in the portfolio is £23,750,000 / (£23,750,000 + £30,000,000) = \n44.186% and the weight of the second bond in the portfolio is £30,000,000 / \n(£23,750,000 + £30,000,000) = 55.814%. The modified duration of the portfolio is \ntherefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 + 2.3953 = 5.7907, \nrounded to 5.8."
+      }
+    },
+    {
+      "id": "91638920-2c18-4382-a219-dcbc658de768",
+      "prompt": {
+        "text": "Two par bonds have the same duration but different convexity. All else being equal, \nif yields to maturity increase by 10 basis points, it is most likely that:"
+      },
+      "choices": [
+        "the more convex bond underperforms the less convex bond.",
+        "both bond prices decrease by the same amount.",
+        "the more convex bond outperforms the less convex bond."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the two bonds are assumed to have the same price, yield -to-\nmaturity, and modified duration. The benefit of greater convexity occurs when their \nyields-to-maturity change. And for the same increase in yield-to-maturity, the more \nconvex bond depreciates less in price (than the less convex bond)."
+      }
+    },
+    {
+      "id": "34f4176d-5f4d-43b9-9336-4840b616551c",
+      "prompt": {
+        "text": "An analyst gathers the following information about an option-free coupon bond that \npays annually: \nModified duration 13.2 \nConvexity statistic 1,081 \n \nIf the bond's yield decreases by 10 basis points, the expected percentage price \nchange for this bond is closest to:"
+      },
+      "choices": [
+        "−1.27%. \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 7 of 13",
+        "1.27%.",
+        "1.37%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because %ΔPVFull ≈ (−AnnModDur × ΔYield) + [1/2 × AnnConvexity × \n(ΔYield)^2] = (−13.2 × −0.0010) + [1/2 × 1081 × (−0.0010)^2] = 0.0132 + 0.0005405 = \n1.37405% ≈ 1.37%. \n \n \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 13 of 13"
+      }
+    },
+    {
+      "id": "1acbab16-8053-4f76-a018-90e7d9f3cfc5",
+      "prompt": {
+        "text": "The Delfain Corporation reported a significant improvement in profitability that was \nfollowed by a material upgrade in its credit rating. The market responded by \nimmediately requiring a 100 basis point narrower spread to Gilts on Delfain’s 8 -year \nbond. If the bond’s modified duration is 6.0 and its convexity is 55.0, the return \nimpact of this change is closest to:"
+      },
+      "choices": [
+        "6.28%.",
+        "–5.73%.",
+        "7.10%. \n \n  \nYield-Based Bond Convexity and Portfolio Properties \nFaculty:                                                                                    Page 8 of 13"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The return impact of a 60 bps fall in the bond’s yield can be computed \nas: \nReturn impact ≈ –(MDur × ΔSpread) + ½Cvx × (ΔSpread)^2 \nReturn impact ≈ –(6.0 × –0.01) + ½(55.0) × (–0.01)2 = 6.28%"
+      }
+    }
+  ]
+}

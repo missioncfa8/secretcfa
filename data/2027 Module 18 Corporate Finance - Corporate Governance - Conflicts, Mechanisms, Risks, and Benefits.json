@@ -1,0 +1,383 @@
+{
+  "title": "Module 18: Corporate Governance - Conflicts, Mechanisms, Risks, and Benefits",
+  "topic": "Corporate Finance",
+  "module_number": 18,
+  "module_name": "Corporate Governance - Conflicts, Mechanisms, Risks, and Benefits",
+  "year": 2027,
+  "items": [
+    {
+      "id": "12e14767-0c92-4b7d-8332-b8fed92341f6",
+      "prompt": {
+        "text": "Kobe Steel’s governance failures most likely resulted in reduced:"
+      },
+      "choices": [
+        "cost of debt.",
+        "agency costs.",
+        "growth opportunities."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The misconduct likely caused reputational damage to Kobe among \ncurrent and prospective customers, which reduces growth opportunities. \nA is incorrect, because bond yields jumped to record levels soon after the scandal \nwas announced, suggesting a higher perceived default risk. Higher default risks are \nassociated with a higher cost of debt, as creditors typically require a higher return \nwhen their funds are less secured and their rights less protected. \nB is incorrect, because Kobe is incurring higher agency costs in the wake of the \ngovernance failure by hiring an independent investigative committee, independent \ndirectors, and external quality assurance experts."
+      }
+    },
+    {
+      "id": "29b494f0-c3d9-496d-b1b2-7df552039ee9",
+      "prompt": {
+        "text": "Which of the following is considered a best practice that would \nstrengthen the measures discussed to prevent a recurrence of the misconduct?"
+      },
+      "choices": [
+        "A shareholder rights plan",
+        "A stock-based compensation plan",
+        "An audit committee composed solely of independent board members"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The company formed an audit and supervisory committee that included \na majority of independent directors, but best practices would recommend an audit \ncommittee composed solely of independent members, with at least one director with \naccounting or related financial management experience. \nA is incorrect. A shareholder rights plan, also known as a poison pill, is used to \ndefend against unwanted takeovers that could potentially undervalue the company, \nbut it does not defend the company or shareholders against management or \nemployee misconduct.  \nB is incorrect. A stock-based compensation plan is used to align the interests of \nmanagement with those of shareholders, though it might further incentivize risk-\ntaking and misconduct, which is the issue in this case."
+      }
+    },
+    {
+      "id": "c7042e78-8d2a-4779-bc2b-756c46b4179a",
+      "prompt": {
+        "text": "Which of the following is considered a best practice that would \nstrengthen the measures discussed to prevent a recurrence of the misconduct?"
+      },
+      "choices": [
+        "A shareholder rights plan",
+        "A stock-based compensation plan \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 2 of 8",
+        "An audit committee composed solely of independent board members"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The company formed an audit and supervisory committee that included \na majority of independent directors, but best practices would recommend an audit \ncommittee composed solely of independent members, with at least one director with \naccounting or related financial management experience."
+      }
+    },
+    {
+      "id": "ca210a5f-c0e7-4614-bc0f-c9de3010e37e",
+      "prompt": {
+        "text": "With respect to a publicly listed company, a conflict of interest due to \ninformation asymmetry is most likely to occur between shareholders and:"
+      },
+      "choices": [
+        "creditors.",
+        "managers.",
+        "customers."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because compared with shareholders,  managers typically have greater \naccess to information about the business and  are more knowledgeable about its \noperations. Such 'information asymmetry'  (that is, unequal access to information) \nmakes it easier for managers to make strategic decisions that are not necessarily in \nthe best interest of shareholders and weakens  the ability of shareholders to \nexercise control."
+      }
+    },
+    {
+      "id": "11e7c7b7-9581-4101-9df5-05bc2e2e3fc8",
+      "prompt": {
+        "text": "Which of the following committees of a board of directors oversees the \ndevelopment of the company's conflict of interest policy?"
+      },
+      "choices": [
+        "Risk committee",
+        "Governance committee",
+        "Remuneration committee"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the main role of the board’s governance committee is to ensure \nthat the company adopts good corporate governance structures and practices. For \nthis purpose, it oversees the development of the governance policies at the company \nsuch as  \n• the corporate governance code \n• the charter of the board and its committees \n• the code of ethics and \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 6 of 8 \n \n• the conflict of interest policy, among others."
+      }
+    },
+    {
+      "id": "14561864-ec41-4fcf-a3bc-4c7ce8250521",
+      "prompt": {
+        "text": "An improvement in corporate governance structure most likely results \nin:"
+      },
+      "choices": [
+        "lower cost of debt borrowing.",
+        "less control by management.",
+        "reduced operational efficiency."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because default risks are also mitigated by properly functioning audit \nsystems, transparent and better reporting of earnings, and controlling information \nasymmetries between the company and its capital providers. Lower default risks are \nassociated with better credit ratings for the company and lower costs of debt \nborrowing, given that creditors typically require a lower return when their funds \nare better secured and their rights protected. Thus, an effective corporate \ngovernance structure will result in lower cost of debt borrowing for the company."
+      }
+    },
+    {
+      "id": "dad3db17-051f-4284-9b6c-509e41c84070",
+      "prompt": {
+        "text": "In a corporation, which of the following stakeholder groups is the \nprincipal in a principal–agent relationship?"
+      },
+      "choices": [
+        "Shareholders",
+        "Board of directors",
+        "Senior management"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the relationship between shareholders and \nmanagers/directors is a classic example of a principal–agent relationship, whereby \nshareholders (the principal in this case) elect directors (an agent) who are expected \nto protect their interests by appointing senior managers (another agent) to run the \ncompany."
+      }
+    },
+    {
+      "id": "670d6f92-f6c8-40cc-b5ac-6d92345c7f3c",
+      "prompt": {
+        "text": "Proxy voting is best described as permitting:"
+      },
+      "choices": [
+        "different voting rights for multiple share classes.",
+        "shareholders to cast all of their votes for one board nominee.",
+        "shareholders to vote their shares when absent from meetings."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because proxy voting is a process that enables shareholders who are \nunable to attend a meeting to authorize another individual (for example, another \nshareholder or director) to vote on their behalf."
+      }
+    },
+    {
+      "id": "dd1b28fe-1451-4b43-8987-1fad4ba616c8",
+      "prompt": {
+        "text": "The potential for conflict between debtholders and shareholders is:"
+      },
+      "choices": [
+        "lower for long-term debt than for short-term debt.",
+        "the same for long-term debt and short-term debt.",
+        "higher for long-term debt than for short-term debt."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the potential debt/equity conflict is greater in the case of long-\nterm rather than short-term debt because the passage of time exposes debtholders \nto possible changes in business conditions, strategy, and management behavior."
+      }
+    },
+    {
+      "id": "2ecda700-dffc-4fdd-90d5-4dd60a0f24fd",
+      "prompt": {
+        "text": "Covenants are most likely to exist between a company and its:"
+      },
+      "choices": [
+        "creditors.",
+        "management.",
+        "board of directors."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because to limit bondholders’ risk during the term of a bond (or loan), \nthe bond indenture typically contains covenants, which are the terms and conditions \nof lending agreements, enabling creditors to specify the actions an issuer is obligated \nto perform or prohibited from performing."
+      }
+    },
+    {
+      "id": "dbf88f8d-7121-4190-afe9-dde2be1b0cf8",
+      "prompt": {
+        "text": "The interests of creditors are least likely aligned with the interests of:"
+      },
+      "choices": [
+        "suppliers.",
+        "shareholders.",
+        "long-term customers. \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 3 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the difference in debt versus equity claims gives rise to \npotential conflicts of interest. For example, debtholders with a fixed claim tend to \nbe risk averse and prefer that the corporation take actions to ensure sufficient cash \nflow to meet its debt obligations. For this reason, debtholders tend to prefer that a \ncompany raise more equity and limit shareholder distributions. Shareholders, \nhowever, tend to prefer greater leverage and shareholder distributions rather than \ndilutive equity issuance. This potential conflict is greater for long-term debt, as the \npassage of time exposes debtholders to changes in business conditions, strategy, and \nmanagement behavior. As a result, long -term creditors are more likely to impose \ncontractual limits on leverage and shareholder distributions."
+      }
+    },
+    {
+      "id": "c91c4e7e-d28c-4dc3-b9be-7a2d8cf1e9ee",
+      "prompt": {
+        "text": "Which of the following is most likely a good corporate governance \npractice?"
+      },
+      "choices": [
+        "Disclosing related-party transactions",
+        "Rewarding managers for being more risk-averse than shareholders",
+        "Designing remuneration policies that encourage managers to focus on short-term \nstock performance"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because good corporate governance policies on conflicts of interest and \nrelated-party transactions require directors and managers to disclose any actual or \npotential conflict of interest related to the company, as well as any material interests \nin a transaction that may affect the company. \n \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 7 of 8"
+      }
+    },
+    {
+      "id": "2c778430-6c30-4ca2-9e6f-01bce90fceec",
+      "prompt": {
+        "text": "With respect to corporate governance, which of the following \nrepresents a principal–agent conflict?"
+      },
+      "choices": [
+        "Shareholders and creditors have different investment risk tolerances",
+        "Managers seek to maximize their benefits to the detriment of shareholders’ \ninterests",
+        "Controlling shareholders place their interests ahead of minority shareholders’ \ninterests"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a principal-agent relationship is created when a principal hires \nan agent to perform a particular task or service. The principal-agent relationship \ninvolves obligations, trust, and expectations of loyalty; the agent is expected to act \nin the best interests of the principal. In a company, principal-agent relationships \noften lead to conflicts when managers do not act in the best interests of \nshareholders. The central duty of directors and managers is to act in the best \ninterest of shareholders. Managers may seek to maximize their personal benefits to \nthe detriment of shareholders’ interests."
+      }
+    },
+    {
+      "id": "5cbe19b0-489e-47ed-8b77-d20cc643b557",
+      "prompt": {
+        "text": "Which of the following board committees is most likely responsible for \nrecommending the appointment of an external auditor and proposing its \nremuneration?"
+      },
+      "choices": [
+        "Audit committee",
+        "Nominating committee",
+        "Remuneration committee"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the audit committee is also responsible for recommending the \nappointment of an independent external auditor and proposing its remuneration."
+      }
+    },
+    {
+      "id": "e39783a3-bc16-403c-ac67-30d392eda541",
+      "prompt": {
+        "text": "Managers seeking to retain their jobs by pursuing initiatives they are \nuniquely suited to manage is most likely an example of:"
+      },
+      "choices": [
+        "self-dealing.",
+        "entrenchment.",
+        "empire building."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because entrenchment relates to directors and managers wanting to \nretain their jobs. Tactics to do so include copying competitors and peers, avoiding \nrisks, and pursuing complicated transactions and restructurings that they are \nuniquely suited to manage. Directors may avoid speaking out against management, \neven if speaking out is in the interest of shareholders or other stakeholders."
+      }
+    },
+    {
+      "id": "09c1024c-bd62-46b8-93dd-59132b69ae27",
+      "prompt": {
+        "text": "Which of the following stakeholder groups is most likely to have the \nhighest risk tolerance with respect to the volatility of a company's performance?"
+      },
+      "choices": [
+        "Creditors",
+        "Suppliers",
+        "Shareholders"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because shareholders are the most junior class of capital providers; \nin case of a company bankruptcy, shareholders receive proceeds only after all \ncreditors’ claims are paid. In contrast to creditors and suppliers, shareholders \ngenerally are inclined to tolerate higher risks in return for higher return potential \nfrom strong company performance."
+      }
+    },
+    {
+      "id": "06a04179-02a3-4ba6-aa49-42d499781c5f",
+      "prompt": {
+        "text": "Which of the following is most likely a primary role of a corporate board \nof directors?"
+      },
+      "choices": [
+        "Voting common shares",
+        "Implementing corporate strategy",
+        "Appointing the company’s top managers"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a corporate board has many roles including appointing the top \nmanagement of the company. The board is accountable primarily to shareholders \nand is responsible for the proper governance of the company. The board guides \nmanagers on the company’s strategic direction, oversees and monitors management’s \nactions in implementing the strategy, and evaluates and rewards or disciplines \nmanagement performance. The board also supervises the company’s audit, control, \nand risk management functions and ensures the adoption of proper governance \nsystems and compliance with all applicable laws and regulations."
+      }
+    },
+    {
+      "id": "58d9842e-6be3-4067-8ead-00550c79c10e",
+      "prompt": {
+        "text": "Which of the following features of an executive remuneration plan most \nlikely indicates a misalignment of interests between executives and investors? \nExecutive payouts that:"
+      },
+      "choices": [
+        "consist of only cash and no equity. \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 4 of 8",
+        "are consistent with those of similar companies in the same industry.",
+        "exhibit significant variation over time based on company performance."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because conflicts arise where the interests of a principal and an agent \ndiverge. In practice, compensation is the main tool used to create alignment of \ninterests between management and board directors on the one hand and \nshareholders on the other. In principle, management compensation (which may \ninclude grants of shares and options to purchase shares in the company) is intended \nto motivate managers to work hard to maximize shareholder value. However, the \nalignment of interests between managers and shareholders is rarely perfect. If we \nconsider the typical elements of management compensation, we can identify common \nexamples of misalignment or conflicts. If an executive remuneration plan offers \ncash only, the incentives between management and investors and other stakeholders \nmay be misaligned. \n \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 8 of 8"
+      }
+    },
+    {
+      "id": "9965b5eb-bddc-4377-950a-e363035ce834",
+      "prompt": {
+        "text": "Which of the following board committees is among the three most \ncommonly recommended by corporate governance codes?"
+      },
+      "choices": [
+        "Risk committee",
+        "Creditor committee",
+        "Nominating committee"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the three most common board committees (sometimes referred \nto as “core committees”), recommended by most corporate governance codes and \nrequired by some stock exchanges include Audit Committee, Nominating/Governance \nCommittee and, Compensation/Remuneration Committee."
+      }
+    },
+    {
+      "id": "891f0294-3960-4bf2-b472-4782e82aaa01",
+      "prompt": {
+        "text": "Information asymmetry between managers and shareholders is most \nlikely higher if a company:"
+      },
+      "choices": [
+        "makes products of greater complexity.",
+        "has higher levels of institutional ownership.",
+        "provides more transparent accounting information."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because whereas all companies have a certain level of asymmetric \ninformation, compa nies with comparatively high asymmetry in information include \nthose with complex products. These include high -tech companies, companies with \nlittle transparency in financi al accounting information, and companies with lower \nlevels of institutional ownership. So, companies producing more complex products are \nlikely to have higher levels of  information asymmetry between managers and \nshareholders."
+      }
+    },
+    {
+      "id": "6e3593e8-b691-49ae-9bed-efeab2c69f42",
+      "prompt": {
+        "text": "Which of the following best reflects a misalignment of interests \nbetween managers/directors and shareholders?"
+      },
+      "choices": [
+        "A compensation package relying too little on stock options can motivate \nexcessive risk-taking behavior by management",
+        "When the overall level of board director compensation is low, directors may \navoid speaking out against management in the interest of shareholders",
+        "Management compensation which is high and tied to business size may lead to \nmanagers pursuing acquisitions that might not increase shareholder value"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because when management compensation are high and tied to the size of \nthe business, it can incentivize managers to seek “growth for growth’s sake,” such as \nacquisitions that do not increase shareholder value."
+      }
+    },
+    {
+      "id": "92aa4ad6-81b8-4aab-9379-0ecfc27ae775",
+      "prompt": {
+        "text": "The firm’s governance failures most likely resulted in reduced:"
+      },
+      "choices": [
+        "cost of debt.",
+        "agency costs.",
+        "growth opportunities. \n \n \n \n \n \nSUMMARY: - \n \n(LOS 22.a): - 1, 4, 7, 9, 11, 13, 15, 20, 21. \n(LOS 22.b): - 2, 5, 6, 8, 10, 12, 14, 17, 18, 19. \n(LOS 22.c): - 3, 16, 22. \n \n \n \n \n \n \n \nCorporate Governance: Conflicts, Mechanisms, Risks, and Benefits \nFaculty:                                                                         Page 5 of 8"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The misconduct likely caused reputational damage to Kobe among current \nand prospective customers, which reduces growth opportunities."
+      }
+    }
+  ]
+}

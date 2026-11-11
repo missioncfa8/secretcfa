@@ -1,0 +1,247 @@
+{
+  "title": "Module 62: Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives",
+  "topic": "Derivatives",
+  "module_number": 62,
+  "module_name": "Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives",
+  "year": 2027,
+  "items": [
+    {
+      "id": "cd9e5375-2c15-42ed-8dc6-d215f649c7e2",
+      "prompt": {
+        "text": "The analyst observes a current USD/EUR spot exchange rate of 1.192  (that is, \nUSD1.192 = EUR1), a US dollar risk-free rate of 0.5%, and a euro risk-free rate of –\n0.25%. Which of the following statements describes the action Rook Point can take \ntoday to earn a riskless profit if the one-year USD/EUR forward rate is observed to \nbe 1.201?"
+      },
+      "choices": [
+        "No arbitrage opportunity exists, because the observed one -year USD/EUR FX \nforward rate equals the no -arbitrage rate capturing the net effect of the \ndomestic versus foreign risk-free rate for one year.",
+        "Since the no -arbitrage one -year USD/EUR forward rate is 1.195, Rook Point \nshould borrow in euros and buy US dollars today, simultaneously selling US dollars \nagainst euros one year forward.",
+        "Since the no -arbitrage one -year USD/EUR forward rate is 1.195, Rook Point \nshould borrow in US dollars and buy euros today, simultaneously buying US dollars \nand selling euros one year forward. \n \n \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 2 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Recall from Equation 7 that the spot versus forward relationship for a \nforeign exchange may be shown as follows: \nF 0, f / d (T) = S 0, f / d e(r f – r d) T. \nIn the specific case of USD/EUR, the equation may be rewritten as \nF 0, USD / EUR (T) = S 0, USD / EUR e(r USD – r EUR)T. \nIf S 0 = 1.192, rf = 0.5%, and rd = –0.25%, the no-arbitrage forward price in one \nyear equals 1.201 (= 1.192e(0.005 + 0.0025)) and no riskless profit opportunity exists."
+      }
+    },
+    {
+      "id": "3c3d7872-b8fe-4de9-8c1e-7629c1e92129",
+      "prompt": {
+        "text": "Rook Point has asked the analyst to review the platinum market for investment \nopportunities. The analyst incorporates platinum storage and handling costs of USD1 \nper ounce payable at the end of each quarter and observes a risk-free rate of 1.5%. \nThe following table represents today’s platinum spot and futures prices (per ounce of \nplatinum): \n Observed Futures Prices \nSpot 3-month futures 6-month futures One-year futures \nUSD1,097 USD1,102.09 USD1,107.50 USD1,115.00 \n \nWhich of the following activities  maximizes Rook Point’s riskless profit in the \nplatinum market?"
+      },
+      "choices": [
+        "Sell platinum short in the spot market, and simultaneously buy the one -year \nplatinum futures contract.",
+        "Borrow to purchase and store platinum for six months, and simultaneously sell the \none-year platinum futures contract.",
+        "Sell platinum short in the spot market, and simultaneously buy the three -month \nfutures contract."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. First, solve for the no-arbitrage price for three-month, six-month, and \none-year platinum futures prices using Equation 5 with PV0(I) = 0: \nF 0(T) = [S 0 + PV0(C)](1 + r)T , \nwith S 0 = USD1,097, r = 1.5% and C = USD1 to obtain the following: \n \nF 0(3m) = [USD1,097 + (1.015)–0.25](1.015)0.25. \nUSD1,102.09 = (USD1,097 + 0.9963)(1.015)0.25. \n \nF 0(6m) = [USD1,097 + (1.015)–0.25 + (1.015)–0.5](1.015)0.5. \nUSD1,107.20 = (USD1,097 + 0.9963 + 0.9926)(1.015)0.5. \n \nF 0(1y) = [USD1,097 + (1.015)–0.25 + (1.015)–0.5 + (1.015)–0.75 + (1.015)–1](1.015). \nUSD1,117.48 = (USD1,097 + 0.9963 + 0.9926 + 0.9889 + 0.9852)(1.015)."
+      }
+    },
+    {
+      "id": "0c4703b3-93d8-47ad-994b-1c412c8efbbd",
+      "prompt": {
+        "text": "Rook Point is evaluating Japanese equities with a focus on the Nikkei 225 index. An \nanalyst observes a spot index price of JPY31,000, a six-month Japanese yen risk-\nfree rate of –0.1%, and an index dividend yield of 1.4%. Which of the following \nstatements most accurately describes both the arbitrage opportunity and the \naction Rook Point should take today to earn a riskless profit if the current six-\nmonth index futures price is JPY31,233?"
+      },
+      "choices": [
+        "No arbitrage opportunity exists, because the Nikkei 225 six -month forward \ncommitment price incorporates the net effect of all costs and benefits associated \nwith owning the underlying asset for six months.",
+        "The current Nikkei 225 six -month forward commitment price is above the no -\narbitrage price, so Rook Point should sell the futures contract and sell the index \nshort today, investing the proceeds at the risk-free rate.",
+        "The current Nikkei 225 six -month forward commitment price is above the no -\narbitrage price, so Rook Point should borrow at the risk-free rate to purchase the \nspot index at the spot price and simultaneously sell the futures contract."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Based on the current S 0 of JPY31,000, r = –0.1%, i = 1.4%, and T of 0.5, \nwe may solve for the no -arbitrage forward commitment price in six months as \nJPY30,768.37 (= JPY31,000e [(–0.001 – 0.014) × 0.5]). The observed six-month futures price \nexceeds the no -arbitrage price by JPY464.63 (= JPY31,233 – JPY30,768.37). In \norder to capitalize on this price discrepancy, Rook Point should borrow at the risk -\nfree rate, r, today to purchase the index at the spot price and simultaneously sell the \nfutures contract, using the long cash position to settle the futures at time T. \n \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 6 of 7"
+      }
+    },
+    {
+      "id": "d561ca4f-3af3-401b-976b-97922c1285e0",
+      "prompt": {
+        "text": "In reviewing spot and forward commitment price relationships in commodity \nmarkets, the analyst finds that copper futures prices are below spot prices \nalthough the risk-free interest rate is positive. Which of the following statements \nprovides the most likely explanation for this relationship?"
+      },
+      "choices": [
+        "The cost of storage and other carry costs are greater than the risk -free rate, \ncausing the spot price to rise above the futures price. \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 3 of 7",
+        "The cost of storage and other carry costs are below the risk -free rate, causing \nthe spot price to rise above the futures price.",
+        "The convenience yield benefit is greater than the risk -free interest rate plus \nstorage and other costs."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The copper market is likely exhibiting the effects of the convenience \nyield benefit. If we assume that storage costs are positive (along with interest rates), \nthe cost-of-carry component that would cause the spot price to be above the futures \nprice is the convenience yield. Specifically, the convenience yield benefit would need \nto be greater than the combination of interest and storage costs."
+      }
+    },
+    {
+      "id": "afaf0deb-af6f-4523-bd66-081c4b156574",
+      "prompt": {
+        "text": "For a forward contract with a value of zero, a situation where the spot price is above \nthe forward price is best explained by high:"
+      },
+      "choices": [
+        "interest rates.",
+        "storage costs.",
+        "convenience yield."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If the convenience yield is high, holding the underlying confers large \nbenefits, thus the spot price can exceed the forward price for a forward contract \nwith a value of zero. Based on the formula:  \n \nVt(T) = St – (γ – θ)(1 + r)t – F0(T)(1 + r)–(T–t)  \n \nand an initial value  Vt(0) of zero, large benefits γ explain why the spot price can \nexceed the forward price."
+      }
+    },
+    {
+      "id": "9b7925db-70e8-4aa7-a80e-4edb8a978bac",
+      "prompt": {
+        "text": "If the net cost of carry is zero, the forward price of a commodity is most likely:"
+      },
+      "choices": [
+        "less than the commodity's spot price compounded at the risk-free rate over the \nlife of the contract.",
+        "equal to the commodity's spot price compounded at the risk -free rate over the \nlife of the contract.",
+        "greater than the commodity's spot price compounded at the risk -free rate over \nthe life of the contract."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the forward price of an asset with benefits and/or costs is the \nspot price compounded at the risk-free rate over the life of the contract minus the \nfuture value of those benefits and costs. That is, F0(T) = S0(1+r)T – (γ – θ)(1+r)T, where \nthe net cost of carry consists of the benefits, denoted as γ (dividends or interest \nplus convenience yield), minus the costs, denoted as θ. When net cost of carry is zero, \nthe term (γ – θ) is zero, resulting in  (γ – θ)(1+r)T being zero. Then, F0(T) = S 0(1+r)T. \nHence, the forward price of a commodity is equal to the commodity's spot price \ncompounded at the risk-free rate over the life of the contract when the net cost of \ncarry is zero."
+      }
+    },
+    {
+      "id": "7cc48597-1a37-4ae9-a246-59088fa7f06d",
+      "prompt": {
+        "text": "A stock with a dividend yield of 3% is trading in the spot market at $50. If the annual \nrisk-free rate is 5%, the 6-month forward price of the stock is closest to:"
+      },
+      "choices": [
+        "$49.50.",
+        "$50.50.",
+        "$51.27."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the forward price is: F0(T) = S0e(r – i)T where r is the risk-free \nrate, i is the dividend yield, and T is the time period. \nF0(T) = $50e(0.05 – 0.03)0.5 \n= $50.50251 ≈ $50.50."
+      }
+    },
+    {
+      "id": "2bce9397-5bb6-42e1-a063-2416d7eb9db5",
+      "prompt": {
+        "text": "All else being equal, the cost of carry on a dividend-paying stock is:"
+      },
+      "choices": [
+        "lower than the cost of carry on a stock with no dividends.",
+        "the same as the cost of carry on a stock with no dividends.",
+        "higher than the cost of carry on a stock with no dividends."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the benefit of the dividend reduces the costs associated with \ncarrying the stock. The cost of carry is the net of the costs and benefits related to \nowning an underlying asset for a specific period. The cost of carry is the opportunity \ncost plus other costs of ownership less benefits of ownership, and stock dividends or \nbond coupons are examples of cash flow benefits."
+      }
+    },
+    {
+      "id": "cadb444f-5935-41cb-adb0-787ed1992824",
+      "prompt": {
+        "text": "Which of the following asset classes is most likely to have a convenience yield?"
+      },
+      "choices": [
+        "Commodities",
+        "Interest rates",
+        "Foreign exchange"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because convenience yield is a non-cash benefit associated with physical \nassets. In contrast to securities or cash stored electronically, commodities usually \ninvolve known costs associated with the storage, insurance, transportation, and \npotential spoilage (in the case of soft commodities) of these physical assets. A non -\ncash benefit of holding a physical commodity versus a derivative is known as \na convenience yield. \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 7 of 7"
+      }
+    },
+    {
+      "id": "f86791ee-d9ba-42e6-bc34-f46cbd8d8ae9",
+      "prompt": {
+        "text": "The risk-free rate is 3% and the risk premium for an asset is 2%. If an investor \ncreates a perfect hedge by combining the asset with a derivative, the combined \nposition should earn:"
+      },
+      "choices": [
+        "0%.",
+        "3%.",
+        "5%. \n \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 4 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because when a long position in the underlying is combined with a short \nposition in the derivative to produce a perfect hedge, all of the risk is eliminated \nand the position should earn the risk-free rate which is 3% in this case."
+      }
+    },
+    {
+      "id": "aed7a414-3781-49fe-b5b2-1a0176db83ef",
+      "prompt": {
+        "text": "The rate typically used in derivative pricing models to discount expected payoffs is \nthe:"
+      },
+      "choices": [
+        "risk-free rate.",
+        "risk-free rate plus a risk premium.",
+        "risk-free rate multiplied by the risk-neutral probability."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because virtually all derivative pricing models ultimately take this form: \ndiscounting the expected payoff of the derivative at the risk-free rate."
+      }
+    },
+    {
+      "id": "8662208e-56ba-4829-879b-fd714f3f3e48",
+      "prompt": {
+        "text": "Convenience yield is best described as a nonmonetary benefit of holding a(n):"
+      },
+      "choices": [
+        "asset.",
+        "option contract.",
+        "forward contract."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because convenience yield represents the nonmonetary advantage of \nholding the asset."
+      }
+    },
+    {
+      "id": "b0434e07-dc9b-4ddf-be58-6ac01234f620",
+      "prompt": {
+        "text": "Derivatives are typically priced by forming a hedge involving the underlying asset and \na derivative such that the combination must pay the:"
+      },
+      "choices": [
+        "risk-free rate.",
+        "dividend yield.",
+        "convenience yield."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Derivatives are typically priced by forming a hedge involving \nthe underlying asset and a derivative such that the combination must pay the risk-\nfree rate and do so for only one derivative price."
+      }
+    },
+    {
+      "id": "9f03ed1f-6127-4ba2-9d8b-ecb25f339874",
+      "prompt": {
+        "text": "A perfectly hedged position consisting of a derivative and its underlying asset will \nmost likely yield a return that is:"
+      },
+      "choices": [
+        "equal to the risk-free rate.",
+        "smaller than the risk-free rate.",
+        "greater than the risk-free rate. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nArbitrage, Replication, and the Cost of Carry in Pricing Derivatives \nFaculty:                                                                                    Page 5 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. If a risk -free position earns a return that is different from the risk -\nfree return, arbitrage will lead to the elimination of the mispricing."
+      }
+    }
+  ]
+}

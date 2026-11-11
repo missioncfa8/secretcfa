@@ -1,0 +1,230 @@
+{
+  "title": "Module 22: Business Models",
+  "topic": "Corporate Finance",
+  "module_number": 22,
+  "module_name": "Business Models",
+  "year": 2027,
+  "items": [
+    {
+      "id": "9748c401-5631-4a3c-be1f-e9cf5a1532d7",
+      "prompt": {
+        "text": "The sequence of processes involved in the creation of a product, both \nwithin and external to a firm, including all the steps involved in producing a physical \nproduct and delivering it to the end customer, regardless of whether those steps are \nperformed by a single firm, is referred to as the:"
+      },
+      "choices": [
+        "value chain.",
+        "supply chain.",
+        "business model."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A company’s supply chain is the network or system inside and outside the \ncompany involved in producing a product or service and delivering it to an end user. \nA is incorrect because value chain refers to the systems and processes within a firm \nthat create value for its customers. It is the “how” aspect of a business model. \nC is incorrect because the business model is a description of how a business  works. \nIt includes descriptions of the core customer base, the product or service  that the \nbusiness offers, the key resources and assets the business uses, and the  main \npartners and suppliers of the business."
+      }
+    },
+    {
+      "id": "52a78802-af95-40ac-9a1b-dcbc295eb996",
+      "prompt": {
+        "text": "The sequence of processes involved in the creation of a product, both \nwithin and external to a firm, is best referred to as a:"
+      },
+      "choices": [
+        "value chain.",
+        "supply chain.",
+        "business model."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a supply chain refers to the sequence of processes involved in \nthe creation of a product, both within and external to a firm. A supply chain includes \nall the steps involved in producing and delivering a physical product to the end \ncustomer, regardless of whether those steps are performed by a single firm."
+      }
+    },
+    {
+      "id": "51519667-5257-477c-aeab-59b5bd88afbb",
+      "prompt": {
+        "text": "The business model of a knowledge aggregation company that \nallows its users to contribute directly to online content is best referred to as a:"
+      },
+      "choices": [
+        "platform business model.",
+        "marketplace business model.",
+        "crowdsourcing business model."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because crowdsourcing business models enable users to contribute \ndirectly to a product, service, or online content. Examples include: contests and \ncompetitions; online gaming; product development, such as open source software; \nknowledge aggregation, such as Wikipedia and Waze/Google Maps; fan or hobbyist \nclubs; and networks of tradespersons or professionals."
+      }
+    },
+    {
+      "id": "5505db34-01dc-4791-a54c-457536a45686",
+      "prompt": {
+        "text": "Which of the following pricing models is most likely used when a firm \nwillingly sacrifices margins to build market share?"
+      },
+      "choices": [
+        "Dynamic pricing",
+        "Freemium pricing",
+        "Penetration pricing"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because penetration pricing is an example of discount pricing and is used \nwhen a firm willingly sacrifices margins in order to build scale and market share."
+      }
+    },
+    {
+      "id": "3354041f-4293-4002-96f5-1718514def00",
+      "prompt": {
+        "text": "A company manufacturing and selling a product using someone else's \nbrand name in return for a royalty most likely operates:"
+      },
+      "choices": [
+        "under a franchise model.",
+        "as a contract manufacturer.",
+        "under a licensing arrangement."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a company will produce a product using someone else’s brand \nname in return for a royalty under a licensing arrangement."
+      }
+    },
+    {
+      "id": "c33e8ca8-af1d-4589-b6fc-c11758314ea4",
+      "prompt": {
+        "text": "The flow of finished goods from manufacturer to wholesaler, retailer, \nand finally to the end customer best describes a(n):"
+      },
+      "choices": [
+        "direct sales strategy.",
+        "omnichannel strategy.",
+        "traditional channel strategy."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because, for 'product' businesses, the traditional channel strategy is \ntypically reflected in the flow of finished goods (e.g., from manufacturer to \nwholesaler, retailer, and end customer), each with its own physical facilities and with \nthe product sold and purchased at each stage."
+      }
+    },
+    {
+      "id": "b16d5eae-0d0c-4ab7-8986-785476bdecf1",
+      "prompt": {
+        "text": "When analyzing a company, analysts should:"
+      },
+      "choices": [
+        "ignore the company's business model.",
+        "develop their own understanding of the company's business model.",
+        "rely on management's description of the company's business model.  \nBusiness Models \nFaculty:                                                                         Page 2 of 4"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a clearly described business model helps the analyst understand \na business: how it operates, its strategy, target customers, key partners, prospects, \nrisks, and financial profile. Rather than rely on management’s description of its \nbusiness model, analysts should develop their own understanding."
+      }
+    },
+    {
+      "id": "9470913b-ca02-49ac-b051-f690d3e0bc12",
+      "prompt": {
+        "text": "\"Economic\" profit is best described as the return to a firm's owners:"
+      },
+      "choices": [
+        "in the form of retained earnings and distributions to the owners.",
+        "after corporate taxes and taxes on distributions have been paid.",
+        "in excess of what they could have earned elsewhere on different investments."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because an issuer’s income statement distinguishes between its financial \nincome or net income once fixed obligations have been met and its 'economic' profit, \nor return to a firm’s owners in excess of what they could have earned elsewhere on \ndifferent investments, known as their required rate of return on equity."
+      }
+    },
+    {
+      "id": "2461b8a6-fccf-4f65-8823-81b7cdea3176",
+      "prompt": {
+        "text": "If a corporation is financed with both debt and equity, which of the \nfollowing must the corporation pay?"
+      },
+      "choices": [
+        "Interest only",
+        "Dividends only",
+        "Both interest and dividends"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because debt must be repaid on a pre-specified date in the future with \ninterest. \nBusiness Models \nFaculty:                                                                         Page 4 of 4"
+      }
+    },
+    {
+      "id": "d995a60b-f8e7-4f59-bbb7-d1b2efd121d4",
+      "prompt": {
+        "text": "Charging prices that differ based on product features or volume \npurchased best describes:"
+      },
+      "choices": [
+        "tiered pricing.",
+        "dynamic pricing.",
+        "value-based pricing."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because tiered pricing is charging different prices to different buyers, \noften based on volume purchased but also based on product features (e.g., base \nversus premium trims of vehicles)."
+      }
+    },
+    {
+      "id": "c94f10a0-c28e-4189-957b-5b65bd01c9b5",
+      "prompt": {
+        "text": "Which of the following would most likely be included on a company's \n\"financial\" balance sheet?"
+      },
+      "choices": [
+        "Short-term debt obligations",
+        "Relationships with customers",
+        "Relationships with key suppliers"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because short-term debt is included in a company's financial balance \nsheet."
+      }
+    },
+    {
+      "id": "7d217470-31e9-4b42-a544-a249cc09d38f",
+      "prompt": {
+        "text": "A company that produces goods to be marketed by other firms \nis best described as having a:"
+      },
+      "choices": [
+        "value added reseller business model.",
+        "licensing arrangement business model.",
+        "contract manufacturer business model."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because contract manufacturers produce goods to be marketed by \nothers."
+      }
+    },
+    {
+      "id": "7a94669c-7e47-4076-beb2-7583319c4389",
+      "prompt": {
+        "text": "A pricing approach where a company simultaneously charges different \nprices to different customers based on purchase volume is best referred to as:"
+      },
+      "choices": [
+        "tiered pricing.",
+        "bundled pricing.",
+        "dynamic pricing. \n \n \n \nSUMMARY: - \n(LOS 26.a): - 1, 2, 6, 7, 8, 9, 10,11, 13. \n(LOS 26.b): - 3, 4, 5, 12. \n \n \n \n \nBusiness Models \nFaculty:                                                                         Page 3 of 4"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because economists use the term 'price discrimination' when firms \ncharge different prices to different customers. Tiered pricing charges different \nprices to different buyers, most commonly based on volume purchased."
+      }
+    }
+  ]
+}

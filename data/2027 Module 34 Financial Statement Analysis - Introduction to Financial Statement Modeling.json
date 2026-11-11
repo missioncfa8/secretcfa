@@ -1,0 +1,485 @@
+{
+  "title": "Module 34: Introduction to Financial Statement Modeling",
+  "topic": "Financial Statement Analysis",
+  "module_number": 34,
+  "module_name": "Introduction to Financial Statement Modeling",
+  "year": 2027,
+  "items": [
+    {
+      "id": "28285db3-a4f3-413b-a598-5ebf43ff8b01",
+      "prompt": {
+        "text": "Which profitability metric should French use to assess Archway’s five-year historic \nperformance relative to its competitors?"
+      },
+      "choices": [
+        "Current ratio",
+        "Operating margin",
+        "Return on invested capital"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "“Four years” and “MRR plus 250 bps p.a.” refer, respectively, to which bond features \nas of the settlement date? \nA. Time to maturity and coupon rate \nB. Coupon frequency and current yield \nC. Time to maturity and contingency provision"
+      }
+    },
+    {
+      "id": "6795f79c-f1c9-4e8c-86f5-050a26991798",
+      "prompt": {
+        "text": "Based on the current competitive landscape presented in Exhibit 1, French  should \nconclude that Archway’s ability to:"
+      },
+      "choices": [
+        "pass along price increases is high.",
+        "demand lower input prices from suppliers is low.",
+        "generate above-average returns on invested capital is low."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following statements best describes the source(s) of repayment for  \nthe Antelas AG floating-rate notes? \nA. Since the notes are secured (or backed) by Antelas AG’s assets, the floating-rate \nnotes would be considered asset-backed securities. \nB. The Antelas AG notes rely on the operating cash flows of the firm as their  sole \nsource for interest and principal payments. \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 2 of 5 \n \nC. The Antelas AG notes rely on the operating cash flows of the firm as their primary \nsource for interest and principal payments."
+      }
+    },
+    {
+      "id": "04f1c0b6-4699-49ac-aae2-c9901874508a",
+      "prompt": {
+        "text": "Based on the current competitive landscape presented in Exhibit 1, Archway’s  \noperating profit margins over the forecast horizon are least likely to:"
+      },
+      "choices": [
+        "decrease.",
+        "remain constant.",
+        "increase."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Antelas AG’s issuer -specific credit spread rises by 25 bps p.a. one year after the  \nFRN issuance. Which of the following best describes how Antelas AG’s FRN coupon \nwould change as a result? \nA. Antelas AG’s FRN coupon payment to investors will immediately increase  by 25 \nbps p.a. \nB. Antelas AG’s FRN coupon payment to investors will increase by 25 bps p.a. but will \nnot become effective until the next full debt coupon period begins. \nC. Antelas AG’s FRN coupon will remain unchanged."
+      }
+    },
+    {
+      "id": "6c16f245-c9b5-4e19-b026-99ef4fac1f6f",
+      "prompt": {
+        "text": "Based on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is closest to:"
+      },
+      "choices": [
+        "62.7 percent.",
+        "67.0 percent.",
+        "69.1 percent."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Calculate the value of Antelas’s payment to bondholders on the maturity date if  the \nMRR is 0.25% p.a. for the final interest period. \nA. EUR1,718,750 \nB. EUR251,718,750 \nC. EUR256,875,000"
+      }
+    },
+    {
+      "id": "1269fee3-5164-43c1-a5a3-6724cc882212",
+      "prompt": {
+        "text": "French’s approach to forecasting Archway’s working capital accounts would be  most \nlikely classified as a:"
+      },
+      "choices": [
+        "hybrid approach.",
+        "top-down approach.",
+        "bottom-up approach."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Antelas decides to raise new secured, unsubordinated debt. Which of the following  \nbest describes the priority of payments between the issuer’s new debt and its  \nexisting debt? \nA. Because the Antelas AG notes have a pari passu (or “equal footing”) clause,  this \ndebt obligation will be treated the same as any other secured, unsubordinated  \ndebt from this borrower. \nB. Because the existing debt was issued earlier, it would receive priority over  the \nnew debt in terms of the payment of interest and principal. \nC. We do not have enough information to answer this question; the necessary  \ninformation would be provided in the indenture for new secured, unsubordinated  \nnotes."
+      }
+    },
+    {
+      "id": "0e612603-1495-424e-9ee8-f08c5e008caf",
+      "prompt": {
+        "text": "The most appropriate response to Wright’s question about the technological  \ndevelopment is to:"
+      },
+      "choices": [
+        "increase the required return.",
+        "decrease the perpetual growth rate.",
+        "decrease the price-to-earnings multiple. \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 3 of 15"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which type of fixed -income security is most likely to have coupon payments that \nreset periodically? \nA. Callable bonds \nB. Floating-rate notes \nC. Convertible bonds"
+      }
+    },
+    {
+      "id": "f419ef84-4e02-4f5d-9109-783dc6a9b611",
+      "prompt": {
+        "text": "If the luxury electronic auto equipment industry is subject to rapid technological  \nchanges and market share shifts, how should French best adapt his approach to  \nmodeling?"
+      },
+      "choices": [
+        "Examine base rates",
+        "Forecast multiple scenarios",
+        "Speak to analysts who hold diverse opinions on the stock \n \n \nThe following information relates to questions 8-14 \nGertrude Fromm is a transportation sector analyst at Tucana Investments. She is \nconducting an analysis of Omikroon, N.V., a hypothetical European engineering company \nthat manufactures and sells scooters and commercial trucks. \nOmikroon’s petrol scooter division is the market leader in its sector and has two \ncompetitors. Omikroon’s petrol scooters have a strong brand name and a well-established \ndistribution network. Given the strong branding established by the market leaders, the  \ncost of entering the industry is high. But Fromm anticipates that small, inexpensive, \nimported petrol -fueled motorcycles could become substitutes for Omikroon’s petrol \nscooters. \nFromm uses ROIC as the metric to assess Omikroon’s performance. Omikroon has just \nintroduced the first electric scooter to the market at year -end 2019. The company’s \nexpectations are as follows: \ni. Competing electric scooters will reach the market in 2021. \nii. Electric scooters will not be a substitute for petrol scooters. \niii. The important research costs in 2020 and 2021 will lead to more efficient electric \nscooters. \nFromm decides to use a five -year forecast horizon for Omikroon after considering the \nfollowing three factors: \n1) Factor 1 The annual portfolio turnover at Tucana Investments is 30 percent. \n2) Factor 2 The electronic scooter industry is expected to grow rapidly over the \nnext 10 years. \n3) Factor 3 Omikroon has announced it would acquire a light truck manufacturer that \nwill be fully integrated into its truck division by 2021 and will add 2 percent to \nthe company’s total revenues. \nFromm uses the base case forecast for 2020 shown in Exhibit 1 to perform the following \nsensitivity analysis: \n• The price of an imported specialty metal used for engine parts increases by  20 \npercent. \n• This metal constitutes 4 percent of Omikroon’s cost of sales. \n• Omikroon will not be able to pass on the higher metal expense to its customers. \n \n \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 4 of 15 \n \n \n \n \n \nExhibit 1: Omikroon’s Selected Financial Forecasts for 2020 Base Case (euro millions) \n  \nPetrol Scooter \nDivision \nCommercial Truck \nDivision \nElectric Scooter \nDivision Total \nSales 99.05 45.71 7.62 152.38 \nCost of sales       105.38 \nGross profit       47 \nOperating profit       9.2 \n \nOmikroon will initially outsource its electric scooter parts. But manufacturing these parts \nin-house beginning in 2021 will imply changes to an existing factory.  This factory cost \nEUR7 million three years ago and had an estimated useful life  of 10 years. Fromm is \nevaluating two scenarios: \n• Scenario 1 Refit the existing factory for EUR27 million. \n• Scenario 2 Sell the existing factory for EUR5 million. Build a new factory costing \nEUR30 million with a useful life of 10 years."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "David Smith purchased a mortgage-backed security with a coupon rate of 8% and a \npar value of $1,000 for $960. Coupon payments are made monthly. The monthly \ninterest payment is closest to: \nA. $6.67. \nB. $6.40. \nC. $6.94. \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 3 of 5"
+      }
+    },
+    {
+      "id": "d9b49a65-53d1-45fd-88be-3e076f1f1754",
+      "prompt": {
+        "text": "Using Porter’s five forces analysis, which of the following competitive factors is most \nlikely to have the greatest impact on Omikroon’s petrol scooter pricing power?"
+      },
+      "choices": [
+        "Rivalry",
+        "Threat of substitutes",
+        "Threat of new entrants"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following is most likely a negative covenant? \nA. The issuer must comply with all laws and regulations. \nB. The issuance of new debt must be junior to existing bondholder debt. \nC. New debt obligations are treated the same as the borrower’s other senior debt \ninstruments."
+      }
+    },
+    {
+      "id": "874365c5-cd2d-4169-891d-608a6d477387",
+      "prompt": {
+        "text": "The metric used by Fromm to assess Omikroon’s performance incorporates:"
+      },
+      "choices": [
+        "the degree of financial leverage.",
+        "operating liabilities relative to operating assets.",
+        "the firm’s competitiveness relative to companies in other tax regimes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A 2-year treasury note is best classified as a(n): \nA. asset-backed security. \nB. capital market security. \nC. money market security."
+      }
+    },
+    {
+      "id": "c3335f08-f85d-4b50-88b9-d521fffe0fd0",
+      "prompt": {
+        "text": "Based on Omikroon’s expectations, the gross profit margin of Omikroon’s electric  \nscooter division in 2021 is most likely to be affected by:"
+      },
+      "choices": [
+        "competition.",
+        "research costs.",
+        "cannibalization by petrol scooters."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following is most likely a zero-coupon bond? A bond with a par value of \n£1,000 that was issued in a positive yield market at: \nA. £920. \nB. £1,000. \nC. £1,100."
+      }
+    },
+    {
+      "id": "a4a4fc67-0dda-4b85-a28f-cf51521eb745",
+      "prompt": {
+        "text": "Which factor best justifies the five-year forecast horizon for Omikroon selected by \nFromm?"
+      },
+      "choices": [
+        "Factor 1",
+        "Factor 2",
+        "Factor 3 \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 5 of 15"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "An analyst reviews a corporate bond indenture that contains these two covenants: \nThe borrower will pay interest semiannually and principal at maturity. \nThe borrower will not incur additional debt if its debt -to-capital ratio is more than \n50%. \nWhat types of covenants are these? \nA. Both are affirmative covenants. \nB. Covenant 1 is affirmative, and Covenant 2 is negative. \nC. Covenant 1 is negative, and Covenant 2 is affirmative. \n \n \n  \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 4 of 5"
+      }
+    },
+    {
+      "id": "9816634c-f65f-4120-8c88-36b6331ad6e3",
+      "prompt": {
+        "text": "Fromm’s sensitivity analysis will result in a decrease in the 2020 base case gross  \nprofit margin closest to:"
+      },
+      "choices": [
+        "0.55 percent.",
+        "0.80 percent.",
+        "3.32 percent."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The sensitivity analysis consists of an increase of 20 percent in the  \nprice of an input that constitutes 4 percent of cost of sales. Change in gross profit  \nmargin because of that increase is calculated as the change in cost of sales because \nof price increase divided by sales: \n= (Cost of sales × 0.04 × 0.2)/Sales \n= (105.38 × 0.04 × 0.2)/152.38 \n= 0.0055 or 0.55%"
+      }
+    },
+    {
+      "id": "3012b050-f695-4036-8254-9910a70db3cc",
+      "prompt": {
+        "text": "Fromm’s estimate of growth capital expenditures included in Omikroon’s PP&E under \nScenario 1 should be:"
+      },
+      "choices": [
+        "lower than under Scenario 2.",
+        "the same as under Scenario 2.",
+        "higher than under Scenario 2."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. In Scenario 1, growth capital expenditures of EUR27 million for the refit \nof the existing idle factory is higher than the growth capital expenditures in Scenario \n2 of EUR25 million. The EUR25 million is the cost of building a new factory for EUR30 \nmillion less the proceeds from the sale of the existing idle factory of EUR5 million."
+      }
+    },
+    {
+      "id": "b87d8ad3-8763-4e39-a12c-63cca73df0ae",
+      "prompt": {
+        "text": "To validate the forecast for rapid growth in the electronic scooter market over the \nnext 10 years, Fromm speaks to the management of Omikroon and investor relations \nof ZeroWheel, a competitor. Which behavioral bias is Fromm most likely subject to?"
+      },
+      "choices": [
+        "Confirmation",
+        "Conservatism",
+        "Overconfidence \n \nThe following information relates to questions 15-21 \nAngela Green, an investment manager at Horizon Investments, intends to hire a  new \ninvestment analyst. After conducting initial interviews, Green has narrowed  the pool to \nthree candidates. She plans to conduct second interviews to further  assess the \ncandidates’ knowledge of industry and company analysis.  \nPrior to the second interviews, Green asks the candidates to analyze Chrome  Network \nSystems, a company that manufactures internet networking products. Each candidate is \nprovided Chrome’s financial information presented in Exhibit 1. \n \nExhibit 1 : Chrome Network Systems Selected Financial Information (US dollar \nmillions) \n  Year-End \n  2017 2018 2019 \nNet sales 46.8 50.5 53.9 \nCost of sales 18.2 18.4 18.8 \nGross profit 28.6 32.1 35.1 \nSG&A expenses 19.3 22.5 25.1 \nOperating income 9.3 9.6 10 \nInterest expense 0.5 0.7 0.6 \nIncome before provision for income tax 8.8 8.9 9.4 \nProvision for income taxes 2.8 2.8 3.1 \nNet income 6 6.1 6.3 \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 6 of 15 \n \n \nGreen asks each candidate to forecast the 2020 income statement for Chrome and to \noutline the key assumptions used in their analysis. The job candidates are told to include \nHorizon’s economic outlook for 2020 in their analysis, which assumes nominal GDP growth \nof 3.6 percent, based on expectations of real GDP growth of 1.6 percent and inflation of"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The management of Omikroon and investor relations of ZeroWheel are \nalmost certainly biased in favor of expecting strong growth for the markets they \nparticipate in. To evaluate the forecast, Fromm should seek more independent \nsources and balance the biased sources with sources biased in the opposite direction \nor an analyst who is more skeptical."
+      }
+    },
+    {
+      "id": "f07e5a41-c3b0-4e01-9c16-d56d94f29d92",
+      "prompt": {
+        "text": "Based on Exhibit 1, which of the following provides the strongest evidence that \nChrome displays economies of scale?"
+      },
+      "choices": [
+        "Increasing net sales",
+        "Profit margins that are increasing with net sales",
+        "Gross profit margins that are increasing with net sales"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Economies of scale are a situation in which average costs decrease with \nincreasing sales volume. Chrome’s gross margins have been increasing with net sales. \nGross margins that increase with sales levels provide evidence of economies of scale, \nassuming that higher levels of sales reflect increased unit sales. Gross margin more \ndirectly reflects the cost of sales than does profit margin. \nMetric 2017 2018 2019 \nNet sales $46.8 $50.5 $53.9 \nGross profit 28.6 32.1 35.1 \nGross margin (gross profit/net sales) 61.11% 63.56% 65.12%"
+      }
+    },
+    {
+      "id": "4193dc2b-9dd4-44c4-bdc9-264342bc11f9",
+      "prompt": {
+        "text": "Based on Exhibit 2, the job candidate most likely using a bottom-up approach to model \nnet sales is:"
+      },
+      "choices": [
+        "Candidate A.",
+        "Candidate B.",
+        "Candidate C."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A bottom-up approach for developing inputs to equity valuation models \nbegins at the level of the individual company or a unit within the company. By modeling \nnet sales using the average annual growth rate, Candidate A is using a bottom -up \napproach. B and C are incorrect because both Candidate B and Candidate C are using \na top-down approach, which begins at the level of the overall economy. \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 13 of 15"
+      }
+    },
+    {
+      "id": "ccf8078c-22b6-493a-899c-86d346e9ec3a",
+      "prompt": {
+        "text": "Based on Exhibit 2, the modeling approach used by Candidate B to project future net \nsales is most accurately classified as a:"
+      },
+      "choices": [
+        "hybrid approach.",
+        "top-down approach.",
+        "bottom-up approach."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A top-down approach usually begins at the level of the overall economy. \nCandidate B assumes industry sales will grow at the same rate as nominal GDP but \nthat Chrome will have a 2 -percentage-point decline in market share. A and C are \nincorrect because Candidate B is not using any elements of a bottom -up approach; \ntherefore, a hybrid approach is not being employed."
+      }
+    },
+    {
+      "id": "5cb14daf-9bac-4ca1-bfea-e0b65077b210",
+      "prompt": {
+        "text": "Based on Exhibits 1 and 2, Candidate C’s forecast for cost of sales in 2020 is closest \nto:"
+      },
+      "choices": [
+        "USD18.3 million.",
+        "USD18.9 million.",
+        "USD19.3 million."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Candidate C assumes that the 2020 gross margin will increase by 20 bps \nfrom 2019 and that net sales will grow at 50 bps slower than nominal GDP (nominal \nGDP = Real GDP + Inflation = 1.6% + 2.0% = 3.6%). Accordingly, the 2020 forecasted \ncost of sales is USD19.27 million, rounded to USD19.3 million. \nMetric Calculation Result \n2020 gross margin = 2019 \ngm + 20 bps \nUSD35.1/USD53.9 = 65.12% + \n0.20% = \n65.32% \n2020 CoS/net sales = 100% \n– gross margin \n100% – 65.32% = 34.68% \n2020 net sales = 2019 net \nsales × (1 + Nominal GDP – \n0.50%) \nUSD53.9 million × (1 + 0.036 – \n0.005) = USD53.9 million × 1.031 = \nUSD55.57 \nmillion \n2020 cost of sales = 2020 \nnet sales × CoS/net sales \nUSD55.57 × 34.68% = USD19.27 \nmillion"
+      }
+    },
+    {
+      "id": "860ae3ea-264f-4925-ba85-44988c21e463",
+      "prompt": {
+        "text": "Based on Exhibits 1 and 2, Candidate A’s forecast for SG&A expenses in 2020 is  \nclosest to:"
+      },
+      "choices": [
+        "USD23.8 million.",
+        "USD25.5 million.",
+        "USD27.4 million."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Candidate A assumes that the 2020 SG&A/net sales will be the same as \nthe average SG&A/net sales over the 2017–19 time period and that net sales will grow \nat the annual average growth rate in net sales over the 2017 –19 time period. \nAccordingly, the 2020 forecasted SG&A expenses are USD25.5 million. \nAverage SG&A/net sales, 2017–2019* (41.24% + 44.55% + \n46.57%)/3 = \n44.12% \nAverage annual growth sales in net sales, \n2017–2019** \n(7.91% + 6.73%)/2 = 7.32% \n2020 net sales = 2019 net sales × (1 + \nAverage annual growth rate in net sales) \nUSD53.9 million × 1.0732 = $57.85 \nmillion \n2020 SG&A = 2020 net sales × Average \nSG&A/net sales \nUSD57.85 million × 44.12% \n= \n$25.52 \nmillion \n  \n2017 2018 2019 \nNet Sales USD46.8 USD50.5 USD53.9 \nSG&A expenses USD19.3 USD22.5 USD25.1 \nSG&A-to-sales ratio 41.24% 44.55% 46.57% \n \nYear Calculation \n2018 (USD50.5/USD46.8) – 1 = 7.91% \n2019 (USD53.9/USD50.5) – 1 = 6.73% \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 14 of 15"
+      }
+    },
+    {
+      "id": "ec9cc3d6-41b6-4271-8659-a8e9503d0080",
+      "prompt": {
+        "text": "Based on Exhibit 2, forecasted interest expense will reflect changes in Chrome’s debt \nlevel under the forecast assumptions used by:"
+      },
+      "choices": [
+        "Candidate A.",
+        "Candidate B.",
+        "Candidate C."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. In forecasting financing costs, such as interest expense, the debt/ \nequity structure of a company is a key determinant. Accordingly, a method that \nrecognizes the relationship between the income statement account (interest \nexpense) and the bal ance sheet account (debt) would be a preferable method for \nforecasting interest expense when compared with methods that forecast based \nsolely on the income statement account. By using the effective interest rate (interest \nexpense divided by average gross d ebt), Candidate A is taking the debt/equity \nstructure into account. B and C are incorrect because Candidate B (who forecasts \n2020 interest expense to be the same as 2019 interest expense) and Candidate C \n(who forecasts 2020 interest expense to be the same as the 2017 –19 average \ninterest expense) are not taking the balance sheet into consideration."
+      }
+    },
+    {
+      "id": "69d62d45-ecdf-4832-9f81-13c28c08410c",
+      "prompt": {
+        "text": "Candidate B asks Green if she had additional information on Horizon’s industry peers \nand competitors, to put the profitability estimates in a richer context. By asking for \nthis additional information for their analysis, Candidate B is most likely  seeking to \nmitigate which behavioral bias?"
+      },
+      "choices": [
+        "Conservatism",
+        "Base rate neglect \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 8 of 15",
+        "illusion of control"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Base rates refer to attributes of a reference class and base rate neglect \nis ignoring such class information in favor of specific information. By incorporating \nindustry data, Candidate B is seeking to mitigate this behavioral bias."
+      }
+    },
+    {
+      "id": "e15b2cc7-ac6d-452e-a068-dc7af93ee7b8",
+      "prompt": {
+        "text": "In the Porter's five forces framework, a company is most likely to have the greatest \nprofitability if:"
+      },
+      "choices": [
+        "the threat of substitutes is low and the bargaining power of buyers is low.",
+        "the threat of substitutes is low and the bargaining power of buyers is high.",
+        "the threat of substitutes is high and the bargaining power of buyers is low."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because both a low availability of substitutes and low bargaining power \nof buyers would improve a company's pricing power."
+      }
+    },
+    {
+      "id": "ebd1a507-7ddd-4261-985b-ce20292712b5",
+      "prompt": {
+        "text": "Maintaining prior views or forecasts by inadequately incorporating new information \nbest describes:"
+      },
+      "choices": [
+        "conservatism bias.",
+        "overconfidence bias.",
+        "representativeness bias."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because conservatism bias is a bias in which people maintain their prior \nviews or forecasts by inadequately incorporating new information."
+      }
+    },
+    {
+      "id": "8767da91-639e-408b-a65f-6039110dccdd",
+      "prompt": {
+        "text": "For a company in a cyclical industry, normalized earnings are best described as:"
+      },
+      "choices": [
+        "current earnings that include the impact of acquisitions.",
+        "mid-cycle earnings in the absence of temporary factors.",
+        "earnings from the peak years excluding temporary factors."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because normalized earnings are the expected level of mid-cycle earnings \nfor a company in the absence of any unusual or temporary factors that affect \nprofitability."
+      }
+    },
+    {
+      "id": "4207590d-0235-4906-b9b3-3bff41572b8c",
+      "prompt": {
+        "text": "Porter's five forces analysis is used to estimate a company's future profit margin \nrelative to:"
+      },
+      "choices": [
+        "only its competitors.",
+        "only its historic margins.",
+        "both its competitors and its historic margins."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Porter’s five forces framework and similar analytical tools can \nhelp analysts assess the relative profit potential of a company by helping them \nunderstand the company’s industry and its position within that industry. \nUnderstanding the industry and competitive contexts of a company helps analysts \nestimate whether, for example, sales growth is likely to be relatively high or low \n(relative to history, relative to the overall growth in the economy or a sector, and/or \nrelative to competing c ompanies) and whether profit margins are likely to be \nrelatively high or low (relative to historical profit margins and relative to competing \ncompanies)."
+      }
+    },
+    {
+      "id": "12b28ca1-04df-4e0a-970a-65ac37e29b18",
+      "prompt": {
+        "text": "An analyst uses the following information to forecast a company's gross profit \nmargin: \n  Current Amount (in $ millions) Forecasted Growth  \nSales 1,200 8% \nCost of sales 300 4% \n \nThe analyst's forecasted gross profit margin should be closest to a(n):"
+      },
+      "choices": [
+        "decrease of 1%.",
+        "increase of 1%.",
+        "increase of 4%"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the gross profit for the current year is 900 (=1,200 – 300), \ntherefore the current gross profit margin is 75%.  If sales increase by 8% (to 1,296) \nand cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (= 1,296 \n– 312), and the forecasted gross profit margin is 75.9%.  This is an increase of \napproximately 1% (= 75.9% – 75%). \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 15 of 15"
+      }
+    },
+    {
+      "id": "83063d5a-3a5f-4ea4-addf-fbb4977802db",
+      "prompt": {
+        "text": "If the price elasticity of demand for a product is 0.8 and its unit cost remains \nconstant, a 10% increase in its selling price will most likely result in:"
+      },
+      "choices": [
+        "no change in cost of sales.",
+        "a decrease in volume of 8%.",
+        "an increase in revenue of 8%. \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 9 of 15"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the impact of higher prices on volume depends on the price \nelasticity of demand (i.e., how the quantity demanded varies with price).  Price \nelasticity of demand gives the impact to volume, and not total revenues, for a given \nlevel of p rice increases.  Furthermore, Analyst A expects price elasticity of 0.8, \nindicating that volume will fall by 8 percent given the 10 percent retail price increase."
+      }
+    },
+    {
+      "id": "eeb601c6-4ba7-493e-888e-6ca56739d804",
+      "prompt": {
+        "text": "All else being equal, forecasting an increase in which of the following will most likely \nincrease forecasted EPS for a company?"
+      },
+      "choices": [
+        "Share repurchases",
+        "Secondary stock issuances",
+        "Equity-based compensation of employees \n \n  \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 10 of 15"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because share repurchases decrease the number of shares outstanding.  \nA decrease in the number of shares outstanding will raise the EPS all things being \nequal. \n \nFixed-Income Instrument Features \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose. \n \nThe following information relates to questions 1-5 \nAntelas AG is a German emerging technology company focused on manufacturing process \ndesign. The firm has developed several valuable patents related  to micromachining and \nmetal 3D printing technology and derives its revenue  through licensing royalties and \nconsultation services. Antelas recently issued the following debt instrument: \nAntelas AG Four-Year Floating-Rate Notes (The “Notes”) \n \nProspectus Summary \nIssuer: Antelas AG \nSettlement Date: [T + 5 Business Days] \nMaturity Date: [Four Years from Settlement Date] \nPrincipal Amount: EUR250 million \nInterest: MRR plus 250 bps p.a. \nInterest \nPayment: \nCommencing three months from [Settlement Date] to be paid \nquarterly with final payment on [Maturity Date] \nSeniority: The Notes are secured and unsubordinated obligations of Antelas \nAG and will rank pari passu with all other secured and \nunsubordinated indebtedness. \nBusiness Days: Frankfurt"
+      }
+    }
+  ]
+}

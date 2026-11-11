@@ -1,0 +1,26 @@
+{
+  "title": "Module 69: Alternative Investment Features, Methods, and Structures",
+  "topic": "Alternative Investments",
+  "module_number": 69,
+  "module_name": "Alternative Investment Features, Methods, and Structures",
+  "year": 2027,
+  "items": [
+    {
+      "id": "525d5c07-3897-41e1-8e45-c161e4b289ea",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Alternative Investment Features, Methods, and Structures."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Alternative Investment Features, Methods, and Structures available in the official 2027 curriculum."
+      }
+    }
+  ]
+}

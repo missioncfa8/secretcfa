@@ -1,0 +1,264 @@
+{
+  "title": "Module 27: Analyzing Statements of Cash Flows II",
+  "topic": "Financial Statement Analysis",
+  "module_number": 27,
+  "module_name": "Analyzing Statements of Cash Flows II",
+  "year": 2027,
+  "items": [
+    {
+      "id": "53169da2-870b-45e1-8222-9e1effd46be4",
+      "prompt": {
+        "text": "One appropriate method of preparing a common-size cash flow statement is to show \neach line item:"
+      },
+      "choices": [
+        "of revenue and expense as a percentage of net revenue.",
+        "on the cash flow statement as a percentage of net revenue.",
+        "on the cash flow statement as a percentage of total cash outflows."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. An appropriate method to prepare a common -size cash flow statement \nis to show each line item on the cash flow statement as a percentage of net revenue. \nAn alternative way to prepare a statement of cash flows is to show each item of cash \ninflow as a percentage of total inflows and each item of cash outflows as a percentage \nof total outflows."
+      }
+    },
+    {
+      "id": "c9ce899a-036b-463c-a417-12d293d4d5b0",
+      "prompt": {
+        "text": "Which of the following is an appropriate method of computing free cash flow to the \nfirm?"
+      },
+      "choices": [
+        "Add operating cash flows to capital expenditures and deduct after -tax interest \npayments.",
+        "Add operating cash flows to after -tax interest payments and deduct capital  \nexpenditures.",
+        "Deduct both after -tax interest payments and capital expenditures from  \noperating cash flows."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Free cash flow to the firm can be computed as operating cash flows plus \nafter-tax interest expense less capital expenditures."
+      }
+    },
+    {
+      "id": "9433dfa5-3274-46d1-82d9-057a1aac763d",
+      "prompt": {
+        "text": "The first step in cash flow statement analysis should be to:"
+      },
+      "choices": [
+        "evaluate consistency of cash flows.",
+        "determine operating cash flow drivers.",
+        "identify the major sources and uses of cash."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. An overall assessment of the major sources and uses of cash should be \nthe first step in evaluating a cash flow statement."
+      }
+    },
+    {
+      "id": "99ff3a97-a14e-4408-a35a-f8700785e9d7",
+      "prompt": {
+        "text": "An analyst has calculated a ratio using as the numerator the sum of operating  cash \nflow, interest, and taxes and as the denominator the amount of interest. What is this \nratio, what does it measure, and what does it indicate?"
+      },
+      "choices": [
+        "This ratio is an interest coverage ratio, measuring a company’s ability to meet its \ninterest obligations and indicating a company’s solvency.",
+        "This ratio is an effective tax ratio, measuring the amount of a company’s operating \ncash flow used for taxes and indicating a company’s efficiency in tax management.",
+        "This ratio is an operating profitability ratio, measuring the operating cash  flow \ngenerated accounting for taxes and interest and indicating a company’s liquidity. \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 2 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. This ratio is an interest coverage ratio, measuring a company’s ability to \nmeet its interest obligations and indicating a company’s solvency. This coverage ratio \nis based on cash flow information; another common formulation of  the interest \ncoverage ratio uses EBITDA based on the income statement as the numerator."
+      }
+    },
+    {
+      "id": "dbd1d119-c5c3-4786-b5fb-68fec377d925",
+      "prompt": {
+        "text": "The following partial common -size cash flow statement and coverage ratio \ninformation is available for a company: \nCash Flow Statement for the Year Ended 31 December of Year 2 \n Percentage of Net Revenues \n  Year 2 \nCash flows from operating activities   \n   Cash received from customers 118.70% \n   Cash paid to suppliers and employees -81.4 \n   Dividends received 0.2 \n   Net interest and other financial expenses paid -3.8 \n   Taxes paid -5.2 \n   Net cash from operating activities 28.5 \n    \n   Cash paid for long-term assets -13.4 \n   Other investing activities -3.1 \n   Net cash used in investing activities -16.5 \n    \n   Dividends paid -8.5 \n   Other financing activities 3.8 \n   Net cash flow used in financing activities -4.7 \n    \n   Net change in cash 7.30% \n \nCash Flow Coverage Ratios \n  Year 1 \nDividend payment 3.69 \nInvesting and financing 0.82 \nReinvestment 2.18 \n \nCompared with Year 1, the most appropriate conclusion an analyst can make about \nYear 2 is that the company’s ability to use operating cash flows to:"
+      },
+      "choices": [
+        "acquire assets improved.",
+        "pay dividends decreased.",
+        "acquire assets, pay debts, and make distributions to owners decreased. \n \n \n \n \n \n \n \n \n \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 3 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The company’s dividend payment coverage ratio worsened; therefore, \nthe company was less able to pay dividends from operating cash flows. Calculations  \nare as follows: \nCoverage Ratio Definition and Calculation Year 2 Year 1 Interpretation \nDividend \npayment \nCash flow from operations \n÷ Dividends paid 3.35 3.69 \nAbility to pay \ndividends \ndecreased \n  28.5 ÷ 8.5 =    \nInvesting and \nfinancing \nCash flow from operations \n÷ Cash outflows for \ninvesting and financing \n1.34 0.82 \nAbility to acquire \nassets, pay debts \nand make \ndistributions \nimproved \n  28.5 ÷ (16.5 + 4.7) =    \nReinvestment \nCash flow from operations \n÷ Cash paid for long term \nassets \n2.13 2.18 Ability to acquire \nassets decreased \n  28.5 ÷ 13.4 ="
+      }
+    },
+    {
+      "id": "17e60afd-dfe8-4bdd-b4ae-70dd4353475e",
+      "prompt": {
+        "text": "The following common-size cash flow statement is available for a company: \nCash Flow Statement for the Years Ended 31 December \nInflows \nPercentage of Total \nInflows \n2016 2015 \nCash received from customers 88.1 97.4 \nProceeds from disposal of property, plant, and equipment 0.3 0.3 \nProceeds from issuance of bonds 11.6 2.3 \nTotal 100.0 100.0 \nOutflows \nPercentage of Total \nOutflows \n2016 2015 \nCash paid to suppliers and employees 71.0 70.7 \nPayments for investments in property, plant, and equipment 10.5 10.6 \nPayments made for financial instruments not included under \ncash equivalents \n2.0 0.2 \nPayments for investments in companies, net of cash and cash \nequivalents \n0.1 2.9 \nTransactions with equity holders 8.8 9.0 \nRepayments of loans, borrowings, and promissory notes 7.6 6.6 \nTotal 100.0 100.0 \n \nCompared with 2015, which of the following statements about 2016 is most accurate? \nThe company:"
+      },
+      "choices": [
+        "had a positive net operating cash flow.",
+        "directed a larger portion of cash outflows to investing activities.",
+        "relied more heavily on financing activities to generate cash inflows."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The cash inflows from financing activities in 2016 are 11.6% from bonds, \nwhich is greater than the 2.3% in 2015. Therefore, the company did rely more heavily \non financing activities to generate cash inflows in 2016. Because the actual total \ninflows and outflows are not known, the relative size of the inflows and outflows from \neach activity cannot be compared on an absolute basis. Therefore, it is not possible \nto conclude whether operating cash flows were positive or negative. Investing \noutflows includes payments on PP&E, financial instruments, and investments in other \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 7 of 8 \n \ncompanies. For 2016, this calculation is 10.5 + 2.0 + 1.1 = 13.6%, and for 2015, it is \n10.6 + 0.2 + 2.9 = 13.7%. Therefore, the portion of outflows spent on investing \nactivities decreased."
+      }
+    },
+    {
+      "id": "9ffd79ad-35da-4443-baf5-efcb8a0229a1",
+      "prompt": {
+        "text": "A firm reported the following financial statement items: \n  € millions \nNet income 2,100 \nNon-cash charges 400 \nInterest expense 300 \nCapital expenditures 210 \nWorking capital expenditures 0 \nNet borrowing 1,600 \nTax rate 40% \n \nThe free cash flow to the firm (FCFF) is closest to:"
+      },
+      "choices": [
+        "€2,110.",
+        "€2,470.",
+        "€2,590. \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 4 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct.  \nFCFF = NI + NCC + Int(1 – t) – FCInv – WCInv \n Cash Flow Item  Amount (€ millions) \nNI Net income \n \n2,100 \nNCC Plus non-cash charges \n \n400 \nInt(1 – t) Plus interest expense (1 – tax rate) 300 (1 – 0.40) 180 \nFCInv Less capital expenditures \n \n-210 \nWCInv Less working capital expenditures \n \n0 \nFCFF Free cash flow to the firm \n \n€ 2,470"
+      }
+    },
+    {
+      "id": "37f6ff40-26d5-4df2-991f-0b31694358cf",
+      "prompt": {
+        "text": "The following financial statement data are available for a company: \nMetric $ thousands \nOperating income 3,390 \nNet income 2,210 \nOperating assets 3,850 \nChange in cash and cash equivalents 1,010 \nChange in cash from operating activities 1,750 \nFree cash flow to the firm 2,240 \n \nThe company’s cash-to-income ratio is closest to:"
+      },
+      "choices": [
+        "0.79.",
+        "0.66.",
+        "0.52."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nCash to income = Cash flow from operating activities (CFO)/Operating income \n = (1,750/3,390) \n = 0.52"
+      }
+    },
+    {
+      "id": "2fdf13a1-2484-4b22-a355-90839038be09",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company: \nCash flow from operating activities 80 \nCapital expenditures 15 \nInterest paid and expensed 10 \n \nIf interest paid is classified as a cash flow from operating activities and the income \ntax rate is 20%, FCFF (in € thousands) is:"
+      },
+      "choices": [
+        "57.",
+        "65.",
+        "73."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is c orrect because FCFF can also be computed from cash flow from operating \nactivities as FCFF = CFO + Int(1 – Tax rate) – FCInv. CFO represents cash flow from \noperating activities under US GAAP or under IFRS where the company has included \ninterest paid in oper ating activities. Accordingly, FCFF = CFO + Int(1 – Tax rate) – \nFCInv; or = 80 + [10 × (1 – 0.20)] – 15 = 80 + 8 – 15 = 73."
+      }
+    },
+    {
+      "id": "546b91bb-641d-4cfc-a807-64dac9bc5437",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ thousands) about a company: \nFCFF 2,500 \nFCFE 1,300 \nInterest paid 260 \n \nIf interest paid is classified as a cash flow from operating activities and the income \ntax rate is 40%, net debt repayment (in £ thousands) is closest to:"
+      },
+      "choices": [
+        "940.",
+        "1,044.",
+        "1,200."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because FCFF = Cash flow from operating activities (“CFO”) + Interest \npaid (1 – Tax rate) – Capital expenditures (“FCInv”). In addition, FCFE = CFO – FCInv \n– Net debt repayment. \n \nRearranging FCFF: CFO – FCInv = FCFF – Interest paid (1 – Tax rate) \nRearranging FCFE: CFO – FCInv = FCFE + Net debt repayment \n \nTherefore: FCFF – Interest paid (1 – Tax rate) = FCFE + Net debt repayment; or = \n2,500 – [260 × (1 – 40%)] = 1,300 + Net debt repayment; or 2,344 = 1,300 + Net debt \nrepayment \nTherefore, Net debt repayment = 2,344 – 1,300 = 1,044."
+      }
+    },
+    {
+      "id": "b306fb33-2302-4c6b-8476-96b71675f25b",
+      "prompt": {
+        "text": "In a common-size analysis of the cash flow statement, each line item of cash inflow \nmay be stated as a percentage of:"
+      },
+      "choices": [
+        "total assets.",
+        "net revenue.",
+        "net cash flow. \n \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 5 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect because for the common -size cash flow statement, there are two \nalternative approaches. The first approach is to express each line item of cash inflow \n(outflow) as a percentage of total inflows (outflows) of cash, and the second approach \nis to express each line item as a percentage of net revenue."
+      }
+    },
+    {
+      "id": "24ed3309-7d36-4c06-86fc-2da48d07e4ba",
+      "prompt": {
+        "text": "For a mature company, the primary source of cash flows is most likely from:"
+      },
+      "choices": [
+        "operating activities.",
+        "investing activities.",
+        "financing activities."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the major sources of cash for a company can vary with its stage \nof growth. For a mature company, it is expected and desirable that operating \nactivities are the primary source of cash flows. Over the long term, a company must \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 8 of 8 \n \ngenerate cash from its operating activities. If operating cash flow were consistently \nnegative, a company would need to borrow money or issue stock (financing activities) \nto fund the shortfall. Eventually, these providers of capital need to be repaid from \noperations or they will no longer be willing to provide capital."
+      }
+    },
+    {
+      "id": "fae4573c-29f7-4acb-a057-4665afe2fa45",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nNet cash flow from operating activities (750) \nTotal cash inflows 1,500 \nTotal cash outflows 2,500 \nNet increase (decrease) in cash (1,000) \n \nOn a common-size statement of cash flows presented using the indirect method, net \noperating cash flow is:"
+      },
+      "choices": [
+        "30%.",
+        "50%.",
+        "75%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect because when a cash flow statement has been presented using the \nindirect method, operating cash inflows and outflows are not separately presented; \ntherefore, the common-size cash flow statement shows only the net operating cash \nflow (net cash provid ed by or used in operating activities) as a percentage of total \ninflows or outflows, depending on whether the net amount was a cash inflow or \noutflow. Because the net amount is an outflow, it should be calculated as a percentage \nof total cash outflows as follows: 750/2500 = 30%."
+      }
+    },
+    {
+      "id": "029b40a7-59d3-437b-8a76-61c6bc4bd23c",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company: \nCash flow from operating activities 120 \nCapital expenditures 50 \nDepreciation 15 \nInterest paid and expensed 4 \n \nIf interest paid is classified as a cash flow from financing activities and the income \ntax rate is 25%, FCFF (in € thousands) is:"
+      },
+      "choices": [
+        "70.",
+        "73.",
+        "85."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because, while FCFF = CFO + Int(1 – Tax rate) – FCInv, if interest paid \nis included in financing activities, then CFO does not have to be adjusted for Int(1 – \nTax rate). Accordingly, for this company, FCFF = CFO – FCInv; or = 120 – 50 = 70."
+      }
+    },
+    {
+      "id": "eebc2911-e812-4dba-b2f2-1bf6a07830d7",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nInterest payments $30,000 \nCapital expenditures $82,000 \nNet borrowing $18,000 \nIncome tax rate 40% \n \nUnder U.S. GAAP, free cash flow to equity is most likely:"
+      },
+      "choices": [
+        "less than free cash flow to the firm.",
+        "equal to free cash flow to the firm.",
+        "greater than free cash flow to the firm. \n  \nAnalyzing Statements of Cash Flows II \nFaculty:                                                                         Page 6 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect because under U.S. GAAP, free cash flow to the firm is calculated as \nCFO + int (1− tax rate) – capital expenditures. Since the firm has interest bearing \ndebt outstanding, $18,000 ($30,000 × (1 − .4)) is added back to CFO in calculating \nFCFF. In addi tion, the capital expenditures of $82,000 are subtracted so the \nequation becomes CFO + $18,000 − $82,000 for a net decrease to CFO of $64,000 \n($18,000 − $82,000 = − $64,000). The calculation for free cash flow to equity is CFO \n– capital expenditures + net borrowing with no adjustment for interest paid under \nU.S. GAAP. The calculation becomes CFO − $82,000 + $18,000 for a net decrease to \nCFO of $64,000 (− $82,000 + $18,000). Therefore, FCFE will be equal to FCFF; as \nthe after-tax interest add-back to FCFF is equal to the net borrowing add -back to \nFCFE and CFO and capital expenditures are the same for both."
+      }
+    }
+  ]
+}

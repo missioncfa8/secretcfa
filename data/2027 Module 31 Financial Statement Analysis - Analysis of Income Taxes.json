@@ -1,0 +1,298 @@
+{
+  "title": "Module 31: Analysis of Income Taxes",
+  "topic": "Financial Statement Analysis",
+  "module_number": 31,
+  "module_name": "Analysis of Income Taxes",
+  "year": 2027,
+  "items": [
+    {
+      "id": "cb4c1f58-710f-472a-9475-d67c8fe36b95",
+      "prompt": {
+        "text": "In the current year, Michaels Company has a carrying amount of USD3,500,000 and \ntax base of USD5,000,000 for accounts receivable. Michaels will most likely  \nrecognize:"
+      },
+      "choices": [
+        "a deferred tax asset.",
+        "a deferred tax liability.",
+        "no deferred tax asset or liability."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Because the carrying amount is less than the tax base for this asset,  \nthis difference is a temporary difference that will result in a deferred tax asset. B  \nis incorrect because a deferred tax liability would apply if the carrying amount  was \ngreater than the asset base. C is incorrect because this is not a permanent difference \nthus there will be either a deferred tax asset or deferred tax liability."
+      }
+    },
+    {
+      "id": "83fb4b12-3e75-4202-98bf-9331ec54f5f7",
+      "prompt": {
+        "text": "James Company has received USD500,000 of tax credits from the recent installation \nof solar panels that will directly reduce their taxes. Which of the following  best \ndescribes these tax credits?"
+      },
+      "choices": [
+        "Permanent difference",
+        "Taxable temporary difference",
+        "Deductible temporary difference"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Permanent differences are differences between tax laws and accounting \nstandards that will not be reversed at some future date. Because they  will not be \nreversed at a future date, these differences do not give rise to deferred tax. These \nitems include tax credits for expenditures that directly reduce taxes,  such as tax \ncredits related to the purchase of solar power. B is incorrect because  taxable \ntemporary differences result in the recognition of deferred tax liabilities.  C is \nincorrect because deductible temporary differences result in a deferred tax asset."
+      }
+    },
+    {
+      "id": "deadae31-7d7f-4344-a86b-e661be80ce5e",
+      "prompt": {
+        "text": "Please use the selected data in Exhibit 1 for the Samuels Corporation. \n \nExhibit 1: Selected Data for Samuels Company (US dollar millions) \n  Year 3 Year 2 Year 1 \nEquipment value for accounting purposes \n(carrying amount) (depreciation of \nUSD1,000/year) \nUSD7,000 USD8,000 USD9,000 \nEquipment value for tax purposes (tax base) \n(depreciation of USD1,429/year) \nUSD5,714 USD7,143 USD8,571 \n \nAssuming a 35 percent tax rate and the selected data below for the Samuels \nCompany, the company’s deferred tax liability in Year 3 is closest to:"
+      },
+      "choices": [
+        "USD450.",
+        "USD750.",
+        "USD900."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "8. C is correct. In Year 1, the effective tax rate on foreign operations was 37.6 percent \n[(USD17,591 + USD262)/USD47,542], and the effective US tax rate was  \n[(USD31,143 − USD5,325)/USD97,321] = 26.5 percent. In Year 2, the effective tax \nrate on foreign operations was 25.6 percent, and the US rate was 26.4 percent. In  \nYear 3, the foreign rate was 25.7 percent, and the US rate was 24.0 percent."
+      }
+    },
+    {
+      "id": "2bf4fec1-b457-4959-afa0-37b5911aced1",
+      "prompt": {
+        "text": "Which of the following is added to income tax payable to determine the company’s  \nincome tax expense as reported on the income statement?"
+      },
+      "choices": [
+        "Deferred tax assets",
+        "Deferred tax liabilities",
+        "Changes in deferred tax assets and liabilities"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The changes in deferred tax assets and liabilities are added to income  \ntax payable to determine the company’s income tax expense (or credit) as  it is \nreported on the income statement. A and B are incorrect because it is the changes in \ndeferred tax assets and liabilities that are added to income tax payable."
+      }
+    },
+    {
+      "id": "037c87f6-46af-4007-bda6-34b07a412fd8",
+      "prompt": {
+        "text": "Jamison Corp. is domiciled in the United States and has significant operations in the \nUnited Kingdom and Australia. The statutory tax rates are 21 percent in the United \nStates, 19 percent in the United Kingdom, and 30 percent in Australia. The company \ngenerates Profit before tax of USD2,000,000 in the United States, USD500,000 in \nthe United Kingdom, and USD750,000 in Australia. There are no  other differences \nAnalysis of Income Taxes \nFaculty:                                                                         Page 2 of 7 \n \nbetween Jamison’s effective and statutory tax rates. Jamison’s  combined effective \ntax rate is closest to:"
+      },
+      "choices": [
+        "21.0 percent.",
+        "22.8 percent.",
+        "23.3 percent."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The combined effective tax rate is calculated as: \nCountry Taxable Income Statutory Rate Taxes \nU.S. USD2,000,000 21% USD420,000 \nU.K. 5,00,000 19 95,000 \nAustralia 7,50,000 30 2,25,000 \nTotal USD3,250,000 \n \n7,40,000 \n  \n   \nEffective tax \nrate: \n \n740,000/3,250,000 22.80% \n \nThe effective tax rate is a blend of the different tax rates of the countries in which \nthe activities take place in relation to the profit generated in each country.  \nA is incorrect because 21.0 percent is the statutory tax rate in the US and does not \nincorporate statutory tax rates in the United Kingdom and Australia.  \nC is incorrect because 23.3 percent is the simple average of all three statutory tax \nrates. \n \nAnalysis of Income Taxes \nFaculty:                                                                         Page 6 of 7"
+      }
+    },
+    {
+      "id": "bd85c176-4d73-4bc4-8ed3-e5535c47ac64",
+      "prompt": {
+        "text": "Which of the following statements about tax rates is correct?"
+      },
+      "choices": [
+        "The effective tax rate is typically used for forecasting cash flows.",
+        "The cash tax rate is relevant for projecting earnings on the income statement.",
+        "A company’s income tax expense equals the sum of current taxes plus the change \nin deferred tax assets and liabilities. \n \nThe following information relates to questions 7-8 \nPlease use the selected disclosure data in Exhibit 1 and Exhibit 2 for the Marcy  \nCorporation. \nNote I: Income Taxes \nThe components of earnings before income taxes are as shown in Exhibit 1: \n \nExhibit 1: Earnings before Income Taxes (US dollars thousands) \n  Year 3 Year 2 Year 1 \nEarnings before income taxes:     \nUnited States USD117,758 USD107,053 USD97,321 \nForeign 57,526 52,296 47,542 \nTotal USD175,284 USD159,349 USD144,863 \n \nThe components of the provision for income taxes are as shown in Exhibit 2: \n \nExhibit 2: Provision for Income Taxes (US dollars thousands) \n  Year 3 Year 2 Year 1 \nIncome taxes       \nCurrent:       \nFederal USD34,739 USD34,257 USD31,143 \nForeign 14,382 13,074 17,591 \n  USD49,121 USD47,331 USD48,734 \nDeferred:       \nFederal (USD6,524) (USD6,002) (USD5,325) \nForeign 389 305 262 \n  -6,135 -5,697 -5,063 \nTotal USD42,986 USD41,634 USD43,671"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A company’s income tax expense equals the sum of current taxes  (i.e., \nthe amount currently payable) plus the change in deferred tax assets and liabilities. \nA is incorrect because the cash tax rate is typically used for forecasting cash flows. \nB is incorrect because the effective tax rate is relevant for projecting  earnings on \nthe income statement."
+      }
+    },
+    {
+      "id": "981f4ba1-e278-4e63-8122-f42c7d638eaa",
+      "prompt": {
+        "text": "Marcy’s effective tax rate was lowest in:"
+      },
+      "choices": [
+        "Year 1.",
+        "Year 2.",
+        "Year 3. \n \nAnalysis of Income Taxes \nFaculty:                                                                         Page 3 of 7"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The effective tax rate of 24.5 percent (USD42,986/USD175,284) in  \nYear 3 was lower than the effective tax rates in Year 1 and Year 2. A is incorrect  \nbecause its effective tax rate of 30.1 percent is higher than that of Year 3. B is \nincorrect because its effective tax rate of 26.1 percent is higher than that of Year"
+      }
+    },
+    {
+      "id": "584c2dcd-f1df-44a6-8195-a7ca081d4c0e",
+      "prompt": {
+        "text": "Relative to Marcy’s effective tax rate on foreign income, the company’s effective tax \nrate on US income was:"
+      },
+      "choices": [
+        "lower in each year presented.",
+        "higher in each year presented.",
+        "higher in some periods and lower in others."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "21fe819a-1b2d-47b4-b717-199f2ab8006c",
+      "prompt": {
+        "text": "In the current year, a company increased its deferred tax asset by $500,000. During \nthe year, the company most likely:"
+      },
+      "choices": [
+        "became entitled to a $500,000 tax refund.",
+        "reported a lower accounting profit than taxable income.",
+        "had permanent differences between accounting profit and taxable income."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Deferred tax assets represent taxes that have been paid (because of \nthe higher taxable income) but have not yet been recognized on the income statement \n(because of the lower accounting profit)."
+      }
+    },
+    {
+      "id": "950e5eef-8c8c-4b1e-9f63-549ea7af6e5f",
+      "prompt": {
+        "text": "The following information is available for a company that prepares its financial \nstatements according to US GAAP: \n  2015 2014 \nDeferred tax assets $1,000,000 $800,000 \nDeferred tax liabilities $600,000 $700,000 \nValuation allowance $500,000 $400,000 \n \nThe overall effect on 2015 net income from the above changes in the company’s \ndeferred tax accounts is closest to a:"
+      },
+      "choices": [
+        "$200,000 increase.",
+        "$300,000 increase.",
+        "$200,000 decrease."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. A valuation allowance reduces the value of the deferred tax assets \nunder US GAAP, so the total change in net income as a result of the changes in the \nthree accounts can be calculated as follows: \n    \nEffect of Change on Net \nIncome \nAccount Change in Account from 2014 Direction Dollar Effect \nDeferred tax \nassets \n$ 200,000 increase Increase $200,000 \nDeferred tax \nliabilities \n$100,000 decrease Increase $100,000 \nValuation allowance $100,000 increase Decrease ($100,000) \nOverall effect: A net increase of: \n \n$200,000"
+      }
+    },
+    {
+      "id": "8f7d5d48-b3d8-4a2d-b93d-ad3b81405187",
+      "prompt": {
+        "text": "A deferred tax liability could arise when:"
+      },
+      "choices": [
+        "the tax base of an asset is greater than its carrying amount.",
+        "the carrying amount of a liability is greater than its tax base.",
+        "financial accounting income tax expense exceeds income taxes payable."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because deferred tax liabilities arise when a financial accounting income \ntax expense exceeds income taxes payable."
+      }
+    },
+    {
+      "id": "52bf1a44-1865-4ed7-9317-03097c67af83",
+      "prompt": {
+        "text": "Deferred tax assets could arise when:"
+      },
+      "choices": [
+        "taxable income exceeds accounting profit.",
+        "the carrying amount of assets exceeds their tax base.",
+        "accounting income tax expense exceeds income taxes payable."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because deferred tax assets, which appear on the balance sheet, arise \nwhen an excess amount is paid for income taxes (taxable income higher than \naccounting profit)."
+      }
+    },
+    {
+      "id": "0837183a-0767-4769-a410-6ac000e2e8b5",
+      "prompt": {
+        "text": "A deferred tax asset has been previously recognized. At the current balance sheet \ndate, the criteria for economic benefits are not met but the tax differences are still \nexpected to be temporary. As a result:"
+      },
+      "choices": [
+        "the existing deferred tax asset should be reversed.",
+        "a valuation allowance account should be established.",
+        "the existing deferred tax asset should be reclassified as equity."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if a deferred tax asset or liability resulted in the past, but the \ncriteria of economic benefits is not met on the current balance sheet date, then, \nAnalysis of Income Taxes \nFaculty:                                                                         Page 7 of 7 \n \nunder IFRS, an existing deferred tax asset or liability related to the item will be \nreversed."
+      }
+    },
+    {
+      "id": "2302130e-e3a7-4df2-ba83-9281c7743c16",
+      "prompt": {
+        "text": "A company incurred research costs which were all expensed in the current fiscal year \nfor financial reporting purposes. Applicable tax laws require research costs to be \nexpensed over a 5 -year period. If taxable profit will be available against which the \nAnalysis of Income Taxes \nFaculty:                                                                         Page 4 of 7 \n \ndeductible temporary differences can be utilized, in the current fiscal year the \ncompany will most likely record:"
+      },
+      "choices": [
+        "a deferred tax asset.",
+        "a deferred tax liability.",
+        "neither a deferred tax asset nor a deferred tax liability."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the carrying amount is zero due to the full amount having been \nexpensed for financial accounting, while the tax base of the asset was only reduced \nby one-fifth of the total cost in the first year. In addition, taxable profit will be \navailable against which the deductible temporary differences can be utilized. As the \nasset carrying amount is less than the tax base, it will result in a deferred tax asset."
+      }
+    },
+    {
+      "id": "4618a686-f32b-405b-b48a-c8206c71e55c",
+      "prompt": {
+        "text": "The carrying amount of an asset being higher than its tax base may be considered a:"
+      },
+      "choices": [
+        "temporary difference resulting in a deferred tax asset.",
+        "permanent difference resulting in a deferred tax asset.",
+        "temporary difference resulting in a deferred tax liability."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the carrying amount of an asset being higher than its tax base \nis considered to be a temporary difference that results in a deferred tax liability. \nDeferred tax liabilities, which also appear on the balance sheet, arise when a deficit \namount is paid for income taxes and the company expects to eliminate the deficit \nover the course of future operations."
+      }
+    },
+    {
+      "id": "455ea2c6-c5e3-4500-8bf8-49006a135da1",
+      "prompt": {
+        "text": "Which of the following statements about the acquisition of a target company with \ntax loss carryforwards is most accurate? If the acquirer is profitable:"
+      },
+      "choices": [
+        "its current tax rate will have no impact on the acquisition price.",
+        "the acquirer would theoretically be willing to pay more than another acquirer \nwith a lower tax rate.",
+        "the acquirer would theoretically be willing to pay more than another acquirer \nwith a higher tax rate."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because if an acquiring company is profitable, it may be able to use \nMU’s tax loss carryforwards to offset its own tax liabilities. The value to an \nacquirer would be the present value of the carryforwards, based on the acquirer’s \ntax rate and expected timing of realization. The higher the acquiring company’s tax \nrate, and the more profitable the acquirer, the sooner it would be able to benefit. \nTherefore, an acquirer with a high current tax rate would theoretically be willing to \npay more than an acquirer with a lower tax rate."
+      }
+    },
+    {
+      "id": "4d20ae24-8240-45ee-ab0a-f4fafba8651b",
+      "prompt": {
+        "text": "Under US GAAP, the recognition of a valuation allowance for deferred tax assets \nimpacts:"
+      },
+      "choices": [
+        "the effective tax rate only.",
+        "the statutory tax rate only.",
+        "both the effective tax rate and statutory tax rate. \n \n  \nAnalysis of Income Taxes \nFaculty:                                                                         Page 5 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because, under US GAAP, a valuation allowance for deferred tax assets \nincreases the effective tax rate when recognized (because it increases income tax \nexpense). Under US GAAP, deferred tax assets are reduced by creating a valuation \nallowance. Estab lishing a valuation allowance reduces the deferred tax asset and \nincome in the period in which the allowance is established. Also, Reported effective \ntax rate = Income tax expense / Pretax income (Accounting profit)."
+      }
+    }
+  ]
+}

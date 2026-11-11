@@ -1,0 +1,298 @@
+{
+  "title": "Module 57: Asset-Backed Security (ABS) Instrument and Market Features",
+  "topic": "Fixed Income",
+  "module_number": 57,
+  "module_name": "Asset-Backed Security (ABS) Instrument and Market Features",
+  "year": 2027,
+  "items": [
+    {
+      "id": "bc33aa4e-d555-444a-8818-98ad9940a482",
+      "prompt": {
+        "text": "Which of the following statements regarding securitized products is correct?"
+      },
+      "choices": [
+        "Credit tranching offers credit protection for the equity tranche in a  \nsecuritization.",
+        "Pass-through securities are the simplest securitized structure and involve issuers \nretaining the underlying assets.",
+        "In a true securitization, the underlying pool of assets is removed from the balance \nsheet and transferred into an independent legal entity that issues  securities \nbacked by these assets."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. In a true securitization, the specific pool of assets is removed from the \nbalance sheet and transferred into a separate and independent legal entity that then \nissues securities backed by these pooled assets. A is incorrect  because credit \ntranching offers credit protection for the more senior bond  classes in a \nsecuritization not the equity tranche. B is incorrect because covered bonds, not pass-\nthrough securities, are the simplest securitization structure,  which involves the \nissuer retaining the underlying assets on its balance sheet."
+      }
+    },
+    {
+      "id": "2628041e-1a2d-4a79-8b6a-7f8011a754c0",
+      "prompt": {
+        "text": "Upon a bankruptcy affecting a covered bond, the first available safeguards to protect \nagainst potential losses are the:"
+      },
+      "choices": [
+        "ringfenced loans.",
+        "unencumbered assets of the issuer.",
+        "assets added by the collateral manager during ramp-up."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct . In the case of bankruptcy covered bond investors, they  have dual \nrecourse with the first safeguard being the ringfenced loans in the cover  pool that \nunderlie the covered bond transaction. B is incorrect because while  investors also \nhave recourse to the unencumbered assets of the issuer, those serve as a subsequent \nsafeguard. C is incorrect because this post-transaction contribution is characteristic \nof the non-amortizing structure of a CDO (collateralized debt obligation)."
+      }
+    },
+    {
+      "id": "fbdc3ffe-c04f-43e6-a6e8-86216fa18967",
+      "prompt": {
+        "text": "Redemption regime in event of sponsor default \nWhich of the following factors accurately explain(s) this result?"
+      },
+      "choices": [
+        "Reason 1 only",
+        "Reasons 1 and 2 only",
+        "Reasons 1, 2, and 3"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. All three of the listed reasons explain this comparative  result, which \nhas made covered bonds a relatively stable and reliable source of funding over time."
+      }
+    },
+    {
+      "id": "ee62d50a-4508-4e9d-b71b-65d60c665f25",
+      "prompt": {
+        "text": "Select the internal credit enhancement that seeks to improve the overall credit  \nquality of a risky pool of securitized loans."
+      },
+      "choices": [
+        "Letters of credit",
+        "Overcollateralization",
+        "Cash collateral accounts"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Overcollateralization, one of the three main types of  internal credit \nenhancements used in securitization transactions, is a provision  that the collateral \nunderlying the transaction is larger than the face value of the  issued bonds. The \nextra collateral provides a cushion to cover losses from defaults  in the underlying \npool of collateral. A and C are incorrect because both are types  of external, not \ninternal, credit enhancements."
+      }
+    },
+    {
+      "id": "34d74c65-de46-42da-9824-973309c75ba1",
+      "prompt": {
+        "text": "For an issuer, which of the following outcomes is most likely after  offering a credit \ncard ABS?"
+      },
+      "choices": [
+        "Increased cost of funding",
+        "Increased income from fees",
+        "Increased cost of default risk \n \n \nAsset-Backed Security (ABS) Instrument and Market Features \nFaculty:                                                                                    Page 2 of 6"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct . A credit card ABS generates additional fee income. A is  incorrect \nbecause by removing the credit card debt from the balance sheet, ABS  issuance \nimproves capital efficiency and lowers the cost of funding. C is incorrect as the ABS \nalso reduces the cost of default risk from credit card debt."
+      }
+    },
+    {
+      "id": "30885af5-f593-4861-af19-f29e81fa58c2",
+      "prompt": {
+        "text": "An action affecting the cash flow received by a credit card ABS holder during its  \nrevolving period is the:"
+      },
+      "choices": [
+        "early repayment of principal by cardholders.",
+        "card’s floating-rate cap exceeding the periodic rate.",
+        "triggering of an ABS rapid amortization provision."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Triggering rapid amortization provisions accelerates and alters principal \ncash flows. Noteholders will receive their investments earlier,  which they can then \nreallocate to other investments offering more attractive risk/return characteristics. \nA is incorrect because typically during the revolving period, as credit cards are non-\namortizing loans, the security holders receive only  payments from the finance \ncharges and fees the lender collects. Returned principal is reinvested in the collateral \npool. B is incorrect because when floating -rate cap exceeds the rate cardholders \nmust pay, there is no related binding limit on finance payments. \n \nAsset-Backed Security (ABS) Instrument and Market Features \nFaculty:                                                                                    Page 5 of 6"
+      }
+    },
+    {
+      "id": "be6e6398-169f-48cc-9104-528d22f92fe2",
+      "prompt": {
+        "text": "A characteristic of solar loans that makes them attractive to potential solar ABS  \ninvestors is their:"
+      },
+      "choices": [
+        "universal availability to any homeowners.",
+        "ability to combine multiple liens to mitigate default risk.",
+        "flexibility in allowing either purchase or rental of solar systems."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Default risk minimization adds to investment appeal,  and solar loans \nprovide opportunities for overcollateralization. Normally, solar ABS are collateralized \nby the underlying debt: mortgages, loans, or receivables. These loans can be further \ncollateralized by a lien pledged on the installed systems,  on the property itself, or \nboth. A is incorrect as solar loans are typically extended only to prime borrowers who \nown their homes and have good payment  records. C is incorrect as the loans enable \nproperty owner purchase of installed  systems instead of rental that is transacted \nthrough solar leases."
+      }
+    },
+    {
+      "id": "80458b9b-3e3c-4dd5-b267-d30fe5c12496",
+      "prompt": {
+        "text": "Which investor tranche plays a key role in determining CLO viability?"
+      },
+      "choices": [
+        "Senior",
+        "Equity",
+        "Mezzanine"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Investors in equity tranches take on equity-like risks with the potential \nto earn returns comparable to equities. Moreover, these  residual tranche investors \nplay a key role in whether a CLO is viable or not; the  CLO structure has to offer \ncompetitive returns for this tranche. Facing these risk/return possibilities puts them \nin the position of the marginal, price-setting investors. A and C are incorrect because \nthey are promised fixed returns without reference to the underlying performance of \nthe collateral pool. They are also  exposed to less risk in having seniority payoff \npreference in case of default."
+      }
+    },
+    {
+      "id": "6f765fba-a0c4-40ee-b40b-740e22e9b299",
+      "prompt": {
+        "text": "The inclusion of assets into a CLO collateral pool is completed:"
+      },
+      "choices": [
+        "during a subsequent ramp-up period.",
+        "prior to the close of the CLO transaction.",
+        "between ramp-up and loan maturity on meeting certain requirements."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. After the ramp -up period but before underlying collateral  pool loans \nmature, the collateral manager may replace loans in the portfolio as  long as the new \nasset meets the portfolio selection criteria. A is incorrect because  while additional \nassets are added to the collateral pool during a subsequent  ramp-up period, loan \nreplacements can still occur after the ramp-up period. B is incorrect because a typical \nfeature of CLO transactions is that the collateral portfolio is not finalized until after \nthe transaction closes."
+      }
+    },
+    {
+      "id": "218f0e11-90c2-4b9e-9e0a-8c2261654a99",
+      "prompt": {
+        "text": "When a CLO transaction experiences a collateral pool default:"
+      },
+      "choices": [
+        "senior tranche holders are guaranteed full repayment.",
+        "call features embedded in bonds likely affect junior tranches.",
+        "losses are distributed proportionately across all the tranches."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A complicating factor of a default can be the call features embedded in \nbonds. While exercising call options on debt would replenish the  collateral pool, \ndistributing these proceeds to the senior and mezzanine tranches  would shrink the \nsize of the collateral pool, further narrowing the earnings  potential with junior \ntranches receiving the least cash flow. A is incorrect because  senior tranches are \nthen in danger of not receiving some or any payments,  depending on the size of the \ndefault. C is incorrect because losses would first be  absorbed by junior tranche \ninvestors, with remaining losses realized by the other tranches in order of repayment \nseniority."
+      }
+    },
+    {
+      "id": "74a533c1-cd0f-421c-bec4-3ed2ce8de01c",
+      "prompt": {
+        "text": "The feature of a covered bond transaction most likely shared with both CDOs and  \nnon-mortgage ABS is its:"
+      },
+      "choices": [
+        "specified LTV cutoff.",
+        "multiple tranches for the cover pool.",
+        "distinct maturity and settlement dates."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. As illustrated by their respective term sheets, all three  types of ABS \ntransactions have timing milestones designating due dates for  investments \n(settlement date) and the end of their terms (maturity date). A is incorrect because \nin contrast to their non -amortizing counterparts, covered  bonds are backed by a \nsegregated pool of assets that typically consist of commercial  or residential \nmortgages, for which an LTV cutoff is applicable. B is incorrect because while other \nAsset-Backed Security (ABS) Instrument and Market Features \nFaculty:                                                                                    Page 6 of 6 \n \nABS often use credit tranching to create bond classes with  different borrower \ndefault exposures, covered bonds usually consist of one bond class per cover pool."
+      }
+    },
+    {
+      "id": "6d67e32f-27d3-4aec-a8c4-2cfbf2976dc9",
+      "prompt": {
+        "text": "Which of the following statements about CDOs is correct?"
+      },
+      "choices": [
+        "The collateral pools for CDOs are static.",
+        "The proceeds to pay the CDO bond classes can only come from interest payments \nfrom collateral assets.",
+        "A CDO is a leveraged transaction, where equity tranche holders use borrowed  \nfunds to generate a return above the funding cost. \n \n \n \nAsset-Backed Security (ABS) Instrument and Market Features \nFaculty:                                                                                    Page 3 of 6"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. A CDO is a leveraged transaction, where equity tranche  holders use \nborrowed funds (i.e., the bond classes issued) to generate a return above the funding \ncost. A is incorrect because unlike MBS, the pools in a CDO are not static; so, there \nis a need for a collateral manager that buys and sells debt  obligations for and from \nthe CDO’s collateral pool to generate sufficient cash flows to meet the obligations to \nthe CDO bondholders. B is incorrect because the  proceeds to pay the CDO bond \nclasses ca n come from interest payments from  collateral assets, maturing of \ncollateral assets, and sale of collateral assets."
+      }
+    },
+    {
+      "id": "db63bdab-731d-4351-ae68-0fdbb34e2f08",
+      "prompt": {
+        "text": "Which of the following types of collateralized debt obligations (CDOs) are most \nlikely backed by asset-backed securities?"
+      },
+      "choices": [
+        "Structured finance CDOs",
+        "Collateralized loan obligations",
+        "Collateralized bond obligations"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because collateralized debt obligation (CDO) is a generic term used to \ndescribe a security backed by a diversified pool of one or more debt obligations: \nCDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOs."
+      }
+    },
+    {
+      "id": "99464e61-d469-4616-bb1b-8f004af19f5f",
+      "prompt": {
+        "text": "In the event of default, investors in covered bonds most likely have recourse \nagainst:"
+      },
+      "choices": [
+        "the issuer only.",
+        "a segregated pool of assets only.",
+        "both the issuer and a segregated pool of assets."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a covered bond is a debt obligation backed by a segregated pool \nof assets called a “cover pool”  In the event of default, bondholders have recourse \nagainst both the financial institution and the cover pool."
+      }
+    },
+    {
+      "id": "374c65cd-4559-4191-b051-a345d2fbdea1",
+      "prompt": {
+        "text": "A credit card receivable asset-backed security most likely:"
+      },
+      "choices": [
+        "faces high prepayment risk.",
+        "uses fully-amortizing loans as collateral.",
+        "reinvests principal repayments during the lockout period."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the collateral of credit card receivable ABS is a pool of non -\namortizing loans. These loans have lockout periods during which the cash flows that \nare paid out to security holders are based only on finance charges collected and fees. \nWhen the lockout period is over, the principal that is repaid by the cardholders is no \nlonger reinvested but instead is distributed to investors."
+      }
+    },
+    {
+      "id": "3a91ab9e-62b7-47f3-85a5-41eec35c8ea8",
+      "prompt": {
+        "text": "In a securitization, a senior/subordinated structure is most likely a form of:"
+      },
+      "choices": [
+        "time tranching.",
+        "credit tranching.",
+        "prepayment risk management."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because it is common for securitizations to include a form of internal \ncredit enhancement called subordination, also referred to as credit tranching. In \nsuch a structure, there is more than one bond class or tranche, and the bond classes \ndiffer as to how they will share any losses resulting from defaults of the borrowers \nwhose loans are in the collateral. The bond classes are classified as senior bond \nclasses or subordinated bond classes —hence, the reason this structure is also \nreferred to as a senior/subordinated structure."
+      }
+    },
+    {
+      "id": "c32276d2-f501-4acc-9d64-d5b1ccb5431b",
+      "prompt": {
+        "text": "In a securitization structure, credit tranching allows investors to choose between:"
+      },
+      "choices": [
+        "subordinated bonds and senior bonds.",
+        "extension risk and contraction risk.",
+        "partially amortizing loans and fully amortizing loans. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAsset-Backed Security (ABS) Instrument and Market Features \nFaculty:                                                                                    Page 4 of 6"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. Credit tranching allows investors to choose between subordinate and \nsenior bond classes as a means of credit enhancement. The purpose of this structure \nis to redistribute the credit risk associated with the collateral."
+      }
+    }
+  ]
+}

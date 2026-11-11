@@ -1,0 +1,706 @@
+{
+  "title": "Module 26: Analyzing Statements of Cash Flows I",
+  "topic": "Financial Statement Analysis",
+  "module_number": 26,
+  "module_name": "Analyzing Statements of Cash Flows I",
+  "year": 2027,
+  "items": [
+    {
+      "id": "3335055f-847b-4fc1-8697-5886eb4b097f",
+      "prompt": {
+        "text": "Interest paid is classified as an operating cash flow under:"
+      },
+      "choices": [
+        "US GAAP but may be classified as either operating or investing cash flows under \nIFRS.",
+        "IFRS but may be classified as either operating or investing cash flows under US \nGAAP.",
+        "US GAAP but may be classified as either operating or financing cash flows under \nIFRS."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Interest expense is always classified as an operating cash flow under \nUS GAAP but may be classified as either an operating or financing cash flow under \nIFRS."
+      }
+    },
+    {
+      "id": "2ec22298-2e7d-4683-b90b-0db7e9c98545",
+      "prompt": {
+        "text": "Green Glory Corp., a garden supply wholesaler, reported cost of goods sold for the \nyear of $80 million. Total assets increased by $55 million, including an increase of $5 \nmillion in inventory. Total liabilities increased by $45 million, including an increase of \n$2 million in accounts payable. The cash paid by the company to its suppliers is most \nlikely closest to:"
+      },
+      "choices": [
+        "$73 million.",
+        "$77 million.",
+        "$83 million."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Cost of goods sold of $80 million plus the increase in inventory of $5 \nmillion equals purchases from suppliers of $85 million. The increase in accounts \npayable of $2 million means that the company paid $83 million in cash ($85 million \nminus $2 million) to its suppliers."
+      }
+    },
+    {
+      "id": "23e8328f-0fc9-4aa7-b9c7-67260513553e",
+      "prompt": {
+        "text": "Purple Fleur S.A., a retailer of floral products, reported cost of goods sold for the \nyear of $75 million. Total assets increased by $55 million, but inventory declined by \n$6 million. Total liabilities increased by $45 million, and accounts payable increas ed \nby $2 million. The cash paid by the company to its suppliers is most likely closest to:"
+      },
+      "choices": [
+        "$67 million.",
+        "$79 million.",
+        "$83 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Cost of goods sold of $75 million less the decrease in inventory of $6 \nmillion equals purchases from suppliers of $69 million. The increase in accounts \npayable of $2 million means that the company paid $67 million in cash ($69 million \nminus $2 million)."
+      }
+    },
+    {
+      "id": "ff7ebaf8-ae6f-41dc-93af-75f2f1a44e31",
+      "prompt": {
+        "text": "White Flag, a women’s clothing manufacturer, reported salaries expense of $20 \nmillion. The beginning balance of salaries payable was $3 million, and the ending \nbalance of salaries payable was $1 million. How much cash did the company pay in \nsalaries?"
+      },
+      "choices": [
+        "$18 million.",
+        "$21 million.",
+        "$22 million. \n \n \n \n \n \n \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 3 of 20"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Beginning salaries payable of $3 million plus salaries expense of $20 \nmillion minus ending salaries payable of $1 million equals $22 million. Alternatively, \nthe expense of $20 million plus the $2 million decrease in salaries payable equals $22 \nmillion."
+      }
+    },
+    {
+      "id": "7d850da1-c3d5-487d-aba8-50effb3b33bc",
+      "prompt": {
+        "text": "An analyst gathered the following information from a company’s 2018 financial \nstatements (in $ millions) \nYear ended 31 December 2017 2018 \nNet sales 245.8 254.6 \nCost of goods sold 168.3 175.9 \nAccounts receivable 73.2 68.3 \nInventory 39 47.8 \nAccounts payable 20.3 22.9 \n \nBased only on the information above, the company’s 2018 statement of cash flows in \nthe direct format would include amounts (in $ millions) for cash received from \ncustomers and cash paid to suppliers, respectively, that are closest to: \n Cash received from customers Cash paid to suppliers"
+      },
+      "choices": [
+        "249.7 169.7 \n   \n Cash received from customers Cash paid to suppliers",
+        "259.5 174.5 \n   \n Cash received from customers Cash paid to suppliers",
+        "259.5 182.1"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Cash received from customers = Sales + Decrease in accounts receivable \n= 254.6 + 4.9 = 259.5. Cash paid to suppliers = Cost of goods sold + Increase in \ninventory – Increase in accounts payable = 175.9 + 8.8 – 2.6 = 182.1."
+      }
+    },
+    {
+      "id": "e4e52804-7146-4343-9f11-f7b63dc0a7ac",
+      "prompt": {
+        "text": "Based on the information in  Exhibit 1 for Pinkerly Inc., a fictitious company, what \nare the total adjustments that the company would make to net income in order to \nderive operating cash flow? \nExhibit 1 Pinkerly Inc. \n   Year Ended  \nIncome statement item  12/31/2018  \nNet income  USD30 million  \nDepreciation  USD7 million  \nBalance sheet item 12/31/2017 12/31/2018 Change \nAccounts receivable USD15 million USD30 million USD15 million \nInventory USD16 million USD13 million (USD3 million) \nAccounts payable USD10 million USD20 million USD10 million"
+      },
+      "choices": [
+        "Add USD5 million",
+        "Add USD21 million",
+        "Subtract USD9 million \n \n \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 4 of 20"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. To derive operating cash flow, the company would make the following \nadjustments to net income: add depreciation (a non -cash expense) of USD7 million; \nadd the decrease in inventory of USD3 million; add the increase in accounts payable \nof USD10 million; and subtract the increase in accounts receivable of USD15 million. \nTotal additions of USD20 million and total subtractions of USD15 million result in net \ntotal additions of USD5 million."
+      }
+    },
+    {
+      "id": "729e5e5b-bbd3-4eed-9f99-d4564fdd5b74",
+      "prompt": {
+        "text": "When computing net cash flow from operating activities using the indirect method, \nan addition to net income is most likely to occur when there is a:"
+      },
+      "choices": [
+        "gain on the sale of an asset.",
+        "loss on the retirement of debt.",
+        "decrease in a deferred tax liability."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. An addition to net income is made when there is a loss on the retirement \nof debt, which is a non-operating loss. A gain on the sale of an asset and a decrease \nin deferred tax liability are both subtracted from net-income."
+      }
+    },
+    {
+      "id": "d50bfc01-cfe3-4ccb-b26a-e77d703ab189",
+      "prompt": {
+        "text": "An analyst gathered the information in  Exhibit 1  from a company’s 2018 financial \nstatements: \nExhibit 1 \n2018 Financial Statement (US dollars, millions) \nBalances as of Year Ended 31 December 2017 2018 \nRetained earnings 120 145 \nAccounts receivable 38 43 \nInventory 45 48 \nAccounts payable 36 29 \n \nIn 2018, the company declared and paid cash dividends of USD10 million and recorded \ndepreciation expense in the amount of USD25 million. The company considers \ndividends paid a financing activity. The company’s 2018 cash flow from operations (in \nUSD millions) was closest to:"
+      },
+      "choices": [
+        "25.",
+        "45.",
+        "75."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. All dollar amounts are in millions. Net income (NI) for 2018 is USD35. \nThis amount is the increase in retained earnings, USD25, plus the dividends paid, \nUSD10. Depreciation of USD25 is added back to net income, and the increases in \naccounts receivable, USD5, and in inventory, USD3, are subtracted from net income \nbecause they are uses of cash. The decrease in accounts payable is also a use of cash \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 15 of 20 \n \nand, therefore, a subtraction from net income. Thus, cash flow from operations is \nUSD25 + USD10 + USD25 – USD5 – USD3 – USD7 = USD45."
+      }
+    },
+    {
+      "id": "6b3d47dc-c642-42ef-bc9b-0d862f57982a",
+      "prompt": {
+        "text": "Based on the information in  Exhibit 1  for Star Inc., what are the total net \nadjustments that the company would make to net income to derive operating cash \nflow? \nExhibit 1 \nStar Inc. \n  Year Ended Year Ended  \nIncome Statement Item  12/31/2018  \nNet income  USD20 million  \nDepreciation  USD2 million  \nBalance Sheet Item 12/31/2017 12/31/2018 Change \nAccounts receivable USD25 million USD22 million (USD3 million) \nInventory USD10 million USD14 million USD4 million \nAccounts payable USD8 million USD13 million USD5 million"
+      },
+      "choices": [
+        "Add USD2 million",
+        "Add USD6 million",
+        "Subtract USD6 million. \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 5 of 20"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. To derive operating cash flow, the company would make the following \nadjustments to net income: Add depreciation (a non -cash expense) of USD2 million; \nadd the decrease in accounts receivable of USD3 million; add the increase in accounts \npayable of USD5 million; and subtract the increase in inventory of USD4 million. Total \nadditions would be USD10 million, and total subtractions would be USD4 million, which \ngives net additions of USD6 million."
+      }
+    },
+    {
+      "id": "99c54b20-ad8a-48b3-aa18-0f17af2dbe6e",
+      "prompt": {
+        "text": "In 2018, a company using US GAAP made cash payments of USD6 million for salaries, \nUSD2 million for interest expense, and USD4 million for income taxes. Additional \ninformation for the company is provided in the Exhibit 1: \nExhibit 1 \nCash Payments \n(US dollars, millions) 2017 2018 \nRevenue 42 37 \nCost of goods sold 18 16 \nInventory 36 40 \nAccounts receivable 22 19 \nAccounts payable 14 12 \n \nBased only on the information in  Exhibit 1 , the company’s operating cash flow for \n2018 is closest to:"
+      },
+      "choices": [
+        "USD6 million.",
+        "USD10 million.",
+        "USD14 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \nOperating cash flows = Cash received from customers – (Cash paid to suppliers + \nCash paid to employees + Cash paid for other operating expenses + Cash paid for \ninterest + Cash paid for income taxes) \nCash received from customers = Revenue + Decrease in accounts receivable \n= USD37 + USD3 = USD40 million \n \nCash paid to suppliers = Cost of goods sold + Increase in inventory + Decrease in \naccounts payable \n= USD16 + USD4 + USD2 = USD22 million \n \nTherefore, the company’s operating cash flow = USD40 – USD22 – Cash paid for \nsalaries – Cash paid for interest – Cash paid for taxes = USD40 – USD22 – USD6 – \nUSD2 – USD4 = USD6 million."
+      }
+    },
+    {
+      "id": "cd653f2c-8403-471e-bf48-88ffd1d8ebc0",
+      "prompt": {
+        "text": "The information in  Exhibit 1  is extracted from Sweetfall Incorporated’s financial \nstatements. \nIncome Statement  Balance Sheet Changes  \nRevenue USD56,800 Decrease in accounts receivable USD1,324 \nCost of goods sold 27,264 Decrease in inventory 501 \nOther operating \nexpense 562 Increase in prepaid expense 6 \nDepreciation expense 2,500 Increase in accounts payable 1,063 \n \nThe amount of cash Sweetfall Inc. paid to suppliers is:"
+      },
+      "choices": [
+        "USD25,700.",
+        "USD26,702.",
+        "USD27,826. \n \n \n \n \n \n \n \n \n \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 6 of 20"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The amount of cash paid to suppliers is calculated as follows: \n= Cost of goods sold – Decrease in inventory – Increase in accounts payable \n= USD27,264 – USD501 – USD1,063 \n= USD25,700."
+      }
+    },
+    {
+      "id": "f5ac6d0a-b9cc-41cc-85f5-10f2b020b8be",
+      "prompt": {
+        "text": "The following items are from a company’s cash flow statement.  \nClassification of Cash Flow Description Amount (£ thousands) \nOperating activities Cash received from customers 55,000 \nInvesting activities Interest and dividends \nreceived \n10,000 \nFinancing activities Net repayment of revolving \ncredit loan \n12,000 \n  \nWhich of the following standards and formats did the company most likely use in the \npreparation of its financial statements?"
+      },
+      "choices": [
+        "IFRS, direct format",
+        "IFRS, indirect format",
+        "Either IFRS or US GAAP, direct format"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The direct method of cash flow statement presentation shows the \nspecific cash inflows and outflows that result in reported cash flow from operating \nactivities (e.g., cash from customers and cash to suppliers). Companies using IFRS can \ndecide to report int erest and dividend receipts as either an investing or operating \nactivity; under US GAAP, they must report such income as an operating activity. The \nlisted operating and investment activities indicate that the company reports under \nIFRS using the direct method."
+      }
+    },
+    {
+      "id": "94a5a3a7-395d-49f7-b737-c7b6f42e9e9f",
+      "prompt": {
+        "text": "Selected information from a company’s comparative income statement and balance \nsheet is presented below: \nSelected Income Statement Data for the Year Ended 31 August ($ thousands) \n  2013 2012 \nSales revenue 100,000 95,000 \nCost of goods sold 47,000 47,500 \nDepreciation expense 4,000 3,500 \nNet Income 11,122 4,556 \n \nSelected Balance Sheet Data as of 31 August ($ thousands) \n  2013 2012 \nCurrent Assets \n  \nCash and investments 21,122 25,000 \nAccounts receivable 25,000 13,500 \nInventories 13,000 8,500 \nTotal current assets 59,122 47,000 \n  \n  \nCurrent liabilities \n  \nAccounts payable 15,000 15,000 \nOther current liabilities 7,000 9,000 \nTotal current liabilities 22,000 24,000 \n \nThe cash collected from customers in 2013 is closest to:"
+      },
+      "choices": [
+        "$88,500.",
+        "$96,100.",
+        "$111,500. \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 7 of 20"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \nCash collected from customers = Revenues – Increase in accounts receivable \n = $100 – (25 – 13.5) \n = $88.5 thousand \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 16 of 20"
+      }
+    },
+    {
+      "id": "d8c2bc83-780a-4697-802f-b40034d54222",
+      "prompt": {
+        "text": "Under IFRS, dividends received are least likely classified as which type of cash \nflow on the cash flow statement?"
+      },
+      "choices": [
+        "Financing",
+        "Operating",
+        "Investing"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Dividends received can be classified as either an operating or investing \nactivity under IFRS but not as a financing activity."
+      }
+    },
+    {
+      "id": "6fadae0c-eb07-4c0e-bc9c-1f45786f966f",
+      "prompt": {
+        "text": "The following annual financial data are available for a company: \n  £ millions \nBeginning interest payable 90.4 \nCash paid for interest 103.3 \nEnding interest payable 84.5 \n  \nInterest expense (in millions) for the year is closest to:"
+      },
+      "choices": [
+        "£97.4.",
+        "£109.2.",
+        "£71.6."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Interest expense can be determined from the following relationship: \n  £ millions \nBeginning interest payable 90.4 \nPlus interest expense ? \nMinus cash paid for interest –103.3 \nEnding interest payable 84.5 \nSolving for interest expense = 97.4"
+      }
+    },
+    {
+      "id": "784d65a1-ddbb-49f6-a564-20ee12b4829c",
+      "prompt": {
+        "text": "The following financial data are available for a company: \nMetric Current Year (€ thousands) Prior Year (€ thousands) \nCost of goods sold 600 400 \nInventory 500 600 \nAccounts payable 200 400 \nAccounts receivable 400 900 \n  \nCash paid to suppliers (in thousands) in the current year is closest to:"
+      },
+      "choices": [
+        "€900.",
+        "€700.",
+        "€300."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The calculation is as follows: \n  € thousands \nCost of goods sold 600 \nMinus decrease in inventory (500 – 600) –100 \nPurchases from suppliers 500 \nPlus decrease in accounts payable (200 – 400) 200 \nCash paid to suppliers 700"
+      }
+    },
+    {
+      "id": "96a5b3ca-d53a-49df-ac92-7a50321230c9",
+      "prompt": {
+        "text": "A company using IFRS reports its interest payments on long-term debt as a \nfinancing activity. If the company reported under US GAAP, the most likely effect \nwould be a:"
+      },
+      "choices": [
+        "higher cash flow from operations.",
+        "higher cash flow from financing activities.",
+        "lower cash flow from investing activities."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Interest payments can be reported either as operating or financing \ncash flow under IFRS, but they can be reported only as operating cash flow under \nUS GAAP. The interest payment was originally reported as financing activity under \nIFRS, but under US GAAP it would be an operating activity. Therefore, under US \nGAAP, cash flow from financing activities would be higher and operating cash flows \nlower by the same amount."
+      }
+    },
+    {
+      "id": "a4fe6eb7-87a4-43b5-aa88-afb227f9c59e",
+      "prompt": {
+        "text": "When a firm can choose where in the cash flow statement to classify interest \nreceived, which of the following choices is the most appropriate?"
+      },
+      "choices": [
+        "As a financing activity under IFRS",
+        "As an investing activity under US GAAP",
+        "As an operating activity under IFRS \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 8 of 20"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under IFRS, interest received may be classified as either an operating \nactivity or as an investing activity, but under US GAAP, it can be classified only as an \noperating activity."
+      }
+    },
+    {
+      "id": "f9cc7c24-b2f7-4393-9227-a81773b59e13",
+      "prompt": {
+        "text": "An analyst gathers the following information from a company’s current financial \nstatements: \nCash Flow Statement (Indirect Method) for Year Ended 31 December ($ millions) \nNet income 2,520 \nDepreciation 1,178 \nChange in accounts receivable 62 \nChange in accounts payable 295 \nChange in inventory (792) \nOperating cash flow 4,723 \n \nIncome Statement for Year Ended 31 December ($ millions) \nRevenue 26,430 \nCost of goods sold 12,831 \nOperating expenses 9,802 \nIncome tax expense 1,277 \nNet income 2,520 \n  \nIf the company uses the direct method to prepare its cash flow statement, the \ncash paid to suppliers (in $ millions) will be closest to:"
+      },
+      "choices": [
+        "11,744.",
+        "12,334.",
+        "12,536."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The cash paid to suppliers is calculated as follows: \n  $ Millions \nCost of goods sold 12,831 \nLess: Decrease in inventory -792 \nPurchases from suppliers 12,039 \nLess: Increase in accounts payable -295 \nCash paid to suppliers 11,744 \n \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 17 of 20"
+      }
+    },
+    {
+      "id": "6adb042a-686d-4be8-9672-864ca3561836",
+      "prompt": {
+        "text": "An analyst gathers the following information from a company’s current financial \nstatements: \nYear Ended 31 December ($ millions) \n  2016 \nRevenue 26,430 \nCost of goods sold 12,831 \nOperating expenses 9,802 \nIncome tax expense 1,277 \nNet Income 2,250 \n \nYear Ended 31 December ($ millions) \n  2016 2015 \nAccounts receivable 1,134 1,072 \nAccounts payable 4,858 3,724 \nInventory 4,462 3,670 \n  \nIf the company uses the direct method to prepare its cash flow statement, the \ncash received from customers (in $ millions) will be closest to:"
+      },
+      "choices": [
+        "26,368.",
+        "25,296.",
+        "26,492. \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 9 of 20"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Accounts receivable increased; therefore, cash collected from \ncustomers will be less than reported revenue. Calculations are as follows: \n  Calculation $ Millions \nRevenue   26,430 \nLess increase accounts receivable 1,134 – 1,072 = 62 \nCash received from customers --- 26,368"
+      }
+    },
+    {
+      "id": "56fa3f7c-82e7-4880-bd66-320edd4cf957",
+      "prompt": {
+        "text": "Which of the following is most likely added back to net income when preparing a \ncash flow statement under the indirect method?"
+      },
+      "choices": [
+        "Gain on sale of assets",
+        "Amortization of bond discount",
+        "Decrease in deferred tax liability"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because amortization of a discount (premium) is a non-cash item and thus, \napart from its effect on taxable income, has no effect on cash flow. In the section \nof the statement of cash flows that reconciles net income to operating cash flow, \namortization of a discount (premium) is added back to (subtracted from) net income."
+      }
+    },
+    {
+      "id": "033ff260-1b2e-41a4-a649-f21b4cdd2514",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ millions) about a company: \n  Year 2 Year 1 \nRevenues 2,100 2,000 \nAccounts receivable 230 200 \nCash 70 50 \n \nCash received from customers (in £ millions) in Year 2 is:"
+      },
+      "choices": [
+        "2,070.",
+        "2,120.",
+        "2,130."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct, because to determine the approximate cash receipts from its \ncustomers, it is necessary to adjust this revenue by the net change in accounts \nreceivable for the year.  Revenue minus the change in receivables  = 2,100 - (230 - \n200) = 2,070."
+      }
+    },
+    {
+      "id": "eeb7ad2b-c577-4d9e-aaea-a150b2e9f48b",
+      "prompt": {
+        "text": "An analyst gathers the following information (in $ thousands) about a company: \nNet income 10,000 \nGain on debt retirement 500 \nDecrease in working capital 2,000 \n \nCash flow from operating activities (in $ thousands) is:"
+      },
+      "choices": [
+        "8,500.",
+        "11,500.",
+        "12,500."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Cash flow from operating activities = Net income + Decrease in \nworking capital – Gain on retirement on debt = 10,000 + 2,000 – 500 = 11,500."
+      }
+    },
+    {
+      "id": "78d35fda-5824-4e18-b4be-a36817893730",
+      "prompt": {
+        "text": "An analyst gathers the following year-end information from a company's financial \nstatements: \n  Year 2 Year 1 \nAccounts receivable £3 million £1 million \nAccounts payable £2 million £5 million \n \nBased only on this information, if Year 2 net income is £3 million and the Year 1 \nending cash balance is £10 million, the Year 2 ending cash balance is:"
+      },
+      "choices": [
+        "£8 million.",
+        "£12 million.",
+        "£18 million."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because £3,000,000 net income would need to be adjusted for accrued \nincome/expense derived from the change in accounts receivable and accounts \npayable. The increase in accounts receivable is subtracted from net income and the \ndecrease in accounts payable is also subtracted from net income. \nChange in cash = Net Income – increase in Accounts Receivable – decrease in \nAccounts Payable: \nChange in cash = £3,000,000 – £2,000,000 – £3,000,000 = –£2,000,000. \nEnding cash balance = 2011 ending cash balance + change in cash = £10,000,000 – \n£2,000,000 = £8,000,000."
+      }
+    },
+    {
+      "id": "3fde0809-c3f9-427e-9890-89aa678076cf",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company: \nNet Income 143 \nGain on sale of equipment 20 \nDecrease in accounts receivable 38 \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 10 of 20 \n \nCash flow from operating activities (in € thousands) is:"
+      },
+      "choices": [
+        "85.",
+        "161.",
+        "201."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because changes in working capital accounts include increases and \ndecreases in the current operating asset and liability accounts. To make the working \ncapital adjustments under the indirect method, any increase in a current operating \nasset account is subt racted from net income and a net decrease is added to net \nincome. When calculating operating cash flow under the indirect method, gain on sale \nof assets are subtracted from net income. Accordingly, cash flow from operating \nactivities = Net income – gain on sale of equipment + decrease in accounts receivable \n= 143 – 20 + 38 = 161."
+      }
+    },
+    {
+      "id": "2aa9f61c-a5fe-4c93-b1fa-f8d66731320f",
+      "prompt": {
+        "text": "The following information is available on a retailer (in $ thousands):  \nSummarized Income Statement   \nRevenues 17,210 \nCost of goods sold 9,283 \nSalary and wage expense 2,981 \nRent expense 1,275 \nDepreciation expense 761 \nIncome tax expense 823 \nNet income 2,087 \n  \nPartial Cash Flow Statement   \nOperating cash flows   \nNet income 2,087 \nAdd: non-cash items --- \nDepreciation expense 761 \nIncrease in accounts receivable (123) \nIncrease in inventory 511 \nDecrease in prepaid expenses (37) \nDecrease in accounts payable (190) \nIncrease in wages payable 133 \nOperating cash flows 3,142 \n  \nAn analyst is converting the cash flow statement to the direct method. The amount \n(in $ thousands) that she calculates for “Cash paid to suppliers” is closest to:"
+      },
+      "choices": [
+        "8,582.",
+        "9,984.",
+        "11,222."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nMetric   \nCost of goods sold $9,283 \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 18 of 20 \n \nAdd: increase in inventory 511 \nEquals purchases from suppliers 9,794 \nAdd: decrease in accounts payable 190 \nCash paid to suppliers $9,984"
+      }
+    },
+    {
+      "id": "14c5263b-df59-4437-8a92-651c653a2785",
+      "prompt": {
+        "text": "On the statement of cash flows, interest payments may be classified as a financing \ncash flow under:"
+      },
+      "choices": [
+        "IFRS only.",
+        "US GAAP only.",
+        "both IFRS and US GAAP."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the cash paid for interest is included in operating cash flows \nunder US GAAP and may be included in operating or financing cash flows under IFRS \nand US GAAP classify interest expense as an operating activity, even though the \nprincipal amount of the debt issued is classified as a financing activity. IFRS allows \ncompanies to classify interest expense as either an operating activity or a financing \nactivity."
+      }
+    },
+    {
+      "id": "365a4a14-c503-4424-8ea2-8e9626c04ccb",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company: \nRevenue 5,000 \nCash balance, beginning of year 2,000 \nCash balance, end of year 2,000 \nIncrease in accounts receivable 1,200 \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 11 of 20 \n \n \nCash received from customers (in € thousands) is:"
+      },
+      "choices": [
+        "3,800.",
+        "5,000.",
+        "6,200."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because if revenue reported using accrual accounting is higher than the \ncash actually collected, the result will typically be an increase in accounts \nreceivable. Also, Beginning accounts receivable Plus: Revenues Minus: Cash collected \nfrom customers Equals: Ending accounts receivable restated as: \nCash collected from customers = Beginning accounts receivable + Revenue – Ending \naccounts receivable; or = Revenue – Increase in accounts receivable = 5,000 – 1,200 \n= 3,800."
+      }
+    },
+    {
+      "id": "ea574d62-6ea9-4c90-85a5-a16c4f2997af",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company’s equipment base: \nBeginning balance accumulated depreciation € 70,00,000 \nEnding balance accumulated depreciation € 80,00,000 \nDepreciation expense of equipment € 40,00,000 \n \nThe company sold equipment having a historical cost of €5,000,000 and reported a \nloss on sale of €250,000. The cash received from the sale of equipment is:"
+      },
+      "choices": [
+        "€750,000.",
+        "€1,750,000.",
+        "€4,750,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because selling price (cash inflow) minus book value equals gain or loss \non sale; therefore, gain or loss on sale plus book value equals selling price (cash \ninflow). \nAccumulated depreciation on the equipment sold = Beginning balance accumulated \ndepreciation + Depreciation expense – Ending balance accumulated depreciation; \nor = €7,000,000 + €4,000,000 – €8,000,000 = €3,000,000. \nBook value of the equipment sold = Historical cost of equipment sold – Accumulated \ndepreciation on equipment sold; or = €5,000,000 – €3,000,000 = €2,000,000. Cash \nreceived from sale of equipment = Book value of the equipment sold – Loss on sale = \n€2,000,000 – €250,000 = €1,750,000."
+      }
+    },
+    {
+      "id": "8f4da988-0111-406c-9aff-997eb1e5832d",
+      "prompt": {
+        "text": "When calculating cash paid to suppliers based on income statement and balance \nsheet data, cost of sales is adjusted for changes in:"
+      },
+      "choices": [
+        "inventory only.",
+        "accounts payable only.",
+        "both inventory and accounts payable."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because there are two pieces to this calculation: the amount of inventory \npurchased and the amount paid for it. To determine purchases from suppliers, cost \nof goods sold is [cost of sales] adjusted for the change in inventory. Therefore, once \npurchases have been determined, cash paid to suppliers can be calculated by adjusting \npurchases for the change in accounts payable."
+      }
+    },
+    {
+      "id": "f7659cc4-75ce-4ba6-b397-aa9117a3db54",
+      "prompt": {
+        "text": "On the statement of cash flows, cash dividends paid may be classified as an \noperating activity under:"
+      },
+      "choices": [
+        "IFRS only.",
+        "US GAAP only.",
+        "both IFRS and US GAAP."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because US GAAP classify dividends paid to stockholders as a financing \nactivity, whereas IFRS allow companies to classify dividends paid as either an \noperating activity or a financing activity. \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 19 of 20"
+      }
+    },
+    {
+      "id": "48ee9263-2548-4a1d-82ad-1ac683e83256",
+      "prompt": {
+        "text": "On the statement of cash flows, interest paid should be classified as:"
+      },
+      "choices": [
+        "a financing cash flow only.",
+        "an operating cash flow only.",
+        "either a financing or an operating cash flow."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because IFRS allows more flexibility in the reporting of such items as \ninterest paid. IFRS allows companies to classify interest expense as either an \noperating activity or a financing activity."
+      }
+    },
+    {
+      "id": "6e58d26a-3c33-44d8-aecb-e62d600420c1",
+      "prompt": {
+        "text": "Under the indirect method of reporting cash flow from operating activities, a \ndecrease in deferred income tax liabilities is:"
+      },
+      "choices": [
+        "ignored.",
+        "added back to net income.",
+        "subtracted from net income."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a decrease in deferred tax liability  would be subtracted from \nnet income under the indirect method of reporting cash flow from operations."
+      }
+    },
+    {
+      "id": "0aabd99e-c8e2-4a39-b24f-578871bcfd55",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 \nDecember: \nInterest payable on 1 January £45,000 \nCash interest paid during the year £15,000 \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 12 of 20 \n \nInterest expense during the year £50,000 \n \nInterest payable on 31 December is:"
+      },
+      "choices": [
+        "£30,000.",
+        "£80,000.",
+        "£95,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Ending interest payable = Beginning interest payable + Interest \nexpense – Cash paid for interest. Accordingly, Ending interest payable = Beginning \ninterest payable + Interest expense – Cash paid for interest = £45,000 + £50,000 – \n£15,000 = £80,000."
+      }
+    },
+    {
+      "id": "167e778f-8b11-4f59-975c-6b1da014f976",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ millions) about a company: \nOther operating expenses 4,500 \nDecrease in prepaid expenses 200 \nIncrease in other accrued liabilities 300 \n \nCash paid for other operating expenses (in £ millions) is:"
+      },
+      "choices": [
+        "4,000.",
+        "4,400.",
+        "4,600."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because to determine the cash paid for other operating expenses, it is \nnecessary to adjust the other operating expenses amount on the income statement \nby the net changes in prepaid expenses and accrued expense liabilities for the year. \nAccordingly, Cash paid for other operating expenses = Other operating expenses – \nDecrease in prepaid expenses – Increase in other accrued liabilities = 4,500 – 200 – \n300 = 4,000."
+      }
+    },
+    {
+      "id": "9af4a9e9-d80a-4579-806d-0c57b7d20326",
+      "prompt": {
+        "text": "A company with positive net income could report negative cash flow from operating \nactivities if the company:"
+      },
+      "choices": [
+        "retires outstanding bonds.",
+        "recognizes significant depreciation expense.",
+        "realizes a gain from the sale of a fixed asset."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a gain from the sale of a fixed asset increases net income but \ndoes not increase operating cash flow. Therefore, it does not appear in the \noperating cash flow section under the direct method and is deducted from net \nprofit in calculating cash flow from operating activities under the indirect method."
+      }
+    },
+    {
+      "id": "af58130f-6af4-4c09-8da8-2489b39ca32c",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nCash received from customers 800 \nPurchases from suppliers 700 \nIncrease in inventory 50 \nIncrease in accounts receivable 60 \n \nIf all purchases and sales were made on credit, gross profit (in € millions) is:"
+      },
+      "choices": [
+        "90.",
+        "110.",
+        "210."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because Revenue = Cash received from customers + Increase in accounts \nreceivable; or = €800 + €60 = €860; and Beginning inventory + Purchases = Cost of \nSales + Ending inventory; or Cost of sales = Purchases – Increase in inventory; or = \n€700 – €50 = €650. Therefore, Gross profit = Revenue – Cost of Sales; or = €860 – \n€650 = €210."
+      }
+    },
+    {
+      "id": "38a8db8e-e5a3-4951-96e0-bc81702d531a",
+      "prompt": {
+        "text": "The following information relates to a fixed asset that has been sold: \nHistorical cost ¥10 million \nAccumulated depreciation ¥4 million \nSelling price ¥8 million \n \nThe transaction is reported on the statement of cash flows as an:"
+      },
+      "choices": [
+        "investing cash inflow of ¥2 million.",
+        "investing cash inflow of ¥8 million.",
+        "operating cash inflow of ¥8 million. \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 13 of 20"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the entire proceeds from the sale of a fixed asset are an \ninvesting cash inflow, regardless of whether there was a gain or loss from the sale of \nthe asset. Therefore, the selling price of ¥8 million is an investing cash inflow."
+      }
+    },
+    {
+      "id": "bf0e3abf-2b96-4e3e-b0a6-ab8009949e9c",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company for a fiscal year: \nRevenues $36,000 \nBeginning accounts receivable $1,500 \nEnding accounts receivable $2,500 \n  \nUnder the direct method of computing cash flow from operating activities, cash \nreceived from customers for the year is closest to:"
+      },
+      "choices": [
+        "$33,500.",
+        "$35,000.",
+        "$37,000."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because cash collected from customers is equal to revenue ($36,000) \nless the increase in accounts receivable ($2,500 – $1,500 = $1,000) or $36,000 – \n$1,000 = $35,000."
+      }
+    },
+    {
+      "id": "43dccc97-5478-4b33-8f94-a6d9eb079716",
+      "prompt": {
+        "text": "An analyst gathered the following information (in £ thousands) about a company's \nfiscal year: \n  Year 2 Year 1 \nNet income 112,000 188,100 \nDepreciation expense 14,000 12,500 \nAccounts receivable 330,000 375,000 \nInventory 335,000 280,000 \nAccounts payable 172,000 136,000 \nAmortization of bond discount 7,400 7,900 \n \nCash flow from operating activities (in £ thousands) on the Year 2 statement of \ncash flows should be:"
+      },
+      "choices": [
+        "107,400.",
+        "144,600.",
+        "159,400."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because cash flow from operating activities calculated using the \nindirect method begins with net income and makes adjustments for non-cash \noperating activities, non-cash operating expenses and changes in operating working \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 20 of \n20 \n \ncapital items. Depreciation is a non-cash operating expense and is added back; \namortization of bond discount is a non-cash operating expense and is added back; \nthe decrease in accounts receivable of 45,000 (375,000 – 330,000) is added back; \nthe increase in inventory of 55,000 (335,000 – 280,000) is subtracted; and \nthe increase in accounts payable of 36,000 (172,000 – 136,000) is added back to \nnet income. \nTherefore, the calculation becomes 112,000 + 14,000 + 7,400 + 45,000 – 55,000 + \n36,000 = 159,400."
+      }
+    },
+    {
+      "id": "83849b68-8b73-42ac-8383-97391dc80d97",
+      "prompt": {
+        "text": "Golden Cumulus Corp., a commodities trading company, reported interest expense of \n$19 million and taxes of $6 million. Interest payable increased by $3 million, and \ntaxes payable decreased by $4 million over the period. How much cash did the \ncompany pay for interest and taxes?"
+      },
+      "choices": [
+        "$22 million for interest and $10 million for taxes.",
+        "$16 million for interest and $2 million for taxes.",
+        "$16 million for interest and $10 million for taxes. \n \n \n  \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 14 of 20"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Interest expense of $19 million less the increase in interest payable of \n$3 million equals interest paid of $16 million. Tax expense of $6 million plus the \ndecrease in taxes payable of $4 million equals taxes paid of $10 million."
+      }
+    }
+  ]
+}

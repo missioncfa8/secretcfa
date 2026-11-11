@@ -1,0 +1,247 @@
+{
+  "title": "Module 13: International Trade",
+  "topic": "Economics",
+  "module_number": 13,
+  "module_name": "International Trade",
+  "year": 2027,
+  "items": [
+    {
+      "id": "2256b562-4dc6-4d63-b44d-fee1e71e5ed3",
+      "prompt": {
+        "text": "Which of the following statements best describes the benefits of \ninternational trade?"
+      },
+      "choices": [
+        "Countries gain from exchange and specialization.",
+        "Countries receive lower prices for their exports and pay higher prices for imports.",
+        "Countries gain from trade because all individuals and companies benefit in the long \nterm."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Countries gain from exchange when trade enables each country  to \nreceive a higher price for exported goods or pay a lower price for imported  goods. \nThis leads to more efficient resource allocation and allows consumption of  a larger \nvariety of goods."
+      }
+    },
+    {
+      "id": "7026205c-c6ef-4eb6-897b-9aa8c740bc76",
+      "prompt": {
+        "text": "Which of the following statements best describes the costs of \ninternational trade?"
+      },
+      "choices": [
+        "Countries without an absolute advantage in producing a good cannot benefit  \nsignificantly from international trade.",
+        "Resources may need to be allocated into or out of an industry and  less-efficient \ncompanies may be forced to exit an industry, which in turn  may lead to higher \nunemployment.",
+        "Loss of manufacturing jobs in developed countries as a result of import  \ncompetition means that developed countries benefit far less than developing  \ncountries from trade."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Resources may need to be reallocated into or out of an industry, \ndepending on whether that industry is an exporting sector or an import -competing \nsector of that economy. As a result of this adjustment process, less -efficient \ncompanies may be forced to exit the industry, which in turn may lead to higher  \nunemployment and the need for retraining so that displaced workers may find jobs in \nexpanding industries."
+      }
+    },
+    {
+      "id": "60fd2169-2e70-4200-8ae5-0850d4198107",
+      "prompt": {
+        "text": "Suppose the cost of producing tea relative to copper is lower in Tealand \nthan in Copperland. With trade, the copper industry in Copperland would most likely:"
+      },
+      "choices": [
+        "expand.",
+        "contract.",
+        "remain stable."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The copper industry in Copperland would benefit from trade. Because  \nthe cost of producing copper relative to producing tea is lower in Copperland than in \nTealand, Copperland will export copper and the industry will expand."
+      }
+    },
+    {
+      "id": "2bbd6a21-44eb-45c4-b11e-a85b25ea2710",
+      "prompt": {
+        "text": "Which type of trade restriction would most likely increase domestic \ngovernment revenue?"
+      },
+      "choices": [
+        "Tariff",
+        "Import quota",
+        "Export subsidy"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The imposition of a tariff will most likely increase domestic government \nrevenue. A tariff is a tax on imports collected by the importing country’s government."
+      }
+    },
+    {
+      "id": "9005f453-c8b5-4acf-bb80-30b8fbbf067e",
+      "prompt": {
+        "text": "Which of the following trade restrictions is likely to result in the greatest \nwelfare loss for the importing country?"
+      },
+      "choices": [
+        "A tariff",
+        "An import quota",
+        "A voluntary export restraint"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. With a voluntary export restraint, the price increase induced by \nrestricting the quantity of imports (= quota rent for equivalent quota = tariff revenue \nfor equivalent tariff) accrues to foreign exporters or the foreign government."
+      }
+    },
+    {
+      "id": "707605b7-35bc-40cd-9310-ddf44a5c1bef",
+      "prompt": {
+        "text": "A large country can:"
+      },
+      "choices": [
+        "benefit by imposing a tariff.",
+        "benefit with an export subsidy.",
+        "not benefit from any trade restriction. \n \n \nInternational Trade \nFaculty:                                                                         Page 2 of 5"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. By definition, a large country is big enough to affect the world price of \nits imports and exports. A large country can benefit by imposing a tariff if its terms \nof trade improve by enough to outweigh the welfare loss arising from inefficient  \nallocation of resources."
+      }
+    },
+    {
+      "id": "634625d1-1c37-440d-ba30-c427b1acd395",
+      "prompt": {
+        "text": "If Brazil and South Africa have free trade with each other, a common \ntrade policy  against all other countries, but no free movement of factors of \nproduction between them, then Brazil and South Africa are part of a(n):"
+      },
+      "choices": [
+        "customs union.",
+        "common market.",
+        "FTA."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A customs union extends an FTA by not only allowing free movement of \ngoods and services among members, but also by creating common trade policy against \nnon-members. Unlike a more integrated common market,  a customs union does not \nallow free movement of factors of production among members."
+      }
+    },
+    {
+      "id": "ba775660-4886-4aa2-bb69-2ed8e961d64a",
+      "prompt": {
+        "text": "Which of the following factors best explains why regional trading \nagreements are more popular than larger multilateral trade agreements?"
+      },
+      "choices": [
+        "Minimal displacement costs",
+        "Trade diversions benefit members",
+        "Quicker and easier policy coordination"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Regional trading agreements are politically less contentious and quicker \nto establish than multilateral trade negotiations (e.g., under the World  Trade \nOrganization). Policy coordination and harmonization is easier among a  smaller group \nof countries."
+      }
+    },
+    {
+      "id": "37968bf9-3905-4c2f-9ac2-ca5d8698e346",
+      "prompt": {
+        "text": "Four countries operate within a customs union. One country proposes \nmoving to a common market structure. What additional level of economic integration \nbetween the countries would most likely arise if this change took place? They would:"
+      },
+      "choices": [
+        "begin to allow free movement of the factors of production.",
+        "establish common economic institutions and coordination of economic policies.",
+        "establish common trade barriers against non-members."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect. A common market structure incorporates all aspects of the customs \nunion and extends it by allowing free movement of factors of production among \nmembers. \n \nInternational Trade \nFaculty:                                                                         Page 5 of 5"
+      }
+    },
+    {
+      "id": "a9355d21-532c-4ddd-9c32-8506cd47b6ab",
+      "prompt": {
+        "text": "With respect to trading blocs, a common market most likely incorporates \nall aspects of a(n):"
+      },
+      "choices": [
+        "customs union.",
+        "monetary union.",
+        "economic union."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the common market is the next level of economic integration \nthat incorporates all aspects of the customs union and extends it by allowing free \nmovement of factors of production among members."
+      }
+    },
+    {
+      "id": "d1a67ad8-f039-48e9-99b3-4713abf605b0",
+      "prompt": {
+        "text": "The implementation of an export subsidy for a normal good produced in a \nsmall country will most likely increase the:"
+      },
+      "choices": [
+        "domestic consumption of the good.",
+        "price of the good in the domestic market.",
+        "national welfare of the country providing the subsidy."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in the case of an export subsidy, the exporter has the incentive \nto shift sales from the domestic to the export market because it receives the \ninternational price plus the per-unit subsidy for each unit of the good exported. This \nscenario raises the price in the domestic market by the amount of the subsidy in the \nsmall country case (price before subsidy plus subsidy)."
+      }
+    },
+    {
+      "id": "c5d48419-75a6-4f00-8eab-4686b5e282d2",
+      "prompt": {
+        "text": "An argument against free trade is that:"
+      },
+      "choices": [
+        "it has the potential to lead to greater income inequality.",
+        "it increases average production costs in goods and services.",
+        "it discourages foreign research and development in an economy."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because opponents of free trade point to the potential for greater \nincome inequality and the loss of jobs in developed countries as a result of import \ncompetition."
+      }
+    },
+    {
+      "id": "9a43caec-553c-41c6-a59e-78df65c29cf7",
+      "prompt": {
+        "text": "When a country that is a price taker imposes a tariff on an imported \ngood:"
+      },
+      "choices": [
+        "national welfare increases.",
+        "consumers gain consumer surplus.",
+        "local producers gain producer surplus. \n \nInternational Trade \nFaculty:                                                                         Page 3 of 5"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the economic impact of a tariff on imports in small country is \none that is a price taker in the world market for a product and cannot influence the \nworld market price. The welfare effect can be summarized as follows: Consumers \nsuffer a loss of consumer surplus, local producers gain producer surplus and the net \nwelfare effect results in a deadweight loss to the country's welfare."
+      }
+    },
+    {
+      "id": "88fe2ed8-ab3e-488c-84be-782687803146",
+      "prompt": {
+        "text": "A small country has a comparative advantage in the production of pencils. \nThe government establishes an export subsidy for pencils to promote economic \ngrowth. Which of the following will be the most likely result of this policy?"
+      },
+      "choices": [
+        "Although domestic producers will receive a net benefit, the policy will give rise to \ninefficiencies that cause a deadweight loss to the national welfare.",
+        "As new domestic producers enter the pencils market, supply will increase and \ndomestic prices will decline.",
+        "The increase in the domestic producer surplus will exceed the sum of the subsidy \nand the decrease in the domestic consumer surplus. \n \n \n \nSUMMARY: - \n \n(LOS 17.a): – 1, 2, 3, 6, 12 \n(LOS 17.b): – 4, 5, 11, 13, 14 \n(LOS 17.c): – 7, 8, 9, 10 \n \n \n \n  \nInternational Trade \nFaculty:                                                                         Page 4 of 5"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Export subsidies interfere with the functioning of the free market and \nresult in a deadweight loss to society. The deadweight loss arises on the producer \nside because the higher subsidized price causes inefficient producers to remain in \nthe market. On the consumer side, the higher price causes those that would have \npurchased at the lower price to be shut out of the market."
+      }
+    }
+  ]
+}

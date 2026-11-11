@@ -1,0 +1,298 @@
+{
+  "title": "Module 05: Statistical Characteristics of Asset Returns",
+  "topic": "Quantitative Methods",
+  "module_number": 5,
+  "module_name": "Statistical Characteristics of Asset Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "12968ada-dc22-4258-a7e5-6bc652627e99",
+      "prompt": {
+        "text": "The annual returns for three portfolios are shown in the following table. Portfolios P and R were created in \nYear 1. Portfolio Q was created in Year 2.\nAnnual Portfolio Returns (%)\n  Year 1 Year 2 Year 3 Year 4 Year 5\nPortfolio P −3.0 4.0 5.0 3.0 7.0\nPortfolio Q NA −3.0 6.0 4.0 8.0\nPortfolio R 1.0 −1.0 4.0 4.0 3.0\nThe median annual return from the time the portfolio is created to Year 5 for:"
+      },
+      "choices": [
+        "Portfolio P is 4.5%.",
+        "Portfolio Q is 4.0%.",
+        "Portfolio R is higher than its arithmetic annual return."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "5b200eaf-a3cf-4ff2-8a74-819696c68b51",
+      "prompt": {
+        "text": "What is the purpose of dividing data into quantiles?"
+      },
+      "choices": [
+        "To rank the data in ascending order only",
+        "To divide up data into meaningful subsets, allowing for comparison of data based on distinguishing \ncharacteristics",
+        "To calculate the average value of each data segment"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "df6dd3b1-cc8a-4f1b-a79e-0d5180684dca",
+      "prompt": {
+        "text": "Why is Bessel’s correction used in sample variance and standard deviation calculations?"
+      },
+      "choices": [
+        "To adjust for the underestimation of population variance and standard deviation",
+        "To increase the complexity of statistical calculations",
+        "To align with the total number of observations in the sample"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2437e79c-0ae4-4edb-ab4f-b1fc0f8edcf4",
+      "prompt": {
+        "text": "Unlike standard deviation, the mean absolute deviation:"
+      },
+      "choices": [
+        "squares each deviation from the mean, providing a measure that is more sensitive to outliers.",
+        "is calculated only for data points above the median, making it suitable for distributions that are \nasymmetric about the mean.",
+        "uses the values of the distances from the mean, making it less sensitive to extreme values."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1b8bfc53-d15c-4ce6-810c-c0a550569d7c",
+      "prompt": {
+        "text": "When analyzing a dataset with pronounced skewness and kurtosis, which measure of central tendency is \nleast likely to be affected by extreme values?"
+      },
+      "choices": [
+        "The mean",
+        "The mode",
+        "The median"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "93427a3e-ed7f-4c6a-ad8d-65a8c6425b5c",
+      "prompt": {
+        "text": "The following 10 observations are a sample drawn from an approximately normal population:\nObservation 1 2 3 4 5 6 7 8 9 10\nValue –\n3 –11 3 –18 18 20 –\n6 9 2 –16\nThe sample standard deviation is closest to:"
+      },
+      "choices": [
+        "11.92.",
+        "12.50.",
+        "13.18."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a503798d-17d3-4a2f-8ced-4aa8fadb8c90",
+      "prompt": {
+        "text": "Which of the following statements is most accurate? The first quintile generally exceeds the:"
+      },
+      "choices": [
+        "median.",
+        "first decile.",
+        "first quartile."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fbd82180-b797-458c-b7b4-ee5ca0f431cd",
+      "prompt": {
+        "text": "An analyst gathers the following information about a portfolio's returns:\nYea\nr Return\n1 6%\n2 7%\n3 3%\n4 2%\n5 4%\nIf the target return is 5%, the target downside deviation is closest to:"
+      },
+      "choices": [
+        "1.7%.",
+        "1.9%.",
+        "2.2%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ccb5f9fc-e35c-459c-b4fd-5e222b47dd06",
+      "prompt": {
+        "text": "For a positively skewed unimodal distribution, which of the following measures is most accurately \ndescribed as the largest?"
+      },
+      "choices": [
+        "Mean",
+        "Mode",
+        "Median"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "5371a390-18d3-4ba0-8404-6eb3dce0a5d6",
+      "prompt": {
+        "text": "The figure below shows the histogram for the distribution of weekly returns on an index. The median of the \nreturns on the index, if compared to the mean, will most likely be:"
+      },
+      "choices": [
+        "smaller.",
+        "equal.",
+        "greater."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "887e3358-26d4-49d0-a260-73b12056dbd6",
+      "prompt": {
+        "text": "For a given expected return and standard deviation, investors are most likely to be attracted to return \ndistributions that are:"
+      },
+      "choices": [
+        "negatively skewed.",
+        "normal.",
+        "positively skewed"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a616744d-07d9-45d5-894a-d1319b958951",
+      "prompt": {
+        "text": "A return distribution with negative skew and a mean of zero most likely has:"
+      },
+      "choices": [
+        "frequent small gains and a few extreme losses.",
+        "frequent small losses and a few extreme gains.",
+        "frequent extreme losses and a few small gains."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "3576e809-f8e9-4124-b61a-725094b2283a",
+      "prompt": {
+        "text": "If the covariance between two positively correlated random variables remains the same but the variance of \nboth variables increases, the correlation between the two variables:"
+      },
+      "choices": [
+        "decreases.",
+        "stays the same.",
+        "increases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f876eb58-a515-474a-aba5-0f11f3bb4af7",
+      "prompt": {
+        "text": "The correlation coefficient:"
+      },
+      "choices": [
+        "ranges from 0 to 1.",
+        "is not affected by outliers.",
+        "indicates the strength of the linear relationship between two random variables."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c3f804bb-aa72-452f-a4ff-b3c543f5fd1c",
+      "prompt": {
+        "text": "Which of the following visualizations is most appropriate for interpreting the correlation between two \nvariables?"
+      },
+      "choices": [
+        "Tree-map",
+        "Scatter plot",
+        "Clustered bar chart"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fad2c7f2-12af-45a2-b6a0-b2e50b1ea385",
+      "prompt": {
+        "text": "A risk manager would like to calculate the coefficient of variation of a portfolio. The following table reports \nthe annual returns of the portfolio and of the risk-free rate over the most recent five years:\nYear Portfolio \nReturn Risk-Free Rate\n1 4.0% 2.0%\n2 –1.0% 1.5%\n3 7.0% 1.0%\n4 11.0% 1.0%\n5 2.0% 0.5%\nThe coefficient of variation of the portfolio is closest to:"
+      },
+      "choices": [
+        "0.74.",
+        "0.90.",
+        "1.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e5cea5c9-8622-4f15-a3dc-423780c4cc9c",
+      "prompt": {
+        "text": "For a set of return observations, the coefficient of variation is best described as a measure of:"
+      },
+      "choices": [
+        "risk per unit of mean return.",
+        "mean excess return earned per unit of risk.",
+        "average absolute deviation around the mean return."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

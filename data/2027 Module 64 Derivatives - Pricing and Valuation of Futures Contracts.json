@@ -1,0 +1,196 @@
+{
+  "title": "Module 64: Pricing and Valuation of Futures Contracts",
+  "topic": "Derivatives",
+  "module_number": 64,
+  "module_name": "Pricing and Valuation of Futures Contracts",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a005ae88-8a29-425f-b7ac-b92608eb85ef",
+      "prompt": {
+        "text": "Ace serves as a futures commission merchant to assist several of its commodity  \ntrading adviser (CTA) clients to clear and settle their futures margin positions  with \nthe futures exchange. Ace is reviewing the copper futures market for a CTA  client \nconsidering a long copper futures position for the first time. Details of the  copper \nfutures market are as follows: \n \nCME Copper Futures Contract Specifications \nContract Maturities: Monthly [from 1 month to 15 months] \nContract Size: 25,000 pounds \nDelivery Type: Cash settled \nPrice Quotation: $ per pound \nInitial Margin: $10,000 per contract \nMaintenance Margin: $6,000 per contract \nFinal Maturity: Last CME business day of contract month \nDaily Settlement: CME Trading Operations calculates daily settlement \nvalues based on its published procedures \n \nToday’s copper spot price is $4.25 per pound, and the constant risk -free rate is  \n1.875%. Each contract has a $ 10 storage cost payable at the end of the month. Which \nof the following statements best characterizes the margin exposure profile of Ace’s \nCTA client if it enters a one-month copper futures contract?"
+      },
+      "choices": [
+        "The CTA will be expected to post $10,000 initial margin and would receive a  \nmargin call if the copper futures price were to immediately fall below $4.10  per \npound or below a price of $102,425 per contract.",
+        "The CTA would be expected to post $10,000 in initial margin and would receive a \nmargin call at any time over the life of the contract if the copper  futures price \nwere to immediately fall below $3.86 per pound or below a  price of $96,425 per \ncontract.",
+        "The CTA will be expected to post $10,000 initial margin, but we cannot determine \nthe exact futures price at which a margin call will occur as the  futures MTM is \nsettled each day and the contract value resets to zero. \n \n \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 2 of 7"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The CTA will face a margin call if the copper contract price falls  by \nmore than $4,000, or $0.16 (= $4,000/25,000) per pound. We may solve for the price \nat which the CTA receives a margin call by first solving for the initial  futures \ncontract price, f0(T), at contract inception as follows: \nf 0(T) = [S 0 + PV0(C)] (1 + r)T . \n \nSolve for PV0(C) per pound as follows: \nPV0(C) = $9.98 (= $10[1.01875–(1/12)]). \n \nSubstitute PV0(C) = $9.98 into Equation 4 to solve for f 0(T): \nf 0(T) = [($4.25 × 25,000) + $9.98](1.01875 -(1/12)) \nf 0(T) = $106,425 per contract (≈ $4.257 per pound). \n \nSo, $106,425 − $4,000 = $102,425 per contract, and $4.257 − $0.16 = $4.10 per  \npound. \n \nB is incorrect as it assumes there is no maintenance margin, and while C may be true \nunder some circumstances, the change in A is immediate (occurs at trade inception)."
+      }
+    },
+    {
+      "id": "0e82e62e-e5cb-4397-80ed-1b00726ebc21",
+      "prompt": {
+        "text": "One of Ace’s investor clients has entered a long six-month forward transaction with \nAce on 100 shares of Xenaliya (XLYA), a non -dividend-paying technology stock. The \nstock’s spot price per share, S0, is €85, and the risk -free rate is a constant 1% for \nall maturities. Ace has hedged the client transaction with a long  six-month XLYA \nfutures contract at a price f0(T) of €85.42 and posted initial margin of €1,000. Three \nmonths after the forward and futures contracts are initiated,  XYLA announces a \nstrategic partnership with a major global technology  firm, and its spot share price \njumps €15 on the day’s trading to close at €123.  Which of the following statements \nbest characterizes the impact of the day’s trading on the MTM value of the forward \nversus the futures contract?"
+      },
+      "choices": [
+        "Ace’s client realizes an MTM gain of approximately €1,500 (= €15 × 100) on  its \nmargin account, which Ace must deposit at the end of the day to cover its margin \ncall.",
+        "Ace’s client benefits from an MTM unrealized gain on its forward contract  with \nAce, and Ace has a corresponding MTM gain of approximately €1,500 (= €15 × 100) \ndeposited in its margin account by the exchange.",
+        "Because Ace has entered a hedge of its client’s long forward position on XLYA by \nexecuting a futures contract with otherwise identical terms,  the two contract \nMTM values exactly offset one another and no cash is  exchanged on either \ntransaction."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. An FRA fixed-rate payer (floating-rate receiver) will realize a gain on \nthe contract upon settlement (equal to the present value of the difference between \nthe fixed rate and MRR multiplied by the contract notional over the specified  \ninterest period) if MRR settles above the initial fixed rate on the contract."
+      }
+    },
+    {
+      "id": "3c815d8e-f27d-4031-b227-03df8d00af19",
+      "prompt": {
+        "text": "Ace’s investor clients usually use OTC forward transactions that Ace must clear with \na central counterparty. Which of the following statements related to the  impact on \nAce from clearing these positions is most accurate?"
+      },
+      "choices": [
+        "If Ace’s counterparties enter long forward contracts whose prices are positively \ncorrelated with interest rates, Ace will have to post more collateral  to central \ncounterparties than for otherwise similar futures contracts, since  rising prices \nwill lead to counterparty MTM gains reinvested at higher rates.",
+        "If Ace’s counterparties enter short forward contracts whose prices are  \nnegatively correlated with interest rates, Ace will have to post less collateral  to \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 3 of 7 \n \ncentral counterparties than for otherwise similar futures contracts, since falling \nprices will lead to counterparty MTM gains reinvested at higher rates.",
+        "Since Ace is required to post collateral (cash or highly liquid securities)  to the \ncentral counterparty to clear its client forward transactions, Ace will face similar \nmargining requirements to those of standardized  exchange-traded futures \nmarkets."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Mandatory central clearing requirements impose margin requirements on \nfinancial intermediaries similar to those of standardized  exchange-traded futures \nmarkets, who often pass these costs and/or requirements on to their clients. Answers \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 6 of 7 \n \nA and B are incorrect, as the MTM gains on  the forward contracts are not realized \nuntil maturity."
+      }
+    },
+    {
+      "id": "6639b189-0917-4f10-a076-a7a19e66210d",
+      "prompt": {
+        "text": "Which of the following derivatives realize a gain as the market reference rate rises \nabove the initial fixed rate?"
+      },
+      "choices": [
+        "Long forward rate agreements only",
+        "Short interest rate futures contracts only",
+        "Both long forward rate agreements and short interest rate futures contracts"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because realizing a gain on the FRA contract as rates rise. Note that this \nwould be equivalent to taking a short position on a CNY MRR futures contract if one \nwere available.  A long FRA (i.e., FRA floating -rate receiver (fixed -rate \npayer) position realizes a gain as MRR rises. A short futures contract price is based \non (100 − yield), which gains as yield-to-maturity (MRR) rises."
+      }
+    },
+    {
+      "id": "c5e75c49-5027-4d97-96ff-652746c526e2",
+      "prompt": {
+        "text": "An analyst gathers the following information: \n• The current spot price of crude oil is $120 per barrel. \n• The risk-free rate is 3% with annual compounding. \n• A futures contract has 182 days until settlement. \n• The storage cost is $5 per barrel, payable at the end of the futures contract. \nBased on 365 days per year, the futures price per barrel of crude oil is closest to:"
+      },
+      "choices": [
+        "$126.78.",
+        "$126.86.",
+        "$126.93."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the futures price for a commodity with known storage cost \namounts may be determined as: f0(T) = [S0 + PV0(C)] × (1 + r)T. \nPV0(C) = $5×(1 + 3%)-182/365. \nf0(T) = [$120 + $5×(1 + 3%)-182/365]×(1 + 3%)182/365 = $126.781768 ≈ $126.78."
+      }
+    },
+    {
+      "id": "41e10b67-83e8-4a6e-b7cc-171ca921e5fc",
+      "prompt": {
+        "text": "Which of the following interest rate derivatives most likely has the largest \nconvexity bias?"
+      },
+      "choices": [
+        "Forward rate agreement on a 1-month market reference rate",
+        "Forward rate agreement on a 3-month market reference rate",
+        "Interest rate futures contract on a 3-month market reference rate"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the discounting feature of the FRA, which is not present in the \nfutures contract, leads to a convexity bias that is greater for longer discounting \nperiods. Since the length of the discounting  period depends on the maturity of the \nunderlying market reference rate, 3-month market reference rate results in a longer \ndiscounting period than the 1-month rate."
+      }
+    },
+    {
+      "id": "72334bf2-1913-4d60-94c6-7172ca6b4823",
+      "prompt": {
+        "text": "A futures contract’s:"
+      },
+      "choices": [
+        "mark-to-market is not settled until maturity.",
+        "price remains fixed until the contract matures.",
+        "variation margin reduces counterparty credit risk."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the daily settlement mechanism resets the futures MTM to \nzero, and variation margin is exchanged to settle the difference, reducing \ncounterparty credit risk."
+      }
+    },
+    {
+      "id": "57239f74-3102-45be-9fb9-bdc828eb4496",
+      "prompt": {
+        "text": "The differential between forward and futures prices is determined by which of the \nfollowing?"
+      },
+      "choices": [
+        "Interest rate volatility only",
+        "The correlation between futures prices and interest rates only",
+        "Both interest rate volatility and the correlation between futures prices and \ninterest rates \n \n \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 4 of 7"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the different patterns of cash flows for forwards and futures \ncan lead to a difference in the pricing of forwards versus futures. Forward and \nfutures prices are identical under certain conditions, namely: \n• if interest rates are constant, or \n• if futures prices and interest rates are uncorrelated. \nOn the other hand, violations of these assumptions can give rise to differences in \npricing between these two contracts. For example, if futures prices are positively \ncorrelated with interest rates, long futures contracts are more attractive than long \nforward positions for the same underlying and maturity. The reason is because rising \nprices lead to futures profits that are reinvested in periods of rising interest rates, \nand falling prices lead to losses that occur in periods of falling interest rates. The \nprice differential will also vary with the volatility of interest rates. Therefore, the \ndifferential between forward and futures prices is determined by both interest rate \nvolatility and the correlation between futures prices and interest rates."
+      }
+    },
+    {
+      "id": "46cc4321-ebdf-4b83-a24f-775a0b38b452",
+      "prompt": {
+        "text": "All else being equal, the price of a forward contract is most likely higher than the \nprice of a futures contract if interest rates are:"
+      },
+      "choices": [
+        "negatively correlated with futures prices.",
+        "uncorrelated with futures prices.",
+        "positively correlated with futures prices."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a negative correlation between futures prices and interest rates \nleads to forwards being more desirable than futures to the long position. The reason \nis that rising prices lead to futures profits that are reinvested in periods of falling \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 7 of 7 \n \ninterest rates, and falling prices lead to losses that occur in periods of rising interest \nrates. It is far better to receive all cash flows at expiration under such conditions \nthan to receive them in the interim periods. This condition makes forwards more  \nattractive than futures. The more desirable contract will tend to have the higher \nprice. Therefore, the price of the forward contract is higher than the price of the \nfutures contract on the same underlying when interest rates are negatively \ncorrelated with futures prices."
+      }
+    },
+    {
+      "id": "98ba95f5-50f3-45a0-8022-9b90d94be396",
+      "prompt": {
+        "text": "Long futures contracts are more attractive than long forward positions for the \nsame underlying and maturity when futures prices and interest rates are:"
+      },
+      "choices": [
+        "negatively correlated.",
+        "uncorrelated.",
+        "positively correlated."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the different patterns of cash flows for forwards and futures \ncan lead to a difference in the pricing of forwards versus futures  and if futures \nprices are positively correlated with interest rates, long futures contracts are more \nattractive than l ong forward positions for the same underlying and maturity. The \nreason is because rising prices lead to futures profits that are reinvested in periods \nof rising interest rates, and falling prices lead to losses that occur in periods of \nfalling interest rates the more desirable contract will tend to have the higher price."
+      }
+    },
+    {
+      "id": "768e18b9-031b-4dee-9611-375e5f24567a",
+      "prompt": {
+        "text": "The pricing of forwards and futures will most likely differ if:"
+      },
+      "choices": [
+        "interest rates exhibit zero volatility.",
+        "futures prices and interest rates are negatively correlated.",
+        "futures prices and interest rates are uncorrelated. \n \n \n \n  \nPricing and Valuation of Futures Contracts \nFaculty:                                                                                    Page 5 of 7"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is c orrect. The pricing of forwards and futures will differ if futures prices and \ninterest rates are negatively correlated. A negative correlation between futures \nprices and interest rates makes forwards more desirable than futures in the long \nposition."
+      }
+    }
+  ]
+}

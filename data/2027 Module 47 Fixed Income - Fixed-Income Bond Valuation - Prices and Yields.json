@@ -1,0 +1,400 @@
+{
+  "title": "Module 47: Fixed-Income Bond Valuation - Prices and Yields",
+  "topic": "Fixed Income",
+  "module_number": 47,
+  "module_name": "Fixed-Income Bond Valuation - Prices and Yields",
+  "year": 2027,
+  "items": [
+    {
+      "id": "2cf926e2-c64c-47e3-b9ad-8b54889b2244",
+      "prompt": {
+        "text": "A non-callable, fixed-coupon bond has a price of 106.0625 and a YTM of 2.8%. If \nthe YTM were to increase instantaneously by 80 bps, the price of the bond would \ndecrease by 11%. If the YTM were to decrease instantaneously by 80 bps, the price \nof the bond would increase by:"
+      },
+      "choices": [
+        "less than 11%.",
+        "exactly 11%.",
+        "more than 11%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The absolute amount of the price increase would be more than the \nabsolute amount of the price decrease for the same absolute change in YTM \nbecause of the convex relationship between bond price and yield. \nA is incorrect because of the positive convex relationship between bond price and \nyield. For a given level of yield change, the price rise for that given amount of yield \ndecrease will be larger than the price decline for that amount of yield increase. \nB is incorrect because the relationship between bond price and yield is not linear."
+      }
+    },
+    {
+      "id": "89dcb74a-a0c7-4eaf-a4d8-6b716dac74de",
+      "prompt": {
+        "text": "Exceptions to the maturity effect exist for bonds that have:"
+      },
+      "choices": [
+        "long maturities, make small coupon payments, and trade at a discount.",
+        "short maturities, have high coupon rates, and trade at a discount.",
+        "long maturities, have high coupon rates, and trade at a premium."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "22. B is correct because it is the flat price that is 'pulled to par' along the constant-yield \nprice trajectory."
+      }
+    },
+    {
+      "id": "fe89d411-8ddc-47f4-b340-baa2bec183bd",
+      "prompt": {
+        "text": "With a constant market discount rate, as a non-callable, fixed-coupon bond \napproaches maturity:"
+      },
+      "choices": [
+        "the price–yield relationship will become more convex.",
+        "a low-coupon bond trading at a discount will increase in price.",
+        "a high-coupon bond trading at a premium will increase in price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Any bond trading at a discount will increase in price because of the \npull-to-par effect. \nA is incorrect because the price–yield relationship generally becomes less convex as \na bond approaches maturity. \nC is incorrect because a high-coupon bond trading at a premium will decrease in \nprice as it approaches maturity."
+      }
+    },
+    {
+      "id": "b1436129-0264-4177-ac4e-094b6ebf46cd",
+      "prompt": {
+        "text": "A fixed-income analyst is pricing a bond using the following equation. \n𝑃𝑉 = 3\n(1 + 0.0275)1 + 3\n(1 + 0.0275)2 + ⋯ + 103\n(1 + 0.0275)40 \n \nThe bond’s price, relative to par, is most likely:"
+      },
+      "choices": [
+        "greater than 100.",
+        "exactly 100.",
+        "less than 100."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The bond’s periodic coupon rate exceeds the periodic market discount \nrate, or its coupon rate is “excessive” relative to the market. Therefore, the bond \nwill trade at a premium to par. \nB is incorrect. For the bond to trade at par, the coupon rate and market discount \nrate (yield-to-maturity) must be equal. \nC is incorrect. For the bond to trade at a discount, the yield-to-maturity would have \nto be higher than the coupon rate. \n  \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 6 of 8"
+      }
+    },
+    {
+      "id": "740f4227-b913-4fe6-8595-995d30f92573",
+      "prompt": {
+        "text": "A four-year, 2.0% semiannual coupon bond that pays coupons semiannually is trading \nat a price of 102.581. The bond’s annualized yield-to-maturity is closest to:"
+      },
+      "choices": [
+        "0.67%.",
+        "1.34%.",
+        "2.22%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Two approaches to calculating the yield-to-maturity are calculating an \nIRR or using the YIELD function in Microsoft Excel or Google Sheets. The periodic \nIRR is annualized by multiplying by two. \nPeriod Cash Flow YIELD Function   \n0 –102.581 Settlement date 01-01-2000 \n1 1 Maturity date 01-01-2004 \n2 1 Coupon 0.02 \n3 1 Price 102.581 \n4 1 Redemption 100 \n5 1 Coupon frequency 2 \n6 1 Yield 1.34% \n7 1    \n8  101    \nPeriodic IRR 0.67%    \nAnnualized IRR 1.34%    \n \nA is incorrect because 0.67% is the periodic, not annualized, yield-to-maturity. \nC is incorrect. Note that this choice can be eliminated because the bond is trading at \na premium; thus, its yield-to-maturity is lower than its coupon rate of 2.0%."
+      }
+    },
+    {
+      "id": "08e34820-5918-46c6-9821-c3daa0a5942e",
+      "prompt": {
+        "text": "Consider two bonds that are identical except for their coupon rates. The bond that \nwill have the highest interest rate risk most likely has the:"
+      },
+      "choices": [
+        "lowest coupon rate.",
+        "coupon rate closest to its market yield.",
+        "C. highest coupon rate.\nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 2 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. A lower coupon rate means that more of the bond’s value comes from \nrepayment of face value, which occurs at the end of the bond’s life."
+      }
+    },
+    {
+      "id": "363609f2-6bea-4f2b-82a9-376e6b14f4f5",
+      "prompt": {
+        "text": "The market value of an 18-year zero-coupon bond with a maturity value of $1,000 \ndiscounted at a 12% annual interest rate with semi-annual compounding is closest to:"
+      },
+      "choices": [
+        "$122.74.",
+        "$130.04.",
+        "$192.86."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The value of a zero-coupon bond is \nFace value\n(1 + 𝑟)𝑁  \n \nwhere r is the market discount rate per period, and N is the number of evenly spaced \nperiods to maturity. The value of the zero-coupon bond is \n1,000\n(1 + 0.12/2)18×2 = 122.7"
+      }
+    },
+    {
+      "id": "d52f5c12-7321-40e9-b735-af5499e0aaf9",
+      "prompt": {
+        "text": "An investor purchases the bonds of JLD Corp., which pay an annual coupon of 10% \nand mature in 10 years, at an annual yield to maturity of 12%. The bonds will most \nlikely be selling at:"
+      },
+      "choices": [
+        "par.",
+        "a premium.",
+        "a discount."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The coupon rate on the bonds is lower than the yield to maturity, \nimplying that the bonds should be selling at a price lower than their par value —that \nis, at a discount."
+      }
+    },
+    {
+      "id": "3fe4a828-673a-4afc-bdf9-9f13c5302b5c",
+      "prompt": {
+        "text": "An investor sells a bond at the quoted price of $98.00. In addition, she receives \naccrued interest of $4.40. The flat price of the bond is equal to the:"
+      },
+      "choices": [
+        "par value plus accrued interest.",
+        "accrued interest plus the agreed-on bond price.",
+        "agreed-on bond price excluding accrued interest."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The agreed-on bond price excluding accrued interest is referred to as \nthe flat price."
+      }
+    },
+    {
+      "id": "09992723-33b1-4c04-9783-13cbd9db66d4",
+      "prompt": {
+        "text": "A credit analyst is least likely to use matrix pricing to estimate the required yield \nand price of a(n):"
+      },
+      "choices": [
+        "newly underwritten bond.",
+        "actively traded speculative grade bond.",
+        "inactively traded investment grade bond."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Matrix pricing is most suited to pricing inactively traded bonds and newly \nunderwritten bonds. A credit analyst is least likely to use matrix pricing to price an \nactively traded bond. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 7 of 8"
+      }
+    },
+    {
+      "id": "0aac137e-376e-47bd-a7cd-7595a8db14a6",
+      "prompt": {
+        "text": "The maturity effect is least likely to hold for a:"
+      },
+      "choices": [
+        "zero-coupon bond.",
+        "low-coupon, long-term bond trading at a discount.",
+        "low-coupon, long-term bond trading at a premium."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. In some situations, the maturity effect may not hold for a low -coupon \nbond that is trading below par."
+      }
+    },
+    {
+      "id": "e9118c17-139f-45a7-a0ca-3cc5b067f098",
+      "prompt": {
+        "text": "Bonds are quoted using the"
+      },
+      "choices": [
+        "full price and settled using the flat price.",
+        "flat price and settled using the full price.",
+        "\"dirty\" price and settled using the invoice price."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date."
+      }
+    },
+    {
+      "id": "ecbef06f-bb1f-455e-8659-49071491d4cb",
+      "prompt": {
+        "text": "Which of the following does not depend on the market discount rate? A bond's:"
+      },
+      "choices": [
+        "flat price",
+        "full price",
+        "accrued interest"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the accrued interest part of the full price does not depend on \nthe yield-to-maturity."
+      }
+    },
+    {
+      "id": "71bcac5a-34ce-40a4-b91b-f5587ebeed9d",
+      "prompt": {
+        "text": "All else being equal, the absolute value of the percentage price change for an \noption-free bond is most likely: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 3 of 8"
+      },
+      "choices": [
+        "less when the market discount rate decreases than when it increases by the \nsame amount.",
+        "the same whether the market discount rate decreases or increases by the same \namount.",
+        "greater when the market discount rate decreases than when it increases by the \nsame amount."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect)."
+      }
+    },
+    {
+      "id": "aa083093-ead1-440d-8d28-e72589bc07ae",
+      "prompt": {
+        "text": "A three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is \npurchased for $108. One year later, if the yield to maturity has decreased by 100 \nbasis points, the change in the value of this bond is closest to:"
+      },
+      "choices": [
+        "$0.57.",
+        "$1.52.",
+        "$3.08."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "correct because the value of a bond is calculated as: \nPV = [PMT ÷ (1+r)^1] + [PMT ÷(1+r)^2] +...+ [(PMT + FV) ÷(1+r)^N) \nwhere: \nPV = present value, or the price of the bond  \nPMT = coupon payment per period  \nFV = future value paid at maturity, or the par value of the bond  \nr = market discount rate, or required rate of return per period  \nN = number of evenly spaced periods to maturity \nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = \n$108, Solve for I, is equal to 1.114% semi -annually, or 2.228% on an annual basis. If \nthe yield to maturity decreases by 100 bps, the price of the bond after one year is  \ncomputed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% − 1%) ÷ 2] = 0.614%, Solve \nPV, is equal to $107.43. \nTherefore, the change in value of the bond = $108.00 − $107.43 = $0.57."
+      }
+    },
+    {
+      "id": "aa5503f1-55b7-4286-9a0d-50ae864076fc",
+      "prompt": {
+        "text": "A bond has the following characteristics: \nTime to maturity 3 years \nCoupon rate 12% \nPayment period Semiannual \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value \nis closest to:"
+      },
+      "choices": [
+        "122.20.",
+        "122.41.",
+        "122.53."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because \n𝑃𝑉 = 6\n(1 + 0.02)1 + 6\n(1 + 0.02)2 + 6\n(1 + 0.02)3 + 6\n(1 + 0.02)4 + 6\n(1 + 0.02)5 + 6 + 100\n(1 + 0.02)6 \n= 122.4057 ≈ 122.41"
+      }
+    },
+    {
+      "id": "239abe51-6a8b-4f08-b8e8-6925a83f7a23",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond that pays interest \nannually: \nCoupon rate 4% \nTime-to-maturity 3 years \nPar value $100,000 \n \nIf the market discount rate is 5%, the market value of this bond is closest to:"
+      },
+      "choices": [
+        "$89,839.",
+        "$97,277.",
+        "$102,775."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the price of the bond is the present value of the promised cash \nflows and is calculated as follows: \nPrice of bond = 4,000/(1 +5%)^1 + 4,000/(1+5%)^2 + 104,000/(1+5%)^3 = 3,809.5238 \n+ 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, \nI = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. \n \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 8 of 8"
+      }
+    },
+    {
+      "id": "4c4fbced-eef5-4491-b518-fa820beb6ceb",
+      "prompt": {
+        "text": "An analyst gathers the following information: \n  Time to Maturity Yield to Maturity \nBond 1 Three years 3.4% \nBond 2 Eight years 5.4% \n \nBased only on this information, the estimated market discount rate for a 5-year \nbond with similar credit quality is: \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 4 of 8"
+      },
+      "choices": [
+        "4.2%.",
+        "4.4%.",
+        "4.6%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quote d or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times -to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%."
+      }
+    },
+    {
+      "id": "4db61006-44a8-432a-9759-be712ac1b3c1",
+      "prompt": {
+        "text": "Matrix pricing is most likely used to estimate the price of a bond that:"
+      },
+      "choices": [
+        "is highly liquid.",
+        "is not yet issued.",
+        "has unknown credit quality."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times -to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing."
+      }
+    },
+    {
+      "id": "db0d8885-8bec-4ae5-9620-750f741b3d9c",
+      "prompt": {
+        "text": "The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:"
+      },
+      "choices": [
+        "less than 100 basis points.",
+        "100 basis points.",
+        "more than 100 basis points."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect)."
+      }
+    },
+    {
+      "id": "7d6db1af-735d-4ba2-8491-3d28605f81a8",
+      "prompt": {
+        "text": "An analyst gathers the following information about three option-free bonds: \n Bond 1 Bond 2 Bond 3 \nCoupon rate 5% 3% 3% \nMaturity (years) 15 10 15 \n \nAll else being equal, if the market discount rate decreases by 50 basis points, the \nbond most likely to experience the greatest percentage price change is:"
+      },
+      "choices": [
+        "Bond 1.",
+        "Bond 2.",
+        "Bond 3."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because for the same time -to-maturity, a lower -coupon bond has a \ngreater percentage price change than a higher -coupon bond when their market \ndiscount rates change by the same amount (the coupon effect). Bond 3 has the same \ntime-to-maturity as Bond 1 but a  lower coupon, thus Bond 3 would experience a \ngreater percentage price change compared to Bond 1. Also, generally, for the same \ncoupon rate, a longer -term bond has a greater percentage price change than a \nshorter-term bond when their market discount rates change by the same amount (the \nmaturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, \nthus Bond 3 would experience a greater percentage price change compared to Bond"
+      }
+    },
+    {
+      "id": "d43d2697-a40a-4d9d-95a4-7d667b4b16a4",
+      "prompt": {
+        "text": "The flat price of a bond:"
+      },
+      "choices": [
+        "is also referred to as the \"dirty\" price.",
+        "is \"pulled to par\" along the constant-yield price trajectory.",
+        "includes interest which is received by the seller on the settlement date."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "ca19d904-f39e-4a49-af09-e7823c8d8aaa",
+      "prompt": {
+        "text": "A bond is traded in between its coupon payment dates. Which of the following is true?"
+      },
+      "choices": [
+        "The buyer must pay the full price plus the accrued interest.",
+        "The bond’s quoted price is greater than its flat price.",
+        "Accrued interest is not included in the flat price. \nFixed-Income Bond Valuation: Prices and Yields \n \nFaculty:                                                                                        Page 5 of 8"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The flat price, quoted by bond dealers, is the full price less accrued \ninterest. Accrued interest is not included in the flat price. \nA is incorrect. The buyer must pay the full price, which already includes accrued \ninterest. \nB is incorrect. The flat price is the quoted price."
+      }
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "title": "Module 83: Code of Ethics and Standards of Professional Conduct",
+  "topic": "Ethical and Professional Standards",
+  "module_number": 83,
+  "module_name": "Code of Ethics and Standards of Professional Conduct",
+  "year": 2027,
+  "items": [
+    {
+      "id": "093232a3-4a6e-4e5d-9cf0-d874b79806e4",
+      "prompt": {
+        "text": "Oversight of the Professional Conduct Program is the responsibility of \nthe:"
+      },
+      "choices": [
+        "Professional Conduct staff.",
+        "Disciplinary Review Committee.",
+        "CFA Institute Board of Governors."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the CFA Institute Board of Governors maintains oversight and \nresponsibility for the Professional Conduct Program (PCP), which, in conjunction with \nthe Disciplinary Review Committee (DRC), is responsible for enforcement of the Code \nand Standards."
+      }
+    },
+    {
+      "id": "f5419ff7-ab2f-41e8-aec5-720cc8b96753",
+      "prompt": {
+        "text": "Which of the following is one of the seven CFA Institute Standards of \nProfessional Conduct?"
+      },
+      "choices": [
+        "Duties to Employers",
+        "Performance Integrity",
+        "Disclosure of Transactions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Duties to Employers is Standard IV."
+      }
+    },
+    {
+      "id": "ca598f60-bb95-4748-b06e-36edf091f64e",
+      "prompt": {
+        "text": "The CFA Institute Code of Ethics (the Code) and Standards of \nProfessional Conduct (the Standards) require members to:"
+      },
+      "choices": [
+        "encourage others to practice in a professional and ethical manner only.",
+        "promote the integrity and viability of the global capital markets for the ultimate \nbenefit of the investment profession only.",
+        "both encourage others to practice in a professional and ethical manner and \npromote the integrity and viability of the global capital markets for the ultimate \nbenefit of the investment profession."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the Code of Ethics and Standards of Professional Conduct \nstates that members of CFA Institute (including CFA charterholders) and candidates \nfor the CFA designation (Members and Candidates) must practice and encourage \nothers to practice in a profes sional and ethical manner that will reflect credit on \nthemselves and the profession."
+      }
+    },
+    {
+      "id": "2f8a2a84-be59-4ed6-9c71-5614198aa10a",
+      "prompt": {
+        "text": "Which of the following is correct with regard to the Standards of \nProfessional Conduct?"
+      },
+      "choices": [
+        "They require supervisors to focus only on the detection and prevention of \nviolations.",
+        "They set ethical conduct requirements for members and candidates that have \nremained unchanged since their creation.",
+        "They address the risks and limitations of recommendations being made to clients."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Given the constant development of new and exotic financial instruments \nand strategies, the standard regarding communicating with clients includes an implicit \nrequirement to disclose to clients the risks and limitations of recommendations being \nmade to clients."
+      }
+    },
+    {
+      "id": "5b5bfad4-a396-4da2-b551-dc10157fc447",
+      "prompt": {
+        "text": "Tibor Figeczky, CFA, is an equity trader at Global Investment Bank (GB). \nFigeczky traded the bank’s investment portfolio profitably for the past three years \nand earned significant bonuses for his efforts. Subsequently, internal auditors of GB \nformally accu sed Figeczky of exceeding his trading authority and engaging in \nunauthorized trades. According to the CFA Institute Code of Ethics and Standards \nof Professional Conduct, Figeczky should most likely:"
+      },
+      "choices": [
+        "disclose the complaint to CFA Institute.",
+        "refuse further bonuses until the issue is resolved.",
+        "request a temporary suspension of his CFA Institute membership."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct as members and candidates must self-disclose on the annual Professional \nConduct Statement all matters that question their professional conduct, such as \ninvolvement in civil litigation or a criminal investigation or being the subject of a \nwritten complaint."
+      }
+    },
+    {
+      "id": "74ecbd36-067a-4306-b034-99cbe327da23",
+      "prompt": {
+        "text": "Which of the following statements most likely reflects one of the six \ncomponents of the CFA Code of Ethics? Candidates must:"
+      },
+      "choices": [
+        "place the integrity of the investment profession above their own interests. \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 2 of 11",
+        "promote the viability of the global capital markets for their employer’s benefit.",
+        "ignore unprofessional conduct displayed by others within the profession."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. CFA charterholders and candidates must place the integrity of the \ninvestment profession and the interests of clients above their own personal interests."
+      }
+    },
+    {
+      "id": "2eae6c56-198e-445a-8291-0cf78fee156a",
+      "prompt": {
+        "text": "Disclosure of confidential CFA exam information will most likely be \ndetected by the Professional Conduct staff through:"
+      },
+      "choices": [
+        "monitoring online and social media.",
+        "analysis of Proctor Reports.",
+        "annual Professional Conduct Statements."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Professional Conduct inquiries come from a number of sources \nincluding the monitoring of online and social media to detect disclosure of confidential \nexam information."
+      }
+    },
+    {
+      "id": "882243db-5843-430c-8f08-634096571037",
+      "prompt": {
+        "text": "The Standards of Practice Handbook provides guidance:"
+      },
+      "choices": [
+        "regarding the penalties incurred as a result of ethical violations.",
+        "to which all CFA Institute members and candidates must adhere.",
+        "through explanatory material and examples intended to be all inclusive."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The Standards of Practice Handbook provides guidance to which  CFA \nInstitute members and candidates are required to adhere.  \nA is in correct because the Handbook provides guidance in understanding the  \ninterconnectedness of the aspirational and practical principles (not regarding  \npenalties for violations) of the Code of Ethics and Standards of Conduct.  \nC is in correct because although the Standards of Practice Handbook provides  \nhypothetical but factual situations, the explanatory material and examples are not  \nintended to be all inclusive."
+      }
+    },
+    {
+      "id": "2440c97e-a991-40b8-83f2-fe6495aa66bd",
+      "prompt": {
+        "text": "Which of the following statements best describes an aspect of the \nProfessional Conduct Program process?"
+      },
+      "choices": [
+        "Inquiries are not initiated in response to information provided by the media.",
+        "Investigations result in Disciplinary Review Committee panels for each case.",
+        "Investigations may include requesting a written explanation from the member or \ncandidate."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. When an inquiry is initiated, the Professional Conduct staff conducts an \ninvestigation that may include requesting a written explanation from the member or \ncandidate.  \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 7 of 11 \n \nA is incorrect because Professional Conduct inquiries can be initiated in response to \ninformation provided by the media. CFA Institute staff may become  aware of \nquestionable conduct by a member or candidate through the media, regulatory  \nnotices, or another public source.  \nB is in correct because although the Disciplinary Review Committee (DRC) is  \nresponsible for enforcement of the Code and Standards in conjunction with the  \nProfessional Conduct Program (PCP), only in the event that a member or candidate  \ndoes not accept the charges and proposed sanction is the matter referred to a panel \ncomposed of DRC members."
+      }
+    },
+    {
+      "id": "7751a7d8-95fa-4109-8a60-a41aec88d985",
+      "prompt": {
+        "text": "A current Code of Ethics principle reads in full, “Promote the integrity:"
+      },
+      "choices": [
+        "and viability of the global capital markets.”",
+        "of and uphold the rules governing capital markets.”",
+        "and viability of the global capital markets for the ultimate benefit of society.”"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. One of the principles in the Code of Ethics was updated to reflect  the \nrole that the capital markets have in society as a whole.  \nA is incorrect because it is incomplete, missing the additional language to reflect the \nrole that the capital markets have in society as a whole.  \nB is incorrect because this is the old principle as written in the Code of Ethics, which \nwas recently updated to reflect the role of the capital markets in society as a whole."
+      }
+    },
+    {
+      "id": "65fc0009-e92e-4beb-96bb-fd1e057b9235",
+      "prompt": {
+        "text": "As stated in the revised 11th edition, the Standards of Professional \nConduct:"
+      },
+      "choices": [
+        "require supervisors to focus on the detection and prevention of violations.",
+        "adopt separate ethical considerations for programs such as CIPM and Investment \nFoundations.",
+        "address the risks and limitations of recommendations being made to clients."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Given the constant development of new and exotic financial instruments \nand strategies, the standard regarding communicating with clients now  includes an \nimplicit requirement to discuss the risks and limitations of recommendations  being \nmade to clients.  \nA is in correct because the updated standard for members and candidates with  \nsupervision or authority over others within their firms stresses broader compliance  \nexpectations, which include the detection and prevention aspects of the  original \nversion that was the prior focus.  \nB is incorrect because the updated standard not only maintains the integrity of  the \nCFA Program but also expands the same (not separate) ethical considerations  when \nmembers or candidates participate in such programs as the CIPM Program  and the \nInvestment Foundations Certificate."
+      }
+    },
+    {
+      "id": "decf24c7-6fd2-4e1e-b6e8-2e915943c8e6",
+      "prompt": {
+        "text": "According to the Code of Ethics, members of CFA Institute and \ncandidates for the CFA designation must:"
+      },
+      "choices": [
+        "maintain their professional competence to exercise independent professional  \njudgment.",
+        "place the integrity of the investment profession and the interests of clients above \ntheir own personal interests.",
+        "practice in a professional and ethical manner with the public, clients, and  others \nin the global capital markets."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Members of CFA Institute and candidates for the CFA designation must \nplace the integrity of the investment profession and the interests of clients  above \ntheir own personal interests.  \nA is in correct because members of CFA Institute and candidates for the CFA  \ndesignation must maintain and improve their professional competence and strive  to \nmaintain and improve the competence of other investment professionals. The  \nexercise of independent professional judgment is associated with using reasonable  \ncare.  \nC is in correct because members of CFA Institute and candidates for the CFA  \ndesignation must practice and encourage others to practice in a professional and  \nethical manner that will reflect credibly on themselves and the profession. Members \nare supposed to act with integrity, competence, diligence, and respect and in  an \nethical manner with the public, clients, and other market participants. \n \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 8 of 11"
+      }
+    },
+    {
+      "id": "aa2fadd1-484b-4259-8573-bafb46e3ac13",
+      "prompt": {
+        "text": "Which of the following statements best describes an aspect of the \nStandards of Professional Conduct? Members and candidates are required to:"
+      },
+      "choices": [
+        "ensure a portfolio mandate is suitable for all investors. \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 3 of 11",
+        "promptly disclose changes that might materially affect investment processes.",
+        "have a reasonable and adequate basis for decisions about client confidentiality."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The current Standards of Professional Conduct requires members  and \ncandidates to promptly disclose any changes that might materially affect investment \nprocesses.  \nA is in correct because under Standard III.C.2 Suitability, when members and  \ncandidates are responsible for managing a portfolio according to a specific mandate, \nthey must take only investment actions that are consistent with the stated objectives \nof the portfolio. The “fair, accurate, and complete” criterion relates to the Standard \nIII D Performance Presentation.  \nC is incorrect because under Standard III.E.1, 2, 3 Preservation of Confidentiality,  \nmembers and candidates must keep information about current clients confidential  \nunless the information concerns illegal activities on the part of the client, disclosure \nis required by law, or the client permits disclosure. No decisions on  confidentiality \nare required, with the “reasonable and adequate basis” criterion related to Standard \nV.A.2 Diligence and Reasonable Basis."
+      }
+    },
+    {
+      "id": "58906dae-137b-49dc-a080-dce977c5da33",
+      "prompt": {
+        "text": "Which of the following responses most completely represents an ethical \nprinciple of CFA Institute as outlined in the Standards of Practice Handbook?"
+      },
+      "choices": [
+        "Individual professionalism",
+        "Responsibilities to clients and employers",
+        "Ethics involved in investment analysis and recommendations"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Within the Standards of Practice Handbook, CFA Institute addresses  \nethical principles for the profession in the following Standards: individual  \nprofessionalism; integrity in capital markets; responsibilities to clients,  \nresponsibilities to employers; ethics involved in investment analysis, \nrecommendations, and actions; and possible conflicts of interest.  \nB is in correct because it represents,  and combines, two ethical principles, those \nrelating to the Standards “Duties to Clients” and “Duties to Employers.”  \nC is in correct because the ethical principle  (and Standard) relating to ethics in \ninvestment analysis and recommendations also includes actions."
+      }
+    },
+    {
+      "id": "8dd18396-4cf2-4960-97ee-2b21169c9348",
+      "prompt": {
+        "text": "A CFA Institute member would violate the standard for material non -\npublic information by:"
+      },
+      "choices": [
+        "conducting price distortion practices.",
+        "inappropriately causing others to act.",
+        "inadequately maintaining investment records."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Under Standard II.A Material Non-public Information, members having \nmaterial non-public information that could affect the value of an investment must not \ncause others to act on the information.  \nA is in correct because price distortion is mentioned in the Standard II.B Market  \nManipulation, not Standard II.A Material Non-public Information.  \nC is incorrect because the maintenance of appropriate records to support investment \nanalyses is noted in Standard V.C Record Retention, not Standard II.A Material Non-\npublic Information."
+      }
+    },
+    {
+      "id": "8aa699eb-4220-48e1-9442-dee22bd0cdfb",
+      "prompt": {
+        "text": "According to the Duties to Clients standard, suitability requires members \nand candidates in an advisory relationship with a client to:"
+      },
+      "choices": [
+        "place their clients’ interests before their own interests.",
+        "consider investments in the context of the client’s total portfolio.",
+        "not knowingly make misrepresentations relating to recommendations."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Standard III.C.1c Suitability states that when members and candidates \nare in an advisory relationship with a client, they must judge the suitability  of \ninvestments in the context of the client’s total portfolio.  \nA is incorrect because this is a requirement addressed under Standard III.A Loyalty, \nPrudence, and Care, not Standard III.C.1c Suitability.  \nC is in correct because this is a requirement addressed under Standard I.C \nMisrepresentation, not Standard III.C.1c Suitability."
+      }
+    },
+    {
+      "id": "29f0acc8-ca47-480e-9abe-37b17fcdcd71",
+      "prompt": {
+        "text": "Standard III: Duties to Clients states that members and candidates must:"
+      },
+      "choices": [
+        "document client financial constraints after an initial investment action.",
+        "maintain an equal balance of interests owed to their clients and employers.",
+        "deal fairly and objectively with all clients when engaging in professional activities."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Under the III.B Fair Dealing section of the Duty to Clients standard,  \nmembers and candidates must deal fairly and objectively with all clients when  \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 9 of 11 \n \nproviding investment analysis, making investment recommendations, taking  \ninvestment action, or engaging in other professional activities.  \nA is in correct because under Standard III.C.1a Suitability, a section of Duties  to \nClients, members and candidates in an advisory relationship must make a  reasonable \ninquiry into a client’s financial constraints prior to (not after) taking  investment \naction and must reassess and update this regularly.  \nB is incorrect because under Standard III.A Loyalty, Prudence, and Care, members  \nand candidates must act for the benefit of their clients and place their  clients’ \ninterests before (not maintain an equal balance with) their employer’s or  their own \ninterests."
+      }
+    },
+    {
+      "id": "506b73f4-a536-4316-bc15-b33ec97ee42e",
+      "prompt": {
+        "text": "The Duties to Employers standard states that members and candidates \nmust not:"
+      },
+      "choices": [
+        "accept any gifts that might compromise their independence and objectivity.",
+        "deprive their employer of their skills and abilities as related to their employment.",
+        "accept compensation competing with their employer’s interest and with the  \nwritten consent of all parties involved."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The IV.A Loyalty section of the Duties to Employers standard states  \nthat members and candidates cannot deprive their employer of the advantage of their \nskills and abilities in matters related to their employment.  \nA is in correct because accepting gifts that might compromise a member or \ncandidate’s independence and objectivity is addressed by Standard I.B Independence \nand Objectivity, a section of Professionalism, not under Standard IV Duties to  \nEmployers.  \nC is in correct because IV.B Additional Compensation Arrangements, part of  the \nDuties to Employers standard, permits members and candidates to accept  \ncompensation that competes with their employer’s interest if they obtain written  \nconsent from all parties involved."
+      }
+    },
+    {
+      "id": "65d035e3-aa3d-4020-9f79-05c8ee928b13",
+      "prompt": {
+        "text": "The Investment Analysis, Recommendations, and Actions standard states \nthat members and candidates must:"
+      },
+      "choices": [
+        "find an investment suitable for their client before making a recommendation.",
+        "make reasonable efforts to ensure that performance presentation is fair,  \naccurate, and complete.",
+        "distinguish between fact and opinion in the presentation of investment analysis  \nand recommendations."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The V.B.4 Communications with Clients and Prospective Clients  section \nof the Investment Analysis, Recommendations, and Actions standard  states that \nmembers and candidates must distinguish between fact and opinion in  the \npresentation of investment analysis and recommendations.  \nA is incorrect because this standard is discussed in the III.C.1b Suitability section  \nof the Duties to Clients standard.  \nB is in correct because performance presentation is discussed in the III.D \nPerformance Presentation section of the Duties to Clients standard."
+      }
+    },
+    {
+      "id": "ae6e2b0f-791a-4e20-b479-68b0b6dd197c",
+      "prompt": {
+        "text": "Based on the Conflicts of Interest standard, members and candidates \nmust:"
+      },
+      "choices": [
+        "disclose, as required by law, those conflicts interfering with their professional  \nduties. \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 4 of 11",
+        "disclose, as appropriate, any benefit paid to others for the recommendation  of \nproducts.",
+        "seek employer approval before prioritizing their investment transactions  over \nthose clients."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The VI.C Referral Fees section of the Conflicts of Interest standard  \nrequires members and candidates to disclose to their employer, clients, and  \nprospective clients, as appropriate, any compensation, consideration, or benefit  \nreceived from or paid to others for the recommendation of products or services.  \nA is incorrect because the VI.A Disclosure of Conflicts section of the Conflicts of  \nInterest standard requires members and candidates to make full and fair disclosure \nof all matters (not limited to legal requirements) that could reasonably be expected \nto impair their independence and objectivity or interfere with respective  duties to \ntheir clients, prospective clients, and employer.  \nC is incorrect because the VI.B Priority of Transactions section of the Conflicts  of \nInterest standard requires members and candidates to give priority to investment  \ntransactions for clients and employers versus those in which a member or candidate \nis the beneficial owner. This requirement is not waived by an employer’s approval. \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 10 of 11"
+      }
+    },
+    {
+      "id": "80f37835-abd0-49fd-91a4-ef5b6a73f3c2",
+      "prompt": {
+        "text": "The Responsibilities as a CFA Institute Member or CFA Candidate \nStandard explicitly states a requirement regarding:"
+      },
+      "choices": [
+        "loyalty.",
+        "responsibility of supervisors.",
+        "reference to the CFA Program."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The VII.B Reference to CFA Institute, the CFA Designation, and the  \nCFA Program section of the Responsibilities as a CFA Institute Member or CFA  \nCandidate standard explicitly states the appropriate manner to make reference to  \nCFA Institute, CFA Institute membership, the CFA designation, or candidacy in  the \nCFA Program.  \nA is incorrect because Standard VII Responsibilities as a CFA Institute Member or \nCFA Candidate standard does not refer to loyalty. Loyalty is addressed in two other \nstandards, Standard III.A Loyalty, Prudence, and Care and Standard IV.A Loyalty.  \nB is incorrect because Standard VII Responsibilities as a CFA Institute Member  or \nCFA Candidate standard does not refer to the responsibility of supervisors.  The \nresponsibility of supervisors is addressed in Standard IV.C Responsibility of  \nSupervisors."
+      }
+    },
+    {
+      "id": "8dcb74b8-7e4d-4f59-8c60-77af210b285d",
+      "prompt": {
+        "text": "Which of the following groups is most likely responsible for maintaining \noversight and responsibility for the Professional Conduct Program (PCP)?"
+      },
+      "choices": [
+        "CFA Institute Board of Governors",
+        "Disciplinary Review Committee",
+        "Professional Conduct Division"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because all CFA Institute members and candidates enrolled in the CFA \nProgram are required to comply with the Code and Standards. The CFA Institute \nBoard of Governors maintains oversight and responsibility for the Professional \nConduct Program (PCP)."
+      }
+    },
+    {
+      "id": "112f1528-5091-41cd-9228-9d9d38b516fe",
+      "prompt": {
+        "text": "Which of the following is not a component of the CFA Institute Code of \nEthics?"
+      },
+      "choices": [
+        "Promote financial integrity and seek to prevent and punish abuses in the financial \nmarkets",
+        "Place the integrity of the investment profession and the interests of clients above \ntheir own personal interests",
+        "Practice and encourage others to practice in a professional and ethical manner \nthat will reflect credit on themselves and the profession"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because punishing abuses in the financial sector is not included in any of \nthe six components of the CFA Code of Ethics."
+      }
+    },
+    {
+      "id": "6affb540-b2d9-4029-b99b-8125970e3f50",
+      "prompt": {
+        "text": "Sanctions imposed by CFA Institute for violations of the CFA Institute \nCode of Ethics or Standards of Professional Conduct least likely include:"
+      },
+      "choices": [
+        "monetary fines.",
+        "public censure.",
+        "revocation of a CFA Charter."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because sanctions available to CFA Institute do not include monetary \nfines. However, sanctions imposed by CFA Institute may have significant \nconsequences; they include public censure, suspension of membership and use of the \nCFA designation, and revocation of the CFA charter. Candidates enrolled in the CFA \nProgram who have violated the Code and Standards or testing policies may be \nsuspended or prohibited from further participation in the CFA Program."
+      }
+    },
+    {
+      "id": "ca93fd8e-97bb-4d96-ae20-69abdbab0692",
+      "prompt": {
+        "text": "Which of the following statements related to requirements for the CFA \nInstitute Standards of Professional Conduct Standard V(B) –Communication with \nClients and Prospective Clients is least likely accurate? The standard requires \nmembers and candidates to:"
+      },
+      "choices": [
+        "divulge the number of investment related personnel responsible for external \ncommunication.",
+        "disclose the basic format and general principles of the investment process.",
+        "distinguish between fact and opinion in the presentation of investment analysis \nand recommendations."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the CFA Institute Standards of Professional Conduct Standard \nV(B)–Communication with Clients and Prospective Clients does not limit the type or \nnumber of staff responsible for external communication."
+      }
+    },
+    {
+      "id": "fa68f550-0a4f-4c52-ae40-f82f5d68a04a",
+      "prompt": {
+        "text": "When can a party, non-member or firm, most likely claim compliance with \nthe CFA Institute Code of Ethics and Standards of Professional Conduct? Once they \nhave: \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 5 of 11"
+      },
+      "choices": [
+        "ensured that their code and ethics meets the principles of the Code and \nStandards.",
+        "notified the CFA Institute of their claim.",
+        "verified their claim of compliance with the CFA Institute."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the Code and Standards apply to individual members of CFA \nInstitute and candidates in the CFA Program. CFA Institute does encourage firms to \nadopt the Code and Standards, however, as part of their code of ethics. Those who \nclaim compliance should fully understand the requirements of each of the principles \nof the Code and Standard."
+      }
+    },
+    {
+      "id": "ddb33b83-4f30-43b1-b7b3-947bd58e1af8",
+      "prompt": {
+        "text": "Which of the following is most likely found in the CFA Institute Standards \nof Professional Conduct, Standard I–Professionalism? Members and candidates must:"
+      },
+      "choices": [
+        "not engage in any professional conduct involving dishonesty, fraud, or deceit or \ncommit any act that reflects adversely on their professional reputation, integrity, \nor competence.",
+        "place the integrity of the investment profession and the interest of clients above \ntheir own interest.",
+        "maintain and improve their professional competence and strive to maintain and \nimprove the competence of other investment professionals."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the statement, “Members and Candidates must not engage in \nany professional conduct involving dishonesty, fraud, or deceit or commit any act that \nreflects adversely on their professional reputation, integrity, or competence” can be \nfound in the CFA Institute Standards of Professional Conduct, Standard I –\nProfessionalism (D) Misconduct. \n \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 11 of 11"
+      }
+    },
+    {
+      "id": "533e2c6c-3988-4ff1-99d5-2968a91120a3",
+      "prompt": {
+        "text": "Which of the following activities if undertaken by CFA Institute members \nand/or candidates would most likely violate the Code and Standards?"
+      },
+      "choices": [
+        "An analyst discloses confidential, sensitive information about a client account as \npart of an investigation by the CFA Institute Professional Conduct Program.",
+        "A senior trader does not have safeguards in place to determine whether a junior \ntrader under their supervision is following the firm’s policies regarding best \nexecution.",
+        "An institutional portfolio manager takes a group of clients to an expensive \nrestaurant to discuss portfolio returns over the recently completed quarter \nwithout prior written consent from his employer."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Standard IV(C) –Responsibilities of Supervisors states that \nmembers and candidates must make reasonable efforts to prevent violation of \napplicable laws, rules, regulations, and the Code and Standards by anyone subject to \ntheir supervision or authority. Interviewing with a competitor during lunch or taking \nclients out to lunch do not necessarily violate any Standard unless specifically \nprohibited in company policies."
+      }
+    },
+    {
+      "id": "65d53e5b-b588-48a8-9e30-53d15f16e479",
+      "prompt": {
+        "text": "Nicholas Bennett, CFA, is a trader at a stock exchange. Another trader \napproached Bennett on the floor of the exchange and verbally harassed him about a \npoorly executed trade. In response, Bennett pushed the trader and knocked him to \nthe ground. After investigating the incident, the exchange cleared Bennett from any \nwrongdoing. Which of the following best describes Bennett’s conduct in relation to \nthe CFA Institute Code of Ethics or Standards of Professional Conduct? Bennett:"
+      },
+      "choices": [
+        "did not violate any Code or Standard.",
+        "violated the Professional Misconduct Standard.",
+        "violated both Misconduct and Integrity of Capital Markets Standards."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the CFA Institute Code of Ethics requires members to act with \nintegrity, competence, diligence, respect, and in an ethical and professional manner; \nthe Standards of Professional Conduct relating to Professional Misconduct state \nmembers and candidat es must not commit any act reflecting adversely on their \nprofessional reputation, integrity, or competence. Bennett’s actions violated the Code \nof Ethics and the Standard relating to Professionalism but not the Standard relating \nto Integrity of Capital Markets."
+      }
+    },
+    {
+      "id": "09cbd999-6c97-48f9-ac33-bafdd1a72821",
+      "prompt": {
+        "text": "Which of the following least likely reflects the two primary principles of \nthe CFA Institute Rules of Procedure for Proceedings Related to Professional \nConduct?"
+      },
+      "choices": [
+        "Confidentiality of proceedings",
+        "Public disclosure of disciplinary sanctions",
+        "Fair process to the member and candidate \n \n \n \nCode of Ethics and Standards of Professional Conduct \nFaculty:                                                                         Page 6 of 11"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the two principles of the Rules of Procedure for Proceedings \nRelated to Professional Conduct are confidentiality of proceedings and fair process \nto the member and candidate."
+      }
+    }
+  ]
+}

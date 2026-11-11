@@ -1,0 +1,179 @@
+{
+  "title": "Module 54: Credit Risk",
+  "topic": "Fixed Income",
+  "module_number": 54,
+  "module_name": "Credit Risk",
+  "year": 2027,
+  "items": [
+    {
+      "id": "aee64096-fafc-4362-9b61-f48388e72cf0",
+      "prompt": {
+        "text": "An uncollateralized USD200,000 note has the following characteristics: \nRecovery rate 95% \nExposure at default USD150,000 \nIf the note’s expected loss in the event of default is USD2,500, its probability of  \ndefault is closest to:"
+      },
+      "choices": [
+        "15%.",
+        "25%.",
+        "33%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. \nHere we may use Equation 1 to solve for POD: \nEL = POD × (EE – Collateral) × (1 – RR). \nSubstituting in the values provided: \nUSD2,500 = POD × (USD150,000)×(1 – 0.95) \nPOD = USD2,500/(USD150,000 ×0.05) = 0.33 = 33%."
+      }
+    },
+    {
+      "id": "7cf7a212-d26e-411c-8e7c-5f292925f56c",
+      "prompt": {
+        "text": "Pitfalls of relying solely on credit ratings when making bond investment decisions may \nbe best described as the following:"
+      },
+      "choices": [
+        "Rating agencies may change their rating in response to changing market and credit \nconditions for a given issuer.",
+        "Credit agencies may issue a positive or negative outlook for an issuer as  credit \nrisk rises or falls, but a rating change is not yet warranted. \nCredit Risk \nFaculty:                                                                                    Page 2 of 5",
+        "Ratings may involve miscalculations or unforeseen changes not fully captured in a \nrating agency’s forward-looking analysis."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. While answers A and B are both true, they are not a  pitfall of sole \nreliance on credit ratings when making bond investments."
+      }
+    },
+    {
+      "id": "9cac0536-4fe2-4240-8a2f-f65bcf1a59f7",
+      "prompt": {
+        "text": "An investment-grade bond with modified duration of 7 and reported convexity of 0.51 \nincreases in price by 9.93% after a yield spread change. The value of the  spread \nchange would be closest to:"
+      },
+      "choices": [
+        "−1.5%.",
+        "0.15%.",
+        "1.5%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Equation 4 estimates bond price changes based on duration, \nconvexity, and changes in spread: \n%ΔPVFull = −(AnnModDur × ΔSpread) + ½AnnConvexity × (ΔSpread)^2. \nWith ModDur = 7 and reported convexity 0.51, making the necessary convexity  re-\nscaling and substituting in values to solve for spread results in \n0.0993 = −(7 x ΔSpread) + ½ (51) (ΔSpread)^2 \nΔSpread =-0.015 = -1.5%. \nCredit Risk \nFaculty:                                                                                    Page 5 of 5 \n \nLower spreads make the first expression in the equation positive, along with the  \nequation’s second convexity-based term. The answer must therefore involve a decline \nin spreads as in answers A and B. However, B is incorrect since it fails to  rescale \nconvexity."
+      }
+    },
+    {
+      "id": "52b324ab-5799-4358-b2f2-1c1412ea6506",
+      "prompt": {
+        "text": "Credit spreads are most likely to narrow during:"
+      },
+      "choices": [
+        "economic contractions.",
+        "a period of flight to quality.",
+        "economic expansions."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is c orrect. Credit spreads narrow during economic expansions and widen during \neconomic contractions. During an economic expansion, corporate revenues and cash \nflows rise, making it easier for corporations to service their debt, and investors \npurchase corporates instead of Treasuries, causing spreads to narrow."
+      }
+    },
+    {
+      "id": "cf27a492-e42c-4930-9aa9-5f0f23385227",
+      "prompt": {
+        "text": "For a bond investment, loss severity is:"
+      },
+      "choices": [
+        "independent of the recovery rate.",
+        "used in the calculation of the expected loss.",
+        "the primary focus when assessing the creditworthiness of high-quality issuers."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Expected loss = Default probability × Loss severity given default."
+      }
+    },
+    {
+      "id": "fb7232fc-6acc-4909-8043-2132eb97195a",
+      "prompt": {
+        "text": "All else being equal, an investment-grade bond issuer most likely has:"
+      },
+      "choices": [
+        "less market liquidity risk than a below-investment-grade issuer.",
+        "the same market liquidity risk as a below-investment-grade issuer.",
+        "greater market liquidity risk than a below-investment-grade issuer."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because market liquidity risk is the risk that the price at which \ninvestors can actually transact—buying or selling—may differ from the price \nindicated in the market. The lower the quality of the issuer, the higher the market \nliquidity risk."
+      }
+    },
+    {
+      "id": "00a4f4dc-5927-4f18-883b-ed33ca413568",
+      "prompt": {
+        "text": "For an option-free fixed-rate corporate bond, the duration and convexity statistics \nare most likely relevant for a change in:"
+      },
+      "choices": [
+        "the credit spread only.",
+        "the benchmark yield only.",
+        "both the credit spread and the benchmark yield."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the key point is that for an option-free fixed-rate bond, the \nsame duration and convexity statistics that apply for a change in benchmark yield \nalso apply for a change in spread."
+      }
+    },
+    {
+      "id": "61a723dc-568f-4f6b-bd40-0518939dc0f6",
+      "prompt": {
+        "text": "Tightening corporate bond yield spreads are most likely associated with:"
+      },
+      "choices": [
+        "issuers’ deteriorating creditworthiness.",
+        "periods of high demand for corporate bonds.",
+        "broker-dealers' reduced ability and willingness to make markets."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in periods of high demand for bonds, spreads will move tighter."
+      }
+    },
+    {
+      "id": "619d1523-c378-4dd2-807e-7badfe2d4dd3",
+      "prompt": {
+        "text": "All else being equal, expected loss for a debt instrument:"
+      },
+      "choices": [
+        "is independent of the recovery rate.",
+        "decreases as the recovery rate increases.",
+        "changes proportionally to the recovery rate. \n \nCredit Risk \nFaculty:                                                                                    Page 3 of 5"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Expected loss = Default probability × Loss severity given default, \nwhere loss severity  is often expressed as (1 – Recovery rate), where the recovery \nrate is the percentage of the principal amount recovered in the event of \ndefault. Thus, expected loss can also be written as Expected loss =  Default \nprobability × (1 – Recovery rate), which means that the higher the recovery rate, the \nlower the expected loss."
+      }
+    },
+    {
+      "id": "220a2431-2419-44f0-89b5-0b8098f170a5",
+      "prompt": {
+        "text": "What type of risk most likely affects an investor’s ability to buy and sell bonds in the \ndesired amounts and at the desired time?"
+      },
+      "choices": [
+        "Market liquidity",
+        "Spread",
+        "Default \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCredit Risk \nFaculty:                                                                                    Page 4 of 5"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The size of the spread between the bid price and the ask price is the \nprimary measure of market liquidity of the issue. Market liquidity risk is the risk that \nthe investor will have to sell a bond below its indicated value. The wider the bid –ask \nspread, the greater the market liquidity risk."
+      }
+    }
+  ]
+}

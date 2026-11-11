@@ -1,0 +1,179 @@
+{
+  "title": "Module 43: Industry and Competitive Analysis",
+  "topic": "Equities",
+  "module_number": 43,
+  "module_name": "Industry and Competitive Analysis",
+  "year": 2027,
+  "items": [
+    {
+      "id": "a19f96b9-bc19-405c-a49a-9acd9174979d",
+      "prompt": {
+        "text": "Which of the following statements best describes the characteristics of growth companies?"
+      },
+      "choices": [
+        "Unlike defensive or cyclical companies, growth companies tend to exhibit smaller revenue declines in an \neconomic downturn.",
+        "Unlike defensive or cyclical companies, growth companies tend to exhibit higher profitability during \neconomic expansion.",
+        "Unlike defensive or cyclical companies, growth companies exhibit higher revenue growth independent of \neconomic fluctuations.\nFeedback\nC is correct because growth company performance is relatively insensitive to the business cycle.\nA is incorrect because the revenue of growth companies is typically less related to economic cycles.\nB is incorrect because growth companies exhibit higher revenue growth, which may or may not be \naccompanied by high profitability."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "b2f69b89-a2d8-42a7-9a62-7ee8badcc9af",
+      "prompt": {
+        "text": "Which of the following statements provides the best justification for grouping companies using a geographic \nrather than industry approach?"
+      },
+      "choices": [
+        "Firms that face similar economic conditions in the same country may have more common value drivers than \nthose in the same industry.",
+        "Firms listed on the same exchange may have more common value drivers than those in the same industry.",
+        "Firms that report financial statements in the same currency may have more common value drivers than \nthose in the same industry.\nFeedback\nA is correct because companies operating within a jurisdiction may have more common value drivers due to \npolitical, economic, and social policies and conditions than those operating in various jurisdictions within an \nindustry.\nB is incorrect because operating within the same industry typically results in more common value drivers \nrelative to listing on a common exchange.\nC is incorrect because operating within the same industry results in more common value drivers relative to \nhaving the same reporting currency."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "fcd742f5-2104-446c-ab2e-fc668f4b2238",
+      "prompt": {
+        "text": "Which of the following statements best describes the challenges of using a bottom-up approach to measure \nindustry size?"
+      },
+      "choices": [
+        "A bottom-up approach is difficult to apply when government statistics for a specific sector are unavailable.",
+        "A bottom-up approach is difficult to apply when an industry classification involves a strict hierarchical \ntaxonomy.",
+        "A bottom-up approach is difficult to apply when an industry includes a large proportion of private companies \nor small businesses.\nFeedback\nC is correct because it is more difficult to estimate revenue for private companies or small businesses than to \naccess disclosures for large, publicly listed companies.\nB is incorrect because strict hierarchical taxonomies are not a challenge specific to a bottom-up approach to \nestimating industry size.\nA is incorrect because the lack of government statistics for a sector is a challenge for a top-down—not a \nbottom-up—approach to estimating industry size."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "9370be11-cf18-40ac-9b5a-e39beb9d87da",
+      "prompt": {
+        "text": "Which of the following statements best describes third-party industry classification schemes?"
+      },
+      "choices": [
+        "Third-party classification schemes combine companies with a similar business model into the same industry.",
+        "Third-party classification schemes align companies to a single industry that represents their primary \noperating activity.",
+        "Third-party classification schemes assign the different activities of companies operating across industries to \neach of their different industries.\nFeedback\nB is correct because third-party classification schemes are based on a strict hierarchical taxonomy that assigns \neach company to a single industry.\nA is incorrect because companies within the same industry may have different business models.\nC is incorrect because companies operating across industries are assigned to a single industry that represents \na firm’s largest business activity."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "cb9804f0-cd99-4a7d-9622-f22f4136d41c",
+      "prompt": {
+        "text": "Which of the following statements best describes the use of vertical integration as a competitive strategy?"
+      },
+      "choices": [
+        "Vertical integration may be used to expand operations into an earlier stage of production to offset supplier \nbargaining power.",
+        "Vertical integration may be used to outsource production to offset consumer bargaining power.",
+        "Vertical integration may be used to expand operations in order to reduce the threat of substitutes for an \nindustry’s products or services.\nFeedback\nA is correct because vertical integration may be used to offset supplier bargaining power by expanding \nproduction to an earlier stage.\nB is incorrect because vertical integration involves the insourcing rather than the outsourcing of production \nprocesses.\nC is incorrect because vertical integration does not address the threat of substitutes for a company’s products \nor services."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e6e91ac7-c76d-4420-a27e-4d71940d4512",
+      "prompt": {
+        "text": "Which of the following statements best describes the contrast between the impacts of basic research and \nsustaining innovation on an industry?"
+      },
+      "choices": [
+        "Basic research involves developing an understanding of scientific principles, while sustaining innovation \naims to minimize a firm’s environmental impact.",
+        "Basic research creates new industries, while sustaining innovation fundamentally changes existing \nbusinesses across multiple industries.",
+        "Basic research generally has no immediate commercial application, while sustaining innovation involves \nincremental improvements to existing products or services.\nFeedback\nC is correct because basic research involves discoveries with no immediate commercial impact, while \nsustaining innovation makes small improvements to existing products or services.\nA is incorrect because sustaining innovation does not necessarily address a product’s environmental impact.\nB is incorrect because basic research generally requires longer periods until commercialization, while \nbreakthrough innovation fundamentally changes existing businesses across multiple industries."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6890e68c-370b-4f75-ae07-9ff04a55cb1e",
+      "prompt": {
+        "text": "Which of the following sets of industry circumstances minimizes the threat of entry?"
+      },
+      "choices": [
+        "A greater proportion of intangible assets, lower network effects, and lower switching costs",
+        "A lower proportion of intangible assets, greater cost advantages, and less efficient scale",
+        "A greater proportion of intangible assets, higher network effects, and higher switching costs\nFeedback\nC is correct because more intangible assets, higher network effects, and higher switching costs all represent \nbarriers to entry.\nA is incorrect because higher, not lower, network effects and switching costs deter industry entrants.\nB is incorrect because higher, not lower, intangible assets and more efficient scale are factors limiting industry \nentrants."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "422a89ef-9d70-4404-9a16-77d137adb186",
+      "prompt": {
+        "text": "Which of the following statements is consistent with lower industry concentration?"
+      },
+      "choices": [
+        "Lower industry concentration is consistent with a higher Herfindahl–Hirschman Index.",
+        "Lower industry concentration is generally consistent with greater competitive intensity.",
+        "Lower industry concentration is generally consistent with lower product differentiation.\nFeedback\nB is correct because lower industry concentration involves many industry participants supplying a good or \nservice, which generally leads to higher competitive intensity.\nA is incorrect because lower industry concentration is consistent with a lower, not higher, Herfindahl–\nHirschman Index.\nC is incorrect because product differentiation is not determined by the degree of industry concentration."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "54e8c933-6961-4419-ad25-2602c4569d1b",
+      "prompt": {
+        "text": "Which of the following types of companies is most sensitive to economic conditions?"
+      },
+      "choices": [
+        "Cyclical",
+        "Growth",
+        "Defensive\nFeedback: \nA is correct. The performance of companies with cyclical demand for their products is highly variable and \ndepends on economic conditions."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "2e65228d-bc11-4923-a2f7-20a2cded7225",
+      "prompt": {
+        "text": "Which of the following sectors is most likely considered defensive?"
+      },
+      "choices": [
+        "Financials",
+        "Industrials",
+        "Consumer staples\nFeedback: \nC correct because sectors such as consumer staples, healthcare, and utilities are considered defensive, while \nfinancials, basic materials, consumer discretionary, and industrials are considered cyclical"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

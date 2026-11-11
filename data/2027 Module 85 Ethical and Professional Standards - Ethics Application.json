@@ -1,0 +1,111 @@
+{
+  "title": "Module 85: Ethics Application",
+  "topic": "Ethical and Professional Standards",
+  "module_number": 85,
+  "module_name": "Ethics Application",
+  "year": 2027,
+  "items": [
+    {
+      "id": "4183981a-7638-40e1-bc13-0824de266a76",
+      "prompt": {
+        "text": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a \nshipping company. Kite concludes that the stock of a company is a good investment \nand decides to put a \"buy\" recommendation on the stock. According to the \nrecommended procedures for co mpliance, Kite should communicate the \nrecommendation:"
+      },
+      "choices": [
+        "within the firm first and then to customers.",
+        "to customers first and then within the firm.",
+        "simultaneously within the firm and to customers."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because according to the recommended procedures for compliance with \nStandard III (B), Fair Dealing, a common practice to assure fair dealing is to \ncommunicate recommendations simultaneously within the firm and to customers. \nMembers and candidates should encourage firms to develop guidelines that prohibit \npersonnel who have prior knowledge of an investment recommendation from \ndiscussing or taking any action on the pending recommendation. Members and \ncandidates should encourage firms to develop guidelines that prohibit personnel who \nhave prior knowledge of an investment recommendation from discussing or taking any \naction on the pending recommendation."
+      }
+    },
+    {
+      "id": "9730048a-d408-4f7c-b7cf-c8f3df4b80fc",
+      "prompt": {
+        "text": "Tim Howley, CFA, “pumps up” the price of a security by spreading \nmisleading information and later “dumps” the security after the price reaches an \nartificially high level. Howley has most likely violated the Standard relating to:"
+      },
+      "choices": [
+        "market manipulation.",
+        "independence and objectivity.",
+        "material nonpublic information."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because according to the Standard II(B), market manipulation includes \n(1) the dissemination of false or misleading information. Also, information -based \nmanipulation includes, but is not limited to, spreading false rumors to induce trading \nby others. For example, members and candidates must refrain from “pumping up” the \nprice of an investment by issuing misleading positive information or overly optimistic \nprojections of a security’s worth only to later “dump” the investment (i.e., sell it) once \nthe price, fueled by the misleading information’s effect on other market participants, \nreaches an artificially high level."
+      }
+    },
+    {
+      "id": "a14f47d8-4ec0-47d5-bac1-22d47994a73d",
+      "prompt": {
+        "text": "Ann Macharia, CFA, is an independent consultant hired by MK \nInvestment (MKI) to review its proposal to manage a large pension fund. While \nreviewing a draft of the document, Macharia notices a large section of material has \nbeen added to the proposal by MKI's CIO. The additional material looks exactly like \nwhat Macharai wrote for a previous client, describing the client's proprietary \ninvestment process. Macharia is most likely required to:"
+      },
+      "choices": [
+        "remove the added material and report her suspicions to MKI.",
+        "wait to say anything until the proposal is submitted to meet the conditions of her \nconsulting contract.",
+        "confirm her client uses the same thorough investment process as described in the \nadded material, and make a few minor changes."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the identical material reflected in her previous client's proposal \nbelongs to that client, even though she wrote it on their behalf as their consultant. \nTo use it in its identical format would be considered plagiarism. In addition, the \ndescription also identifies a proprietary process and is therefore not applicable to \nher existing client's investment process. Consequently, to prevent violating Standard \nI(C) Misrepresentation the material should be removed. The Standard states \nMembers and Candidates must not knowingly make any misrepresentations relating to \ninvestment analysis, recommendations, actions, or other professional activities. \nStandard I(C) Misrepresentation prohibits plagiarism in the preparation of material \nfor distribution t o employers, associates, clients, prospects, or the general public. \nMacharia should also report the use of plagiarized material to the client so they can \ntake action to prevent the event being repeated in the future (Standard I(A) \nKnowledge of the Law). Allowing the use of plagiarized material reflects poorly on a \nfirm and can hurt their reputation.  By reporting to the client Macharia is also \nprotecting the interests of her clients (Standard III(A) Loyalty, Prudence, and Care)."
+      }
+    },
+    {
+      "id": "fc5b765f-1c6c-408d-a30f-ecab975ab042",
+      "prompt": {
+        "text": "Jordan Kope, CFA, is an analyst with a hedge fund and works closely with \nDeepa Bose who earned her CFA designation 15 years ago. Kope becomes aware that \nBose uses her CFA designation even though she no longer pays her membership dues. \nDuring several meetin gs that Bose and Kope have with the firm’s clients, Bose \nemphasizes that all her team members, including herself, are CFA charterholders. To \nbe consistent with the Standards, Kope should:"
+      },
+      "choices": [
+        "only dissociate himself from activities involving Bose.",
+        "only report Bose's conduct to the fund's compliance department.",
+        "dissociate himself from activities involving Bose and report Bose's conduct to the \nfund's compliance department. \n \nEthics Application \n \nFaculty:                                                                         Page 2 of 4"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because according to Standard I(A), Knowledge of the Law, Members and \nCandidates must not knowingly participate or assist in and must dissociate from any \nviolation of such laws, rules, or regulations. In this case, by staying silent in a client \nmeeting in which he knows false information is being given to a potential investor that \ncould cause harm to that investor, Kope would be seen as assisting Bose in providing \nthat false information, even though Kope is not actively engaging in the misconduct \nhimself. Kope should report her conduct to the fund’s compliance department for it \nEthics Application \n \nFaculty:                                                                         Page 4 of 4 \n \nto address and should dissociate himself from activities involving Bose and report \nBose's conduct to the fund's compliance department."
+      }
+    },
+    {
+      "id": "394e72db-a312-4b96-9c8a-dce7caf4c6cd",
+      "prompt": {
+        "text": "Stella Murphy, CFA, a portfolio manager, meets with a client who is \nconcerned about a security recently added to the portfolio. Murphy reviews with the \nclient the decision for buying the security and the risks associated with the company  \nand stock. The following week, the company announces it is buying a company in a non- \nrelated industry and the stock falls sharply.  The client accuses Murphy of not \ndisclosing all the risks associated with holding the security.  Murphy explains the \ncompany's acquisition was unexpected and not factored into the forecast. Has \nMurphy most likely violated the Standards?"
+      },
+      "choices": [
+        "No",
+        "Yes, the Standard relating to communication with clients",
+        "Yes, the Standard relating to diligence and reasonable basis"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Murphy has not violated any Standards. Standard V(B), \nCommunication with Clients and Prospective Clients, requires members, use \nreasonable judgment in identifying which factors are important to their investment \nanalyses, recommendations, or actions  and include those factors in communications \nwith clients and prospective client. Murphy has done this when she reviewed the \ninvestment rationale behind buying the security and the potential investment risks. \nThe appropriateness of risk disclosure should be assessed on the basis of what was \nknown at the time the investment action was taken (often called an ex ante basis). \nMembers must disclose significant risks known to them at the time of the disclosure. \nMembers cannot be expected to disclose risks they are unaware of at the time \nrecommendations or investment actions are made. A one -time investment loss that \noccurs after the disclosure does not constitute a pertinent factor in assessing \nwhether significant risks and limitations were properly disclosed. Murphy has also not \nviolated Standard V(A), Diligence and Reasonable Basis, which requires members, \nhave a reasonable and adequate basis, supported by appropriate research and \ninvestigation, for any investment analysis, recommendation, or action. Murphy has \nexplained the investment thesis supporting the purchase of the security as well as \nthe risk to the earnings stream.  While having no knowledge of a risk or limitation \nthat subsequently triggers a loss may reveal a deficiency in the diligence and  \nreasonable basis of the research it is not a violation of the Standard."
+      }
+    },
+    {
+      "id": "22f9104a-4366-4b41-b256-580af447cd9a",
+      "prompt": {
+        "text": "Elana Paralova, a Level I CFA candidate working at an asset management \nfirm, wants to make a good impression on a prospective client. She tells the prospect: \n\"Getting the CFA Charter will show I am serious about protecting the interests of \nmy clients and it will boost my reputation. Once I get the Charter, I also hope to make \nmore money by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \n\"Study all subjects for each exam, you never know what will be included. The three \nexams will be the most difficult exams you will ever take. Any promotion and pay raise \nwill reflect your enhanced skills.\" Did either Paralova or Klemmer violate the \nStandards?"
+      },
+      "choices": [
+        "No.",
+        "Only Paralova violates the Standards.",
+        "Only Klemmer violates the Standards \n \n \nSummary: -  \n \n(LOS 93 a, b): - 1, 2, 3, 4, 5, 6.  \n \n \n  \nEthics Application \n \nFaculty:                                                                         Page 3 of 4"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because neither Paralova or Klemmer violated CFA Standards through \ntheir statements.  Paralova did not violate Standard VII(B) Reference to CFA \nInstitute, the CFA Designation, and the CFA Program when she made her comments \nabout what getting the Charter w ill reflect and the hope for a pay raise. The \nStandard states, When referring to CFA Institute, CFA Institute membership, the \nCFA designation, or candidacy in the CFA Program, Members and Candidates must not \nmisrepresent or exaggerate the meani ng or implications of membership in CFA \nInstitute, holding the CFA designation, or candidacy in the CFA program. Klemmer \ndid not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, \nand the CFA Program when he expressed his opinion tha t Paralova's potential pay \nraise will reflect her enhanced skills.   Klemmer also complied with Standard VII(A) \nResponsibilities as a CFA Institute Member or CFA Candidate, Conduct as \nParticipants in CFA Institute Programs when stating an opinion about the  difficulty \nof the exam without revealing any specific details or the need to study all subjects. \nThe Standard states that candidates must not engage in any conduct that \ncompromises the integrity, validity, or security of CFA Institute programs."
+      }
+    }
+  ]
+}

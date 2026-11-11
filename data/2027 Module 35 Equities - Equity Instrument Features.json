@@ -1,0 +1,162 @@
+{
+  "title": "Module 35: Equity Instrument Features",
+  "topic": "Equities",
+  "module_number": 35,
+  "module_name": "Equity Instrument Features",
+  "year": 2027,
+  "items": [
+    {
+      "id": "ad8b70e2-ee85-4408-a3f8-b6100e396ed6",
+      "prompt": {
+        "text": "Audrey Lake is the Chief Investment Officer of Mid States University Management Corporation (MSUMC), \nan endowment fund overseeing the university’s investment portfolio. MSUMC invests over half of its assets \nin equity securities, both public and private. As part of the equity review process, Lake has assigned the \nanalyst team questions to consider. First, MSUMC’s Investment Office is more interested in being able to \nbenefit from improved company performance than the seniority of claims when they invest. Second, \nMSUMC’s Investment Office seeks a “voice” in management decisions of the companies in which they \ninvest. Third, MSUMC targets broad exposure across the equity universe, buying both publicly listed and \nprivate equities across company life-cycle stages. Finally, MSUMC has a very long investment horizon.\nWhich of the following securities has the lowest seniority on claiming cash flows from a portfolio company?"
+      },
+      "choices": [
+        "Debt",
+        "Preference shares",
+        "Common shares\nFeedback\nChoice C is correct. Holders of common shares have the residual claim on a company’s cash flows and assets. \nCommon shareholders are paid once all other claims are settled.\nChoice A is incorrect as debtholders have the highest seniority in receiving cash flows relative to preference \nand common shareholders.\nChoice B is incorrect as preference shareholders are senior to common shareholders."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "6983811d-6faf-4906-b338-1d4e046e5762",
+      "prompt": {
+        "text": "Which of the following provides the most correct response as to why MSUMC prefers investing in common \nshares rather than preference shares?"
+      },
+      "choices": [
+        "Common shares typically provide higher dividends than are received from holding preference shares.",
+        "Common shares provide the opportunity to vote on corporate decisions in addition to the possibility for \nimproved dividends or higher stock price as company performance improves.",
+        "Dividends on common shares are less uncertain because of the higher seniority of common shares’ \npayoffs.\nFeedback\nChoice B is correct. MSUMC’s stated goals of being able to capitalize on improvements and having a “voice” \non corporate decisions best match the features of common shares.\nChoice A is incorrect as common shares may have lower or higher dividends than preference shares.\nChoice C is incorrect as common shares are less senior than preference shares."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "560885ae-43cc-4d37-990c-51b94e89e500",
+      "prompt": {
+        "text": "In which company life-cycle stage is MSUMC most likely to find both publicly listed and private company \nequities as investments?"
+      },
+      "choices": [
+        "Start-up",
+        "Growth",
+        "Mature\nFeedback\nChoice C is correct. In the mature stage of the company life cycle, MSUMC is likely to find both publicly listed \nequity and private equity securities. Publicly listed companies are often mature stage companies, while buyout \nequity companies in private equity are often mature stage companies.\nChoice A is incorrect as start-up companies are unlikely to qualify for public listing because of insufficient \nrevenue and profitability.\nChoice B is incorrect given that growth stage companies may not have achieved the profitability or other \ncharacteristics needed for public listing."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "1770e447-b4fb-4176-8d3d-496b5c0269e1",
+      "prompt": {
+        "text": "MSUMC’s long investment horizon is most relevant to which one of the following equity market features in \ntheir decision to allocate between publicly listed and private equities?"
+      },
+      "choices": [
+        "Owner–manager separation versus overlap",
+        "Standardized disclosures versus limited disclosures",
+        "Liquidity versus illiquidity of shares\nFeedback\nChoice C is correct. MSUMC’s long investment horizon allows them to consider holding illiquid private shares if \nthey earn, on average, a higher return than public share holdings.\nChoice A is incorrect as this feature is more relevant to MSUMC if they want to be able to exert greater \nmanagement control through equity ownership, and it is independent of MSUMC’s investment horizon.\nChoice B is incorrect as the disclosure requirements are also independent of MSUMC’s investment horizon."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "18af7075-09cb-4f7c-a410-a0d6c77d1800",
+      "prompt": {
+        "text": "Participating preference shares are least likely to entitle the shareholders to participate in:"
+      },
+      "choices": [
+        "corporate decisions through voting rights.",
+        "additional distribution of the company’s assets upon liquidation.",
+        "additional dividends if the company’s profits exceed a predetermined level.\nFeedback: \nCorrect. Participating preference shares do not entitle the shareholders to participate in corporate decisions \nthrough voting rights. But they do entitle them to (1) an additional dividend if the company’s profits exceed a \nprespecified level and (2) additional distribution of the company’s assets upon liquidation, above the par."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4bd195ba-c962-4f59-be87-7751385fa427",
+      "prompt": {
+        "text": "A company has issued only one class of common shares, and it does not pay dividends on them. It has \nalso issued two types of non-cumulative preference shares: one that is putable and the other callable. \nWhich of these securities will most likely offer the lowest expected return to the investor?"
+      },
+      "choices": [
+        "Common shares",
+        "Putable preference shares",
+        "Callable preference shares\nFeedback: \nB is correct. Putable preference shares are less risky than their callable counterparts. They give the investor \nthe option to put the shares back to the company. Because of the lower risk, they will provide a lower expected \nrate of return. Common shares are the most risky, whether or not they are dividend paying, and are likely to \noffer the highest expected return."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a8e7094c-d658-4772-92df-f60df6a0c70f",
+      "prompt": {
+        "text": "Preference shares are less risky than common shares because preference shares have:"
+      },
+      "choices": [
+        "fixed dividends.",
+        "a guaranteed return if a company is liquidated.",
+        "a larger portion of total return based on future price return.\nFeedback: \nA correct because dividends on preference shares are known and fixed, and they account for a large portion of \nthe preference shares’ total return. Therefore, there is less uncertainty about future cash flows."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "4309f63c-8e8b-45eb-92cb-ebad6c7aa507",
+      "prompt": {
+        "text": "Firms with which of the following characteristics are most likely candidates for a management buyout \n(MBO)?"
+      },
+      "choices": [
+        "Firms with low levels of cash flow",
+        "Firms with high dividend payout ratios",
+        "Firms with large amounts of undervalued assets\n Feedback: \nC is correct. Companies with large amounts of undervalued assets (which can be sold to reduce debt) that \ngenerate high levels of cash flow (which are used to make interest and principal payments on the debt) are \nlikely candidates for MBO transactions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "c1998b30-f986-4e5d-8347-e571ccd774b1",
+      "prompt": {
+        "text": "Private equity securities most likely:"
+      },
+      "choices": [
+        "are listed on public exchanges.",
+        "are illiquid and difficult to trade.",
+        "have easily available financial information.\nFeedback: \n\nB is correct because private equity securities do not have “market determined” quoted prices, are highly illiquid, \nand require negotiations between investors in order to be traded."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

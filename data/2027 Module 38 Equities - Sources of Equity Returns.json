@@ -1,0 +1,145 @@
+{
+  "title": "Module 38: Sources of Equity Returns",
+  "topic": "Equities",
+  "module_number": 38,
+  "module_name": "Sources of Equity Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "38d44931-c761-409a-9029-c5c1e1248772",
+      "prompt": {
+        "text": "Which one of the following is typically a more predictable part of an expected holding period return?"
+      },
+      "choices": [
+        "Dividend portion of total return",
+        "Capital gains portion of total return",
+        "Dividend and capital gains portions are equally unpredictable.\nFeedback\nChoice A is correct. Issuers typically attempt to maintain some consistency in their dividends, which allows \ninvestors to be able to view recent dividends as a somewhat predictable source of expected returns. Choice B \nis incorrect because future prices are highly uncertain. Although analysts will build target prices into their \nexpected return models, the fact that future target prices are very unpredictable implies that the capital gains \nproportion is much less predictable.\nAn investor is evaluating three different stocks as candidates for purchase. The following statements provide \nbasic descriptions of each of the three stocks.\nAddison Company’s stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of \nGBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison’s dividends in \nthe past have typically been a small portion of its ability to pay shareholders, and Addison has commonly \nrepurchased significant amounts of its stock in the past.\nBryce Limited’s stock traded two years ago at a price of GBP76 per share. One year ago, the company paid a \nGBP5.00 per share dividend when its stock price was GBP96 per share; it then completed a 2-for-1 stock split \nimmediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at GBP82 per share.\nCaddell Corporation operates in a commodity-based industry with high current cash flows and negative long-\nrun growth. Caddell’s stock is currently trading at GBP80.76 per share and is expected to pay dividends of \nGBP10 per share for the next five years. The expectation is that Caddell’s share price will be GBP60 per share \nin five years. Analysts believe that 8% is an appropriate discount rate for Caddell stock.\nAddison Company's stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of \nGBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison's dividends in \nthe past have typically been a small portion of its ability to pay shareholders, and Addison has commonly \nrepurchased significant amounts of its stick in the past."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "81ee11a2-fd79-4f6f-8dec-e81378201f26",
+      "prompt": {
+        "text": "Which one of the following is closest to Addison’s expected stock return over the next one-year holding \nperiod if the dividend stays constant, dividends are reinvested at 1% per quarter, and analysts’ target price \nestimate is correct?"
+      },
+      "choices": [
+        "11.1%",
+        "14.8%",
+        "14.9%\nFeedback\nChoice C is correct. The expected return combines the price increase from GBP54 to GBP60, the dividends \npaid, and the return generated from the return on reinvested dividends as follows:\nPrice return = 11.11% [= (60 – 54) ÷ 54]\nDividend return incorporating reinvestment = 3.76% (= 2.03 ÷ 54)\nCompounded value of dividends = GBP2.03\n\n[= 0.50(1.01)3 + 0.50(1.01)2 + 0.50(1.01)1 + 0.50]\nTotal return = 14.87% (= 11.11% + 3.76%), which rounds to 14.9%.\nChoice A is incorrect because 11.11% reflects only the price change.\nChoice B is incorrect because 14.8% reflects only the dividends paid without incorporating the return earned \non dividend reinvestment."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "a4b4a91b-012d-42f1-8297-bd67bd7ea484",
+      "prompt": {
+        "text": "Addison Company's stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of \nGBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison's dividends \nin the past have typically been a small portion of its ability to pay shareholders, and Addison has commonly \nrepurchased significant amounts of its stick in the past.\nWhich one of the following statements is likely most correct as to how the investor may assess Addison’s \npolicy regarding dividend payments compared to money spent on repurchasing stock?"
+      },
+      "choices": [
+        "The investor may value Addison’s policy if tax rates on capital gains are lower than tax rates on dividend \nincome.",
+        "The investor may value Addison’s policy if the company has stable investment opportunities.",
+        "The investor likely is not in favor of Addison’s policy because cash flows from repurchase are not of \nequivalent value to cash flows from dividends.\nFeedback\nChoice A is correct. Payout to shareholders through share repurchases generates a possible capital gain for \nshareholders who sell shares back to the company. Thus, repurchases may be favored over dividends when \ncapital gains tax rates are lower than those on dividend income.\nChoice B is incorrect because repurchases provide flexibility for the company to pay less to shareholders when \ninvestment opportunities fluctuate higher. This statement implies that this flexibility is not necessary.\nChoice C is incorrect. Assuming all else equal, a cash flow from repurchasing stock is equivalent in value to a \ncash flow from payment of dividends."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "f9cce28e-37d1-498c-9667-b344ee3f42dd",
+      "prompt": {
+        "text": "Bryce Limited's stock traded two years ago at a price of GBP76 per share. One year ago, the company \npaid a GBP5.00 per share dividend when its stock price was GBP 96 per share; it then completed a 2-for-1 \nstock split immediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at \nGBP82 per share.\nWhich one of the following statements provides the most correct rationale to justify Bryce Limited’s decision to \ncomplete a stock split?"
+      },
+      "choices": [
+        "Bryce is attempting to attract more institutional investors to buy its stock.",
+        "Bryce wants a higher per share price on its stock to improve its reputation in the equity market.",
+        "Bryce is attempting to keep its stock price within a reasonable price range to attract individual investors\nFeedback\n\nChoice C is correct. A stock split lowers the per share price by increasing the number of shares outstanding to \nkeep the price per share at a level low enough to attract interest from retail investors.\nChoice A is incorrect because institutional investors are less likely to respond to the price per share changes \ncreated by stock splits.\nChoice B is incorrect because this statement better describes a reverse stock split as an attempt to improve \nthe stock price optics by increasing the price per share."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "e6e40e3f-00cb-4b7b-abf9-da783a4f770b",
+      "prompt": {
+        "text": "Bryce Limited's stock traded two years ago at a price of GBP76 per share. One year ago, the company \npaid a GBP5.00 per share dividend when its stock price was GBP 96 per share; it then completed a 2-for-1 \nstock split immediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at \nGBP82 per share.\nWhich one of the following is closest to the two-year holding return on Bryce’s stock if the dividend from one \nyear ago is reinvested?"
+      },
+      "choices": [
+        "20.4%",
+        "127%",
+        "141%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "54c7fe35-f1e9-4714-a8e8-ad0b4da8e5be",
+      "prompt": {
+        "text": "Caddell Corporation operates in a commodity-based industry with high current cash flows and negative \nlong-run growth. Caddell's stock is currently trading at GBP80.76 per share and is expected to pay \ndividends of GBP10 per share for the next five years. The expectation is that Caddell's share price will be \nGBP60 per share in five years.  Analysts believe that 8% is an appropriate discount rate for Caddell stock.\n\nWhich one of the following most correctly states the relative percentage impact of Caddell Corporation’s future \nshare price of USD60 on its current price?"
+      },
+      "choices": [
+        "−25.7%",
+        "50.6%",
+        "74.3%"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "068f801d-4efd-46d2-8f7c-c5bada926714",
+      "prompt": {
+        "text": "Which of the following dates in the dividend chronology can fall on a weekend?"
+      },
+      "choices": [
+        "The ex-date.",
+        "The record date.",
+        "The payment date.\nFeedback: \nC is correct. The payment date can occur on a weekend or holiday unlike other pertinent dates, such as the ex-\ndate and record date, which occur only on business days."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    },
+    {
+      "id": "d5090f2e-3162-4d45-bded-c90978f6ae86",
+      "prompt": {
+        "text": "The first date that a share trades without the declared dividend is the:"
+      },
+      "choices": [
+        "ex-date.",
+        "payable date.",
+        "declaration date\nFeedback: \nA is correct because the ex-dividend date (or ex-date), the first date that a share trades without (i.e., “ex”) the \ndividend.\nB is incorrect because payment date (or payable date), which is the day that the company actually mails out (or \nelectronically transfers) a dividend payment to shareholders.\nC is incorrect because the declaration date, is the day that the company issues a statement declaring a \nspecific dividend."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Refer to official CFA curriculum for detailed solution explanation."
+      }
+    }
+  ]
+}

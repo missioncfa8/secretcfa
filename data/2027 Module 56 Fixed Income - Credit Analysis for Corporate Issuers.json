@@ -1,0 +1,349 @@
+{
+  "title": "Module 56: Credit Analysis for Corporate Issuers",
+  "topic": "Fixed Income",
+  "module_number": 56,
+  "module_name": "Credit Analysis for Corporate Issuers",
+  "year": 2027,
+  "items": [
+    {
+      "id": "37b9c498-ba17-4e7a-9b49-57fd23a86949",
+      "prompt": {
+        "text": "Based on her smartphone industry assessment, the credit analyst concludes that  \nMojofon’s debt service capacity is low because:"
+      },
+      "choices": [
+        "the threat of substitutes is low.",
+        "the threat of new entrants and bargaining power of customers are low.",
+        "the industry rivalry and the bargaining power of suppliers are high. \n \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 2 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following benefits of securitization is most likely to be important  for \ninvestors? \nA. Increased efficiency \nB. Reduced liquidity risk \nC. The ability to tailor interest rate and credit risk exposures \n \nThe following information relates to questions 2-4 \nAR&C Limited leases private jets to corporations in North America for a fixed  term of \nfive years. AR&C retains ownership of the jets. The corporations make  equal interest \npayments each month. If a customer defaults, AR&C can repossess  the jet. AR&C has \nbeen in business for approximately fifteen years and has a B3 credit rating, meaning that \nits debt is non-investment grade. AR&C has CAD500 million in leases on its balance sheet, \nwhich it wants to securitize into ABS."
+      }
+    },
+    {
+      "id": "f827b145-0765-4d02-bff3-06c88f511419",
+      "prompt": {
+        "text": "Based on the overall industry assessment, the credit analyst concludes that the  \ncredit conditions for Mojofon will most likely:"
+      },
+      "choices": [
+        "tighten because the sector is maturing, and industry concentration is increasing.",
+        "remain unchanged because Mojofon’s market share is constant despite low  \nindustry growth.",
+        "expand since niche market entrants are consistently seizing market share  from \ndominant firms."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "Determine which of the following is the best next step for AR&C. \nA. AR&C issues and sells securities backed by the pool of leases. \nB. AR&C sets up a separate legal entity to which it sells the CAD500 million in leases. \nC. AR&C discontinues servicing the leases, shifting this responsibility to a special \npurpose company."
+      }
+    },
+    {
+      "id": "67d545eb-7bec-49d1-be74-6153fb23eab7",
+      "prompt": {
+        "text": "Which of the following will most likely reduce Mojofon’s near-term default risk?"
+      },
+      "choices": [
+        "A new policy to increase dividends on a steady basis",
+        "A three-year strategy to pursue acquisitions funded by debt",
+        "Proactive management of debt maturity by issuing longer-term bonds"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which shape best represents the cash payments for the Leases? \n \n \nA. Shape 2 \nB. Shape 3 \nC. Shape 5 \n\nFixed Income Securitization \nFaculty:                                                                                    Page 2 of 6"
+      }
+    },
+    {
+      "id": "c311ed29-f007-4448-b3fc-47e2ca3c5b90",
+      "prompt": {
+        "text": "The credit analyst studies the key financial information of Mojofon and that of its  \npeers below: \nKey Credit Metrics Mojofon Peer Average \nCurrent Year  \nPrior Year Current Year  \nEBITDA 27 20 55  \nRevenue 121 100 305  \nFCF 9 −5 40  \nFCF after dividends 5 −7 32  \nInterest expense 5 8 10  \nTotal debt 100 100 150  \nTotal equity 120 100 250  \n \nDebt/capital for Mojofon for the current year is closest to:"
+      },
+      "choices": [
+        "37.5%.",
+        "50.0%.",
+        "100.0%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following best describes the entity shown in shape 9? \n \n \nThe entity in shape 9 is the: \nA. seller of the collateral. \nB. servicer of the leases. \nC. SPE that purchases the leases and uses them as collateral for the ABS."
+      }
+    },
+    {
+      "id": "560742a8-38f7-43dc-9f3a-10089a8769f1",
+      "prompt": {
+        "text": "The outstanding bonds of Mojofon  contain a covenant that requires its \nEBITDA/Interest coverage ratio to be above 3.0. Based on coverage ratio analysis,  \nMojofon most likely:"
+      },
+      "choices": [
+        "has improved its coverage ratio.",
+        "is in breach of this bond covenant.",
+        "has lower credit risk than its peers."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following statements about securitization’s impact on economies  and \nfinancial markets is correct? \nA. Securitization decreases overall liquidity in the financial system. \nB. Securitization provides an alternative means of funding business operations  \nbeyond traditional financing. \nC. Securitization allows companies to directly access the financial markets and  \npurchase loans that will be held on their balance sheet."
+      }
+    },
+    {
+      "id": "14fb8b6d-5d30-4adc-b668-c9e06a089fce",
+      "prompt": {
+        "text": "Based on the financial information, Mojofon’s credit risk is:"
+      },
+      "choices": [
+        "below that of its peers.",
+        "similar to that of its peers.",
+        "above that of its peers. \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 3 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Which of the following statements about securitization is incorrect? \nA. The ABS that are created by securitization have characteristics similar to those \nof equity investments. \nB. Buying securitized debt helps investors increase exposure to the risk –return \ncharacteristics of a wider range of underlying assets. \nC. Securitization transactions allow issuers to create risk–return characteristics to \nsatisfy the risk tolerance of different investors."
+      }
+    },
+    {
+      "id": "2d975e01-8465-4053-b4d5-c4fa5ee72574",
+      "prompt": {
+        "text": "Mojofon’s capital structure consists of the following: \nType Amount \nSenior secured bonds (pledged by \ncollateral valued at 60) 50 \nSenior unsecured bonds 35 \nSubordinated bonds 15 \nCommon equity 100 \n \nMojofon’s bonds all contain a cross-default provision. If the company is to default on \none of its senior unsecured bonds:"
+      },
+      "choices": [
+        "the secured bonds are likely to have full recovery.",
+        "the credit loss on senior unsecured bonds will be the same as that on subordinated \nbonds.",
+        "the subordinated bonds will rank below shareholders, who may dictate how  \nrecovery is to be distributed."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "In the event of a bankruptcy of the originator in a loan securitization, the investors \nwould most likely experience: \nA. gains. \nB. losses. \nC. no impact. \n\nFixed Income Securitization \nFaculty:                                                                                    Page 3 of 6"
+      }
+    },
+    {
+      "id": "bcd0de0e-7f7c-4958-b02e-85f82431efb7",
+      "prompt": {
+        "text": "Half of Mojofon’s senior unsecured bonds are issued by its major operating  \nsubsidiary, which contributes over 90% of the group’s cash flow and assets, and the \nremainder of the group’s senior unsecured bonds are issued by the holding  company \nthat relies on dividend upstreamed by its subsidiaries. There is no  cross-guarantee \nbetween the holding company and the subsidiary. In an event of  default, it is most \nlikely that:"
+      },
+      "choices": [
+        "the unsecured bonds issued by the holding company will have a higher  recovery \nrate.",
+        "the unsecured bonds issued by the operating subsidiary will have a higher recovery \nrate.",
+        "the recovery rate will be the same for all senior unsecured bonds since they rank \npari passu with each other."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "In a securitization, the party that purchases the loans or receivables and uses them \nas collateral to issue ABS is the: \nA. SPE. \nB. seller. \nC. servicer"
+      }
+    },
+    {
+      "id": "4ca46304-6094-47fe-8aca-5d50e06a9748",
+      "prompt": {
+        "text": "Mojofon’s S&P issuer credit rating is B+. Its S&P subordinated bond issue rating  is \nmost likely:"
+      },
+      "choices": [
+        "BB –.",
+        "B+.",
+        "B –."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "In the securitization process, which of the following is most likely a third party to \nthe transaction? The: \nA. seller of the collateral. \nB. special purpose entity. \nC. financial guarantor."
+      }
+    },
+    {
+      "id": "322e1266-7777-41a2-9bb8-22f4f343310a",
+      "prompt": {
+        "text": "With respect to the notching process adopted by credit rating agencies, a \ncorporate's subordinated debt is most likely:"
+      },
+      "choices": [
+        "notched up from the corporate's junior subordinated debt.",
+        "subject to a smaller notching adjustment the higher the corporate's issuer \nrating. \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 4 of 8",
+        "notched down from the corporate's issuer rating due to higher probability of \ndefault."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A BBB rated corporation wishes to issue debt to finance its operations at the lowest \ncost possible. If it decides to sell a pool of receivables into a special purpose entity \n(SPE), its primary motivation is most likely to: \nA. allow the corporation to retain a first lien on the assets of the SPE. \nB. segregate the assets into a bankruptcy-remote entity for bondholders. \nC. receive a guaranty from the SPE to improve the corporation’s credit rating."
+      }
+    },
+    {
+      "id": "5831b06c-30f4-420c-8a64-42acb91f8dfa",
+      "prompt": {
+        "text": "The EBITDA/interest expense ratio is best classified as a:"
+      },
+      "choices": [
+        "leverage ratio.",
+        "coverage ratio.",
+        "profitability ratio."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "In a securitization, the purchase agreement between the seller of the collateral and \nthe special purpose entity most likely provides: \nA. a description of the transaction structure. \nB. representations about the quality of the assets. \nC. documentation of enhancements used to reduce credit risk."
+      }
+    },
+    {
+      "id": "7feea633-de7d-440d-bfb2-ea71aae26088",
+      "prompt": {
+        "text": "A bond issuer has a credit rating of BBB. Based only on this information, the rating \nof a senior unsecured bond from this issuer is most likely to be:"
+      },
+      "choices": [
+        "lower than BBB.",
+        "BBB.",
+        "higher than BBB."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "In the securitization process, the trustee most likely: \nA. sells the underlying collateral. \nB. owns the underlying collateral. \nC. holds the underlying collateral."
+      }
+    },
+    {
+      "id": "4db4506a-abbd-43d8-9cd1-e2b3ca8d2034",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company (in $ millions): \nOperating income 120 \nNet income 85 \nInterest expense 15 \nDepreciation and amortization 15 \n \nInterest coverage using EBIT is closest to:"
+      },
+      "choices": [
+        "7x.",
+        "8x.",
+        "9x."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Proceeds for repaying securitized bonds most likely come from the: \nA. claims-paying ability of the operating entity. \nB. cash flows of the project the bond is financing. \nC. cash flows of the underlying financial assets. \n \n \n \n \n \n \n \n \nFixed Income Securitization \nFaculty:                                                                                    Page 4 of 6"
+      }
+    },
+    {
+      "id": "02a3ee95-bd42-4595-a431-d14dded2e26e",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company that only has senior \nunsecured debt: \nType Total Amount Outstanding Time to Maturity \nFloating-rate note (FRN) $50 million 12 years \nFixed-rate bond $10 million 2 years \n \nIn a bankruptcy scenario, if the priority of claims is enforced, it is most likely that:"
+      },
+      "choices": [
+        "fixed-rate bond is repaid first because it matures earlier.",
+        "both bondholders are repaid proportionally to the amount owed.",
+        "FRN is repaid first because it has the highest amount outstanding."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because both bonds represent forms of senior unsecured debt and \ntherefore, all creditors are at the same level of the capital structure and treated as \none class; thus, a senior unsecured bondholder whose debt is due in 30 years has the \nsame pro rata claim  in bankruptcy as one whose debt matures in six months. This \nprovision is referred to as bonds ranking  pari passu ('on an equal footing') in right \nof payment. \n \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 8 of 8"
+      }
+    },
+    {
+      "id": "2ccebb2c-fc33-40dc-92bd-391c4d2668d1",
+      "prompt": {
+        "text": "Which of the following debt categories has the highest ranking in terms of priority \nof payment?"
+      },
+      "choices": [
+        "Second lien debt",
+        "Subordinated debt",
+        "Senior unsecured debt"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because this is a secured debt and therefore has higher priority than \nany unsecured debt. In the event of default, unsecured debtholders’ claims rank \nbelow (i.e., get paid after) those of secured creditors under what’s known as the \npriority of claims. First lien debt or loan refers to a pledge of certain assets that \ncould include buildings but might also include property and equipment, licenses, \npatents, brands, and so on. There can also be second lien, or even third lien, secured \ndebt, which, as the name implies, has a secured interest in the pledged assets but \nranks below first lien debt in both collateral protection and priority of payment."
+      }
+    },
+    {
+      "id": "115ef094-afea-43df-94f7-3e74e668672e",
+      "prompt": {
+        "text": "A corporate family rating most likely: \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 5 of 8"
+      },
+      "choices": [
+        "reflects the priority of claims in a bankruptcy.",
+        "refers to specific financial obligations of an issuer.",
+        "is assigned to a company based on its overall creditworthiness."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because corporate family ratings or issuer ratings will address an \nobligor’s overall creditworthiness – its ability to and willingness to make timely \npayments of interest and principal on its debt. The issuer credit rating usually applies \nto its senior unsecured debt."
+      }
+    },
+    {
+      "id": "d1f0e882-36b9-451f-917e-fdf70835541f",
+      "prompt": {
+        "text": "An issuer's credit rating most likely applies to its:"
+      },
+      "choices": [
+        "subordinated debt.",
+        "senior secured debt.",
+        "senior unsecured debt."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because an issuer credit rating is meant to address an obligor's overall \ncreditworthiness – its ability and willingness to make timely payments of interest and \nprincipal on its debt. The issuer credit rating usually applies to its senior unsecured \ndebt."
+      }
+    },
+    {
+      "id": "fe0aff49-382b-4aaa-ba92-e1b17a577bb9",
+      "prompt": {
+        "text": "With respect to the credit rating agencies' practice of notching, the size of a \nnotching adjustment:"
+      },
+      "choices": [
+        "is larger for higher-rated credits.",
+        "is standardized between rating agencies.",
+        "depends on the rating of the issuer's senior unsecured debt."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because recognizing different payment priorities, and thus the potential \nfor higher (or lower) loss severity in the event of default, the rating agencies have \nadopted a notching process whereby their credit ratings on issues can be moved up \nor down from t he issuer rating, which is usually the rating applied to its senior \nunsecured debt. As a general rule, the higher the senior unsecured rating, the smaller \nthe notching adjustment. The reason behind this is that the higher the rating, the \nlower the perceived risk of default; so, the need to 'notch' the rating to capture the \npotential difference in loss severity is greatly reduced. For lower -rated credits, \nhowever, the risk of default is greater and thus the potential difference in loss from \na lower (or higher) priority  ranking is a bigger consideration in assessing an issue’s \ncredit riskiness."
+      }
+    },
+    {
+      "id": "b3436506-9129-4dea-9c9e-5b408bb40dc1",
+      "prompt": {
+        "text": "A corporation with a holding company structure has debt at both its parent holding \ncompany and operating subsidiaries. Debt at the operating level must be serviced \nbefore funds can be upstreamed to pay debt at the holding company. This \narrangement best describes:"
+      },
+      "choices": [
+        "structural subordination.",
+        "a cross-default provision.",
+        "the corporate family rating."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because another factor considered by rating agencies is structural \nsubordination, which can arise when a corporation with a holding company structure \nhas debt at both its parent holding company and operating subsidiaries. Debt at the \noperating subsidiarie s will get serviced by the cash flow and assets of the \nsubsidiaries before funds can be passed (“upstreamed”) to the holding company to \nservice debt at that level."
+      }
+    },
+    {
+      "id": "cdd77fd1-a82d-4a57-bf97-286318e16c7a",
+      "prompt": {
+        "text": "Which bonds most likely rank the highest with respect to priority of claims?"
+      },
+      "choices": [
+        "Subordinated debt",
+        "Second lien debt",
+        "Senior unsecured bond \n \n  \nCredit Analysis for Corporate Issuers \nFaculty:                                                                                    Page 6 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Second lien debt has a secured interest in the pledged assets and ranks \nhigher than the unsecured debt, such as senior unsecured bonds and subordinated \ndebt. \nFixed Income Securitization \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose."
+      }
+    }
+  ]
+}

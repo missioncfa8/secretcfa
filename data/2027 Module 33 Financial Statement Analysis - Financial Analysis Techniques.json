@@ -1,0 +1,1131 @@
+{
+  "title": "Module 33: Financial Analysis Techniques",
+  "topic": "Financial Statement Analysis",
+  "module_number": 33,
+  "module_name": "Financial Analysis Techniques",
+  "year": 2027,
+  "items": [
+    {
+      "id": "5538a5ab-4abd-4118-b3c5-46571388a49c",
+      "prompt": {
+        "text": "Comparison of a company’s financial results to other peer companies for the same \ntime period is called:"
+      },
+      "choices": [
+        "time-series analysis.",
+        "common-size analysis.",
+        "cross-sectional analysis."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Cross-sectional analysis involves the comparison of companies with each \nother for the same time period. Time -series or trend analysis is the comparison  of \nfinancial data across different time periods. Common -size analysis  involves \nexpressing financial data in relation to a single financial statement item, or base."
+      }
+    },
+    {
+      "id": "3d80d446-84d4-4d4f-99ab-db0e902437de",
+      "prompt": {
+        "text": "An analyst observes a decrease in a company’s inventory turnover. Which of the \nfollowing would most likely explain this trend?"
+      },
+      "choices": [
+        "The company installed a new inventory management system, allowing more \nefficient inventory management.",
+        "Due to problems with obsolescent inventory last year, the company wrote off a \nlarge amount of its inventory at the beginning of the period.",
+        "The company installed a new inventory management system but experienced some \noperational difficulties resulting in duplicate orders being placed with suppliers."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The company’s problems with its inventory management system  causing \nduplicate orders would likely result in a higher amount of inventory  and, therefore, \nwould result in a decrease in inventory turnover. A more efficient  inventory \nmanagement system and a write-off of inventory at the beginning of the period would \nboth likely decrease the average inventory for the period (the  denominator of the \ninventory turnover ratio), thus increasing the ratio rather than decreasing it."
+      }
+    },
+    {
+      "id": "e29a2446-530c-469a-b3b6-2457be992f02",
+      "prompt": {
+        "text": "Which of the following would best explain an increase in receivables turnover?"
+      },
+      "choices": [
+        "The company adopted new credit policies last year and began offering credit  to \ncustomers with weak credit histories.",
+        "Due to problems with an error in its old credit scoring system, the company  had \naccumulated a substantial amount of uncollectible accounts and wrote off a large \namount of its receivables.",
+        "To match the terms offered by its closest competitor, the company adopted new \npayment terms now requiring net payment within 30 days rather than  15 days, \nwhich had been its previous requirement."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A write -off of receivables would decrease the average amount of  \naccounts receivable (the denominator of the receivables turnover ratio), thus  \nincreasing this ratio. Customers with weaker credit are more likely to make payments \nmore slowly or to pose collection difficulties, which would likely increase the average \namount of accounts receivable and thus decrease receivables  turnover. Longer \npayment terms would likely increase the average amount of  accounts receivable and \nthus decrease receivables turnover."
+      }
+    },
+    {
+      "id": "01ffa384-6dc2-4e17-8761-14251cc552f5",
+      "prompt": {
+        "text": "Brown Corporation had average days of sales outstanding of 19 days in the most  \nrecent fiscal year. Brown wants to improve its credit policies and collection practices \nand decrease its collection period in the next fiscal year to match the  industry \naverage of 15 days. Credit sales in the most recent fiscal year were $300 million, and \nBrown expects credit sales to increase to $390 million in the next fiscal  year. To \nachieve Brown’s goal of decreasing the collection period, the change  in the average \naccounts receivable balance that must occur is closest to:"
+      },
+      "choices": [
+        "+USD0.41 million.",
+        "–USD0.41 million.",
+        "–USD1.22 million. \n \n \n \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 2 of 30 \n \nThe following information relates to questions 5-6 \nAn analyst is interested in assessing both the efficiency and liquidity of Spherion PLC. \nThe analyst has collected the data in Exhibit 1 for Spherion: \n  FY3 FY2 FY1 \nDays of inventory on hand 32 34 40 \nDays sales outstanding 28 25 23 \nNumber of days of payables 40 35 35"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The average accounts receivable balances (actual and desired) must be \ncalculated to determine the desired change. The average accounts receivable balance \ncan be calculated as an average day’s credit sales times the DSO. For the most recent \nfiscal year, the average accounts receivable balance is USD15.62  million [= \n(USD300,000,000/365) × 19]. The desired average accounts receivable  balance for \nthe next fiscal year is USD16.03 million (= (USD390,000,000/365) ×  15). This is an \nincrease of USD0.41 million (= 16.03 million – 15.62 million). An alternative approach \nis to calculate the turnover and divide sales by turnover to  determine the average \naccounts receivable balance. Turnover equals 365 divided by DSO. Turnover is 19.21 \n(= 365/19) for the most recent fiscal year and is targeted  to be 24.33 (= 365/15) \nfor the next fiscal year. The average accounts receivable  balances are USD15.62 \nmillion (= USD300,000,000/19.21), and USD16.03 million (= USD390,000,000/24.33). \nThe change is an increase in receivables of USD0.41 million"
+      }
+    },
+    {
+      "id": "5b5e5704-8785-4834-b4d6-a952b0f79d4a",
+      "prompt": {
+        "text": "Based on the data in Exhibit 1, what is the analyst least likely to conclude?"
+      },
+      "choices": [
+        "Inventory management has contributed to improved liquidity.",
+        "Management of payables has contributed to improved liquidity.",
+        "Management of receivables has contributed to improved liquidity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The analyst is unlikely to reach the conclusion given in Statement  C \nbecause days of sales outstanding increased from 23 days in FY1 to 25 days in  FY2 \nto 28 days in FY3, indicating that the time required to collect receivables  has \nincreased over the period. This is a negative factor for Spherion’s liquidity. By  \ncontrast, days of inventory on hand dropped over the period FY1 to FY3, a positive  \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 20 of 30 \n \nfor liquidity. The company’s increase in days payable, from 35 days to 40 days,  \nshortened its cash conversion cycle, thus also contributing to improved liquidity."
+      }
+    },
+    {
+      "id": "37e30655-4460-4a56-a5e7-a731c7ff4834",
+      "prompt": {
+        "text": "To assess a company’s ability to fulfill its long-term obligations, an analyst would most \nlikely examine:"
+      },
+      "choices": [
+        "activity ratios.",
+        "liquidity ratios.",
+        "solvency ratios. \n \nThe following information relates to questions 7-8 \nAn analyst is evaluating the solvency and liquidity of Apex Manufacturing and  has \ncollected the data in Exhibit 1: \n \nExhibit 1: Solvency and Liquidity of Apex Manufacturing (euro millions) \n  FY5 FY4 FY3 \nTotal debt 2,000 1,900 1,750 \nTotal equity 4,000 4,500 5,000"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Solvency ratios are used to evaluate the ability of a company to meet its \nlong-term obligations. An analyst is more likely to use activity ratios to evaluate how \nefficiently a company uses its assets. An analyst is more likely to use liquidity ratios \nto evaluate the ability of a company to meet its short-term obligations."
+      }
+    },
+    {
+      "id": "24fcc735-7af9-46d4-bd4e-82d88daca546",
+      "prompt": {
+        "text": "Which of the following would be the analyst’s most likely conclusion?"
+      },
+      "choices": [
+        "The company is becoming less liquid, as evidenced by the increase in its debt -to-\nequity ratio from 0.35 to 0.50 from FY3 to FY5.",
+        "The company is becoming increasingly more liquid, as evidenced by the increase in \nits debt-to-equity ratio from 0.35 to 0.50 from FY3 to FY5.",
+        "The company is becoming increasingly less solvent, as evidenced by the  increase \nin its debt-to-equity ratio from 0.35 to 0.50 from FY3 to FY5."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The company is becoming increasingly less solvent, as evidenced  by its \ndebt-to-equity ratio increasing from 0.35 to 0.50 from FY3 to FY5. The amount of a \ncompany’s debt and equity do not provide direct information about  the company’s \nliquidity position. \nDebt to equity: \nFY5: 2,000/4,000 = 0.5000 \nFY4: 1,900/4,500 = 0.4222 \nFY3: 1,750/5,000 = 0.3500"
+      }
+    },
+    {
+      "id": "d3a62531-f538-44db-b5b0-1ec7919d535b",
+      "prompt": {
+        "text": "What would be the most reasonable explanation of the financial data?"
+      },
+      "choices": [
+        "The decline in the company’s equity results from a decline in the market value of \nthis company’s common shares.",
+        "The EUR250 increase in the company’s debt from FY3 to FY5 indicates that  \nlenders are viewing the company as increasingly creditworthy. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 3 of 30",
+        "The decline in the company’s equity indicates that the company may be  incurring \nlosses, paying dividends greater than income, or repurchasing shares."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The decline in the company’s equity indicates that the company  may be \nincurring losses, paying dividends greater than income, or repurchasing shares. Recall \nthat Beginning equity – Shares repurchased + Comprehensive  income – Dividends = \nEnding equity. The book value of a company’s equity is not affected by changes in the \nmarket value of its common stock. An increased  amount of lending does not \nnecessarily indicate that lenders view a company as  increasingly creditworthy. \nCreditworthiness is no t evaluated based on how much  a company has increased its \ndebt but rather on its willingness and ability to pay  its obligations. (Its financial \nstrength is indicated by its solvency, liquidity, profitability,  efficiency, and other \naspects of credit analysis.)"
+      }
+    },
+    {
+      "id": "4a5133e4-444a-4887-92d0-eeef12b9b02d",
+      "prompt": {
+        "text": "An analyst observes the data in Exhibit 1 for two companies: \n \nExhibit 1: Data Comparison (US dollars) \n  Company A Company B \nRevenue 4,500 6,000 \nNet income 50 1,000 \nCurrent assets 40,000 60,000 \nTotal assets 1,00,000 7,00,000 \nCurrent liabilities 10,000 50,000 \nTotal debt 60,000 1,50,000 \nShareholders’ equity 30,000 5,00,000 \n \nWhich of the following choices best describes reasonable conclusions that the analyst \nmight make about the two companies’ ability to pay their current and long -term \nobligations?"
+      },
+      "choices": [
+        "Company A’s current ratio of 4.0 indicates it is more liquid than Company B, whose \ncurrent ratio is only 1.2, but Company B is more solvent, as indicated by its lower \ndebt-to-equity ratio.",
+        "Company A’s current ratio of 0.25 indicates it is less liquid than Company B, whose \ncurrent ratio is 0.83, and Company A is also less solvent, as indicated by a debt -\nto-equity ratio of 200 percent compared with Company B’s debt -to-equity ratio \nof only 30 percent.",
+        "Company A’s current ratio of 4.0 indicates it is more liquid than Company B, whose \ncurrent ratio is only 1.2, and Company A is also more solvent, as indicated by a \ndebt-to-equity ratio of 200 percent compared with Company B’s debt -to-equity \nratio of only 30 percent. \n \n \n \n  \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 4 of 30 \n \nThe following information relates to questions 10-13 \nThe following data appear in the five-year summary of a major international company. A \nbusiness combination with another major manufacturer took place in FY13. \n  FY10 FY11 FY12 FY13 FY14 \nFinancial statements GBP \nmillions \nGBP \nmillions \nGBP \nmillions \nGBP \nmillions \nGBP \nmillions \nIncome statements \n     \nRevenue 4,390 3,624 3,717 8,167 11,366 \nProfit before interest and \ntaxation (EBIT) \n844 700 704 933 1,579 \nNet interest expense –80 –54 –98 –163 –188 \nTaxation –186 –195 –208 –349 –579 \nMinorities –94 –99 –105 –125 –167 \nProfit for the year 484 352 293 296 645 \nBalance sheets \n     \nFixed assets 3,510 3,667 4,758 10,431 11,483 \nCurrent asset investments, \ncash at bank and in hand \n316 218 290 561 682 \nOther current assets 558 514 643 1,258 1,634 \nTotal assets 4,384 4,399 5,691 12,250 13,799 \nInterest bearing debt (long \nterm) \n–602 –1,053 –1,535 –3,523 –3,707 \nOther creditors and provisions \n(current) \n–1,223 –1,054 –1,102 –2,377 –3,108 \nTotal liabilities –1,825 –2,107 –2,637 –5,900 –6,815 \nNet assets 2,559 2,292 3,054 6,350 6,984 \nShareholders’ funds 2,161 2,006 2,309 5,572 6,165 \nEquity minority interests 398 286 745 778 819 \nCapital employed 2,559 2,292 3,054 6,350 6,984 \nCash flow \n     \nWorking capital movements –53 5 71 85 107 \nNet cash inflow from operating \nactivities \n864 859 975 1,568 2,292"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Company A’s current ratio of 4.0 (= USD40,000/USD10,000)  indicates \nit is more liquid than Company B, whose current ratio is only 1.2  \n(=USD60,000/USD50,000). Company B is more solvent, as indicated by its lower  \ndebt-to-equity ratio of 30 percent (= USD150,000/USD500,000) compared with  \nCompany A’s debt-to-equity ratio of 200 percent (= USD60,000/USD30,000)."
+      }
+    },
+    {
+      "id": "bec8cf64-d70e-4232-aadb-9cae920f9882",
+      "prompt": {
+        "text": "The company’s total assets at year -end FY9 were GBP3,500 million. Which of the \nfollowing choices best describes reasonable conclusions an analyst might make about \nthe company’s efficiency?"
+      },
+      "choices": [
+        "Comparing FY14 with FY10, the company’s efficiency deteriorated, as indicated \nby its current ratio.",
+        "Comparing FY14 with FY10, the company’s efficiency deteriorated due to asset \ngrowth faster than turnover revenue growth.",
+        "Comparing FY14 with FY10, the company’s efficiency improved, as indicated by a \ntotal asset turnover ratio of 0.86 compared with 0.64. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 5 of 30"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The company’s efficiency deteriorated, as indicated by the decline in its \ntotal asset turnover ratio from 1.11 {= 4,390/[(4,384 + 3,500)/2]} for FY10  to 0.87 \n{= 11,366/[(12,250 + 13,799)/2]} for FY14. The decline in the total asset  turnover \nratio resulted from an increase in average total assets from GBP3,942 [=  (4,384 + \n3,500)/2] for FY10 to GBP13,024.5 for FY14, an increase of 230 percent,  compared \nwith an increase in revenue from GBP4,390 in FY10 to GBP11,366 in FY14, an increase \nof only 159 percent. The current ratio is not an indicator of efficiency. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 21 of 30"
+      }
+    },
+    {
+      "id": "b6cfb8c8-a909-497b-a94f-3cf84276c0d2",
+      "prompt": {
+        "text": "Which of the following choices best describes reasonable conclusions an analyst  \nmight make about the company’s solvency?"
+      },
+      "choices": [
+        "Comparing FY14 with FY10, the company’s solvency improved, as indicated by the \ngrowth in its profits to GBP 645 million.",
+        "Comparing FY14 with FY10, the company’s solvency deteriorated, as indicated  by \na decrease in interest coverage from 10.6 to 8.4.",
+        "Comparing FY14 with FY10, the company’s solvency improved, as indicated  by an \nincrease in its debt-to-assets ratio from 0.14 to 0.27."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Comparing FY14 with FY10, the company’s solvency deteriorated, as  \nindicated by a decrease in interest coverage from 10.6 (= 844/80) in FY10 to 8.4  (= \n1,579/188) in FY14. The debt -to-asset ratio increased from 0.14 (= 602/4,384)  in \nFY10 to 0.27 (= 3,707/13,799) in FY14. This is also indicative of deteriorating  \nsolvency. In isolation, the amount of profits does not provide enough information  to \nassess solvency."
+      }
+    },
+    {
+      "id": "d10ff2c8-68c4-495f-9166-e505646e3f5e",
+      "prompt": {
+        "text": "Which of the following choices best describes reasonable conclusions an analyst  \nmight make about the company’s liquidity?"
+      },
+      "choices": [
+        "Comparing FY14 with FY10, the company’s liquidity improved, as indicated  by an \nincrease in its current ratio from 0.71 to 0.75.",
+        "Comparing FY14 with FY10, the company’s liquidity deteriorated, as indicated  by \na decrease in interest coverage from 10.6 to 8.4.",
+        "Comparing FY14 with FY10, the company’s liquidity improved, as indicated  by an \nincrease in its debt-to-assets ratio from 0.14 to 0.27."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Comparing FY14 with FY10, the company’s liquidity improved, as indicated \nby an increase in its current ratio from 0.71 [= (316 + 558)/1,223] in FY10 to 0.75 [= \n(682 + 1,634)/3,108] in FY14. Note, however, comparing only the  cash ratio shows a \ndecline in liquidity from 0.26 (= 316/1,223) in FY10 to 0.22 (=  682/3,108) in FY14. \nDebt-to-assets ratio and interest coverage are measures of solvency not liquidity."
+      }
+    },
+    {
+      "id": "ecfbb1ab-4c54-4546-bee5-81a2bbdc127b",
+      "prompt": {
+        "text": "Which of the following choices best describes reasonable conclusions an analyst  \nmight make about the company’s profitability?"
+      },
+      "choices": [
+        "Comparing FY14 with FY10, the company’s profitability improved, as indicated by \nan increase in its debt-to-assets ratio from 0.14 to 0.27.",
+        "Comparing FY14 with FY10, the company’s profitability improved, as indicated by \nthe growth in its shareholders’ equity to GBP6,165 million.",
+        "Comparing FY14 with FY10, the company’s profitability deteriorated, as indicated \nby a decrease in its net profit margin from 11.0 percent to 5.7 percent."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Comparing FY14 with FY10, the company’s profitability deteriorated, as \nindicated by a decrease in its net profit margin from 11.0 percent (=  484/4,390) to \n5.7 percent (= 645/11,366). Debt -to-assets ratio is a measure of  solvency not an \nindicator of profitability. Growth in shareholders’ equity, in isolation, does not provide \nenough information to assess profitability."
+      }
+    },
+    {
+      "id": "8bbc12e3-26a1-42fb-a12d-1d5caf3dbaf1",
+      "prompt": {
+        "text": "An analyst compiles the data in Exhibit 1 for a company: \n \nExhibit 1Net Profit Margin \n  FY13 FY14 FY15 \nROE 19.80% 20.00% 22.00% \nReturn on total assets 8.10% 8.00% 7.90% \nTotal asset turnover 2 2 2.1 \n \nBased only on the information above, the most appropriate conclusion is that, over \nthe period FY13 to FY15, the company’s:"
+      },
+      "choices": [
+        "net profit margin and financial leverage have decreased.",
+        "net profit margin and financial leverage have increased.",
+        "net profit margin has decreased but its financial leverage has increased. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 6 of 30"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The company’s net profit margin has decreased and its financial leverage \nhas increased. ROA = Net profit margin × Total asset turnover. ROA decreased over \nthe period despite the increase in total asset turnover; therefore,  the net profit \nmargin must have decreased. \n \nROE = Return on assets × Financial leverage. ROE increased over the period  despite \nthe drop in ROA; therefore, financial leverage must have increased."
+      }
+    },
+    {
+      "id": "2bfda381-7eeb-4650-87ea-30559ad02ec2",
+      "prompt": {
+        "text": "A decomposition of ROE for Integra SA is as follows: \n \nExhibit 1: Integra SA ROE \n  FY12 FY11 \nROE 18.90% 18.90% \nTax burden 0.7 0.75 \nInterest burden 0.9 0.9 \nEBIT margin 10.00% 10.00% \nAsset turnover 1.5 1.4 \nLeverage 2 2 \n \nWhich of the following choices best describes reasonable conclusions an analyst \nmight make based on this ROE decomposition?"
+      },
+      "choices": [
+        "Profitability and the liquidity position both improved in FY12.",
+        "The higher average tax rate in FY12 offset the improvement in profitability, \nleaving ROE unchanged.",
+        "The higher average tax rate in FY12 offset the improvement in efficiency, leaving \nROE unchanged."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The increase in the average tax rate in FY12, as indicated by the  \ndecrease in the value of the tax burden (the tax burden equals one minus the average \ntax rate), offset the improvement in efficiency indicated by higher asset  turnover) \nleaving ROE unchanged. The EBIT margin, measuring profitability, was  unchanged in \nFY12 and no information is given on liquidity."
+      }
+    },
+    {
+      "id": "aed559eb-d5b8-4687-9f1e-4fffc64f2b6d",
+      "prompt": {
+        "text": "A decomposition of ROE for Company A and Company B is as follows: \n \nExhibit 1: ROE for Company A and Company B \n  \nCompany A \n \nCompany B \nFY15 FY14 FY15 FY14 \nROE 26.46% 18.90% \n \n26.33% 18.90% \nTax burden 0.7 0.75 \n \n0.75 0.75 \nInterest burden 0.9 0.9 \n \n0.9 0.9 \nEBIT margin 7.00% 10.00% \n \n13.00% 10.00% \nAsset turnover 1.5 1.4 \n \n1.5 1.4 \nLeverage 4 2 \n \n2 2 \n \nAn analyst is most likely to conclude that:"
+      },
+      "choices": [
+        "Company A’s ROE is higher than Company B’s in FY15, and one explanation \nconsistent with the data is that Company A may have purchased new, more \nefficient equipment.",
+        "the difference between the two companies’ ROE in FY15 is very small and Company \nA’s ROE remains similar to Company B’s ROE mainly due to Company A increasing \nits financial leverage.",
+        "Company A’s ROE is higher than Company B’s in FY15, and one explanation \nconsistent with the data is that Company A has made a strategic shift to a product \nmix with higher profit margins. \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 7 of 30"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The difference between the two companies’ ROE in FY15 is very  small \nand is mainly the result of Company A’s increase in its financial leverage, indicated by \nthe increase in its Assets/Equity ratio from 2 to 4. The impact of efficiency on ROE \nis identical for the two companies, as indicated by both companies’  asset turnover \nratios of 1.5. Furthermore, if Company A had purchased newer equipment to replace \nolder, depreciated equipment, then the company’s asset turnover ratio (computed as \nsales/assets) would have declined, assuming  constant sales. Company A has \nexperienced a significant decline in its operating margin, from 10 percent to 7 percent \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 22 of 30 \n \nwhich, all else equal, would not suggest that  it is selling more products with higher \nprofit margins."
+      }
+    },
+    {
+      "id": "53f14293-8e3b-4563-a79a-c9391936724f",
+      "prompt": {
+        "text": "When developing forecasts, analysts should most likely:"
+      },
+      "choices": [
+        "develop possibilities relying exclusively on the results of financial analysis.",
+        "aim to develop extremely precise forecasts using the results of financial analysis.",
+        "use the results of financial analysis, analysis of other information, and judgment."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The results of an analyst’s financial analysis are integral to the process \nof developing forecasts, along with the analysis of other information and  judgment \nof the analysts. Forecasts are not limited to a single point estimate but should involve \na range of possibilities."
+      }
+    },
+    {
+      "id": "4e6f85a6-9ea9-4ecf-954d-9452137646ee",
+      "prompt": {
+        "text": "Selected information for a company and its industry’s average return on equity (ROE) \nis provided: \nCompany (£) Industry (£) \nEarnings before interest \nand taxes (EBIT) 76,000 EBIT margin 0.28 \nPretax profit 66,400 Interest burden 0.7 \nNet income 44,500 Tax burden 0.67 \nSales 4,00,000 Total asset turnover 0.71 \nTotal assets 5,24,488 Financial leverage 1.89 \nTotal equity 2,96,488  \nROE 15.00%   17.60% \n \nWhich of the following is most likely a contributor to the company’s inferior ROE \ncompared with that of the industry? The company’s lower:"
+      },
+      "choices": [
+        "tax burden ratio.",
+        "financial leverage.",
+        "interest burden ratio."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Compare the three specified components from the five -way DuPont \nanalysis: \n Calculation Company Industry \nTax burden ratio (Net income/EBT) 44,488/66,400 = 0.67 0.67 \n(Same as industry) \nFinancial leverages (Total \nassets/Equity) \n524,488/296,488 = 1.77 1.89 \n(Lower than industry) \nInterest burden \nratio \n(EBT/EBIT) 66,400/76,000 = 0.87 0.7 \n(Higher than industry) \nNote: EBT is pre-tax profit (earnings before tax) \n \nThe lower financial leverage ratio relative to the industry is one of the causes of the \ncompany’s poor relative performance."
+      }
+    },
+    {
+      "id": "5d1eb6c1-bf5a-4ea2-918f-c4df251c314e",
+      "prompt": {
+        "text": "By themselves, financial ratios are least likely to be sufficient in determining a \ncompany’s:"
+      },
+      "choices": [
+        "past performance.",
+        "creditworthiness.",
+        "current financial condition."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Financial ratios alone are not sufficient to determine the \ncreditworthiness of a company. Other factors must also be considered, such as \nexamining the entire operation of the company, meeting with management, touring \ncompany facilities, and so forth."
+      }
+    },
+    {
+      "id": "411293fe-6540-4bf4-b9f6-f7445fef06dd",
+      "prompt": {
+        "text": "The following selected financial information is available: \nMetric   \nSales $421,000 \nCost of goods sold (COGS) 3,15,000 \nCash 30,000 \nAverage accounts receivable 40,000 \nAverage inventories 36,000 \nAverage accounts payable 33,000 \n \nThe company’s cash conversion cycle (in days) is closest to:"
+      },
+      "choices": [
+        "76.4.",
+        "45.2.",
+        "38.2. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 8 of 30"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Cash conversion cycle = DOH + DSO – Days of payables \n Formula Calculation Days \nDOH: Days of \ninventory on hand \n(365/Inventory \nturnover) \n365/8.75 41.7 \nInventory turnover (COGS/Average \ninventory) \n315,000/36,000 \n= 8.75 \n--- \nDSO: Days of sales \noutstanding \n(365/Receivables \nturnover) \n365/10.53 34.7 \nReceivables turnover (Sales/Average \naccounts receivable) \n421,000/40,000 \n= 10.53 \n--- \nNumber of days of \npayables \n(365/Payables \nturnover) \n365/9.55 –38.2 \nPayables turnover (COGS*/Average \naccounts payable) \n315,000/33,000 \n= 9.55 \n--- \nCash conversion cycle     38.2 \n* When purchases are not available (as in this case) the COGS can be used to \nestimate payables turnover \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 23 of 30"
+      }
+    },
+    {
+      "id": "dd2b3415-c25e-4800-a0be-fbfe5232828a",
+      "prompt": {
+        "text": "Based on each company's interest coverage ratio, which company is the most solvent? \n  \nEBIT \nAverage \nTotal \nAssets \nTotal \nDebt \nAverage \nShareholders’ \nEquity \nTotal \nShareholders’ \nEquity \nInterest \nPayments \nCompany A $4,761 $42,979 $12,79\n6 \n$30,295 $32,000 $882 \nCompany B $24,63\n6 \n$201,536 $44,03\n0 \n$80,970 $82,000 $3,423 \nCompany C $1,553 $13,970 $8,115 $5,741 $6,000 $327"
+      },
+      "choices": [
+        "Company B",
+        "Company C",
+        "Company A"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Company B is the most solvent because it has the highest interest \ncoverage ratio. \nInterest coverage ratio = EBIT/Interest Payments \n= $24,636/$3,423 \n= 7.20"
+      }
+    },
+    {
+      "id": "6e3c7004-c626-4755-accd-03a4f4c002c9",
+      "prompt": {
+        "text": "An analysis used to forecast earnings that shows a range of possible outcomes as \nspecific assumptions change best describes which of the following techniques?"
+      },
+      "choices": [
+        "Scenario analysis",
+        "Simulation",
+        "Sensitivity analysis"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is Correct. Sensitivity analysis, also known as “what if” analysis, shows the range of \npossible outcomes as specific assumptions are changed."
+      }
+    },
+    {
+      "id": "f2b6762c-8304-4878-abff-0856e748cc38",
+      "prompt": {
+        "text": "Consider the following information available for a company for last year: \nROE 4.74% \nNet profit margin 2.60% \nRevenue $400,000 \nAverage total assets $300,000 \n \nThe average shareholder’s equity is closest to:"
+      },
+      "choices": [
+        "$164,557.",
+        "$123,418.",
+        "$219,409."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The DuPont equation is \n(𝑁𝑒𝑡 𝑖𝑛𝑐𝑜𝑚𝑒)/(𝑅𝑒𝑣𝑒𝑛𝑢𝑒) × (𝑅𝑒𝑣𝑒𝑛𝑢𝑒)/(𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑡𝑜𝑡𝑎𝑙 𝑎𝑠𝑠𝑒𝑡𝑠) × (𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑡𝑜𝑡𝑎𝑙 𝑎𝑠𝑠𝑒𝑡𝑠)\n/(𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑠ℎ𝑎𝑟𝑒ℎ𝑜𝑙𝑑𝑒𝑟𝑠′𝑒𝑞𝑢𝑖𝑡𝑦) \n4.75% = 2.6% × 400,000\n300,000 × 300,000\nAverage shareholders' equity \nAverage shareholders’ equity = $219,409"
+      }
+    },
+    {
+      "id": "67d261e9-0e33-48b5-80e4-e9938c833355",
+      "prompt": {
+        "text": "Other factors held constant, the reduction of a company’s average accounts payable \nbecause of suppliers offering less trade credit will most likely:"
+      },
+      "choices": [
+        "not affect the operating cycle.",
+        "reduce the operating cycle.",
+        "increase the operating cycle."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Payables are not part of the operating cycle calculation, which includes \nreceivables and inventory."
+      }
+    },
+    {
+      "id": "552601e7-f16d-4619-a703-7f54e47f544e",
+      "prompt": {
+        "text": "A company’s most recent balance sheet shows the following values (NZ$ thousands): \nAccounts payable 3,800 \nLong-term debt 5,590 \nOther long-term liabilities 800 \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 9 of 30 \n \nCommon stock 1,200 \nRetained earnings 1,810 \n \nThe company’s debt-to-capital ratio is closest to:"
+      },
+      "choices": [
+        "0.65.",
+        "0.77.",
+        "1.86."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The debt-to-capital ratio is: \n(𝑇𝑜𝑡𝑎𝑙 𝑑𝑒𝑏𝑡) / (𝑇𝑜𝑡𝑎𝑙 𝑑𝑒𝑏𝑡 +  𝑇𝑜𝑡𝑎𝑙 𝑠ℎ𝑎𝑟𝑒ℎ𝑜𝑙𝑑𝑒𝑟𝑠′ 𝑒𝑞𝑢𝑖𝑡𝑦) \n=  5,590 / (5,590 +  1,200 +  1,810) \n=  0.650 \nwhere total debt includes only interest-bearing debt."
+      }
+    },
+    {
+      "id": "d9b02eac-7aa7-4b59-b456-6118f6647d4f",
+      "prompt": {
+        "text": "A portion of a company’s balance sheet appears in the following table (euros in \nmillions): \nCash 4,000 \nMarketable securities 17,000 \nAccounts receivable 2,25,000 \nInventory 2,29,000 \nTotal current assets 4,75,000 \nCurrent liabilities 3,39,000 \n \nThe company’s quick ratio is closest to:"
+      },
+      "choices": [
+        "1.40.",
+        "0.06.",
+        "0.73."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The quick ratio is: \n(𝐶𝑎𝑠ℎ + 𝑀𝑎𝑟𝑘𝑒𝑡𝑎𝑏𝑙𝑒 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑖𝑒𝑠 + 𝐴𝑐𝑐𝑜𝑢𝑛𝑡𝑠 𝑟𝑒𝑐𝑒𝑖𝑣𝑎𝑏𝑙𝑒)/(𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑙𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑖𝑒𝑠)\n= (4,000 + 17,000 + 225,000)/339,000 = 0.73"
+      }
+    },
+    {
+      "id": "3155632d-2186-4bf5-a66a-78a76b65f93d",
+      "prompt": {
+        "text": "An analyst has calculated the following ratios for a company: \nOperating profit margin 17.50% \nNet profit margin 11.70% \nTotal asset turnover 0.89 times \nReturn on assets (ROA) 10.40% \nFinancial leverage 1.46 \nDebt to equity 0.46 \n \nThe company’s return on equity (ROE) is closest to:"
+      },
+      "choices": [
+        "22.7%.",
+        "4.8%.",
+        "15.2%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Using DuPont analysis, there are two ways to calculate ROE from the \ninformation provided: \nROE = Net profit margin × Asset turnover × Financial leverage \n = 11.7 × 0.89 × 1.46 \n = 15.2% \n \nROE = ROA × Financial leverage \n = 10.4 × 1.46 \n = 15.2% \n \n \n \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 24 of 30"
+      }
+    },
+    {
+      "id": "df62c5b8-b823-460d-bcf1-3667ed59037d",
+      "prompt": {
+        "text": "Selected information for a company is provided. \n  $ millions \nSales 4,800 \nCost of goods sold 2,880 \nPurchases 2,940 \nAverage receivables 625 \nAverage inventory 710 \nAverage payables 145 \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 10 of 30 \n \n \nThe company’s cash conversion cycle (in days) is closest to:"
+      },
+      "choices": [
+        "84.",
+        "138.",
+        "120."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Cash conversion cycle = Days sales outstanding + Days of inventory on \nhand – Days of payables \n \nAccounts Receivable: \nDays Sales \nOutstanding(DSO) \nInventory: Days \non Hand(DOH) \nAccounts Payables: \nDays in Payables \nTurnover (Sales/Average \nreceivables) \n(Cost of goods \nsold/Inventory) \n(Purchases/Payables) \n \n4,800/625 = 7.68 times 2,880/710 = 4.06 \ntimes \n2,940/145 = 20.3 \ntimes \nIn days 365/7.68 = 48 days 365/4.06 = 90 \ndays \n354/20.3 = 18 days \n \nCash conversion cycle = DSO + DOH – Days in payables \n = 48 + 90 – 18 \n = 120 days"
+      }
+    },
+    {
+      "id": "2bab7e3b-a5d0-4782-b119-411b438e538c",
+      "prompt": {
+        "text": "Which of the following ratios is most likely to be used as a measure of operating \nperformance?"
+      },
+      "choices": [
+        "Cash ratio",
+        "Working capital turnover ratio",
+        "Defensive interval ratio"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Activity ratios are typically used to measure operating performance. \nWorking capital turnover is an example of an activity ratio; the defensive interval \nratio and cash ratio are liquidity ratios used to measure a company’s ability to meet \nits short-term obligations."
+      }
+    },
+    {
+      "id": "f3aff20d-7bf5-4ad6-8108-c23456ff3939",
+      "prompt": {
+        "text": "An analyst is completing her analysis of three companies in the same industry. Which \nof these companies is the most solvent? \n£ (in thousands) Company A Company B Company C \nTotal debt £10,087 --- --- \nTotal assets £28,087 --- --- \nEBIT £3,903 --- --- \nInterest payments £847 --- --- \nDebt-to-assets ratio --- 37% 34.20% \nInterest coverage ratio --- 5.34 5.55"
+      },
+      "choices": [
+        "Company C",
+        "Company B",
+        "Company A"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \nCompany A Calculation Ratio \nDebt-to-Assets Ratio 10,087/28,087 35.90% \nInterest Coverage \nRatio \n3,903/847 4.61 \n \nRatio Company A Company B Company C Comments \nDebt-to-Assets 35.90% 37% 34.20% Lower is more solvent; C is \nthe most solvent. \nInterest \nCoverage \n4.61 5.34 5.55 Higher is better; C is the \nmost solvent. \nConclusion: Company C is the most solvent based on both ratios."
+      }
+    },
+    {
+      "id": "87bf0166-2ae0-4a54-bac9-4c3139fbf09a",
+      "prompt": {
+        "text": "Compared to the industry average, which of the following financial ratios most likely \nindicates a company has a highly efficient credit and collection process? A relatively \nlow:"
+      },
+      "choices": [
+        "receivables turnover ratio",
+        "number of days sales outstanding",
+        "number of days of inventory on hand"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because a relatively high receivables turnover ratio (and commensurately \nlow DSO) might indicate highly efficient credit and collection."
+      }
+    },
+    {
+      "id": "3a9df117-8b98-41d6-8538-fb475ec62594",
+      "prompt": {
+        "text": "With respect to company analysis, measures of inventory management are best \ndescribed as:"
+      },
+      "choices": [
+        "activity ratios.",
+        "solvency ratios.",
+        "profitability ratios."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because activity ratios measure how efficiently a company performs day-\nto-day tasks, such as the collection of receivables and management of inventory."
+      }
+    },
+    {
+      "id": "f7b41c8e-58f8-4ad2-9b77-e47eafc0037f",
+      "prompt": {
+        "text": "Which of the following most likely indicates improved efficiency of a company's \ncredit and collection policy? An increase in:"
+      },
+      "choices": [
+        "receivables turnover ratio \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 11 of 30",
+        "days of sales outstanding",
+        "number of days of payables"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because a relatively high receivables turnover ratio (and commensurately \nlow DSO) might indicate highly efficient credit and collection. \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 25 of 30"
+      }
+    },
+    {
+      "id": "48011e7a-f8e5-4227-b825-20c386bae7fe",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nPayables turnover 8 \nInventory turnover 2 \nReceivables turnover 10 \n \nIf all purchases and sales were made on credit, the cash conversion cycle (based on \na 360-day year) is:"
+      },
+      "choices": [
+        "99 days.",
+        "171 days.",
+        "261 days."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because Cash conversion cycle (CCC) = DOH + DSO – Number of days of \npayables. \nDOH = Number of days in period/ Inventory turnover = 360/2 =180 days. \nDSO = Number of days in period/ Receivables turnover = 360/10 = 36 days. \nNumber of days of payables = Number of days in period/Payables turnover = 360/8 = \n45 days. \nThus CCC = 180 + 36 – 45 = 171 days."
+      }
+    },
+    {
+      "id": "1921039d-df92-49ed-9fc3-4005253ed306",
+      "prompt": {
+        "text": "Which of the following analyses can be used to compare a company’s financial ratios \nwith those of its major competitors?"
+      },
+      "choices": [
+        "Trend only",
+        "Cross-sectional only",
+        "Both trend and cross-sectional"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because both types of analyses are used to compare a company’s financial \nratios with those of its competitors. In general, the financial ratios of a company are \ncompared with those of its major competitors (cross -sectional and trend analysis) \nand to the company’s prior periods (trend analysis)."
+      }
+    },
+    {
+      "id": "15e3eadb-6e30-4f17-b212-fbcb45fd6f03",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nROE 10% \nFinancial leverage 2 \nNet profit margin 4% \nEBIT margin 5% \nInterest burden 85% \n \nThe total asset turnover ratio is closest to:"
+      },
+      "choices": [
+        "1.0.",
+        "1.3.",
+        "1.5."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because in accordance to the DuPont analysis for ROE, ROE = Net profit \nmargin × Total asset turnover × Leverage. Thus, Total asset turnover = ROE / (Net \nprofit margin × Leverage); or = 10% / (4% × 2) = 1.25 ≈ 1.3."
+      }
+    },
+    {
+      "id": "f61f4688-419c-4dbd-9329-4dfd09a51182",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nEBIT 150 \nEarnings before taxes 130 \nNet income 110 \nTotal average assets 1,000 \n \nROA is:"
+      },
+      "choices": [
+        "11%.",
+        "13%.",
+        "15%. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 12 of 30"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because ROA = Net income / Average total assets; or = 110 / 1,000 = \n11%."
+      }
+    },
+    {
+      "id": "5398bd73-c6bd-4d7a-841d-21ce1f176375",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nNet profit margin 3.00% \nTotal asset turnover 1.8 \nFinancial leverage 1.5 \nTax burden 0.85 \n \nROE is closest to:"
+      },
+      "choices": [
+        "5.4%.",
+        "6.9%.",
+        "8.1%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because ROE = net profit margin × total asset turnover × financial \nleverage = 3.0% × 1.8 × 1.5 = 8.1%."
+      }
+    },
+    {
+      "id": "8ee79e62-2ae0-4b22-923c-b7879dd6a931",
+      "prompt": {
+        "text": "Which of the following ratios is most appropriate in measuring a company's ability to \ncover its debt payments?"
+      },
+      "choices": [
+        "Return on equity",
+        "Fixed asset turnover",
+        "Fixed charge coverage"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because solvency ratios are primarily of two types. Debt ratios, the first \ntype, focus on the balance sheet and measure the amount of debt capital relative to \nequity capital. Coverage ratios, the second type, focus on the income statement and \nmeasure the ability of a company to cover its debt payments. These ratios are useful \nin assessing a company’s solvency and, therefore, in evaluating the quality of a \ncompany’s bonds and other debt obligations. \n \nFixed charge coverage ratio = (EBIT + Lease payments) / (Interest payments + lease \npayments). A higher fixed charge coverage ratio implies stronger solvency, offering \ngreater assurance that the company can service its debt (i.e., bank debt, bonds, notes, \nand leases) from normal earnings."
+      }
+    },
+    {
+      "id": "8813a8ce-3b7a-4051-aca5-7dababf86a27",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nShort-term interest bearing debt 700 \nCurrent portion of long-term interest bearing debt 500 \nNon-current portion of long-term interest bearing debt 800 \nTotal shareholders' equity 7,500 \n \nBased only on this information, the company's debt-to-capital ratio is closest to:"
+      },
+      "choices": [
+        "17%.",
+        "21%.",
+        "27%."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the Debt -to-capital ratio = Total debt/(Total debt + Total \nshareholders' equity) = (700 + 500 + 800)/(700 + 500 + 800 + 7,500) = 2,000/9,500 \n= 0.211 ≈ 21%."
+      }
+    },
+    {
+      "id": "7a1de45b-a52d-480a-a4be-bfe411e254af",
+      "prompt": {
+        "text": "All else being equal, the cash conversion cycle most likely shortens if:"
+      },
+      "choices": [
+        "payables turnover decreases.",
+        "inventory turnover decreases.",
+        "days of sales outstanding increases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the Cash conversion cycle = Days of inventory on hand + Days of \nsales outstanding – Number of days of payables. Number of days of payables = Days \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 26 of 30 \n \nin the period / Payables turnover. If payables turnover were to decrease, it would \nincrease the Number of days of payables, decreasing the CCC."
+      }
+    },
+    {
+      "id": "febd4ed6-f7ce-421d-98f4-e745aa04dc50",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company whose \nfiscal year ends on 31 December: \nEarnings for the six months ended 30 June of Year 1 2,000 \nEarnings for the year ended 31 December of Year 1 1,500 \nEarnings for the six months ended 30 June of Year 2 2,200 \n \nThe company’s trailing 12 month  earnings (in € thousands) for the period ended 30 \nJune of Year 2 is:"
+      },
+      "choices": [
+        "1,700. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 13 of 30",
+        "3,700.",
+        "4,200."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the company’s trailing 12 months earnings for the period ended \n30 June of Year 2 are calculated as (Earnings as of 31 December of Year 1 – Earnings \nas of 30 June of Year 1) + Earnings as of 30 June of Year 2 = (1.500 – 2,000) + 2,200 \n= –500 + 2,200 = 1,700."
+      }
+    },
+    {
+      "id": "87ef2cbc-39d1-4a47-b89a-78a1094320e7",
+      "prompt": {
+        "text": "An analyst gathers the following information about three companies (in $ millions): \n  Company \n1 \nCompany \n2 \nCompany \n3 \nTotal assets 100 200 400 \nTotal debt 20 50 80 \nTotal equity 80 150 320 \nEarnings before interest and taxes (EBIT) 8 10 12 \nInterest payments 4 4 4 \n \nBased on this information, which company is most solvent?"
+      },
+      "choices": [
+        "Company 1",
+        "Company 2",
+        "Company 3"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the ability to meet long -term debt obligations is defined as \nsolvency, which can be measured using leverage and coverage ratios. Generally, the \nhigher the leverage ratio, the higher the financial risk and thus the weaker the \nsolvency. A higher int erest coverage ratio indicates stronger solvency. Using the \ninformation given, leverage and coverage ratios are: \n  Company 1 Company 2 Company 3 \nDebt-to-assets ratio 0.2 0.25 0.2 \nDebt-to-equity ratio 0.25 0.33 0.25 \nDebt-to-capital 0.2 0.25 0.2 \nFinancial leverage ratio 1.25 1.33 1.25 \nInterest coverage ratio 2 2.5 3 \n \nCompany 3 and Company 1 have the lowest leverage ratios (debt -to-assets, debt-to-\nequity, debt-to-capital, and financial leverage), but Company 3 has a higher interest \ncoverage ratio than Company 1. Company 3 has the least debt (proportionally) along \nwith the highest coverage ability of the three companies."
+      }
+    },
+    {
+      "id": "0aa1f297-ba9e-4181-8e53-79790722aabb",
+      "prompt": {
+        "text": "A debt-to-equity ratio of 1.0 most likely results in a debt-to-capital ratio of:"
+      },
+      "choices": [
+        "0.5.",
+        "1.0.",
+        "2.0."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the debt-to-equity ratio measures the amount of debt financing \nrelative to equity financing. A debt-to-equity ratio of 1.0 indicates equal amounts of \ndebt and equity, which is the same as a debt-to-capital ratio of 50 percent. \nDebt-to-equity ratio = Total debt / Total shareholder's equity = 1.0. Accordingly, \nTotal debt = Total shareholder's equity, while Debt -to-capital ratio = Total Debt / \n(Total Debt + Total shareholder's equity) = Total Debt / (2 × Total Debt) = 1/2 = 0.5."
+      }
+    },
+    {
+      "id": "6732b811-9577-4320-8a67-8ecc81e5cbc0",
+      "prompt": {
+        "text": "All else being equal, a company with older assets has a fixed asset turnover ratio that \nis:"
+      },
+      "choices": [
+        "lower compared to a company with newer assets.",
+        "the same compared to a company with newer assets.",
+        "higher compared to a company with newer assets."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the fixed asset turnover ratio would be lower for a company \nwhose assets are newer (and, therefore, less depreciated and so reflected in the \nfinancial statements at a higher carrying value) than the ratio for a company with \nolder assets (that are thus more depreciated and so reflected at a lower carrying \nvalue)."
+      }
+    },
+    {
+      "id": "351673b1-0f4a-40a1-b6cb-4968d6276d57",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a manufacturing \ncompany: \n  Year 2 Year 1 \nAverage total assets 500 450 \nAverage total liabilities 400 330 \nAverage total shareholders' equity 100 120 \nEBIT 35 40 \nInterest payments 5 8 \n \nBased only on this information, which of the following ratio(s) may indicate improved \nsolvency from Year 1 to Year 2?"
+      },
+      "choices": [
+        "Interest coverage ratio only",
+        "Financial leverage ratio only",
+        "Both interest coverage ratio and financial leverage ratio \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 14 of 30"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the interest coverage ratio measures the number of times a \ncompany’s EBIT could cover its interest payments. A higher interest coverage ratio \nindicates stronger solvency, offering greater assurance that the company can service \nits debt from operat ing earnings. Accordingly, Interest coverage ratio = \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 27 of 30 \n \nEBIT/Interest payment. Year 1 Interest coverage ratio = 40/8 = 5 and Year 2 \nInterest coverage ratio = 35/5 = 7. Therefore, interest coverage ratio has increased \nwhich indicates stronger solvency."
+      }
+    },
+    {
+      "id": "9c82722c-4597-4172-85fd-3e42f972ffa1",
+      "prompt": {
+        "text": "Which of the following is most likely a measure of a company’s ability to meet its \nshort-term obligations?"
+      },
+      "choices": [
+        "Quick ratio",
+        "Operating profit margin",
+        "Days of payables outstanding"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the quick ratio is a liquidity ratio which measures a company’s \nability to meet its short-term obligations."
+      }
+    },
+    {
+      "id": "1f3c1a63-deae-48bf-bf35-8142195c5976",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ thousands) about a company's \ncurrent assets and liabilities: \nCash and equivalents 800 \nShort-term marketable securities 500 \nInventory 700 \nAccounts receivable 2,000 \nCurrent liabilities 10,000 \n \nThe company's quick ratio is:"
+      },
+      "choices": [
+        "0.13.",
+        "0.33.",
+        "0.40."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the Quick ratio = (Cash and equivalents + Short-term marketable \nsecurities + Receivables) / Current liabilities. The calculation is (800 + 500 + 2,000) \n/ 10,000 = 3,300 / 10,000 = 0.33, or 33%."
+      }
+    },
+    {
+      "id": "fac5f09e-c75d-4bf6-ad77-9bd9dd3f69b2",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ millions) about a company: \nTotal assets 400 \nTotal liabilities 200 \nTotal debt 100 \nTotal equity 200 \n \nThe total debt ratio is:"
+      },
+      "choices": [
+        "0.25.",
+        "0.50.",
+        "2.00."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the total debt ratio = total debt / total assets = 100 / 400 = \n0.25."
+      }
+    },
+    {
+      "id": "12de21f1-1da0-40ce-8e7b-ba3b04dda709",
+      "prompt": {
+        "text": "The financial leverage ratio may be calculated as:"
+      },
+      "choices": [
+        "EBIT divided by interest payments.",
+        "total debt divided by total shareholders' equity.",
+        "average total assets divided by average shareholders' equity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because this defines the financial leverage ratio. The financial leverage \nratio (also called the ‘leverage ratio’ or ‘equity multiplier’) measures the amount of \ntotal assets supported by one money unit of equity. The higher the financial leverage \nratio, the more leveraged the company in the sense of using debt and other liabilities \nto finance assets. This ratio often is defined in terms of average total assets and \naverage total equity and plays an important role in the DuPont decomposition of return \non equity."
+      }
+    },
+    {
+      "id": "67a51640-1246-416e-b810-9778628ce1e5",
+      "prompt": {
+        "text": "Which of the following is defined as how long a company can continue to pay its daily \ncash expenditures from its existing liquid assets without receiving additional cash \ninflow?"
+      },
+      "choices": [
+        "Cash conversion cycle",
+        "Defensive interval ratio",
+        "Fixed charge coverage \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 15 of 30"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because this ratio measures how long the company can continue to pay \nits expenses from its existing liquid assets without receiving any additional cash \ninflow."
+      }
+    },
+    {
+      "id": "20c35d74-1bef-4ccb-a47f-e7ce21fa0cf8",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nROE 15% \nInterest burden 0.85 \nEBIT margin 30% \nTotal asset turnover 1.1 \nFinancial leverage 1.25 \n \nThe average tax rate is closest to:"
+      },
+      "choices": [
+        "43%.",
+        "47%.",
+        "57%."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because using DuPont analysis, ROE = Tax Burden × Interest Burden × \nEBIT margin × Total asset turnover × Leverage. Accordingly, Tax burden = ROE / \n(Interest Burden × EBIT margin × Total asset turnover × Leverage) = 15% / (0.85 × \n30% × 1.1 × 1.25) = 42.78% . Tax burden reflects one minus the average tax rate, or \nhow much of a company’s pretax profits it gets to keep. Thus, average tax rate = 1 – \nTax burden = 1 – 42.78% = 57.22% ≈ 57%."
+      }
+    },
+    {
+      "id": "92814ec9-7afa-45fe-afea-8141fcc9171f",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € thousands) about a company: \n  Year 2  Year 1 \nRevenue 2,400 2,000 \nCost of sales 1,800 1,400 \nEnding accounts payable 180 220 \n \nBased only on this information, the payables turnover ratio for Year 2 is:"
+      },
+      "choices": [
+        "9.",
+        "10.",
+        "12."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because Payables turnover = Purchases / Average trade payables; or = \nPurchases (proxied by cost of sales) / Average trade payables; or = 1,800 / [(180 + \n220) / 2] = 1,800 / 200 = 9. The number of days of payables reflects the average \nnumber of days the co mpany takes to pay its suppliers, and the payables turnover \nratio measures how many times per year the company theoretically pays off all its \ncreditors. For purposes of calculating these ratios, an implicit assumption is that the \ncompany makes all its purchases using credit. Cost of goods sold [or cost of sales] is \nsometimes used as an approximation of purchases. \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 28 of 30"
+      }
+    },
+    {
+      "id": "b666bf02-1a97-4ea3-bb40-d75d9e5dec90",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \n  Year 2 Year 1 \nDays of inventory on hand 11 13 \nDays of sales outstanding 24 22 \nPayables turnover 36 18 \n \nBased only on the cash conversion cycle, the company's liquidity position from Year 1 \nto Year 2 has:"
+      },
+      "choices": [
+        "deteriorated.",
+        "remained the same.",
+        "improved."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because, Cash conversion cycle (net operating cycle) (CCC) = DOH + DSO \n– Number of days of payables and this metric indicates the amount of time that \nelapses from the point when a company invests in working capital until the point at \nwhich the company collects cash. A shorter cash conversion cycle indicates greater \nliquidity. A longer cash conversion cycle indicates lower liquidity. Also, Payables \nturnover = Purchases / Average trade payables and Number of days of payables = \nNumber of days in p eriod / Payables turnover. Accordingly, the number of days \npayable for Year 2 = Number of days in period / Payables turnover; or 365 / 36 ≈ \n10.1389 and the number of days payable for Year 1 = Number of days in period / \nPayables turnover; or 365 / 18 ≈ 20.2 778. (365 is used for the number of days in a \nyear, given the annual data.) The CCC for Year 2 = DOH + DSO – Number of days of \npayables; or 11 + 24 – 10.1389 = 24.8611 and the CCC for Year 1 = DOH + DSO – \nNumber of days of payables; or 13 + 22 – 20.2778 = 14.7222. As the CCC is higher \n(longer) in Year 2 than in Year 1 (24.8611 > 14.7222), the company's liquidity based on \nits CCC alone has deteriorated."
+      }
+    },
+    {
+      "id": "8c715cab-d9f9-4302-8f90-79260143ba8e",
+      "prompt": {
+        "text": "Which of the following is an example of a liquidity ratio?"
+      },
+      "choices": [
+        "Defensive interval ratio",
+        "Inventory turnover ratio",
+        "Working capital turnover ratio \n \n \n \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 16 of 30"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because the defensive interval ratio measures how long the company can \ncontinue to pay its expenses from its existing liquid assets without receiving any \nadditional cash inflow. A higher defensive interval ratio indicates greater liquidity."
+      }
+    },
+    {
+      "id": "2f057e57-d76f-416b-a346-a58ad5e84ae7",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nAverage total equity 50 \nAverage total assets 150 \n \nBased only on this information, the financial leverage ratio is closest to:"
+      },
+      "choices": [
+        "0.33.",
+        "0.50.",
+        "3.00."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is Correct because financial leverage = average total assets / average total equity = \n150 / 50 = 3.00."
+      }
+    },
+    {
+      "id": "e1745485-c065-4d05-a6ac-1608c69b818b",
+      "prompt": {
+        "text": "Which category of financial ratios is most likely used to measure how efficiently a \ncompany performs day-to-day tasks?"
+      },
+      "choices": [
+        "Activity",
+        "Liquidity",
+        "Solvency"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because activity ratios measure how efficiently a company performs day-\nto-day tasks, such as the collection of receivables and management of inventory."
+      }
+    },
+    {
+      "id": "2c6521b8-32f6-4640-b501-ee2a1d08afd6",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \nRevenue €1,000,000 \nEBIT €90,000 \nNet income €60,000 \nAverage total assets €1,500,000 \nFinancial leverage 2.0 \n \nROE is:"
+      },
+      "choices": [
+        "8%.",
+        "12%.",
+        "18%."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because ROE = Net profit margin × Total asset turnover × Financial \nleverage = (Net income / Revenue) × (Revenue / Average total assets) × (Average \ntotal assets / Average shareholders' equity) = (60,000 / 1,000,000) × (1,000,000 / \n1,500,000) × 2.0 = 0.06 × 0.66 × 2.0 = 0.08 = 8%. \nAlternatively, ROE = ROA × Financial leverage = (Net income / Average total assets) \n× Financial leverage = (60,000 / 1,500,000) × 2.0 = 0.04 × 2.0 = 0.08 = 8%.  \nAlternatively, Financial leverage = Average total assets / Average shareholders' \nequity; or Average shareholders' equity = Average total assets / Financial leverage \n= 1,500,000 / 2 = 750,000. Thus, ROE = Net income / Average shareholders' equity \nor 60,000 / 750,000 = 0.08 = 8%."
+      }
+    },
+    {
+      "id": "7a2d0d3f-11b4-422e-983f-1570e48823a8",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company (in millions): \n  Year 2 Year 1 \nAnnual revenue €127 €108 \nAnnual net income €23 €21 \nAverage total assets €536 €529 \nAverage total equity €220 €195 \n \nBased only on this information, which ratio most likely increased in Year 2 over Year \n1?"
+      },
+      "choices": [
+        "Return on equity",
+        "Financial leverage",
+        "Total asset turnover \n \n \n \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 17 of 30"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is Correct because total asset turnover increased: \nYear 2 Total asset turnover = Revenue / Average total assets = 127/536 = 0.24 \nYear 1 Total asset turnover = Revenue / Average total assets = 108/529 = 0.20 \n \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 29 of 30"
+      }
+    },
+    {
+      "id": "def2477a-2152-4c0a-8ef6-e732ba6b0415",
+      "prompt": {
+        "text": "An analyst gathers the following information (in € millions) about a company: \nRevenue 15 \nCost of sales 12 \nAverage receivables 10 \n \nThe receivables turnover ratio is closest to:"
+      },
+      "choices": [
+        "0.7.",
+        "1.2.",
+        "1.5."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is Correct because the receivables turnover ratio is calculated as revenue ÷ \naverage receivables. The calculation is receivables turnover ratio = 15 ÷ 10 = 1.5."
+      }
+    },
+    {
+      "id": "74a294ed-8ece-441c-88f4-cbc414babbb5",
+      "prompt": {
+        "text": "An analyst gathers the following information about a company: \n  Year 2 Year 1 \nReturn on assets 15% 14% \nAverage total assets $7,300 $9,000 \nAverage equity $4,750 $5,000 \n  \nDuring Year 2, return on equity most likely:"
+      },
+      "choices": [
+        "decreased.",
+        "remained the same.",
+        "increased."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because ROE = ROA × leverage. ROA is given in the table. Leverage is \nequal to average total assets/average shareholders' equity. Therefore, ROE for Year \n1 is 25.2% (0.14 × (9,000/5,000)) while the ROE for Year 2 is 23.1% (0.15 × \n(7,300/4,750)), i.e. during Year 2 ROE decreased."
+      }
+    },
+    {
+      "id": "c6c5f76a-b5b3-4c89-85ff-770a720a2d37",
+      "prompt": {
+        "text": "An analyst gathers the following information from a company's balance sheet (in \nmillions): \n  Year 2 Year 1 \nCash and marketable securities € 55 € 50 \nCurrent assets € 110 € 100 \nTotal assets € 1,672 € 1,520 \nCurrent liabilities € 352 € 320 \nTotal liabilities € 730 € 608 \n  \nBased on this information, the company's liquidity ratios at the end of Year 2 have:"
+      },
+      "choices": [
+        "decreased since the end of Year 1.",
+        "remained the same since the end of Year 1.",
+        "increased since the end of Year 1."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is Correct because the two liquidity ratios which can be calculated from the \ninformation provided, current ratio and cash ratio, are unchanged in Year 2 vs. Year \n1, meaning liquidity is most likely the same. \nCurrent ratio = current assets / current liabilities = 110/352 (in Year 2) = 0.3125 = \n100/320 (in Year 1) \nCash ratio = cash and marketable securities / current liabilities = 55/352 (in Year \n2) = 0.15625 = 50/320 (in Year 1)"
+      }
+    },
+    {
+      "id": "c8c04140-d50b-4946-b274-758051b98710",
+      "prompt": {
+        "text": "An analyst gathers the following information about two companies: \n  Company 1 Company 2 \nNumber of days of payables 70 60 \nDays of inventory on hand 20 25 \nDays of sales outstanding 40 40 \n \nWhich company most likely needs to raise additional funds for working capital \npurposes?"
+      },
+      "choices": [
+        "Only Company 1 \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 18 of 30",
+        "Only Company 2",
+        "Both Company 1 and Company 2"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is Correct because the cash conversion cycle is positive for Company 2, which means \nthe company must finance its working capital. The time between the outlay of cash \nand the collection of cash is called the ‘cash conversion cycle.' Cash conversion cycle \n= Days of sales outstanding + Days of inventory on hand – Number of days of payables. \nCompany 2's cash conversion cycle = 40 + 25 – 60 = 5 days. Company 1's cash \nconversion cycle = 40 + 20 – 70 = –10 days. Company 1 does not need to raise capital \nfor working capital purposes; it actually has 10 days of excess cash to invest."
+      }
+    },
+    {
+      "id": "e07aacdc-923a-4514-b9e6-8a54a9e08ced",
+      "prompt": {
+        "text": "Which of the following most likely lengthens the cash conversion cycle? An increase \nin:"
+      },
+      "choices": [
+        "payables turnover.",
+        "inventory turnover.",
+        "receivables turnover."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because the cash conversion cycle = days of inventory on hand + days of \nsales outstanding – number of days of payables = \nNumber of Days in Period\nInventory Turnover + Number of Days in Period\nReceivables Turnover − Number of Days in Period\nPayables Turnover  \n \nAs payables turnover increases, the number of days of payables decrease, \nincreasing the cash conversion cycle."
+      }
+    },
+    {
+      "id": "0dee95a6-9cf1-40e8-be33-a595c9e7c94d",
+      "prompt": {
+        "text": "When forecasting earnings, an analyst’s best approach is to:"
+      },
+      "choices": [
+        "utilize the results of financial analysis and professional judgment.",
+        "calculate a range of possibilities solely based on the results of financial analysis.",
+        "establish a precise forecast based on the results of economic and financial \nanalysis."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is Correct because forecasts are not limited to a single point estimate but should \ninvolve a range of possibilities. The results of financial analysis are integral to this \nprocess, along with judgment of the analysts."
+      }
+    },
+    {
+      "id": "c8e4af0b-b4fd-4d2f-a6c1-d1132bb00422",
+      "prompt": {
+        "text": "An analyst gathers the following information (in £ millions) about a company: \nEBIT 16 \nNet income 8 \nInterest payments 6 \nLease payments 4 \n \nThe fixed charge coverage ratio is closest to:"
+      },
+      "choices": [
+        "1.2.",
+        "1.6.",
+        "2.0. \n \n  \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 19 of 30"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the fixed charge coverage ratio relates fixed financing charges, \nor obligations, to the cash flow generated by the company. It measures the number \nof times a company’s earnings (before interest, taxes, and lease payments) can cover \nthe company’s interest and lease payments. Accordingly, Fixed charge coverage ratio \n= (EBIT + Lease payments) / (Interest payments + Lease payments) = (16 + 4) / (6 + \n4) = 2.0. \n                                                                                                                     Financial Analysis Techniques \n \nFaculty:                                                                                   Page 30 of 30 \n \nFor computing this ratio, an assumption sometimes made is that one-third of the lease \npayment amount represents interest on the lease obligation and that the rest is a \nrepayment of principal on the obligation. For this variant of the fixed charge coverage \nratio, the numerator is EBIT plus one -third of lease payments and the denominator \nis interest payments plus one -third of lease payments. Accordingly, Fixed charge \ncoverage ratio = [EBIT + (Lease payments / 3)] / (Interest payments + (Lease \npayments / 3)) = (16 + 4/3) / (6 + 4/3) ≈ 2.36 which is also closest to 2.0."
+      }
+    }
+  ]
+}

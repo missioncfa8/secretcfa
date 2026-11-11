@@ -1,0 +1,468 @@
+{
+  "title": "Module 82: Ethics and Trust in the Investment Profession",
+  "topic": "Ethical and Professional Standards",
+  "module_number": 82,
+  "module_name": "Ethics and Trust in the Investment Profession",
+  "year": 2027,
+  "items": [
+    {
+      "id": "95425574-b712-495d-b35a-6c770d5214b3",
+      "prompt": {
+        "text": "Benchmarks for minimally acceptable behaviors of community members \nare:"
+      },
+      "choices": [
+        "a code of ethics.",
+        "laws and regulations.",
+        "standards of conduct."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Standards of conduct are applied to specific communities or societal  \ngroups and identify specific behaviors required of community members. These  \nstandards of conduct serve as benchmarks for the minimally acceptable behavior of \ncommunity members. Codes of ethics serve as a general guide for how  community \nmembers should act; they communicate the organization’s values  and overall \nexpectations regarding member behavior, but they do not identify specific behaviors \nrequired of community members. Laws and regulations are  rules of conduct defined \nby governments and related entities about obligatory and forbidden conduct broadly \napplicable for individuals and entities under their jurisdiction."
+      }
+    },
+    {
+      "id": "a5b39cf5-66f3-46e1-a5cc-ab55cc41901b",
+      "prompt": {
+        "text": "Specialized knowledge and skills, a commitment to serve others, and a \nshared code of ethics best characterize a(n):"
+      },
+      "choices": [
+        "vocation.",
+        "profession.",
+        "occupation."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A profession has several characteristics that distinguish it from an  \noccupation or vocation, such as specialized knowledge and skills, service to others,  \nand a code of ethics shared by its members. A profession is the ultimate evolution of \nan occupation, resulting from excellence in practice, a mastery mindest, and expected \nadherence to a code of ethics and standards of practice."
+      }
+    },
+    {
+      "id": "80965cdd-52b0-4f88-a9d5-c5bcda873365",
+      "prompt": {
+        "text": "When unethical behavior erodes trust in an investment firm, that firm is \nmore likely to experience:"
+      },
+      "choices": [
+        "lower revenues only.",
+        "higher expenses only.",
+        "lower revenues and higher expenses."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Unethical behavior ultimately harms investment firms. Clients are  not \nattracted if they suspect unethical behavior, leading to less business and lower  \nrevenues. Investment firms may also experience higher relative costs because  \nregulators are more likely to have cause to initiate costly investigations."
+      }
+    },
+    {
+      "id": "e0489439-2ede-4352-b06b-2f75c9eb825d",
+      "prompt": {
+        "text": "High ethical standards are distinguishing features of which of the \nfollowing bodies?"
+      },
+      "choices": [
+        "Craft guilds",
+        "Trade bodies",
+        "Professional bodies"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. High ethical standards distinguish professions from the craft guilds or \ntrade bodies. Unlike trade bodies, professional bodies also typically have a mission to \nserve society and enforce professional conduct rules for practitioners."
+      }
+    },
+    {
+      "id": "8bc1c28a-221c-48e0-af86-b33414597a33",
+      "prompt": {
+        "text": "Fiduciary duty is a standard most likely to be upheld by members of a(n):"
+      },
+      "choices": [
+        "employer.",
+        "profession.",
+        "not-for-profit body."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Fiduciary duty is an obligation to deliver a high standard of care  when \nacting for the benefit of another party. Professionals must act in the best interest  \nof the client, exercising a reasonable level of care, skill, and diligence. Other  \nentities—including employers, regulators, trade associations, and not -for-profit \nbodies—may also support an industry but are not the same as professional  bodies. \nUnlike professions, these other entities generally do not exist to set and  maintain \nprofessional standards."
+      }
+    },
+    {
+      "id": "3a018e3b-c526-49ee-8d0c-78ca2eb357f0",
+      "prompt": {
+        "text": "Which of the following best identifies an internal trait that may lead to \npoor ethical decision making?"
+      },
+      "choices": [
+        "Overconfidence",
+        "Loyalty to employer",
+        "Promise of money or prestige"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. An overconfidence bias can lead individuals to put too much importance \non internal traits and intrinsic motivations, such as their own perceptions of personal \nhonesty, that can lead to faulty decision making. Loyalty to an employer and promise \nof money or prestige are situational influences that can lead to faulty decision making."
+      }
+    },
+    {
+      "id": "1c24ecb5-0ebb-4b24-90ea-a607b1b1b8e1",
+      "prompt": {
+        "text": "Situational influences in decision making will most likely be minimized if:"
+      },
+      "choices": [
+        "strong compliance programs are in place.",
+        "longer-term consequences are considered.",
+        "individuals believe they are truthful and honest."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Consciously considering long -term consequences will help offset  \nsituational influences. We more easily recognize and consider short-term situational \ninfluences than longer-term considerations because longer-term considerations have \nfewer immediate consequences than situational influences do. When decision making \nis too narrowly focused on short -term factors, we tend to ignore  longer-term risks \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 6 of 8 \n \nand consequences, and the likelihood of poor ethical decision  making increases. A \nstrong compliance policy is a good first step toward developing  an ethical culture; a \nfocus on rules adherence may not be sufficient. Emphasis  on compliance may not \nencourage decision makers to consider the larger picture  and can oversimplify \ndecision making. Taken to the extreme, a strong compliance  culture can become \nanother situational influence that blinds employees to other  important \nconsiderations. An overconfidence bias  can place too much importance  on internal \ntraits and intrinsic motivations, such as “I’m honest and would  not lie,” even though \nstudies have shown that internal traits are generally not the  main determinant of \nwhether or not someone will behave ethically in a given situation."
+      }
+    },
+    {
+      "id": "20a4e848-ef5d-4e5a-b247-f43a89cceda3",
+      "prompt": {
+        "text": "Decision makers who use a compliance approach are most likely to:"
+      },
+      "choices": [
+        "avoid situational influences. \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 2 of 8",
+        "oversimplify decision making.",
+        "consider more factors than when using an ethical decision-making approach."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A compliance approach can oversimplify decision making and may  not \nencourage decision makers to consider the larger picture. A strong compliance culture \nmay be a good start in developing an ethical culture but can become  another \nsituational influence that may result in employees failing to consider other important \nfactors."
+      }
+    },
+    {
+      "id": "dd2f46fc-40c4-4e71-8493-75559bef6afa",
+      "prompt": {
+        "text": "To maintain trust, the investment management profession must be \ninterdependent with:"
+      },
+      "choices": [
+        "regulators.",
+        "employers.",
+        "investment firms."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The investment management profession and investment firms must  be \ninterdependent to maintain trust. Employers and regulators have their own standards \nand practices, which may differ from regulations and standards set by  professional \nbodies."
+      }
+    },
+    {
+      "id": "415a5814-bcf3-49b9-a236-12d331f8ccc4",
+      "prompt": {
+        "text": "Which is an example of an activity that may be legal but that CFA \nInstitute considers unethical?"
+      },
+      "choices": [
+        "Making legally required disclosures in marketing materials",
+        "Trading while in possession of material non-public information",
+        "Disclosure by an employee of his or her own company’s dishonest activity"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The investment industry has examples of conduct that may be legal but \nthat CFA Institute considers unethical. Trading while in possession of material  non-\npublic information is not prohibited by law worldwide and can, therefore, be legal, but \nCFA Institute considers such trading unethical."
+      }
+    },
+    {
+      "id": "32ddedaf-200a-4f4a-9cd7-36cfcf111f26",
+      "prompt": {
+        "text": "An ethical decision-making framework will most likely:"
+      },
+      "choices": [
+        "include a pre-determined, uniform sequence.",
+        "focus exclusively on confirmable facts and relationships.",
+        "help avoid a decision that has unanticipated ethical consequences."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Using an ethical decision -making framework consistently will help  you \ndevelop sound judgment and decision -making skills and avoid making  decisions that \nhave unanticipated ethical consequences. The decision -making process is often \niterative, and the decision maker may move between phases of  the framework. A \ndecision maker should consider more than confirmable facts  and relationships; for \nexample, the decision maker should consider situational  influences and personal \nbiases."
+      }
+    },
+    {
+      "id": "172ca218-685c-4e80-9404-37433007e644",
+      "prompt": {
+        "text": "When an ethical dilemma occurs, an investment professional should most \nlikely first raise the issue with a:"
+      },
+      "choices": [
+        "mentor outside the firm.",
+        "professional body’s hotline.",
+        "senior individual in the firm."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. When a dilemma occurs, raising an issue internally with a senior employee \nis often a good starting place and creates an opportunity for an independent internal \nreview. Protecting the client and the firm may take priority over  the position of an \nindividual professional raising a concern."
+      }
+    },
+    {
+      "id": "5e4e7b08-841c-4679-a325-a55305ac174a",
+      "prompt": {
+        "text": "The goals of the CFA Institute Code of Ethics would least likely include:"
+      },
+      "choices": [
+        "publicly communicating established principles.",
+        "addressing past ethical failings.",
+        "fostering public confidence."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Addressing past ethical failings is not a goal of the CFA Institute Code \nof Ethics. Fostering public confidence and publicly communicating established \nprinciples are both goals of the CFA Institute Code of Ethics. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 7 of 8"
+      }
+    },
+    {
+      "id": "2fadaffe-48d2-49c5-b179-77bcf83ecdd7",
+      "prompt": {
+        "text": "Which of the following is most likely an example of an overconfidence bias \nleading to poor ethical decision making?"
+      },
+      "choices": [
+        "“I’m sure I did the right thing.”",
+        "“I’m smart; that will keep me out of trouble.”",
+        "“I’m aware of my ethical obligations.”"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. An overconfidence bias is shown by thinking that your intelligence level \nwill prevent you from acting in an unethical manner. A person who understands ethical \nbehavior, no matter her intelligence level, can often decipher unethical behavior by \nlooking at the long-term consequences of improper actions by an individual."
+      }
+    },
+    {
+      "id": "4f047dcd-edfd-4992-9351-83985b7023bd",
+      "prompt": {
+        "text": "Can an individual most likely cause the public to lose confidence in the \nglobal financial markets?"
+      },
+      "choices": [
+        "Yes.",
+        "No, a negative event would need to be considered systemic.",
+        "No, a single person does not have enough influence. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 3 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Any negative publicity regarding a financial sector employee can lead to \nthe public losing market confidence and trust in the investment industry. \nConsequently, it is critical for individuals working in the financial services industry to \nact in an ethica l manner. Without market confidence and trust in investment \nprofessionals, investors will remove their capital and the industry and economy will \nsuffer."
+      }
+    },
+    {
+      "id": "640aeb90-a2f4-45d1-91cf-75285c9ed5d2",
+      "prompt": {
+        "text": "If you are seeking guidance from the firm’s code of ethics or written \npolicies, your actions most likely reflect which phase of an ethical decision -making \nframework?"
+      },
+      "choices": [
+        "Decide",
+        "Reflect",
+        "Consider"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. If you are seeking guidance from the firm’s code of ethics or written \npolicies, you are in the Consider phase of the ethical decision-making framework. This \nphase involves taking time to consider the situation influences as well as personal \nbehavioral biases that could affect your thinking and decision making. During this \nphase, you may also seek guidance from such trusted sources as the firm's compliance \ndepartment or outside counsel."
+      }
+    },
+    {
+      "id": "c0cb8c31-473e-47a9-b780-8780cfe209be",
+      "prompt": {
+        "text": "How does ethical conduct most likely compare with what is legally \nrequired?"
+      },
+      "choices": [
+        "Ethical conduct goes beyond what is legally required.",
+        "There are no differences between the two; they are the same.",
+        "Doing what is legally required removes the need for ethical conduct."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Ethical conduct goes beyond what is legally required and encompasses \nwhat most societies, communities, and professional organizations consider to be \nethically correct behavior. Good ethical judgement requires considering the interests \nof a multiple of stakeholders while minimizing their risks."
+      }
+    },
+    {
+      "id": "18c65215-81a8-41dd-a224-0e3343468126",
+      "prompt": {
+        "text": "Which of the following statements is most accurate? Ethical principles \nare sets of beliefs centered around:"
+      },
+      "choices": [
+        "societies’ views on what is considered good or bad conduct.",
+        "acceptable conduct based on the direct and indirect consequences on others.",
+        "rules established by a government with regard to what is acceptable behavior."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Ethical principles can be described as societies’ beliefs about what is \nconsidered good or bad conduct. Ethics can be described as a set of shared beliefs \nor moral principles regarding standards of behavior expected or required by a \ncommunity or societal group."
+      }
+    },
+    {
+      "id": "8f7c79b1-426f-4270-8415-bd99a85bb38f",
+      "prompt": {
+        "text": "What is most likely a critical aspect of the Consider phase of an ethical \ndecision-making framework?"
+      },
+      "choices": [
+        "Distinguishing duties to stakeholders",
+        "Contemplating your decision",
+        "Seeking additional guidance"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Seeking additional guidance in the Consider phase of the ethical decision-\nmaking framework is a critical step in viewing the situation from different \nperspectives. It is best to seek guidance from someone who is not affected by the \nsame situational influ ences or behavioral biases to provide a fresh perspective. \nAdditional guidance can be obtained from the firm’s policies and procedures and the \nCFA Institute Code and Standards."
+      }
+    },
+    {
+      "id": "a1011612-eff8-4c73-936d-85c65c912143",
+      "prompt": {
+        "text": "Which of the following best outlines the minimally acceptable behaviors \nexpected of a member belonging to a societal group?"
+      },
+      "choices": [
+        "Standards of conduct",
+        "Code of ethics",
+        "A firm’s employee handbook"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Standards of conduct outline the minimally acceptable behaviors \nexpected of a member of a societal group. The code of ethics serves as a general \nguide for how community members should act."
+      }
+    },
+    {
+      "id": "a9747c45-07dd-49f7-942c-873445947a0e",
+      "prompt": {
+        "text": "The belief that one’s ethical standards are above average is most likely a \nreflection of which of the following behavioral biases?"
+      },
+      "choices": [
+        "Overconfidence",
+        "Short-term focus",
+        "Situational influence"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The belief that one’s ethical standards are above average illustrates an \noverconfidence bias. An overconfidence bias will most likely lead individuals to \noverestimate the morality of their own behavior and can lead to a failure to consider \nimportant inputs and variables needed to make the best ethical decisions. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 8 of 8"
+      }
+    },
+    {
+      "id": "bb4f359c-9692-4484-aebd-4a02fbc8c1eb",
+      "prompt": {
+        "text": "A research analyst is facing a moral dilemma and decides to use an ethical \ndecision-making framework. After looking at the facts at hand and identifying the \nsituational influences, he still cannot make a decision on the best course of action. \nHis least appropriate next step is to:"
+      },
+      "choices": [
+        "decide, act, monitor, and reflect.",
+        "ask someone else to give guidance.",
+        "determine what additional information is needed. \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 4 of 8"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The least appropriate action would be for the decision maker to go ahead \nand make a decision based on insufficient information. By doing so, the decision maker \ncould cause harm and make the situation worse. The ethical decision -making \nframework is iterative, and users can move between phases rather than undertaking \nthem in any one order. If a decision maker is not yet ready to make a decision, the \nmost appropriate course of action would be to ask someone else to give guidance and \ndetermine what additional information is needed to clarify the situation."
+      }
+    },
+    {
+      "id": "3eece524-0646-40f1-947c-230398ca8956",
+      "prompt": {
+        "text": "A regulator who requires financial advisers to merely consider the \nsuitability of a product when making recommendations to their clients would most \nlikely be setting:"
+      },
+      "choices": [
+        "both a legal and an ethical standard.",
+        "an ethical standard.",
+        "a legal standard."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. The regulator only sets a legal standard when requiring a financial \nadviser to merely consider suitability when making recommendations to their clients. \nRequiring advisers to act as fiduciaries would be setting both a legal and an ethical \nstandard; it would require the interests of the client to be above those of the firm \nor employee."
+      }
+    },
+    {
+      "id": "9917c221-6f92-497e-8e58-273665ddfc04",
+      "prompt": {
+        "text": "From the point of view of an investor, unethical behavior by investment \nprofessionals can most likely lead to which of the following?"
+      },
+      "choices": [
+        "Increased willingness to accept risk",
+        "Rise in the demand for investments",
+        "Demand for a higher return"
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct. Unethical behavior erodes and destroys trust. Investors with low levels \nof trust are less willing to accept risk and, therefore, will likely demand a higher \nreturn for the use of their capital. They may also choose to invest elsewhere or to \nnot invest at all."
+      }
+    },
+    {
+      "id": "cbec2915-8265-4ff9-a497-efc5ce7d2775",
+      "prompt": {
+        "text": "The most important factor in promoting ethical decision making among an \ninvestment firm’s employees is:"
+      },
+      "choices": [
+        "a strong culture of integrity by the firm’s senior management.",
+        "adoption of a code of ethics that clearly defines the firm’s ethical principles.",
+        "the investment professional’s natural desire to do the right thing."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The single most important factor in promoting ethical behavior within \nan investment firm is done by the development, maintenance, and demonstration of a \nstrong culture of integrity by the firm’s senior management."
+      }
+    },
+    {
+      "id": "0007cfc1-103c-4092-94cc-dba1e64a8dfc",
+      "prompt": {
+        "text": "A profession is most likely described as a group of people that:"
+      },
+      "choices": [
+        "has a common level of basic knowledge about a particular subject.",
+        "monitors its members based on an agreed-on code of ethics.",
+        "puts the interests of its members first."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. A profession is practiced by members who share and agree to adhere to \na common code of ethics, and a profession is based on a specialized knowledge and \nskills and service to others."
+      }
+    },
+    {
+      "id": "b56bd80a-ef80-4079-af8d-a47a94ee7fe9",
+      "prompt": {
+        "text": "Most societies would least likely consider ethical principles to include:"
+      },
+      "choices": [
+        "justice.",
+        "duplicity.",
+        "diligence. \n \n \n \nSUMMARY: - \n \n(LOS 89.a): - 18, 27. \n(LOS 89.b): - 1, 13, 20, 26. \n(LOS 89.c): - 2, 4, 5, 9. \n(LOS 89.d): - 3, 15, 24, 25. \n(LOS 89.e): - 23. \n(LOS 89.f): - 6, 14, 21. \n(LOS 89.g): - 10, 17. \n(LOS 89.h): - 7, 8, 11, 12, 16, 19, 22. \n \n \n \n \nEthics and Trust in the Investment Profession \nFaculty:                                                                         Page 5 of 8"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Most societies acknowledge the ethical principles of honesty, fairness \nor justice, diligence, and respect for the rights of others. Duplicity or deception \nwould be in violation of most ethical principles."
+      }
+    }
+  ]
+}

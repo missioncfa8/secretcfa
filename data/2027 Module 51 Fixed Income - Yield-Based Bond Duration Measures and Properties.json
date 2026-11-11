@@ -1,0 +1,434 @@
+{
+  "title": "Module 51: Yield-Based Bond Duration Measures and Properties",
+  "topic": "Fixed Income",
+  "module_number": 51,
+  "module_name": "Yield-Based Bond Duration Measures and Properties",
+  "year": 2027,
+  "items": [
+    {
+      "id": "d990b0e5-2658-4f53-a15d-2deeee55a45c",
+      "prompt": {
+        "text": "The Macaulay duration, in years, for Bond One is closest to:"
+      },
+      "choices": [
+        "3.54.",
+        "3.59.",
+        "3.78."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nPeriod \nTime to \nreceipt \nCash \nflow \nPresent \nvalue Weight \nTime to receipt × \nweight \n1 1 3.5 3.44828 0.02999 0.02999 \n2 2 3.5 3.39732 0.02955 0.0591 \n3 3 3.5 3.34711 0.02911 0.08734 \n4 4 3.5 3.29764 0.02868 0.11473 \n5 5 3.5 3.24891 0.02826 0.14129 \n6 6 3.5 3.2009 0.02784 0.16704 \n7 7 3.5 3.15359 0.02743 0.192 \n8 8 103.5 91.8781 0.79914 6.39308 \n  \n  \n114.97185 1.00000 7.18458 \n  \n \n        \nAnnualized Macaulay duration     3.59229"
+      }
+    },
+    {
+      "id": "0da0e375-ee06-4292-8bf2-8c040d7684f5",
+      "prompt": {
+        "text": "The modified duration for Bond Two is closest to:"
+      },
+      "choices": [
+        "3.59.",
+        "3.65.",
+        "3.78"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \nPeriod \nTime to \nreceipt \nCash \nflow \nPresent \nvalue Weight \nTime to receipt × \nweight \n1 1 1.5 1.44928 0.0168 0.0168 \n2 2 1.5 1.40027 0.01623 0.03247 \n3 3 1.5 1.35291 0.01569 0.04706 \n4 4 1.5 1.30716 0.01516 0.06062 \n5 5 1.5 1.26296 0.01464 0.07321 \n6 6 1.5 1.22025 0.01415 0.08488 \n7 7 1.5 1.17899 0.01367 0.09568 \n8 8 101.5 77.08027 0.89366 7.1493 \n      86.25209 1.00000 7.56003 \n            \nAnnualized Macaulay duration     3.780016 \nModified duration       3.65219"
+      }
+    },
+    {
+      "id": "caccb91f-da7b-46ff-b90b-e338bb91fc84",
+      "prompt": {
+        "text": "Relative to a five -year zero -coupon bond priced to yield 5%, Bond Three has a  \nmodified duration that is best described as:"
+      },
+      "choices": [
+        "lower than the zero-coupon bond’s modified duration.",
+        "the same as the zero-coupon bond’s modified duration.",
+        "greater than the zero-coupon bond’s modified duration."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. No calculation is necessary, as we know that a five -year zero-coupon \nbond has a Macaulay duration of 5, which is greater than that of a coupon bond  like \nBond three. Since they have the same yields, the bond’s modified durations will have \nthe same relationship as their Macaulay duration. \nAlternatively, we can calculate Bond Three’s modified duration of 3.585: \nPeriod \nTime to \nreceipt Cash flow Present value Weight \nTime to receipt × \nweight \n1 1 2.5 2.43902 0.02439 0.02439 \n2 2 2.5 2.37954 0.0238 0.04759 \n3 3 2.5 2.3215 0.02321 0.06964 \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 8 of 12 \n \n4 4 2.5 2.26488 0.02265 0.0906 \n5 5 2.5 2.20964 0.0221 0.11048 \n6 6 2.5 2.15574 0.02156 0.12934 \n7 7 2.5 2.10316 0.02103 0.14722 \n8 8 102.5 84.12652 0.84127 6.73012 \n      100 1.00000 7.34939 \n            \nAnnualized Macaulay duration     3.6747 \nModified duration       3.5851 \n \nThe zero-coupon’s modified duration is 5/(1 + 0.05) = 4.7619."
+      }
+    },
+    {
+      "id": "d57c1255-cb5f-4ba9-b100-f32336440ef1",
+      "prompt": {
+        "text": "If the yields-to-maturity for all three bonds were to increase by 100 bps, which bond \nhas the greatest anticipated decrease in price?"
+      },
+      "choices": [
+        "Bond One",
+        "Bond Two",
+        "Bond Three"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. \n  Bond One Bond Two Bond Three \nFull price (percent of par) 114.972 86.252 100 \nModified duration 3.539 3.652 3.585 \nInvestment (in USD millions) 50 50 50 \nMoney duration 176.96 182.609 179.253 \nChange in value (in USD millions) –1.770 –1.826 –1.793"
+      }
+    },
+    {
+      "id": "84f9530d-c83f-42e1-b61c-eb2707db5851",
+      "prompt": {
+        "text": "Which bond has the highest price value of a basis point?"
+      },
+      "choices": [
+        "Bond One",
+        "Bond Two",
+        "Bond Three"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. \n  Bond One Bond Two Bond Three \nPrice 114.972 86.252 100 \nPrice + 1 bp 114.931 86.221 99.964 \nPrice – 1 bp 115.013 86.284 100.036 \n        \nPVBP 0.04069 0.0315 0.03585"
+      }
+    },
+    {
+      "id": "06b33ca8-17ed-4496-8fd1-92f13bb89ab1",
+      "prompt": {
+        "text": "The portfolio manager is interested in comparing the interest rate risk of Bond Three \nto that of Bond Four, a floating -rate note that resets every six months. On  1 June \n2026, both bonds were priced to yield 5%. If the yield changes from 5%  to 5.25% \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 2 of 12 \n \nhalfway through the first coupon period, which bond has the greater  Macaulay \nduration?"
+      },
+      "choices": [
+        "Bond Three",
+        "Bond Four",
+        "Neither: The Macaulay duration is the same for both bonds."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. The Macaulay duration for Bond Three is 3.6747. The Macaulay duration \nfor Bond Four is 0.5 because there is exposure to interest rate changes for one-half \nof the coupon period."
+      }
+    },
+    {
+      "id": "6ee24648-937b-46a3-ac75-fb049920bc7b",
+      "prompt": {
+        "text": "Which of the following statements regarding Macaulay duration is correct?"
+      },
+      "choices": [
+        "For a given coupon rate, Macaulay duration can be lower for a long-term discount \nbond than for a short-term discount bond.",
+        "For a given time to maturity and yield to maturity, Macaulay duration is lower for \na zero-coupon bond than for a low-coupon bond trading at a discount.",
+        "For a given time to maturity and yield to maturity, Macaulay duration is lower for \na low-coupon bond trading at a discount than for a high-coupon bond trading at a \npremium."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is c orrect because generally, the Macaulay duration statistic increases with a \nbond’s time to maturity. This pattern always holds for bonds trading at par value or \nat a premium but does not always hold for discount bonds. In the case of discount \nbonds, for a given coupon rate, a longer-term discount bond can have a lower Macaulay \nduration than a shorter-term discount bond. This situation typically occurs when the \nnumber of periods remaining in the bond’s life is large and the coupon rate is below \nthe yield to maturity."
+      }
+    },
+    {
+      "id": "5a0b6b6d-a388-4fd0-b3a4-cbf95303139d",
+      "prompt": {
+        "text": "An analyst gathers the following information for a bond: \nPosition (par value) $100,000,000 \nFlat price 97.1251 \nAccrued interest 0.4392 \nMacaulay duration 8.586 \nAnnual modified duration 8.45 \n \nThe money duration of the bond position is closest to:"
+      },
+      "choices": [
+        "837,687,080.",
+        "824,418,335.",
+        "833,916,109."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. Money duration is calculated as the annual modified duration times the \nfull price of the bond including accrued interest: \nMoneyDur = AnnModDur × PVFull. \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 9 of 12 \n \n \nThe full price of the bond is 97.5643 (97.1251 + 0.4392) per 100 of par, or \n$97,564,300. Therefore, the money duration of this bond position is $824,418,335 \n(97,564,300 × 8.45)."
+      }
+    },
+    {
+      "id": "ad00f140-e0f3-4036-8399-f20479ef3a67",
+      "prompt": {
+        "text": "Which of these definitions of duration is most relevant to a bond investor? A bond’s \nduration is its:"
+      },
+      "choices": [
+        "price sensitivity to yield changes.",
+        "first derivative of value with respect to its yield.",
+        "half-life."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Bond investors are concerned about interest rate risk, and duration is a \ngood measure of interest rate risk."
+      }
+    },
+    {
+      "id": "097fc0f1-69ee-4947-a768-d3020fe41a5a",
+      "prompt": {
+        "text": "An analyst gathers the following information on a bond: \nPrice 85.4734 \nPayment frequency Annual \nTime to maturity 5 years \nCoupon 4% \nMacaulay duration 4.5947 \n \nModified duration is closest to:"
+      },
+      "choices": [
+        "4.2702. \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 3 of 12",
+        "4.4180.",
+        "4.7785."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct. Modified duration is Macaulay duration divided by 1 plus yield per period. \nMacaulay duration is provided in the table, so YTM is calculated as follows: \nN = 5. \nPV = 85.4734. \nPMT = –4. \nFV = –100. \nCPT I/Y = 7.6%. \nModDur = 4.5947/1.076=4.2702"
+      }
+    },
+    {
+      "id": "6412d047-5686-469a-8f70-c164a157932f",
+      "prompt": {
+        "text": "Modified duration is the most appropriate measure of interest rate risk for which \nof the following securities?"
+      },
+      "choices": [
+        "Callable bond",
+        "US Treasury bond",
+        "Mortgage-backed bond"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because modified duration can be used to measure the interest rate risk \nof a non -complex bond such as a US Treasury bond, while effective duration is \nessential to the measurement of the interest rate risk of a complex bond, such as a \nbond that contains an embedded call option."
+      }
+    },
+    {
+      "id": "3cc31a57-236b-47f0-8ef8-8c9d9ffdb8a1",
+      "prompt": {
+        "text": "An analyst gathers the following information about three option-free bonds, each \ntrading at a premium: \n  Coupon Yield To Maturity Time to Maturity \nBond 1 4% 4% 10 years \nBond 2 4% 5% 11 years \nBond 3 5% 5% 9 years \n \nAll else being equal, the bond with the lowest Macaulay duration is most likely:"
+      },
+      "choices": [
+        "Bond 1.",
+        "Bond 2.",
+        "Bond 3."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because the Macaulay and modified duration statistics for a fixed-rate \nbond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A \nhigher coupon rate or a higher yield -to-maturity reduces the duration measures. A \nlonger time-to-maturity usually leads to a higher duration. It always does so for a \nbond priced at a premium or at par value.  In this case, Bond 3 has a higher coupon, \nthe same or higher yield-to-maturity, and the shortest time to maturity. It therefore \nhas the lowest Macaulay duration."
+      }
+    },
+    {
+      "id": "5a74683f-c127-4df6-af30-fe7e01ef9809",
+      "prompt": {
+        "text": "For an option-free fixed-rate bond trading at a premium, as the coupon payment \ndate approaches, Macaulay duration most likely:"
+      },
+      "choices": [
+        "decreases.",
+        "remains constant.",
+        "increases."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because as time passes during the coupon period (moving from right to \nleft in the diagram), the Macaulay duration declines smoothly and then jumps upward \nafter the coupon is paid. The usual pattern is that longer times -to-maturity \ncorrespond to higher Mac aulay duration statistics. This pattern always holds for \nbonds trading at par value or at a premium above par. Conversely, a shorter time to \nmaturity corresponds to a lower Macaulay duration during the coupon period."
+      }
+    },
+    {
+      "id": "9931e2bf-c540-4089-b740-a3f0e9281170",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond: \nAnnual modified duration 5.2 \nClean price $90 \nAccrued interest $5 \nPar value $100 \n \nIf yield-to-maturity decreases by 10 basis points, the change in price for this bond \nis closest to:"
+      },
+      "choices": [
+        "$0.47.",
+        "$0.49.",
+        "$0.52. \n \n \n \n \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 4 of 12"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the money duration of a bond is a measure of the price \nchange in units of the currency in which the bond is denominated: \n MoneyDur = AnnModDur × PVFull and, ΔPVFull ≈ –MoneyDur × ΔYield  \nwhere \nMoneyDur = money duration, \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 10 of 12 \n \nAnnModDur = annual modified duration, \nPVFull = full price of bond = PVFlat + AI \nand ΔPVFull = change in full price. (p. 409) \nTherefore, ΔPVFull ≈ —(5.2 ×( 90 + 5)) × — 0.001 = 0.494 ≈ 0.49."
+      }
+    },
+    {
+      "id": "d331acc7-38ec-4ea5-92d9-dc0e60d135f9",
+      "prompt": {
+        "text": "An analyst gathers the following information about the price of a semiannual-pay \nbond at various yield levels: \nYield-to-Maturity Full Price \n2.9% 101.25 \n3.0% 100.00 \n3.1% 98.90 \n \nIf the bond is currently priced at par, the approximate modified duration \nis closest to:"
+      },
+      "choices": [
+        "5.9.",
+        "6.3.",
+        "11.8."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because 𝐴𝑝𝑝𝑟𝑜𝑥𝑀𝑜𝑑𝐷𝑢𝑟=\n𝑃𝑉−−𝑃𝑉+\n2×ΔYield×𝑃𝑉0\n ; where: PV0 = full price at current \nyield to maturity; PV+ = present value when the yield to maturity is increased;  PV− = \nfull price when the yield to maturity is decreased; ∆Yield = change in yield to \nmaturity. \n𝐴𝑝𝑝𝑟𝑜𝑥𝑀𝑜𝑑𝐷𝑢𝑟= (101.25 − 98.90)\n2 × 0.001 × 100.00 = 𝟏𝟏. 𝟕𝟓."
+      }
+    },
+    {
+      "id": "ad739fe6-cb6f-4f42-9a1b-9ad381852e50",
+      "prompt": {
+        "text": "The duration of an option-free bond is 10.21. If the current price of the bond is \n121.355, the price value of a basis point (PVBP) is closest to:"
+      },
+      "choices": [
+        "–0.1239.",
+        "0.1021.",
+        "0.1239."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because price value of a basis point (the absolute value of the change in \nthe price of a bond for a 1-basis-point change in yield) is related to duration, the \napproximate percentage price change for a 100 bp change in rates. It follows that \nthe approximate percentage price change for a 1 bp change in rates can be \ndetermined: \n= duration × (0.0001) × 100 \n= (10.21) (0.0001) (100) \n= 0.1021%, then \nthe current price × the % price change = 121.355 × 0.1021% = $0.1239."
+      }
+    },
+    {
+      "id": "8e3974c7-ee5e-46e8-acba-57527ddd6562",
+      "prompt": {
+        "text": "For a non-callable perpetual bond with a constant yield to maturity, the Macaulay \nduration is:"
+      },
+      "choices": [
+        "equal to the bond's time to maturity.",
+        "represented graphically as a \"saw-tooth\" pattern.",
+        "calculated as (1 + yield to maturity) / yield to maturity."
+      ],
+      "gold": [
+        2
+      ],
+      "feedback": {
+        "neutral": "C is correct because a perpetuity or perpetual bond is a bond that does not mature. \nThere is no principal to redeem. The investor receives a fixed coupon payment \nforever, unless the bond is callable. Non -callable perpetuities have an interesting \nMacaulay duration: Mac Dur = (1 +  r)/r as N approaches infinity, where r represents \nyield to maturity. The Macaulay duration of a non-callable perpetual bond is a function \nof its yield only."
+      }
+    },
+    {
+      "id": "8ecd2a2e-e296-4f23-b635-8ae556c92baf",
+      "prompt": {
+        "text": "The sensitivity of a bond's price to benchmark interest rates best defines:"
+      },
+      "choices": [
+        "yield duration.",
+        "curve duration.",
+        "modified duration."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because duration is a quantitative measure of interest rate risk. There \nare several duration measures, including those that measure a bond’s price sensitivity \nto changes in its own yield-to-maturity and assume underlying cash flows are certain \n(yield duration) and those that measure changes in a benchmark yield curve, with less \ncertain underlying cash flows (curve duration)."
+      }
+    },
+    {
+      "id": "103e88bb-a1cb-4203-b9a3-3decf8ba884b",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond: \nPrice if interest rates fall 75 basis points 106.32 \nPrice if interest rates rise 75 basis points 105.45 \n  \nIf the current price of the bond is 105.90, the effective duration is closest to:"
+      },
+      "choices": [
+        "0.41.",
+        "0.55.",
+        "1.10."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because effective duration = \n(𝑃𝑉−)−(𝑃𝑉+)\n2×(Δ𝐶𝑢𝑟𝑣𝑒)×(𝑃𝑉0). \nSo, (106.32 – 105.45)/2(105.9)0.0075 = 0.547, rounded to 0.55."
+      }
+    },
+    {
+      "id": "c270e210-418e-44c7-b86d-bae5b3d0a350",
+      "prompt": {
+        "text": "An analyst gathers the following information about a bond: \nClean price (per 100 of par value) 114.75 \nAnnual modified duration 4.825 \nMacaulay duration (years) 4.9469 \nAccrued interest (per 100 of par value) 1.625 \n \nThe bond's money duration (per 100 of par value) is closest to:"
+      },
+      "choices": [
+        "553.67.",
+        "561.51.",
+        "575.70."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the money duration equals the product of modified duration \nand full price. \nFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375; \nMoney duration = Modified duration × Full Price = 116.375 × 4.8250 = 561.5094 ≈ \n561.51. \n \nModified duration is a measure of the percentage price change of a bond given a \nchange in its yield-to-maturity. A related statistic is money duration. The money \nduration of a bond is a measure of the price change in units of the currency in which \nthe bond is denominated. The money duration can be stated per 100 of par value or \nin terms of the actual position size of the bond in the portfolio. In the United \nStates, money duration is commonly called 'dollar duration.' Money duration \n(MoneyDur) is calculated as the annual modified duration times the full price \n(PVFull) of the bond, including accrued interest."
+      }
+    },
+    {
+      "id": "5f88ddd1-18d5-459b-bbcd-ac0b0eb69bed",
+      "prompt": {
+        "text": "The percentage price change for a bond, given a change in its yield to maturity, \nis best estimated by:"
+      },
+      "choices": [
+        "effective duration.",
+        "modified duration.",
+        "Macaulay duration."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because modified duration is a yield duration statistic in that it measures \ninterest rate risk in terms of a change in the bond’s own yield-to-maturity.  Modified \nduration provides an estimate of the percentage price change for a bond given a \nchange in its yield-to-maturity."
+      }
+    },
+    {
+      "id": "8cfd2986-6761-4fd2-9e2b-0d7584808677",
+      "prompt": {
+        "text": "An investor determines the following information about the price sensitivity of an \noption-free bond: \nRate Change Price \n75 basis point increase 104.0 \n75 basis point decrease 108.5 \n \nIf the current price is 106, the duration of this bond is closest to:"
+      },
+      "choices": [
+        "2.1.",
+        "2.8.",
+        "3.0."
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct because the following formula estimates the approximate percentage \nprice change for a 100 basis point change in yield (duration) is: \nDuration = Price if yield declines – Price if yield rises \n   [2 × (initial price) × (change in yield in decimal format)] \n= (108.5-104)/ (2*106*.0075) \n= 4.5/ 1.59 \n= 2.83, or 2.8"
+      }
+    },
+    {
+      "id": "52dccd5c-f5ee-49f8-9ea6-909efcdc99c1",
+      "prompt": {
+        "text": "The price value of a basis point (PVBP) for a bond with a full price of 103.50 and a \nmodified duration of 6.2 is closest to:"
+      },
+      "choices": [
+        "0.0642.",
+        "0.6420.",
+        "6.4200."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because modified duration provides an estimate of the percentage \nprice change for a bond given a change in its yield-to-maturity: \n%ΔPVFull ≈ −AnnModDur × ΔYield. \nAlso, another version of money duration is the price value of a basis point (PVBP) \nfor the bond. The PVBP is an estimate of the change in the full price given a 1 bp \nchange in the yield-to-maturity.  \nHere: −6.2 × 0.0001 = 0.00062 and PVBP = 0.00062 × 103.50 = 0.06417, rounded to \n0.0642."
+      }
+    },
+    {
+      "id": "bc57d5d3-d1e8-463d-95a0-df3638cd30ba",
+      "prompt": {
+        "text": "An analyst observes the following price-yield relationship for an option-free bond: \nPrice per 100 of Par Value Yield to Maturity \n100.95 7.45% \n101.80 6.75% \n103.40 6.05% \n \nIf the bond trades at 101.80 per 100 of par value, its approximate modified \nduration is closest to:"
+      },
+      "choices": [
+        "1.72. \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 6 of 12",
+        "2.25.",
+        "3.44."
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "A is correct because the approximate modified duration of a bond is calculated as \nfollows: \nApproxModDur = ((PV–) – (PV+)) / (2 × (ΔYield) × PV0) = (103.40 – 100.95) / (2 × \n0.0070 × 101.80) = 2.45 / 1.4252 = 1.7191 ≈ 1.72."
+      }
+    },
+    {
+      "id": "25fe93b9-464e-4b93-a2e9-90a0f824be20",
+      "prompt": {
+        "text": "Consider the following information relating to a corporate bond: \nFull price of bond (PVFull) $100,367,242 \nModified duration (AnnModDur) 8.124 years \nAccrued interest $303,218 \n \nThe money duration of the corporate bond is closest to:"
+      },
+      "choices": [
+        "$812,920,131.",
+        "$815,383,474.",
+        "$817,846,817. \n \n \n  \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 7 of 12"
+      ],
+      "gold": [
+        1
+      ],
+      "feedback": {
+        "neutral": "B is correct. The money duration of the corporate bond is equal to $815,383,474. \nYield-Based Bond Duration Measures and Properties \nFaculty:                                                                                    Page 12 of 12 \n \nMoneyDur = AnnModDur × PVFull \n = 8.124 × $100,367,242 \n = $815,383,474"
+      }
+    }
+  ]
+}

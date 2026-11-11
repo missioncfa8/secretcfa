@@ -1,0 +1,26 @@
+{
+  "title": "Module 70: Alternative Investment Performance and Returns",
+  "topic": "Alternative Investments",
+  "module_number": 70,
+  "module_name": "Alternative Investment Performance and Returns",
+  "year": 2027,
+  "items": [
+    {
+      "id": "cc1895d1-8fee-4972-bc13-dfbaf1bba031",
+      "prompt": {
+        "text": "Practice question set for 2027 CFA Level I: Alternative Investment Performance and Returns."
+      },
+      "choices": [
+        "Statement A accurately describes the fundamental concept",
+        "Statement B contradicts the core framework",
+        "Statement C applies only under non-standard market conditions"
+      ],
+      "gold": [
+        0
+      ],
+      "feedback": {
+        "neutral": "Detailed solution and rationale for Alternative Investment Performance and Returns available in the official 2027 curriculum."
+      }
+    }
+  ]
+}
