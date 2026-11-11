@@ -1,0 +1,1161 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Financial Statement Analysis_8",
+  "curriculum_year": "2027",
+  "topic": "Financial Statement Analysis",
+  "module_number": 8,
+  "module_name": "Topics in Long-Term Liabilities and Equity",
+  "question_count": 27,
+  "points_possible": 27.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Financial Statement Analysis - Module 8 Topics in Long-Term Liabilities and Equity",
+    "topic": "Financial Statement Analysis",
+    "module_id": 8,
+    "question_count": 27,
+    "type": "practice",
+    "points_possible": 27.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Fina-8-1",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q1",
+        "itemBody": "<p>Which of the following is a potential drawback of compensating employees with stock options?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Stock option grants may lead managers to be either risk adverse or have \nthe opposite effect (i.e., encourage excessive risk taking). Therefore, B and C  are \nboth potential drawbacks.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5eeefd8b-da3b-4749-bf7d-82261367611b",
+              "itemBody": "<p>A. The grant may make employees adverse to risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "b4637c18-6b77-48ad-aeb0-1bc4dcc60af8",
+              "itemBody": "<p>B. The grant may make employees seek more risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "25857b7d-32a8-4bec-9151-ba2c6b5f69d8",
+              "itemBody": "<p>C. Both of the above are potential drawbacks.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "25857b7d-32a8-4bec-9151-ba2c6b5f69d8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-2",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q2",
+        "itemBody": "<p>Which of the following is typically an objective of a share-based compensation plan?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The objectives of employee compensation plans include  attracting new \nemployees, retaining and motivating existing employees and  aligning employee \ninterests with those of shareholders. Answer B, maximizing executive compensation \nis not typically an objective of a share-based compensation programs. Answer C is not \ncorrect because an objective is to align employee  interests with shareholders, not \nnecessarily management.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3c608b43-e73f-49a9-9032-53f54cb2ad70",
+              "itemBody": "<p>A. Attracting new employees</p>",
+              "position": 1
+            },
+            {
+              "id": "33ccfe13-9a9d-440d-8b1d-3a59e1e141f3",
+              "itemBody": "<p>B. Maximizing executive compensation</p>",
+              "position": 2
+            },
+            {
+              "id": "ccf4e003-0bdf-4512-8fc0-b1a557ffad78",
+              "itemBody": "<p>C. Alignment of employees’ interest with those of management</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3c608b43-e73f-49a9-9032-53f54cb2ad70"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-3",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q3",
+        "itemBody": "<p>Which of the following statements is true?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. There are numerous types of share-based compensation programs; some \nresult in the issuance of shares to employees, and others result  in a cash payment \nbased on the value of company shares. Answer A is not correct  because even if no \ncash is exchanged at the time of grant, the compensation expense is recognized based \non the fair value of the grant. Answer C is not correct  because, in some cases, \nemployees may not receive the benefit of a stock option.  For example, if the stock \noption expires when the exercise price exceeds the market  value of the company’s \nstock, the recipient may not benefit from the grant.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eabe0093-ed35-47ef-a1c3-012d3b8b55ed",
+              "itemBody": "<p>A. Share-based compensation does not have to be treated as an expense, when no cash is exchanged.</p>",
+              "position": 1
+            },
+            {
+              "id": "3bf05ef9-deff-4da4-a3a3-900834e17548",
+              "itemBody": "<p>B. Share-based compensation programs can take a variety of forms, including those that are equity-settled and those that are cash settled.</p>",
+              "position": 2
+            },
+            {
+              "id": "4ffec1b6-e31e-410f-9d9c-61f47a37bb61",
+              "itemBody": "<p>C. Employees will receive a benefit of the stock option as long as they work long enough for the option to vest.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3bf05ef9-deff-4da4-a3a3-900834e17548"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-4",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q4",
+        "itemBody": "<p>Which of the following is a difference between a stock grant and a stock option grant?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The compensation for a stock grant is based on the market value at the \ndate of the stock grant. For a stock option, the value is not definitively known  and \nmust be estimated. Answer B is not correct because companies account for both stock \ngrants and option grants by allocating the value of the grant over the service period \n(often the vesting period). Answer C is not correct because for  both a share grant \nand an option grant, the value of the grant is determined based  on the date of the \ngrant.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "41c6e429-b198-4143-9de9-4140a13149e5",
+              "itemBody": "<p>A. Whereas the fair value of stock grants is usually based on the market value at the date of the grant, the fair value of option grants must be estimated.</p>",
+              "position": 1
+            },
+            {
+              "id": "d815c729-d994-47a4-8760-808e378e69fc",
+              "itemBody": "<p>B. Companies account for stock grants by allocating compensation expense over the employee service period, whereas compensation expense for stock options is expensed immediately.</p>",
+              "position": 2
+            },
+            {
+              "id": "232a989b-7a75-4e94-bea6-26bc1861167e",
+              "itemBody": "<p>C. Compensation expense is determined based on the market value of a share of stock on the grant date, whereas the measurement date for the value of an option is when the employee exercises the option.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "41c6e429-b198-4143-9de9-4140a13149e5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-5",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q5",
+        "itemBody": "<p>Assume ABC Company, a fictional company provides the following disclosure about its stock compensation plans: “The average fair value of shares granted was USD20.86, USD16.42, and USD17.80 in 2021, 2020, and 2019 respectively.” If the company granted 18,000 shares, with a three-year vesting period in 2021, what is the annual compensation expense for the 2021 shares granted?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "258f4d77-7a4a-47fa-b729-dbc7d8cb0143",
+              "itemBody": "<p>A. USD125,160</p>",
+              "position": 1
+            },
+            {
+              "id": "30df9e96-f3be-4a27-bb4d-eefee9e41974",
+              "itemBody": "<p>B. USD339,480</p>",
+              "position": 2
+            },
+            {
+              "id": "c32791a6-c85f-47ff-b44e-b322911c4122",
+              "itemBody": "<p>C. USD375,480</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "258f4d77-7a4a-47fa-b729-dbc7d8cb0143"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-6",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q6",
+        "itemBody": "<p>Assume XYZ Company discloses the following information in its Stock Compensation note: As of 31 December 2021, we had USD630 million of unrecognized compensation cost related to nonvested stock-based compensation awards granted under our plan. Topics in Long-Term Liabilities and Equity Faculty: Page 2 of 10 We expect to recognize this cost over a weighted average period of 3.2 years as stock-based compensation expense. What is the expected compensation expense in 2025?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. USD39 million calculated as follows: USD630 million/3.2 years = USD197 \nmillion per year for years 2022, 2023, and 2024. The amount remaining in 2025 would \nbe USD39 million: USD630 − USD197 − USD197 − USD197 = USD39 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6a288012-be7f-4380-af02-83277246e1ea",
+              "itemBody": "<p>A. USD39 million</p>",
+              "position": 1
+            },
+            {
+              "id": "ec48ac17-29e1-4745-ad41-e64d5ad2d0f9",
+              "itemBody": "<p>B. USD197 million</p>",
+              "position": 2
+            },
+            {
+              "id": "932d46ab-15cb-4ed1-8aa2-08c59ca921d4",
+              "itemBody": "<p>C. USD630 million</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6a288012-be7f-4380-af02-83277246e1ea"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-7",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q7",
+        "itemBody": "<p>Beginning with fiscal year 2019, for leases with a term longer than one year, lessees report a right-to-use asset and a lease liability on the balance sheet:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Beginning with fiscal year 2019, lessees report a right-of-use asset and \na lease liability for all leases longer than one year. An exception under IFRS  exists \nfor leases when the underlying asset is of low value. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 7 of 10</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1687f730-8277-4dba-90d4-f3444b375e1f",
+              "itemBody": "<p>A. only for finance leases.</p>",
+              "position": 1
+            },
+            {
+              "id": "744b94a0-098a-481d-bf0a-fe1c49fa5b96",
+              "itemBody": "<p>B. only for operating leases.</p>",
+              "position": 2
+            },
+            {
+              "id": "3c9b8709-2a2e-4955-9115-9298c5a4197a",
+              "itemBody": "<p>C. for both finance and operating leases.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3c9b8709-2a2e-4955-9115-9298c5a4197a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-8",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q8",
+        "itemBody": "<p>For a lessor, the leased asset appears on the balance sheet and continues to be depreciated when the lease is classified as:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. When a lease is classified as an operating lease, the underlying asset  \nremains on the lessor’s balance sheet. The lessor will record a depreciation expense  \nthat reduces the asset’s value over time.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ddd4b52d-0cd4-4054-8726-f5dc64dcf871",
+              "itemBody": "<p>A. a finance lease.</p>",
+              "position": 1
+            },
+            {
+              "id": "4a1dc835-1765-4027-8fa8-76202f1a18ca",
+              "itemBody": "<p>B. a sales-type lease.</p>",
+              "position": 2
+            },
+            {
+              "id": "bfa1036a-49f1-4db8-a18f-8d0005fceede",
+              "itemBody": "<p>C. an operating lease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bfa1036a-49f1-4db8-a18f-8d0005fceede"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-9",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q9",
+        "itemBody": "<p>Under US GAAP, a lessor’s reported revenues at lease inception will be highest if the lease is classified as:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A sales-type lease treats the lease as a sale of the asset, and revenue  \nis recorded at the time of sale equal to the value of the leased asset. Under a direct \nfinancing lease, only interest income is reported as earned. Under an operating lease, \nrevenue from lease receipts is reported when collected.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c71b1269-633e-48f3-9286-a3dd83bfeea7",
+              "itemBody": "<p>A. a sales-type lease.</p>",
+              "position": 1
+            },
+            {
+              "id": "c53fb77f-d68e-4401-96c8-3d986422f4a3",
+              "itemBody": "<p>B. an operating lease.</p>",
+              "position": 2
+            },
+            {
+              "id": "c23073cd-f2d4-4384-a9aa-09264b91192e",
+              "itemBody": "<p>C. a direct financing lease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c71b1269-633e-48f3-9286-a3dd83bfeea7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-10",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q10",
+        "itemBody": "<p>Under both IFRS and US GAAP, a lessor in an operating lease recognizes:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Lessor accounting for an operating lease under US GAAP is similar  to \nthat under IFRS: Over the lease term, the lessor recognizes lease receipts as income \nand recognizes related costs, including depreciation of the leased asset, as expenses. \nUnder IFRS, at inception of a finance lease —not an operating  lease—the lessor \nderecognizes the underlying leased asset and recognizes a lease asset comprising the \nlease receivable and relevant residual value. Further, an  IFRS-reporting lessor will \nrecognize selling profit at the beginning of all leases  that are not classified as \noperating leases. In contrast, a US GAAP–reporting lessor will recognize selling profit \nonly on sales-type leases at the beginning of the lease term.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a2ab2140-5ffd-40d3-9f8a-2a101a171c11",
+              "itemBody": "<p>A. selling profit at lease inception.</p>",
+              "position": 1
+            },
+            {
+              "id": "79665937-7175-41ae-97ef-ba382cac6e2c",
+              "itemBody": "<p>B. a lease asset comprising the lease receivable and relevant residual value at lease inception.</p>",
+              "position": 2
+            },
+            {
+              "id": "a2f549a8-621f-4462-88ee-cfda171f2475",
+              "itemBody": "<p>C. lease receipts as income and related costs, including depreciation, as expenses over the lease term.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a2f549a8-621f-4462-88ee-cfda171f2475"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-11",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q11",
+        "itemBody": "<p>Compared with a finance lease, an operating lease:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. An operating lease is an agreement that allows the lessee to use an asset \nfor a period of time. Thus, an operating lease is similar to renting an asset,  whereas \na finance lease is equivalent to the purchase of an asset by the lessee that is directly \nfinanced by the lessor.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a27d084f-d50e-4fed-99a7-acaf54cef73a",
+              "itemBody": "<p>A. is similar to renting an asset.</p>",
+              "position": 1
+            },
+            {
+              "id": "d38d5f7d-464a-4e4a-a10f-52fa5c8e72d8",
+              "itemBody": "<p>B. is equivalent to the purchase of an asset.</p>",
+              "position": 2
+            },
+            {
+              "id": "96590ce3-fdd8-4071-8e3e-b0dd584788f1",
+              "itemBody": "<p>C. has a term for the majority of the economic life of the leased asset.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a27d084f-d50e-4fed-99a7-acaf54cef73a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-12",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q12",
+        "itemBody": "<p>Under US GAAP, a lessee’s accounting for a long -term finance lease after inception will include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A lessee’s accounting for a long-term finance lease under US GAAP and \nafter lease inception includes recording depreciation expense on the  right-of-use \nasset, recognizing interest expense on the lease liability, and reducing the balance of \nthe lease liability for the portion of the lease payments that  represents repayment \nof the lease liability. A lessee’s accounting for an operating lease under US GAAP and \nafter lease inception will recognize a single lease expense,  which is a straight -line \nallocation of the cost of the lease over its term.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4b8643fe-7109-4d32-b1b6-d313f89e50bc",
+              "itemBody": "<p>A. recognizing a single lease expense.</p>",
+              "position": 1
+            },
+            {
+              "id": "ddeb38cb-f79f-46b5-b02c-51e1075ffed5",
+              "itemBody": "<p>B. recording depreciation expense on the right-of-use asset.</p>",
+              "position": 2
+            },
+            {
+              "id": "7f0daad9-517b-4a45-86c6-c3b9980642a1",
+              "itemBody": "<p>C. increasing the balance of the lease liability by a portion of the lease payment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ddeb38cb-f79f-46b5-b02c-51e1075ffed5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-13",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q13",
+        "itemBody": "<p>A company enters into a finance lease agreement to acquire the use of an asset for three years with lease payments of EUR19,000,000 starting next year. The leased Topics in Long-Term Liabilities and Equity Faculty: Page 3 of 10 asset has a fair market value of EUR49,000,000 and the present value of the lease payments is EUR47,250,188. Based on this information, the value of the lease liability reported on the company’s balance sheet at lease inception is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Under the revised reporting standards under IFRS and US GAAP,  a \nlessee must recognize an asset and a lease liability at inception of each of its leases \n(with an exception for short-term leases). The lessee reports a right -of-use (ROU) \nasset and a lease liability, calculated essentially as the present value of  fixed lease \npayments, on its balance sheet. Thus, at lease inception, the company  will record a \nlease liability on the balance sheet of EUR47,250,188.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "363bc085-efec-459c-90b4-cef06a835bd0",
+              "itemBody": "<p>A. EUR47,250,188.</p>",
+              "position": 1
+            },
+            {
+              "id": "640093eb-8998-4373-a6a3-c8a9defaf4e6",
+              "itemBody": "<p>B. EUR49,000,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "15bc5e9d-b69d-42f0-b813-cfecef3f13d7",
+              "itemBody": "<p>C. EUR57,000,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "363bc085-efec-459c-90b4-cef06a835bd0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-14",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q14",
+        "itemBody": "<p>Penben Corporation has a defined benefit pension plan. At 31 December, its pension obligation is EUR10 million and pension assets are EUR9 million. Under either IFRS or US GAAP, the reporting on the balance sheet would be closest to which of the following?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The company will report a net pension obligation of EUR1 million equal to \nthe pension obligation (EUR10 million) less the plan assets (EUR9 million).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a72e54c1-72c7-4bcb-b126-d5e32c01fe8e",
+              "itemBody": "<p>A. EUR10 million is shown as a liability, and EUR9 million appears as an asset.</p>",
+              "position": 1
+            },
+            {
+              "id": "d5a415e0-2fed-48d0-9c5c-004050d5797c",
+              "itemBody": "<p>B. EUR1 million is shown as a net pension obligation.</p>",
+              "position": 2
+            },
+            {
+              "id": "d8d199a8-b4bc-45be-b4d5-65f2cb1b0e8a",
+              "itemBody": "<p>C. Pension assets and obligations are not required to be shown on the balance sheet but only disclosed in footnotes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d5a415e0-2fed-48d0-9c5c-004050d5797c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-15",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q15",
+        "itemBody": "<p>The information below is associated with a company that offers its employees a defined benefit plan: Fair value of fund’s assets USD1,500,000,000 Estimated pension obligations USD2,600,000,000 Present value of estimated pension obligations USD1,200,000,000 Based on this information, the company’s balance sheet will present a net pension:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A company that offers a defined benefit plan makes payments into  a \npension fund and the retirees are paid from the fund. The payments that a company \nmakes into the fund are invested until they are needed to pay retirees.  If the fair \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 8 of 10 \n \nvalue of the fund’s assets is higher than the present value of the  estimated pension \nobligation, the plan has a surplus and the company’s balance  sheet will reflect a net \npension asset. Because the fair value of the fund’s  assets is USD1,500,000,000 and \nthe present value of estimated pension obligations is USD1,200,000,000, the company \nwill present a net pension asset of USD300,000,000 on its balance sheet.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bbf61811-a8ea-4dc1-829c-9448316a69fb",
+              "itemBody": "<p>A. asset of USD300,000,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "f6a910c6-2a96-44a3-a603-209b7ad71d20",
+              "itemBody": "<p>B. asset of USD1,400,000,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "408b6177-4121-4379-a579-56a6335370a1",
+              "itemBody": "<p>C. liability of USD1,100,000,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bbf61811-a8ea-4dc1-829c-9448316a69fb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-16",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q16",
+        "itemBody": "<p>Relative to purchasing an asset, leases generally:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Leases can provide less costly financing and are often offered at lower \nfixed interest rates than those offered for asset purchases.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2f2b3165-6fda-454e-a0a9-c5c625d02468",
+              "itemBody": "<p>A. have more restrictive provisions than other forms of borrowing.</p>",
+              "position": 1
+            },
+            {
+              "id": "fd047fc6-2e6e-4415-a569-0358644483b8",
+              "itemBody": "<p>B. provide less costly financing in the form of lower fixed interest rates.</p>",
+              "position": 2
+            },
+            {
+              "id": "0adaca63-dbbc-412c-9e23-adc1c5dfa353",
+              "itemBody": "<p>C. require a larger down payment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fd047fc6-2e6e-4415-a569-0358644483b8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-17",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q17",
+        "itemBody": "<p>Previously, a manufacturer of high -quality industrial electrical generators only sold its units to customers, but it has just introduced a leasing program. The generators have expected useful lives of about 25 years, and the company anticipates that the leases will have a term of 20 years or more. If the company reports under International Financial Reporting Standards, which of the following statements about the first year of the new leasing program is most accurate? The company will recognize:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Because the company is a manufacturer, under IFRS the lessor would \nclassify the lease as a finance lease and recognize revenue equal to the value of the \nleased asset and cost of goods sold equal to the carrying value of the asset, not its \nmarket value. The asset would be derecognized from the balance sheet and replaced \nwith a lease receivable therefore there is no asset to depreciate. \n \n18. A is c orrect. Interest expense accrued on the beginning pension obligation is \nrecognized as profit or loss in the period incurred.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bbcca06d-2777-4b1c-8660-f624378d41fd",
+              "itemBody": "<p>A. revenue equal to the value of the leased asset.</p>",
+              "position": 1
+            },
+            {
+              "id": "d72478d5-def3-43ac-b100-072945a941df",
+              "itemBody": "<p>B. depreciation of the leased asset as an expense.</p>",
+              "position": 2
+            },
+            {
+              "id": "dcbb6171-15a4-4f21-813f-92d44637c6be",
+              "itemBody": "<p>C. cost of goods sold equal to the market value of the asset.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bbcca06d-2777-4b1c-8660-f624378d41fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-18",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q18",
+        "itemBody": "<p>Under US GAAP, for defined-benefit plans, which of the following items is reported as profit and loss? Topics in Long-Term Liabilities and Equity Faculty: Page 4 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d040cba7-1541-474d-bc27-25596cdc1436",
+              "itemBody": "<p>A. Interest expense accrued on the beginning pension obligation in the period incurred.</p>",
+              "position": 1
+            },
+            {
+              "id": "14670d71-3260-4798-8d43-7dae05ef4e0a",
+              "itemBody": "<p>B. Actuarial gains and losses in the current period.</p>",
+              "position": 2
+            },
+            {
+              "id": "205a26e9-13bc-4f64-9d50-6b2de2c51cd4",
+              "itemBody": "<p>C. Past service costs in the period they arise.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d040cba7-1541-474d-bc27-25596cdc1436"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-19",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q19",
+        "itemBody": "<p>A company that prepares its financial statements according to IFRS leased a piece of equipment on 1 January of Year 1. Information relevant to the transaction is as follows: ❖ Five annual lease payments of $25,000, with the first payment due 1 January of Year 1 ❖ Interest rate on similar company debt is currently 8% ❖ The fair value of the equipment is $115,000 ❖ Useful life of the equipment is seven years ❖ The company depreciates other equipment in the same asset class on a straight - line basis The total expense related to the lease on the company’s income statement for Year 1 will be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Under IFRS 16 all leases are classified as a finance lease and must be \ncapitalized. \nUsing a financial calculator for an annuity due at the beginning of the period: \nPV of lease payments: PMT = $25,000, i = 8%, N = 5, Mode = Begin, Compute PV. \nPV = $107,803 \nTherefore, the lease would be capitalized at $107,803. \nPresent value of the lease (asset value \ncapitalized and initial liability) \n \n$107,803 \nPayment 1 January 2020 \n \n–25,000 \nLiability value 1 January 2020 \n \n$82,803    \nInterest expense in 2020 0.08 × \n$82,803 \n$6,624.25 \nAmortization expense for the year using the \nlease term as the useful life (no indication \nthat the lease will be renewed beyond the \ninitial term) \n$107,803/5 $21,560.63 \nTotal expense in 2020 \n \n$28,184.88 \n \n20. B is c orrect. Under IFRS, only actuarial gains or losses can be recognized in other \ncomprehensive income.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b0f9a2ad-e397-4013-a69f-89dd1252ba0b",
+              "itemBody": "<p>A. $22,024.</p>",
+              "position": 1
+            },
+            {
+              "id": "c2773db0-9877-4664-9889-e29daf4f3423",
+              "itemBody": "<p>B. $25,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "49cb7bcb-4544-46e7-92fa-2856aa4a93f7",
+              "itemBody": "<p>C. $28,185.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "49cb7bcb-4544-46e7-92fa-2856aa4a93f7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-20",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q20",
+        "itemBody": "<p>Under IFRS, it is most appropriate to include which of the following pension costs of a defined-benefit plan in other comprehensive income?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d16accdf-1721-4fa5-baec-1160973fab13",
+              "itemBody": "<p>A. Net interest expense accrued on the beginning net pension liability</p>",
+              "position": 1
+            },
+            {
+              "id": "190c876b-e181-4dce-aea7-5a67ccffa7ea",
+              "itemBody": "<p>B. Actuarial gains or losses</p>",
+              "position": 2
+            },
+            {
+              "id": "65e35b01-4944-409a-a08b-14bd4720d9ac",
+              "itemBody": "<p>C. Employees service cost</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d16accdf-1721-4fa5-baec-1160973fab13"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-21",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q21",
+        "itemBody": "<p>Which of the following is least likely an advantage to the lessee in a leasing agreement?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. In a lease situation the lessor retains legal title to the asset and would \nbe the party to benefit from a high residual value, not the lessee. A low down payment \nand lower financing cost are advantages for a lessee. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 9 of 10</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "81098c00-66d3-4f98-9cf1-fdc0beb06bb4",
+              "itemBody": "<p>A. High residual value</p>",
+              "position": 1
+            },
+            {
+              "id": "92d3bf4b-5533-4e97-abb1-399b076c3b05",
+              "itemBody": "<p>B. Low down payment required</p>",
+              "position": 2
+            },
+            {
+              "id": "43f0d968-81c0-4e40-82ed-f55f7ec91f62",
+              "itemBody": "<p>C. Lower financing costs than purchasing the asset</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "81098c00-66d3-4f98-9cf1-fdc0beb06bb4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-22",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q22",
+        "itemBody": "<p>Under US GAAP, in the second year of a multi-year lease, a lessee with an operating lease most likely reports a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because for operating leases, the lessee recognizes a single lease expense \nand no depreciation expense; whereas under a finance lease the lessee records \ndepreciation expense on the right -of-use asset. Under IFRS, there is a single \naccounting model f or both finance and operating leases for lessees. At lease \ninception, the lessee records a lease payable liability and a “right-of-use” (ROU) asset \non its balance sheet, both equal to the present value of future lease payments. The \nfollowing shows how the transaction [under IFRS] affects the financial statements: \nInterest expense on the lease liability and the amortization expense related to the \nROU asset are reported separately on the income statement. The following shows \nhow the [operating lease] tr ansaction [under US GAAP] appears on the financial \nstatements: Interest expense on the lease liability and the amortization expense \nrelated to the ROU asset are reported as a single line titled “lease expense” as an \noperating expense on the income statemen t. The interest and amortization \ncomponents are not reported separately, nor are they grouped with other types of \ninterest and amortization expense (e.g., interest on a bond, amortization of an \nintangible asset).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "51e3b9e0-02fd-4803-a812-1c8511b051fd",
+              "itemBody": "<p>A. higher interest expense than it would if the lease were a finance lease.</p>",
+              "position": 1
+            },
+            {
+              "id": "2dd57820-22e0-4e87-b588-31cf57999c87",
+              "itemBody": "<p>B. lower depreciation expense than it would if the lease were a finance lease.</p>",
+              "position": 2
+            },
+            {
+              "id": "a6e65bd9-bfd2-48dd-9cec-a5d46293ec4d",
+              "itemBody": "<p>C. greater financing cash outflow than it would if the lease were a finance lease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2dd57820-22e0-4e87-b588-31cf57999c87"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-23",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q23",
+        "itemBody": "<p>For leases with a term of twelve months or less, the lessee:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because for lessees, there are lease accounting exemptions for certain \nlease contracts: If its term is 12 months or less (IFRS and US GAAP) or it is for a \n“low-value asset,” up to $5,000 in sales price (IFRS only), then the lessee can elect \nto simply expense the lease payments on a straight-line basis. These exemptions are \nnot available to lessors.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "73f21a0f-c9cb-4c75-9c18-ceed95801802",
+              "itemBody": "<p>A. may recognize lease payments on a straight-line basis.</p>",
+              "position": 1
+            },
+            {
+              "id": "bc1d6317-808b-491f-9d57-712c421e2592",
+              "itemBody": "<p>B. must report at lease inception a “right -of-use” asset and a lease liability, which are both equal to the present value of future lease payments.</p>",
+              "position": 2
+            },
+            {
+              "id": "2f890f07-8cc5-48e5-81b0-353a76094d9e",
+              "itemBody": "<p>C. must report at lease inception a “right -of-use” asset and a lease liability, which are both equal to the undiscounted value of future lease payments. Topics in Long-Term Liabilities and Equity Faculty: Page 5 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "73f21a0f-c9cb-4c75-9c18-ceed95801802"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-24",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q24",
+        "itemBody": "<p>Under which of the following classifications of leases will a lessor derecognize the leased asset and recognize a lease receivable on the balance sheet at lease inception?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the accounting for lessors is substantially identical under IFRS \nand US GAAP. Under both accounting standards, lessors classify leases as finance or \noperating leases, which determines the financial reporting. At finance lease inception, \nthe lessor recognizes a lease receivable asset equal to the present value of future \nlease payments and de -recognizes the leased asset, simultaneously recognizing any \ndifference as a gain or loss.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "76d03178-d43c-44e6-8c79-a3f97f4d6ecf",
+              "itemBody": "<p>A. Only a finance lease under IFRS</p>",
+              "position": 1
+            },
+            {
+              "id": "7192dc4f-a768-47d6-a60c-01241300e20d",
+              "itemBody": "<p>B. Only an operating lease under US GAAP</p>",
+              "position": 2
+            },
+            {
+              "id": "cc2a7af2-9b9d-4bdf-8c76-88e908529294",
+              "itemBody": "<p>C. Both a finance lease under IFRS and an operating lease under US GAAP</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "76d03178-d43c-44e6-8c79-a3f97f4d6ecf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-25",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q25",
+        "itemBody": "<p>Which of the following could motivate a lessee to lease a high-value, long-lived asset rather than to purchase it? Lease contracts:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because there are several advantages to leasing an asset compared with \npurchasing it: Less cash is needed up front. Leases typically require little, if any, down \npayment.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "69bffbd1-6df4-4e19-ae02-d42a33925214",
+              "itemBody": "<p>A. usually require little, if any, down payment.</p>",
+              "position": 1
+            },
+            {
+              "id": "28b517a7-1d87-4755-8860-e1a3bc79b6c3",
+              "itemBody": "<p>B. are reported as off-balance sheet financing structures.</p>",
+              "position": 2
+            },
+            {
+              "id": "824265f5-a69f-464d-b773-c25f17d65c7c",
+              "itemBody": "<p>C. do not require the recognition of a liability on the balance sheet.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "69bffbd1-6df4-4e19-ae02-d42a33925214"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-26",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q26",
+        "itemBody": "<p>Which of the following components of change in the net pension asset or liability of a defined-benefit pension plan is recognized in other comprehensive income?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because under IFRS, the change in the net pension asset or liability each \nperiod is viewed as having three general components. Two of the components of this \nchange are recognised as pension expense in profit and loss: (1) employees’ service \ncosts, and (2) the net interest expense or income accrued on the beginning net pension \nasset or liability. The third component of the change in the net pension asset or \nliability during a period —“remeasurements”— is recognised in other comprehensive \nincome. Remeasurements are not amortised into profit or loss over time. \nRemeasurements include (a) actuarial gains and losses. \n \nTopics in Long-Term Liabilities and Equity \nFaculty:                                                                         Page 10 of 10</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d0192b95-4ac2-4680-b51e-69b31fe7d429",
+              "itemBody": "<p>A. Employees' service costs</p>",
+              "position": 1
+            },
+            {
+              "id": "6a8b6434-a45a-4b38-bde9-ba048a8a4fa4",
+              "itemBody": "<p>B. Actuarial gains and losses</p>",
+              "position": 2
+            },
+            {
+              "id": "a0a1a68b-ecc0-4d3f-b6e4-2751c9ccb1e4",
+              "itemBody": "<p>C. Net interest expense or income accrued on the beginning net pension asset or liability</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6a8b6434-a45a-4b38-bde9-ba048a8a4fa4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-8-27",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod8-Q27",
+        "itemBody": "<p>Compared to purchasing an asset using debt, leasing an asset is most likely to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because there are several advantages to leasing an asset compared with \npurchasing it: Convenience and lower risks associated with asset ownership, such as \nobsolescence.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "63e86b60-d0e2-4359-ba90-80a182057812",
+              "itemBody": "<p>A. have a higher financing cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "67a3fe3b-735b-4855-a88e-98a70753b10d",
+              "itemBody": "<p>B. require a greater down payment.</p>",
+              "position": 2
+            },
+            {
+              "id": "4c0dd5ce-516a-4f28-b891-b83d8ee2eb44",
+              "itemBody": "<p>C. reduce lessee's exposure to obsolescence. Topics in Long-Term Liabilities and Equity Faculty: Page 6 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4c0dd5ce-516a-4f28-b891-b83d8ee2eb44"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

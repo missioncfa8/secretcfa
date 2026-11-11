@@ -1,0 +1,279 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_10",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 10,
+  "module_name": "Company Analysis - Past, Present, and Future",
+  "question_count": 6,
+  "points_possible": 6.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 10 Company Analysis - Past, Present, and Future",
+    "topic": "Equities",
+    "module_id": 10,
+    "question_count": 6,
+    "type": "practice",
+    "points_possible": 6.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-10-1",
+      "entry": {
+        "title": "2027 Equities Mod10-Q1",
+        "itemBody": "<p>Which of the following strategies is most likely to apply to economies of both scale and scope?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4c3c05c4-48fa-44ae-ae28-42cbd4e0df24",
+              "itemBody": "<p>A. Cost leadership</p>",
+              "position": 1
+            },
+            {
+              "id": "b9d41917-9049-41c6-938c-c855360f2d95",
+              "itemBody": "<p>B. Cost-based focus strategy</p>",
+              "position": 2
+            },
+            {
+              "id": "e06d66a0-a368-44cd-9f7e-dcec20459712",
+              "itemBody": "<p>C. Differentiation-based focus Feedback A is correct because economies of scale and scope are most applicable under a cost leadership strategy, since each aims to reduce the average cost of supplying goods and services. B is incorrect because it is difficult to achieve economies of scope in a focus strategy. C is incorrect because differentiation focus strategies are unlikely to benefit from economies of scale or scope.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4c3c05c4-48fa-44ae-ae28-42cbd4e0df24"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-10-2",
+      "entry": {
+        "title": "2027 Equities Mod10-Q2",
+        "itemBody": "<p>Focus strategies typically focus on:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d1450a13-1588-4ee1-8fe8-b553ecbc6f9e",
+              "itemBody": "<p>A. differentiation only.</p>",
+              "position": 1
+            },
+            {
+              "id": "b7902a7c-6edf-432f-909f-4be2093846f2",
+              "itemBody": "<p>B. cost leadership only.</p>",
+              "position": 2
+            },
+            {
+              "id": "0b11d5c1-bc1a-423f-a340-c9622c8e35a4",
+              "itemBody": "<p>C. either cost leadership or differentiation. Feedback C is correct because a focused strategy may employ either cost leadership or differentiation aimed at a specific group or product. A is incorrect because either cost leadership or differentiation can be the basis for a focus strategy. B is incorrect because either cost leadership or differentiation can be the basis for a focus strategy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d1450a13-1588-4ee1-8fe8-b553ecbc6f9e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-10-3",
+      "entry": {
+        "title": "2027 Equities Mod10-Q3",
+        "itemBody": "<p>In a declining industry, which of the following factors is most likely to intensify competitive rivalry?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d95099d4-f370-47f1-bc74-6aab6fbbe35b",
+              "itemBody": "<p>A. Excess capacity</p>",
+              "position": 1
+            },
+            {
+              "id": "30880a22-0c77-4381-a0c6-aa6f652cf6b7",
+              "itemBody": "<p>B. Product differentiation</p>",
+              "position": 2
+            },
+            {
+              "id": "0351797c-4dc1-43b4-9504-50ae02285b89",
+              "itemBody": "<p>C. Research and development Feedback A is correct because declining industries often face excess capacity due to declining demand, a factor that intensifies competitive rivalry among industry participants. B is incorrect as product differentiation may occur at any life-cycle stage and is not necessarily a competitive driver in declining industries. C is incorrect as research and development is more likely to be a factor affecting competitive rivalry among startup or growth companies.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d95099d4-f370-47f1-bc74-6aab6fbbe35b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-10-4",
+      "entry": {
+        "title": "2027 Equities Mod10-Q4",
+        "itemBody": "<p>Higher working capital efficiency is most likely to be associated with an increase in:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "96f82144-6b99-4555-9cb1-30cd82941b4f",
+              "itemBody": "<p>A. days sales outstanding.</p>",
+              "position": 1
+            },
+            {
+              "id": "d0aa85a2-1804-404b-baeb-3b73e073d885",
+              "itemBody": "<p>B. days inventory on hand.</p>",
+              "position": 2
+            },
+            {
+              "id": "ad9279b4-f752-4b68-bb4a-11625ccc8e46",
+              "itemBody": "<p>C. days payables outstanding. Feedback C is correct because an increase in a firm’s payables outstanding results in a shorter cash conversion cycle, which is equal to days of sales outstanding plus days of inventory on hand minus days of payables outstanding. A is incorrect as an increase in days sales outstanding will lengthen, not shorten, the cash conversion cycle. B is incorrect as an increase in days inventory on hand will lengthen, not shorten, the cash conversion cycle.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "96f82144-6b99-4555-9cb1-30cd82941b4f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-10-5",
+      "entry": {
+        "title": "2027 Equities Mod10-Q5",
+        "itemBody": "<p>Return on invested capital (ROIC) is best described as a measure of:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d427b565-c902-45fe-ba92-e953748a88d2",
+              "itemBody": "<p>A. pre-tax returns to shareholders.</p>",
+              "position": 1
+            },
+            {
+              "id": "97090f14-f199-4092-8b09-c51ccd50af88",
+              "itemBody": "<p>B. value created across all assets.</p>",
+              "position": 2
+            },
+            {
+              "id": "f03d32f7-0d82-459a-9650-b16b9eae80f8",
+              "itemBody": "<p>C. the amount needed for a company to earn excess returns Feedback B is correct because the ROIC measures return to all investors, as it includes both long-term liabilities such as debt and average equity in the calculation. A is incorrect because ROIC measures after-tax return to all investors. C is incorrect because it describes the weighted average cost of capital (WACC), not ROIC</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d427b565-c902-45fe-ba92-e953748a88d2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-10-6",
+      "entry": {
+        "title": "2027 Equities Mod10-Q6",
+        "itemBody": "<p>A firm raises debt to finance a new production facility. Prior to the facility opening, the firm will most likely experience:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "364df0cd-fd7c-45e9-b855-9397d46476bd",
+              "itemBody": "<p>A. an increased operating margin.</p>",
+              "position": 1
+            },
+            {
+              "id": "e262a4dc-e707-459a-9250-8fea23347ba0",
+              "itemBody": "<p>B. an increase in financial leverage.</p>",
+              "position": 2
+            },
+            {
+              "id": "4dcac101-7242-4208-9868-a619c4f88a24",
+              "itemBody": "<p>C. a reduction in net working capital. Feedback B is correct because issuing debt increases the firm’s liabilities and associated interest expenses, thereby increasing financial leverage. A is incorrect because operating margin excludes interest and would not be affected by financing decisions. C is incorrect because raising debt typically affects long-term liabilities, not current assets or liabilities directly associated with net working capital.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "364df0cd-fd7c-45e9-b855-9397d46476bd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2765 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Financial Statement Analysis_6",
+  "curriculum_year": "2027",
+  "topic": "Financial Statement Analysis",
+  "module_number": 6,
+  "module_name": "Analysis of Inventories",
+  "question_count": 65,
+  "points_possible": 65.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Financial Statement Analysis - Module 6 Analysis of Inventories",
+    "topic": "Financial Statement Analysis",
+    "module_id": 6,
+    "question_count": 65,
+    "type": "practice",
+    "points_possible": 65.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Fina-6-1",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q1",
+        "itemBody": "<p>Carrying inventory at a value above its historical cost would most likely be permitted if:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. IFRS allow the inventories of producers and dealers of agricultural and \nforest products, agricultural produce after harvest, and minerals and mineral  \nproducts to be carried at net realizable value even if above historical cost. (US GAAP \ntreatment is similar.)</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "07283bd7-b551-4982-9faf-81a59bbb630c",
+              "itemBody": "<p>A. the inventory was held by a producer of agricultural products.</p>",
+              "position": 1
+            },
+            {
+              "id": "0f10c0cf-900e-4005-9db3-9fc056917948",
+              "itemBody": "<p>B. financial statements were prepared using US GAAP.</p>",
+              "position": 2
+            },
+            {
+              "id": "aa0d2196-a34a-446a-b308-09dcdceff7f5",
+              "itemBody": "<p>C. the change resulted from a reversal of a previous write-down.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "07283bd7-b551-4982-9faf-81a59bbb630c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-2",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q2",
+        "itemBody": "<p>Eric’s Used Book Store prepares its financial statements in accordance with IFRS. Inventory was purchased for GBP1 million and later marked down to GBP550,000. One of the books, however, was later discovered to be a rare collectible item, and the inventory is now worth an estimated GBP3 million. The inventory is most likely reported on the balance sheet at:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Under IFRS, the reversal of write -downs is required if net realizable  \nvalue increases. The inventory will be reported on the balance sheet at GBP1,000,000. \nThe inventory is reported at the lower of cost or net realizable value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a5e171fa-4e03-491a-a2f0-6c15abf1526d",
+              "itemBody": "<p>A. GBP550,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "80b65530-8615-40c7-ad9a-e1b347bd3f47",
+              "itemBody": "<p>B. GBP1,000,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "d9e9ff16-792d-49f5-a69e-32269506b571",
+              "itemBody": "<p>C. GBP3,000,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "80b65530-8615-40c7-ad9a-e1b347bd3f47"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-3",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q3",
+        "itemBody": "<p>Fernando’s Pasta purchased inventory and later wrote it down. The current net realizable value is higher than the value when written down. Fernando’s inventory balance will most likely be:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. IFRS requires the reversal of inventory write -downs if net realizable  \nvalues increase; US GAAP does not permit the reversal of write -downs. Therefore, \nFernando’s inventory balance would be higher under IFRS.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c3e252ed-0d4c-4a3b-9e46-ae683b8c5724",
+              "itemBody": "<p>A. higher if it complies with IFRS.</p>",
+              "position": 1
+            },
+            {
+              "id": "8e7a4143-0107-432e-8031-3decc2d8c76f",
+              "itemBody": "<p>B. higher if it complies with US GAAP.</p>",
+              "position": 2
+            },
+            {
+              "id": "a063a830-97d4-4385-8631-3a0ae3d0f07a",
+              "itemBody": "<p>C. the same under US GAAP and IFRS.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c3e252ed-0d4c-4a3b-9e46-ae683b8c5724"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-4",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q4",
+        "itemBody": "<p>A write-down of the value of inventory to its net realizable value will have a positive effect on the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Activity ratios (e.g., inventory turnover and total asset turnover) will be \npositively affected by a write -down to net realizable value because the asset  base \n(denominator) is reduced. On the balance sheet, the inventory carrying  amount is \nwritten down to its net realizable value and the loss in value (expense)  is generally \nreflected on the income statement in the cost of goods sold, thus  reducing gross \nprofit, operating profit, and net income.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "55cf38b1-5b4a-4512-984a-2b5bf53da363",
+              "itemBody": "<p>A. balance sheet.</p>",
+              "position": 1
+            },
+            {
+              "id": "40892f88-5672-458a-8672-f524400f7219",
+              "itemBody": "<p>B. income statement.</p>",
+              "position": 2
+            },
+            {
+              "id": "522f969b-ba93-4ce3-aa77-2757998163c4",
+              "itemBody": "<p>C. inventory turnover ratio.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "522f969b-ba93-4ce3-aa77-2757998163c4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-5",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q5",
+        "itemBody": "<p>Zimt AG uses the FIFO method, and Nutmeg Inc. uses the LIFO method. Compared to the cost of replacing the inventory, during periods of rising prices, the cost of sales reported by:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Zimt uses the FIFO method, so its cost of sales represents units  \npurchased at a (no longer available) lower price. Nutmeg uses the LIFO method,  so \nits cost of sales is approximately equal to the current replacement cost of inventory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0f56abed-01f3-4c63-8d13-3e04ff5fd849",
+              "itemBody": "<p>A. Zimt is too low.</p>",
+              "position": 1
+            },
+            {
+              "id": "40385276-25cf-4e4f-9169-d2d3d6bdf429",
+              "itemBody": "<p>B. Nutmeg is too low.</p>",
+              "position": 2
+            },
+            {
+              "id": "b1669a19-2ddb-4e03-b35b-91e148e461f2",
+              "itemBody": "<p>C. Nutmeg is too high.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0f56abed-01f3-4c63-8d13-3e04ff5fd849"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-6",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q6",
+        "itemBody": "<p>Zimt AG uses the FIFO method, and Nutmeg Inc. uses the LIFO method. Compared to the cost of replacing the inventory, during periods of rising prices the ending inventory balance reported by:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Nutmeg uses the LIFO method, and thus some of the inventory on  the \nbalance sheet was purchased at a (no longer available) lower price. Zimt uses  the \nFIFO method, so the carrying value on the balance sheet represents the most  \nrecently purchased units and thus approximates the current replacement cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "40358c04-d2bb-4964-997d-29fea4285e71",
+              "itemBody": "<p>A. Zimt is too high.</p>",
+              "position": 1
+            },
+            {
+              "id": "94d795aa-cbc1-4804-9d69-6a80360e10d7",
+              "itemBody": "<p>B. Nutmeg is too low.</p>",
+              "position": 2
+            },
+            {
+              "id": "68b3e4ec-e366-4d3f-ba39-c0bcc00b82e6",
+              "itemBody": "<p>C. Nutmeg is too high. Analysis of Inventories Faculty: Page 2 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "94d795aa-cbc1-4804-9d69-6a80360e10d7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-7",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q7",
+        "itemBody": "<p>Like many technology companies, TechnoTools operates in an environment of declining prices. Its reported profits will tend to be highest if it accounts for inventory using the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In a declining price environment, the newest inventory is the lowest-cost \ninventory. In such circumstances, using the LIFO method (selling the newer, cheaper \ninventory first) will result in lower cost of sales and higher profit.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "61ebaded-ec96-4c4d-84ee-862acc5c158f",
+              "itemBody": "<p>A. FIFO method.</p>",
+              "position": 1
+            },
+            {
+              "id": "e7c5247f-f90c-4051-abd3-aa3c2260adab",
+              "itemBody": "<p>B. LIFO method.</p>",
+              "position": 2
+            },
+            {
+              "id": "2f90c2de-f68f-4b37-b00c-b6f70a893821",
+              "itemBody": "<p>C. Weighted average cost method.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e7c5247f-f90c-4051-abd3-aa3c2260adab"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-8",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q8",
+        "itemBody": "<p>Compared to using the weighted average cost method to account for inventory, during a period in which prices are generally rising, the current ratio of a company using the FIFO method would most likely be:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In a rising price environment, inventory balances will be higher for  the \ncompany using the FIFO method. Accounts payable are based on amounts  due to \nsuppliers, not the amounts accrued based on inventory accounting.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ae9529b9-4a28-4082-941d-4caa463a68e4",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "30d62e1e-a323-4511-baf3-3f5b3ce55713",
+              "itemBody": "<p>B. higher.</p>",
+              "position": 2
+            },
+            {
+              "id": "c95b9e14-1ad6-4212-ba58-5af6f4acbc3d",
+              "itemBody": "<p>C. dependent upon the interaction with accounts payable.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "30d62e1e-a323-4511-baf3-3f5b3ce55713"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-9",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q9",
+        "itemBody": "<p>Zimt AG wrote down the value of its inventory in 2017 and reversed the write-down in 2018. Compared to the ratios that would have been calculated if the write-down had never occurred, Zimt’s reported that the 2017:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The write -down reduced the value of inventory and increased cost  of \nsales in 2017. The higher numerator and lower denominator mean that the  inventory \nturnover ratio as reported was too high. Gross margin and the current  ratio were \nboth too low. \n \nAnalysis of Inventories \nFaculty:                                                                         Page 19 of 28</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c5783b47-051f-4da4-9f43-cd8e9c534283",
+              "itemBody": "<p>A. current ratio was too high.</p>",
+              "position": 1
+            },
+            {
+              "id": "1b45b950-3d5d-4871-b743-0938fe5e0946",
+              "itemBody": "<p>B. gross margin was too high.</p>",
+              "position": 2
+            },
+            {
+              "id": "6c85ace4-39c7-4359-8d64-92c74e23f72f",
+              "itemBody": "<p>C. inventory turnover was too high.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6c85ace4-39c7-4359-8d64-92c74e23f72f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-10",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q10",
+        "itemBody": "<p>Zimt AG wrote down the value of its inventory in 2017 and reversed the write-down in 2018. Compared to the results the company would have reported if the write-down had never occurred, Zimt’s reported that the 2018:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The reversal of the write-down shifted the cost of sales from 2018 to \n2017. The 2017 cost of sales was higher because of the write -down, and the 2018  \ncost of sales was lower because of the reversal of the write -down. As a result, the \nreported 2018 profits were overstated. Inventory balance in 2018 is the same  \nbecause the write -down and reversal cancel each other out. Cash flow from \noperations is not affected by the non-cash write-down, but the higher profits in 2018 \nlikely resulted in higher taxes and thus lower cash flow from operations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b04344a1-3a40-4619-bf74-f5f5e3eb6c60",
+              "itemBody": "<p>A. profit was overstated.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1d43934-8e39-4181-b8f8-e78dcc28e5f8",
+              "itemBody": "<p>B. cash flow from operations was overstated.</p>",
+              "position": 2
+            },
+            {
+              "id": "4df0c078-ee65-41fd-8522-f2b33bd6fa2b",
+              "itemBody": "<p>C. year-end inventory balance was overstated.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b04344a1-3a40-4619-bf74-f5f5e3eb6c60"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-11",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q11",
+        "itemBody": "<p>Compared to a company that uses the FIFO method, during periods of rising prices a company that uses the LIFO method will most likely appear more:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. LIFO will result in lower inventory and higher cost of sales. Gross margin \n(a profitability ratio) will be lower, the current ratio (a liquidity ratio) will  be lower, \nand inventory turnover (an efficiency ratio) will be higher.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "44f0c0ba-4527-42fe-ab59-aed97eecdb00",
+              "itemBody": "<p>A. liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "e38b7f20-c53e-4c33-b27e-d3938c367494",
+              "itemBody": "<p>B. efficient.</p>",
+              "position": 2
+            },
+            {
+              "id": "fc0cab7e-1920-4092-afc5-a2516393d736",
+              "itemBody": "<p>C. profitable.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e38b7f20-c53e-4c33-b27e-d3938c367494"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-12",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q12",
+        "itemBody": "<p>Nutmeg, Inc. uses the LIFO method to account for inventory. During years in which inventory unit costs are generally rising and in which the company purchases more inventory than it sells to customers, its reported gross profit margin will most likely be:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. LIFO will result in lower inventory and higher cost of sales in periods of \nrising costs compared to FIFO. Consequently, LIFO results in a lower  gross profit \nmargin than FIFO.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "49354784-5c4d-4c8b-9b03-9aa1746bf6c9",
+              "itemBody": "<p>A. lower than it would be if the company used the FIFO method.</p>",
+              "position": 1
+            },
+            {
+              "id": "9d3e1b4f-0fe1-4c4b-81a5-6734d07c23cd",
+              "itemBody": "<p>B. higher than it would be if the company used the FIFO method.</p>",
+              "position": 2
+            },
+            {
+              "id": "33118828-e4ff-421e-bf89-02e0258310ec",
+              "itemBody": "<p>C. about the same as it would be if the company used the FIFO method. Analysis of Inventories Faculty: Page 3 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "49354784-5c4d-4c8b-9b03-9aa1746bf6c9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-13",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q13",
+        "itemBody": "<p>Compared to using the FIFO method to account for inventory, during periods of rising prices, a company using the LIFO method is most likely to report higher:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. During periods of rising prices, using the LIFO method increases  cost \nof sales relative to the FIFO method, thus reducing profits and the taxes thereon.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1ba7b053-de69-441f-be4e-352d659cabf2",
+              "itemBody": "<p>A. net income.</p>",
+              "position": 1
+            },
+            {
+              "id": "d8f8baed-80c7-45ba-8817-f582011806fe",
+              "itemBody": "<p>B. cost of sales.</p>",
+              "position": 2
+            },
+            {
+              "id": "5fd01717-62c2-4c31-92df-21b305c74ee9",
+              "itemBody": "<p>C. income taxes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d8f8baed-80c7-45ba-8817-f582011806fe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-14",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q14",
+        "itemBody": "<p>Carey Company reports under US GAAP, whereas Jonathan Company reports under IFRS. It is least likely that:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. US GAAP does not permit inventory write-downs to be reversed.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "42834d11-5edd-4e00-8c72-1cdb5cc3e13a",
+              "itemBody": "<p>A. Carey has reversed an inventory write-down.</p>",
+              "position": 1
+            },
+            {
+              "id": "7de023e8-4936-422d-9688-4445744e0ea1",
+              "itemBody": "<p>B. Jonathan has reversed an inventory write-down.</p>",
+              "position": 2
+            },
+            {
+              "id": "7923be30-9abb-43c1-b591-4a2c8f749da5",
+              "itemBody": "<p>C. Jonathan and Carey both use the FIFO inventory accounting method. The following information relates to questions 15-21 Hans Annan, CFA, a food and beverage analyst, is reviewing Century Chocolate’s inventory policies as part of his evaluation of the company. Century Chocolate, based in Switzerland, manufactures chocolate products and purchases and resells other confectionery products to complement its chocolate line. Annan visited Century Chocolate’s manufacturing facility last year. He learned that cacao beans, imported from Brazil, represent the most significant raw material and that the work -in-progress inventory consists primarily of three items: roasted cacao beans, a thick paste produced from the beans (called chocolate liquor), and a sweetened mixture that needs to be “conched” to produce chocolate. On the tour, Annan learned that the conching process ranges from a few hours for lower-quality products to six days for the highest -quality chocolates. While there, Annan saw the facility’s climate -controlled area where manufactured finished products (cocoa and chocolate) and purchased finished goods are stored prior to shipment to customers. After touring the facility, Annan had a discussion with Century Chocolate’s CFO regarding the types of costs that were included in each inventory category. Annan has asked his assistant, Joanna Kern, to gather some preliminary information regarding Century Chocolate’s financial statements and inventories. He also asked Kern to calculate the inventory turnover ratios for Century Chocolate and another chocolate manufacturer for the most recent five years. Annan does not know Century Chocolate’s most direct competitor, so he asks Kern to do some research and select the most appropriate company for the ratio comparison. Kern reports back that Century Chocolate prepares its financial statements in accordance with IFRS. She tells Annan that the policy footnote states that raw materials and purchased finished goods are valued at purchase cost, whereas work in progress and manufactured finished goods are valued at production cost. Raw material inventories and purchased finished goods are accounted for using the FIFO method, and the weighted average cost method is used for other inventories. An allowance is established when the net realizable value of any inventory item is lower than the value calculated previously. Analysis of Inventories Faculty: Page 4 of 28 Kern provides Annan with the selected financial statements and inventory data for Century Chocolate. The ratio exhibit Kern prepared compares Century Chocolate’s inventory turnover ratios to those of Gordon’s Goodies, a US -based com pany. Annan returns the exhibit and tells Kern to select a different competitor that reports using IFRS rather than US GAAP. During this initial review, Annan asks Kern why she has not indicated whether Century Chocolate uses a perpetual or a periodic inventory system. Kern replies that she learned that Century Chocolate uses a perpetual system but did not include this information in her report because inventory values would be the same under either a perpetual or periodic inventory system. Annan tells Kern she is wrong and directs her to research the matter. While Kern is revising her analysis, Annan reviews the most recent month’s Cocoa Market Review from the International Cocoa Organization. He is drawn to the statement that “the ICCO daily price, averaging prices in both futures markets, reached a 29-year high in US dollar terms and a 23 -year high in special drawing rights (SDRs) terms (the SDR unit comprises a basket of major currencies used in international trade: US dollar, euro, pound sterling, and yen).” Annan makes a note that he will need to factor th e potential continuation of this trend into his analysis. Exhibit 1: Century Chocolate Financial Statements</p>",
+              "position": 3
+            },
+            {
+              "id": "45561f18-207f-4a7b-9036-ee5c9f9ddb22",
+              "itemBody": "<p>A. Century Chocolate Income Statements (millions of Swiss francs) For Years Ended 31 December 2018 2017 Sales 95,290 93,248 Cost of sales –41,043 -39,047 Marketing, administration, and other expenses –35,318 –42,481 Profit before taxes 18,929 11,720 Taxes –3,283 –2,962 Profit for the period 15,646 8,758</p>",
+              "position": 1
+            },
+            {
+              "id": "505a99ed-93f1-498b-a191-2eac84775908",
+              "itemBody": "<p>B. Century Chocolate Balance Sheets (millions of Swiss francs) 31 December 2018 2017 Cash, cash equivalents, and short-term investments 6,190 8,252 Trade receivables and related accounts, net 11,654 12,910 Inventories, net 8,100 7,039 Other current assets 2,709 2,812 Total current assets 28,653 31,013 Property, plant, and equipment, net 18,291 19,130 Other non-current assets 45,144 49,875 Total assets 92,088 1,00,018 Trade and other payables 10,931 12,299 Other current liabilities 17,873 25,265 Analysis of Inventories Faculty: Page 5 of 28 Total current liabilities 28,804 37,564 Non-current liabilities 15,672 14,963 Total liabilities 44,476 52,527 Equity Share capital 332 341 Retained earnings and other reserves 47,280 47,150 Total equity 47,612 47,491 Total liabilities and shareholders’ equity 92,088 1,00,018</p>",
+              "position": 2
+            },
+            {
+              "id": "56eff045-8134-4392-90ac-6ec4084ea600",
+              "itemBody": "<p>C. Century Chocolate Supplementary Footnote Disclosures: Inventories (millions of Swiss francs) 31-Dec 2018 2017 Raw Materials 2,154 1,585 Work in Progress 1,061 1,027 Finished Goods 5,116 4,665 Total inventories before allowance 8,331 7,277 Allowance for write-downs to net realizable value –231 –238 Total inventories net of allowance 8,100 7,039 D. Century Chocolate Inventory Record for Purchased Lemon Drops Per Unit Amount (Swiss francs) Date Cartons Beginning inventory 100 22 04-Feb-18 Purchase 40 25 03-Apr-18 Sale 50 32 23-Jul-18 Purchase 70 30 16-Aug-18 Sale 100 32 09-Sep-18 Sale 35 32 15-Nov-18 Purchase 100 28 E. Century Chocolate Net Realizable Value Information for Black Licorice Jelly Beans 2018 2017 FIFO cost of inventory at 31 December (Swiss francs) 3,14,890 3,74,870 Ending inventory at 31 December (kilograms) 77,750 92,560 Cost per unit (Swiss francs) 4.05 4.05 Net Realizable Value (Swiss francs per kilograms) 4.2 3.95 Analysis of Inventories Faculty: Page 6 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "45561f18-207f-4a7b-9036-ee5c9f9ddb22"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-15",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q15",
+        "itemBody": "<p>The costs least likely to be included by the CFO as inventory are:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The storage costs for inventory awaiting shipment to customers are not \ncosts of purchase, costs of conversion, or other costs incurred in bringing  the \ninventories to their present location and condition and are not included in  inventory. \nThe storage costs for the chocolate liquor occur during the production  process and \nare thus part of the conversion costs. Excise taxes are part of the purchase cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0b7c16ad-64c5-4cf5-8d28-967da4a04ee5",
+              "itemBody": "<p>A. storage costs for the chocolate liquor.</p>",
+              "position": 1
+            },
+            {
+              "id": "7141000a-b8bf-4695-a661-28abed8ec6e3",
+              "itemBody": "<p>B. excise taxes paid to the government of Brazil for the cacao beans.</p>",
+              "position": 2
+            },
+            {
+              "id": "35ba0d24-ba24-4937-b37f-0eae6f1fc9eb",
+              "itemBody": "<p>C. storage costs for chocolate and purchased finished goods awaiting shipment to customers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "35ba0d24-ba24-4937-b37f-0eae6f1fc9eb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-16",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q16",
+        "itemBody": "<p>What is the most likely justification for Century Chocolate’s choice of inventory valuation method for its purchased finished goods?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The carrying amount of inventories under FIFO will more closely reflect \ncurrent replacement values because inventories are assumed to consist  of the most \nrecently purchased items. FIFO is an acceptable, but not preferred,  method under \nIFRS. Weighted average cost, not FIFO, is the cost formula that allocates the same \nper unit cost to both cost of sales and inventory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ec4ebc83-0ae8-4bf9-84ea-e0d680c1d8f2",
+              "itemBody": "<p>A. It is the preferred method under IFRS.</p>",
+              "position": 1
+            },
+            {
+              "id": "80b900b6-7051-4c7e-9325-21f915382fd3",
+              "itemBody": "<p>B. It allocates the same per unit cost to both cost of sales and inventory.</p>",
+              "position": 2
+            },
+            {
+              "id": "9db58d87-2ea1-4177-8205-9d400645fd14",
+              "itemBody": "<p>C. Ending inventory reflects the cost of goods purchased most recently.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9db58d87-2ea1-4177-8205-9d400645fd14"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-17",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q17",
+        "itemBody": "<p>In Kern’s comparative ratio analysis, the 2018 inventory turnover ratio for Century Chocolate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Inventory turnover = Cost of sales/Average inventory = 41,043/7,569.5 \n= 5.42. Average inventory is (8,100 + 7,039)/2 = 7,569.5.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aa339d98-9338-42ba-8753-59a50e7443e2",
+              "itemBody": "<p>A. 5.07.</p>",
+              "position": 1
+            },
+            {
+              "id": "8dd1dae9-bbdb-4869-9ad5-9fac56e9df45",
+              "itemBody": "<p>B. 5.42.</p>",
+              "position": 2
+            },
+            {
+              "id": "dcc156e8-b2dc-4c30-aafa-b880218a286a",
+              "itemBody": "<p>C. 5.55.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8dd1dae9-bbdb-4869-9ad5-9fac56e9df45"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-18",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q18",
+        "itemBody": "<p>The most accurate statement regarding Annan’s reasoning for requiring Kern to select a competitor that reports under IFRS for comparative purposes is that under US GAAP:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. For comparative purposes, the choice of a competitor that reports under \nIFRS is requested because LIFO is permitted under US GAAP.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "06110d60-f6ec-47c9-8b23-066ea6b7d5b9",
+              "itemBody": "<p>A. fair values are used to value inventory.</p>",
+              "position": 1
+            },
+            {
+              "id": "40f79f73-dd6a-4423-8804-45965bde5246",
+              "itemBody": "<p>B. the LIFO method is permitted to value inventory.</p>",
+              "position": 2
+            },
+            {
+              "id": "b58e0d11-065b-474e-a4d1-1fd674085b78",
+              "itemBody": "<p>C. the specific identification method is permitted to value inventory.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "40f79f73-dd6a-4423-8804-45965bde5246"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-19",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q19",
+        "itemBody": "<p>Annan’s statement regarding the perpetual and periodic inventory systems is most significant when which of the following costing systems is used?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The carrying amount of the ending inventory may differ because the  \nperpetual system will apply LIFO continuously throughout the year, liquidating layers \nas sales are made. Under the periodic system, the sales will start from the last layer \nin the year. Under FIFO, the sales will occur from the same layers regardless  of \nwhether a perpetual or periodic system is used. Specific identification identifies the \nAnalysis of Inventories \nFaculty:                                                                         Page 20 of 28 \n \nactual products sold and remaining in inventory, and there will be no difference under \na perpetual or periodic system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "df61ea65-18e7-4e46-931f-e66fd174eb09",
+              "itemBody": "<p>A. LIFO</p>",
+              "position": 1
+            },
+            {
+              "id": "92096b43-2c2c-49a1-beb3-21fbde63c0a7",
+              "itemBody": "<p>B. FIFO</p>",
+              "position": 2
+            },
+            {
+              "id": "babaf0f9-b486-4c29-b43f-09834b2cce23",
+              "itemBody": "<p>C. Specific identification</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "df61ea65-18e7-4e46-931f-e66fd174eb09"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-20",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q20",
+        "itemBody": "<p>Ignoring any tax effect, the change in net realizable value of the black licorice jelly beans from 2017 to 2018 will most likely result in:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Gross profit will most likely increase by CHF7,775. The net realizable  \nvalue has increased and now exceeds the cost. The write -down from 2017  can be \nreversed. The write-down in 2017 was 9,256 [92,560 × (4.05 – 3.95)]. IFRS require \nthe reversal of any write -downs for a subsequent increase in value  of inventory \npreviously written down. The reversal is limited to the lower of the  subsequent \nincrease or the original write -down. Only 77,750 kilograms remain  in inventory; the \nreversal is 77,750 × (4.05 – 3.95) = 7,775. The amount of any reversal  of a write -\ndown is recognized as a reduction in cost of sales. This reduction results in an increase \nin gross profit.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fdb1b709-bec4-4d6d-a500-601b0203820f",
+              "itemBody": "<p>A. an increase in gross profit of CHF7,775.</p>",
+              "position": 1
+            },
+            {
+              "id": "76f2b001-f485-4d30-93f0-549d46432bd2",
+              "itemBody": "<p>B. an increase in gross profit of CHF11,670.</p>",
+              "position": 2
+            },
+            {
+              "id": "33f551c3-695b-4087-a59c-84f0902e7b30",
+              "itemBody": "<p>C. no impact on cost of sales because under IFRS, write-downs cannot be reversed.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fdb1b709-bec4-4d6d-a500-601b0203820f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-21",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q21",
+        "itemBody": "<p>If the trend noted in the ICCO report continues and Century Chocolate plans to maintain constant or increasing inventory quantities, the most likely impact on Century Chocolate’s financial statements related to its raw materials inventory will be:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Using the FIFO method to value inventories when prices are rising  will \nallocate more of the cost of goods available for sale to ending inventories (the most \nrecent purchases, which are at higher costs, are assumed to remain in inventory) and \nless to cost of sales (the oldest purchases, which are at lower costs, are assumed to \nbe sold first).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c719c38c-2cc6-4be2-ac0a-39b5f1291095",
+              "itemBody": "<p>A. a cost of sales that more closely reflects current replacement values.</p>",
+              "position": 1
+            },
+            {
+              "id": "e02e4b47-2b16-4e98-9c67-517ca851ef23",
+              "itemBody": "<p>B. a higher allocation of the total cost of goods available for sale to cost of sales.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7036008-2783-44e0-ab3e-084e434125e5",
+              "itemBody": "<p>C. a higher allocation of the total cost of goods available for sale to ending inventory. Analysis of Inventories Faculty: Page 7 of 28 The following information relates to questions 22-27 Robert Groff, an equity analyst, is preparing a report on Crux Corp. As part of his report, Groff makes a comparative financial analysis between Crux and its two main competitors, Rolby Corp. and Mikko Inc. Crux and Mikko report under US GAAP and Rolby reports under IFRS. Groff gathers information on Crux, Rolby, and Mikko. The relevant financial information on the three companies, and on the industry, is provided in Exhibit. Exhibit 1: Selected Financial Information (millions of US dollars)</p>",
+              "position": 3
+            },
+            {
+              "id": "6c129afa-624f-4ed2-be18-71080e7264ed",
+              "itemBody": "<p>A. Balance Sheets and Income Statements Crux Rolby Mikko Inventory valuation method LIFO FIFO LIFO From the Balance Sheets As of 31 December 2018 Inventory, gross 480 620 510 Valuation allowance 20 25 14 Inventory, net 460 595 496 Total debt 1,122 850 732 Total shareholders’ equity 2,543 2,403 2,091 As of 31 December 2017 Inventory, gross 465 602 401 Valuation allowance 23 15 12 Inventory, net 442 587 389 From the Income Statements Year Ended 31 December 2018 Revenues 4,609 5,442 3,503 Cost of goods solda 3,120 3,782 2,550 Net income 229 327 205 aCharges included in cost of goods sold for inventory write- downs* 13 15 15</p>",
+              "position": 1
+            },
+            {
+              "id": "d68b48cc-289d-44ca-946a-f740c002be8a",
+              "itemBody": "<p>B. LIFO Reserve LIFO Reserve As of 31 December 2018 55 0 77 As of 31 December 2017 72 0 50 As of 31 December 2016 96 0 43 Tax Rate Effective tax rate 30% 30% 30%</p>",
+              "position": 2
+            },
+            {
+              "id": "cfc75695-01bf-4b37-9124-4b91d8f20abc",
+              "itemBody": "<p>C. Industry Information 2018 2017 2016 Raw materials price index 112 105 100 Finished goods price index 114 106 100 Analysis of Inventories Faculty: Page 8 of 28 * This does not match the change in the inventory valuation allowance because the valuation allowance is reduced to reflect the valuation allowance attached to items sold and increased for additional necessary write-downs. To compare the financial performance of the three companies, Groff decides to convert LIFO figures into FIFO figures, and adjust figures to assume no valuation allowance is recognized by any company.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cfc75695-01bf-4b37-9124-4b91d8f20abc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-22",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q22",
+        "itemBody": "<p>Crux’s inventory turnover ratio computed as of 31 December 2018, after the adjustments suggested by Groff, is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Crux’s adjusted inventory turnover ratio must be computed using  cost \nof goods sold (COGS) under FIFO and excluding charges for increases in  valuation \nallowances. \n \nCOGS (adjusted) = COGS (LIFO method) – Charges included in cost of goods sold for \ninventory write-downs – Change in LIFO reserve \n= USD3,120 million – 13 million – (55 million – 72 million) \n= USD3,124 million \n \nNote: Minus the change in LIFO reserve is equivalent to plus the decrease in  LIFO \nreserve. The adjusted inventory turnover ratio is computed using average  inventory \nunder FIFO. \nEnding inventory (FIFO) = Ending inventory (LIFO) + LIFO reserve \nEnding inventory 2018 (FIFO) = USD480 + 55 = USD535 \nEnding inventory 2017 (FIFO) = USD465 + 72 = USD537 \nAverage inventory = (USD535 + 537)/2 = USD536 \n \nTherefore, adjusted inventory turnover ratio equals: \nInventory turnover ratio = COGS/Average inventory = USD3,124/USD536 = 5.83</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c3fdb898-86c1-440f-95a5-bc2f2e54c4e3",
+              "itemBody": "<p>A. 5.67.</p>",
+              "position": 1
+            },
+            {
+              "id": "1f89e7e2-7866-4acb-be1e-570f46d3260d",
+              "itemBody": "<p>B. 5.83.</p>",
+              "position": 2
+            },
+            {
+              "id": "e5ff82ec-e6fc-4ce9-a8b3-8a9c709fed4a",
+              "itemBody": "<p>C. 6.13.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1f89e7e2-7866-4acb-be1e-570f46d3260d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-23",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q23",
+        "itemBody": "<p>Rolby’s net profit margin for the year ended 31 December 2018, after the adjustments suggested by Groff, is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Rolby’s adjusted net profit margin must be computed using net  income \n(NI) under FIFO and excluding charges for increases in valuation allowances. \nNI (adjusted) = NI (FIFO method) + Charges, included in cost of goods sold for \ninventory write-downs, after tax \n= USD327 million + 15 million × (1 – 30%) \n= USD337.5 million \nAnalysis of Inventories \nFaculty:                                                                         Page 21 of 28 \n \nTherefore, adjusted net profit margin equals: \nNet profit margin = NI/Revenues = USD337.5/USD5,442 = 6.20%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "beed8129-e99a-40aa-af2b-787c8daf3944",
+              "itemBody": "<p>A. 6.01 percent.</p>",
+              "position": 1
+            },
+            {
+              "id": "e840a89e-ca3e-4d86-b758-a7c84f74277e",
+              "itemBody": "<p>B. 6.20 percent.</p>",
+              "position": 2
+            },
+            {
+              "id": "28a9495f-8349-4842-a2f8-152c89c4c6b0",
+              "itemBody": "<p>C. 6.28 percent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e840a89e-ca3e-4d86-b758-a7c84f74277e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-24",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q24",
+        "itemBody": "<p>Compared with its unadjusted debt -to-equity ratio, Mikko’s debt -to-equity ratio as of 31 December 2018, after the adjustments suggested by Groff, is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Mikko’s adjusted debt -to-equity ratio is lower because the debt  \n(numerator) is unchanged and the adjusted shareholders’ equity (denominator)  is \nhigher. The adjusted shareholders’ equity corresponds to shareholders’ equity under \nFIFO, excluding charges for increases in valuation allowances. Therefore,  adjusted \nshareholders’ equity is higher than reported (unadjusted) shareholders’ equity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7dab4e5b-0d1a-4ed7-8e3e-4c74b7ee2e1c",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "1e15f336-2681-47ec-85f9-2ba3ba082670",
+              "itemBody": "<p>B. higher.</p>",
+              "position": 2
+            },
+            {
+              "id": "5c830ffe-3ea5-4894-8573-b9bbebc1d050",
+              "itemBody": "<p>C. the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7dab4e5b-0d1a-4ed7-8e3e-4c74b7ee2e1c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-25",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q25",
+        "itemBody": "<p>Which company’s gross profit margin would best reflect current costs of the industry?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Mikko’s and Crux’s gross margin ratios would better reflect the current \ngross margin of the industry than Rolby because both use LIFO. LIFO recognizes as \ncost of goods sold the cost of the most recently purchased units; therefore, it better \nreflects replacement cost. However, Mikko’s gross margin  ratio best reflects the \ncurrent gross margin of the industry because Crux’s LIFO reserve is decreasing. This \ncould reflect a LIFO liquidation by Crux which would distort gross profit margin.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3806a3cb-5ed9-4aee-bb81-be9f43f75da3",
+              "itemBody": "<p>A. Crux.</p>",
+              "position": 1
+            },
+            {
+              "id": "55e4db9a-e75c-4b03-a904-3d956afe99bd",
+              "itemBody": "<p>B. Rolby.</p>",
+              "position": 2
+            },
+            {
+              "id": "5b02fc6d-1219-4503-b9e9-365a43e900ba",
+              "itemBody": "<p>C. Mikko.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5b02fc6d-1219-4503-b9e9-365a43e900ba"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-26",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q26",
+        "itemBody": "<p>Would Rolby’s valuation method show a higher gross profit margin than Crux’s under an inflationary, a deflationary, or a stable price scenario?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The FIFO method shows a higher gross profit margin than the LIFO  \nmethod in an inflationary scenario, because FIFO allocates to cost of goods sold the \ncost of the oldest units available for sale. In an inflationary environment these units \nare the ones with the lowest cost.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f0f9e94e-5032-403a-9e96-ad9cc0459578",
+              "itemBody": "<p>A. Stable</p>",
+              "position": 1
+            },
+            {
+              "id": "fb0d6bae-645e-4849-8e48-60e6c7af314f",
+              "itemBody": "<p>B. Inflationary</p>",
+              "position": 2
+            },
+            {
+              "id": "8f094445-4cee-49f6-8485-f72902a1fef0",
+              "itemBody": "<p>C. Deflationary</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fb0d6bae-645e-4849-8e48-60e6c7af314f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-27",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q27",
+        "itemBody": "<p>Which group of ratios usually appears more favorable with an inventory write-down?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. An inventory write-down increases the cost of sales and reduces profit \nand reduces the carrying value of inventory and assets. This has a negative effect on \nprofitability and solvency ratios. However, activity ratios appear positively affected \nby a write -down because the asset base, whether total assets or  inventory \n(denominator), is reduced. The numerator, sales, in total asset turnover is unchanged, \nand the numerator, cost of sales, in inventory turnover is increased.  Thus, turnover \nratios are higher and appear more favorable as the result of the write-down.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e1da7aab-9bd9-4632-b084-3411b121c9ae",
+              "itemBody": "<p>A. Activity ratios</p>",
+              "position": 1
+            },
+            {
+              "id": "e2af0c02-d8e7-41f3-8ae4-7e966575a358",
+              "itemBody": "<p>B. Solvency ratios</p>",
+              "position": 2
+            },
+            {
+              "id": "4945fdd5-a5ea-4076-a458-0d3f3c556e3f",
+              "itemBody": "<p>C. Profitability ratios Analysis of Inventories Faculty: Page 9 of 28 The following information relates to questions 28-37 ZP Corporation is a (hypothetical) multinational corporation headquartered in Japan that trades on numerous stock exchanges. ZP prepares its consolidated financial statements in accordance with US GAAP. Excerpts from ZP’s 2018 annual report are presented below. Exhibit 1: ZP Corporation Financial Statements</p>",
+              "position": 3
+            },
+            {
+              "id": "2475aa0d-44ea-4320-ad8e-f3ff6d3262a8",
+              "itemBody": "<p>A. Consolidated Balance Sheets (millions in Japanese yen) 31-Dec 2017 2018 Current Assets Cash and cash equivalents JPY542,849 JPY814,760 ⁝ ⁝ ⁝ Inventories 6,08,572 4,86,465 ⁝ ⁝ ⁝ Total current assets 40,28,742 37,66,309 ⁝ ⁝ ⁝ Total assets JPY10,819,440 JPY9,687,346 ⁝ ⁝ ⁝ Total current liabilities JPY3,980,247 JPY3,529,765 ⁝ ⁝ ⁝ Total long-term liabilities 26,63,795 26,24,002 Minority interest in consolidated subsidiaries 2,18,889 1,79,843 Total shareholders’ equity 39,56,509 33,53,736 Total liabilities and shareholders’ equity JPY10,819,440 JPY9,687,346</p>",
+              "position": 1
+            },
+            {
+              "id": "eb58b356-c190-490d-bae4-670d117fb641",
+              "itemBody": "<p>B. Consolidated Statements of Income (millions in Japanese yen) For the years ended 31 December 2016 2017 2018 Net revenues Sales of products JPY7,556,699 JPY8,273,503 JPY6,391,240 Financing operations 4,25,998 4,89,577 4,51,950 79,82,697 87,63,080 68,43,190 Cost and expenses Cost of products sold 61,18,742 68,17,446 58,22,805 Cost of financing operations 2,90,713 3,56,005 3,29,128 Selling, general and administrative 8,27,005 8,32,837 8,44,927 ⁝ ⁝ ⁝ ⁝ Operating income (loss) 7,46,237 7,56,792 –153,670 ⁝ ⁝ ⁝ ⁝ Net income JPY548,011 JPY572,626 –JPY145,646 Analysis of Inventories Faculty: Page 10 of 28 Exhibit 2: Excerpt from the 2018 Annual Report, Selected Disclosures Management Discussion and Analysis of Financial Condition and Results of Operations Cost reduction efforts were offset by increased prices of raw materials, other production materials and parts. Inventories decreased during fiscal 2018 by JPY122.1 billion, or 20.1 percent, to JPY486.5 billion. This reflects the impacts of decreased sales volumes and fluctuations in foreign currency translation rates. Management and Corporate Information Risk Factors Industry and Business Risks The worldwide market for our products is highly competitive. ZP faces intense competition from other manufacturers in the respective markets in which it operates. Competition has intensified due to the worldwide deterioration in economic conditions. In addition, competition is likely to further intensify because of continuing globalization, possibly resulting in industry reorganization. Factors affecting competition include product quality and features, the amount of time required for innovation and development, pricing, reliability, safety, economy in use, customer service and financing terms. Increased competition may lead to lower unit sales and excess production capacity and excess inventory. This may result in a further downward price pressure. ZP’s ability to adequately respond to the recent rapid changes in the industry and to maintain its competitiveness will be fundamental to its future success in maintaining and expanding its market share in existing and new markets. Notes to Consolidated Financial Statements</p>",
+              "position": 2
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2475aa0d-44ea-4320-ad8e-f3ff6d3262a8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-28",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q28",
+        "itemBody": "<p>Summary of significant accounting policies: Inventories. Inventories are valued at cost, not in excess of market. Cost is determined on the “average-cost” basis, except for the cost of finished products carried by certain subsidiary companies, which is determined on a last -in, first -out (LIFO) basis. Inventories valued on the LIFO basis totaled JPY94,578 million and JPY50,037 million at 31 December 2017 and 2018, respectively. Had the FIFO basis been used for those companies using the LIFO basis, inventories would have been JPY10,120 million and JPY19,660 million higher than reported at 31 December 2017 and 2018, respectively.</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Under IFRS, the reversal of write -downs is required if net realizable  \nvalue increases. The inventory will be reported on the balance sheet at GBP1,000,000. \nThe inventory is reported at the lower of cost or net realizable value.</p>"
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-29",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q29",
+        "itemBody": "<p>Inventories: Inventories consist of the following: 31 December (millions in Japanese yen) 2017 2018 Finished goods JPY 403,856 JPY 291,977 Raw materials 99,869 85,966 Work in process 79,979 83,890 Supplies and other 24,868 24,632 JPY 608,572 JPY 486,465 Analysis of Inventories Faculty: Page 11 of 28</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The write -down reduced the value of inventory and increased cost  of \nsales in 2017. The higher numerator and lower denominator mean that the  inventory \nturnover ratio as reported was too high. Gross margin and the current  ratio were \nboth too low. \n \nAnalysis of Inventories \nFaculty:                                                                         Page 19 of 28</p>"
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-30",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q30",
+        "itemBody": "<p>The management discussion and analysis (MD&A) indicated that the prices of raw material, other production materials, and parts increased. Based on the inventory valuation methods described in Note 2, which inventory classification would least accurately reflect current prices?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Finished goods least accurately reflect current prices because some of \nthe finished goods are valued under the last -in, first-out (“LIFO”) basis. The costs \nof the newest units available for sale are allocated to cost of goods sold, leaving the \noldest units (at lower costs) in inventory. ZP values raw materials and work in process \nusing the weighted average cost method. While not fully reflecting  current prices, \nsome inflationary effect will be included in the inventory values.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "89ee5d2f-f0f0-4515-9838-6f0b360c3528",
+              "itemBody": "<p>A. Raw materials</p>",
+              "position": 1
+            },
+            {
+              "id": "017bd172-0d78-470a-8637-20da35cb66b6",
+              "itemBody": "<p>B. Finished goods</p>",
+              "position": 2
+            },
+            {
+              "id": "06972783-12d2-4501-af31-e912cac98aaa",
+              "itemBody": "<p>C. Work in process</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "017bd172-0d78-470a-8637-20da35cb66b6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-31",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q31",
+        "itemBody": "<p>According to Exhibit, the 2018 Annual Report, if the company had used the FIFO inventory valuation method instead of the LIFO inventory valuation method for a portion of its inventory, the 2017 inventory value would be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. FIFO inventory = Reported inventory + LIFO reserve = JPY608,572  + \n10,120 = JPY618,692. The LIFO reserve is disclosed in Note 2 of the notes to  \nconsolidated financial statements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "00ba0123-b750-468f-b703-6a8e64b8c7a8",
+              "itemBody": "<p>A. JPY104,698 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "d368c010-c72b-442d-8e91-5c3df32944c5",
+              "itemBody": "<p>B. JPY506,125 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "39fc6142-6499-47a0-bba2-02320cc20e27",
+              "itemBody": "<p>C. JPY618,692 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "39fc6142-6499-47a0-bba2-02320cc20e27"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-32",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q32",
+        "itemBody": "<p>If ZP had prepared its financial statement in accordance with IFRS, the inventory turnover ratio (using average inventory) for 2018 would be:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The inventory turnover ratio would be lower. The average inventory  \nwould be higher under FIFO and cost of products sold would be lower by the increase \nin LIFO reserve. LIFO is not permitted under IFRS. \n \nInventory turnover ratio = Cost of products sold ÷ Average inventory \nAnalysis of Inventories \nFaculty:                                                                         Page 22 of 28 \n \n2018 inventory turnover ratio as reported = 10.63 \n= JPY5,822,805/[(608,572 + 486,465)/2]. \n \n2018 inventory turnover ratio adjusted to FIFO as necessary = 10.34 \n= [JPY5,822,805 – (19,660 – 10,120)]/[(608,572 + 10,120 + 486,465 + 19,660)/2].</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bb9fc145-2180-4cf9-878c-28b5f0657bbb",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "03b7106a-955f-418a-8026-955b91b9e8f2",
+              "itemBody": "<p>B. higher.</p>",
+              "position": 2
+            },
+            {
+              "id": "bedf6998-60bf-40b3-bb7d-9e49a7740e75",
+              "itemBody": "<p>C. the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bb9fc145-2180-4cf9-878c-28b5f0657bbb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-33",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q33",
+        "itemBody": "<p>Inventory levels decreased from 2017 to 2018 for all of the following reasons except:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. No LIFO liquidation occurred during 2018; the LIFO reserve increased \nfrom JPY10,120 million in 2017 to JPY19,660 million in 2018. Management  stated in \nthe MD&A that the decrease in inventories reflected the impact of decreased sales \nvolumes and fluctuations in foreign currency translation rates.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3ac98574-2d79-4608-a017-2a0d7e91ae20",
+              "itemBody": "<p>A. LIFO liquidation.</p>",
+              "position": 1
+            },
+            {
+              "id": "da9b841b-2ff8-4137-908b-12a39527da41",
+              "itemBody": "<p>B. decreased sales volume.</p>",
+              "position": 2
+            },
+            {
+              "id": "dd607257-3cf0-45b5-8f3d-436683887f6e",
+              "itemBody": "<p>C. fluctuations in foreign currency translation rates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3ac98574-2d79-4608-a017-2a0d7e91ae20"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-34",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q34",
+        "itemBody": "<p>Which observation is most likely a result of looking only at the information reported in Exhibit, Note 9?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Finished goods and raw materials inventories are lower in 2018  when \ncompared to 2017. Reduced levels of inventory typically indicate an anticipated  \nbusiness contraction.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "72ee562d-3146-460b-b52b-4e2308734c1f",
+              "itemBody": "<p>A. Increased competition has led to lower unit sales.</p>",
+              "position": 1
+            },
+            {
+              "id": "1edf70c4-b699-4eef-8058-1dd5afd59220",
+              "itemBody": "<p>B. There have been significant price increases in supplies.</p>",
+              "position": 2
+            },
+            {
+              "id": "d9372800-3509-4947-8292-09715f4bd771",
+              "itemBody": "<p>C. Management expects a further downturn in sales during 2019.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d9372800-3509-4947-8292-09715f4bd771"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-35",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q35",
+        "itemBody": "<p>Exhibit, Note 2, indicates that “inventories valued on the LIFO basis totaled JPY94,578 million and JPY50,037 million at 31 December 2017 and 2018, respectively.” Based on this, the LIFO reserve should most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The decrease in LIFO inventory in 2018 would typically indicate that  \nmore inventory units were sold than produced or purchased. Accordingly, one  would \nexpect a liquidation of some of the older LIFO layers and the LIFO reserve  to \ndecrease. In actuality, the LIFO reserve increased from JPY10,120 million in 2017 to \nJPY19,660 million in 2018. This is not to be expected and is likely caused  by the \nincrease in prices of raw materials, other production materials, and parts of foreign \ncurrencies as noted in the MD&A. An analyst should seek to confirm this explanation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "83c74810-e3f2-453b-85d4-410b2423898b",
+              "itemBody": "<p>A. increase.</p>",
+              "position": 1
+            },
+            {
+              "id": "61f1e661-10f9-4d7e-8c60-2c30efd4d8f5",
+              "itemBody": "<p>B. decrease.</p>",
+              "position": 2
+            },
+            {
+              "id": "f7051ca6-4a61-4c20-87d1-d620d03ac26e",
+              "itemBody": "<p>C. remain the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "61f1e661-10f9-4d7e-8c60-2c30efd4d8f5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-36",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q36",
+        "itemBody": "<p>In Exhibi t 2, the Industry and Business Risk excerpt states that, “Increased competition may lead to lower unit sales and excess production capacity and excess inventory. This may result in a further downward price pressure.” The downward price pressure could lead to inventory that is valued above current market prices or net realizable value. Any write -downs of inventory are least likely to have a significant effect on the inventory valued using: Analysis of Inventories Faculty: Page 12 of 28</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. In a period of rising inventory costs, inventory valued using FIFO would \nhave relatively higher values compared to inventory valued using LIFO. Thus, any \nmark downs of inventory values to NRV would have the least impact on inventories \nvalued using the LIFO method as they are already conservatively valued.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1ccd3287-433a-47ec-98f9-c9364e638e27",
+              "itemBody": "<p>A. weighted average cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "8251de59-df5b-42cd-9a72-8e774193fbf1",
+              "itemBody": "<p>B. first-in, first-out (FIFO).</p>",
+              "position": 2
+            },
+            {
+              "id": "96c05685-26d1-446e-a433-550c748dd468",
+              "itemBody": "<p>C. last-in, first-out (LIFO).</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "96c05685-26d1-446e-a433-550c748dd468"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-37",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q37",
+        "itemBody": "<p>During periods of rising inventory unit costs, a company using the FIFO method rather than the LIFO method will report a lower:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. During a period of rising inventory costs, a company using the FIFO  \nmethod will allocate a lower amount to cost of goods sold and a higher amount  to \nending inventory as compared with the LIFO method. The inventory turnover ratio is \nthe ratio of cost of sales to ending inventory. A company using the FIFO method will \nproduce a lower inventory turnover ratio as compared with the LIFO  method. The \ncurrent ratio (current assets/current liabilities) and the gross profit  margin [gross \nprofit/sales = ( sales less cost of goods sold)/sales] will be higher under  the FIFO \nmethod than under the LIFO method in periods of rising inventory unit costs.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cf228404-046a-44b9-a26d-5961a918672a",
+              "itemBody": "<p>A. current ratio.</p>",
+              "position": 1
+            },
+            {
+              "id": "5ba7b274-0c5a-48a3-b05c-c4f9631dc626",
+              "itemBody": "<p>B. inventory turnover.</p>",
+              "position": 2
+            },
+            {
+              "id": "b96d8414-12e9-41f0-b758-94db00ac7952",
+              "itemBody": "<p>C. gross profit margin.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5ba7b274-0c5a-48a3-b05c-c4f9631dc626"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-38",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q38",
+        "itemBody": "<p>Compared with a company that uses the FIFO method, during a period of rising unit inventory costs, a company using the LIFO method will most likely appear more:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. During a period of rising inventory prices, a company using the  LIFO \nmethod will have higher cost of goods sold and a lower inventory compared  with a \ncompany using the FIFO method. The inventory turnover ratio will be higher for the \ncompany using the LIFO method, thus making it appear more efficient. \n \nCurrent assets and gross profit margin will be lower for the company using the LIFO \nmethod, thus making it appear to be less liquid and less profitable. \n \nAnalysis of Inventories \nFaculty:                                                                         Page 23 of 28</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4f186e05-7ad3-48d8-ba85-10c2a28ba3ba",
+              "itemBody": "<p>A. liquid.</p>",
+              "position": 1
+            },
+            {
+              "id": "98769341-4e8c-48d5-9897-b96e5dbe1c93",
+              "itemBody": "<p>B. efficient.</p>",
+              "position": 2
+            },
+            {
+              "id": "102876e6-b609-4659-ba21-5d83d1a59234",
+              "itemBody": "<p>C. profitable.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "98769341-4e8c-48d5-9897-b96e5dbe1c93"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-39",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q39",
+        "itemBody": "<p>In a period of declining inventory unit costs and constant or increasing inventory quantities, which inventory method is most likely to result in a higher debt-to-equity ratio?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In an environment of declining inventory unit costs and constant or  \nincreasing inventory quantities, FIFO (in comparison with weighted average cost  or \nLIFO) will have higher cost of goods sold and lower net income and inventory. Because \nboth inventory and net income are lower, total equity is lower, resulting  in a higher \ndebt-to-equity ratio.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "daa51604-9078-4c34-b8b3-ea9519b5931d",
+              "itemBody": "<p>A. LIFO</p>",
+              "position": 1
+            },
+            {
+              "id": "4cf66e1d-829e-4b5c-a76e-3c700db324e4",
+              "itemBody": "<p>B. FIFO</p>",
+              "position": 2
+            },
+            {
+              "id": "27e4332b-2bee-478a-b1f8-b443ba4d87ec",
+              "itemBody": "<p>C. Weighted average cost</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4cf66e1d-829e-4b5c-a76e-3c700db324e4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-40",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q40",
+        "itemBody": "<p>During its first two years of operations, a retailer has found that the cost of the inventory was quite variable. The following table shows the company’s purchases and sales during the past two years. Inventory Purchased Inventory Sold Year Units Unit Cost Units Selling Price 1 80,000 $10 75,000 $15.50 2 65,000 $8 55,000 $12.40 In Year 2, the company’s inventory turnover ratio was 3.67, using end -of-period inventory and cost of goods sold (COGS). The method that the retailer is using to value its inventory is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. At the end of Year 1, 5,000 units will remain (0 + 80,000 – 75,000) at a \nunit cost of $10. All units in the following tables are in thousands. \nUnder Weighted Average Cost Method \nYear 1 2 \nAverage cost $10 (5 × $10 + 65 × $8)/70 units = $8.14/unit \nInventory 5 × $10 = $50 15 units × $8.14/unit = $122 \nCOGS 75 × $10 = $750 55 × $8.14 = $448 \nInventory \nturnover \n--- COGS/Inventory = $448/$122 = 3.67 \n \nBecause the costs assigned to COGS and inventory are the same, only the units going \nto each need to be tracked. \n \nUnder LIFO Method \nYear 1 2 \nInventory 5 × $10 = $50 5 × $10 + 10 × $8 = $130 \nCOGS 75 × $10 = $750 55 × $8 = $440 \nInventory \nturnover \n  COGS/Inventory = $440/$130 = 3.38 \n \nIn Year 2, all of the most recent purchases at $8 will go to COGS. \nInventory will consist of the 5 units remaining from Year 1 and the 10 units remaining \nfrom Year 2 purchases. \n \nUnder FIFO Method \nYear 1 2 \nInventory 5 × $10 = $50 15 × $8 = $120 \nCOGS 75 × $10 = $750 5 × $10 + 50 × $8 = $450 \nInventory \nturnover \n--- COGS/Inventory = $450/$120 = 3.75 \n \nIn Year 2, 5 units of the remaining Year 1 inventory and 50 units of Year 2 purchases \nwill go to COGS. \nInventory will consist of the remaining 15 units from Year 2 purchases. \n \n39. A is c orrect. The company experienced a large buildup of finished goods (38% \nincrease) and a decline in both raw materials ( –11.3%) and work in process ( –4.0%). \nThis scenario suggests a decline in demand for the company’s products and a strong \nAnalysis of Inventories \nFaculty:                                                                         Page 24 of 28 \n \nlikelihood of future write-downs. Supplies grew by less than 2.0%, but sales increased \nby less than 5.0%, so it is unlikely that the price of supplies increased significantly.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f4f899be-06d5-46b5-b94a-a9b2a7e76199",
+              "itemBody": "<p>A. first-in, first-out (FIFO).</p>",
+              "position": 1
+            },
+            {
+              "id": "cd1a5a88-11ab-48e9-ab91-e21d0179d5f4",
+              "itemBody": "<p>B. last-in, first-out (LIFO).</p>",
+              "position": 2
+            },
+            {
+              "id": "1e34fe56-7356-4a4a-8996-aa307bfdd2e1",
+              "itemBody": "<p>C. weighted average cost.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1e34fe56-7356-4a4a-8996-aa307bfdd2e1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-41",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q41",
+        "itemBody": "<p>Selected financial information about a company is provided in the table: (€ millions) 2014 2013 Sales 4,448 4,246 Inventories Raw materials 125 141 Work in process 230 240 Analysis of Inventories Faculty: Page 13 of 28 (€ millions) 2014 2013 Finished goods 410 296 Supplies and other 73 72 Valuation allowance –133 –118 Total 705 631 Which of the following conclusions is most accurate based on the foregoing information?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d2656577-648d-43ae-9777-a6aa3d94a0f9",
+              "itemBody": "<p>A. The company faces a strong possibility of future write-downs.</p>",
+              "position": 1
+            },
+            {
+              "id": "7b9d1a83-244b-486a-9937-8b8c0cc6ab17",
+              "itemBody": "<p>B. The price of supplies increased significantly.</p>",
+              "position": 2
+            },
+            {
+              "id": "eb6e1c56-35c7-445a-8fbd-0950e1044c70",
+              "itemBody": "<p>C. Management anticipates a strong increase in product demand.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d2656577-648d-43ae-9777-a6aa3d94a0f9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-42",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q42",
+        "itemBody": "<p>The following information is available for a manufacturing company: $ millions Cost of ending inventory computed using FIFO 4.3 Net realizable value 4.1 Current replacement cost 3.8 If the company is using International Financial Reporting Standards (IFRS) instead of US GAAP, its cost of goods sold (in millions) is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Under both IFRS and US GAAP, the inventory would be written down to \nits net realizable value ($4.1 million); therefore, the costs of goods sold would be the \nsame. There are some exceptions under US GAAP for inventory valued using the retail \nmethod, which would not apply to a manufacturing company or for inventory valued \nunder LIFO. \n \n41. C is c orrect. Under IFRS, the recovery of a previous write -down is limited to the \namount of the original write-down (€20,000) and is reported as a decrease in the cost \nof sales. \n \n42. A is c orrect. US GAAP does not allow the reversal of inventory write-downs; \ntherefore, it would not be a disclosure.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aa9376a1-e6ec-47ec-b2ef-9bea1545dfb3",
+              "itemBody": "<p>A. $0.3 higher.</p>",
+              "position": 1
+            },
+            {
+              "id": "3a67e1a0-d383-4a6e-925f-226b93a74ec0",
+              "itemBody": "<p>B. $0.3 lower.</p>",
+              "position": 2
+            },
+            {
+              "id": "d49eebdb-54be-43d8-86e0-aa12434efc0b",
+              "itemBody": "<p>C. the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d49eebdb-54be-43d8-86e0-aa12434efc0b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-43",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q43",
+        "itemBody": "<p>A company that prepares its financial statements using IFRS wrote down its inventory value by €20,000 at the end of year 1. In year 2, prices increased and the same inventory at the end of the year was worth €30,000 more than its value at the end of the prior year. Which of the following statements is most accurate? In year 2, the company’s cost of sales:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a692cb6e-f844-4a49-8ee5-3bb0737d59c7",
+              "itemBody": "<p>A. was unaffected.</p>",
+              "position": 1
+            },
+            {
+              "id": "cc67d02a-8b92-4a86-bb00-8c1382ca6e8f",
+              "itemBody": "<p>B. decreased by €30,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "479269d5-38f0-443d-9ceb-2fc6910cd2c1",
+              "itemBody": "<p>C. decreased by €20,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a692cb6e-f844-4a49-8ee5-3bb0737d59c7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-44",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q44",
+        "itemBody": "<p>Under US GAAP, financial statement disclosures relating to inventory are least likely to include which of the following? Information about the:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a6c01431-9902-4799-8286-14f97d5f997a",
+              "itemBody": "<p>A. reversal of any inventory write-down.</p>",
+              "position": 1
+            },
+            {
+              "id": "7057881c-043b-4754-a4a2-1759ad3e653a",
+              "itemBody": "<p>B. amount of inventories pledged as security for liabilities.</p>",
+              "position": 2
+            },
+            {
+              "id": "51fba9c6-84ee-4ed5-a18d-0a0710de39af",
+              "itemBody": "<p>C. inventory valuation method used.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a6c01431-9902-4799-8286-14f97d5f997a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-45",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q45",
+        "itemBody": "<p>An analyst gathers the following information (in € millions) relating to a company's merchandise inventory as of 31 December of Year 1: Cost 65 Net realizable value 60 Current replacement cost 58 Analysis of Inventories Faculty: Page 14 of 28 On 31 December of Year 2, the net realizable value of the inventory is €7 million higher than its carrying value. Under US GAAP, the amount (in € millions) of the reversal of the prior write-down is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. as U.S. GAAP prohibit the reversal of write-downs.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f232b9f7-ce44-4ff0-9961-5c8685af92d5",
+              "itemBody": "<p>A. 0.</p>",
+              "position": 1
+            },
+            {
+              "id": "abff8091-7767-482c-be28-60fd0a89eaaf",
+              "itemBody": "<p>B. 5.</p>",
+              "position": 2
+            },
+            {
+              "id": "99ec20bc-fd55-4037-b086-251cbad8be94",
+              "itemBody": "<p>C. 7.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f232b9f7-ce44-4ff0-9961-5c8685af92d5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-46",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q46",
+        "itemBody": "<p>Under US GAAP and all else being equal, in a period of stable inventory quantities and rising inventory unit costs, which inventory valuation method is least likely to incur inventory write-downs?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because companies that use specific identification, weighted average \ncost, or FIFO methods are more likely to incur inventory write-downs than companies \nthat use the LIFO method. Under the LIFO method, the oldest costs are reflected \nin the inventory  carrying amount on the balance sheet. Given increasing inventory \ncosts, the inventory carrying amounts under the LIFO method are already \nconservatively presented at the oldest and lowest costs. Thus, it is far less likely \nthat inventory write-downs will occur under LIFO—and if a write-down does occur, it \nis likely to be of a lesser magnitude.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0a82e590-da6e-42fd-83cc-f30ec1a87640",
+              "itemBody": "<p>A. FIFO</p>",
+              "position": 1
+            },
+            {
+              "id": "d5b2901c-03ec-47a0-9fe2-4d863a8ec64b",
+              "itemBody": "<p>B. LIFO</p>",
+              "position": 2
+            },
+            {
+              "id": "d3e9ee7d-6126-4bd2-89f8-dbc80a5c1d21",
+              "itemBody": "<p>C. Weighted average cost (By mistake in the video, solved for most likely instead of least likely)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d5b2901c-03ec-47a0-9fe2-4d863a8ec64b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-47",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q47",
+        "itemBody": "<p>Under US GAAP, which of the following is a required financial statement disclosure concerning inventory?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because disclosures are useful when analysing a company. IFRS requires \neight financial statement disclosures concerning inventory, three of which are:  \n \n❖ the accounting policies adopted in measuring inventories, including the cost \nformula (inventory valuation method) used; \n❖ the amount of any reversal of any write-down that is recognised as a reduction \nin cost of sales in the period; \n❖ the circumstances or events that led to the reversal of a write -down of \ninventories. \n \nInventory-related disclosures under US GAAP are very similar to the disclosures \nabove, except that requirements for the second and third are not relevant because \nUS GAAP do not permit the reversal of prior -year inventory write-downs. US GAAP \nalso require disclosure of significant estimates applicable to inventories and of any \nmaterial amount of income resulting from the liquidation of LIFO inventory.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cb1d8e67-0ed2-4160-9a27-88b4f5ecd1a3",
+              "itemBody": "<p>A. Only the material amount of income resulting from the liquidation of LIFO inventory</p>",
+              "position": 1
+            },
+            {
+              "id": "6800fca4-fd3b-4182-a46f-4d275f605c07",
+              "itemBody": "<p>B. Only the amount of any reversal of any write -down that is recognized as a reduction in cost of goods sold in the period</p>",
+              "position": 2
+            },
+            {
+              "id": "4506e8ec-7ba8-450f-bf57-857051373574",
+              "itemBody": "<p>C. Both the material amount of income resulting from the liquidation of LIFO inventory, and the amount of any reversal of any write-down that is recognized as a reduction in cost of goods sold in the period</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cb1d8e67-0ed2-4160-9a27-88b4f5ecd1a3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-48",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q48",
+        "itemBody": "<p>An analyst gathers the following information about an electronics manufacturing company's inventory: Year 2 Year 1 Cost €100,000 €100,000 Net realizable value €105,000 €97,000 As a result of the reversal of the write -down, the company's Year 2 financial statements should report a decrease in cost of sales of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IFRS state that inventories shall be measured (and carried on \nthe balance sheet) at the lower of cost and net realizable value. In each subsequent \nAnalysis of Inventories \nFaculty:                                                                         Page 25 of 28 \n \nperiod, a new assessment of net realizable value is made. Reversal (limited to the \namount of the original write-down) is required for a subsequent increase in value of \ninventory previously written down. The reversal of any write -down of inventories is \nrecognized as a reduction in cost of sales (reduction in the amount of inventories \nrecognized as an expense). \n \nOn 31 December of Year 1, Inventory is carried on the balance sheet at min(Cost, \nNet realizable value) = min(€100,000, €97,000) = €97,000. \nThe write down of inventory equals the Cost of inventory less the Net realizable value \n= €100,000 – €97,000 = €3,000. \n \nOn December 31 of Year 2, the net realizable value (€105,000) is higher than the \nprevious level, exceeding also the cost of inventory. The reversal of any write -down \nof inventories is recognized as a reduction in cost of sales and is limited to the amount \nof the original write-down, meaning €3,000. \n \n47. C is c orrect because if purchase prices of inventory are declining, using the LIFO \nmethod of inventory valuation will result in a higher ending inventory and a lower cost \nof sales compared to other inventory valuation methods. Inventory turnover is \ndefined as cost of sales ÷ average inventory. Since cost of sales will be lower under \nLIFO as compared to FIFO and average inventory will be higher under LIFO as \ncompared to FIFO in a period of declining unit costs, inventory turnover will be lower \nunder LIFO than FIFO in a period of declining inventory unit costs.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7b4967d5-517f-4fca-a859-6d3ebd4a8b42",
+              "itemBody": "<p>A. €0.</p>",
+              "position": 1
+            },
+            {
+              "id": "74b3d495-1383-4cff-af77-bc1d3a22b641",
+              "itemBody": "<p>B. €3,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "e3ca4aaf-1054-42c5-b63c-53c13a697c00",
+              "itemBody": "<p>C. €8,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "74b3d495-1383-4cff-af77-bc1d3a22b641"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-49",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q49",
+        "itemBody": "<p>All else being equal, in a period of stable inventory quantities and declining inventory unit costs, using the LIFO inventory valuation method will result in a lower:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1e52d5c8-37af-4b02-88fc-834d7cc31998",
+              "itemBody": "<p>A. gross profit than if the FIFO inventory valuation method had been used.</p>",
+              "position": 1
+            },
+            {
+              "id": "ccce7a4a-332a-4e77-ba08-41ed61d9b61e",
+              "itemBody": "<p>B. current ratio than if the FIFO inventory valuation method had been used.</p>",
+              "position": 2
+            },
+            {
+              "id": "aab2998e-686a-4b9c-8b7c-b99eeee76a55",
+              "itemBody": "<p>C. inventory turnover ratio than if the FIFO inventory valuation method had been used. Analysis of Inventories Faculty: Page 15 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1e52d5c8-37af-4b02-88fc-834d7cc31998"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-50",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q50",
+        "itemBody": "<p>An analyst collects the following information (in € millions) about a manufacturing company's inventory: Original cost 2,000 Net realizable value at end of Year 1 1,700 Net realizable value at end of Year 2 2,500 At the end of Year 2, the balance sheet should reflect inventory (in € millions) of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because in each subsequent period, a new assessment of net realisable \nvalue is made. Reversal (limited to the amount of the original write-down) is required \nfor a subsequent increase in value of inventory previously written down. Inventory \nwould be written down from 2,000 to 1,700 in Year 1, and the reversal in Year 2 would \nbe limited to the original write-down of 300, bringing the value back to 2,000 at the \nend of Year 2.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fbb52866-ee1d-492a-b4b3-da1b0a3e1fa7",
+              "itemBody": "<p>A. 1,700.</p>",
+              "position": 1
+            },
+            {
+              "id": "e49792be-8a0b-4d7a-8ea3-0cc695bfbd4b",
+              "itemBody": "<p>B. 2,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "9f8cf93b-742a-4888-9b82-5e3f4c9b9019",
+              "itemBody": "<p>C. 2,500.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e49792be-8a0b-4d7a-8ea3-0cc695bfbd4b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-51",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q51",
+        "itemBody": "<p>In an environment of steadily increasing prices and quantities, reported ending inventory most closely reflects current replacement value under the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because FIFO assumes that the oldest inventory items are sold first, \nleaving the most recently purchased inventory on the balance sheet. The carrying \namount of inventories under FIFO will more closely reflect current replacement \nvalues because inven tories are assumed to consist of the most recently purchased \nitems. Companies typically record changes to inventory using either a periodic \ninventory system or a perpetual inventory system. Under either system, the allocation \nof goods available for s ale to cost of sales and ending inventory is the same if the \ninventory valuation method used is either specific identification or FIFO. \n \n50. B is c orrect because in the event that the value of inventory declines below the \ncarrying amount on the balance sheet, the inventory carrying amount must be written \ndown to its net realizable value. Frequently, rather than writing inventory down \ndirectly, an inv entory valuation allowance account is used. The allowance account is \nnetted with the inventory accounts to arrive at the carrying amount that appears on \nAnalysis of Inventories \nFaculty:                                                                         Page 26 of 28 \n \nthe balance sheet, and the loss (reduction in value) recognized as an expense on the \nincome statement. Additionally, an inventory write-down reduces both profit and the \ncarrying amount of inventory on the balance sheet and thus has a negative effect on \nprofitability, liquidity, and solvency ratios. However, activity ratios (for example, \ninventory turnover and total asset turnover) will be positively affected by a write -\ndown because the asset base (denominator) is reduced. \n \nThe Total asset turnover ratio = Revenue / Average total assets. Accordingly, as the \nasset base (i.e., denominator) is reduced by an inventory write -down (and revenue is \nnot impacted), total asset turnover will increase. \n \nThe Current ratio = Current assets / Current liabilities. Accordingly, as the inventory \n(i.e., numerator) is reduced by an inventory write-down (and current liabilities are not \nimpacted), the current ratio will decrease. \n \nNote: \"All else being equal\" has been added to the stem to avoid potential tax \n(liability) impacts.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "07ad393b-1a91-4bc4-aaa5-99d5d1ddcf1c",
+              "itemBody": "<p>A. FIFO method using a periodic inventory system.</p>",
+              "position": 1
+            },
+            {
+              "id": "befc6b50-ded0-4b52-b58f-7d91fc3b2e5b",
+              "itemBody": "<p>B. LIFO method using a periodic inventory system.</p>",
+              "position": 2
+            },
+            {
+              "id": "0f6bc4b3-0dcf-49d1-9e3f-947b66ed9de9",
+              "itemBody": "<p>C. LIFO method using a perpetual inventory system.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "07ad393b-1a91-4bc4-aaa5-99d5d1ddcf1c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-52",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q52",
+        "itemBody": "<p>All else being equal, a write-down of inventory by a manufacturing company most likely results in a:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e3c7b4b5-fb9f-4c98-a1c5-e335c380274e",
+              "itemBody": "<p>A. lower total asset turnover ratio and a lower current ratio.</p>",
+              "position": 1
+            },
+            {
+              "id": "b22a1e29-8817-4405-ad30-117cc00bd1b6",
+              "itemBody": "<p>B. higher total asset turnover ratio and a lower current ratio.</p>",
+              "position": 2
+            },
+            {
+              "id": "a7ba9814-7d80-4cbb-bcd9-ae0b6aae33bb",
+              "itemBody": "<p>C. lower total asset turnover ratio and a higher current ratio.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e3c7b4b5-fb9f-4c98-a1c5-e335c380274e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-53",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q53",
+        "itemBody": "<p>An analyst gathers the following information (in € millions) about an automobile manufacturer's inventory: Year 2 Year 1 Cost of goods sold 600 700 Cost of inventory 100 90 Net realizable value of inventory 120 80 The inventory turnover (calculated using average inventory) in Year 2 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because IFRS state that inventories shall be measured (and carried on \nthe balance sheet) at the lower of cost and net realisable value. Accordingly, Year 1 \ninventory = 80 (being lower of 90 and 80) and Year 2 inventory = 100 (being lower of \n100 and 120). Inventory turnover in Year 2 = Cost of sales or cost of goods sold / \nAverage inventory = 600 / [(100 + 80) / 2] = 600 / 90 ≈ 6.7.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "08f09173-72b7-4e3d-823b-3b5c0c0f58f3",
+              "itemBody": "<p>A. 6.0.</p>",
+              "position": 1
+            },
+            {
+              "id": "1346db30-cae6-4956-976d-3fa1bd5b7718",
+              "itemBody": "<p>B. 6.3.</p>",
+              "position": 2
+            },
+            {
+              "id": "455a6a9e-c08e-4320-97e6-1687e2095be8",
+              "itemBody": "<p>C. 6.7. (Solution is different from CFA institute. Institute does not considered reversal of impairment. correct Answer is B, not C)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "455a6a9e-c08e-4320-97e6-1687e2095be8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-54",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q54",
+        "itemBody": "<p>An analyst gathers the following information (in € thousands) about an electronics manufacturing company's inventory: Cost of ending inventory 3,600 Net realizable value 3,300 Current replacement cost 3,200 Net realizable value less a normal profit margin 3,100 Analysis of Inventories Faculty: Page 16 of 28 The inventory (in € thousands) is carried on the balance sheet at:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because IFRS state that inventories shall be measured (and carried on \nthe balance sheet) at the lower of cost and net realizable value. Accordingly, \nMin(Cost; Net realizable value) = Min(3,600; 3,300) = 3,300. \n \n53. A is c orrect because however, activity ratios (for example, inventory turnover and \ntotal asset turnover) will be positively affected by a write -down because the asset \nbase (denominator) is reduced.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c895249b-816b-45c8-8ead-804cbc173972",
+              "itemBody": "<p>A. 3,100.</p>",
+              "position": 1
+            },
+            {
+              "id": "f9743554-0565-482a-ba96-921500e0a1ef",
+              "itemBody": "<p>B. 3,200.</p>",
+              "position": 2
+            },
+            {
+              "id": "aa46ab1b-b763-4298-a5c7-db05c4503557",
+              "itemBody": "<p>C. 3,300.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aa46ab1b-b763-4298-a5c7-db05c4503557"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-55",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q55",
+        "itemBody": "<p>Which of the following ratios would most likely be positively affected by an inventory write-down compared to its value absent the write-down?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "881e7ea5-90b3-41ea-9bdb-85ed2505fb6c",
+              "itemBody": "<p>A. Activity</p>",
+              "position": 1
+            },
+            {
+              "id": "14256d8e-9f24-4412-91ae-a8fd91c539fe",
+              "itemBody": "<p>B. Liquidity</p>",
+              "position": 2
+            },
+            {
+              "id": "dcf62179-33c9-4fce-90d3-6d28973fc2b3",
+              "itemBody": "<p>C. Solvency</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "881e7ea5-90b3-41ea-9bdb-85ed2505fb6c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-56",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q56",
+        "itemBody": "<p>Which of the following is an inventory-related financial statement disclosure required under US GAAP?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because IFRS require eight financial statement disclosures concerning \ninventory, including (i) the carrying amount of inventories carried at fair value less \ncosts to sell; (ii) the amount of any reversal of any write-down that is recognised as \na reduction in cost of sales in the period; and (iii) the circumstances or events that \nled to the reversal of a write -down of inventories. Inventory -related disclosures \nunder US GAAP are very similar to the disclosures above, except that requirements \n(ii) and (iii) are not relevant because US GAAP do not permit the reversal of prior -\nyear inventory write-downs.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "62be2e5c-f549-44e9-b74c-02aae6c9b3d3",
+              "itemBody": "<p>A. The carrying amount of inventories carried at fair value less costs to sell.</p>",
+              "position": 1
+            },
+            {
+              "id": "5446dcc8-a0af-4ba4-b855-f5d48062dd88",
+              "itemBody": "<p>B. The circumstances or events that led to the reversal of a prior -year write-down of inventories.</p>",
+              "position": 2
+            },
+            {
+              "id": "dcf4f178-58f1-40ae-b42f-7c70c5d929d3",
+              "itemBody": "<p>C. The amount of reversal of any prior -year write -down of inventories that is recognized as a reduction in cost of sales in the current period.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "62be2e5c-f549-44e9-b74c-02aae6c9b3d3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-57",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q57",
+        "itemBody": "<p>All else being equal, in a period of declining inventory unit costs and constant inventory quantities, which of the following inventory valuation methods most likely allocates a higher amount of the total cost of goods available for sale to cost of sales on the income statement?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because in an environment of declining inventory unit costs and constant \nor increasing inventory quantities, FIFO (in comparison with weighted average cost \nor LIFO) will allocate a higher amount of the total cost of goods available for sale to \ncost of sales on the income statement and a lower amount to ending inventory on the \nAnalysis of Inventories \nFaculty:                                                                         Page 27 of 28 \n \nbalance sheet. Accordingly, because cost of sales will be higher under FIFO, a \ncompany's gross profit, or operating profit, and income taxes will be lower. \n \n56. C is c orrect because the net realizable value is the estimated selling price in the \nordinary course of business less the estimated costs necessary to make the sale and \nestimated costs to get the inventory in condition for sale. Accordingly, the net \nrealizable value = 1,100 – 50 – 50 = 1,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1bf3e6b9-ff0b-4d12-bd86-43e7648655c4",
+              "itemBody": "<p>A. FIFO</p>",
+              "position": 1
+            },
+            {
+              "id": "7ff65c02-6bdf-40ab-be9e-4ffec51968d8",
+              "itemBody": "<p>B. LIFO</p>",
+              "position": 2
+            },
+            {
+              "id": "6b0212e3-0e7c-49c8-a31b-5d7582c6bab8",
+              "itemBody": "<p>C. Weighted average cost</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1bf3e6b9-ff0b-4d12-bd86-43e7648655c4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-58",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q58",
+        "itemBody": "<p>An analyst gathers the following information (in € thousands) about a manufacturing company's inventory: Cost of ending inventory 750 Estimated selling price in the ordinary course of business 1,100 Estimated costs necessary to sell the inventory 50 Estimated costs to get the inventory in condition for sale 50 The net realizable value of the inventory (in € thousands) is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1246a5be-f64b-4789-a3e5-c72c8eaea208",
+              "itemBody": "<p>A. 750.</p>",
+              "position": 1
+            },
+            {
+              "id": "2229be20-b653-45f2-ba73-39c61fd26b85",
+              "itemBody": "<p>B. 850.</p>",
+              "position": 2
+            },
+            {
+              "id": "e8be9934-1343-439f-bb1c-7d41fe698ab5",
+              "itemBody": "<p>C. 1,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1246a5be-f64b-4789-a3e5-c72c8eaea208"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-59",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q59",
+        "itemBody": "<p>Which of the following ratios will most likely increase as a result of an inventory write-down in the current year?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the working capital turnover ratio is calculated as \nRevenue/Average working capital. Working capital is defined as current assets minus \ncurrent liabilities. Inventory is a current asset. An inventory write-down will have no \neffect on revenue and w ill decrease average working capital as any write -down to \nmarket value or net realizable value reduces the value of inventory, and the loss in \nvalue (expense) is generally reflected in the income statement in cost of goods \nsold. Therefore, the numerator is not affected and the denominator is reduced \nleading to a higher working capital turnover ratio.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eed4ef01-49fd-44ce-b1a0-896b736029ad",
+              "itemBody": "<p>A. Quick ratio</p>",
+              "position": 1
+            },
+            {
+              "id": "c0dc1ae6-4838-4754-9fe2-64a2138549de",
+              "itemBody": "<p>B. Current ratio</p>",
+              "position": 2
+            },
+            {
+              "id": "fc7bd75b-954d-430d-afd2-66497e4ba8af",
+              "itemBody": "<p>C. Working capital turnover ratio Analysis of Inventories Faculty: Page 17 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fc7bd75b-954d-430d-afd2-66497e4ba8af"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-60",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q60",
+        "itemBody": "<p>An analyst gathers the following information (in £ millions) about a retailer's inventory: Original cost 250 Net realizable value 255 Net realizable value less a normal profit margin 240 The carrying amount (in £ millions) of ending inventory is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IFRS state that inventories shall be measured (and carried on \nthe balance sheet) at the lower of cost and net realizable value. In the event that \nthe value of inventory declines below the carrying amount on the balance sheet, the \ninventory carrying amount must be written down to its net realizable value and the \nloss (reduction in value) recognized as an expense on the income statement. Because \nthe original cost of 250 is lower than the net realizable value of 255, the carrying \namount of ending inventory is 250.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9b92886b-c6a9-4c26-aebb-5a8872665fa3",
+              "itemBody": "<p>A. 240.</p>",
+              "position": 1
+            },
+            {
+              "id": "d6c2ae36-0413-421c-9579-04ba62fde811",
+              "itemBody": "<p>B. 250.</p>",
+              "position": 2
+            },
+            {
+              "id": "ef88a31a-8c32-4635-a257-7e945f71e418",
+              "itemBody": "<p>C. 255.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d6c2ae36-0413-421c-9579-04ba62fde811"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-61",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q61",
+        "itemBody": "<p>If inventory that was written down in a previous period subsequently increases in value, the amount of the original write-down may be reversed under:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because under IFRS, if inventory that was written down in a previous \nperiod subsequently increases in value, the amount of the original write-down is \nreversed. Subsequent reversal of an inventory write-down is not permitted under \nUS GAAP. Under IFRS, in each subsequent period, a new assessment of net \nrealizable value is made. Reversal (limited to the amount of the original write-down) \nis required for a subsequent increase in value of inventory previously written down. \nThe reversal of any write-down of inventories is recognized as a reduction in cost \nof sales (reduction in the amount of inventories recognized as an expense).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d4e49247-f6cc-4439-b309-6806bbc0dd8f",
+              "itemBody": "<p>A. IFRS only.</p>",
+              "position": 1
+            },
+            {
+              "id": "bc92b81d-3939-472d-9dac-ff4fe2b596b6",
+              "itemBody": "<p>B. US GAAP only.</p>",
+              "position": 2
+            },
+            {
+              "id": "f6223989-bff1-4e2a-be87-8bf01076b269",
+              "itemBody": "<p>C. both IFRS and US GAAP.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4e49247-f6cc-4439-b309-6806bbc0dd8f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-62",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q62",
+        "itemBody": "<p>An electronics manufacturer measures its inventories at the lower of cost and:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IFRS state that inventories shall be measured (and carried on \nthe balance sheet) at the lower of cost and net realizable value.  Net realizable \nvalue is the estimated selling price in the ordinary course of business less the \nestimated costs necessary to make the sale and estimated costs to get the inventory \nin condition for sale.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c4cbc456-c199-4168-9842-b84ec34c917d",
+              "itemBody": "<p>A. replacement cost.</p>",
+              "position": 1
+            },
+            {
+              "id": "979ffcfb-8183-4c83-b821-ecdaea24465c",
+              "itemBody": "<p>B. net realizable value.</p>",
+              "position": 2
+            },
+            {
+              "id": "b12e62a1-af85-4cf6-a02a-a77b096cae52",
+              "itemBody": "<p>C. estimated selling price.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "979ffcfb-8183-4c83-b821-ecdaea24465c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-63",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q63",
+        "itemBody": "<p>All else being equal, an inventory write-down by an electronics manufacturing company results in a higher:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because an inventory write -down reduces both profit and the carrying \namount of inventory on the balance sheet and thus has a negative effect on \nprofitability, liquidity, and solvency ratios. However, activity ratios (for example, \ninventory turnover and to tal asset turnover) will be positively affected by a write -\ndown because the asset base (denominator) is reduced.  Accordingly, Total asset \nAnalysis of Inventories \nFaculty:                                                                         Page 28 of 28 \n \nturnover ratio (Revenue / Average total assets) will be higher as Inventory (Average \ntotal assets) will be lower, the numerator, being revenue will not be impacted.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "389ff169-8f5a-4ec9-b0da-6d90f02ce1d6",
+              "itemBody": "<p>A. gross profit margin than if the write-down had not occurred.</p>",
+              "position": 1
+            },
+            {
+              "id": "88332cc2-361a-4352-a43d-27705c1c8ffe",
+              "itemBody": "<p>B. total asset turnover ratio than if the write-down had not occurred.</p>",
+              "position": 2
+            },
+            {
+              "id": "afe1954f-3afd-46c4-b14d-1eaa0e3ce461",
+              "itemBody": "<p>C. days of inventory on hand than if the write-down had not occurred.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "88332cc2-361a-4352-a43d-27705c1c8ffe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-64",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q64",
+        "itemBody": "<p>An analyst gathers the following information (in € thousands) about an item in a company's merchandise inventory: Original cost 18 Net realizable value at 31 December of Year 1 15 Net realizable value at 31 December of Year 2 20 The inventory item (in € thousands) is carried on the 31 December of Year 2 balance sheet at:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because, under IFRS, inventories shall be measured (and carried on the \nbalance sheet) at the lower of cost and net realizable value. In each subsequent \nperiod, a new assessment of net realizable value is made. Reversal (limited to the \namount of the original write-down) is required for a subsequent increase in value of \ninventory previously written down.  Accordingly, the company reports on 31 December \nof Year 1  a merchandise inventory of €15,000. The net realizable value at 31 \nDecember of Year 2 is €20,000; however, as the reversal is limited to the amount of \nthe original write-down (being €3,000), the company reports on 31 December of Year \n2 a merchandise inventory (in € thousands) of €18,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cf714d54-e23f-4555-af0e-c0b51b7c64bd",
+              "itemBody": "<p>A. 15.</p>",
+              "position": 1
+            },
+            {
+              "id": "4b8873f3-c93a-43fd-a415-bdc4824383da",
+              "itemBody": "<p>B. 18.</p>",
+              "position": 2
+            },
+            {
+              "id": "e52c0285-761e-4e7b-8193-c747771d587c",
+              "itemBody": "<p>C. 20.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4b8873f3-c93a-43fd-a415-bdc4824383da"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-6-65",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod6-Q65",
+        "itemBody": "<p>A manufacturing company reporting under US GAAP using the FIFO inventory valuation method should measure its finished goods' inventory at the lower of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because under US GAAP for fiscal years beginning after December 15, \n2016, inventories measured using other than LIFO and retail inventory methods are \nmeasured at the lower of cost or net realizable value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2dbafc25-2607-46e8-8f15-f0c73267595c",
+              "itemBody": "<p>A. cost and market value.</p>",
+              "position": 1
+            },
+            {
+              "id": "addb3e7f-1ed9-450e-95b6-fee0719db634",
+              "itemBody": "<p>B. cost and net realizable value.</p>",
+              "position": 2
+            },
+            {
+              "id": "0e2f7a30-18f2-4ba2-9752-599b1074bae7",
+              "itemBody": "<p>C. market value and net realizable value. Analysis of Inventories Faculty: Page 18 of 28</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "addb3e7f-1ed9-450e-95b6-fee0719db634"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

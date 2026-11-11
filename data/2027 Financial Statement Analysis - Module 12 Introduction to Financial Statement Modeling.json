@@ -1,0 +1,1203 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Financial Statement Analysis_12",
+  "curriculum_year": "2027",
+  "topic": "Financial Statement Analysis",
+  "module_number": 12,
+  "module_name": "Introduction to Financial Statement Modeling",
+  "question_count": 28,
+  "points_possible": 28.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Financial Statement Analysis - Module 12 Introduction to Financial Statement Modeling",
+    "topic": "Financial Statement Analysis",
+    "module_id": 12,
+    "question_count": 28,
+    "type": "practice",
+    "points_possible": 28.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Fina-12-1",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q1",
+        "itemBody": "<p>Which profitability metric should French use to assess Archway’s five-year historic performance relative to its competitors?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Operating (EBIT) margin is a pre-tax profitability measure that can be \nuseful in the peer comparison of companies in countries with different tax structures. \nArchway’s two main competitors are located in different countries with significantly \ndifferent tax structures; therefore, a pre-tax measure is better than an after -tax \nmeasure, such as ROIC. The current ratio is a liquidity measure, not a profitability \nmeasure.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "db89ad1a-23e3-457f-a562-fa748854f193",
+              "itemBody": "<p>A. Current ratio</p>",
+              "position": 1
+            },
+            {
+              "id": "3ee04b64-96b1-4bee-b6bc-fb49029bf275",
+              "itemBody": "<p>B. Operating margin</p>",
+              "position": 2
+            },
+            {
+              "id": "33a0e588-257f-4aa3-846b-f58f49e128cd",
+              "itemBody": "<p>C. Return on invested capital</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3ee04b64-96b1-4bee-b6bc-fb49029bf275"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-2",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q2",
+        "itemBody": "<p>Based on the current competitive landscape presented in Exhibit 1, French should conclude that Archway’s ability to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Porter’s five forces framework in Exhibit 1 describes an industry with \nhigh barriers to entry, high customer switching costs (suggesting a low threat of \nsubstitutes), and a specialized product (suggesting low bargaining power of buyers). \nFurthermore, the primary production inputs from the large group of suppliers are \nconsidered basic commodities (suggesting low bargaining power of suppliers). These \nfavorable industry characteristics will likely enable Archway to pass along price \nincreases and generate above-average returns on invested capital.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c0c9f7d3-2c0e-4ea5-be40-002fe5c76e10",
+              "itemBody": "<p>A. pass along price increases is high.</p>",
+              "position": 1
+            },
+            {
+              "id": "2caa3e1c-669f-4723-a6b1-e97e820b0fce",
+              "itemBody": "<p>B. demand lower input prices from suppliers is low.</p>",
+              "position": 2
+            },
+            {
+              "id": "4fc77b4a-fc71-4529-8e3b-b86dab6e68da",
+              "itemBody": "<p>C. generate above-average returns on invested capital is low.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c0c9f7d3-2c0e-4ea5-be40-002fe5c76e10"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-3",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q3",
+        "itemBody": "<p>Based on the current competitive landscape presented in Exhibit 1, Archway’s operating profit margins over the forecast horizon are least likely to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The current favorable characteristics of the industry (high barriers to \nentry, low bargaining power of suppliers and buyers, low threat of substitutes), \ncoupled with Archway’s dominant market share position, will likely lead to Archway’s \nprofit margins being at least equal to or greater than current levels over the forecast \nhorizon.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "09ea4bf3-7223-4d73-9ac2-f13ba3aca1f9",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "6adb5578-c974-4068-8667-bbd8f57bb9a7",
+              "itemBody": "<p>B. remain constant.</p>",
+              "position": 2
+            },
+            {
+              "id": "a6d7b330-646b-486f-9e76-9ee7d46d02db",
+              "itemBody": "<p>C. increase.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "09ea4bf3-7223-4d73-9ac2-f13ba3aca1f9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-4",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q4",
+        "itemBody": "<p>Based on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The calculation of Archway’s gross profit margin for 2020, which \nreflects the industry-wide 8% inflation on COGS, is calculated as follows: \nRevenue growth 1.85% \nCOGS increase 4.76% \nForecasted revenue (Base revenue = 100) 101.85 \nForecasted COGS (Base COGS = 30) 31.43 \nForecasted gross profit 70.42 \nForecasted gross profit margin 69.14% \n \nRevenue growth = (1 + Price increase for revenue) × (1 + Volume growth) – 1 \n= (1.05) × (0.97) – 1 \n= 1.85%. \n \nCOGS increase = (1 + Price increase for COGS) × (1 + Volume growth) – 1 \n= (1.08) × (0.97) – 1 \n= 4.76%. \n \nForecasted revenue = Base revenue × Revenue growth increase \n= 100 × 1.0185 \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 11 of 15 \n \n= 101.85. \n \nForecasted COGS = Base COGS × COGS increase \n= 30 × 1.0476 \n= 31.43. \n \nForecasted gross profit = Forecasted revenue – Forecasted COGS \n= 101.85 – 31.43 \n= 70.42. \n \nForecasted gross profit margin = Forecasted gross profit/Forecasted revenue \n= 70.42/101.85 \n= 69.14%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "06ef016b-12bf-4b46-8e31-3679f88b8b44",
+              "itemBody": "<p>A. 62.7 percent.</p>",
+              "position": 1
+            },
+            {
+              "id": "9dbac1f3-6b19-4541-88ef-12b71884c3fb",
+              "itemBody": "<p>B. 67.0 percent.</p>",
+              "position": 2
+            },
+            {
+              "id": "58e1f467-23dc-42e5-bb05-153d26230a7f",
+              "itemBody": "<p>C. 69.1 percent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "58e1f467-23dc-42e5-bb05-153d26230a7f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-5",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q5",
+        "itemBody": "<p>French’s approach to forecasting Archway’s working capital accounts would be most likely classified as a:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. French is using a bottom -up approach to forecast Archway’s working  \ncapital accounts by using the company’s historical efficiency ratios to project future \nperformance.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e9e9fd0c-ffa4-4f58-a6f6-fd39dcc5718a",
+              "itemBody": "<p>A. hybrid approach.</p>",
+              "position": 1
+            },
+            {
+              "id": "1377813d-03ff-4b3a-a04f-19637c7c6211",
+              "itemBody": "<p>B. top-down approach.</p>",
+              "position": 2
+            },
+            {
+              "id": "18948e80-d7ac-4e0a-9b00-5d07d4281eae",
+              "itemBody": "<p>C. bottom-up approach.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "18948e80-d7ac-4e0a-9b00-5d07d4281eae"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-6",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q6",
+        "itemBody": "<p>The most appropriate response to Wright’s question about the technological development is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. If the future growth or profitability of a company is likely to be lower  \nthan the historical average (in this case, because of a potential technological  \ndevelopment), then the target multiple should reflect a discount to the historical  \nmultiple to reflect this difference in growth and/or profitability. If a multiple is used \nto derive the terminal value of a company, the choice of the multiple should  be \nconsistent with the long -run expectations for growth and required return.  French \ntells Wright he believes that such a technological development could have an adverse \nimpact on Archway beyond the forecast horizon.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c8a114f7-fb46-477e-a00b-07513ede9e9e",
+              "itemBody": "<p>A. increase the required return.</p>",
+              "position": 1
+            },
+            {
+              "id": "b709eaf9-482f-4514-93d8-66b3af760ba6",
+              "itemBody": "<p>B. decrease the perpetual growth rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "bc3b5d3e-f11d-4c44-a76b-b1072ee5f87a",
+              "itemBody": "<p>C. decrease the price-to-earnings multiple. Introduction to Financial Statement Modeling Faculty: Page 3 of 15</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bc3b5d3e-f11d-4c44-a76b-b1072ee5f87a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-7",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q7",
+        "itemBody": "<p>If the luxury electronic auto equipment industry is subject to rapid technological changes and market share shifts, how should French best adapt his approach to modeling?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Forecasting a single scenario would not be appropriate given the  high \ndegree of uncertainty and range of potential outcomes for companies in this industry.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9225bcb7-858c-4592-bf27-19d5fea32055",
+              "itemBody": "<p>A. Examine base rates</p>",
+              "position": 1
+            },
+            {
+              "id": "de8ede9b-d284-4a22-9d7a-281a406de6a7",
+              "itemBody": "<p>B. Forecast multiple scenarios</p>",
+              "position": 2
+            },
+            {
+              "id": "2d7b8a66-e7e0-44d7-be59-c7f57b312600",
+              "itemBody": "<p>C. Speak to analysts who hold diverse opinions on the stock The following information relates to questions 8-14 Gertrude Fromm is a transportation sector analyst at Tucana Investments. She is conducting an analysis of Omikroon, N.V., a hypothetical European engineering company that manufactures and sells scooters and commercial trucks. Omikroon’s petrol scooter division is the market leader in its sector and has two competitors. Omikroon’s petrol scooters have a strong brand name and a well-established distribution network. Given the strong branding established by the market leaders, the cost of entering the industry is high. But Fromm anticipates that small, inexpensive, imported petrol -fueled motorcycles could become substitutes for Omikroon’s petrol scooters. Fromm uses ROIC as the metric to assess Omikroon’s performance. Omikroon has just introduced the first electric scooter to the market at year -end 2019. The company’s expectations are as follows: i. Competing electric scooters will reach the market in 2021. ii. Electric scooters will not be a substitute for petrol scooters. iii. The important research costs in 2020 and 2021 will lead to more efficient electric scooters. Fromm decides to use a five -year forecast horizon for Omikroon after considering the following three factors: 1) Factor 1 The annual portfolio turnover at Tucana Investments is 30 percent. 2) Factor 2 The electronic scooter industry is expected to grow rapidly over the next 10 years. 3) Factor 3 Omikroon has announced it would acquire a light truck manufacturer that will be fully integrated into its truck division by 2021 and will add 2 percent to the company’s total revenues. Fromm uses the base case forecast for 2020 shown in Exhibit 1 to perform the following sensitivity analysis: • The price of an imported specialty metal used for engine parts increases by 20 percent. • This metal constitutes 4 percent of Omikroon’s cost of sales. • Omikroon will not be able to pass on the higher metal expense to its customers. Introduction to Financial Statement Modeling Faculty: Page 4 of 15 Exhibit 1: Omikroon’s Selected Financial Forecasts for 2020 Base Case (euro millions) Petrol Scooter Division Commercial Truck Division Electric Scooter Division Total Sales 99.05 45.71 7.62 152.38 Cost of sales 105.38 Gross profit 47 Operating profit 9.2 Omikroon will initially outsource its electric scooter parts. But manufacturing these parts in-house beginning in 2021 will imply changes to an existing factory. This factory cost EUR7 million three years ago and had an estimated useful life of 10 years. Fromm is evaluating two scenarios: • Scenario 1 Refit the existing factory for EUR27 million. • Scenario 2 Sell the existing factory for EUR5 million. Build a new factory costing EUR30 million with a useful life of 10 years.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "de8ede9b-d284-4a22-9d7a-281a406de6a7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-8",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q8",
+        "itemBody": "<p>Using Porter’s five forces analysis, which of the following competitive factors is most likely to have the greatest impact on Omikroon’s petrol scooter pricing power?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Small, inexpensive, imported petrol-fueled motorcycles are substitutes \nfor petrol scooters and could increasingly have an impact on Omikroon’s petrol scoter \npricing power.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bbd0fb72-a3f9-43e5-9adf-5998610aa039",
+              "itemBody": "<p>A. Rivalry</p>",
+              "position": 1
+            },
+            {
+              "id": "1bbd0066-21a0-426b-95e7-8e30942c523a",
+              "itemBody": "<p>B. Threat of substitutes</p>",
+              "position": 2
+            },
+            {
+              "id": "0f9113d6-f866-467c-8cc0-2ee8578c51c6",
+              "itemBody": "<p>C. Threat of new entrants</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1bbd0066-21a0-426b-95e7-8e30942c523a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-9",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q9",
+        "itemBody": "<p>The metric used by Fromm to assess Omikroon’s performance incorporates:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Return on invested capital is net operating profit minus adjusted taxes \ndivided by invested capital, where invested capital is defined as operating  assets \nminus operating liabilities.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e9ab6940-dd5a-4b60-959f-27ab5cb35e72",
+              "itemBody": "<p>A. the degree of financial leverage.</p>",
+              "position": 1
+            },
+            {
+              "id": "c63f7279-d47b-4756-a50d-90c1b0bf524d",
+              "itemBody": "<p>B. operating liabilities relative to operating assets.</p>",
+              "position": 2
+            },
+            {
+              "id": "6d17dc78-2107-4861-9ede-ebc1f411e743",
+              "itemBody": "<p>C. the firm’s competitiveness relative to companies in other tax regimes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c63f7279-d47b-4756-a50d-90c1b0bf524d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-10",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q10",
+        "itemBody": "<p>Based on Omikroon’s expectations, the gross profit margin of Omikroon’s electric scooter division in 2021 is most likely to be affected by:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Competition from other electric scooter manufacturers is expected to \nbegin in one year. After this time, competing electric scooters could lead to  lower \ndemand for Omikroon’s electric scooters and affect Omikroon’s gross profit margin. \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 12 of 15</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5fd68ac3-475f-48c5-b56f-0d2758e19228",
+              "itemBody": "<p>A. competition.</p>",
+              "position": 1
+            },
+            {
+              "id": "f2c3b754-5d9d-463f-b7ab-0bcb0d777d54",
+              "itemBody": "<p>B. research costs.</p>",
+              "position": 2
+            },
+            {
+              "id": "4ff65d47-564c-4ec2-8093-c492eacdb5ba",
+              "itemBody": "<p>C. cannibalization by petrol scooters.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5fd68ac3-475f-48c5-b56f-0d2758e19228"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-11",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q11",
+        "itemBody": "<p>Which factor best justifies the five-year forecast horizon for Omikroon selected by Fromm?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The electric scooter market is expected to grow rapidly, so the  \ncontribution of Omikroon’s new electric scooter division is forecast to expand  \nsignificantly over the next 10 years. A is incorrect because the investment company’s \nportfolio turnover is not relevant for forecasting Omrikoon’s future results.  C is \nincorrect because the light truck division is expected to add only 2% to total revenues \nin the future.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "79d05151-ca53-4f58-b085-9241457d404c",
+              "itemBody": "<p>A. Factor 1</p>",
+              "position": 1
+            },
+            {
+              "id": "20c1c1c7-ec85-447b-8b48-ad94c0ac817c",
+              "itemBody": "<p>B. Factor 2</p>",
+              "position": 2
+            },
+            {
+              "id": "338390a0-847a-4089-8821-4242a1370ec7",
+              "itemBody": "<p>C. Factor 3 Introduction to Financial Statement Modeling Faculty: Page 5 of 15</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "20c1c1c7-ec85-447b-8b48-ad94c0ac817c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-12",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q12",
+        "itemBody": "<p>Fromm’s sensitivity analysis will result in a decrease in the 2020 base case gross profit margin closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The sensitivity analysis consists of an increase of 20 percent in the  \nprice of an input that constitutes 4 percent of cost of sales. Change in gross profit  \nmargin because of that increase is calculated as the change in cost of sales because \nof price increase divided by sales: \n= (Cost of sales × 0.04 × 0.2)/Sales \n= (105.38 × 0.04 × 0.2)/152.38 \n= 0.0055 or 0.55%</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "51ef8d1c-9348-42c8-9f67-f316f89ba3cd",
+              "itemBody": "<p>A. 0.55 percent.</p>",
+              "position": 1
+            },
+            {
+              "id": "9f691852-f1e3-4070-97b6-386ffea89e24",
+              "itemBody": "<p>B. 0.80 percent.</p>",
+              "position": 2
+            },
+            {
+              "id": "d7098598-319c-4e72-8e50-08bba1122d6f",
+              "itemBody": "<p>C. 3.32 percent.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "51ef8d1c-9348-42c8-9f67-f316f89ba3cd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-13",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q13",
+        "itemBody": "<p>Fromm’s estimate of growth capital expenditures included in Omikroon’s PP&E under Scenario 1 should be:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. In Scenario 1, growth capital expenditures of EUR27 million for the refit \nof the existing idle factory is higher than the growth capital expenditures in Scenario \n2 of EUR25 million. The EUR25 million is the cost of building a new factory for EUR30 \nmillion less the proceeds from the sale of the existing idle factory of EUR5 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f6e7441b-a804-4d12-b8f4-a07217188128",
+              "itemBody": "<p>A. lower than under Scenario 2.</p>",
+              "position": 1
+            },
+            {
+              "id": "667dfc3b-5bc6-47dc-a2b5-9bea09bb671a",
+              "itemBody": "<p>B. the same as under Scenario 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "e6c48211-ceab-425a-8e89-43eac2a052ad",
+              "itemBody": "<p>C. higher than under Scenario 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e6c48211-ceab-425a-8e89-43eac2a052ad"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-14",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q14",
+        "itemBody": "<p>To validate the forecast for rapid growth in the electronic scooter market over the next 10 years, Fromm speaks to the management of Omikroon and investor relations of ZeroWheel, a competitor. Which behavioral bias is Fromm most likely subject to?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The management of Omikroon and investor relations of ZeroWheel are \nalmost certainly biased in favor of expecting strong growth for the markets they \nparticipate in. To evaluate the forecast, Fromm should seek more independent \nsources and balance the biased sources with sources biased in the opposite direction \nor an analyst who is more skeptical.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e5a03ae2-f14f-46d9-acac-46b997660d5c",
+              "itemBody": "<p>A. Confirmation</p>",
+              "position": 1
+            },
+            {
+              "id": "878927a9-703c-42f7-81f5-0a3ff180ae20",
+              "itemBody": "<p>B. Conservatism</p>",
+              "position": 2
+            },
+            {
+              "id": "9c98bb91-c02f-45d1-8aa3-a081f80cdef0",
+              "itemBody": "<p>C. Overconfidence The following information relates to questions 15-21 Angela Green, an investment manager at Horizon Investments, intends to hire a new investment analyst. After conducting initial interviews, Green has narrowed the pool to three candidates. She plans to conduct second interviews to further assess the candidates’ knowledge of industry and company analysis. Prior to the second interviews, Green asks the candidates to analyze Chrome Network Systems, a company that manufactures internet networking products. Each candidate is provided Chrome’s financial information presented in Exhibit 1. Exhibit 1 : Chrome Network Systems Selected Financial Information (US dollar millions) Year-End 2017 2018 2019 Net sales 46.8 50.5 53.9 Cost of sales 18.2 18.4 18.8 Gross profit 28.6 32.1 35.1 SG&A expenses 19.3 22.5 25.1 Operating income 9.3 9.6 10 Interest expense 0.5 0.7 0.6 Income before provision for income tax 8.8 8.9 9.4 Provision for income taxes 2.8 2.8 3.1 Net income 6 6.1 6.3 Introduction to Financial Statement Modeling Faculty: Page 6 of 15 Green asks each candidate to forecast the 2020 income statement for Chrome and to outline the key assumptions used in their analysis. The job candidates are told to include Horizon’s economic outlook for 2020 in their analysis, which assumes nominal GDP growth of 3.6 percent, based on expectations of real GDP growth of 1.6 percent and inflation of 2.0 percent. Green receives the models from each of the candidates and schedules second interviews. To prepare for the interviews, Green compiles a summary of the candidates’ key assumptions in Exhibit 2. Exhibit 2: Summary of Key Assumptions Used in Candidates’ Models Metric Candidate A Candidate B Candidate C Net sales Net sales will grow at the average annual growth rate in net sales over the 2017–19 time period. Industry sales will grow at the same rate as nominal GDP, but Chrome will have a two- percentage-point decline in market share. Net sales will grow 50 bps slower than nominal GDP. Cost of sales The 2020 gross margin will be the same as the average annual gross margin over the 2017–19 time period. The 2020 gross margin will decline as costs increase by expected inflation. The 2020 gross margin will increase by 20 bps from 2019. SG&A expenses The 2020 SG&A/net sales ratio will be the same as the average ratio over the 2017– 19 time period. The 2020 SG&A will grow at the rate of inflation. The 2020 SG&A/net sales ratio will be the same as the 2019 ratio. Interest expense The 2020 interest expense assumes the effective interest rate will be the same as the 2019 rate. The 2020 interest expense will be the same as the 2019 interest expense. The 2020 interest expense will be the same as the average expense over the 2017–19 time period. Income taxes The 2020 effective tax rate will be the same as the 2019 rate. The 2020 effective tax rate will equal the blended statutory rate of 30%. The 2020 effective tax rate will be the same as the average effective tax rate over the 2017–19 time period. Introduction to Financial Statement Modeling Faculty: Page 7 of 15</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e5a03ae2-f14f-46d9-acac-46b997660d5c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-15",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q15",
+        "itemBody": "<p>Based on Exhibit 1, which of the following provides the strongest evidence that Chrome displays economies of scale?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Economies of scale are a situation in which average costs decrease with \nincreasing sales volume. Chrome’s gross margins have been increasing with net sales. \nGross margins that increase with sales levels provide evidence of economies of scale, \nassuming that higher levels of sales reflect increased unit sales. Gross margin more \ndirectly reflects the cost of sales than does profit margin. \nMetric 2017 2018 2019 \nNet sales $46.8 $50.5 $53.9 \nGross profit 28.6 32.1 35.1 \nGross margin (gross profit/net sales) 61.11% 63.56% 65.12%</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fb7df60c-4f64-45f1-ab00-3828b4a89fdf",
+              "itemBody": "<p>A. Increasing net sales</p>",
+              "position": 1
+            },
+            {
+              "id": "0ea7e358-9f81-4cb7-a049-51d3fbee9fe1",
+              "itemBody": "<p>B. Profit margins that are increasing with net sales</p>",
+              "position": 2
+            },
+            {
+              "id": "3c76db85-8943-4f3d-ae9d-589961499af2",
+              "itemBody": "<p>C. Gross profit margins that are increasing with net sales</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3c76db85-8943-4f3d-ae9d-589961499af2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-16",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q16",
+        "itemBody": "<p>Based on Exhibit 2, the job candidate most likely using a bottom-up approach to model net sales is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A bottom-up approach for developing inputs to equity valuation models \nbegins at the level of the individual company or a unit within the company. By modeling \nnet sales using the average annual growth rate, Candidate A is using a bottom -up \napproach. B and C are incorrect because both Candidate B and Candidate C are using \na top-down approach, which begins at the level of the overall economy. \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 13 of 15</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "02250fdd-4b85-443e-b0b1-c8314b0afcce",
+              "itemBody": "<p>A. Candidate A.</p>",
+              "position": 1
+            },
+            {
+              "id": "6ea36b2e-83c2-4cc6-9a7f-680fc78fcc6e",
+              "itemBody": "<p>B. Candidate B.</p>",
+              "position": 2
+            },
+            {
+              "id": "e1fd8005-aca6-4057-9231-d6ff5b16d7ba",
+              "itemBody": "<p>C. Candidate C.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "02250fdd-4b85-443e-b0b1-c8314b0afcce"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-17",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q17",
+        "itemBody": "<p>Based on Exhibit 2, the modeling approach used by Candidate B to project future net sales is most accurately classified as a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A top-down approach usually begins at the level of the overall economy. \nCandidate B assumes industry sales will grow at the same rate as nominal GDP but \nthat Chrome will have a 2 -percentage-point decline in market share. A and C are \nincorrect because Candidate B is not using any elements of a bottom -up approach; \ntherefore, a hybrid approach is not being employed.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "05ba83b8-f225-4898-9d4c-1d48f47cac6f",
+              "itemBody": "<p>A. hybrid approach.</p>",
+              "position": 1
+            },
+            {
+              "id": "e09b7ed8-65fa-4665-a041-1c2af034d88b",
+              "itemBody": "<p>B. top-down approach.</p>",
+              "position": 2
+            },
+            {
+              "id": "aa5dc643-8dba-4c37-9472-87457cd3eb30",
+              "itemBody": "<p>C. bottom-up approach.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e09b7ed8-65fa-4665-a041-1c2af034d88b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-18",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q18",
+        "itemBody": "<p>Based on Exhibits 1 and 2, Candidate C’s forecast for cost of sales in 2020 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Candidate C assumes that the 2020 gross margin will increase by 20 bps \nfrom 2019 and that net sales will grow at 50 bps slower than nominal GDP (nominal \nGDP = Real GDP + Inflation = 1.6% + 2.0% = 3.6%). Accordingly, the 2020 forecasted \ncost of sales is USD19.27 million, rounded to USD19.3 million. \nMetric Calculation Result \n2020 gross margin = 2019 \ngm + 20 bps \nUSD35.1/USD53.9 = 65.12% + \n0.20% = \n65.32% \n2020 CoS/net sales = 100% \n– gross margin \n100% – 65.32% = 34.68% \n2020 net sales = 2019 net \nsales × (1 + Nominal GDP – \n0.50%) \nUSD53.9 million × (1 + 0.036 – \n0.005) = USD53.9 million × 1.031 = \nUSD55.57 \nmillion \n2020 cost of sales = 2020 \nnet sales × CoS/net sales \nUSD55.57 × 34.68% = USD19.27 \nmillion</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cd573b3e-168e-43ba-b80e-1e9e5257f552",
+              "itemBody": "<p>A. USD18.3 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "fa5ee5ba-1e80-45d5-a500-dddb06de65a0",
+              "itemBody": "<p>B. USD18.9 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "6f1d6ba1-0615-4c52-8e2d-acf571b87ba9",
+              "itemBody": "<p>C. USD19.3 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6f1d6ba1-0615-4c52-8e2d-acf571b87ba9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-19",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q19",
+        "itemBody": "<p>Based on Exhibits 1 and 2, Candidate A’s forecast for SG&A expenses in 2020 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Candidate A assumes that the 2020 SG&A/net sales will be the same as \nthe average SG&A/net sales over the 2017–19 time period and that net sales will grow \nat the annual average growth rate in net sales over the 2017 –19 time period. \nAccordingly, the 2020 forecasted SG&A expenses are USD25.5 million. \nAverage SG&A/net sales, 2017–2019* (41.24% + 44.55% + \n46.57%)/3 = \n44.12% \nAverage annual growth sales in net sales, \n2017–2019** \n(7.91% + 6.73%)/2 = 7.32% \n2020 net sales = 2019 net sales × (1 + \nAverage annual growth rate in net sales) \nUSD53.9 million × 1.0732 = $57.85 \nmillion \n2020 SG&A = 2020 net sales × Average \nSG&A/net sales \nUSD57.85 million × 44.12% \n= \n$25.52 \nmillion \n  \n2017 2018 2019 \nNet Sales USD46.8 USD50.5 USD53.9 \nSG&A expenses USD19.3 USD22.5 USD25.1 \nSG&A-to-sales ratio 41.24% 44.55% 46.57% \n \nYear Calculation \n2018 (USD50.5/USD46.8) – 1 = 7.91% \n2019 (USD53.9/USD50.5) – 1 = 6.73% \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 14 of 15</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a30f847e-db8b-46dd-9a07-ed7dc1ac4e41",
+              "itemBody": "<p>A. USD23.8 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "a4176dff-e2f3-43ce-b225-b0b7a57ed8a6",
+              "itemBody": "<p>B. USD25.5 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "059037cd-8ed2-4a44-8a76-23f88c712d4a",
+              "itemBody": "<p>C. USD27.4 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a4176dff-e2f3-43ce-b225-b0b7a57ed8a6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-20",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q20",
+        "itemBody": "<p>Based on Exhibit 2, forecasted interest expense will reflect changes in Chrome’s debt level under the forecast assumptions used by:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. In forecasting financing costs, such as interest expense, the debt/ \nequity structure of a company is a key determinant. Accordingly, a method that \nrecognizes the relationship between the income statement account (interest \nexpense) and the bal ance sheet account (debt) would be a preferable method for \nforecasting interest expense when compared with methods that forecast based \nsolely on the income statement account. By using the effective interest rate (interest \nexpense divided by average gross d ebt), Candidate A is taking the debt/equity \nstructure into account. B and C are incorrect because Candidate B (who forecasts \n2020 interest expense to be the same as 2019 interest expense) and Candidate C \n(who forecasts 2020 interest expense to be the same as the 2017 –19 average \ninterest expense) are not taking the balance sheet into consideration.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6dd6c7bf-3a79-4043-8c27-d807aa06d9e0",
+              "itemBody": "<p>A. Candidate A.</p>",
+              "position": 1
+            },
+            {
+              "id": "925e4ee7-3868-4676-9c46-e78d0813ed0c",
+              "itemBody": "<p>B. Candidate B.</p>",
+              "position": 2
+            },
+            {
+              "id": "a434ae96-f70c-4092-bbf7-bfaed8eaf40f",
+              "itemBody": "<p>C. Candidate C.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6dd6c7bf-3a79-4043-8c27-d807aa06d9e0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-21",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q21",
+        "itemBody": "<p>Candidate B asks Green if she had additional information on Horizon’s industry peers and competitors, to put the profitability estimates in a richer context. By asking for this additional information for their analysis, Candidate B is most likely seeking to mitigate which behavioral bias?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Base rates refer to attributes of a reference class and base rate neglect \nis ignoring such class information in favor of specific information. By incorporating \nindustry data, Candidate B is seeking to mitigate this behavioral bias.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "900a09f6-6306-471a-bdc9-2f8fc7c7187b",
+              "itemBody": "<p>A. Conservatism</p>",
+              "position": 1
+            },
+            {
+              "id": "aa027194-1aaa-4d98-b874-85ed656a013c",
+              "itemBody": "<p>B. Base rate neglect Introduction to Financial Statement Modeling Faculty: Page 8 of 15</p>",
+              "position": 2
+            },
+            {
+              "id": "12b986ad-80fe-4733-93ca-be4d8d5f2fdf",
+              "itemBody": "<p>C. illusion of control</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aa027194-1aaa-4d98-b874-85ed656a013c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-22",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q22",
+        "itemBody": "<p>In the Porter's five forces framework, a company is most likely to have the greatest profitability if:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because both a low availability of substitutes and low bargaining power \nof buyers would improve a company's pricing power.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "35eb2b7d-fb1b-4336-b9ae-9dc847c011ae",
+              "itemBody": "<p>A. the threat of substitutes is low and the bargaining power of buyers is low.</p>",
+              "position": 1
+            },
+            {
+              "id": "9ea67102-b4d5-44ba-bc1f-d63b4a4d6377",
+              "itemBody": "<p>B. the threat of substitutes is low and the bargaining power of buyers is high.</p>",
+              "position": 2
+            },
+            {
+              "id": "5f342a96-7726-4946-a90a-5c53c752ea9e",
+              "itemBody": "<p>C. the threat of substitutes is high and the bargaining power of buyers is low.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "35eb2b7d-fb1b-4336-b9ae-9dc847c011ae"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-23",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q23",
+        "itemBody": "<p>Maintaining prior views or forecasts by inadequately incorporating new information best describes:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because conservatism bias is a bias in which people maintain their prior \nviews or forecasts by inadequately incorporating new information.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "102972b9-b5d5-47a7-bf1e-f237905a1800",
+              "itemBody": "<p>A. conservatism bias.</p>",
+              "position": 1
+            },
+            {
+              "id": "b7044028-72d5-462a-8947-bd0b1861a130",
+              "itemBody": "<p>B. overconfidence bias.</p>",
+              "position": 2
+            },
+            {
+              "id": "806f69e6-908e-43cf-8232-9fbbb6df4043",
+              "itemBody": "<p>C. representativeness bias.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "102972b9-b5d5-47a7-bf1e-f237905a1800"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-24",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q24",
+        "itemBody": "<p>For a company in a cyclical industry, normalized earnings are best described as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because normalized earnings are the expected level of mid-cycle earnings \nfor a company in the absence of any unusual or temporary factors that affect \nprofitability.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1c0c33bc-5d5e-4406-a3e8-00a9fdb4041d",
+              "itemBody": "<p>A. current earnings that include the impact of acquisitions.</p>",
+              "position": 1
+            },
+            {
+              "id": "861d83e4-223e-405f-960d-7b328e72b0af",
+              "itemBody": "<p>B. mid-cycle earnings in the absence of temporary factors.</p>",
+              "position": 2
+            },
+            {
+              "id": "99c6b6c1-9c52-4e89-984a-fbfbe43b69d7",
+              "itemBody": "<p>C. earnings from the peak years excluding temporary factors.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "861d83e4-223e-405f-960d-7b328e72b0af"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-25",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q25",
+        "itemBody": "<p>Porter's five forces analysis is used to estimate a company's future profit margin relative to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because Porter’s five forces framework and similar analytical tools can \nhelp analysts assess the relative profit potential of a company by helping them \nunderstand the company’s industry and its position within that industry. \nUnderstanding the industry and competitive contexts of a company helps analysts \nestimate whether, for example, sales growth is likely to be relatively high or low \n(relative to history, relative to the overall growth in the economy or a sector, and/or \nrelative to competing c ompanies) and whether profit margins are likely to be \nrelatively high or low (relative to historical profit margins and relative to competing \ncompanies).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5576f07c-f8e2-4729-ab70-ede4d685de98",
+              "itemBody": "<p>A. only its competitors.</p>",
+              "position": 1
+            },
+            {
+              "id": "2898518b-6cd0-40bf-ba07-b5fb738f09c4",
+              "itemBody": "<p>B. only its historic margins.</p>",
+              "position": 2
+            },
+            {
+              "id": "05694f26-a424-4b4e-8b93-7e3502605378",
+              "itemBody": "<p>C. both its competitors and its historic margins.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "05694f26-a424-4b4e-8b93-7e3502605378"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-26",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q26",
+        "itemBody": "<p>An analyst uses the following information to forecast a company's gross profit margin: Current Amount (in $ millions) Forecasted Growth Sales 1,200 8% Cost of sales 300 4% The analyst's forecasted gross profit margin should be closest to a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the gross profit for the current year is 900 (=1,200 – 300), \ntherefore the current gross profit margin is 75%.  If sales increase by 8% (to 1,296) \nand cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (= 1,296 \n– 312), and the forecasted gross profit margin is 75.9%.  This is an increase of \napproximately 1% (= 75.9% – 75%). \n \n                                                                                   Introduction to Financial Statement Modeling \n \nFaculty:                                                                                   Page 15 of 15</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5178d475-7742-45ae-8ce0-b14f5c430cd0",
+              "itemBody": "<p>A. decrease of 1%.</p>",
+              "position": 1
+            },
+            {
+              "id": "2368d7f5-99a7-44fd-beda-d8211b37ce9e",
+              "itemBody": "<p>B. increase of 1%.</p>",
+              "position": 2
+            },
+            {
+              "id": "489f3a39-0cc8-40e0-8d15-23b7b7b129dd",
+              "itemBody": "<p>C. increase of 4%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2368d7f5-99a7-44fd-beda-d8211b37ce9e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-27",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q27",
+        "itemBody": "<p>If the price elasticity of demand for a product is 0.8 and its unit cost remains constant, a 10% increase in its selling price will most likely result in:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the impact of higher prices on volume depends on the price \nelasticity of demand (i.e., how the quantity demanded varies with price).  Price \nelasticity of demand gives the impact to volume, and not total revenues, for a given \nlevel of p rice increases.  Furthermore, Analyst A expects price elasticity of 0.8, \nindicating that volume will fall by 8 percent given the 10 percent retail price increase.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "78c5b805-25dd-46ab-85b5-44b4b0903e87",
+              "itemBody": "<p>A. no change in cost of sales.</p>",
+              "position": 1
+            },
+            {
+              "id": "3625b6f3-dac2-4868-a6e2-b53d59c2d192",
+              "itemBody": "<p>B. a decrease in volume of 8%.</p>",
+              "position": 2
+            },
+            {
+              "id": "95a0a03f-6338-4723-8e93-0c221ae7fa25",
+              "itemBody": "<p>C. an increase in revenue of 8%. Introduction to Financial Statement Modeling Faculty: Page 9 of 15</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3625b6f3-dac2-4868-a6e2-b53d59c2d192"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-12-28",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod12-Q28",
+        "itemBody": "<p>All else being equal, forecasting an increase in which of the following will most likely increase forecasted EPS for a company?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because share repurchases decrease the number of shares outstanding.  \nA decrease in the number of shares outstanding will raise the EPS all things being \nequal. \n \nFixed-Income Instrument Features \nDisclaimer: Following are the questions provided by CFA Institute to its registered \ncandidates for practice purpose. \n \nThe following information relates to questions 1-5 \nAntelas AG is a German emerging technology company focused on manufacturing process \ndesign. The firm has developed several valuable patents related  to micromachining and \nmetal 3D printing technology and derives its revenue  through licensing royalties and \nconsultation services. Antelas recently issued the following debt instrument: \nAntelas AG Four-Year Floating-Rate Notes (The “Notes”) \n \nProspectus Summary \nIssuer: Antelas AG \nSettlement Date: [T + 5 Business Days] \nMaturity Date: [Four Years from Settlement Date] \nPrincipal Amount: EUR250 million \nInterest: MRR plus 250 bps p.a. \nInterest \nPayment: \nCommencing three months from [Settlement Date] to be paid \nquarterly with final payment on [Maturity Date] \nSeniority: The Notes are secured and unsubordinated obligations of Antelas \nAG and will rank pari passu with all other secured and \nunsubordinated indebtedness. \nBusiness Days: Frankfurt \n \n1. “Four years” and “MRR plus 250 bps p.a.” refer, respectively, to which bond features \nas of the settlement date? \nA. Time to maturity and coupon rate \nB. Coupon frequency and current yield \nC. Time to maturity and contingency provision \n \n2. Which of the following statements best describes the source(s) of repayment for  \nthe Antelas AG floating-rate notes? \nA. Since the notes are secured (or backed) by Antelas AG’s assets, the floating-rate \nnotes would be considered asset-backed securities. \nB. The Antelas AG notes rely on the operating cash flows of the firm as their  sole \nsource for interest and principal payments. \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 2 of 5 \n \nC. The Antelas AG notes rely on the operating cash flows of the firm as their primary \nsource for interest and principal payments. \n \n3. Antelas AG’s issuer -specific credit spread rises by 25 bps p.a. one year after the  \nFRN issuance. Which of the following best describes how Antelas AG’s FRN coupon \nwould change as a result? \nA. Antelas AG’s FRN coupon payment to investors will immediately increase  by 25 \nbps p.a. \nB. Antelas AG’s FRN coupon payment to investors will increase by 25 bps p.a. but will \nnot become effective until the next full debt coupon period begins. \nC. Antelas AG’s FRN coupon will remain unchanged. \n \n4. Calculate the value of Antelas’s payment to bondholders on the maturity date if  the \nMRR is 0.25% p.a. for the final interest period. \nA. EUR1,718,750 \nB. EUR251,718,750 \nC. EUR256,875,000 \n \n5. Antelas decides to raise new secured, unsubordinated debt. Which of the following  \nbest describes the priority of payments between the issuer’s new debt and its  \nexisting debt? \nA. Because the Antelas AG notes have a pari passu (or “equal footing”) clause,  this \ndebt obligation will be treated the same as any other secured, unsubordinated  \ndebt from this borrower. \nB. Because the existing debt was issued earlier, it would receive priority over  the \nnew debt in terms of the payment of interest and principal. \nC. We do not have enough information to answer this question; the necessary  \ninformation would be provided in the indenture for new secured, unsubordinated  \nnotes. \n \n6. Which type of fixed -income security is most likely to have coupon payments that \nreset periodically? \nA. Callable bonds \nB. Floating-rate notes \nC. Convertible bonds \n \n7. David Smith purchased a mortgage-backed security with a coupon rate of 8% and a \npar value of $1,000 for $960. Coupon payments are made monthly. The monthly \ninterest payment is closest to: \nA. $6.67. \nB. $6.40. \nC. $6.94. \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 3 of 5 \n \n \n8. Which of the following is most likely a negative covenant? \nA. The issuer must comply with all laws and regulations. \nB. The issuance of new debt must be junior to existing bondholder debt. \nC. New debt obligations are treated the same as the borrower’s other senior debt \ninstruments. \n \n9. A 2-year treasury note is best classified as a(n): \nA. asset-backed security. \nB. capital market security. \nC. money market security. \n \n10. Which of the following is most likely a zero-coupon bond? A bond with a par value of \n£1,000 that was issued in a positive yield market at: \nA. £920. \nB. £1,000. \nC. £1,100. \n \n11. An analyst reviews a corporate bond indenture that contains these two covenants: \nThe borrower will pay interest semiannually and principal at maturity. \nThe borrower will not incur additional debt if its debt -to-capital ratio is more than \n50%. \nWhat types of covenants are these? \nA. Both are affirmative covenants. \nB. Covenant 1 is affirmative, and Covenant 2 is negative. \nC. Covenant 1 is negative, and Covenant 2 is affirmative. \n \n \n  \nFixed-Income Instrument Features \nFaculty:                                                                                    Page 4 of 5</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "378b22d5-0991-42b1-8d4f-0f9f24853fbf",
+              "itemBody": "<p>A. Share repurchases</p>",
+              "position": 1
+            },
+            {
+              "id": "f478e515-f28c-4e8a-8b6b-c57b0d4852c8",
+              "itemBody": "<p>B. Secondary stock issuances</p>",
+              "position": 2
+            },
+            {
+              "id": "5e2ac5bd-0399-44eb-901f-64cfeaae22d4",
+              "itemBody": "<p>C. Equity-based compensation of employees Introduction to Financial Statement Modeling Faculty: Page 10 of 15</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "378b22d5-0991-42b1-8d4f-0f9f24853fbf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Economics_6",
+  "curriculum_year": "2027",
+  "topic": "Economics",
+  "module_number": 6,
+  "module_name": "International Trade",
+  "question_count": 14,
+  "points_possible": 14.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Economics - Module 6 International Trade",
+    "topic": "Economics",
+    "module_id": 6,
+    "question_count": 14,
+    "type": "practice",
+    "points_possible": 14.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Econ-6-1",
+      "entry": {
+        "title": "2027 Economics Mod6-Q1",
+        "itemBody": "<p>Which of the following statements best describes the benefits of international trade?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Countries gain from exchange when trade enables each country  to \nreceive a higher price for exported goods or pay a lower price for imported  goods. \nThis leads to more efficient resource allocation and allows consumption of  a larger \nvariety of goods.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2f297ad4-ebb5-4e57-b6d7-b1a052d1294f",
+              "itemBody": "<p>A. Countries gain from exchange and specialization.</p>",
+              "position": 1
+            },
+            {
+              "id": "153fe05d-9ef7-4e2a-b276-d6359c13efb5",
+              "itemBody": "<p>B. Countries receive lower prices for their exports and pay higher prices for imports.</p>",
+              "position": 2
+            },
+            {
+              "id": "8b78c8a5-af3b-4b20-82f8-37db630656ae",
+              "itemBody": "<p>C. Countries gain from trade because all individuals and companies benefit in the long term.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2f297ad4-ebb5-4e57-b6d7-b1a052d1294f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-2",
+      "entry": {
+        "title": "2027 Economics Mod6-Q2",
+        "itemBody": "<p>Which of the following statements best describes the costs of international trade?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Resources may need to be reallocated into or out of an industry, \ndepending on whether that industry is an exporting sector or an import -competing \nsector of that economy. As a result of this adjustment process, less -efficient \ncompanies may be forced to exit the industry, which in turn may lead to higher  \nunemployment and the need for retraining so that displaced workers may find jobs in \nexpanding industries.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7eac4de1-8ba2-4029-b805-722774cc1e02",
+              "itemBody": "<p>A. Countries without an absolute advantage in producing a good cannot benefit significantly from international trade.</p>",
+              "position": 1
+            },
+            {
+              "id": "3395b353-5980-4585-bf1d-bb4220e2b303",
+              "itemBody": "<p>B. Resources may need to be allocated into or out of an industry and less-efficient companies may be forced to exit an industry, which in turn may lead to higher unemployment.</p>",
+              "position": 2
+            },
+            {
+              "id": "8b7ac63b-9f73-44de-bff3-01e09cca4132",
+              "itemBody": "<p>C. Loss of manufacturing jobs in developed countries as a result of import competition means that developed countries benefit far less than developing countries from trade.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3395b353-5980-4585-bf1d-bb4220e2b303"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-3",
+      "entry": {
+        "title": "2027 Economics Mod6-Q3",
+        "itemBody": "<p>Suppose the cost of producing tea relative to copper is lower in Tealand than in Copperland. With trade, the copper industry in Copperland would most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The copper industry in Copperland would benefit from trade. Because  \nthe cost of producing copper relative to producing tea is lower in Copperland than in \nTealand, Copperland will export copper and the industry will expand.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "66a71fa8-5816-4cba-b0a6-89902455c895",
+              "itemBody": "<p>A. expand.</p>",
+              "position": 1
+            },
+            {
+              "id": "24e20d9d-822c-45f5-9524-1ef5a2381bbb",
+              "itemBody": "<p>B. contract.</p>",
+              "position": 2
+            },
+            {
+              "id": "485f7413-356a-42a6-a335-1f1b7dd3caa5",
+              "itemBody": "<p>C. remain stable.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "66a71fa8-5816-4cba-b0a6-89902455c895"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-4",
+      "entry": {
+        "title": "2027 Economics Mod6-Q4",
+        "itemBody": "<p>Which type of trade restriction would most likely increase domestic government revenue?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The imposition of a tariff will most likely increase domestic government \nrevenue. A tariff is a tax on imports collected by the importing country’s government.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "99c8db71-12ad-42fb-adf8-a156b954c504",
+              "itemBody": "<p>A. Tariff</p>",
+              "position": 1
+            },
+            {
+              "id": "d01a4841-af45-4913-83c5-73bcb3ff80b3",
+              "itemBody": "<p>B. Import quota</p>",
+              "position": 2
+            },
+            {
+              "id": "94686c40-b9fd-46e9-82ac-3ef95eb8ef5c",
+              "itemBody": "<p>C. Export subsidy</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "99c8db71-12ad-42fb-adf8-a156b954c504"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-5",
+      "entry": {
+        "title": "2027 Economics Mod6-Q5",
+        "itemBody": "<p>Which of the following trade restrictions is likely to result in the greatest welfare loss for the importing country?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. With a voluntary export restraint, the price increase induced by \nrestricting the quantity of imports (= quota rent for equivalent quota = tariff revenue \nfor equivalent tariff) accrues to foreign exporters or the foreign government.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "01759eea-39af-47e2-964c-d4339628fa55",
+              "itemBody": "<p>A. A tariff</p>",
+              "position": 1
+            },
+            {
+              "id": "7f97104e-4e43-49df-8e63-d95dea6814af",
+              "itemBody": "<p>B. An import quota</p>",
+              "position": 2
+            },
+            {
+              "id": "cde225bd-538b-4669-8d13-1003f8052403",
+              "itemBody": "<p>C. A voluntary export restraint</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cde225bd-538b-4669-8d13-1003f8052403"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-6",
+      "entry": {
+        "title": "2027 Economics Mod6-Q6",
+        "itemBody": "<p>A large country can:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. By definition, a large country is big enough to affect the world price of \nits imports and exports. A large country can benefit by imposing a tariff if its terms \nof trade improve by enough to outweigh the welfare loss arising from inefficient  \nallocation of resources.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dc9ef467-a2e8-4b8f-890a-179f5f118c34",
+              "itemBody": "<p>A. benefit by imposing a tariff.</p>",
+              "position": 1
+            },
+            {
+              "id": "eaf81d03-9adc-4b42-9615-43b1ee30403a",
+              "itemBody": "<p>B. benefit with an export subsidy.</p>",
+              "position": 2
+            },
+            {
+              "id": "0f477099-ad33-4527-b8d8-91f315ab3f4f",
+              "itemBody": "<p>C. not benefit from any trade restriction. International Trade Faculty: Page 2 of 5</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "dc9ef467-a2e8-4b8f-890a-179f5f118c34"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-7",
+      "entry": {
+        "title": "2027 Economics Mod6-Q7",
+        "itemBody": "<p>If Brazil and South Africa have free trade with each other, a common trade policy against all other countries, but no free movement of factors of production between them, then Brazil and South Africa are part of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. A customs union extends an FTA by not only allowing free movement of \ngoods and services among members, but also by creating common trade policy against \nnon-members. Unlike a more integrated common market,  a customs union does not \nallow free movement of factors of production among members.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "713d6d4b-ba7f-4a0c-8f8d-d6bab17a3fd9",
+              "itemBody": "<p>A. customs union.</p>",
+              "position": 1
+            },
+            {
+              "id": "c70c5d5d-1e4e-4e83-ae3a-6b81868e8843",
+              "itemBody": "<p>B. common market.</p>",
+              "position": 2
+            },
+            {
+              "id": "9d3d9ee2-63a6-4d79-9fb3-7cececb94eae",
+              "itemBody": "<p>C. FTA.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "713d6d4b-ba7f-4a0c-8f8d-d6bab17a3fd9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-8",
+      "entry": {
+        "title": "2027 Economics Mod6-Q8",
+        "itemBody": "<p>Which of the following factors best explains why regional trading agreements are more popular than larger multilateral trade agreements?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Regional trading agreements are politically less contentious and quicker \nto establish than multilateral trade negotiations (e.g., under the World  Trade \nOrganization). Policy coordination and harmonization is easier among a  smaller group \nof countries. \n \n9. A is c orrect. A common market structure incorporates all aspects of the customs \nunion and extends it by allowing free movement of factors of production among \nmembers. \n \nInternational Trade \nFaculty:                                                                         Page 5 of 5</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b34396ad-f493-443b-b32d-2bb6ac83551d",
+              "itemBody": "<p>A. Minimal displacement costs</p>",
+              "position": 1
+            },
+            {
+              "id": "024c6ac1-3fda-4849-aca4-514315b3bd99",
+              "itemBody": "<p>B. Trade diversions benefit members</p>",
+              "position": 2
+            },
+            {
+              "id": "511a250d-7bc3-4509-9e31-3bfc79d1ad1d",
+              "itemBody": "<p>C. Quicker and easier policy coordination</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "511a250d-7bc3-4509-9e31-3bfc79d1ad1d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-9",
+      "entry": {
+        "title": "2027 Economics Mod6-Q9",
+        "itemBody": "<p>Four countries operate within a customs union. One country proposes moving to a common market structure. What additional level of economic integration between the countries would most likely arise if this change took place? They would:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "253b0973-2102-4b67-ad5d-4af62991ac52",
+              "itemBody": "<p>A. begin to allow free movement of the factors of production.</p>",
+              "position": 1
+            },
+            {
+              "id": "43f3bd75-37df-4a79-b5cc-a0d8e2dad044",
+              "itemBody": "<p>B. establish common economic institutions and coordination of economic policies.</p>",
+              "position": 2
+            },
+            {
+              "id": "612af5e6-908e-44d4-9271-52709deb08bc",
+              "itemBody": "<p>C. establish common trade barriers against non-members.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "253b0973-2102-4b67-ad5d-4af62991ac52"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-10",
+      "entry": {
+        "title": "2027 Economics Mod6-Q10",
+        "itemBody": "<p>With respect to trading blocs, a common market most likely incorporates all aspects of a(n):</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the common market is the next level of economic integration \nthat incorporates all aspects of the customs union and extends it by allowing free \nmovement of factors of production among members.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d0a7b864-f835-4583-821e-a37255f179db",
+              "itemBody": "<p>A. customs union.</p>",
+              "position": 1
+            },
+            {
+              "id": "81b1c230-ab26-4633-b819-9201bc9b6264",
+              "itemBody": "<p>B. monetary union.</p>",
+              "position": 2
+            },
+            {
+              "id": "a887931a-1bd9-43f6-91c7-6e18657777ed",
+              "itemBody": "<p>C. economic union.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d0a7b864-f835-4583-821e-a37255f179db"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-11",
+      "entry": {
+        "title": "2027 Economics Mod6-Q11",
+        "itemBody": "<p>The implementation of an export subsidy for a normal good produced in a small country will most likely increase the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because in the case of an export subsidy, the exporter has the incentive \nto shift sales from the domestic to the export market because it receives the \ninternational price plus the per-unit subsidy for each unit of the good exported. This \nscenario raises the price in the domestic market by the amount of the subsidy in the \nsmall country case (price before subsidy plus subsidy).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "38d67f69-3729-4dea-84fd-8c87b6fb07f7",
+              "itemBody": "<p>A. domestic consumption of the good.</p>",
+              "position": 1
+            },
+            {
+              "id": "eba31dc6-1b14-446c-8b73-264bcf3145e8",
+              "itemBody": "<p>B. price of the good in the domestic market.</p>",
+              "position": 2
+            },
+            {
+              "id": "b55eee89-1087-40bf-90d7-1ee793815503",
+              "itemBody": "<p>C. national welfare of the country providing the subsidy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "eba31dc6-1b14-446c-8b73-264bcf3145e8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-12",
+      "entry": {
+        "title": "2027 Economics Mod6-Q12",
+        "itemBody": "<p>An argument against free trade is that:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because opponents of free trade point to the potential for greater \nincome inequality and the loss of jobs in developed countries as a result of import \ncompetition.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1f22a28b-5f7c-427d-a2a5-20435406f7b0",
+              "itemBody": "<p>A. it has the potential to lead to greater income inequality.</p>",
+              "position": 1
+            },
+            {
+              "id": "1b130916-f404-4c21-a4fb-901e12ffe991",
+              "itemBody": "<p>B. it increases average production costs in goods and services.</p>",
+              "position": 2
+            },
+            {
+              "id": "360260fd-faa3-4413-aad8-07df4443f53a",
+              "itemBody": "<p>C. it discourages foreign research and development in an economy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1f22a28b-5f7c-427d-a2a5-20435406f7b0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-13",
+      "entry": {
+        "title": "2027 Economics Mod6-Q13",
+        "itemBody": "<p>When a country that is a price taker imposes a tariff on an imported good:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the economic impact of a tariff on imports in small country is \none that is a price taker in the world market for a product and cannot influence the \nworld market price. The welfare effect can be summarized as follows: Consumers \nsuffer a loss of consumer surplus, local producers gain producer surplus and the net \nwelfare effect results in a deadweight loss to the country's welfare.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "919a0665-39d6-4b98-b173-c639c522a247",
+              "itemBody": "<p>A. national welfare increases.</p>",
+              "position": 1
+            },
+            {
+              "id": "a51d377f-9087-4b06-bbc6-4d4104d9a384",
+              "itemBody": "<p>B. consumers gain consumer surplus.</p>",
+              "position": 2
+            },
+            {
+              "id": "1fe87801-82c1-41bb-b206-44e8983579d6",
+              "itemBody": "<p>C. local producers gain producer surplus. International Trade Faculty: Page 3 of 5</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1fe87801-82c1-41bb-b206-44e8983579d6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-6-14",
+      "entry": {
+        "title": "2027 Economics Mod6-Q14",
+        "itemBody": "<p>A small country has a comparative advantage in the production of pencils. The government establishes an export subsidy for pencils to promote economic growth. Which of the following will be the most likely result of this policy?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Export subsidies interfere with the functioning of the free market and \nresult in a deadweight loss to society. The deadweight loss arises on the producer \nside because the higher subsidized price causes inefficient producers to remain in \nthe market. On the consumer side, the higher price causes those that would have \npurchased at the lower price to be shut out of the market.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "af4fdb89-6460-4343-a9c1-dc74649c1708",
+              "itemBody": "<p>A. Although domestic producers will receive a net benefit, the policy will give rise to inefficiencies that cause a deadweight loss to the national welfare.</p>",
+              "position": 1
+            },
+            {
+              "id": "56ae754a-233a-42c5-b6e2-2affe525b313",
+              "itemBody": "<p>B. As new domestic producers enter the pencils market, supply will increase and domestic prices will decline.</p>",
+              "position": 2
+            },
+            {
+              "id": "5bdda8d0-b763-4f9a-95a9-dded99ff24ce",
+              "itemBody": "<p>C. The increase in the domestic producer surplus will exceed the sum of the subsidy and the decrease in the domestic consumer surplus. SUMMARY: - (LOS 17.a): – 1, 2, 3, 6, 12 (LOS 17.b): – 4, 5, 11, 13, 14 (LOS 17.c): – 7, 8, 9, 10 International Trade Faculty: Page 4 of 5</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "af4fdb89-6460-4343-a9c1-dc74649c1708"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

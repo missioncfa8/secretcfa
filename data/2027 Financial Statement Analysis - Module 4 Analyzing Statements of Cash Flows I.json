@@ -1,0 +1,1749 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Financial Statement Analysis_4",
+  "curriculum_year": "2027",
+  "topic": "Financial Statement Analysis",
+  "module_number": 4,
+  "module_name": "Analyzing Statements of Cash Flows I",
+  "question_count": 41,
+  "points_possible": 41.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Financial Statement Analysis - Module 4 Analyzing Statements of Cash Flows I",
+    "topic": "Financial Statement Analysis",
+    "module_id": 4,
+    "question_count": 41,
+    "type": "practice",
+    "points_possible": 41.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Fina-4-1",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q1",
+        "itemBody": "<p>Interest paid is classified as an operating cash flow under:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Interest expense is always classified as an operating cash flow under \nUS GAAP but may be classified as either an operating or financing cash flow under \nIFRS.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3d69bc4b-b68a-44a3-a593-d77a6d4c747f",
+              "itemBody": "<p>A. US GAAP but may be classified as either operating or investing cash flows under IFRS.</p>",
+              "position": 1
+            },
+            {
+              "id": "40488cee-b899-4ca6-8857-f1ef6c3773d7",
+              "itemBody": "<p>B. IFRS but may be classified as either operating or investing cash flows under US GAAP.</p>",
+              "position": 2
+            },
+            {
+              "id": "61ab4a4c-96c6-4613-adfd-162de5c2ba14",
+              "itemBody": "<p>C. US GAAP but may be classified as either operating or financing cash flows under IFRS.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "61ab4a4c-96c6-4613-adfd-162de5c2ba14"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-2",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q2",
+        "itemBody": "<p>Green Glory Corp., a garden supply wholesaler, reported cost of goods sold for the year of $80 million. Total assets increased by $55 million, including an increase of $5 million in inventory. Total liabilities increased by $45 million, including an increase of $2 million in accounts payable. The cash paid by the company to its suppliers is most likely closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Cost of goods sold of $80 million plus the increase in inventory of $5 \nmillion equals purchases from suppliers of $85 million. The increase in accounts \npayable of $2 million means that the company paid $83 million in cash ($85 million \nminus $2 million) to its suppliers.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7f39a26a-2671-4d22-8011-c0591b05e04c",
+              "itemBody": "<p>A. $73 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "0f948b00-d45e-4707-986a-c031244d935b",
+              "itemBody": "<p>B. $77 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "37a73b75-c49d-40d3-943d-5c8bfbe80ab7",
+              "itemBody": "<p>C. $83 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "37a73b75-c49d-40d3-943d-5c8bfbe80ab7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-3",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q3",
+        "itemBody": "<p>Purple Fleur S.A., a retailer of floral products, reported cost of goods sold for the year of $75 million. Total assets increased by $55 million, but inventory declined by $6 million. Total liabilities increased by $45 million, and accounts payable increas ed by $2 million. The cash paid by the company to its suppliers is most likely closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cost of goods sold of $75 million less the decrease in inventory of $6 \nmillion equals purchases from suppliers of $69 million. The increase in accounts \npayable of $2 million means that the company paid $67 million in cash ($69 million \nminus $2 million).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7480960e-5593-40c8-affc-4c2bbff59d0a",
+              "itemBody": "<p>A. $67 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "c5284c39-c3bc-4912-96ac-8538abf9aae3",
+              "itemBody": "<p>B. $79 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "8cfd4d28-f0ea-4021-a2b3-5b429a608f94",
+              "itemBody": "<p>C. $83 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7480960e-5593-40c8-affc-4c2bbff59d0a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-4",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q4",
+        "itemBody": "<p>White Flag, a women’s clothing manufacturer, reported salaries expense of $20 million. The beginning balance of salaries payable was $3 million, and the ending balance of salaries payable was $1 million. How much cash did the company pay in salaries?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Beginning salaries payable of $3 million plus salaries expense of $20 \nmillion minus ending salaries payable of $1 million equals $22 million. Alternatively, \nthe expense of $20 million plus the $2 million decrease in salaries payable equals $22 \nmillion.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ef8a14fa-8bd2-4da7-bcf0-72ff7b3b4dc7",
+              "itemBody": "<p>A. $18 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "f3b7428c-925f-41dc-a17e-3b72ea9042a6",
+              "itemBody": "<p>B. $21 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "9073b0f0-3fae-4350-ae23-c2557021e31a",
+              "itemBody": "<p>C. $22 million. Analyzing Statements of Cash Flows I Faculty: Page 3 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9073b0f0-3fae-4350-ae23-c2557021e31a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-5",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q5",
+        "itemBody": "<p>An analyst gathered the following information from a company’s 2018 financial statements (in $ millions) Year ended 31 December 2017 2018 Net sales 245.8 254.6 Cost of goods sold 168.3 175.9 Accounts receivable 73.2 68.3 Inventory 39 47.8 Accounts payable 20.3 22.9 Based only on the information above, the company’s 2018 statement of cash flows in the direct format would include amounts (in $ millions) for cash received from customers and cash paid to suppliers, respectively, that are closest to: Cash received from customers Cash paid to suppliers</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Cash received from customers = Sales + Decrease in accounts receivable \n= 254.6 + 4.9 = 259.5. Cash paid to suppliers = Cost of goods sold + Increase in \ninventory – Increase in accounts payable = 175.9 + 8.8 – 2.6 = 182.1.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "928f052d-5b0e-40d3-ad90-6b7e9caf632c",
+              "itemBody": "<p>A. 249.7 169.7 Cash received from customers Cash paid to suppliers</p>",
+              "position": 1
+            },
+            {
+              "id": "9dcf8891-4db9-4ea0-a6f2-710c4346e055",
+              "itemBody": "<p>B. 259.5 174.5 Cash received from customers Cash paid to suppliers</p>",
+              "position": 2
+            },
+            {
+              "id": "0d7bc5e9-a79e-440d-bc19-8857c53b333a",
+              "itemBody": "<p>C. 259.5 182.1</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0d7bc5e9-a79e-440d-bc19-8857c53b333a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-6",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q6",
+        "itemBody": "<p>Based on the information in Exhibit 1 for Pinkerly Inc., a fictitious company, what are the total adjustments that the company would make to net income in order to derive operating cash flow? Exhibit 1 Pinkerly Inc. Year Ended Income statement item 12/31/2018 Net income USD30 million Depreciation USD7 million Balance sheet item 12/31/2017 12/31/2018 Change Accounts receivable USD15 million USD30 million USD15 million Inventory USD16 million USD13 million (USD3 million) Accounts payable USD10 million USD20 million USD10 million</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. To derive operating cash flow, the company would make the following \nadjustments to net income: add depreciation (a non -cash expense) of USD7 million; \nadd the decrease in inventory of USD3 million; add the increase in accounts payable \nof USD10 million; and subtract the increase in accounts receivable of USD15 million. \nTotal additions of USD20 million and total subtractions of USD15 million result in net \ntotal additions of USD5 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "127967b8-8d1b-4fcd-b0a5-56d5a972f2f5",
+              "itemBody": "<p>A. Add USD5 million</p>",
+              "position": 1
+            },
+            {
+              "id": "c77eadb4-179a-4c84-92e0-1b5e790361d0",
+              "itemBody": "<p>B. Add USD21 million</p>",
+              "position": 2
+            },
+            {
+              "id": "6563a927-9ef9-4374-ac6e-999d69f15714",
+              "itemBody": "<p>C. Subtract USD9 million Analyzing Statements of Cash Flows I Faculty: Page 4 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "127967b8-8d1b-4fcd-b0a5-56d5a972f2f5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-7",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q7",
+        "itemBody": "<p>When computing net cash flow from operating activities using the indirect method, an addition to net income is most likely to occur when there is a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. An addition to net income is made when there is a loss on the retirement \nof debt, which is a non-operating loss. A gain on the sale of an asset and a decrease \nin deferred tax liability are both subtracted from net-income.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f0f43d23-0b95-458c-a877-3604f69e38ae",
+              "itemBody": "<p>A. gain on the sale of an asset.</p>",
+              "position": 1
+            },
+            {
+              "id": "561da54c-f05b-4e00-99f1-61abfbbbfb77",
+              "itemBody": "<p>B. loss on the retirement of debt.</p>",
+              "position": 2
+            },
+            {
+              "id": "e1530be1-dd08-40ad-97da-ce64c5355120",
+              "itemBody": "<p>C. decrease in a deferred tax liability.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "561da54c-f05b-4e00-99f1-61abfbbbfb77"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-8",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q8",
+        "itemBody": "<p>An analyst gathered the information in Exhibit 1 from a company’s 2018 financial statements: Exhibit 1 2018 Financial Statement (US dollars, millions) Balances as of Year Ended 31 December 2017 2018 Retained earnings 120 145 Accounts receivable 38 43 Inventory 45 48 Accounts payable 36 29 In 2018, the company declared and paid cash dividends of USD10 million and recorded depreciation expense in the amount of USD25 million. The company considers dividends paid a financing activity. The company’s 2018 cash flow from operations (in USD millions) was closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. All dollar amounts are in millions. Net income (NI) for 2018 is USD35. \nThis amount is the increase in retained earnings, USD25, plus the dividends paid, \nUSD10. Depreciation of USD25 is added back to net income, and the increases in \naccounts receivable, USD5, and in inventory, USD3, are subtracted from net income \nbecause they are uses of cash. The decrease in accounts payable is also a use of cash \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 15 of 20 \n \nand, therefore, a subtraction from net income. Thus, cash flow from operations is \nUSD25 + USD10 + USD25 – USD5 – USD3 – USD7 = USD45.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "da394a26-0df3-47bc-9c1e-619a857ece5f",
+              "itemBody": "<p>A. 25.</p>",
+              "position": 1
+            },
+            {
+              "id": "10bc2a4d-a453-4be8-8f09-f1fb05a8e10e",
+              "itemBody": "<p>B. 45.</p>",
+              "position": 2
+            },
+            {
+              "id": "2f96d21f-3f44-4bb5-bb12-df5d41fdd2a9",
+              "itemBody": "<p>C. 75.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "10bc2a4d-a453-4be8-8f09-f1fb05a8e10e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-9",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q9",
+        "itemBody": "<p>Based on the information in Exhibit 1 for Star Inc., what are the total net adjustments that the company would make to net income to derive operating cash flow? Exhibit 1 Star Inc. Year Ended Year Ended Income Statement Item 12/31/2018 Net income USD20 million Depreciation USD2 million Balance Sheet Item 12/31/2017 12/31/2018 Change Accounts receivable USD25 million USD22 million (USD3 million) Inventory USD10 million USD14 million USD4 million Accounts payable USD8 million USD13 million USD5 million</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. To derive operating cash flow, the company would make the following \nadjustments to net income: Add depreciation (a non -cash expense) of USD2 million; \nadd the decrease in accounts receivable of USD3 million; add the increase in accounts \npayable of USD5 million; and subtract the increase in inventory of USD4 million. Total \nadditions would be USD10 million, and total subtractions would be USD4 million, which \ngives net additions of USD6 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "699a46aa-9e4b-4af8-ae5c-55ab0a83a56e",
+              "itemBody": "<p>A. Add USD2 million</p>",
+              "position": 1
+            },
+            {
+              "id": "53839223-e103-4c3c-9ff4-8c7a632be845",
+              "itemBody": "<p>B. Add USD6 million</p>",
+              "position": 2
+            },
+            {
+              "id": "49cf7fad-f9d0-45e6-a3c8-1ac05be214b4",
+              "itemBody": "<p>C. Subtract USD6 million. Analyzing Statements of Cash Flows I Faculty: Page 5 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "53839223-e103-4c3c-9ff4-8c7a632be845"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-10",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q10",
+        "itemBody": "<p>In 2018, a company using US GAAP made cash payments of USD6 million for salaries, USD2 million for interest expense, and USD4 million for income taxes. Additional information for the company is provided in the Exhibit 1: Exhibit 1 Cash Payments (US dollars, millions) 2017 2018 Revenue 42 37 Cost of goods sold 18 16 Inventory 36 40 Accounts receivable 22 19 Accounts payable 14 12 Based only on the information in Exhibit 1 , the company’s operating cash flow for 2018 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Operating cash flows = Cash received from customers – (Cash paid to suppliers + \nCash paid to employees + Cash paid for other operating expenses + Cash paid for \ninterest + Cash paid for income taxes) \nCash received from customers = Revenue + Decrease in accounts receivable \n= USD37 + USD3 = USD40 million \n \nCash paid to suppliers = Cost of goods sold + Increase in inventory + Decrease in \naccounts payable \n= USD16 + USD4 + USD2 = USD22 million \n \nTherefore, the company’s operating cash flow = USD40 – USD22 – Cash paid for \nsalaries – Cash paid for interest – Cash paid for taxes = USD40 – USD22 – USD6 – \nUSD2 – USD4 = USD6 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0781df50-ab88-4d77-a247-81c4cb635a14",
+              "itemBody": "<p>A. USD6 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "b578f610-9300-48e2-a369-1da8adcc0fbc",
+              "itemBody": "<p>B. USD10 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "2e3edf85-e84b-4001-a12e-2bef30873eb0",
+              "itemBody": "<p>C. USD14 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0781df50-ab88-4d77-a247-81c4cb635a14"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-11",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q11",
+        "itemBody": "<p>The information in Exhibit 1 is extracted from Sweetfall Incorporated’s financial statements. Income Statement Balance Sheet Changes Revenue USD56,800 Decrease in accounts receivable USD1,324 Cost of goods sold 27,264 Decrease in inventory 501 Other operating expense 562 Increase in prepaid expense 6 Depreciation expense 2,500 Increase in accounts payable 1,063 The amount of cash Sweetfall Inc. paid to suppliers is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The amount of cash paid to suppliers is calculated as follows: \n= Cost of goods sold – Decrease in inventory – Increase in accounts payable \n= USD27,264 – USD501 – USD1,063 \n= USD25,700.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a3b595be-e47e-43df-bb0e-292f38d7bdae",
+              "itemBody": "<p>A. USD25,700.</p>",
+              "position": 1
+            },
+            {
+              "id": "33b9ff83-174b-4c82-9eb9-82804c1eae38",
+              "itemBody": "<p>B. USD26,702.</p>",
+              "position": 2
+            },
+            {
+              "id": "ae2a6629-16db-4f0a-913f-f5a887783f6b",
+              "itemBody": "<p>C. USD27,826. Analyzing Statements of Cash Flows I Faculty: Page 6 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a3b595be-e47e-43df-bb0e-292f38d7bdae"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-12",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q12",
+        "itemBody": "<p>The following items are from a company’s cash flow statement. Classification of Cash Flow Description Amount (£ thousands) Operating activities Cash received from customers 55,000 Investing activities Interest and dividends received 10,000 Financing activities Net repayment of revolving credit loan 12,000 Which of the following standards and formats did the company most likely use in the preparation of its financial statements?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The direct method of cash flow statement presentation shows the \nspecific cash inflows and outflows that result in reported cash flow from operating \nactivities (e.g., cash from customers and cash to suppliers). Companies using IFRS can \ndecide to report int erest and dividend receipts as either an investing or operating \nactivity; under US GAAP, they must report such income as an operating activity. The \nlisted operating and investment activities indicate that the company reports under \nIFRS using the direct method.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e42ba06e-857b-4bf2-91fc-8b86d5aee244",
+              "itemBody": "<p>A. IFRS, direct format</p>",
+              "position": 1
+            },
+            {
+              "id": "1d70c950-4448-480e-9af8-266e288e6463",
+              "itemBody": "<p>B. IFRS, indirect format</p>",
+              "position": 2
+            },
+            {
+              "id": "7a238fcc-ff7f-4a71-96bd-4645e6236fe9",
+              "itemBody": "<p>C. Either IFRS or US GAAP, direct format</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e42ba06e-857b-4bf2-91fc-8b86d5aee244"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-13",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q13",
+        "itemBody": "<p>Selected information from a company’s comparative income statement and balance sheet is presented below: Selected Income Statement Data for the Year Ended 31 August ($ thousands) 2013 2012 Sales revenue 100,000 95,000 Cost of goods sold 47,000 47,500 Depreciation expense 4,000 3,500 Net Income 11,122 4,556 Selected Balance Sheet Data as of 31 August ($ thousands) 2013 2012 Current Assets Cash and investments 21,122 25,000 Accounts receivable 25,000 13,500 Inventories 13,000 8,500 Total current assets 59,122 47,000 Current liabilities Accounts payable 15,000 15,000 Other current liabilities 7,000 9,000 Total current liabilities 22,000 24,000 The cash collected from customers in 2013 is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cash collected from customers = Revenues – Increase in accounts receivable \n = $100 – (25 – 13.5) \n = $88.5 thousand \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 16 of 20</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "05e0f9e3-b723-41b5-8de8-e1631ab7acb5",
+              "itemBody": "<p>A. $88,500.</p>",
+              "position": 1
+            },
+            {
+              "id": "bbe7b96a-4e44-4e4d-84a1-0c807dee5f04",
+              "itemBody": "<p>B. $96,100.</p>",
+              "position": 2
+            },
+            {
+              "id": "5544941f-df17-4029-98be-b8c3f2251391",
+              "itemBody": "<p>C. $111,500. Analyzing Statements of Cash Flows I Faculty: Page 7 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "05e0f9e3-b723-41b5-8de8-e1631ab7acb5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-14",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q14",
+        "itemBody": "<p>Under IFRS, dividends received are least likely classified as which type of cash flow on the cash flow statement?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Dividends received can be classified as either an operating or investing \nactivity under IFRS but not as a financing activity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b6e608ca-ab98-4905-966d-b95f0d00c48a",
+              "itemBody": "<p>A. Financing</p>",
+              "position": 1
+            },
+            {
+              "id": "65e29d72-d621-4b12-8d85-96495db82fa5",
+              "itemBody": "<p>B. Operating</p>",
+              "position": 2
+            },
+            {
+              "id": "9b051970-9433-4b66-8de8-7d4f55ee138b",
+              "itemBody": "<p>C. Investing</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b6e608ca-ab98-4905-966d-b95f0d00c48a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-15",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q15",
+        "itemBody": "<p>The following annual financial data are available for a company: £ millions Beginning interest payable 90.4 Cash paid for interest 103.3 Ending interest payable 84.5 Interest expense (in millions) for the year is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Interest expense can be determined from the following relationship: \n  £ millions \nBeginning interest payable 90.4 \nPlus interest expense ? \nMinus cash paid for interest –103.3 \nEnding interest payable 84.5 \nSolving for interest expense = 97.4</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "125bae66-f5dc-4f3f-bd54-9040bc1ee2ec",
+              "itemBody": "<p>A. £97.4.</p>",
+              "position": 1
+            },
+            {
+              "id": "384a018d-83d2-426d-a2d7-71ef425e0d87",
+              "itemBody": "<p>B. £109.2.</p>",
+              "position": 2
+            },
+            {
+              "id": "08f45263-b0bf-443e-895a-41416b55ae3a",
+              "itemBody": "<p>C. £71.6.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "125bae66-f5dc-4f3f-bd54-9040bc1ee2ec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-16",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q16",
+        "itemBody": "<p>The following financial data are available for a company: Metric Current Year (€ thousands) Prior Year (€ thousands) Cost of goods sold 600 400 Inventory 500 600 Accounts payable 200 400 Accounts receivable 400 900 Cash paid to suppliers (in thousands) in the current year is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The calculation is as follows: \n  € thousands \nCost of goods sold 600 \nMinus decrease in inventory (500 – 600) –100 \nPurchases from suppliers 500 \nPlus decrease in accounts payable (200 – 400) 200 \nCash paid to suppliers 700</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0316d896-e060-4018-8006-903fc1cce971",
+              "itemBody": "<p>A. €900.</p>",
+              "position": 1
+            },
+            {
+              "id": "cb2febb0-42c5-4815-83de-41623796c831",
+              "itemBody": "<p>B. €700.</p>",
+              "position": 2
+            },
+            {
+              "id": "f9fcabdc-d707-4f89-818f-5e25ddafb50d",
+              "itemBody": "<p>C. €300.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cb2febb0-42c5-4815-83de-41623796c831"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-17",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q17",
+        "itemBody": "<p>A company using IFRS reports its interest payments on long-term debt as a financing activity. If the company reported under US GAAP, the most likely effect would be a:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Interest payments can be reported either as operating or financing \ncash flow under IFRS, but they can be reported only as operating cash flow under \nUS GAAP. The interest payment was originally reported as financing activity under \nIFRS, but under US GAAP it would be an operating activity. Therefore, under US \nGAAP, cash flow from financing activities would be higher and operating cash flows \nlower by the same amount.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "74811e50-c017-4ed7-8307-e0dab3852e89",
+              "itemBody": "<p>A. higher cash flow from operations.</p>",
+              "position": 1
+            },
+            {
+              "id": "270230c6-c5fb-49c3-aee3-77ddbee7b18f",
+              "itemBody": "<p>B. higher cash flow from financing activities.</p>",
+              "position": 2
+            },
+            {
+              "id": "b439bc82-5ac0-4ec8-a996-c16c3e6ccd31",
+              "itemBody": "<p>C. lower cash flow from investing activities.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "270230c6-c5fb-49c3-aee3-77ddbee7b18f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-18",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q18",
+        "itemBody": "<p>When a firm can choose where in the cash flow statement to classify interest received, which of the following choices is the most appropriate?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Under IFRS, interest received may be classified as either an operating \nactivity or as an investing activity, but under US GAAP, it can be classified only as an \noperating activity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "35d0021d-d240-4ea8-95d2-f8e6169519b5",
+              "itemBody": "<p>A. As a financing activity under IFRS</p>",
+              "position": 1
+            },
+            {
+              "id": "0d18d6a8-9e4e-4100-af95-ae2f4bd36622",
+              "itemBody": "<p>B. As an investing activity under US GAAP</p>",
+              "position": 2
+            },
+            {
+              "id": "5937d377-394d-44fd-9648-8d527aa9da95",
+              "itemBody": "<p>C. As an operating activity under IFRS Analyzing Statements of Cash Flows I Faculty: Page 8 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5937d377-394d-44fd-9648-8d527aa9da95"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-19",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q19",
+        "itemBody": "<p>An analyst gathers the following information from a company’s current financial statements: Cash Flow Statement (Indirect Method) for Year Ended 31 December ($ millions) Net income 2,520 Depreciation 1,178 Change in accounts receivable 62 Change in accounts payable 295 Change in inventory (792) Operating cash flow 4,723 Income Statement for Year Ended 31 December ($ millions) Revenue 26,430 Cost of goods sold 12,831 Operating expenses 9,802 Income tax expense 1,277 Net income 2,520 If the company uses the direct method to prepare its cash flow statement, the cash paid to suppliers (in $ millions) will be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The cash paid to suppliers is calculated as follows: \n  $ Millions \nCost of goods sold 12,831 \nLess: Decrease in inventory -792 \nPurchases from suppliers 12,039 \nLess: Increase in accounts payable -295 \nCash paid to suppliers 11,744 \n \n \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 17 of 20</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f80b250b-371b-4d80-a12d-2d918e221f54",
+              "itemBody": "<p>A. 11,744.</p>",
+              "position": 1
+            },
+            {
+              "id": "28cafb6b-a8c0-4748-9f59-98177b25455c",
+              "itemBody": "<p>B. 12,334.</p>",
+              "position": 2
+            },
+            {
+              "id": "814400cc-8f04-4b81-ba6a-54268f393254",
+              "itemBody": "<p>C. 12,536.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f80b250b-371b-4d80-a12d-2d918e221f54"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-20",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q20",
+        "itemBody": "<p>An analyst gathers the following information from a company’s current financial statements: Year Ended 31 December ($ millions) 2016 Revenue 26,430 Cost of goods sold 12,831 Operating expenses 9,802 Income tax expense 1,277 Net Income 2,250 Year Ended 31 December ($ millions) 2016 2015 Accounts receivable 1,134 1,072 Accounts payable 4,858 3,724 Inventory 4,462 3,670 If the company uses the direct method to prepare its cash flow statement, the cash received from customers (in $ millions) will be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Accounts receivable increased; therefore, cash collected from \ncustomers will be less than reported revenue. Calculations are as follows: \n  Calculation $ Millions \nRevenue   26,430 \nLess increase accounts receivable 1,134 – 1,072 = 62 \nCash received from customers --- 26,368</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bea627c6-c138-4c99-911f-7eb3aa62b11b",
+              "itemBody": "<p>A. 26,368.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1fe3f3a-9c54-4eca-a1c7-cce18ea07ca3",
+              "itemBody": "<p>B. 25,296.</p>",
+              "position": 2
+            },
+            {
+              "id": "a97ea071-5671-4bbf-b683-a552bbd91c1f",
+              "itemBody": "<p>C. 26,492. Analyzing Statements of Cash Flows I Faculty: Page 9 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bea627c6-c138-4c99-911f-7eb3aa62b11b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-21",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q21",
+        "itemBody": "<p>Which of the following is most likely added back to net income when preparing a cash flow statement under the indirect method?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because amortization of a discount (premium) is a non-cash item and thus, \napart from its effect on taxable income, has no effect on cash flow. In the section \nof the statement of cash flows that reconciles net income to operating cash flow, \namortization of a discount (premium) is added back to (subtracted from) net income.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98d94578-96cc-444b-b588-a0ff2ee39357",
+              "itemBody": "<p>A. Gain on sale of assets</p>",
+              "position": 1
+            },
+            {
+              "id": "e54f7130-786a-4fe6-8928-da50abfad3f4",
+              "itemBody": "<p>B. Amortization of bond discount</p>",
+              "position": 2
+            },
+            {
+              "id": "7cfd525e-5a93-475d-b606-6078639834bc",
+              "itemBody": "<p>C. Decrease in deferred tax liability</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e54f7130-786a-4fe6-8928-da50abfad3f4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-22",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q22",
+        "itemBody": "<p>An analyst gathers the following information (in £ millions) about a company: Year 2 Year 1 Revenues 2,100 2,000 Accounts receivable 230 200 Cash 70 50 Cash received from customers (in £ millions) in Year 2 is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "02da7dc2-d316-4c22-99fc-a3a28f813d4d",
+              "itemBody": "<p>A. 2,070.</p>",
+              "position": 1
+            },
+            {
+              "id": "cebf2921-fcb9-413e-b8ef-98d8577d4903",
+              "itemBody": "<p>B. 2,120.</p>",
+              "position": 2
+            },
+            {
+              "id": "3b29f487-48dc-409a-9e5b-ede2c46b2990",
+              "itemBody": "<p>C. 2,130.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "02da7dc2-d316-4c22-99fc-a3a28f813d4d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-23",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q23",
+        "itemBody": "<p>An analyst gathers the following information (in $ thousands) about a company: Net income 10,000 Gain on debt retirement 500 Decrease in working capital 2,000 Cash flow from operating activities (in $ thousands) is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because Cash flow from operating activities = Net income + Decrease in \nworking capital – Gain on retirement on debt = 10,000 + 2,000 – 500 = 11,500.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ef44745a-8325-4f66-b537-096423d104d5",
+              "itemBody": "<p>A. 8,500.</p>",
+              "position": 1
+            },
+            {
+              "id": "32980c69-778d-4439-a56f-fe8d4ebff553",
+              "itemBody": "<p>B. 11,500.</p>",
+              "position": 2
+            },
+            {
+              "id": "db2d8da4-a9c4-4103-af8b-7973f06ca35f",
+              "itemBody": "<p>C. 12,500.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "32980c69-778d-4439-a56f-fe8d4ebff553"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-24",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q24",
+        "itemBody": "<p>An analyst gathers the following year-end information from a company's financial statements: Year 2 Year 1 Accounts receivable £3 million £1 million Accounts payable £2 million £5 million Based only on this information, if Year 2 net income is £3 million and the Year 1 ending cash balance is £10 million, the Year 2 ending cash balance is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because £3,000,000 net income would need to be adjusted for accrued \nincome/expense derived from the change in accounts receivable and accounts \npayable. The increase in accounts receivable is subtracted from net income and the \ndecrease in accounts payable is also subtracted from net income. \nChange in cash = Net Income – increase in Accounts Receivable – decrease in \nAccounts Payable: \nChange in cash = £3,000,000 – £2,000,000 – £3,000,000 = –£2,000,000. \nEnding cash balance = 2011 ending cash balance + change in cash = £10,000,000 – \n£2,000,000 = £8,000,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0c8ae8a3-9c51-4c47-856a-266260b46dc8",
+              "itemBody": "<p>A. £8 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "30adf649-ce82-43a8-8f58-928b0a5617ac",
+              "itemBody": "<p>B. £12 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "9c5dd894-79d5-4526-9a47-670937eaf47e",
+              "itemBody": "<p>C. £18 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0c8ae8a3-9c51-4c47-856a-266260b46dc8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-25",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q25",
+        "itemBody": "<p>An analyst gathers the following information (in € thousands) about a company: Net Income 143 Gain on sale of equipment 20 Decrease in accounts receivable 38 Analyzing Statements of Cash Flows I Faculty: Page 10 of 20 Cash flow from operating activities (in € thousands) is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because changes in working capital accounts include increases and \ndecreases in the current operating asset and liability accounts. To make the working \ncapital adjustments under the indirect method, any increase in a current operating \nasset account is subt racted from net income and a net decrease is added to net \nincome. When calculating operating cash flow under the indirect method, gain on sale \nof assets are subtracted from net income. Accordingly, cash flow from operating \nactivities = Net income – gain on sale of equipment + decrease in accounts receivable \n= 143 – 20 + 38 = 161.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7feea265-085d-4f0f-8192-fdf5558cb8c0",
+              "itemBody": "<p>A. 85.</p>",
+              "position": 1
+            },
+            {
+              "id": "eb67317c-45db-4caa-bd46-bdf7e5995781",
+              "itemBody": "<p>B. 161.</p>",
+              "position": 2
+            },
+            {
+              "id": "9169d7f2-2260-45b5-bdec-f55149432564",
+              "itemBody": "<p>C. 201.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "eb67317c-45db-4caa-bd46-bdf7e5995781"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-26",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q26",
+        "itemBody": "<p>The following information is available on a retailer (in $ thousands): Summarized Income Statement Revenues 17,210 Cost of goods sold 9,283 Salary and wage expense 2,981 Rent expense 1,275 Depreciation expense 761 Income tax expense 823 Net income 2,087 Partial Cash Flow Statement Operating cash flows Net income 2,087 Add: non-cash items --- Depreciation expense 761 Increase in accounts receivable (123) Increase in inventory 511 Decrease in prepaid expenses (37) Decrease in accounts payable (190) Increase in wages payable 133 Operating cash flows 3,142 An analyst is converting the cash flow statement to the direct method. The amount (in $ thousands) that she calculates for “Cash paid to suppliers” is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Metric   \nCost of goods sold $9,283 \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 18 of 20 \n \nAdd: increase in inventory 511 \nEquals purchases from suppliers 9,794 \nAdd: decrease in accounts payable 190 \nCash paid to suppliers $9,984</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0256e687-1b36-4d39-b708-d8518afa756b",
+              "itemBody": "<p>A. 8,582.</p>",
+              "position": 1
+            },
+            {
+              "id": "935728d6-d6e2-48ed-b1d9-d13ae04aff79",
+              "itemBody": "<p>B. 9,984.</p>",
+              "position": 2
+            },
+            {
+              "id": "63c5e52e-d526-496a-a246-42a3e5f3ded2",
+              "itemBody": "<p>C. 11,222.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "935728d6-d6e2-48ed-b1d9-d13ae04aff79"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-27",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q27",
+        "itemBody": "<p>On the statement of cash flows, interest payments may be classified as a financing cash flow under:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the cash paid for interest is included in operating cash flows \nunder US GAAP and may be included in operating or financing cash flows under IFRS \nand US GAAP classify interest expense as an operating activity, even though the \nprincipal amount of the debt issued is classified as a financing activity. IFRS allows \ncompanies to classify interest expense as either an operating activity or a financing \nactivity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ccc17b65-3219-40a2-8fe2-076c443315e9",
+              "itemBody": "<p>A. IFRS only.</p>",
+              "position": 1
+            },
+            {
+              "id": "c17e1aa2-ff6c-48eb-a49f-c405194fe193",
+              "itemBody": "<p>B. US GAAP only.</p>",
+              "position": 2
+            },
+            {
+              "id": "5b4adf84-a4f7-42f0-8c47-145e32d7a2fe",
+              "itemBody": "<p>C. both IFRS and US GAAP.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ccc17b65-3219-40a2-8fe2-076c443315e9"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-28",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q28",
+        "itemBody": "<p>An analyst gathers the following information (in € thousands) about a company: Revenue 5,000 Cash balance, beginning of year 2,000 Cash balance, end of year 2,000 Increase in accounts receivable 1,200 Analyzing Statements of Cash Flows I Faculty: Page 11 of 20 Cash received from customers (in € thousands) is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because if revenue reported using accrual accounting is higher than the \ncash actually collected, the result will typically be an increase in accounts \nreceivable. Also, Beginning accounts receivable Plus: Revenues Minus: Cash collected \nfrom customers Equals: Ending accounts receivable restated as: \nCash collected from customers = Beginning accounts receivable + Revenue – Ending \naccounts receivable; or = Revenue – Increase in accounts receivable = 5,000 – 1,200 \n= 3,800.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aebb974b-5ca4-45ba-b74c-664b71237f6c",
+              "itemBody": "<p>A. 3,800.</p>",
+              "position": 1
+            },
+            {
+              "id": "82deb01a-a33d-4ee1-8dd4-29ad18d46364",
+              "itemBody": "<p>B. 5,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "bc5f4de9-4444-4631-bcfa-3930e16404d3",
+              "itemBody": "<p>C. 6,200.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aebb974b-5ca4-45ba-b74c-664b71237f6c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-29",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q29",
+        "itemBody": "<p>An analyst gathers the following information about a company’s equipment base: Beginning balance accumulated depreciation € 70,00,000 Ending balance accumulated depreciation € 80,00,000 Depreciation expense of equipment € 40,00,000 The company sold equipment having a historical cost of €5,000,000 and reported a loss on sale of €250,000. The cash received from the sale of equipment is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because selling price (cash inflow) minus book value equals gain or loss \non sale; therefore, gain or loss on sale plus book value equals selling price (cash \ninflow). \nAccumulated depreciation on the equipment sold = Beginning balance accumulated \ndepreciation + Depreciation expense – Ending balance accumulated depreciation; \nor = €7,000,000 + €4,000,000 – €8,000,000 = €3,000,000. \nBook value of the equipment sold = Historical cost of equipment sold – Accumulated \ndepreciation on equipment sold; or = €5,000,000 – €3,000,000 = €2,000,000. Cash \nreceived from sale of equipment = Book value of the equipment sold – Loss on sale = \n€2,000,000 – €250,000 = €1,750,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e111832e-4f89-4d28-88eb-8effaa471864",
+              "itemBody": "<p>A. €750,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "6840f797-93a6-4ab7-b5ca-410869d70ed4",
+              "itemBody": "<p>B. €1,750,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "de7e89ff-b1a0-4448-b320-15ad203992da",
+              "itemBody": "<p>C. €4,750,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6840f797-93a6-4ab7-b5ca-410869d70ed4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-30",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q30",
+        "itemBody": "<p>When calculating cash paid to suppliers based on income statement and balance sheet data, cost of sales is adjusted for changes in:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because there are two pieces to this calculation: the amount of inventory \npurchased and the amount paid for it. To determine purchases from suppliers, cost \nof goods sold is [cost of sales] adjusted for the change in inventory. Therefore, once \npurchases have been determined, cash paid to suppliers can be calculated by adjusting \npurchases for the change in accounts payable.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8cc682d6-ec7c-407c-9166-0e1ffccf04a5",
+              "itemBody": "<p>A. inventory only.</p>",
+              "position": 1
+            },
+            {
+              "id": "2f6d1a99-348c-4feb-8870-ea15a3d4f618",
+              "itemBody": "<p>B. accounts payable only.</p>",
+              "position": 2
+            },
+            {
+              "id": "d9456757-c0f6-4584-bd33-6876d8789a61",
+              "itemBody": "<p>C. both inventory and accounts payable.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d9456757-c0f6-4584-bd33-6876d8789a61"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-31",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q31",
+        "itemBody": "<p>On the statement of cash flows, cash dividends paid may be classified as an operating activity under:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because US GAAP classify dividends paid to stockholders as a financing \nactivity, whereas IFRS allow companies to classify dividends paid as either an \noperating activity or a financing activity. \n \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 19 of 20</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0eabc469-73eb-4636-bd1a-14a453faefea",
+              "itemBody": "<p>A. IFRS only.</p>",
+              "position": 1
+            },
+            {
+              "id": "48ed674a-034f-4ce7-934e-11f39236d959",
+              "itemBody": "<p>B. US GAAP only.</p>",
+              "position": 2
+            },
+            {
+              "id": "6d23265b-32b2-43dd-8264-3e705437d10b",
+              "itemBody": "<p>C. both IFRS and US GAAP.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0eabc469-73eb-4636-bd1a-14a453faefea"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-32",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q32",
+        "itemBody": "<p>On the statement of cash flows, interest paid should be classified as:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because IFRS allows more flexibility in the reporting of such items as \ninterest paid. IFRS allows companies to classify interest expense as either an \noperating activity or a financing activity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4b4092b1-852f-4c25-b709-04b1146901fa",
+              "itemBody": "<p>A. a financing cash flow only.</p>",
+              "position": 1
+            },
+            {
+              "id": "430503f8-353e-4ab9-a56b-0fbdda9d39f7",
+              "itemBody": "<p>B. an operating cash flow only.</p>",
+              "position": 2
+            },
+            {
+              "id": "f511a601-397d-48a5-a06e-ab0a4f780701",
+              "itemBody": "<p>C. either a financing or an operating cash flow.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f511a601-397d-48a5-a06e-ab0a4f780701"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-33",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q33",
+        "itemBody": "<p>Under the indirect method of reporting cash flow from operating activities, a decrease in deferred income tax liabilities is:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because a decrease in deferred tax liability  would be subtracted from \nnet income under the indirect method of reporting cash flow from operations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "537fa589-1beb-4746-ad08-d94244782a33",
+              "itemBody": "<p>A. ignored.</p>",
+              "position": 1
+            },
+            {
+              "id": "4541347e-aaba-4ffb-87c3-2312b1241783",
+              "itemBody": "<p>B. added back to net income.</p>",
+              "position": 2
+            },
+            {
+              "id": "1edf2785-2412-4633-b6e2-0a6e4968f354",
+              "itemBody": "<p>C. subtracted from net income.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1edf2785-2412-4633-b6e2-0a6e4968f354"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-34",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q34",
+        "itemBody": "<p>An analyst gathers the following information about a company's fiscal year ended 31 December: Interest payable on 1 January £45,000 Cash interest paid during the year £15,000 Analyzing Statements of Cash Flows I Faculty: Page 12 of 20 Interest expense during the year £50,000 Interest payable on 31 December is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because Ending interest payable = Beginning interest payable + Interest \nexpense – Cash paid for interest. Accordingly, Ending interest payable = Beginning \ninterest payable + Interest expense – Cash paid for interest = £45,000 + £50,000 – \n£15,000 = £80,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a72c89e2-c8e7-4888-bd11-d763ed2dfbfe",
+              "itemBody": "<p>A. £30,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "8f7e22b4-9927-4cfa-bbee-cd635fd44b78",
+              "itemBody": "<p>B. £80,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "8a787df0-5e66-43e7-acc2-fb1efab9f36f",
+              "itemBody": "<p>C. £95,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8f7e22b4-9927-4cfa-bbee-cd635fd44b78"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-35",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q35",
+        "itemBody": "<p>An analyst gathers the following information (in £ millions) about a company: Other operating expenses 4,500 Decrease in prepaid expenses 200 Increase in other accrued liabilities 300 Cash paid for other operating expenses (in £ millions) is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because to determine the cash paid for other operating expenses, it is \nnecessary to adjust the other operating expenses amount on the income statement \nby the net changes in prepaid expenses and accrued expense liabilities for the year. \nAccordingly, Cash paid for other operating expenses = Other operating expenses – \nDecrease in prepaid expenses – Increase in other accrued liabilities = 4,500 – 200 – \n300 = 4,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0f265479-68d8-4026-962c-a9dbb57c53af",
+              "itemBody": "<p>A. 4,000.</p>",
+              "position": 1
+            },
+            {
+              "id": "7558071c-9175-4622-aec3-07bbfa9acad8",
+              "itemBody": "<p>B. 4,400.</p>",
+              "position": 2
+            },
+            {
+              "id": "73e23193-cd30-4c6f-bdeb-9a7c68eca3d8",
+              "itemBody": "<p>C. 4,600.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0f265479-68d8-4026-962c-a9dbb57c53af"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-36",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q36",
+        "itemBody": "<p>A company with positive net income could report negative cash flow from operating activities if the company:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because a gain from the sale of a fixed asset increases net income but \ndoes not increase operating cash flow. Therefore, it does not appear in the \noperating cash flow section under the direct method and is deducted from net \nprofit in calculating cash flow from operating activities under the indirect method.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0188533f-3cee-4807-95da-dacb8b9b706d",
+              "itemBody": "<p>A. retires outstanding bonds.</p>",
+              "position": 1
+            },
+            {
+              "id": "f42d9b2b-cfd4-4b32-b713-82df456f7926",
+              "itemBody": "<p>B. recognizes significant depreciation expense.</p>",
+              "position": 2
+            },
+            {
+              "id": "acf59caa-44c3-4c07-a633-a74a8d01517a",
+              "itemBody": "<p>C. realizes a gain from the sale of a fixed asset.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "acf59caa-44c3-4c07-a633-a74a8d01517a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-37",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q37",
+        "itemBody": "<p>An analyst gathers the following information (in € millions) about a company: Cash received from customers 800 Purchases from suppliers 700 Increase in inventory 50 Increase in accounts receivable 60 If all purchases and sales were made on credit, gross profit (in € millions) is:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because Revenue = Cash received from customers + Increase in accounts \nreceivable; or = €800 + €60 = €860; and Beginning inventory + Purchases = Cost of \nSales + Ending inventory; or Cost of sales = Purchases – Increase in inventory; or = \n€700 – €50 = €650. Therefore, Gross profit = Revenue – Cost of Sales; or = €860 – \n€650 = €210.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3240447a-6b0d-4847-beb2-8c89622ec51c",
+              "itemBody": "<p>A. 90.</p>",
+              "position": 1
+            },
+            {
+              "id": "26d44756-9b21-4b40-b447-aedca1d1e3fd",
+              "itemBody": "<p>B. 110.</p>",
+              "position": 2
+            },
+            {
+              "id": "b7c9a7d0-af2e-4f2c-8ad6-f482611c3e3f",
+              "itemBody": "<p>C. 210.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b7c9a7d0-af2e-4f2c-8ad6-f482611c3e3f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-38",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q38",
+        "itemBody": "<p>The following information relates to a fixed asset that has been sold: Historical cost ¥10 million Accumulated depreciation ¥4 million Selling price ¥8 million The transaction is reported on the statement of cash flows as an:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the entire proceeds from the sale of a fixed asset are an \ninvesting cash inflow, regardless of whether there was a gain or loss from the sale of \nthe asset. Therefore, the selling price of ¥8 million is an investing cash inflow.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "14be6fcc-63fc-4354-8eb4-07d5e03dde53",
+              "itemBody": "<p>A. investing cash inflow of ¥2 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "1427b572-661a-4256-a28c-c830a4bb51c7",
+              "itemBody": "<p>B. investing cash inflow of ¥8 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "b36e9319-f338-4a79-a255-02f3a1e619c4",
+              "itemBody": "<p>C. operating cash inflow of ¥8 million. Analyzing Statements of Cash Flows I Faculty: Page 13 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1427b572-661a-4256-a28c-c830a4bb51c7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-39",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q39",
+        "itemBody": "<p>An analyst gathers the following information about a company for a fiscal year: Revenues $36,000 Beginning accounts receivable $1,500 Ending accounts receivable $2,500 Under the direct method of computing cash flow from operating activities, cash received from customers for the year is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because cash collected from customers is equal to revenue ($36,000) \nless the increase in accounts receivable ($2,500 – $1,500 = $1,000) or $36,000 – \n$1,000 = $35,000.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ad5b8037-00ca-426a-9e62-7dd8bff9b2e3",
+              "itemBody": "<p>A. $33,500.</p>",
+              "position": 1
+            },
+            {
+              "id": "0c91bfd4-4235-4c00-8b21-eda5b16da0f1",
+              "itemBody": "<p>B. $35,000.</p>",
+              "position": 2
+            },
+            {
+              "id": "59e49d18-d5b3-48da-b561-c45ca52290ac",
+              "itemBody": "<p>C. $37,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0c91bfd4-4235-4c00-8b21-eda5b16da0f1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-40",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q40",
+        "itemBody": "<p>An analyst gathered the following information (in £ thousands) about a company's fiscal year: Year 2 Year 1 Net income 112,000 188,100 Depreciation expense 14,000 12,500 Accounts receivable 330,000 375,000 Inventory 335,000 280,000 Accounts payable 172,000 136,000 Amortization of bond discount 7,400 7,900 Cash flow from operating activities (in £ thousands) on the Year 2 statement of cash flows should be:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because cash flow from operating activities calculated using the \nindirect method begins with net income and makes adjustments for non-cash \noperating activities, non-cash operating expenses and changes in operating working \n                                                                                Analyzing Statements of Cash Flows I \n \nFaculty:                                                                                     Page 20 of \n20 \n \ncapital items. Depreciation is a non-cash operating expense and is added back; \namortization of bond discount is a non-cash operating expense and is added back; \nthe decrease in accounts receivable of 45,000 (375,000 – 330,000) is added back; \nthe increase in inventory of 55,000 (335,000 – 280,000) is subtracted; and \nthe increase in accounts payable of 36,000 (172,000 – 136,000) is added back to \nnet income. \nTherefore, the calculation becomes 112,000 + 14,000 + 7,400 + 45,000 – 55,000 + \n36,000 = 159,400.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f3241fe8-647e-4789-b362-6ed697cb47cf",
+              "itemBody": "<p>A. 107,400.</p>",
+              "position": 1
+            },
+            {
+              "id": "09811f05-d4b6-4d6b-a8ec-9cffe292144e",
+              "itemBody": "<p>B. 144,600.</p>",
+              "position": 2
+            },
+            {
+              "id": "bdc5956e-5ec9-47cc-ab7b-e50e0e6a7f2a",
+              "itemBody": "<p>C. 159,400.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bdc5956e-5ec9-47cc-ab7b-e50e0e6a7f2a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Fina-4-41",
+      "entry": {
+        "title": "2027 Financial Statement Analysis Mod4-Q41",
+        "itemBody": "<p>Golden Cumulus Corp., a commodities trading company, reported interest expense of $19 million and taxes of $6 million. Interest payable increased by $3 million, and taxes payable decreased by $4 million over the period. How much cash did the company pay for interest and taxes?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Interest expense of $19 million less the increase in interest payable of \n$3 million equals interest paid of $16 million. Tax expense of $6 million plus the \ndecrease in taxes payable of $4 million equals taxes paid of $10 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4d2916a3-f6f4-4fcd-b82a-3a4b29777884",
+              "itemBody": "<p>A. $22 million for interest and $10 million for taxes.</p>",
+              "position": 1
+            },
+            {
+              "id": "a90ad4f0-b2df-417b-bf2d-e76cb4285238",
+              "itemBody": "<p>B. $16 million for interest and $2 million for taxes.</p>",
+              "position": 2
+            },
+            {
+              "id": "54ca5b27-3343-494c-9a56-51fbcaef8358",
+              "itemBody": "<p>C. $16 million for interest and $10 million for taxes. Analyzing Statements of Cash Flows I Faculty: Page 14 of 20</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "54ca5b27-3343-494c-9a56-51fbcaef8358"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

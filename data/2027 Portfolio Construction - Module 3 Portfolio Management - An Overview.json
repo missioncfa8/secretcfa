@@ -1,0 +1,105 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Portfolio Construction_3",
+  "curriculum_year": "2027",
+  "topic": "Portfolio Construction",
+  "module_number": 3,
+  "module_name": "Portfolio Management - An Overview",
+  "question_count": 3,
+  "points_possible": 3.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Portfolio Construction - Module 3 Portfolio Management - An Overview",
+    "topic": "Portfolio Construction",
+    "module_id": 3,
+    "question_count": 3,
+    "type": "practice",
+    "points_possible": 3.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Port-3-1",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod3-Q1",
+        "itemBody": "<p>B is correct. Investment companies manage investments in mutual funds. Although endowments and insurance companies may own mutual funds, they do not issue or redeem shares of mutual funds. 12. B is correct. Open-end funds trade at their net asset value per share, whereas closed-end funds and exchange traded funds can trade at a premium or a discount. 13. A is correct. Exchange traded funds do not have capital gain distributions. If an investor sells shares of an ETF (or open-end mutual fund or closed-end mutual fund), the investor may have a capital gain or loss on the shares sold; however, the gain (or loss) from the sale is not a distribution. 14. A is correct. Hedge funds are currently exempt from the reporting requirements of a typical public investment company. 15. B is correct. Buyout funds or private equity firms make only a few large investments in private companies with the intent of selling the restructured companies in three to five years. Venture capital funds also have a short time horizon; however, these funds consist of many small investments in companies with the expectation that only a few will have a large payoff (and that most will fail). 16. C is correct. A typical investment objective of an endowment or a foundation is to maintain the real capital value of the fund while generating income to fund the objectives of the institution. Liquidity needs are typically rather low. 17. B is correct. Asset allocation occurs in the execution step. 18. A is correct. Asset allocation decisions are made in the execution step. 19. B is correct. Money market funds invest in short-term corporate or government debt. The difference between a bond mutual fund and a money market fund is the maturity of the underlying assets. In a money market fund, the maturity is as short as overnight and rarely longer than 90 days. 20. C is correct. In a defined-contribution pension plan, the employee accepts the investment risk and is responsible for ensuring that the plan contains enough funds to meet retirement needs. 21. A is correct. Endowments have a long investment time horizon and a high level of risk tolerance. 22. C is correct. Performance measurement is a part of the feedback step of the portfolio management process. The execution step includes asset allocation, security analysis, and portfolio construction. Portfolio Management: An Overview Faculty: Page 9 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-3-2",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod3-Q2",
+        "itemBody": "<p>A is correct. Insurance companies need to be relatively conservative and liquid, given the necessity of paying claims when due. 24. B is correct. The execution step of the portfolio management process has three parts: asset allocation, security analysis, and portfolio construction. 25. B is correct. The minimum investment required to open a separately managed account is usually much higher than that to open a mutual fund. 26. C is correct because the level of risk reduction from the portfolio approach to investing, relative to the risk of investing in a single security, can be measured by the diversification ratio. A simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. The diversification ratio of the portfolio's standard deviation to the individual asset's standard deviation measures the risk reduction benefits of a simple portfolio construction method, equal weighting. 27. B is correct because performance measurement, along with portfolio monitoring and rebalancing, is part of the feedback step. 28. A is correct because a simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. In the example of the 5-stock portfolio given, the equally weighted portfolio’s standard deviation is approximately 71 percent of the average standard deviation of the 5 stocks (24.9%); i.e., the denominator is the average standard deviation of all individual securities in the portfolio and the numerator is the standard deviation of the equally weighted portfolio. 29. C is correct because portfolio diversification helps investors avoid disastrous investment outcomes. A main tenet of the portfolio approach to investing is diversification. A disastrous outcome can result from ‘putting all your eggs into one basket' or investing everything into one stock whose value could then go to zero. A diversified portfolio holding many securities is likely to avoid this outcome. Although diversification may not prevent losses during market downturns, it does help avoid disastrous investment outcomes during normal market conditions. 30. C is correct because defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants. 31. C is correct because the minimum required investment in ETFs is usually smaller than that of mutual funds. Portfolio Management: An Overview Faculty: Page 10 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-3-3",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod3-Q3",
+        "itemBody": "<p>B is correct because rapid growth in robo-advisory assets is based on several industry trends including growing demand from 'mass affluent' and younger investors. Traditional investment advice has often underserved younger and 'mass affluent' investors with lower relative levels of investable assets. 33. A is correct because a top-down analysis begins with consideration of macroeconomic conditions. Based on the current and forecasted economic environment, analysts evaluate markets and industries with the purpose of investing in those that are expected to perform well. Finally, specific companies within these industries are considered for investment. 34. A is correct because the key to a defined contribution (DC) plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement. 35. A is correct because liquidity is a paramount concern for banks that stand ready to meet depositor requests for withdrawals. 36. C is correct because typically, smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive market-cap weighted strategies. 37. B is correct because dividends on ETFs are paid out to the shareholders whereas mutual funds usually reinvest the dividends. 38. A is correct because sovereign wealth funds (SWFs) are government-owned investment funds. 39. C is correct because in a closed-end mutual fund the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares. 40. A is correct. The key difference between a wrap account and a mutual fund is that in a wrap account, the assets are owned directly by the individual.</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

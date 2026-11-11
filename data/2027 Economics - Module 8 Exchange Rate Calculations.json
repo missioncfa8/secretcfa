@@ -1,0 +1,993 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Economics_8",
+  "curriculum_year": "2027",
+  "topic": "Economics",
+  "module_number": 8,
+  "module_name": "Exchange Rate Calculations",
+  "question_count": 23,
+  "points_possible": 23.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Economics - Module 8 Exchange Rate Calculations",
+    "topic": "Economics",
+    "module_id": 8,
+    "question_count": 23,
+    "type": "practice",
+    "points_possible": 23.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Econ-8-1",
+      "entry": {
+        "title": "2027 Economics Mod8-Q1",
+        "itemBody": "<p>The spot ZAR/HKD cross-rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. To get to the ZAR/HKD cross-rate, it is necessary to take the inverse \nof the CNY/ZAR spot rate and then multiply by the CNY/HKD exchange rate: \nZAR/HKD = (CNY/ZAR) −1 × (CNY/HKD) \n= (1 / 0.9149) × 0.8422 = 0.9205</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f1671bf1-b082-4a56-a03a-e595f57e04c8",
+              "itemBody": "<p>A. 0.9205.</p>",
+              "position": 1
+            },
+            {
+              "id": "8f866a8c-762e-4eb6-b521-b860c276ba8e",
+              "itemBody": "<p>B. 1.0864.</p>",
+              "position": 2
+            },
+            {
+              "id": "9e4f96c1-809e-40b3-b2cf-0beee7086f2a",
+              "itemBody": "<p>C. 1.2978.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1671bf1-b082-4a56-a03a-e595f57e04c8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-2",
+      "entry": {
+        "title": "2027 Economics Mod8-Q2",
+        "itemBody": "<p>Another dealer is quoting the ZAR/SEK cross -rate at 1.1210. The arbitrage profit that can be earned is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The ZAR/SEK cross -rate from the original dealer is (1.0218/0.9149)  = \n1.1168, which is lower than the quote from the second dealer. To earn an arbitrage  \nprofit, a currency trader would buy Swedish krona (sell South African rand) from the \noriginal dealer and sell Swedish krona (buy South African rand) to the second dealer. \nOn SEK1 million, the profit would be: SEK1,000,000 × (1.1210 – 1.1168) = ZAR4,200</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8416481e-a7c1-48a3-a9fb-49da0ee003c2",
+              "itemBody": "<p>A. ZAR3671 per million Swedish krona traded.</p>",
+              "position": 1
+            },
+            {
+              "id": "9b2a21f9-05ad-48df-9ec1-4004e6c4bb8b",
+              "itemBody": "<p>B. SEK4200 per million South African rand traded.</p>",
+              "position": 2
+            },
+            {
+              "id": "9a84ad6a-61bb-48b6-9c93-f7dda5d965ba",
+              "itemBody": "<p>C. ZAR4200 per million Swedish krona traded.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9a84ad6a-61bb-48b6-9c93-f7dda5d965ba"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-3",
+      "entry": {
+        "title": "2027 Economics Mod8-Q3",
+        "itemBody": "<p>A BRL/MXN spot rate is listed by a dealer at 0.1378. The six -month forward rate is 0.14193. The six-month forward points are closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The number of forward points equals the forward rate minus the  spot \nrate, or 0.14193 – 0.1378 = 0.00413, multiplied by 10,000: 10,000 × 0.00413=  41.3 \npoints. By convention, forward points are scaled so that ±1 forward point corresponds \nto a change of ±1 in the last decimal place of the spot exchange rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f858501b-8c88-4c1b-870c-d0e462a40d86",
+              "itemBody": "<p>A. –41.3.</p>",
+              "position": 1
+            },
+            {
+              "id": "8cdb662d-2984-4e8f-8001-d177d11ac870",
+              "itemBody": "<p>B. +41.3.</p>",
+              "position": 2
+            },
+            {
+              "id": "2b2ac19c-23ec-4354-b3f4-1e895aa6adba",
+              "itemBody": "<p>C. +299.7.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8cdb662d-2984-4e8f-8001-d177d11ac870"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-4",
+      "entry": {
+        "title": "2027 Economics Mod8-Q4",
+        "itemBody": "<p>A three-month forward exchange rate in CAD/USD is listed by a dealer at 1.0123. The dealer also quotes three-month forward points as a percentage at 6.8 percent. The CAD/USD spot rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Given the forward rate and forward points as a percentage, the unknown \nin the calculation is the spot rate. The calculation is as follows: \nSpot rate × (1 + Forward points as a percentage) = Forward rate \nSpot rate × (1 + 0.068) = 1.0123 \nSpot = 1.0123/1.068 = 0.9478</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3b09c7dc-a2b0-4476-82e5-6690bbe86e95",
+              "itemBody": "<p>A. 0.9478.</p>",
+              "position": 1
+            },
+            {
+              "id": "4b5407d7-985c-44c3-aaa1-98a6eae436a8",
+              "itemBody": "<p>B. 1.0550.</p>",
+              "position": 2
+            },
+            {
+              "id": "ea71ce96-fd3b-496f-9dff-ab4ec471b6ad",
+              "itemBody": "<p>C. 1.0862.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3b09c7dc-a2b0-4476-82e5-6690bbe86e95"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-5",
+      "entry": {
+        "title": "2027 Economics Mod8-Q5",
+        "itemBody": "<p>If the base currency in a forward exchange rate quote is trading at a forward discount, which of the following statements is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The base currency trading at a forward discount means that 1 unit  of \nthe base currency costs less for forward delivery than for spot delivery (i.e., the  \nforward exchange rate is less than the spot exchange rate). The forward points,  \nexpressed either as an absolute number of points or as a percentage, are negative.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "50eb41ef-8443-4d52-9c50-959c6ee93198",
+              "itemBody": "<p>A. The forward points will be positive.</p>",
+              "position": 1
+            },
+            {
+              "id": "73171535-94d0-4485-8048-c2651789fe3f",
+              "itemBody": "<p>B. The forward percentage will be negative.</p>",
+              "position": 2
+            },
+            {
+              "id": "e9a1374a-eab7-4bb3-a373-6042f6e453b9",
+              "itemBody": "<p>C. The base currency is expected to appreciate versus the price currency.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "73171535-94d0-4485-8048-c2651789fe3f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-6",
+      "entry": {
+        "title": "2027 Economics Mod8-Q6",
+        "itemBody": "<p>A forward premium indicates:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. To eliminate arbitrage opportunities, the spot exchange rate (S),  the \nforward exchange rate (F), the interest rate in the base currency (rd ), and the  \ninterest rate in the price currency (rf) must satisfy: \nFf/d/ Sf/d = (1+rfτ / 1+rdτ). \nAccording to this formula, the base currency will trade at forward premium (F >  S) \nif, and only if, the interest rate in the price currency is higher than the interest rate \nin the base currency (rf > rd).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c6635616-d922-46c9-af83-7c85d6d653a7",
+              "itemBody": "<p>A. an expected increase in demand for the base currency. Exchange Rate Calculations Faculty: Page 2 of 11</p>",
+              "position": 1
+            },
+            {
+              "id": "d130ea05-042a-4656-93f3-b132b89998da",
+              "itemBody": "<p>B. the interest rate is higher in the base currency than in the price currency.</p>",
+              "position": 2
+            },
+            {
+              "id": "842db3c4-969c-4735-bfb2-76c4f3918b33",
+              "itemBody": "<p>C. the interest rate is higher in the price currency than in the base currency.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "842db3c4-969c-4735-bfb2-76c4f3918b33"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-7",
+      "entry": {
+        "title": "2027 Economics Mod8-Q7",
+        "itemBody": "<p>The JPY/AUD spot exchange rate is 82.42, the Japanese yen interest rate is 0.15 percent, and the Australian dollar interest rate is 4.95 percent. If the interest rates are quoted on the basis of a 360-day year, the 90-day forward points in JPY/AUD would be closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The forward exchange rate is given by: \n𝐹𝐽𝑃𝑌/𝐴𝑈𝐷 = 𝑆𝐽𝑃𝑌/𝐴𝑈𝐷(\n1+𝑟𝐽𝑃𝑌τ\n1+𝑟𝐴𝑈𝐷τ) = 82.42 (\n1+0.0015[ 90\n360]\n1+0.0495[ 90\n360]\n) \n=  82.42 × 0.98815 =  81.443.  \n \nThe forward points are as follows: \n100 × (F × S) = 100 × (81.443 – 82.42) = 100 × (–0.977) = –97.7. \nExchange Rate Calculations \nFaculty:                                                                         Page 8 of 11 \n \nBecause the spot exchange rate is quoted with two decimal places, the forward points \nare scaled by 100. \n \n8. B is c orrect. Covered interest arbitrage will ensure identical terminal values by \ninvesting the same initial amounts at the respective country’s domestic interest \nrates: \n \nGBP investment: ₤1 × (1 + 0.016025 × 180/360) = ₤1.008013 \nNZD investment: NZ$2.0979 × (1 + 0.032875 × 180/360) = NZ$2.13238 \n \nThe forward rate is determined by equating these two terminal amounts: \nNZD/GBP forward rate = NZ$2.13238/₤1.008013 = 2.115429 \nForward points = (Forward – Spot) × 10,000 \n = (2.1155– 2.0979) × 10,000 \n = 175.3 =176 (rounded)</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1613bedf-e1f1-43b2-a5db-0822e4b7c24e",
+              "itemBody": "<p>A. –377.0.</p>",
+              "position": 1
+            },
+            {
+              "id": "8487d595-cef7-4c6e-891e-75c5e8f3fe53",
+              "itemBody": "<p>B. –97.7.</p>",
+              "position": 2
+            },
+            {
+              "id": "36d5c746-c031-4a41-9fba-c914ab1abbea",
+              "itemBody": "<p>C. 98.9.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8487d595-cef7-4c6e-891e-75c5e8f3fe53"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-8",
+      "entry": {
+        "title": "2027 Economics Mod8-Q8",
+        "itemBody": "<p>The following information is available: • New Zealand dollar (NZD) to British pound (GBP) spot exchange rate: 2.0979 • Libor interest rates for the British pound: 1.6025% • Libor interest rates for the New Zealand dollar: 3.2875% • All Libor interest rates are quoted on a 360-day year basis The 180-day forward points (scaled up by four decimal places) in NZD/GBP is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f591ee08-0abd-4081-885f-cd09e98533d8",
+              "itemBody": "<p>A. 39.</p>",
+              "position": 1
+            },
+            {
+              "id": "645d3b63-7493-4f24-9e25-aeb3b5366cf1",
+              "itemBody": "<p>B. 176.</p>",
+              "position": 2
+            },
+            {
+              "id": "6fe883c5-0b58-4a51-bc3c-c2decce234f0",
+              "itemBody": "<p>C. 348.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f591ee08-0abd-4081-885f-cd09e98533d8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-9",
+      "entry": {
+        "title": "2027 Economics Mod8-Q9",
+        "itemBody": "<p>Which of the following statements is most accurate based on the FX quotations in the table? Spot Rate 1-Year Forward Rate USD/EUR 1.2952 1.3001</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Forward premium = Forward rate – Spot rate = 1.3001 – 1.2952 = 0.0049. \nTo convert to points, scale four decimal places—that is, multiply by 10,000 = 10,000 \n× 0.0049 = 49 points. Because the forward rate exceeds the spot rate for the base \ncurrency (euro), the euro is trading at a forward premium of 49 points.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ec6f9c05-5a23-484b-9ffd-13accb5125d5",
+              "itemBody": "<p>A. The forward rate is trading at a discount to the spot rate by 0.0049 points.</p>",
+              "position": 1
+            },
+            {
+              "id": "add34704-d623-4eee-b5d0-fcf46c2882c7",
+              "itemBody": "<p>B. The euro is trading at a forward premium of 49 points.</p>",
+              "position": 2
+            },
+            {
+              "id": "47e3f760-ec9e-46b9-bbc4-da4738826b0d",
+              "itemBody": "<p>C. The US dollar is trading at a forward premium of 49 points.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "add34704-d623-4eee-b5d0-fcf46c2882c7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-10",
+      "entry": {
+        "title": "2027 Economics Mod8-Q10",
+        "itemBody": "<p>If the domestic currency is trading at a forward premium, then relative to the interest rate of the domestic country, the interest rate in the foreign country is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The currency with the higher (lower) interest rate will always trade at \na discount (premium) in the forward market. The lower interest rate in the domestic \ncountry will be offset by the appreciation of the domestic country’s currency over \nthe investment horizon. \n \n11. B is c orrect. The equation below is often called the “covered interest arbitrage \nrelationship” because if it is not satisfied, a risk -free arbitrage opportunity exists. \nIt is based on the required equivalence of the two possible investment paths: if the \ntwo paths do not produce the same terminal result, an arbitrage profit exists. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nExchange Rate Calculations \nFaculty:                                                                         Page 9 of 11 \n \n \n(1 + 𝑖𝑑) = 𝑆𝑓/𝑑(1 + 𝑖𝑓)( 1\n𝐹𝑓/𝑑\n) \nwhere, \nSf/d = Spot rate: number of units of foreign currency (price currency) per one unit \nof domestic currency \nFf/d = Forward rate: number of units of foreign currency (price currency) per one \nunit of domestic currency \nid = Domestic interest rate \nif = Foreign interest rate \nThe left-hand side is 1 plus the return that is earned domestically. The right-hand \nside represents 1 plus the return from converting to foreign currency at the spot \nrate, investing at the foreign rate, and converting back to domestic currency using \nthe forward rate. \nThe arbitrage profit is the right side of the equation minus the left side. \n \nLeft Side of Equation: BRL500,000 × (1 + 0.041) = BRL520,500 \n \nRight Side of Equation: \nStep  Transaction Explanation \n1 BRL500,000 × (1/2.1128AUD/BRL) = \nAUD236,653 Convert domestic to foreign \n2 AUD236,653 × (1.031) = AUD243,989 Invest foreign at foreign rate \n3 AUD243,989 × 2.1388 = BRL521,844 Convert foreign to domestic \n \nArbitrage profit = BRL521,844 – BRL520,500= BRL1,344</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ce27abc7-8133-4c21-afbb-e64332eda538",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "54fe183a-5721-470f-baee-7bd1174fb078",
+              "itemBody": "<p>B. higher.</p>",
+              "position": 2
+            },
+            {
+              "id": "36e7d801-a61a-4587-a661-29b51998b33c",
+              "itemBody": "<p>C. the same.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "54fe183a-5721-470f-baee-7bd1174fb078"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-11",
+      "entry": {
+        "title": "2027 Economics Mod8-Q11",
+        "itemBody": "<p>An investor examines the following rate quotes for the Brazilian real (BRL) and the Australian dollar (AUD) and shorts BRL500,000. • Spot rate BRL/AUD: 2.1128 • BRL 1-year interest rate: 4.1% • Forward rate BRL/AUD: 2.1388 • AUD 1-year interest rate: 3.1% Exchange Rate Calculations Faculty: Page 3 of 11 The risk-free arbitrage profit that is available is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7164da07-cc79-4945-a3d6-a8919ace4c6e",
+              "itemBody": "<p>A. –BRL6,327.</p>",
+              "position": 1
+            },
+            {
+              "id": "75b51139-a0b2-401e-b4f3-753778619d07",
+              "itemBody": "<p>B. BRL1,344.</p>",
+              "position": 2
+            },
+            {
+              "id": "9348b015-49e2-457d-96c8-57cfa8033eb8",
+              "itemBody": "<p>C. BRL6,405.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7164da07-cc79-4945-a3d6-a8919ace4c6e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-12",
+      "entry": {
+        "title": "2027 Economics Mod8-Q12",
+        "itemBody": "<p>A New Zealand traveler returned from Singapore with SGD7,500 (Singapore dollars). A foreign exchange dealer provided the traveler with the following quotes: Ratio Spot Rates USD/SGD 1.2600 NZD/USD 0.7670 USD: US dollar; NZD: New Zealand dollar The amount of New Zealand dollars (NZD) that the traveler would receive for his Singapore dollars is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The NZD/SGD cross-rate is NZD/USD × USD/SGD = 0.7670 × 1.2600 \n= 0.9664. The traveler will receive: NZD0.9664 per SGD; NZD0.9664 × SGD7,500 = \nNZD7,248.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "281702a4-fa04-467f-ab8f-7c7dfc920640",
+              "itemBody": "<p>A. NZD7,248.</p>",
+              "position": 1
+            },
+            {
+              "id": "e43d99a0-7d57-4fd8-b0f7-c87859428629",
+              "itemBody": "<p>B. NZD4,565.</p>",
+              "position": 2
+            },
+            {
+              "id": "3a1a6f75-e63d-4c91-a4d3-9d3d5edb77af",
+              "itemBody": "<p>C. NZD7,761.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "281702a4-fa04-467f-ab8f-7c7dfc920640"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-13",
+      "entry": {
+        "title": "2027 Economics Mod8-Q13",
+        "itemBody": "<p>A research report produced by a dealer includes the following exchange rates: Spot Rate Expected Spot Rate in One Year USD/EUR 1.3960 1.3860 USD/CAD 1.0110 1.0300 EUR/GBP 1.2850 1.2790 The expected appreciation (%) of the Canadian dollar (CAD) relative to the British pound (GBP) is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Spot \nRate \nExpected Spot Rate in \nOne Year \nAppreciation: \nExpected/Spot – 1 \nUSD/EUR 1.396 1.386 –0.72% \nUSD/CAD 1.011 1.03 1.88% \nEUR/GBP 1.285 1.279 –0.44% \nCAD/GBP = [(USD/EUR) × \n(EUR/GBP)]/(USD/CAD) \n  \nCAD/GBP 1.7743 1.7211 –2.99% \nGBP/CAD* 0.5636 0.581 3.09% \n \n* Canadian dollar is the base currency and the British pound is the price currency \nCAD/GBP = [(USD/EUR) × (EUR/GBP)]/(USD/CAD) \nSpot Rate of CAD/GBP = (1.3960 × 1.2850)/1.0110 = 1.7743 \nExchange Rate Calculations \nFaculty:                                                                         Page 10 of 11 \n \nExpected Spot Rate of CAD/GBP = (1.3860 ×1.2790)/1.0300 = 1.7211 \nTo determine the appreciation of the Canadian dollar (CAD) relative to the British \npound, the British pound (GBP) is the price currency and the Canadian dollar is the \nbase currency, giving rise to the following calculation: \n1\n1.7211\n1\n1.7743\n− 1 = 1.7743\n1.7211 − 1 = 3.09%</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5a19d7e9-73bc-4e63-9181-71891c381594",
+              "itemBody": "<p>A. –3.00</p>",
+              "position": 1
+            },
+            {
+              "id": "94af7c3c-6b9c-4183-901a-8067a805addd",
+              "itemBody": "<p>B. 3.09.</p>",
+              "position": 2
+            },
+            {
+              "id": "a77c7c77-bdeb-4b8e-af28-13e3b85cba0a",
+              "itemBody": "<p>C. 0.70. Exchange Rate Calculations Faculty: Page 4 of 11</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "94af7c3c-6b9c-4183-901a-8067a805addd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-14",
+      "entry": {
+        "title": "2027 Economics Mod8-Q14",
+        "itemBody": "<p>A dealer report includes the following exchange rate details: Spot Rate Expected Change Over Next Year USD/EUR 1.30 1.75% CAD/USD 0.95 -0.25% CHF/EUR 1.22 0.75% The expected CAD/CHF cross rate in one year is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Spot \nRate Expected Appreciation \nExpected Spot \nRate in One Year \nUSD/EUR 1.3 1.75% 1.323 \nCAD/USD 0.95 –0.25% 0.948 \nCHF/EUR 1.22 0.75% 1.229 \nCAD/CHF = (USD/EUR) × \n[(CAD/USD)/(CHF/EUR)] \n1.02</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a61b9c87-3f88-46a4-b056-5d701af15531",
+              "itemBody": "<p>A. 1.04.</p>",
+              "position": 1
+            },
+            {
+              "id": "bfc5652a-034a-4f74-acc6-1dfbb178dd1d",
+              "itemBody": "<p>B. 0.98.</p>",
+              "position": 2
+            },
+            {
+              "id": "3faed13e-e7cf-4ed2-a3fe-12042570bead",
+              "itemBody": "<p>C. 1.02.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3faed13e-e7cf-4ed2-a3fe-12042570bead"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-15",
+      "entry": {
+        "title": "2027 Economics Mod8-Q15",
+        "itemBody": "<p>Assume the following: Current spot rate for the USD/EUR 0.7500 Forward rate for the EUR/AUD 1.4300 EUR/AUD forward premium to the spot rate 400 points USD: US dollar; EUR: Euro; AUD: Australian dollar The USD/AUD spot rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Step 1: Find the spot rate for the EUR/AUD \nSpot = Forward Rate – Forward Points \n = 1.4300 – (400/10,000) \n = 1.3900 \nStep 2: Calculate current cross rate \n(USD/AUD) = (EUR/AUD) × (USD/EUR) \n = 1.3900 × 0.7500 \n = 1.0425</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8c2911a3-bfae-4fad-b69b-e8da524cc356",
+              "itemBody": "<p>A. 1.0296.</p>",
+              "position": 1
+            },
+            {
+              "id": "223bcfca-3d0d-4615-a37c-11de1c64dad5",
+              "itemBody": "<p>B. 1.0425.</p>",
+              "position": 2
+            },
+            {
+              "id": "e2f537ac-1115-4502-8ae1-8b393f4d1932",
+              "itemBody": "<p>C. 1.1154.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "223bcfca-3d0d-4615-a37c-11de1c64dad5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-16",
+      "entry": {
+        "title": "2027 Economics Mod8-Q16",
+        "itemBody": "<p>All else being equal, in an efficient market a forward exchange rate will decrease as a result of an increase in the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the arbitrage equation can be re-arranged, as needs require, \nto get the formula for the forward rate, as follows: \nFf/d = Sf/d × [(1 + if)/(1 + id)],  \nwhere Ff/d is the forward exchange rate,  \nSf/d is the spot exchange rate, \nif is the foreign risk-free interest rate, \nand id is the domestic risk-free interest rate. \nTherefore, the forward exchange rate will decrease as a result of an increase in \nthe domestic risk-free interest rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dce633f1-8a32-4aa7-b001-d8502789f99d",
+              "itemBody": "<p>A. spot exchange rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "a739ac4b-fee7-4b3a-a00d-9c0d8ace9b52",
+              "itemBody": "<p>B. foreign risk-free interest rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "6f325a7c-c596-425a-821d-3069bbedb77c",
+              "itemBody": "<p>C. domestic risk-free interest rate.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6f325a7c-c596-425a-821d-3069bbedb77c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-17",
+      "entry": {
+        "title": "2027 Economics Mod8-Q17",
+        "itemBody": "<p>An analyst gathers the following information: USD/AUD spot rate 0.8027 AUD 1-year interest rate 3.30% USD 1-year interest rate 2.42% USD/AUD is the amount of USD per 1 AUD. The USD/AUD 1-year forward rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. F(f/d) = 0.8027 × ((1+0.0242)/(1+0.033)) ≈ 0.7959.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d595f505-a5ad-41f9-92ab-d1354e9546cc",
+              "itemBody": "<p>A. 0.7959.</p>",
+              "position": 1
+            },
+            {
+              "id": "faf59ca0-8f4f-4ba0-8415-5b71d2c8d49c",
+              "itemBody": "<p>B. 0.8096.</p>",
+              "position": 2
+            },
+            {
+              "id": "fff452f2-ac09-44f8-9091-60c2c5f5ec1c",
+              "itemBody": "<p>C. 0.8292. Exchange Rate Calculations Faculty: Page 5 of 11</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d595f505-a5ad-41f9-92ab-d1354e9546cc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-18",
+      "entry": {
+        "title": "2027 Economics Mod8-Q18",
+        "itemBody": "<p>With respect to the foreign exchange market, an arbitrage relationship involving countries' relative interest rates serves as the basis for:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because forward exchange rates are based on an arbitrage relationship \nthat equates the investment return on two alternative  but equivalent investments, \nwhich involves the relationship between the risk -free interest rates of the two \ncountries concerned. The arbitrage relationship is  Ff/d = Sf/d(1 +  if)/(1 +  id), \nwhere Ff/d is the forward rate,  Sf/d is the spot rate, and  if (id) is the foreign \n(domestic) risk-free interest rate. \nExchange Rate Calculations \nFaculty:                                                                         Page 11 of 11</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "345d3ce4-f32d-477c-b7dc-048a30d7407d",
+              "itemBody": "<p>A. real exchange rates.</p>",
+              "position": 1
+            },
+            {
+              "id": "739728aa-2ff1-4646-a98b-6e38111f2c41",
+              "itemBody": "<p>B. forward exchange rates.</p>",
+              "position": 2
+            },
+            {
+              "id": "29e20d21-0d2b-4ae1-8704-8eeffec9a029",
+              "itemBody": "<p>C. nominal exchange rates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "739728aa-2ff1-4646-a98b-6e38111f2c41"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-19",
+      "entry": {
+        "title": "2027 Economics Mod8-Q19",
+        "itemBody": "<p>An analyst gathers the following foreign exchange rate information: CAD/USD JPY/USD Beginning of period 1.3216 105.42 End of period 1.2944 104.74 CAD/USD is the amount of CAD per 1 USD. JPY/USD is the amount of JPY per 1 USD. The percentage change in the JPY/CAD cross-rate for the period is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because sometimes it is necessary to invert one of the quotes in order \nto get the intermediary currency to cancel out in the equation to get the cross-rate. \nFor example, to get a Canada –yen (JPY/CAD) quote, one is typically using the dollar \nCanada (CAD/USD) rate and dollar –yen (JPY/USD) rate, which are the market \nconventions. Hence, to get a Canada –yen (JPY/CAD) quote, we must first invert the \ndollar–Canada (CAD/USD) quote before multiplying by the dollar –yen (JPY/USD) \nquote.  \nThe beginning of period JPY/CAD exchange rate is therefore = 1/1.3216 × 105.42 = \n0.75666 × 105.42 = 79.77 The end of period JPY/CAD exchange rate is therefore = \n1/1.2944 × 104.74 = 0.77256 × 104.74 = 80.92 \nThe percentage change in the JPY/CAD exchange rate over the period is therefore \n= 80.92/79.77 – 1 = 1.44% ≈ 1.4%. \n \n20. . C is correct because the forward rate is calculated as (1.17240 – 1.1605) × 10,000 = \n119.0.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e8e55bee-fd7d-49a2-93f5-786d5ba185f1",
+              "itemBody": "<p>A. –2.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "d42c72a9-8176-4ce1-b90b-2fa81563c815",
+              "itemBody": "<p>B. 1.4%.</p>",
+              "position": 2
+            },
+            {
+              "id": "f03e058f-9cc6-49ea-86fe-e6c282202be3",
+              "itemBody": "<p>C. 2.8%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d42c72a9-8176-4ce1-b90b-2fa81563c815"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-20",
+      "entry": {
+        "title": "2027 Economics Mod8-Q20",
+        "itemBody": "<p>If the spot USD/EUR exchange rate (the amount of USD per 1 EUR) is 1.1605 and the 1-year forward rate is 1.17240, the forward points are:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b6e94e6-9d3b-4825-a2dc-cf58e4458423",
+              "itemBody": "<p>A. +101.5.</p>",
+              "position": 1
+            },
+            {
+              "id": "cefe8ca0-599a-4736-b4ab-62e6522a3bff",
+              "itemBody": "<p>B. +102.5.</p>",
+              "position": 2
+            },
+            {
+              "id": "4928c8af-b5f4-4182-97ab-26a897ae426f",
+              "itemBody": "<p>C. +119.0.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6b6e94e6-9d3b-4825-a2dc-cf58e4458423"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-21",
+      "entry": {
+        "title": "2027 Economics Mod8-Q21",
+        "itemBody": "<p>An analyst gathers the following information about spot rates: USD/GBP 1.2604 USD/EUR 1.1786 USD/GBP is the amount of USD per 1 GBP. USD/EUR is the amount of USD per 1 EUR. The spot EUR/GBP cross rate is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because sometimes it is necessary to invert one of the quotes in order \nto get the intermediary currency to cancel out in the equation to get the cross-rate. \nFor example, to get a Canada –yen (JPY/CAD) quote, one is typically using the dollar \nCanada (CAD/USD) rate and dollar –yen (JPY/USD) rate, which are the market \nconventions. This Canada –yen calculation requires that the dollar –Canada rate \n(CAD/USD) be inverted to a USD/CAD quote for the calculations to work. The \nformula for the EUR/GBP cross r ate is USD/GBP × (USD/EUR) -1 = USD/GBP × \nEUR/USD = 1.2604 / 1.1786 ≈ 1.0694.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "edefc955-1363-48c0-b71a-ef592552a24a",
+              "itemBody": "<p>A. 0.9351.</p>",
+              "position": 1
+            },
+            {
+              "id": "3ab5aae0-e9e8-4a0b-b812-361bc872bc46",
+              "itemBody": "<p>B. 1.0694.</p>",
+              "position": 2
+            },
+            {
+              "id": "c41f0549-27a2-4408-adfb-e126dee5dc1b",
+              "itemBody": "<p>C. 1.4855.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3ab5aae0-e9e8-4a0b-b812-361bc872bc46"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-22",
+      "entry": {
+        "title": "2027 Economics Mod8-Q22",
+        "itemBody": "<p>If the spot rate for AUD/USD (amount of AUD per 1 USD) is 1.4780 and the 1-month forward points are –16.0, the 1-month forward rate for AUD/USD is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because to convert any of these quoted forward points into a forward \nrate, one would divide the number of points by 10,000 (to scale down to the fourth \ndecimal place, the last decimal place in the spot quote) and then add the result to the \nspot exchange rate quote. The forward points are negative and therefore the \nforward rate = –16/10,000 + 1.4780 = –0.0016 + 1.4780 = 1.4764.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9d9d2fc2-ab2c-4e5c-8086-41ff2cae21ea",
+              "itemBody": "<p>A. 1.3180.</p>",
+              "position": 1
+            },
+            {
+              "id": "02b74ca9-e171-4713-92e3-c4682bfb94d2",
+              "itemBody": "<p>B. 1.4764.</p>",
+              "position": 2
+            },
+            {
+              "id": "5b80bfe6-b0b9-4c29-b449-df7efc7940ac",
+              "itemBody": "<p>C. 1.4796. Exchange Rate Calculations Faculty: Page 6 of 11</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "02b74ca9-e171-4713-92e3-c4682bfb94d2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-8-23",
+      "entry": {
+        "title": "2027 Economics Mod8-Q23",
+        "itemBody": "<p>A currency trader observes the following rates: Spot exchange rate (Sf/d) 1.7550 12-month forward rate (Ff/d) 1.7900 Domestic 12-month risk-free rate 3.00% Foreign 12-month risk-free rate 4.50% A riskless arbitrage profit exists that is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The trader would be able to earn a riskless arbitrage profit of 0.54%, \ncalculated as follows: \nReturn on the hedged foreign investment: Sf/d(1 + if)[1/Ff/d] = 1.7550(1.045)[1/1.7900] \n= 1.0246 = 2.46%. \nRiskless arbitrage profit = Domestic risk -free rate – Return on the hedged foreign \ninvestment: 3.00% – 2.46% = 0.54%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3ae3b263-23d3-4cc8-9bf5-20dbe5ea56f3",
+              "itemBody": "<p>A. 0.54%.</p>",
+              "position": 1
+            },
+            {
+              "id": "03406b07-0f70-47c8-9f08-366233e7e297",
+              "itemBody": "<p>B. 2.04%.</p>",
+              "position": 2
+            },
+            {
+              "id": "989fbbb3-c803-4811-b2d9-bd58c6b005c1",
+              "itemBody": "<p>C. 2.46%. SUMMARY: - (LOS 19.a): – 1, 2, 12, 13, 14, 15, 19, 21. (LOS 19.b): – 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 20, 22, 23. Exchange Rate Calculations Faculty: Page 7 of 11</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3ae3b263-23d3-4cc8-9bf5-20dbe5ea56f3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

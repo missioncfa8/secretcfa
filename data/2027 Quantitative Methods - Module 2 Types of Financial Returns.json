@@ -1,0 +1,195 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Quantitative Methods_2",
+  "curriculum_year": "2027",
+  "topic": "Quantitative Methods",
+  "module_number": 2,
+  "module_name": "Types of Financial Returns",
+  "question_count": 4,
+  "points_possible": 4.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Quantitative Methods - Module 2 Types of Financial Returns",
+    "topic": "Quantitative Methods",
+    "module_id": 2,
+    "question_count": 4,
+    "type": "practice",
+    "points_possible": 4.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Quan-2-1",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod2-Q1",
+        "itemBody": "<p>In the context of total investment risk, macro risks:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1a3d047f-9abc-454a-8254-4c8d034e9122",
+              "itemBody": "<p>A. represent non-systematic risks.</p>",
+              "position": 1
+            },
+            {
+              "id": "e5c573f6-f23b-4b47-82ef-fb073f3b4718",
+              "itemBody": "<p>B. are independent from total investment risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "2f36afef-6c01-4edc-9119-caca8f57e743",
+              "itemBody": "<p>C. significantly influence overall investment performance.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1a3d047f-9abc-454a-8254-4c8d034e9122"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-2-2",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod2-Q2",
+        "itemBody": "<p>A wider range of annual returns for an asset class is typically associated with:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b44ab28d-a31a-4d00-92bd-a8dec2440df6",
+              "itemBody": "<p>A. lower risk and higher returns.</p>",
+              "position": 1
+            },
+            {
+              "id": "afe5c8ad-a762-44b1-b712-a7703b05310d",
+              "itemBody": "<p>B. higher risk and lower returns.</p>",
+              "position": 2
+            },
+            {
+              "id": "6a9dd3d3-be9a-4055-9f8c-268c7ba7da7e",
+              "itemBody": "<p>C. higher risk and higher returns.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b44ab28d-a31a-4d00-92bd-a8dec2440df6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-2-3",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod2-Q3",
+        "itemBody": "<p>What does the decline in capital distribution returns in long-term government bonds over the period from the early 2000s to early 2020s indicate?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6a52c9f0-5e07-4aad-9b23-056e4df9cf2b",
+              "itemBody": "<p>A. A shift toward higher equity investments</p>",
+              "position": 1
+            },
+            {
+              "id": "d84dc168-cf30-41da-bbe7-9edca0590491",
+              "itemBody": "<p>B. A decrease in market interest rates</p>",
+              "position": 2
+            },
+            {
+              "id": "24c1be40-cc0d-4558-9cbb-eefde785de34",
+              "itemBody": "<p>C. An increase in corporate default rates</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6a52c9f0-5e07-4aad-9b23-056e4df9cf2b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-2-4",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod2-Q4",
+        "itemBody": "<p>How does the risk–return trade-off principle affect asset allocation among investors with different objectives?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f5a8fa97-55df-4adf-80d1-1e79462ec109",
+              "itemBody": "<p>A. It encourages all investors to prioritize high-risk assets for maximum returns.</p>",
+              "position": 1
+            },
+            {
+              "id": "cbadfebb-ce05-4cb8-b987-41b60a8287b7",
+              "itemBody": "<p>B. It leads investors to allocate assets based on their risk tolerance and return objectives.</p>",
+              "position": 2
+            },
+            {
+              "id": "18217c13-9e10-4c80-8767-1e6e02c97acb",
+              "itemBody": "<p>C. It suggests that low-risk assets offer the highest potential returns.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f5a8fa97-55df-4adf-80d1-1e79462ec109"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

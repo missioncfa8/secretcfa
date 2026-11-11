@@ -2815,9 +2815,9 @@ body{margin:0;font-family:'Inter','Segoe UI',Arial,Helvetica,sans-serif;backgrou
     <h3>✨ 2027 Curriculum Upgrade</h3>
     <p>This section contains the official CFA Level 1 learning modules updated for 2027. Modules with syllabus changes incorporate the brand-new questions and full solution rationales, while unchanged topics remain seamlessly accessible.</p>
     <div class="stats-strip">
-      <div class="stat-pill"><strong>93</strong> Total Modules</div>
-      <div class="stat-pill"><strong>{{ updated_count }}</strong> Modules with 2027 Updates</div>
-      <div class="stat-pill"><strong>{{ total_new_q }}</strong> Brand-New 2027 Questions</div>
+      <div class="stat-pill"><strong>{{ total_modules }}</strong> 2027 Learning Modules</div>
+      <div class="stat-pill"><strong>{{ categories|length }}</strong> Curriculum Topics</div>
+      <div class="stat-pill"><strong>{{ total_q }}</strong> Practice Questions & Full Solutions</div>
     </div>
   </div>
 
@@ -5882,59 +5882,66 @@ def update_exam_date():
 @app.route('/new-2027')
 @login_required
 def new_2027_dashboard():
-    """Dashboard displaying 2027 curriculum modules strictly module-wise"""
+    """Dashboard displaying authentic 2027 curriculum modules strictly module-wise"""
     user_id = session.get('user_id')
     
-    # Load all 2027 module files
-    all_files = []
-    updated_count = 0
-    total_new_q = 0
+    TOPIC_ORDER = [
+        'Quantitative Methods',
+        'Economics',
+        'Corporate Finance',
+        'Financial Statement Analysis',
+        'Equities',
+        'Fixed Income',
+        'Alternative Investments',
+        'Portfolio Construction',
+        'Ethical and Professional Standards'
+    ]
+    
+    categories = {topic: [] for topic in TOPIC_ORDER}
+    total_q = 0
+    total_modules = 0
     
     for f in os.listdir(DATA_FOLDER):
-        if f.endswith(".json") and f.startswith("2027 Module"):
+        if f.startswith("2027 ") and f.endswith(".json"):
             filepath = os.path.join(DATA_FOLDER, f)
-            name_no_ext = f[:-5] # e.g. "2027 Module 12 The Firm and Market Structures"
+            name_no_ext = f[:-5]
             try:
                 with open(filepath, 'r', encoding='utf-8') as jf:
                     data = json.load(jf)
                     items = data.get('items', [])
-                    num = get_module_number(name_no_ext)
-                    has_updates = data.get('has_2027_updates', False)
-                    new_q = data.get('new_2027_questions_count', 0)
-                    if has_updates:
-                        updated_count += 1
-                        total_new_q += new_q
+                    topic = data.get('topic', 'Other')
+                    mod_num = data.get('module_number', 0)
+                    mod_name = data.get('module_name', name_no_ext)
                     
-                    # Clean title for display: remove "2027 " prefix
-                    clean_title = name_no_ext[5:] if name_no_ext.startswith("2027 ") else name_no_ext
-                    
-                    all_files.append({
+                    mod_info = {
                         'filename': name_no_ext,
-                        'title': clean_title,
+                        'title': f"Module {mod_num}: {mod_name}",
                         'questions': len(items),
-                        'num': num,
-                        'has_updates': has_updates,
-                        'new_q': new_q
-                    })
-            except Exception as e:
+                        'num': mod_num
+                    }
+                    total_q += len(items)
+                    total_modules += 1
+                    
+                    if topic in categories:
+                        categories[topic].append(mod_info)
+                    else:
+                        categories.setdefault(topic, []).append(mod_info)
+            except Exception:
                 continue
 
-    # Group by MODULE_CATEGORIES
-    categories = {}
-    for cat_name, (start, end) in MODULE_CATEGORIES.items():
-        cat_mods = [m for m in all_files if start <= m['num'] <= end]
-        cat_mods.sort(key=lambda x: x['num'])
-        if cat_mods:
-            categories[cat_name] = cat_mods
+    # Sort each category by module number
+    for t in list(categories.keys()):
+        categories[t].sort(key=lambda x: x['num'])
+        if not categories[t]:
+            del categories[t]
 
     return render_template_string(
         NEW_2027_TEMPLATE,
         categories=categories,
-        updated_count=updated_count,
-        total_new_q=total_new_q,
+        total_modules=total_modules,
+        total_q=total_q,
         active_tab='new_2027'
     )
-
 
 @app.route('/practice')
 @login_required

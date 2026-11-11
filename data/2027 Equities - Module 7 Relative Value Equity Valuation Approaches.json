@@ -1,0 +1,489 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_7",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 7,
+  "module_name": "Relative Value Equity Valuation Approaches",
+  "question_count": 11,
+  "points_possible": 11.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 7 Relative Value Equity Valuation Approaches",
+    "topic": "Equities",
+    "module_id": 7,
+    "question_count": 11,
+    "type": "practice",
+    "points_possible": 11.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-7-1",
+      "entry": {
+        "title": "2027 Equities Mod7-Q1",
+        "itemBody": "<p>Which one of the following statements most correctly describes a positively skewed distribution of P/E multiples?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eb589f1d-723e-4781-a54d-9a9e83881125",
+              "itemBody": "<p>A. The average P/E is greater than the median P/E.</p>",
+              "position": 1
+            },
+            {
+              "id": "45e7dc36-ad56-4a2d-b38a-2fc8b9433e07",
+              "itemBody": "<p>B. The distribution includes firms with negative EPS.</p>",
+              "position": 2
+            },
+            {
+              "id": "3438428b-8167-42b8-9f96-5e6ddac4fa35",
+              "itemBody": "<p>C. The average P/E more likely reflects the distribution’s central tendency. Feedback A is correct because the mean (i.e., average) P/E exceeds the median P/E in a positively skewed distribution since the average is affected by the presence of very high P/E multiples that may be outliers within the distribution. B is incorrect because P/E multiples are not economically meaningful and are typically not included in the distribution. C is incorrect because the median is a more likely reflection of the distribution’s central tendency when the distribution is positively skewed.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "eb589f1d-723e-4781-a54d-9a9e83881125"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-2",
+      "entry": {
+        "title": "2027 Equities Mod7-Q2",
+        "itemBody": "<p>Relative valuation is least likely to be a primary method for valuing equity of:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e1d3ebe0-1e71-493d-aa40-94bc699358f4",
+              "itemBody": "<p>A. firms operating in concentrated industries.</p>",
+              "position": 1
+            },
+            {
+              "id": "a3b9e3c8-5517-4d54-af80-cad39ebfe585",
+              "itemBody": "<p>B. firms operating in industries with wide variation in company age.</p>",
+              "position": 2
+            },
+            {
+              "id": "8e53c524-f95f-444c-a7c6-e2dcffcea853",
+              "itemBody": "<p>C. firms operating in multiple industries. Feedback A is correct because the ability of an analyst to construct a peer group is much more limited for firms in which there are fewer competitors. For these types of firms, present value methods of valuing equity may be preferable. B is incorrect because firms of differing phases in the company life cycle can be included in the analyst’s peer group as long as differences in fundamental characteristics can be incorporated into the analysis. C is incorrect because an analyst can create multiple peer groups across industry classifications and weight the peer group multiples according to the firm’s proportion of business activity in each industry.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e1d3ebe0-1e71-493d-aa40-94bc699358f4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-3",
+      "entry": {
+        "title": "2027 Equities Mod7-Q3",
+        "itemBody": "<p>An analyst analyzes StevCo’s observed value-to-book multiple of 1.60 based on the following information:  StevCo’s WACC is 7.5%, and its long-run growth of FCFF is 3.0%.  StevCo’s book value of equity is EUR400 million, and its book value of debt is EUR900 million.  StevCo’s base-year (t = 0) EBITDA is equal to EUR300 million, and its depreciation expense is EUR150 million. The company spends EUR190 million on capital expenditures. StevCo operates with zero net working capital. StevCo’s tax rate is 30%. Which one of the following is closest to the analyst’s estimate of StevCo’s justified value-to-book multiple assuming constant growth?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a8ab1977-c79b-4b7f-b823-7a6a2778cfbd",
+              "itemBody": "<p>A. 0.17</p>",
+              "position": 1
+            },
+            {
+              "id": "32ff1813-de70-43f4-8a39-fb32e950ccb0",
+              "itemBody": "<p>B. 1.11</p>",
+              "position": 2
+            },
+            {
+              "id": "e2c037f9-51a8-45a4-a97c-a49fca7e098f",
+              "itemBody": "<p>C. 2.22</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a8ab1977-c79b-4b7f-b823-7a6a2778cfbd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-4",
+      "entry": {
+        "title": "2027 Equities Mod7-Q4",
+        "itemBody": "<p>An analyst is comparing two mature companies with stable dividend policies. Firm 1 has a dividend payout ratio of 60%, and its stock has a dividend yield of 4.2%. Firm 2 has a dividend payout ratio of 70%, and its stock has a dividend yield of 4.5%. The analyst finds that the two stocks have the same cost of equity of 9%. The analyst calculates Firm 1’s expected dividend growth rate at 4.7% and Firm 2’s growth rate at 4.2%. Which one of the following is the most correct relative valuation conclusion from this analyst?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "835d1a42-db5a-41c2-9bb3-1f9aecffaf66",
+              "itemBody": "<p>A. Firm 2’s stock is underpriced compared to Firm 1’s stock based on the differences in dividend yield.</p>",
+              "position": 1
+            },
+            {
+              "id": "4122764f-bb43-4102-ab2e-7e61b739e862",
+              "itemBody": "<p>B. Firm 1’s stock is underpriced compared to Firm 2’s stock price based on their P/E multiples.</p>",
+              "position": 2
+            },
+            {
+              "id": "e24bbd07-1b15-4c3a-9289-cf87ee29285a",
+              "itemBody": "<p>C. Firm 1’s stock is underpriced and Firm 2’s stock is overpriced based on their justified dividend yields.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "835d1a42-db5a-41c2-9bb3-1f9aecffaf66"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-5",
+      "entry": {
+        "title": "2027 Equities Mod7-Q5",
+        "itemBody": "<p>Which one of the following statements most correctly describes a weakness of using relative valuation multiples in trying to identify misvalued stocks?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "10ebd7a1-48c3-4acc-bf8f-8dcab071ca8e",
+              "itemBody": "<p>A. The peer group used as part of the relative valuation may include firms that are not identical.</p>",
+              "position": 1
+            },
+            {
+              "id": "c0252a06-0a47-4018-9a06-554d2f834c2b",
+              "itemBody": "<p>B. The peer group used as part of the relative valuation process may exhibit variation in fundamental characteristics.</p>",
+              "position": 2
+            },
+            {
+              "id": "721eab5f-f08e-439e-93ff-e50155a9c12b",
+              "itemBody": "<p>C. The peer group used as part of the relative valuation process may not be fairly valued. Feedback C is correct because a misvalued peer group creates a situation in which firms may be classified only as undervalued or overvalued relative to the peer group. For example, a stock that is undervalued relative to an overvalued peer group may be overvalued if valuing the stock on an absolute basis using a present value model. A is incorrect because relative valuation is based on the concept that similar companies should trade at similar multiples after controlling for differences. Peer companies do not need to be identical to be appropriate peers. B is incorrect because differences in fundamental characteristics among peer group firms may be controlled for by using adjustment or regression based on the method of forecasted fundamentals.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "10ebd7a1-48c3-4acc-bf8f-8dcab071ca8e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-6",
+      "entry": {
+        "title": "2027 Equities Mod7-Q6",
+        "itemBody": "<p>An analyst gathers the following information for a set of firms from the same industry. Firm P/E Dividend payout ratio Growth rate Cost of equity 1 15.80 80.00% 2.0% 8.2% 2 14.20 75.00% 2.5% 8.0% 3 28.10 70.00% 5.0% 8.3% 4 23.80 72.00% 4.0% 7.5% 5 16.50 82.00% 2.5% 7.5% 6 17.50 90.00% 2.0% 7.8% 7 26.40 77.00% 4.0% 8.0% 8 25.10 81.00% 3.5% 7.8% 9 19.30 70.00% 3.5% 7.0% 10 21.60 79.00% 3.0% 8.5% The average P/E of this peer group is 20.83, with a median of 20.45. Across the distribution, the average payout ratio is 77.6%, the average growth rate is 3.2%, and the average cost of equity is 7.9%. The analyst runs a linear regression of the P/E multiples on payout ratios and growth rates and the regression generates the following results. Coefficient Standard Error t-Stat. P-Value Intercept –32.63 9.49 –3.44 0.0108 Payout ratio 42.54 10.16 4.19 0.0041 Growth rate 639.14 64.50 9.91 0.0000 The analyst is curious about Firm 3’s stock given the fact that its expected growth rate is the highest among the firms. However, she also notes that Firm 3’s stock trades at the highest P/E in the peer group. Additionally, she observes that Firm 7 offers higher payout to shareholders along with relatively high growth expectations. The analyst considers Firm 2 stock as possibly undervalued because its P/E of 14.2 is the lowest in the distribution. Which of the following statements about Firm 2’s characteristics most correctly implies that its P/E should be low relative to its peers?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2e5501c9-67f4-4dbf-b441-346520d02125",
+              "itemBody": "<p>A. Firm 2’s payout ratio and cost of equity are low relative to its peers.</p>",
+              "position": 1
+            },
+            {
+              "id": "655a0d19-030f-41ef-b804-e2fcafb8322a",
+              "itemBody": "<p>B. Firm 2’s payout ratio and growth rate are low relative to its peers.</p>",
+              "position": 2
+            },
+            {
+              "id": "fda3a5ee-180e-4943-a929-c07e8413f214",
+              "itemBody": "<p>C. Firm 2’s growth rate and cost of equity are low relative to its peers Feedback B is correct because Firm 2’s payout ratio and growth rate are both well below the average of the distribution. Because these two fundamental characteristics should be related to a company’s P/E multiple, it should not be surprising that Firm 2 has a low P/E. A is incorrect because a low cost of equity is associated with a higher, not lower, P/E multiple. C is incorrect because a low cost of equity is associated with a higher, not lower, P/E multiple</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2e5501c9-67f4-4dbf-b441-346520d02125"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-7",
+      "entry": {
+        "title": "2027 Equities Mod7-Q7",
+        "itemBody": "<p>Which one of the following is closest to the justified P/E multiple on Firm 3’s stock using a constant growth assumption?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b7cd034f-980e-4087-9353-e9ac3cbdd91c",
+              "itemBody": "<p>A. 14.0</p>",
+              "position": 1
+            },
+            {
+              "id": "07ac7922-7591-4f5e-9579-76e37f9ed738",
+              "itemBody": "<p>B. 22.3</p>",
+              "position": 2
+            },
+            {
+              "id": "da354569-859d-40dd-8093-800315aed8b7",
+              "itemBody": "<p>C. 30.3</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b7cd034f-980e-4087-9353-e9ac3cbdd91c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-8",
+      "entry": {
+        "title": "2027 Equities Mod7-Q8",
+        "itemBody": "<p>Which of the following is a reasonable conclusion for the analyst from observing Firm 7’s P/E multiple compared to its justified multiple computed from the regression results?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "732f0d3a-61f0-47ba-919c-61858ade041a",
+              "itemBody": "<p>A. The comparison suggests that Firm 7’s stock may be undervalued.</p>",
+              "position": 1
+            },
+            {
+              "id": "282222df-ed4e-45a2-84f0-800d4b7b5364",
+              "itemBody": "<p>B. The comparison suggests that Firm 7’s stock may be overvalued.</p>",
+              "position": 2
+            },
+            {
+              "id": "04c205e8-85f8-413b-9fb9-802ad5a5465f",
+              "itemBody": "<p>C. The comparison suggests Firm 7’s stock is probably neither under- or overvalued</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "732f0d3a-61f0-47ba-919c-61858ade041a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-9",
+      "entry": {
+        "title": "2027 Equities Mod7-Q9",
+        "itemBody": "<p>An investor gathers the following data to estimate the intrinsic value of a company’s stock using the justified forward price-to-earnings ratio (P/E) approach. Next year's earnings per share $3.00 Return on equity 12.5% Dividend payout ratio 60% Required return on shares 10% The intrinsic value per share is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "11f7e75a-0f7a-425f-b596-ecea7bfaa575",
+              "itemBody": "<p>A. $36.</p>",
+              "position": 1
+            },
+            {
+              "id": "6f68fce2-bdd0-4fd4-9f74-16db894d8360",
+              "itemBody": "<p>B. $48.</p>",
+              "position": 2
+            },
+            {
+              "id": "a5da4e99-041c-4329-b757-a3a3c0553ff2",
+              "itemBody": "<p>C. $72.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "11f7e75a-0f7a-425f-b596-ecea7bfaa575"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-10",
+      "entry": {
+        "title": "2027 Equities Mod7-Q10",
+        "itemBody": "<p>An analyst gathered the following information about a company: Current earnings per share $6.00 Current dividend per share $2.40 Current market price per share $35 Required rate of return on the stock 15.0% Expected growth rate of earnings and dividends 8.0% Which of the following statements best describes the company’s price-to-earnings ratio (P/E)? Compared to the company’s trailing P/E ratio, the justified forward P/E ratio based on the dividend discount model is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f062b5ef-fb1c-416e-b92b-053f609c536a",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "3f2253a4-ac94-491d-8afb-eb30f75c4ca2",
+              "itemBody": "<p>B. the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "74e04fe1-d53c-4e6d-a43f-954dc9207037",
+              "itemBody": "<p>C. higher.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f062b5ef-fb1c-416e-b92b-053f609c536a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-7-11",
+      "entry": {
+        "title": "2027 Equities Mod7-Q11",
+        "itemBody": "<p>An analyst collects the following data on a company: Return on Equity (%) Payout Ratio (%) Justified Forward P/E 12.0 30 7.5 Using a required return of 12.4%, if the company increases its dividend payout ratio to 40%, the justified forward P/E ratio will be closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0be52462-55aa-4b4c-b990-377b5c61e009",
+              "itemBody": "<p>A. 5.3.</p>",
+              "position": 1
+            },
+            {
+              "id": "55f74bae-cee0-458a-a2ff-e1b00b854877",
+              "itemBody": "<p>B. 7.7.</p>",
+              "position": 2
+            },
+            {
+              "id": "25e48329-ed17-4d05-b309-f690bb52a14b",
+              "itemBody": "<p>C. 11.5.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0be52462-55aa-4b4c-b990-377b5c61e009"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

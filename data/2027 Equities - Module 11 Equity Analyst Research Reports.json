@@ -1,0 +1,279 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_11",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 11,
+  "module_name": "Equity Analyst Research Reports",
+  "question_count": 6,
+  "points_possible": 6.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 11 Equity Analyst Research Reports",
+    "topic": "Equities",
+    "module_id": 11,
+    "question_count": 6,
+    "type": "practice",
+    "points_possible": 6.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-11-1",
+      "entry": {
+        "title": "2027 Equities Mod11-Q1",
+        "itemBody": "<p>An effective investment thesis:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2ad659f0-741a-4716-bee8-6f58d692db8d",
+              "itemBody": "<p>A. includes a detailed analysis of the company’s financial statements.</p>",
+              "position": 1
+            },
+            {
+              "id": "e26e3a7a-eba4-45b1-b8ce-c04359d73a95",
+              "itemBody": "<p>B. articulates why the analyst believes the stock is mispriced.</p>",
+              "position": 2
+            },
+            {
+              "id": "201962fd-4fb9-490c-ac13-53e45b13a5d4",
+              "itemBody": "<p>C. includes a detailed analysis of the industry or industries within which it operates. Feedback B is correct. An effective investment thesis incorporates information as to why the stock’s price should converge to the price target. The thesis succinctly articulates the analyst’s findings and conclusions. It often includes not only company-specific drivers of performance but also the underlying economic and industry environment that will contribute to the analyst’s predicted outcome for the company. The thesis should be directly aligned to achieving the price target within the anticipated time horizon. A is incorrect. An effective investment thesis reflects an analyst’s abilities to condense key aspects of their investment rationale into a short summary. Detailed financial statement analysis is not part of the investment thesis. C is incorrect. An effective investment thesis does not include detailed information from the overall research. Rather, the analyst condenses this information into the key points driving why the stock’s current mispricing should correct within the anticipated time horizon.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2ad659f0-741a-4716-bee8-6f58d692db8d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-11-2",
+      "entry": {
+        "title": "2027 Equities Mod11-Q2",
+        "itemBody": "<p>An equity research report that focuses on misinformation or fraud not currently reflected in the stock price is most likely written by:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dae5749d-98e0-4409-986c-bee04187170f",
+              "itemBody": "<p>A. a buy-side analyst.</p>",
+              "position": 1
+            },
+            {
+              "id": "4a5fa223-b63d-4b99-b183-a55b3f9bc6fb",
+              "itemBody": "<p>B. a sell-side analyst.</p>",
+              "position": 2
+            },
+            {
+              "id": "4296262c-e410-4915-a2f9-0ac5e32bc20a",
+              "itemBody": "<p>C. an activist short seller. Feedback C is correct. Activist short sellers focus on identifying misinformation or fraud that is not currently reflected in a company’s share price. A is incorrect. Buy-side reports are done within, or on behalf of, a buy-side firm that is typically confidential and not focused on misinformation or fraud. B is incorrect. Sell-side reports are written for external clients and typically do not focus on misinformation or fraud</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "dae5749d-98e0-4409-986c-bee04187170f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-11-3",
+      "entry": {
+        "title": "2027 Equities Mod11-Q3",
+        "itemBody": "<p>Compared with sell-side reports, buy-side equity research reports are typically:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aa3f32dc-dcb6-44d3-8be6-002877f00622",
+              "itemBody": "<p>A. more customized.</p>",
+              "position": 1
+            },
+            {
+              "id": "e15d9e17-fbdf-4161-8553-2eb9a872696e",
+              "itemBody": "<p>B. more constrained by regulatory restrictions.</p>",
+              "position": 2
+            },
+            {
+              "id": "1e8a2504-aa84-41ed-91df-f5856afb5a89",
+              "itemBody": "<p>C. produced to provide recommendations to firm clients. Feedback A is correct. Buy-side reports tend to be more customized for internal decision making. In contrast, sell-side reports are more general because they cater to a broad audience. B is incorrect. Buy-side reports are largely unconstrained. C is incorrect. Buy-side reports are intended for internal use by firm decision makers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aa3f32dc-dcb6-44d3-8be6-002877f00622"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-11-4",
+      "entry": {
+        "title": "2027 Equities Mod11-Q4",
+        "itemBody": "<p>The purpose of a stock screening process is to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "447fc07e-2c06-4ded-8b08-e62d7ae855ec",
+              "itemBody": "<p>A. expand the investable universe.</p>",
+              "position": 1
+            },
+            {
+              "id": "2b0bfadb-5a46-4c02-9706-6e9c98c8ecd5",
+              "itemBody": "<p>B. provide more accurate valuations.</p>",
+              "position": 2
+            },
+            {
+              "id": "04e99ae3-9d34-46b7-a043-7b09c4287dd6",
+              "itemBody": "<p>C. focus resources on opportunities that are consistent with the investment strategy Feedback C is correct. Screening reduces the number of potential stocks to those that fit criteria that are consistent with the strategy. A is incorrect. Screening reduces the size of the investable universe. B is incorrect. Equity screening applies before valuation models are used, and it does not ensure accuracy in valuation outcomes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "447fc07e-2c06-4ded-8b08-e62d7ae855ec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-11-5",
+      "entry": {
+        "title": "2027 Equities Mod11-Q5",
+        "itemBody": "<p>An increased revenue forecast is most likely to result in an increased valuation estimate if it is accompanied by an increase in:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "96a9ec86-cb5b-43d4-b259-8b69ac20c0b4",
+              "itemBody": "<p>A. net margin only.</p>",
+              "position": 1
+            },
+            {
+              "id": "f33572b1-7647-46d4-9f54-df2d28d2f773",
+              "itemBody": "<p>B. capital investment only.</p>",
+              "position": 2
+            },
+            {
+              "id": "94a8a8c3-385a-4703-8860-942d9fc7ab01",
+              "itemBody": "<p>C. both net margin and capital investment. Feedback A is correct. Increased revenue plus increased margin will result in higher forecasted free cash flows and a positive value change. B is incorrect. Increased capital investment will result in lower free cash flows and may result in decreased value. C is incorrect. The positive valuation effect of the net margin increase may be offset by the effect of increased capital investment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "96a9ec86-cb5b-43d4-b259-8b69ac20c0b4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-11-6",
+      "entry": {
+        "title": "2027 Equities Mod11-Q6",
+        "itemBody": "<p>An analyst valuing a company’s stock revises income statement assumptions to increase revenue growth while decreasing margins. The most likely implication is that:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92385db3-0d00-41bf-bc48-e68581fd5719",
+              "itemBody": "<p>A. the lower margins will result in a lower equity value.</p>",
+              "position": 1
+            },
+            {
+              "id": "bd4232f1-85d0-4fb7-b33a-26e003a445e8",
+              "itemBody": "<p>B. the higher revenue growth will result in higher equity value.</p>",
+              "position": 2
+            },
+            {
+              "id": "10e1381a-84b6-4f37-b7c4-335b92cd5f08",
+              "itemBody": "<p>C. the equity value change depends on the magnitude of the offsetting assumptions Feedback C is correct. The offsetting effects of higher revenue growth and lower margins will result in profits that may be higher, lower, or possibly equal to the profits assumed in the original scenario. For example, small declines in margins with large revenue growth improvements may result in higher FCFE and higher equity value. In contrast, large declines in margins combined with relatively small revenue growth improvements may result in lower FCFE and lower equity value. A is incorrect. Lower margins are only likely to result in a revised lower equity value if they more than offset increased revenue growth. Specifically, lower margins may still result in higher net income because of higher revenue growth assumptions. B is incorrect. Higher revenue growth is not a guarantee of higher equity value if net income assumptions are revised downward because of lower margins.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "92385db3-0d00-41bf-bc48-e68581fd5719"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

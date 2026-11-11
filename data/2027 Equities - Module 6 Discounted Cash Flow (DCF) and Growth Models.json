@@ -1,0 +1,573 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_6",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 6,
+  "module_name": "Discounted Cash Flow (DCF) and Growth Models",
+  "question_count": 13,
+  "points_possible": 13.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 6 Discounted Cash Flow (DCF) and Growth Models",
+    "topic": "Equities",
+    "module_id": 6,
+    "question_count": 13,
+    "type": "practice",
+    "points_possible": 13.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-6-1",
+      "entry": {
+        "title": "2027 Equities Mod6-Q1",
+        "itemBody": "<p>Which of the following statements best describes the difference between the FCFE (free cash flow to equity) metric and dividends?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9831b749-e87c-4b23-be93-010cca293cc8",
+              "itemBody": "<p>A. FCFE involves cash flows to shareholders in the form of both share buybacks and cash dividends.</p>",
+              "position": 1
+            },
+            {
+              "id": "143051f8-4425-4918-b8a0-7e12fc88bca8",
+              "itemBody": "<p>B. FCFE includes dividends, retained earnings, and changes in cash.</p>",
+              "position": 2
+            },
+            {
+              "id": "3c0af63a-ed9b-4121-b942-b86d7dd7c024",
+              "itemBody": "<p>C. FCFE includes changes in cash plus dividends minus changes in equity. Feedback C is correct because it incorporates net cash flows distributed and available to shareholders once other obligations are satisfied. B is incorrect because it ignores changes in equity from new issuance and share buybacks. A is incorrect because it omits cash available to shareholders</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9831b749-e87c-4b23-be93-010cca293cc8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-2",
+      "entry": {
+        "title": "2027 Equities Mod6-Q2",
+        "itemBody": "<p>Which of the following statements best describes the relationship between FCFE and FCFF?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f656fef6-d1d3-4fae-b968-90269dc0711f",
+              "itemBody": "<p>A. FCFF and FCFE are equal as long as debt outstanding does not change.</p>",
+              "position": 1
+            },
+            {
+              "id": "2afb500e-cfb9-40b4-aff8-69376f13bd80",
+              "itemBody": "<p>B. When debt financing is used, a firm’s FCFF will exceed FCFE as long as debt outstanding remains unchanged.</p>",
+              "position": 2
+            },
+            {
+              "id": "abb705e1-514b-4493-9209-dac38e57751e",
+              "itemBody": "<p>C. FCFF is always either greater than or equal to FCFE. Feedback B is correct because FCFF is equal to FCFE plus after-tax interest expense less debt changes. C is incorrect because FCFF can fall below FCFE if debt outstanding changes. A is incorrect because FCFF and FCFE cannot be equal if debt is outstanding; they can be equal only if no debt is used by the firm.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f656fef6-d1d3-4fae-b968-90269dc0711f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-3",
+      "entry": {
+        "title": "2027 Equities Mod6-Q3",
+        "itemBody": "<p>Storeham plc is expected to reach an FCFE of GBP15 per share next year with a cost of equity of 12.5%. Storeham’s market price is GBP150 per share. Which of the following is closest to Storeham’s implied FCFE growth rate?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fdb9544f-94d5-495d-8f82-3061a5392eab",
+              "itemBody": "<p>A. 1.875%</p>",
+              "position": 1
+            },
+            {
+              "id": "a94abb53-2aa4-4160-aef9-091da07aafe6",
+              "itemBody": "<p>B. 2.5%</p>",
+              "position": 2
+            },
+            {
+              "id": "a994aeb3-08b0-418e-82e8-565fefd2db06",
+              "itemBody": "<p>C. 10%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fdb9544f-94d5-495d-8f82-3061a5392eab"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-4",
+      "entry": {
+        "title": "2027 Equities Mod6-Q4",
+        "itemBody": "<p>Which of the following statements best describes the sustainable growth rate for a firm with required return on equity of 10%, a dividend payout ratio of 70%, and return on equity of 15%?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "185d3fb3-04a9-43f8-abba-edde3abccf29",
+              "itemBody": "<p>A. 4.5%</p>",
+              "position": 1
+            },
+            {
+              "id": "8f468d14-42f2-4109-9246-52679f2f6703",
+              "itemBody": "<p>B. 7.0%</p>",
+              "position": 2
+            },
+            {
+              "id": "4bcece4b-c5a6-49fb-b326-cc0cff1711b3",
+              "itemBody": "<p>C. 10.5%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "185d3fb3-04a9-43f8-abba-edde3abccf29"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-5",
+      "entry": {
+        "title": "2027 Equities Mod6-Q5",
+        "itemBody": "<p>Which of the following statements best explains why preferred shares have a lower required rate of return than common shares for a given issuer?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c90b01cc-d6e9-431e-b245-f72a1323c825",
+              "itemBody": "<p>A. Preferred shareholders have a priority claim over common stock in the receipt of dividends and on the issuer’s assets in the event of liquidation.</p>",
+              "position": 1
+            },
+            {
+              "id": "c309391f-2ed8-4abe-b28a-f14535d568f9",
+              "itemBody": "<p>B. Preferred shareholders receive fixed dividends, while common shares receive discretionary dividends.</p>",
+              "position": 2
+            },
+            {
+              "id": "31e8fa46-b744-4e61-8474-53689ea6458d",
+              "itemBody": "<p>C. Preferred shares generally have contingency features that represent an economic benefit to the issuer, resulting in a lower expected return. Feedback A is correct because the priority claim over common stock in the receipt of dividends and on assets under liquidation is the primary driver of the lower expected rate of return. B is incorrect because the type or size of the dividend does not affect the discount rate applied based on the required rate of return. C is incorrect because contingency features associated with preferred shares may represent an economic benefit to either an issuer or an investor.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c90b01cc-d6e9-431e-b245-f72a1323c825"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-6",
+      "entry": {
+        "title": "2027 Equities Mod6-Q6",
+        "itemBody": "<p>The following information is available about a company: Next year's sales revenue $180 million Next year's net profit margin 15% Dividend payout ratio 60% Dividend growth rate expected during Years 2 and 3 25% Dividend growth rate expected after Year 3 5% Investors' required rate of return 12% Number of outstanding shares 8.1 million The current value per share of the company’s common stock according to the two-stage dividend discount model is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65bb4046-70c8-471a-875b-6d0edeea62f7",
+              "itemBody": "<p>A. $39.36.</p>",
+              "position": 1
+            },
+            {
+              "id": "95bc7b4c-01cb-47a3-a87c-c605564dd987",
+              "itemBody": "<p>B. $49.20.</p>",
+              "position": 2
+            },
+            {
+              "id": "dcca8bdd-5465-49cd-af18-b1eaeecf33dc",
+              "itemBody": "<p>C. $52.86.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "65bb4046-70c8-471a-875b-6d0edeea62f7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-7",
+      "entry": {
+        "title": "2027 Equities Mod6-Q7",
+        "itemBody": "<p>The following data pertain to a company that can be appropriately valued using the dividend discount model. The dividend is expected to grow indefinitely at the existing sustainable growth rate. EPS growth rate (three-year average) 7.50% Current dividend per share $3.00 Return on equity 15% Dividend payout ratio 45% Investor's required rate of return 16% The stock’s intrinsic value is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4dca7a7c-4b81-42dd-aa66-c4c93dd12a3d",
+              "itemBody": "<p>A. $34.62.</p>",
+              "position": 1
+            },
+            {
+              "id": "fc70f015-9fe5-4261-92ba-06532ef8b5dd",
+              "itemBody": "<p>B. $37.94.</p>",
+              "position": 2
+            },
+            {
+              "id": "47b3f2cf-0921-4f77-b99d-1467e11126e0",
+              "itemBody": "<p>C. $41.90.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4dca7a7c-4b81-42dd-aa66-c4c93dd12a3d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-8",
+      "entry": {
+        "title": "2027 Equities Mod6-Q8",
+        "itemBody": "<p>An investor gathers the following information about a company and its common stock: Current dividend per share (D0) $1.00 Dividend payout ratio 60% ROE 12% If the required rate of return is 10%, using the dividend discount model, the intrinsic value per share of the stock is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0a8e6236-d908-44f4-b872-4b58a7440cde",
+              "itemBody": "<p>A. $14.56.</p>",
+              "position": 1
+            },
+            {
+              "id": "26a96373-f225-4a81-b815-a960576a5b98",
+              "itemBody": "<p>B. $19.23.</p>",
+              "position": 2
+            },
+            {
+              "id": "5941468a-94ec-47d0-b807-9ff9757bf35a",
+              "itemBody": "<p>C. $20.15.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0a8e6236-d908-44f4-b872-4b58a7440cde"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-9",
+      "entry": {
+        "title": "2027 Equities Mod6-Q9",
+        "itemBody": "<p>An analyst gathers and estimates the following information about a company's stock: Current dividend per share (D0) $4 Current EPS $5 Dividend growth rate 4% If the estimated stock value using the dividend discount model is $92 per share, the required return on this stock is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "302e55ad-6b95-4e6f-8da8-16e305a9ba14",
+              "itemBody": "<p>A. 8.35%.</p>",
+              "position": 1
+            },
+            {
+              "id": "ddb33670-0066-4664-b613-5b966074609e",
+              "itemBody": "<p>B. 8.52%.</p>",
+              "position": 2
+            },
+            {
+              "id": "4c068897-ab3e-481a-90ab-a36199f0016f",
+              "itemBody": "<p>C. 9.44%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "302e55ad-6b95-4e6f-8da8-16e305a9ba14"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-10",
+      "entry": {
+        "title": "2027 Equities Mod6-Q10",
+        "itemBody": "<p>A company's current dividend (D0) of $3 per share is expected to grow 20% per year for three years, then 5% per year thereafter. If the required rate of return is 10%, using a multistage dividend discount model, the intrinsic value of the stock at the end of Year 3 is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "26899143-60cd-4308-998b-40490b38cfd6",
+              "itemBody": "<p>A. $81.79.</p>",
+              "position": 1
+            },
+            {
+              "id": "6d1518ad-cd2d-43af-88b0-4b657c89edd9",
+              "itemBody": "<p>B. $92.53.</p>",
+              "position": 2
+            },
+            {
+              "id": "b15f2f6e-a91d-4ee3-ad89-43380bdcbeae",
+              "itemBody": "<p>C. $108.86</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "26899143-60cd-4308-998b-40490b38cfd6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-11",
+      "entry": {
+        "title": "2027 Equities Mod6-Q11",
+        "itemBody": "<p>A company’s $100 par value perpetual preferred stock has a dividend rate of 7% and a required rate of return of 11%. The company’s earnings are expected to grow at a constant rate of 3% per year. If the market price per share for the preferred stock is $75, the preferred stock is most appropriately described as being:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b84d36c-4315-4c1e-872f-e69ddc503564",
+              "itemBody": "<p>A. overvalued by $11.36.</p>",
+              "position": 1
+            },
+            {
+              "id": "cbb7617e-1717-4719-9134-26c88fa4af79",
+              "itemBody": "<p>B. undervalued by $15.13.</p>",
+              "position": 2
+            },
+            {
+              "id": "1d6cd068-27eb-4f42-b4db-9c959c670bed",
+              "itemBody": "<p>C. undervalued by $36.36.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6b84d36c-4315-4c1e-872f-e69ddc503564"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-12",
+      "entry": {
+        "title": "2027 Equities Mod6-Q12",
+        "itemBody": "<p>Assuming a 4% required rate of return, what is the intrinsic value per share of an outstanding issue of 5% perpetual preferred stock with a par value of £100 and no embedded options?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5b1c7f51-f308-4d4c-9a2f-803bd1482291",
+              "itemBody": "<p>A. £80</p>",
+              "position": 1
+            },
+            {
+              "id": "ec43b641-e91d-4720-bda0-a4dbbda20033",
+              "itemBody": "<p>B. £100</p>",
+              "position": 2
+            },
+            {
+              "id": "26de7b4d-06d7-4ea9-a373-291810a3b249",
+              "itemBody": "<p>C. £125</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5b1c7f51-f308-4d4c-9a2f-803bd1482291"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-6-13",
+      "entry": {
+        "title": "2027 Equities Mod6-Q13",
+        "itemBody": "<p>An analyst gathers the following information about a company's non-callable, non-convertible preferred stock: Par value per share €100 Required rate of return 7.2% Maturity 5 years If the stock's intrinsic value is €125, the company's semi-annual dividend on the preferred stock is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "10e5c8a1-97fe-4365-8a0b-73cd421c4fbd",
+              "itemBody": "<p>A. €6.62.</p>",
+              "position": 1
+            },
+            {
+              "id": "5751df9c-4eb9-4d78-81bf-663d8d4bb3bd",
+              "itemBody": "<p>B. €7.20.</p>",
+              "position": 2
+            },
+            {
+              "id": "5b5d1fd8-167a-4aa7-bebf-a1566ada0c28",
+              "itemBody": "<p>C. €9.00.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "10e5c8a1-97fe-4365-8a0b-73cd421c4fbd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

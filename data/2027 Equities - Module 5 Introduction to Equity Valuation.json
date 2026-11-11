@@ -1,0 +1,699 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_5",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 5,
+  "module_name": "Introduction to Equity Valuation",
+  "question_count": 16,
+  "points_possible": 16.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 5 Introduction to Equity Valuation",
+    "topic": "Equities",
+    "module_id": 5,
+    "question_count": 16,
+    "type": "practice",
+    "points_possible": 16.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-5-1",
+      "entry": {
+        "title": "2027 Equities Mod5-Q1",
+        "itemBody": "<p>The financial adviser finds that the two clients have differing opinions about the future of Rivercreek. Sophie Cho believes that Rivercreek has tremendous potential to grow its product lines and increase its profitability and cash flows. Cynthia Lee believes that Rivercreek is likely to remain a low-margin business and faces potential for disruption from competitors. Which statement below most correctly describes investor perceived values of Rivercreek?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f2d83529-d762-4de6-ae3e-f59e30b0e833",
+              "itemBody": "<p>A. Sophie Cho’s perceived value of Rivercreek stock suggests that she is likely to be a buyer of this stock.</p>",
+              "position": 1
+            },
+            {
+              "id": "03a0984d-c450-4d22-bad4-0a66eaa8b4b5",
+              "itemBody": "<p>B. Sophie Cho’s perceived value of Rivercreek stock is likely to be closer to the stock price compared to Cynthia Lee’s perceived value.</p>",
+              "position": 2
+            },
+            {
+              "id": "60fbc931-f425-4625-98ce-2c542e529765",
+              "itemBody": "<p>C. Cynthia Lee’s perceived value of Rivercreek stock implies that she is unlikely to take a position in the stock.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f2d83529-d762-4de6-ae3e-f59e30b0e833"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-2",
+      "entry": {
+        "title": "2027 Equities Mod5-Q2",
+        "itemBody": "<p>The composite industry P/E multiple has risen considerably over the last year from about 20 to the current level of 50, and several companies in the industry have been issuing new public shares. Which of the following statements provides a likely explanation for these observations?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8a30085c-4cce-4390-94e2-719683c7db96",
+              "itemBody": "<p>A. Retail companies may be issuing shares to pay higher dividends.</p>",
+              "position": 1
+            },
+            {
+              "id": "f315719c-f59c-4345-b966-a7386f442924",
+              "itemBody": "<p>B. Retail companies have a rising EBITDA, thus increasing returns.</p>",
+              "position": 2
+            },
+            {
+              "id": "8ba9d765-4e29-4270-b36b-a5500caa2958",
+              "itemBody": "<p>C. Retail companies may now be characterized as overvalued. Feedback C is correct. Choice C is correct because a rapid increase in P/E accompanied by issuers deciding to sell new shares of stock to the public implies that the industry’s stocks have become overvalued, on average. Choice A is incorrect because issuing shares to pay more dividends does not explain the rise in P/E. Furthermore, this action would increase equity and then reduce it with extra dividend payments. Choice B is incorrect because a rising EBITDA is not a sufficient explanation for a rising P/E</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8a30085c-4cce-4390-94e2-719683c7db96"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-3",
+      "entry": {
+        "title": "2027 Equities Mod5-Q3",
+        "itemBody": "<p>Which one of the following multiples is most likely to be problematic for proper comparison across the three companies and the composite?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "307413fd-e8cd-41e1-8951-0842971cc212",
+              "itemBody": "<p>A. P/E</p>",
+              "position": 1
+            },
+            {
+              "id": "b117456e-cf0e-4d9d-898e-595cc432da28",
+              "itemBody": "<p>B. P/B</p>",
+              "position": 2
+            },
+            {
+              "id": "7db25eb9-950c-4520-b7b3-87df3257bfc2",
+              "itemBody": "<p>C. EV/EBITDA Feedback B is correct. Choice B is correct because P/B creates problems in comparison for at least one reason. Arkanoid’s book value of equity is negative because its book value of liabilities is greater than its book value of assets. Thus, Arkanoid’s P/B is economically meaningless. Additionally, there appears to be the potential for differences in leverage across the three companies. Choice A is incorrect because net income is positive and, for all three companies, does not appear to be too close to zero to create economically meaningless P/E multiples. Choice C is incorrect because EBITDA shows higher values than net income, thus EV/EBITDA is even less likely to provide economically meaningless results than P/E.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "307413fd-e8cd-41e1-8951-0842971cc212"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-4",
+      "entry": {
+        "title": "2027 Equities Mod5-Q4",
+        "itemBody": "<p>Which one of the firms below exhibits the lowest leverage as a percentage of book value of assets?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1ed754a5-1161-4188-911c-09579f821196",
+              "itemBody": "<p>A. Rivercreek</p>",
+              "position": 1
+            },
+            {
+              "id": "3feb91af-6e29-43a9-8d76-1cae6b202c2b",
+              "itemBody": "<p>B. Lough</p>",
+              "position": 2
+            },
+            {
+              "id": "3c9ffa58-254f-44af-a2e3-5df671ba2982",
+              "itemBody": "<p>C. Arkanoid Feedback B is correct. Choice B is correct because Lough’s net debt to assets is only 4.2%. Net debt is equal to EV minus equity market capitalization, so Lough’s net debt is 1,000 (= 26,000 − 25,000). Dividing this by Lough’s book value of assets of 24,000 gives a result of 4.2% (= 1,000 ÷ 24,000). Choice A is incorrect because Rivercreek’s net debt to assets is 22.2%. Its net debt is 10,000 (= 200,000 − 190,000), and its book value of assets is 45,000. Choice C is incorrect because Arkanoid’s net debt to assets is 20%. Its net debt is 5,000 (= 105,000 − 100,000), and its book value of assets is 25,000.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1ed754a5-1161-4188-911c-09579f821196"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-5",
+      "entry": {
+        "title": "2027 Equities Mod5-Q5",
+        "itemBody": "<p>Which one of the following companies is most likely to be undervalued based on the EV/EBITDA multiple?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a12bc691-9fd7-4fa9-9ea9-0343abebf448",
+              "itemBody": "<p>A. Rivercreek</p>",
+              "position": 1
+            },
+            {
+              "id": "08abead6-a4f0-49ec-bd89-55fc7aab44ab",
+              "itemBody": "<p>B. Lough</p>",
+              "position": 2
+            },
+            {
+              "id": "2949507f-356e-4640-a7b1-c2112ea56981",
+              "itemBody": "<p>C. Arkanoid Feedback B is correct. Choice B is correct because Lough’s EV/EBITDA multiple of 10.4 (= 26,000 ÷ 2,500) is lower than the composite multiple of 16.0. Choice A is incorrect because Rivercreek’s EV/EBITDA multiple of 21.11 (= 190,000 ÷ 9,000) is higher than the composite multiple of 16.0. Choice C is incorrect because Arkanoid’s EV/EBITDA multiple of 21.0 (= 105,000 ÷ 5,000) is greater than the composite multiple of 16.0.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a12bc691-9fd7-4fa9-9ea9-0343abebf448"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-6",
+      "entry": {
+        "title": "2027 Equities Mod5-Q6",
+        "itemBody": "<p>Which one of the following statements provides the most probable argument for an asset-based valuation approach?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d5c8584a-f3a0-48ff-9497-81d94d304858",
+              "itemBody": "<p>A. Rivercreek’s high P/B reflects the market value of its real estate holdings.</p>",
+              "position": 1
+            },
+            {
+              "id": "51e98c9a-e983-478e-8956-6ef5016d3e45",
+              "itemBody": "<p>B. Lough’s lower sales-to-assets ratio implies that its business is more capital intensive.</p>",
+              "position": 2
+            },
+            {
+              "id": "c488ca47-2931-4898-844f-629d957828dd",
+              "itemBody": "<p>C. Arkanoid’s smaller firm size makes valuation of its assets more straightforward Feedback A is correct. Choice A is correct because Rivercreek’s owned real estate may provide substantial amounts of the company’s overall value. As such, it may be useful to value Rivercreek using an asset-based approach. Choice B is incorrect. While Lough does have a lower sales-to-assets ratio compared to its two competitors, the higher capital intensity does not imply that an asset-based valuation may be useful. Rather, we would need to know that Lough’s assets are an integral aspect of understanding the value of the business. It was stated earlier that Lough does not own its real estate so is unable to capitalize on increases in market value of leased retail space. Choice C is incorrect. Firm size is not a factor as to whether an asset-based valuation approach is useful.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d5c8584a-f3a0-48ff-9497-81d94d304858"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-7",
+      "entry": {
+        "title": "2027 Equities Mod5-Q7",
+        "itemBody": "<p>A company has issued non-callable, non-convertible preferred stock with the following features: • Par value per share: $10 • Annual dividend per share: $2 • Maturity: 15 years An investor’s required rate of return is 8%, and the current market price per share of the preferred stock is $25. By comparing the estimated intrinsic value with the market price of the preferred stock, the most likely conclusion is that the preferred stock is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "614db34a-3071-4ba5-b7be-7c4a16ceee77",
+              "itemBody": "<p>A. undervalued by $15.00.</p>",
+              "position": 1
+            },
+            {
+              "id": "53e4de5e-13ba-44e8-8161-ebc0a8ec48f4",
+              "itemBody": "<p>B. fairly valued at $25.00.</p>",
+              "position": 2
+            },
+            {
+              "id": "fa96d163-86a3-4604-892f-9b96f4c5741f",
+              "itemBody": "<p>C. overvalued by $4.73 Feedback: C correct. Using a financial calculator to find the present value (PV) of the future cash flows, intrinsic value is thus: FV = $10; n = 15; PMT = $2; r = 8%. Compute PV = $20.27. The preferred stock is overvalued by $4.73 (Market price of $25 – Estimated value of $20.27)</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "614db34a-3071-4ba5-b7be-7c4a16ceee77"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-8",
+      "entry": {
+        "title": "2027 Equities Mod5-Q8",
+        "itemBody": "<p>In a highly efficient market, unexpected positive news on a stock is announced to the public. After this announcement, the difference between the market value and the intrinsic value of the stock will most likely:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3e17c7d3-5c56-45ca-b799-540a5225f626",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "14e27404-9ede-4c48-8de5-8a82e7a61665",
+              "itemBody": "<p>B. remain zero.</p>",
+              "position": 2
+            },
+            {
+              "id": "18ee3a82-72d0-4a6d-a610-6ad20360f215",
+              "itemBody": "<p>C. increase. Feedback: B is correct. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. Therefore, after the announcement, the difference between a stock’s market value and its intrinsic value will remain equal to zero because both market and intrinsic values adjust to reflect the unexpected news by the same amount and at the same time</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "3e17c7d3-5c56-45ca-b799-540a5225f626"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-9",
+      "entry": {
+        "title": "2027 Equities Mod5-Q9",
+        "itemBody": "<p>An asset with a current market price of $15.50 and an estimated intrinsic value of $12.50 is best described as being:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f1a35055-17bf-449e-b226-d9a3813e7ed5",
+              "itemBody": "<p>A. undervalued.</p>",
+              "position": 1
+            },
+            {
+              "id": "251efcbc-3c13-4e3a-9f7b-77c32615f6ac",
+              "itemBody": "<p>B. fairly valued.</p>",
+              "position": 2
+            },
+            {
+              "id": "d0ee23c7-5d47-45ef-8311-d59d5e250fbc",
+              "itemBody": "<p>C. overvalued. Feedback: C correct because an asset with an estimated intrinsic value less than the market price is considered overvalued.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1a35055-17bf-449e-b226-d9a3813e7ed5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-10",
+      "entry": {
+        "title": "2027 Equities Mod5-Q10",
+        "itemBody": "<p>If a security’s intrinsic value is $55 per share and is currently selling for $50 per share, the security is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ea898d14-d2b3-47d0-88b2-fd652ac581f4",
+              "itemBody": "<p>A. undervalued.</p>",
+              "position": 1
+            },
+            {
+              "id": "c7f8cf41-eda2-42fc-90d3-b74dc6706d81",
+              "itemBody": "<p>B. fairly valued.</p>",
+              "position": 2
+            },
+            {
+              "id": "a33c08cd-89da-4a49-a787-e5ddd1b84791",
+              "itemBody": "<p>C. overvalued Feedback: A is correct because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ea898d14-d2b3-47d0-88b2-fd652ac581f4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-11",
+      "entry": {
+        "title": "2027 Equities Mod5-Q11",
+        "itemBody": "<p>An investor who wants to estimate the enterprise value multiple (EV/EBITDA) of a company has gathered the following data: Market value (MV) of debt $10 million Market capitalization $45 million Cash and short-term investments $2.5 million EBITDA $15 million Firm's marginal tax rate 40% The company’s EV/EBITDA multiple is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ab062e99-c013-4f99-9372-8329b676fb77",
+              "itemBody": "<p>A. 2.5.</p>",
+              "position": 1
+            },
+            {
+              "id": "40df9ba0-d745-4637-b12d-c7af52e839a4",
+              "itemBody": "<p>B. 3.5.</p>",
+              "position": 2
+            },
+            {
+              "id": "f7760143-b03a-4fa6-b19f-86932c1b209d",
+              "itemBody": "<p>C. 5.8. Feedback: B is correct. Enterprise Value (EV) = Market capitalization + MV of debt + MV of preferred stock – Cash and short-term investments. EV = 45 + 10 – 2.5 = 52.5 EV/EBITDA = 52.5 / 15 = 3.5</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ab062e99-c013-4f99-9372-8329b676fb77"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-12",
+      "entry": {
+        "title": "2027 Equities Mod5-Q12",
+        "itemBody": "<p>An investor considering the enterprise value approach to valuation gathers the following data: Earnings before interest, taxes, depreciation, and amortization (EBITDA) $65.8 million Value of debt $90.0 million Value of preferred stock $25.4 million Cash and marketable securities $6.9 million Number of common shares outstanding 12.5 million Firm’s tax rate 30% EV/EBITDA multiple 6× The value per share of the company’s common stock is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4a7fa0a6-3aea-4e9e-a51c-c8af3eed654c",
+              "itemBody": "<p>A. $13.43.</p>",
+              "position": 1
+            },
+            {
+              "id": "8af96601-3743-4277-af81-209a069f7589",
+              "itemBody": "<p>B. $22.35.</p>",
+              "position": 2
+            },
+            {
+              "id": "717db4c7-07a8-4366-8210-64bd1390a91d",
+              "itemBody": "<p>C. $22.90. Feedback: C is correct. First, compute the enterprise value (EV) from EBITDA × EV/EBITDA multiple. Next, determine market capitalization (value of equity per share) using the following expression: EV = Market capitalization + Market value (MV) of preferred stock + MV of debt – Cash and investments Market capitalization = EV – MV of preferred stock – MV of debt + Cash and investments Value per share = Market capitalization/Number of outstanding shares Enterprise value = 65.8 × 6 394.8 – Value of debt –90.0 – Value of preferred stock –25.4 + Cash and marketable securities 6.9 = Market capitalization, or value of equity 286.3 Value per share = 286.3/12.5 $22.90</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4a7fa0a6-3aea-4e9e-a51c-c8af3eed654c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-13",
+      "entry": {
+        "title": "2027 Equities Mod5-Q13",
+        "itemBody": "<p>Consider the following financial information for XYZ Corporation: (£ millions) Market value of common equity 10,000 Market value of preferred stock 2,000 Market value of debt 6,000 Cash and short-term investments 1,000 EBITDA 2,000 Industry average EV/EBITDA 8.0 Relative to the industry average, XYZ Corporation’s EV/EBITDA multiple is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "69742afa-bd63-47a5-9734-02fdd7f655ec",
+              "itemBody": "<p>A. lower.</p>",
+              "position": 1
+            },
+            {
+              "id": "12f92cf0-03b5-4d41-bccc-4af65b4fc65a",
+              "itemBody": "<p>B. the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "7b11e3cf-262e-439f-8052-d94a19a3ba9a",
+              "itemBody": "<p>C. higher. Feedback: Correct. XYZ Corporation’s EV/EBITDA multiple is calculated as: Enterprise value = Market value of equity + Market value of preferred stock + Market value of debt – Cash and short-term investments Enterprise value = £10,000 + £2,000 + £6,000 – £1,000 = £17,000 EV/EBITDA = £17,000 / 2,000 = 8.5. Thus, XYZ Corporation’s EV/EBITDA multiple is higher than the industry average EV/EBITDA multiple of 8.0</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "69742afa-bd63-47a5-9734-02fdd7f655ec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-14",
+      "entry": {
+        "title": "2027 Equities Mod5-Q14",
+        "itemBody": "<p>Equity valuation models that are based on a ratio of share price to some fundamental variable are best described as:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a0048dce-287b-4624-b598-5c8cd7a37213",
+              "itemBody": "<p>A. present value models.</p>",
+              "position": 1
+            },
+            {
+              "id": "9a4ed522-606a-4ef7-bf82-32505a437402",
+              "itemBody": "<p>B. asset-based valuation models.</p>",
+              "position": 2
+            },
+            {
+              "id": "ec849f27-6889-4d1c-9430-220d3af83303",
+              "itemBody": "<p>C. method of comparables models. Feedback: C is correct because method of comparables models establish ratios (or multiples) of market-based measures of value to standardized income statement or balance sheet items to establish price comparisons per unit of revenue, cash flow or profit between companies. The numerator of a multiple is typically based upon a firm’s share price or enterprise value, while the denominator is a measure of earnings, free cash flow, or book value.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a0048dce-287b-4624-b598-5c8cd7a37213"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-15",
+      "entry": {
+        "title": "2027 Equities Mod5-Q15",
+        "itemBody": "<p>An analyst gathers the following information about a company: Balance Sheet Assets Liabilities and Shareholders’ Equity Additional Information Cash $5,000 Accounts payable $10,000 Accounts receivable 15,000 Notes payable 15,000 Inventory 25,000 Long-term debt 40,000 Net fixed assets 80,000 Common shareholders' equity 60,000 Total assets $125,000 Total liabilities and equity $125,000 Number of outstanding shares 7,000 Market value of long-term debt $45,000 Market value of accounts receivable and inventory 90% of reported value Market value of net fixed assets 120% of reported value Accounts payable and notes payable Same as the reported value Using the asset-based valuation approach, the estimated value per share is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b66e40d6-813f-46a3-b501-615520216a2c",
+              "itemBody": "<p>A. $9.57.</p>",
+              "position": 1
+            },
+            {
+              "id": "c82452cc-a21d-43e7-a6b2-2185ce5d65f9",
+              "itemBody": "<p>B. $10.29.</p>",
+              "position": 2
+            },
+            {
+              "id": "123d08ce-6041-44ad-a58f-f9a57223911f",
+              "itemBody": "<p>C. $11.00. Feedback: A is correct. Market value of assets $5,000 + $40,000 × (0.90) + $80,000 × (1.20) = $137,000 Market value of liabilities 10,000 + $15,000 + $45,000 = $70,000 Estimated value per share ($137,000 – $70,000) / 7,000 shares = $9.57/share</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b66e40d6-813f-46a3-b501-615520216a2c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-5-16",
+      "entry": {
+        "title": "2027 Equities Mod5-Q16",
+        "itemBody": "<p>Present value models follow a fundamental tenet of economics that states that individuals invest:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "45646556-b2e3-4e97-911f-5bc3f50df645",
+              "itemBody": "<p>A. to defer consumption.</p>",
+              "position": 1
+            },
+            {
+              "id": "fed4b224-f8ef-4182-baf1-0bb3820b10d0",
+              "itemBody": "<p>B. based on the law of one price.</p>",
+              "position": 2
+            },
+            {
+              "id": "d3b45e0b-df56-4c76-bc48-735186b1aa21",
+              "itemBody": "<p>C. for the expected future benefits. Feedback: C correct because present value models follow a fundamental tenet of economics stating that individuals defer consumption—that is, they invest—for the future benefits expected.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "45646556-b2e3-4e97-911f-5bc3f50df645"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

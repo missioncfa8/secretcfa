@@ -1,0 +1,53 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Portfolio Construction_5",
+  "curriculum_year": "2027",
+  "topic": "Portfolio Construction",
+  "module_number": 5,
+  "module_name": "The Behavioral Biases of Individuals",
+  "question_count": 1,
+  "points_possible": 1.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Portfolio Construction - Module 5 The Behavioral Biases of Individuals",
+    "topic": "Portfolio Construction",
+    "module_id": 5,
+    "question_count": 1,
+    "type": "practice",
+    "points_possible": 1.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Port-5-1",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod5-Q1",
+        "itemBody": "<p>C is correct. Conservatism bias results in maintain or only slowly updating views and forecasts despite the presence of new information. FMPs in the 1990s were reluctant to update forecasts, despite materially different new information for several years. 7. B is correct. Kai has segregated money into four different accounts based on the sources and uses of his funds. Although intuitively appealing, this approach is irrational because money is fungible across the four accounts. Nothing is stopping Kai from collapsing them into a single “account” with a holistic portfolio strategy. 8. B is correct. The most common consequence of mental accounting is neglecting opportunities to reduce risk by combining assets with low correlations, because each account’s asset allocation is examined discretely. Offsetting positions across accounts, or an overall inefficient allocation with respect to risk, can lead to suboptimal aggregate performance. 9. C is correct. Aggregating mental accounts is a logical strategy to combat mental accounting. It is the opposite of disaggregating money into separate accounts. 10. A is correct. The overconfidence and excessive trading that contribute to a bubble are linked to self-attribution bias, a form of overconfidence. In a rising market, sales of stocks from a portfolio will typically be profitable, even if winners are being sold too soon, and FMPs will attribute profits and strong performance to their investment acumen and subsequently underestimate risks. 11. C is correct. Bubbles and crashes are well-known and well-documented phenomena yet represent market anomalies. 12. B is correct. Representativeness refers to the tendency to adopt a view or forecast based on individual information or a small sample, as well to use simple classifications. The halo effect is an example of representativeness, because FMPs extend an overall favorable evaluation to an investment (e.g., a “good company”) based on one or few characteristics (e.g., a “visionary CEO”). 13. B is correct. Investment managers’ incentives—or perhaps more accurately, their perception of their incentives—for short-term performance were named as considerations in the technology and real estate bubbles. Not participating in the bubble presented certain FMPs with commercial or career risk. 14. B is correct. Home bias refers to FMPs preferentially investing in domestic securities, likely reflecting perceived relative informational advantages, a greater feeling of comfort with the access to company executives that proximity brings The Behavioral Biases of Individuals Page 7 of 8 (either personal or through a local brokerage), or a psychological desire to invest in a local community. Momentum, on the other hand, has been documented in a range of markets around the world, in a time-dependent manner, and reflects some FMPs’ availability bias, manifested as a belief that stocks will continue to rise because recently they have only risen, as well as regret aversion by those who invest in past winners because they regret not investing in them in the past. 15. B is correct because as a result of illusion of control bias, FMPs [financial market participants] may inadequately diversify portfolios. Research has found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions. 16. A is correct because as a result of regret-aversion bias, FMPs [financial market participants] may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. Regret-aversion bias is an emotional bias in which people tend to avoid making decisions out of fear that the decision will turn out poorly. 17. A is correct because overconfidence bias is a bias in which people demonstrate unwarranted faith in their own abilities. As a result of overconfidence bias, FMPs [financial market participants] may hold poorly diversified portfolios, which may result in significant downside risk. 18. B is correct because a number of other studies have offered behavioral explanations for value anomalies, presenting the anomalies as mispricing rather than compensation for increased risk. These studies recognize the emotional factors involved in appraising stocks. Overconfidence can also be involved in predicting growth rates, potentially leading growth stocks to be overvalued, leading to the value anomaly. 19. B is correct because the disposition effect pertains to loss-aversion bias. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains. Rational FMPs (financial market participants) should accept more risk to increase gains, not to mitigate losses. Loss aversion leads FMPs to hold their losers to avoid recognizing losses and sell their winners to lock in profits. An important concept is what has been termed the disposition effect: the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (i.e., holding on to losers and selling winners). 20. C is correct because endowment bias may lead FMPs (financial market participants) to do the following: Continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they The Behavioral Biases of Individuals Page 8 of 8 already own and may be reluctant to purchase assets with which they have less experience. Familiarity adds to owners’ perceived value of a security. 21. A is correct because momentum can be partly explained by availability, hindsight, and loss aversion biases. Studies have identified faulty learning models within traders, in which reasoning is based on their recent experience. Behaviorally, this is availability bias. In this context, availability bias is also called the recency effect, which is the tendency to recall recent events more vividly and give them undue weight. In such models, if the price of an asset rises for a period of time, investors may simply extrapolate this rise to the future. 22. C is correct because cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. 23. A is correct because self-control bias is a bias in which people fail to act in pursuit of their long-term, overarching goals in favor of short-term satisfaction. 24. B is correct because representativeness bias attributes one positive trait as being representative of an overall positive investment. The halo effect extends a favorable evaluation of some characteristics to other characteristics. A company with a good growth record and good previous share price performance might be seen as a good investment, with higher expected returns than its risk characteristics merit. This view is a form of representativeness that can lead investors to extrapolate recent past performance into expected returns. 25. B is correct because loss-aversion bias is an emotional bias, as opposed to a cognitive error, and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains. 26. C is correct because cognitive errors can often be corrected or eliminated through better information, education, and advice. 27. B is correct. This choice describes the halo effect, which does offer a behavioral explanation for the poor performance of growth stocks versus value stocks. Growth stocks are mispriced relative to their risk characteristics, because FMPs focusing on just a few properties, such as a high historical revenue growth rate, while neglecting other characteristics.</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

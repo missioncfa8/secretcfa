@@ -1,0 +1,237 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_2",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 2,
+  "module_name": "Equity Jurisdictions, Classes, and the Voting Process",
+  "question_count": 5,
+  "points_possible": 5.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 2 Equity Jurisdictions, Classes, and the Voting Process",
+    "topic": "Equities",
+    "module_id": 2,
+    "question_count": 5,
+    "type": "practice",
+    "points_possible": 5.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-2-1",
+      "entry": {
+        "title": "2027 Equities Mod2-Q1",
+        "itemBody": "<p>Which type of DR would MSUMC most likely own?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "51057e91-cff1-4969-9b77-c18cc667dd1b",
+              "itemBody": "<p>A. Unsponsored DR</p>",
+              "position": 1
+            },
+            {
+              "id": "014b39d0-be4d-4c2b-b18b-5768c77a3e44",
+              "itemBody": "<p>B. Sponsored DR</p>",
+              "position": 2
+            },
+            {
+              "id": "7e54d92d-a09f-4d59-9157-2dcbec491a51",
+              "itemBody": "<p>C. Either type of DR Feedback Choice B is correct. MSUMC would prefer to own sponsored DRs because the holder of sponsored receipts retains shareholder voting rights. Choices A and C are incorrect because the depository bank retains the voting rights on the company’s shares in an unsponsored DR.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "51057e91-cff1-4969-9b77-c18cc667dd1b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-2-2",
+      "entry": {
+        "title": "2027 Equities Mod2-Q2",
+        "itemBody": "<p>Which one of the following statements provides the most likely reason why MSUMC would place a ban on owning shares of companies with dual class structures?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0fe80e2a-fc64-4ba9-86a4-2a5567254447",
+              "itemBody": "<p>A. Dual class structures typically provide multiple classes of traded shares with unequal voting rights.</p>",
+              "position": 1
+            },
+            {
+              "id": "266204d2-cbab-4a03-942d-26ac2f8544e9",
+              "itemBody": "<p>B. Dual class structures typically provide unequal cash flow rights to shareholders.</p>",
+              "position": 2
+            },
+            {
+              "id": "e5a53a9f-125d-4e61-8d28-f68d2c5a67a1",
+              "itemBody": "<p>C. Dual class structures typically provide one class of untraded shares with superior voting rights to those of traded shares. Feedback Correct Answer: C. Dual class structures typically provide one class of untraded shares with superior voting rights to those of traded shares.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0fe80e2a-fc64-4ba9-86a4-2a5567254447"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-2-3",
+      "entry": {
+        "title": "2027 Equities Mod2-Q3",
+        "itemBody": "<p>Which one of the following conditions would most likely be necessary for MSUMC to vote “yes” on a shareholder proposal that would cause the board to encroach on day-to-day management?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "715b62e7-1099-4ef6-840d-6ec2ef0a2967",
+              "itemBody": "<p>A. Management presents arguments in the proxy statement that the risk mitigation of the proposal is not material.</p>",
+              "position": 1
+            },
+            {
+              "id": "3d1986a9-5b0d-4a28-9fd6-d2ef058c2dc1",
+              "itemBody": "<p>B. Management is already working on the issue underlying the proposal.</p>",
+              "position": 2
+            },
+            {
+              "id": "6d61f856-7000-404d-b204-8ff096b8406f",
+              "itemBody": "<p>C. Management following the proposal would materially improve firm value Feedback Choice C is correct. In general, a shareholder proposal that, if passed, would cause the board to encroach on management’s day-to-day operations is not appropriate unless the actions would have material and positive effects on firm value and/or risk mitigation. Choice A is incorrect because MSUMC is unlikely to base their vote on management’s arguments. Choice B is incorrect as this is typically likely to result in a “no” vote by MSUMC.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "715b62e7-1099-4ef6-840d-6ec2ef0a2967"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-2-4",
+      "entry": {
+        "title": "2027 Equities Mod2-Q4",
+        "itemBody": "<p>Which of the following are typically correct about management and shareholder proposals?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4ba66f76-18f3-4bb9-a19d-f4542a1a1cfe",
+              "itemBody": "<p>A. Both proposal types are shown in the company’s proxy statement.</p>",
+              "position": 1
+            },
+            {
+              "id": "b70db3ac-bd18-4bf7-82e6-70803005e283",
+              "itemBody": "<p>B. Shareholder proposals are binding if passed.</p>",
+              "position": 2
+            },
+            {
+              "id": "5425ed51-712f-4cca-bd6d-a2244143ea3e",
+              "itemBody": "<p>C. Shareholder proposals are frequently passed Feedback Choice A is correct. A company’s proxy statement includes both management and shareholder proposals, including the company’s voting recommendations to shareholders along with the rationales for the recommendations. Choice B is incorrect because shareholder proposals, if passed, are typically not binding on the company. Choice C is incorrect because shareholder proposals are not frequently passed.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4ba66f76-18f3-4bb9-a19d-f4542a1a1cfe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-2-5",
+      "entry": {
+        "title": "2027 Equities Mod2-Q5",
+        "itemBody": "<p>The voting rights of an unsponsored depository receipt (DR) belong to the:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9e72d498-4b39-40d0-9073-a7e40b79b6ed",
+              "itemBody": "<p>A. depository bank.</p>",
+              "position": 1
+            },
+            {
+              "id": "51f50980-c9d9-48cc-9708-6a02a49cdf52",
+              "itemBody": "<p>B. direct owners of the foreign common shares.</p>",
+              "position": 2
+            },
+            {
+              "id": "b8017df3-00ac-48e1-b7d8-e3b4f7fbafb7",
+              "itemBody": "<p>C. foreign company whose shares are held by the depository. Feedback: A is correct. In the case of unsponsored DRs, the depository bank, not the investors in the DR, retains the voting rights.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9e72d498-4b39-40d0-9073-a7e40b79b6ed"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Economics_2",
+  "curriculum_year": "2027",
+  "topic": "Economics",
+  "module_number": 2,
+  "module_name": "Understanding Business Cycles",
+  "question_count": 22,
+  "points_possible": 22.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Economics - Module 2 Understanding Business Cycles",
+    "topic": "Economics",
+    "module_id": 2,
+    "question_count": 22,
+    "type": "practice",
+    "points_possible": 22.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Econ-2-1",
+      "entry": {
+        "title": "2027 Economics Mod2-Q1",
+        "itemBody": "<p>Based on typical labor utilization patterns across the business cycle, productivity (output per hours worked) is most likely to be highest:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. At the end of a recession, firms will run “lean production” to generate  \nmaximum output with the fewest number of workers.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2a3b06bb-5954-4fc3-ba3a-af7f123d03b9",
+              "itemBody": "<p>A. at the peak of a boom.</p>",
+              "position": 1
+            },
+            {
+              "id": "33b210cb-23c9-407c-b5cf-aa6a13f4da3e",
+              "itemBody": "<p>B. into a maturing expansion.</p>",
+              "position": 2
+            },
+            {
+              "id": "f17d3f8e-9980-4015-bcf1-4e6916db082a",
+              "itemBody": "<p>C. at the bottom of a recession.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f17d3f8e-9980-4015-bcf1-4e6916db082a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-2",
+      "entry": {
+        "title": "2027 Economics Mod2-Q2",
+        "itemBody": "<p>As the expansion phase of the business cycle advances from early stage to late stage, businesses most likely experience a decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. When an economy’s expansion is well established, businesses often have \ndifficulty finding qualified workers.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6ba58f4e-b283-4e81-be16-f168cb9fb7e0",
+              "itemBody": "<p>A. labor costs.</p>",
+              "position": 1
+            },
+            {
+              "id": "08e8a88c-e79c-4b55-9c95-54b37e83a38e",
+              "itemBody": "<p>B. capital investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "1b4e9aa6-b700-475d-868d-aa12aa360a35",
+              "itemBody": "<p>C. availability of qualified workers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1b4e9aa6-b700-475d-868d-aa12aa360a35"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-3",
+      "entry": {
+        "title": "2027 Economics Mod2-Q3",
+        "itemBody": "<p>An analyst writes in an economic report that the current phase of the business cycle is characterized by accelerating inflationary pressures and borrowing by companies. The analyst is most likely referring to the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Accelerating inflation and rapidly expanding capital expenditures  \ntypically characterize the peak of the business cycle. During such times, many  \nbusinesses finance their capital expenditures with debt to expand their production  \ncapacity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "85997def-27e2-4880-9a3b-0890347d9cb3",
+              "itemBody": "<p>A. peak of the business cycle.</p>",
+              "position": 1
+            },
+            {
+              "id": "6ebc8ca2-da6c-4ed0-807f-3ec23b0bb9bc",
+              "itemBody": "<p>B. contraction phase of the business cycle.</p>",
+              "position": 2
+            },
+            {
+              "id": "6277f2c0-71ab-463a-96f9-0f022f2a6f88",
+              "itemBody": "<p>C. early expansion phase of the business cycle.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "85997def-27e2-4880-9a3b-0890347d9cb3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-4",
+      "entry": {
+        "title": "2027 Economics Mod2-Q4",
+        "itemBody": "<p>The indicator indexes created by various organizations or research agencies:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The indicator indexes are constantly updated for their composition and \nmethodology based on the accumulation of empirical knowledge, and they can certainly \ninclude more than just leading indicators.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "83bfa9aa-042d-417c-b3a7-b012119aaec4",
+              "itemBody": "<p>A. include only leading indicators to compute their value.</p>",
+              "position": 1
+            },
+            {
+              "id": "d12fa802-e02b-4035-a5b9-62a7577b38fe",
+              "itemBody": "<p>B. are highly reliable signals on the phase of business cycles.</p>",
+              "position": 2
+            },
+            {
+              "id": "ca56c474-596f-4dba-84b3-e4b098efb5a2",
+              "itemBody": "<p>C. evolve over time in terms of composition and computation formula.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ca56c474-596f-4dba-84b3-e4b098efb5a2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-5",
+      "entry": {
+        "title": "2027 Economics Mod2-Q5",
+        "itemBody": "<p>Which one of the following trends in various economic indicators is most consistent with a recovery from a recession?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The improving leading indicator, average weekly initial claims for  \nunemployment insurance, and the improving coincident indicator, aggregate real  \npersonal income, are most consistent with an economic recovery. Even though a  \ndeclining inventory -to-sales ratio, a lagging indicator, is consistent with an early  \nrecovery, the coincident indicator, the stable industrial production index, does  not \nsupport that conclusion. Although a rising stock market index can signal economic  \nexpansion, the lagging  indicator, the unit labor costs, has peaked, which is  more \nconsistent with a recession.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "962d1b79-dd2f-499b-a4e6-165ae9750993",
+              "itemBody": "<p>A. A declining inventory–sales ratio and stable industrial production index</p>",
+              "position": 1
+            },
+            {
+              "id": "8fc50f21-13fa-419a-b127-5e6776bf3507",
+              "itemBody": "<p>B. A rising broad stock market index and unit labor costs turning from increasing to decreasing</p>",
+              "position": 2
+            },
+            {
+              "id": "0fbd2ca0-6fc0-49ce-b5e2-28dcf3284455",
+              "itemBody": "<p>C. A decrease in average weekly initial claims for unemployment insurance and an increase in aggregate real personal income</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0fbd2ca0-6fc0-49ce-b5e2-28dcf3284455"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-6",
+      "entry": {
+        "title": "2027 Economics Mod2-Q6",
+        "itemBody": "<p>Which of the following statements gives the best description of nowcasting?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Nowcasting involves the use of techniques to estimate the present state. \nA is incorrect because nowcasting aims to estimate the present, not forecast  the \nfuture. C is incorrect because the focus of nowcasting is to estimate the  current, \npresent value of a variable, such as GDP.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "43d71036-646b-4795-9223-538521537ac7",
+              "itemBody": "<p>A. This method is used to forecast future trends in economic variables based on their past and current values.</p>",
+              "position": 1
+            },
+            {
+              "id": "828eb675-d0e0-4d77-a9e2-7c516f767eb3",
+              "itemBody": "<p>B. This method is used for real-time monitoring of economic and financial variables to continuously assess current conditions and provide an estimate of the current state.</p>",
+              "position": 2
+            },
+            {
+              "id": "39fc7407-62f6-4e86-bdb3-304325da2924",
+              "itemBody": "<p>C. This method is used to study past relationships between variables to determine which ones have explained the path of a particular variable of interest. Understanding Business Cycle Faculty: Page 2 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "828eb675-d0e0-4d77-a9e2-7c516f767eb3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-7",
+      "entry": {
+        "title": "2027 Economics Mod2-Q7",
+        "itemBody": "<p>Which of the following statements is the best description of the characteristics of economic indicators?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Although no single indicator is definitive, a mix of them —which can be \naffected by various economic determinants —can offer the strongest signal of  \nperformance.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "99e68f21-302b-497f-b1c1-e7e11a99eec5",
+              "itemBody": "<p>A. Leading indicators are important because they track the entire economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "44be273e-c337-47e2-b721-b211baf50610",
+              "itemBody": "<p>B. Lagging indicators, in measuring past conditions, do not require revisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "a6b3fd7a-cb85-4760-9f2a-5a7e999b3456",
+              "itemBody": "<p>C. A combination of leading and coincident indicators can offer effective forecasts.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a6b3fd7a-cb85-4760-9f2a-5a7e999b3456"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-8",
+      "entry": {
+        "title": "2027 Economics Mod2-Q8",
+        "itemBody": "<p>When the spread between 10-year US Treasury yields and the short-term federal funds rate narrows and at the same time the prime rate stays unchanged, this mix of indicators most likely forecasts future economic:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The narrowing spread of this leading indicator foretells a drop in short-\nterm rates and a fall in economic activity. The prime rate is a lagging indicator  and \ntypically moves after the economy turns.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "8c6ed9bc-7f6f-44b7-a085-711b99bf9cbf",
+              "itemBody": "<p>A. growth.</p>",
+              "position": 1
+            },
+            {
+              "id": "a32bcb67-9aac-4ec0-8bdb-b7e3ac8c338f",
+              "itemBody": "<p>B. decline.</p>",
+              "position": 2
+            },
+            {
+              "id": "c8ffa898-4979-479d-832a-6bb4c2ea490f",
+              "itemBody": "<p>C. stability.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a32bcb67-9aac-4ec0-8bdb-b7e3ac8c338f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-9",
+      "entry": {
+        "title": "2027 Economics Mod2-Q9",
+        "itemBody": "<p>Current economic statistics indicating little change in services inflation, rising residential building permits, and increasing average duration of unemployment are best interpreted as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Rising building permits —a leading indicator—indicate that an upturn is \nexpected to occur or continue. Increasing average duration of unemployment — a \nlagging indicator—indicates that a downturn has occurred,  whereas the lack of any \nchange in services inflation—also a lagging indicator—is neither negative nor positive \nfor the direction of the economy. Taken together,  these statistics indicate that a \ncyclical upturn may be expected to occur. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 6 of 7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "71331e2d-af8c-46cd-b858-50edf86a59bc",
+              "itemBody": "<p>A. conflicting evidence about the direction of the economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "6ed48280-5436-4bec-91e7-bfde81b5f605",
+              "itemBody": "<p>B. evidence that a cyclical upturn is expected to occur in the future.</p>",
+              "position": 2
+            },
+            {
+              "id": "921025d3-2217-4f0e-bff9-b8894e200196",
+              "itemBody": "<p>C. evidence that a cyclical downturn is expected to occur in the future.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6ed48280-5436-4bec-91e7-bfde81b5f605"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-10",
+      "entry": {
+        "title": "2027 Economics Mod2-Q10",
+        "itemBody": "<p>If relative to prior values of their respective indicators, the inventory – sales ratio has risen, unit labor cost is stable, and real personal income has decreased, it is most likely that a peak in the business cycle:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Both inventory –sales and unit labor costs are lagging indicators that  \ndecline somewhat after a peak. Real personal income is a coincident indicator that, by \nits decline, shows a slowdown in business activity.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4e905e17-f3e8-496b-a4a9-fe461ca5d1ca",
+              "itemBody": "<p>A. has occurred.</p>",
+              "position": 1
+            },
+            {
+              "id": "b0050b91-1e4d-4a31-bc83-ded863dcc0f9",
+              "itemBody": "<p>B. is just about to occur.</p>",
+              "position": 2
+            },
+            {
+              "id": "808b487e-6020-4a4f-9670-cc8d1cc87625",
+              "itemBody": "<p>C. will occur sometime in the future.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4e905e17-f3e8-496b-a4a9-fe461ca5d1ca"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-11",
+      "entry": {
+        "title": "2027 Economics Mod2-Q11",
+        "itemBody": "<p>When aggregate real personal income, industrial output, and the S&P 500 Index all increase in a given period, it is most accurate to conclude that a cyclical upturn is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Aggregate real personal income and industrial output are coincident  \nindicators, whereas the S&P 500 is a leading indicator. An increase in aggregat e \npersonal income and industrial output signals that an expansion is occurring, whereas \nan increase in the S&P 500 signals that an expansion will occur or is expected  to \ncontinue. Taken together, these statistics indicate that a cyclical upturn is occurring.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9982e35b-6426-4505-80b8-4902c4cf1e14",
+              "itemBody": "<p>A. occurring.</p>",
+              "position": 1
+            },
+            {
+              "id": "1b22b77c-9665-4482-8368-1d30da2d6e96",
+              "itemBody": "<p>B. about to end.</p>",
+              "position": 2
+            },
+            {
+              "id": "63aba7f8-cffe-4d5d-995c-4c9e48ea9223",
+              "itemBody": "<p>C. about to begin.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9982e35b-6426-4505-80b8-4902c4cf1e14"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-12",
+      "entry": {
+        "title": "2027 Economics Mod2-Q12",
+        "itemBody": "<p>Which of the following is most likely to increase after an increase in aggregate real personal income?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Aggregate real personal income is a coincident indicator of the business \ncycle, and the ratio of consumer installment debt to income is a lagging  indicator. \nIncreases in the ratio of consumer installment debt follow increases in  average \naggregate income during the typical business cycle.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4d3c3c60-bd7e-419e-bab4-f1e26b999f69",
+              "itemBody": "<p>A. Equity prices</p>",
+              "position": 1
+            },
+            {
+              "id": "af43257a-bf31-4656-86dc-dd97068809d2",
+              "itemBody": "<p>B. Building permits for new private housing units</p>",
+              "position": 2
+            },
+            {
+              "id": "96a1606e-b68c-41f5-a377-73087155cc61",
+              "itemBody": "<p>C. The ratio of consumer installment debt to income</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "96a1606e-b68c-41f5-a377-73087155cc61"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-13",
+      "entry": {
+        "title": "2027 Economics Mod2-Q13",
+        "itemBody": "<p>Which of the following indicators is most appropriate in predicting a turning point in the economy?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Leading economic indicators have turning points that usually  precede \nthose of the overall economy. Average weekly hours, manufacturing is a  leading \neconomic indicator. The Industrial Production Index is a coincident economic  \nindicator, and the average bank prime lending rate is a lagging economic indicator.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "19801182-274a-49d4-bc0e-0540947980c5",
+              "itemBody": "<p>A. The Industrial Production Index</p>",
+              "position": 1
+            },
+            {
+              "id": "19644dd8-c2e7-40a9-9abb-4af5a3367181",
+              "itemBody": "<p>B. The average bank prime lending rate</p>",
+              "position": 2
+            },
+            {
+              "id": "56ee3585-a113-4c82-9c3e-89dc93511ead",
+              "itemBody": "<p>C. Average weekly hours, manufacturing Understanding Business Cycle Faculty: Page 3 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "56ee3585-a113-4c82-9c3e-89dc93511ead"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-14",
+      "entry": {
+        "title": "2027 Economics Mod2-Q14",
+        "itemBody": "<p>The unemployment rate is considered a lagging indicator because:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. This effect makes unemployment rise more slowly as recessions start  \nand fall more slowly as recoveries begin.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9084ec7d-5bad-449a-9634-a0568fffbf76",
+              "itemBody": "<p>A. new job types must be defined to count their workers.</p>",
+              "position": 1
+            },
+            {
+              "id": "807bca6b-4e68-42d9-b933-ac4aecaa438f",
+              "itemBody": "<p>B. multiworker households change jobs at a slower pace.</p>",
+              "position": 2
+            },
+            {
+              "id": "211046ad-537f-4de0-9199-840324909e9d",
+              "itemBody": "<p>C. businesses are slow to hire and fire due to related costs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "211046ad-537f-4de0-9199-840324909e9d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-15",
+      "entry": {
+        "title": "2027 Economics Mod2-Q15",
+        "itemBody": "<p>During an economic recovery, a lagging unemployment rate is most likely attributable to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. In an economic recovery, new job seekers return to the labor force, and \nbecause they seldom find work immediately, their return may initially raise  the \nunemployment rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dfce9113-71ca-4155-8d54-8768c8ad68b8",
+              "itemBody": "<p>A. businesses quickly rehiring workers.</p>",
+              "position": 1
+            },
+            {
+              "id": "1ae9bbf9-adf5-4bd5-bcb3-b9000f39dbaa",
+              "itemBody": "<p>B. new job seekers entering the labor force.</p>",
+              "position": 2
+            },
+            {
+              "id": "bac90349-0b28-4bf0-bc94-9162ef6d0c03",
+              "itemBody": "<p>C. underemployed workers transitioning to higher-paying jobs.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1ae9bbf9-adf5-4bd5-bcb3-b9000f39dbaa"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-16",
+      "entry": {
+        "title": "2027 Economics Mod2-Q16",
+        "itemBody": "<p>Which of the following is most likely a lagging economic indicator?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because inventories accumulate as sales initially decline and then, once a \nbusiness adjusts its ordering, become depleted as sales pick up, so this ratio tends \nto lag the cycle.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "70c90285-12a2-4739-8bad-95fa31cba20c",
+              "itemBody": "<p>A. Inventory-sales ratio</p>",
+              "position": 1
+            },
+            {
+              "id": "87bd3e6a-0083-4b22-b1e3-f0360c5a521b",
+              "itemBody": "<p>B. S&P 500 Stock Index</p>",
+              "position": 2
+            },
+            {
+              "id": "6110b5cc-ea2a-4324-8741-f5c06f728095",
+              "itemBody": "<p>C. Manufacturers' new orders for consumer goods and materials</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "70c90285-12a2-4739-8bad-95fa31cba20c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-17",
+      "entry": {
+        "title": "2027 Economics Mod2-Q17",
+        "itemBody": "<p>During the recovery phase of the business cycle, inflation most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because, in the “recovery” phase, inflation remains moderate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "877d93e0-b58c-405a-9460-430bf5a94fec",
+              "itemBody": "<p>A. decelerates but with a lag.</p>",
+              "position": 1
+            },
+            {
+              "id": "2881c542-ecf6-4960-be17-b03f0450b243",
+              "itemBody": "<p>B. remains moderate.</p>",
+              "position": 2
+            },
+            {
+              "id": "f9fb7e72-a4e0-4c63-a180-be13dd78e7ac",
+              "itemBody": "<p>C. further accelerates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2881c542-ecf6-4960-be17-b03f0450b243"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-18",
+      "entry": {
+        "title": "2027 Economics Mod2-Q18",
+        "itemBody": "<p>Which of the following indexes is most likely considered a leading economic indicator?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because as a leading economic indicator, a positive change in the S&P 500 \nIndex is supposed to lead (come before) an increase in aggregate economic activity. \nAn increase in the S&P 500 would be positive for future economic growth, all else \nequal. Additionally, the Euro Stoxx Equity Index is considered a leading indicator in \nthe Eurozone.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "380eb19f-ff27-49fb-9b1c-12b31c5290ab",
+              "itemBody": "<p>A. Consumer price index</p>",
+              "position": 1
+            },
+            {
+              "id": "c5ba9386-cf97-436e-ad24-75352b7e8141",
+              "itemBody": "<p>B. Broad stock market index</p>",
+              "position": 2
+            },
+            {
+              "id": "b53b24b9-cf43-4315-9fcf-566ff748afc8",
+              "itemBody": "<p>C. Industrial production index</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c5ba9386-cf97-436e-ad24-75352b7e8141"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-19",
+      "entry": {
+        "title": "2027 Economics Mod2-Q19",
+        "itemBody": "<p>The interest rate spread between 10-year treasury yields and overnight borrowing rates most likely:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because long -term yields express market expectations about the \ndirection of short-term interest rates, and rates ultimately follow the economic cycle \nup and down, a wider spread, by anticipating short rate increases, also anticipates an \neconomic upswing. Conversely, a narrower spread, by anticipating short rate \ndecreases, also anticipates an economic downturn. \nUnderstanding Business Cycle \nFaculty:                                                                         Page 7 of 7</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ab666d6f-50e8-4535-af03-e840eb94abf5",
+              "itemBody": "<p>A. is a lagging economic indicator.</p>",
+              "position": 1
+            },
+            {
+              "id": "f3567f18-08b6-4e2e-ba7c-1c93947fd931",
+              "itemBody": "<p>B. decreases when the market expects an economic downturn.</p>",
+              "position": 2
+            },
+            {
+              "id": "e58f21ce-3c63-4829-8a18-8818d65ee9f3",
+              "itemBody": "<p>C. increases as the market expects future short-term interest rates to decrease.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f3567f18-08b6-4e2e-ba7c-1c93947fd931"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-20",
+      "entry": {
+        "title": "2027 Economics Mod2-Q20",
+        "itemBody": "<p>Which of the following is most likely a coincident indicator of economic activity?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because once recession or recovery is clear, businesses adjust their \nfulltime payrolls. Non -agricultural payrolls and manufacturing and trade sales are \ncoincident indicators.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d1cfdec7-bb8b-40ff-b7b1-b890bb9340d2",
+              "itemBody": "<p>A. Average duration of unemployment</p>",
+              "position": 1
+            },
+            {
+              "id": "f98a0efe-61f9-45f5-83c7-40af326b07c4",
+              "itemBody": "<p>B. Average weekly hours, manufacturing</p>",
+              "position": 2
+            },
+            {
+              "id": "dc7d781e-d51f-4601-b569-36d5a986e7dd",
+              "itemBody": "<p>C. Employees on non-agricultural payrolls</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "dc7d781e-d51f-4601-b569-36d5a986e7dd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-21",
+      "entry": {
+        "title": "2027 Economics Mod2-Q21",
+        "itemBody": "<p>The business cycle phase that is characterized by slowing growth in economic activity is the:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because in the slowdown phase, activity measures are above average but \ndecelerating. Moving to below-average rates of growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a1b9fb33-b284-40f2-8546-bfdd652cba13",
+              "itemBody": "<p>A. slowdown.</p>",
+              "position": 1
+            },
+            {
+              "id": "3576fd61-4fab-4183-899f-d6a159860219",
+              "itemBody": "<p>B. expansion.</p>",
+              "position": 2
+            },
+            {
+              "id": "b15a61bf-4007-4add-97b2-9f4390cec9ea",
+              "itemBody": "<p>C. contraction. Understanding Business Cycle Faculty: Page 4 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a1b9fb33-b284-40f2-8546-bfdd652cba13"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-2-22",
+      "entry": {
+        "title": "2027 Economics Mod2-Q22",
+        "itemBody": "<p>After noting positive changes in the aggregate index of coincident economic indicators, an increase in the ratio of consumer installment debt to income would most likely help confirm that an expansion is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The ratio of consumer installment debt to income is a lagging indicator. \nAn increase in it, by itself, would be evidence that an upturn is already underway. This \nwould confirm the implication of positive changes in coincident indicators that an \nexpansion is in place.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d3d59f73-bcc6-4be2-b44a-c2e0bcaa1c16",
+              "itemBody": "<p>A. forthcoming.</p>",
+              "position": 1
+            },
+            {
+              "id": "b79b1108-6d00-44cc-a61e-2b3660bbd6cf",
+              "itemBody": "<p>B. underway.</p>",
+              "position": 2
+            },
+            {
+              "id": "e42d022a-0fb9-48f1-a91f-48aa7d0a4118",
+              "itemBody": "<p>C. ending. SUMMARY: - (LOS 13.a): – 1, 2, 3, 21. (LOS 13.b): – 8. (LOS 13.c): – 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22. Understanding Business Cycle Faculty: Page 5 of 7</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b79b1108-6d00-44cc-a61e-2b3660bbd6cf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

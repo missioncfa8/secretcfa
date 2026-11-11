@@ -1,0 +1,325 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Portfolio Construction_1",
+  "curriculum_year": "2027",
+  "topic": "Portfolio Construction",
+  "module_number": 1,
+  "module_name": "Portfolio Risk and Return - Part I",
+  "question_count": 11,
+  "points_possible": 11.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Portfolio Construction - Module 1 Portfolio Risk and Return - Part I",
+    "topic": "Portfolio Construction",
+    "module_id": 1,
+    "question_count": 11,
+    "type": "practice",
+    "points_possible": 11.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Port-1-1",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q1",
+        "itemBody": "<p>With respect to capital market theory, which of the following asset characteristics is least likely to impact the variance of an investor’s equally weighted portfolio? A. Return on the asset. B. Standard deviation of the asset. C. Covariances of the asset with the other assets in the portfolio. 13. A portfolio manager creates the following portfolio: Security Security Weight (%) Expected Standard Deviation (%) 1 30 20 2 70 12 If the correlation of returns between the two securities is 0.40, the expected standard deviation of the portfolio is closest to: A. 10.7%. B. 11.3%. C. 12.1%. 14. A portfolio manager creates the following portfolio: Security Security Weight (%) Expected Standard Deviation (%) 1 30 20 2 70 12 If the covariance of returns between the two securities is −0.0240, the expected standard deviation of the portfolio is closest to: A. 2.4%. B. 7.5%. C. 9.2%. Portfolio Risk and Return: Part I Faculty: Page 4 of 19 The following information relates to questions 15-16 A portfolio manager creates the following portfolio: Security Security Weight (%) Expected Standard Deviation (%) 1 30 20 2 70 12 15. If the standard deviation of the portfolio is 14.40%, the correlation between the two securities is equal to: A. −1.0. B. 0.0. C. 1.0. 16. If the standard deviation of the portfolio is 14.40%, the covariance between the two securities is equal to: A. 0.0006. B. 0.0240. C. 1.0000. The following information relates to questions 17-19 A portfolio manager creates the following portfolio: Security Expected Annual Return (%) Expected Standard Deviation (%) 1 16 20 2 12 20 17. If the portfolio of the two securities has an expected return of 15%, the proportion invested in Security 1 is: A. 25%. B. 50%. C. 75%. 18. If the correlation of returns between the two securities is −0.15, the expected standard deviation of an equal-weighted portfolio is closest to: A. 13.04%. B. 13.60%. C. 13.87%. 19. If the two securities are uncorrelated, the expected standard deviation of an equal-weighted portfolio is closest to: A. 14.00%. Portfolio Risk and Return: Part I Faculty: Page 5 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eb415188-29f8-4bcc-bc3a-2666556b1e7c",
+              "itemBody": "<p>B. 14.14%. C. 20.00%. The following information relates to questions 20-21 An analyst has made the following return projections for each of three possible outcomes with an equal likelihood of occurrence: Outcome 1 Outcome 2 Outcome 3 Expected Return Asset (%) (%) (%) (%) 1 12 0 6 6 2 12 6 0 6 3 0 6 12 6 20. If the analyst constructs two-asset portfolios that are equally-weighted, which pair of assets has the lowest expected standard deviation? A. Asset 1 and Asset 2. B. Asset 1 and Asset 3. C. Asset 2 and Asset 3. 21. If the analyst constructs two-asset portfolios that are equally weighted, which pair of assets provides the least amount of risk reduction? A. Asset 1 and Asset 2. B. Asset 1 and Asset 3. C. Asset 2 and Asset 3. 22. As the number of assets in an equally-weighted portfolio increases, the contribution of each individual asset’s variance to the volatility of the portfolio: A. increases. B. decreases. C. remains the same. 23. With respect to an equally weighted portfolio made up of a large number of assets, which of the following contributes the most to the volatility of the portfolio? A. Average variance of the individual assets. B. Standard deviation of the individual assets. C. Average covariance between all pairs of assets. 24. The correlation between assets in a two-asset portfolio increases during a market decline. If there is no change in the proportion of each asset held in the portfolio or the expected standard deviation of the individual assets, the volatility of the portfolio is most likely to: A. increase. B. decrease. C. remain the same. Portfolio Risk and Return: Part I Faculty: Page 6 of 19</p>",
+              "position": 2
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "eb415188-29f8-4bcc-bc3a-2666556b1e7c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-2",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q2",
+        "itemBody": "<p>Which of the following statements is least accurate? The efficient frontier is the set of all attainable risky assets with the: A. highest expected return for a given level of risk. B. lowest amount of risk for a given level of return. C. highest expected return relative to the risk-free rate. 26. The portfolio on the minimum-variance frontier with the lowest standard deviation is: A. unattainable. B. the optimal risky portfolio. C. the global minimum-variance portfolio. 27. The set of portfolios on the minimum-variance frontier that dominates all sets of portfolios below the global minimum-variance portfolio is the: A. capital allocation line. B. Markowitz efficient frontier. C. set of optimal risky portfolios. 28. The dominant capital allocation line is the combination of the risk-free asset and the: A. optimal risky portfolio. B. levered portfolio of risky assets. C. global minimum-variance portfolio. 29. Compared to the efficient frontier of risky assets, the dominant capital allocation line has higher rates of return for levels of risk greater than the optimal risky portfolio because of the investor’s ability to: A. lend at the risk-free rate. B. borrow at the risk-free rate. C. purchase the risk-free asset. 30. With respect to the mean–variance theory, the optimal portfolio is determined by each individual investor’s: A. risk-free rate. B. borrowing rate. C. risk preference. 31. All else held constant, a lower correlation between the assets in a portfolio most likely results in higher: A. diversification. B. volatility. C. portfolio return. 32. John Smith is given two investment options. Option A is a payment with a 50% chance of getting $100 and a 50% chance of getting $0. Option B is a guaranteed payment Portfolio Risk and Return: Part I Faculty: Page 7 of 19 of $50. If Smith chooses Option A over Option B, his risk preference is best described as risk: A. seeking. B. averse. C. neutral. 33. If Investor A has a lower risk aversion coefficient than Investor B, on the capital allocation line, will Investor B’s optimal portfolio most likely have a higher expected return? A. Yes B. No, because Investor B has a higher risk tolerance C. No, because Investor B has a lower risk tolerance 34. A portfolio contains equal weights of two securities having the same standard deviation. If the correlation between the returns of the two securities was to decrease, the portfolio risk would most likely: A. increase. B. remain the same. C. decrease. 35. Which of the following portfolios of risky assets is most likely the global minimum-variance portfolio? Portfolio Expected Return Standard Deviation A 5% 20% B 8% 33% C 3% 20% A. Portfolio C B. Portfolio A C. Portfolio B 36. Which of the following is least likely an assumption underlying the capital asset pricing model (CAPM)? A. Investors analyze securities according to their own future cash flow estimates and probability distributions. B. There are no restrictions on short selling assets. C. The amount invested in an asset can be as much or as little as the investor wants. Portfolio Risk and Return: Part I Faculty: Page 8 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-3",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q3",
+        "itemBody": "<p>The covariance of the assets in the following portfolio is closest to: Asset 1 Asset 2 Asset 1 vs. Asset 2 Correlation --- --- 0.8 Portfolio weight 0.6 0.4 --- Variance 3.50% 1.50% --- A. 1.8% B. 0.4% C. 2.3% 38. Based on the following historical data, which is closest to the standard deviation for the two-asset portfolio shown in the table? Asset A Asset B Asset A and B Standard deviation 4.7% 7.7% -- Portfolio weight 0.4 0.6 -- Correlation -- -- 0.3 A. 6.5% B. 5.0% C. 5.5% 39. Consider a portfolio with two assets. Asset A comprises 25% of the portfolio and has a standard deviation of 17.9%. Asset B comprises 75% of the portfolio and has a standard deviation of 6.2%. If the correlation of these two investments is 0.5, the portfolio standard deviation is closest to: A. 6.45%. B. 7.90%. C. 9.13%. 40. When considering a portfolio that is optimal for one investor, a second investor with a higher risk aversion would most likely: A. expect a higher variance for the portfolio. B. derive a lower utility from the portfolio. C. have a lower return expectation for the portfolio. 41. When constructing the optimal portfolios for investors with different risk preferences, the investor with the higher risk aversion is most likely to have a: A. lower expected return. B. steeper capital allocation line. C. flatter indifference curve. Portfolio Risk and Return: Part I Faculty: Page 9 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-4",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q4",
+        "itemBody": "<p>The point of tangency between the capital allocation line (CAL) and the efficient frontier of risky assets most likely identifies the: A. optimal risky portfolio. B. optimal investor portfolio. C. global minimum-variance portfolio. 43. An equally weighted portfolio is composed of two risky assets. If the correlation of asset returns is equal to zero, the portfolio standard deviation is: A. equal to zero. B. equal to the weighted average of the assets' standard deviations. C. less than the weighted average of the assets' standard deviations. 44. When creating a long-only portfolio, which of the following correlation coefficients between assets would be most effective at reducing portfolio risk? A. –0.5. B. 0. C. 0.5. 45. For a risk-seeking investor, an investment in a risk-free asset generates utility that is: A. less than the utility generated for a risk-averse investor. B. equal to the utility generated for a risk-averse investor. C. greater than the utility generated for a risk-averse investor. 46. The Markowitz efficient frontier is best described as a curve that: A. lies above and to the left of the minimum-variance frontier. B. connects the minimum-variance portfolios for all possible returns. C. contains all portfolios of risky assets that rational, risk-averse investors will choose. 47. Long-term historical data on the risk–return trade-off of securities show that investors are most likely: A. risk averse. B. risk neutral. C. risk seeking. 48. When evaluating the return distribution of an asset class, the probability of extreme returns is best assessed by the distribution's: A. kurtosis. B. variance. C. skewness. 49. With respect to capital market theory, which of the following statements is most accurate? A. The optimal risky portfolio is dependent on the risk-free rate. Portfolio Risk and Return: Part I Faculty: Page 10 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1c819af3-61b2-4cc9-8483-e495592437d1",
+              "itemBody": "<p>B. The optimal risky portfolio is dependent on the investor's risk profile. C. The investor's optimal portfolio must lie on the Markowitz efficient frontier. 50. Two investors have indifference curves that are tangent to the same capital allocation line (CAL). If Investor 1 is more risk averse than Investor 2, Investor 1's optimal portfolio is: A. to the left of Investor 2's optimal portfolio on the CAL. B. at the same point on the CAL as Investor 2's optimal portfolio. C. to the right of Investor 2's optimal portfolio on the CAL. 51. As the number of assets in an equally weighted portfolio becomes large, the portfolio's variance of returns most likely approaches: A. zero. B. the average variance of the individual assets' returns. C. the average covariance between the individual assets' returns. 52. The global minimum-variance portfolio is a portfolio that lies: A. anywhere along the minimum-variance frontier. B. at the left-most point of the minimum-variance frontier. C. at the upper right-most point of the minimum-variance frontier. 53. The correlation of returns between two securities with equal standard deviation of returns is 0.75. If the covariance of returns is 5.5%2, the standard deviation of returns for each security is closest to: A. 2.7%. B. 3.7%. C. 7.3%. 54. A portfolio consisting of two securities has the following characteristics: Security Portfolio Weight Standard Deviation 1 40% 15% 2 60% 18% If the correlation of returns between the two securities is 0.20, the portfolio's standard deviation of returns is closest to: A. 1.8%. B. 9.1%. C. 13.4%. 55. A risk-neutral investor most likely seeks to maximize: A. both risk and return. B. return irrespective of risk. C. return for a given level of risk. Portfolio Risk and Return: Part I Faculty: Page 11 of 19</p>",
+              "position": 2
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1c819af3-61b2-4cc9-8483-e495592437d1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-5",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q5",
+        "itemBody": "<p>Two assets have the following characteristics: Variance of returns for Asset 1 0.05 Variance of returns for Asset 2 0.06 Correlation of returns between Asset 1 and Asset 2 0.75 The variance of returns for an equally weighted portfolio of the two assets is closest to: A. 0.038. B. 0.048. C. 0.055. 57. The correlation between the historical returns of Stock A and Stock B is 0.75. If the variance of Stock A is 0.16 and the variance of Stock B is 0.09, the covariance of returns of Stock A and Stock B is closest to: A. 0.01. B. 0.09. C. 0.16. Portfolio Risk and Return: Part I Faculty: Page 12 of 19 Solutions 1. C is correct. Brokerage commissions are negotiated with the brokerage firm. A security’s liquidity impacts the operational efficiency of trading costs. Specifically, liquidity impacts the bid–ask spread and can impact the stock price (if the ability to sell the stock is impaired by the uncertainty associated with being able to sell the stock). 2. C is correct. Historical data over long periods of time indicate that there exists a positive risk–return relationship, which is a reflection of an investor’s risk aversion. 3. A is correct. A risk-free asset has a variance of zero and is not dependent on whether the investor is risk neutral, risk seeking or risk averse. That is, given that the utility function of an investment is expressed as U = E (r) − 0.5A𝜎!, where A is the measure of risk aversion, then the sign of A is irrelevant if the variance is zero (like that of a risk-free asset). 4. C is correct. The most risk-averse investor has the indifference curve with the greatest slope. 5. A is correct. A negative value in the given utility function indicates that the investor is a risk seeker. 6. C is correct. Investment 3 has the highest rate of return. Risk is irrelevant to a risk-neutral investor, who would have a measure of risk aversion equal to 0. Given the utility function, the risk-neutral investor would obtain the greatest amount of utility from Investment 3. 7. C is correct. Investment 4 provides the highest utility value (0.2700) for a risk-seeking investor, who has a measure of risk aversion equal to −2. 8. B is correct. Investment 2 provides the highest utility value (0.1836) for a risk-averse investor who has a measure of risk aversion equal to 2. Expected Expected Utility Investment Return (%) Standard Deviation (%) A = 0 1 18 2 0.1800 2 19 8 0.1900 3 20 15 0.2000 4 18 30 0.1800 Expected Expected Utility Investment Return (%) Standard Deviation (%) A = -2 1 18 2 0.1804 2 19 8 0.1964 3 20 15 0.2225 4 18 30 0.2700 Portfolio Risk and Return: Part I Faculty: Page 13 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-6",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q6",
+        "itemBody": "<p>A is correct. Investment 1 provides the highest utility value (0.1792) for a risk-averse investor who has a measure of risk aversion equal to 4. 10. A is correct. The CAL is the combination of the risk-free asset with zero risk and the portfolio of all risky assets that provides for the set of feasible investments. Allowing for borrowing at the risk-free rate and investing in the portfolio of all risky assets provides for attainable portfolios that dominate risky assets below the CAL. 11. B is correct. The CAL represents the set of all feasible investments. Each investor’s indifference curve determines the optimal combination of the risk-free asset and the portfolio of all risky assets, which must lie on the CAL. 12. A is correct. The asset’s returns are not used to calculate the portfolio’s variance [only the assets’ weights, standard deviations (or variances), and covariances (or correlations) are used]. 13. C is correct. σport=$𝑤\"!σ\"!+𝑤!!σ!!+2𝑤\"𝑤!ρ\",!σ\"σ! =)(0.3)!(20%)!+(0.7)!(12%)!+2(0.3)(0.7)(0.40)(20%)(12%) =(0.3600%+0.7056%+0.4032%)$.&=(1.4688%)$.& = 12.11% 14. A is correct. 𝜎port=$𝑤\"!𝜎\"!+𝑤!!𝜎!!+2𝑤\"𝑤!𝜌\",!𝜎\"𝜎! =)(0.3)!(20%)!+(0.7)!(12%)!+2(0.3)(0.7)(−0.0240) Expected Expected Utility Investment Return (%) Standard Deviation (%) A = 2 1 18 2 0.1796 2 19 8 0.1836 3 20 15 0.1775 4 18 30 0.0900 Expected Expected Utility Investment Return (%) Standard Deviation (%) A = 4 1 18 2 0.1792 2 19 8 0.1772 3 20 15 0.1550 4 18 30 0.0000 Portfolio Risk and Return: Part I Faculty: Page 14 of 19 =(0.3600%+0.7056%−1.008%)$.&=(0.0576%)$.& = 2.40% 15. C is correct. A portfolio standard deviation of 14.40% is the weighted average, which is possible only if the correlation between the securities is equal to 1.0. 16. B is correct. A portfolio standard deviation of 14.40% is the weighted average, which is possible only if the correlation between the securities is equal to 1.0. If the correlation coefficient is equal to 1.0, then the covariance must equal 0.0240, calculated as: Cov(R1,R2) = ρ12σ1σ2 = (1.0)(20%)(12%) = 2.40% = 0.0240. 17. C is correct. 𝑅'=𝑤\"×𝑅\"+(1−𝑤\")×𝑅! 𝑅'=𝑤\"×16%+(1−𝑤\")×12% 15%=0.75 (16%)+0.25 (12%) 18. A is correct. σport=$𝑤\"!σ\"!+𝑤!!σ!!+2𝑤\"𝑤!ρ\",!σ\"σ! =)(0.5)!(20%)!+(0.5)!(20%)!+2(0.5)(0.5)(−0.15)(20%)(20%) =(1.0000%+1.0000%−0.3000%)$.&=(1.7000%)$.& = 13.04% 19. B is correct. 𝜎port=$𝑤\"!𝜎\"!+𝑤!!𝜎!!+2𝑤\"𝑤!𝜌\",!𝜎\"𝜎! =)(0.5)!(20%)!+(0.5)!(20%)!+2(0.5)(0.5)(0.00)(20%)(20%) =(1.0000%+1.0000%−0.0000%)$.&=(2.0000%)$.& = 14.14% 20. C is correct. An equally weighted portfolio of Asset 2 and Asset 3 will have the lowest portfolio standard deviation, because for each outcome, the portfolio has the same expected return (they are perfectly negatively correlated). 21. A is correct. An equally weighted portfolio of Asset 1 and Asset 2 has the highest level of volatility of the three pairs. All three pairs have the same expected return; however, the portfolio of Asset 1 and Asset 2 provides the least amount of risk reduction. Portfolio Risk and Return: Part I Faculty: Page 15 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-7",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q7",
+        "itemBody": "<p>B is correct. The contribution of each individual asset’s variance (or standard deviation) to the portfolio’s volatility decreases as the number of assets in the equally weighted portfolio increases. The contribution of the co-movement measures between the assets increases (i.e., covariance and correlation) as the number of assets in the equally weighted portfolio increases. The following equation for the variance of an equally weighted portfolio illustrates these points: σ'!=,!----.+./\".𝐶𝑂𝑉= ,!----.+./\". ρ? σ!???. 23. C is correct. The co-movement measures between the assets increases (i.e., covariance and correlation) as the number of assets in the equally weighted portfolio increases. The contribution of each individual asset’s variance (or standard deviation) to the portfolio’s volatility decreases as the number of assets in the equally weighted portfolio increases. The following equation for the variance of an equally weighted portfolio illustrates these points: σ'!=,!----.+./\".𝐶𝑂𝑉= ,!----.+./\". ρ? σ!???. 24. A is correct. Higher correlations will produce less diversification benefits provided that the other components of the portfolio standard deviation do not change (i.e., the weights and standard deviations of the individual assets). 25. C is correct. The efficient frontier does not account for the risk-free rate. The efficient frontier is the set of all attainable risky assets with the highest expected return for a given level of risk or the lowest amount of risk for a given level of return. 26. C is correct. The global minimum-variance portfolio is the portfolio on the minimum-variance frontier with the lowest standard deviation. Although the portfolio is attainable, when the risk-free asset is considered, the global minimum-variance portfolio is not the optimal risky portfolio. 27. B is correct. The Markowitz efficient frontier has higher rates of return for a given level of risk. With respect to the minimum-variance portfolio, the Markowitz efficient frontier is the set of portfolios above the global minimum-variance portfolio that dominates the portfolios below the global minimum-variance portfolio. 28. A is correct. The use of leverage and the combination of a risk-free asset and the optimal risky asset will dominate the efficient frontier of risky assets (the Markowitz efficient frontier). 29. B is correct. The CAL dominates the efficient frontier at all points except for the optimal risky portfolio. The ability of the investor to purchase additional amounts of the optimal risky portfolio by borrowing (i.e., buying on margin) at the risk-free rate makes higher rates of return for levels of risk greater than the optimal risky asset possible. Portfolio Risk and Return: Part I Faculty: Page 16 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-8",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q8",
+        "itemBody": "<p>C is correct. Each individual investor’s optimal mix of the risk-free asset and the optimal risky asset is determined by the investor’s risk preference. 31. A is correct. An investor may achieve diversification by combining two assets that are not perfectly correlated. This diversification increases as the correlation decreases. 32. A is correct. Both options have the same expected return of $50. Option A, however, has a higher risk (standard deviation) than Option B. Therefore, John Smith’s risk preference is that of risk seeking. 33. C is correct. Investor B has a higher risk aversion coefficient, thus a lower risk tolerance and a lower expected return on the capital allocation line. 34. C is correct. The formula for the return standard deviation (risk) of a two asset portfolio is 𝜎'=$𝑤\"!𝜎\"!+𝑤!!𝜎!!+2𝑤\"𝑤!𝐶𝑜𝑣(𝑅\",𝑅!) The formula for portfolio risk shows that portfolio risk decreases as the correlation decreases. 35. B is correct. The global minimum-variance portfolio is the left-most point on the minimum-variance frontier among all portfolios of risky assets. Portfolios A and C have the same standard deviation, but Portfolio A dominates Portfolio C because of a higher return. 36. A is correct. The CAPM requires that there are no restrictions on short selling (which is an assumption underlying frictionless markets) and that the amount invested in an asset can be as much or as little as the investor wants (that is, investments are infinitely divisible). The CAPM also assumes that all investors analyze securities in the same way using the same inputs for future cash flows and the same probability distributions; that is, it assumes that investors have homogenous expectations. 37. A is correct. The covariance is calculated from the standard deviations of the two assets and their correlation. The portfolio weights are not relevant. Cov =ρ\",!×σ\"×σ! =ρ\",!×)var1×)var2 =0.8×)3.5%×)1.5% = 1.8% 38. C is correct. The standard deviation of a two-asset portfolio is calculated as follows: σ'=$𝑤\"!×σ\"!+𝑤!!×σ!!+2𝑤\"𝑤!ρ\",!σ\"σ! =√0.4!×4.7%!+0.6!×7.7%!+2×0.4×0.6×0.3×4.7%×7.7% =5.5% Portfolio Risk and Return: Part I Faculty: Page 17 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-9",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q9",
+        "itemBody": "<p>B is correct. The standard deviation of a two-asset portfolio is given by the square root of the portfolio’s variance: σ'=$𝑤\"!σ\"!+𝑤!!σ!!+2𝑤\"𝑤!ρ\",!σ\"σ! Using this formula, the existing standard deviation is calculated as follows: )0.25!×0.179!+0.75!×0.062!+2×0.75×0.25×0.5×0.179×0.062=7.90% 40. B is correct. Utility has two terms: the expected return and a negative term based on the portfolio risk weighted by risk aversion. For an identical portfolio, the investor with a higher risk aversion (A) would calculate a lower utility (U). U = E (r) − 0.5A𝜎!. 41. A is correct. The optimal portfolio is identified as the point at which the capital allocation line (CAL) is tangential to the investor’s indifference curve. As investor risk aversion increases, the optimal portfolio slides down the CAL to a point of lower expected risk and lower expected return. 42. A is correct. The optimal risky portfolio lies at the point of tangency between the capital allocation line and the efficient frontier of risky assets. 43. C is correct because the portfolio risk is less than the weighted average of risks when the correlation of asset returns is less than one. 44. A is correct because –0.5 is the smallest of the three correlations and the closer the correlation coefficient is to –1, the greater the reduction in portfolio risk. The correlation coefficient between two assets determines the effect on portfolio risk when the two assets are combined. You will find that portfolio risk is unaffected when the two assets are perfectly correlated (ρ12 = +1). In other words, the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets and as such a portfolio's risk is unchanged with the addition of assets with the same risk parameters. Portfolio risk falls, however, when the two assets are not perfectly correlated (ρ12 < +1). Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which ρ12 = –1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free. Analytically, the standard deviation risk of a two asset portfolio is given by the square root of the portfolio's variance: σP = (w12σ12 + w22σ22 + 2w1w2ρ12σ1σ2)1/2, which is a strictly increasing function of ρ12. Hence, –0.5, the smallest of the three correlations, has the lowest risk. 45. B is correct because a risk-free asset (σ2 = 0) generates the same utility for all individuals. If σ2 = 0, then U = E(r) - 1/2(A)(σ2 ) = E(r) for all individuals. 46. C is correct because the Markowitz efficient frontier contains all portfolios of risky assets that rational, risk-averse investors will choose. Portfolio Risk and Return: Part I Faculty: Page 18 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-10",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q10",
+        "itemBody": "<p>A is correct because the expression 'risk–return trade-off' refers to the positive relationship between expected risk and return. In other words, a higher return is not possible to attain in efficient markets and over long periods of time without accepting higher risk. Expected returns should be greater for assets with greater risk. Over long periods of time, we observe that higher risk does result in higher mean returns. Thus, it is reasonable to claim that, over the long term, market prices reward higher risk with higher returns, which is a characteristic of a risk-averse investor. 48. A is correct because in evaluating investments using only the mean (expected return) and variance (risk), we are implicitly making two important assumptions: 1) that the returns are normally distributed and can be fully characterized by their means and variances and 2) that markets are not only informationally efficient but that they are also operationally efficient. To the extent that these assumptions are violated, we need to consider additional investment characteristics. One of them is kurtosis. Kurtosis refers to fat tails or higher than normal probabilities for extreme returns and has the effect of increasing an asset’s risk that is not captured in a mean variance framework. This applies to asset returns as several market participants note that the probability and the magnitude of extreme events is underappreciated and was a primary contributing factor to the financial crisis of 2008. 49. A is correct because, for a given Markowitz efficient frontier, a different risk-free rate will result in a different tangent to the frontier, hence a different optimal risky portfolio. CAL(P) is the optimal capital allocation line and Portfolio P is the optimal risky portfolio. Thus, with the addition of the risk-free asset, we are able to narrow our selection of risky portfolios to a single optimal risky portfolio, P, which is at the tangent of CAL(P) and the efficient frontier of risky assets. 50. A is correct because the optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility). 51. C is correct because, given equal weights and average variance/covariance (denoted σ2 and Cov, respectively), we can rewrite the portfolio variance as σP2 = σ2/N + [(N – 1)/N]Cov. The equation shows that as N becomes large, the first term on the right side with the denominator of N becomes smaller and smaller, implying that the contribution of one asset's variance to portfolio variance gradually becomes negligible. The second term, however, approaches the average covariance as N increases. It is reasonable to say that for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk. 52. B is correct because the left-most point on the minimum-variance frontier is the portfolio with the minimum variance among all portfolios of risky assets, and is referred to as the global minimum-variance portfolio. Portfolio Risk and Return: Part I Faculty: Page 19 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-1-11",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod1-Q11",
+        "itemBody": "<p>A is correct because the correlation between the returns of the two securities is 𝑟2̈ =Covu,j,%,& ; σ6σ7=Covu,j8'̈ ; σ6σ7=&.&$.9&=7.3. Since the two securities have equal risk, σi = σj, σi2 = 7.3, σi = 2.7%. 54. C is correct because 𝜎'=$𝑤\"!𝜎\"!+𝑤!!𝜎!!+2𝑤\"𝑤!𝜌\",!𝜎\"𝜎! =)0.4!×0.15!+0.6!×0.18!+2×0.4×0.6×0.2×0.15×0.18 =)(0.16)(0.0225)+(0.36)(0.0324)+0.002592 =√0.017856=0.133626≈13.4% 55. B is correct because a risk-neutral investor would maximize return irrespective of risk. This is because such an investor cares only about return and not about risk, so higher return investments are more desirable even if they come with higher risk. 56. B is correct because for a two asset portfolio, the expression for portfolio variance simplifies to the following using correlation: σ2p = w12σ12 + w22σ22 + 2w1w2ρ12σ1σ2, where wi is the weight of asset i in the portfolio, σi2 is the variance of asset i, and ρij is the correlation between the returns of assets i and j. Here, σ2p = (0.5)2(0.05) + (0.5)2(0.06) + 2(0.5)(0.5)(0.75)(0.05)0.5(0.06)0.5 = 0.0125 + 0.015 + 0.0205396 = 0.04804 ≈ 0.048. 57. B is correct. Cov(𝐴,𝐵)=ρ:;σ:σ;=0.75×0.4×0.3=0.09</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Economics_5",
+  "curriculum_year": "2027",
+  "topic": "Economics",
+  "module_number": 5,
+  "module_name": "Introduction to Geopolitics",
+  "question_count": 26,
+  "points_possible": 26.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Economics - Module 5 Introduction to Geopolitics",
+    "topic": "Economics",
+    "module_id": 5,
+    "question_count": 26,
+    "type": "practice",
+    "points_possible": 26.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Econ-5-1",
+      "entry": {
+        "title": "2027 Economics Mod5-Q1",
+        "itemBody": "<p>Which of the following statements regarding a country’s political cooperation is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. If a country is engaged in military conflict, there is a higher cost to  \ncooperation. B is incorrect because a country with few internal resources is likely to \nrely on political cooperation. C is incorrect because interest prioritization does  \ndetermine the depth and nature of political cooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1629c111-d85d-40b6-a0ea-7d512783d28a",
+              "itemBody": "<p>A. If a country is engaged in military conflict, there is a higher cost to cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "d2d9872f-cb27-4801-87f6-b3ac9cc506ae",
+              "itemBody": "<p>B. A country with few internal resources is not likely to rely on political cooperation.</p>",
+              "position": 2
+            },
+            {
+              "id": "e2fc1b74-890b-448a-bb17-716b87beb167",
+              "itemBody": "<p>C. Interest prioritization does not determine the depth and nature of political cooperation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1629c111-d85d-40b6-a0ea-7d512783d28a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-2",
+      "entry": {
+        "title": "2027 Economics Mod5-Q2",
+        "itemBody": "<p>A consequence of one of the disadvantages of globalization is that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Through the process of greater economic and financial cooperation,  \ncompanies may become dependent on other countries’ resources for their supply  \nchains. On aggregate, this can result in the nation itself becoming dependent on other \nnations for certain resources (such as rare earth metals, cobalt, or copper). If there \nis a disruption to the supply chain, including via a moment of political non-cooperation, \nthen firms may not be able to produce the good themselves.  A is incorrect because \nthe narrowing of pay differences between countries results  from a motivation to \npursue globalization, which is related to one of its advantages. It is an important way \nfor companies to increase profitability by reducing their  costs. Although wage \ndifferentials remain, they are decreasing. B is incorrect  because the proportion of \nflows between developed economies as a share of overall trade continuing to decline \nas emerging market trade flows rise is a function  of increased international \ninvestment. This increased investment has provided  beneficial aggregate economic \nbenefits, such as increased choice, higher quality goods, increased competition among \nfirms, higher efficiency, and increased labor mobility.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6a8e8a3c-f1fa-4452-819a-e350328a787e",
+              "itemBody": "<p>A. pay differences between countries have narrowed.</p>",
+              "position": 1
+            },
+            {
+              "id": "1f55566d-f144-4949-96b9-21050c88410e",
+              "itemBody": "<p>B. emerging market trade flows have grown more important.</p>",
+              "position": 2
+            },
+            {
+              "id": "fe3239c7-7aaa-4d86-976c-e985aca7bf0e",
+              "itemBody": "<p>C. greater economic and financial cooperation has increased interdependence.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fe3239c7-7aaa-4d86-976c-e985aca7bf0e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-3",
+      "entry": {
+        "title": "2027 Economics Mod5-Q3",
+        "itemBody": "<p>Which of the following outcomes is most likely a result of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Unequal accrual of economic and financial gains is a cost of globalization \nbecause improvement on the aggregate does not mean improvement  for everyone. B \nis incorrect because globalization leads to interdependency as companies may become \ndependent on other countries’ resources for their supply  chains. C is incorrect \nbecause rather than decreased access to talent, a country might actually globalize to \nimprove access to talent as cooperation and globalization can lead to increased access \nto resources.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d4eda0bc-00ab-4f16-9a1d-19e9fea44868",
+              "itemBody": "<p>A. Unequal gains</p>",
+              "position": 1
+            },
+            {
+              "id": "0910dc58-ed0a-4c6c-8835-bc00697e221c",
+              "itemBody": "<p>B. Increased independence</p>",
+              "position": 2
+            },
+            {
+              "id": "73ddf585-fe2e-4bc7-94bf-1a079cf0ff7c",
+              "itemBody": "<p>C. Decreased access to talent</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4eda0bc-00ab-4f16-9a1d-19e9fea44868"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-4",
+      "entry": {
+        "title": "2027 Economics Mod5-Q4",
+        "itemBody": "<p>A US company expanding critical spare part inventories for local customers made at its existing Canadian facility after a supply chain disruption is most likely using the coping tactic of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The COVID-19 pandemic has highlighted the need for certain essential \nsupply chains to be rebuilt domestically for emergency situations, with availability of \ncritical spare parts being an analogy. The close integration of the  US and Canadian \neconomies through the revised USMCA agreement effectively  makes expanded \nproduction at an existing Canadian factory an example of reducing manufacturing risk \nby relocating to home countries via reshoring. B  is incorrect because instead of \nreducing manufacturing risk by duplicating or fortifying its supply chain, the company \nis s imply continuing to use its existing  capacity more intensively. C is incorrect \nbecause although the production is intended to better supply its home market, there \nis no evidence that the company is expanding its presence in the US market or shifting \nits focus to the exclusion of available opportunities elsewhere.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a80cca45-4a11-41f0-90b7-3f7038895c19",
+              "itemBody": "<p>A. reshoring the essentials.</p>",
+              "position": 1
+            },
+            {
+              "id": "8316fbb0-6130-41a6-bfb7-4f823ae023db",
+              "itemBody": "<p>B. reglobalizing production.</p>",
+              "position": 2
+            },
+            {
+              "id": "07a156ff-a7ed-481f-9d16-679589ee87f1",
+              "itemBody": "<p>C. doubling down on key markets.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a80cca45-4a11-41f0-90b7-3f7038895c19"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-5",
+      "entry": {
+        "title": "2027 Economics Mod5-Q5",
+        "itemBody": "<p>An example of a geopolitical multifaceted tool for furthering national interests is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Cabotage is the right to transport passengers or goods within a country \nby a foreign firm. Many countries —including those with multilateral  trade \nIntroduction to Geopolitics \nFaculty:                                                                         Page 6 of 8 \n \nagreements—impose restrictions on cabotage across transportation subsectors,  \nmeaning that shippers, airlines, and truck drivers are not allowed to transport goods \nand services within another country’s borders. Allowing cabotage  requires \ncoordination on areas like physical security and economic coordination,  a highly \nmultilateral (multifaceted tool) process. B is incorrect because armed conflict is the \nmost extreme example of a national security tool. It can be either internal or external \nto a country in taking a direct and active approach to wielding influence. C is incorrect \nbecause nationalization of key export industries is an economic tool. This process of \ntransferring an activity or industry from private to state control is a non-cooperative \napproach to asserting economic control.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "80174caf-c4f3-4fce-a003-8288888d85dc",
+              "itemBody": "<p>A. cabotage.</p>",
+              "position": 1
+            },
+            {
+              "id": "dba11fa8-214d-45ce-918a-00dce61bd06d",
+              "itemBody": "<p>B. armed conflict.</p>",
+              "position": 2
+            },
+            {
+              "id": "949ae558-3f25-45d2-b267-090e3601680e",
+              "itemBody": "<p>C. nationalization of key export industries.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "80174caf-c4f3-4fce-a003-8288888d85dc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-6",
+      "entry": {
+        "title": "2027 Economics Mod5-Q6",
+        "itemBody": "<p>Which of these is most likely to be described as an event risk?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections and new legislation, \nor other date-driven milestones, such as holidays or political anniversaries  known in \nadvance. The other choices could not be known in advance. An  earthquake (A) is an \nexample of an exogenous risk. An ongoing civil war (C) is an  example of a thematic \nrisk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d82821dd-4f6f-4e24-943f-c0a041532735",
+              "itemBody": "<p>A. An earthquake</p>",
+              "position": 1
+            },
+            {
+              "id": "ccab48ee-a2b0-41cc-bec4-df6645fea035",
+              "itemBody": "<p>B. An election</p>",
+              "position": 2
+            },
+            {
+              "id": "3b0c1b50-48c3-4dd1-809e-68941df229ff",
+              "itemBody": "<p>C. An ongoing civil war</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "ccab48ee-a2b0-41cc-bec4-df6645fea035"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-7",
+      "entry": {
+        "title": "2027 Economics Mod5-Q7",
+        "itemBody": "<p>Exogenous risks are best described as those that:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Exogenous risks are best described as those that are sudden or  \nunanticipated and that affect either a country’s cooperative stance, the ability  of \nnon-state actors to globalize, or both. A is incorrect because thematic (not  \nexogenous) risks are known risks that evolve and expand over a period of time. B  is \nincorrect because event (not exogenous) risks are those that evolve around set dates, \nincluding elections, new legislation, or other date-driven milestones.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6727fba4-4c68-492a-aa4d-d468c58dc818",
+              "itemBody": "<p>A. are known and evolve and expand over a period of time.</p>",
+              "position": 1
+            },
+            {
+              "id": "219c9ba3-c6eb-4afe-8fcd-0132cdf62ea4",
+              "itemBody": "<p>B. revolve around set dates, such as elections, new legislation, or other date-driven milestones, such as holidays or political anniversaries.</p>",
+              "position": 2
+            },
+            {
+              "id": "a7e33bc0-ef1c-4bc6-8ff1-c474904d9912",
+              "itemBody": "<p>C. are sudden or unanticipated and impact either a country’s cooperative stance, the ability of non-state actors to globalize, or both. Introduction to Geopolitics Faculty: Page 2 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a7e33bc0-ef1c-4bc6-8ff1-c474904d9912"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-8",
+      "entry": {
+        "title": "2027 Economics Mod5-Q8",
+        "itemBody": "<p>Which of the following statements about geopolitical threats in the investment environment is most accurate?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Although highly collaborative and globalized countries are, on  balance, \nless likely to experience geopolitical risk because the political, economic, and financial \ncosts of partners inflicting those risks are higher than less collaborative  countries, \nthe same interconnectedness may make them more vulnerable  to geopolitical risk. A \nis incorrect because geopolitical risk is always present in the investment environment. \nC is incorrect because geopolitical risk tends to  have a greater impact on markets \nalready experiencing a general contraction or economic downturn.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "683d5e35-bf25-4fe3-8759-c83a621290c9",
+              "itemBody": "<p>A. Geopolitical risk is not always present in the investment environment.</p>",
+              "position": 1
+            },
+            {
+              "id": "99ca045c-a957-440e-b81d-c348c9157791",
+              "itemBody": "<p>B. Highly collaborative, interconnected countries are vulnerable to geopolitical risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "95018c09-8640-4e4a-9abd-0eee71efea37",
+              "itemBody": "<p>C. Geopolitical risk tends to have less of an impact on markets already experiencing a general contraction or economic downturn.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "99ca045c-a957-440e-b81d-c348c9157791"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-9",
+      "entry": {
+        "title": "2027 Economics Mod5-Q9",
+        "itemBody": "<p>An applicable conclusion drawn from the Geopolitical Risk Index (GPR) is that:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The GPR creators found that high levels of geopolitical risk reduce US \ninvestment, employment, and price level of the stock market. B is  incorrect because \nfirms reduce investment in the wake of idiosyncratic events, which would be unlikely \nto repeat. C is incorrect because the threat of an event  was shown to have a larger \nimpact over time than that of the actual events themselves.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e299406-3bcf-487f-bf5b-ad1b1d751065",
+              "itemBody": "<p>A. high geopolitical risk results in tangible macroeconomic effects.</p>",
+              "position": 1
+            },
+            {
+              "id": "b419eeb7-45aa-403f-9bea-19adbe22280b",
+              "itemBody": "<p>B. recurring geopolitical risk events lead to reduced corporate investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "6d0783ca-fd65-43e7-a3a8-d33d986cd378",
+              "itemBody": "<p>C. the adverse impact of actual events is greater over time than that of the threat of such events.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7e299406-3bcf-487f-bf5b-ad1b1d751065"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-10",
+      "entry": {
+        "title": "2027 Economics Mod5-Q10",
+        "itemBody": "<p>The basic geopolitical risk type most likely in comparison to have the smallest degree of uncertainty is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Event risk evolves around set dates, such as elections or new legislation, \nor other date-driven milestones, such as holidays or political anniversaries. Analysts \ncan thus look to political calendars as a predictable starting point for  determining \nthe occurrence of event risk, with time to devise a suitable response.  A is incorrect \nbecause exogenous risk is sudden and unanticipated. Examples  include sudden \nuprisings, invasions, or the aftermath of natural disasters. The  timing and range of \nits effects thus have the greatest unknowns. C is incorrect  because thematic risks \nIntroduction to Geopolitics \nFaculty:                                                                         Page 7 of 8 \n \nare known risks that evolve and expand over a period of time. Climate change, pattern \nmigration, the rise of populist forces, and the ongoing  threat of terrorism fall into \nthis category. These are more foreseeable than  exogenous risks, but with their \nextended interval of exposure, planned responses  likely require continual \nadjustments. \n \n11. C is c orrect. The International Monetary Fund has the ability to lend foreign \ncurrencies to a country with an extreme current account deficit. \n \n12. B is c orrect because bilateralism is characterized by nationalism/anti -globalization \nand cooperation. \n \n13. C is c orrect because for countries, regions, or sectors perceived to be at more \nconsistent risk of geopolitical disruption, investors may require higher compensation, \neffectively increasing the discount rate investors use when valuing those securities. \nPortfolio investment flows face greater volatility due to geopolitical factors, and \ninvestors will factor in a higher risk premium. \n \n14. B is c orrect because multilateral trade agreements, such as the World Trade \nOrganization (WTO), are a tool of geopolitics that is consistent with globalization and \ncooperation.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1ac3d989-3853-4d9b-bcaf-42af6b0503ca",
+              "itemBody": "<p>A. exogenous risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "e4ad84bd-cc10-476a-a84b-c46d09a25360",
+              "itemBody": "<p>B. event risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "26bc32ec-2b73-4d15-94f6-648e5ba5caa0",
+              "itemBody": "<p>C. thematic risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e4ad84bd-cc10-476a-a84b-c46d09a25360"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-11",
+      "entry": {
+        "title": "2027 Economics Mod5-Q11",
+        "itemBody": "<p>Which organization will most likely aid a country that is experiencing an economically detrimental current account deficit?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e934d737-de43-4124-8555-43f2b0bfedcc",
+              "itemBody": "<p>A. The World Bank</p>",
+              "position": 1
+            },
+            {
+              "id": "7049c87b-dd60-4cfe-b9e6-53082534eb12",
+              "itemBody": "<p>B. The World Trade Organization</p>",
+              "position": 2
+            },
+            {
+              "id": "bfcaeefc-e0aa-4a0f-a4ca-ad0c9850bda9",
+              "itemBody": "<p>C. The International Monetary Fund</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e934d737-de43-4124-8555-43f2b0bfedcc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-12",
+      "entry": {
+        "title": "2027 Economics Mod5-Q12",
+        "itemBody": "<p>The archetype of country behavior most likely characterized by nationalism and cooperation is:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bcb2f9a3-53c1-462e-a342-2a35dc8af1aa",
+              "itemBody": "<p>A. hegemony.</p>",
+              "position": 1
+            },
+            {
+              "id": "4d6fbbe2-7345-4516-92de-0083b5052f2f",
+              "itemBody": "<p>B. bilateralism.</p>",
+              "position": 2
+            },
+            {
+              "id": "0a7299c2-4df5-4754-bced-a2d9f95900d7",
+              "itemBody": "<p>C. multilateralism.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bcb2f9a3-53c1-462e-a342-2a35dc8af1aa"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-13",
+      "entry": {
+        "title": "2027 Economics Mod5-Q13",
+        "itemBody": "<p>Investors investing in countries with higher geopolitical risk most likely require:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "17d808e7-c900-4b93-859b-8a8559de2570",
+              "itemBody": "<p>A. lower compensation and face higher portfolio volatility.</p>",
+              "position": 1
+            },
+            {
+              "id": "8c0672c8-56e3-4f67-ac15-321e9469195b",
+              "itemBody": "<p>B. higher compensation and face lower portfolio volatility.</p>",
+              "position": 2
+            },
+            {
+              "id": "427f8478-85c9-4576-9216-40f514b8840a",
+              "itemBody": "<p>C. higher compensation and face higher portfolio volatility.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "17d808e7-c900-4b93-859b-8a8559de2570"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-14",
+      "entry": {
+        "title": "2027 Economics Mod5-Q14",
+        "itemBody": "<p>Which of the following is most likely a tool of geopolitics that promotes globalization and cooperation?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "99de1e57-fed7-45f1-8a70-ac3990a9bf8d",
+              "itemBody": "<p>A. Export subsidies</p>",
+              "position": 1
+            },
+            {
+              "id": "fc44bb6a-1d5e-4d75-88c3-04d43d521cc1",
+              "itemBody": "<p>B. Multilateral trade agreements</p>",
+              "position": 2
+            },
+            {
+              "id": "ec24988f-42ad-496c-b07e-ef77eac0432d",
+              "itemBody": "<p>C. Collective security agreements Introduction to Geopolitics Faculty: Page 3 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "99de1e57-fed7-45f1-8a70-ac3990a9bf8d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-15",
+      "entry": {
+        "title": "2027 Economics Mod5-Q15",
+        "itemBody": "<p>With respect to motivations for globalization, which of the following is best characterized as an intrinsic gain?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because intrinsic gain is a side effect or consequence of an activity that \ngenerates a benefit beyond profit itself. It is difficult to measure but contributes \nto globalization's momentum. It can also be a stabilizing force, increasing empathy \nbetween actors and reducing the likelihood that a geopolitical threat is levied. One \nexample of intrinsic gain is the accelerated productivity from learning new methods.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "371353b9-4bbe-461d-ab28-435a10e68c70",
+              "itemBody": "<p>A. Increased supply chain efficiency</p>",
+              "position": 1
+            },
+            {
+              "id": "fd031776-46f8-4ed6-bbfa-4949b5541feb",
+              "itemBody": "<p>B. Accelerated productivity from learning new methods</p>",
+              "position": 2
+            },
+            {
+              "id": "fa0fd5ad-3a68-47a0-a0ac-64217c027f8c",
+              "itemBody": "<p>C. Access to resources that are not readily available in the home country</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fd031776-46f8-4ed6-bbfa-4949b5541feb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-16",
+      "entry": {
+        "title": "2027 Economics Mod5-Q16",
+        "itemBody": "<p>Which of the following organizations was founded with the goal of assisting in the reconstruction of the international payment system?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because IMF was founded with the goal to stabilize exchange rates and \nassist the reconstruction of the world’s international payment system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a3e84756-e918-482e-9a47-ad839256790c",
+              "itemBody": "<p>A. The World Trade Organization</p>",
+              "position": 1
+            },
+            {
+              "id": "1d6e1e24-1fbb-4910-9a82-00b18ed32224",
+              "itemBody": "<p>B. The International Monetary Fund</p>",
+              "position": 2
+            },
+            {
+              "id": "4a1186fc-a6a2-44ce-8f11-b1afc6126a53",
+              "itemBody": "<p>C. The International Bank for Reconstruction and Development</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1d6e1e24-1fbb-4910-9a82-00b18ed32224"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-17",
+      "entry": {
+        "title": "2027 Economics Mod5-Q17",
+        "itemBody": "<p>Which of the following behavioral archetypes best describes a country that is high on the globalization spectrum but low on the cooperation spectrum?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because using the two axes we have discussed —political cooperation \nversus non-cooperation and globalization versus nationalism—investment analysts can \nassess geopolitical actors and the likelihood of threat to investment outcomes. \nSpecifically, there are four archetypes of country behaviour: autarky, hegemony, \nmultilateralism, and bilateralism, where hegemony is situated low on the cooperation \nspectrum and high on the globalization spectrum. Hegemonic countries tend to be \nregional or even global leaders, and they use their political or economic influence of \nothers to control resources. State -owned enterprises tend to control key export \nmarkets. Examples of hegemonic countries include the United States and Russia.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "29253ce8-33ac-440b-b779-d295596e57a8",
+              "itemBody": "<p>A. Autarky</p>",
+              "position": 1
+            },
+            {
+              "id": "7fba4260-7890-4142-8cd3-d69a2898585f",
+              "itemBody": "<p>B. Hegemony</p>",
+              "position": 2
+            },
+            {
+              "id": "6d64e51e-0205-45d1-a652-4cbfe6e35d6b",
+              "itemBody": "<p>C. Bilateralism</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7fba4260-7890-4142-8cd3-d69a2898585f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-18",
+      "entry": {
+        "title": "2027 Economics Mod5-Q18",
+        "itemBody": "<p>With respect to geopolitics, setting standards for the size and shape of containers used for shipping is most likely an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because an example of operational synchronization is standards set for \ncontainers of uniform size and shape using multi-modal forms of transport (land, sea, \nair, rail) and port cranes. \n \nIntroduction to Geopolitics \nFaculty:                                                                         Page 8 of 8</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4e8333b0-920b-4288-b00e-1e43b509bd22",
+              "itemBody": "<p>A. regulatory cooperation.</p>",
+              "position": 1
+            },
+            {
+              "id": "4e535c80-39f0-437a-a646-109a781631c9",
+              "itemBody": "<p>B. process standardization.</p>",
+              "position": 2
+            },
+            {
+              "id": "aaa4a831-ac36-4a0b-b34f-925c5da624f5",
+              "itemBody": "<p>C. operational synchronization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "aaa4a831-ac36-4a0b-b34f-925c5da624f5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-19",
+      "entry": {
+        "title": "2027 Economics Mod5-Q19",
+        "itemBody": "<p>Which of the following would most likely lead to an increase in globalization? A decrease in:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because globalization is marked by economic and financial cooperation, \nincluding the active trade of goods and services, capital flows, currency exchange, \nand cultural and information exchange. Actors participating in globalization are likely \nto reach beyond their national borders for access to new markets, talent, or learning. \nBy contrast, anti -globalization or nationalism is the promotion of a country’s own \neconomic interests to the exclusion or detriment of the interests of other nations.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "9b9c1a0e-b481-4f48-a4f4-1f0e815c93f0",
+              "itemBody": "<p>A. soft power.</p>",
+              "position": 1
+            },
+            {
+              "id": "1cacff4b-185f-4909-b18d-e1ef755082c3",
+              "itemBody": "<p>B. nationalism.</p>",
+              "position": 2
+            },
+            {
+              "id": "d545c218-3254-40f4-812c-da3c927a8467",
+              "itemBody": "<p>C. standardization.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1cacff4b-185f-4909-b18d-e1ef755082c3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-20",
+      "entry": {
+        "title": "2027 Economics Mod5-Q20",
+        "itemBody": "<p>Which of the following changes are investors most likely to make in response to a black swan risk?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the velocity of geopolitical risk is the pace at which it impacts \nan investor portfolio. For the sake of simplicity, we explore short -term or 'high \nvelocity' impacts, medium-term, and long-term or 'low velocity' impacts [...]. In the \nshort term, we may see volatility in the markets affecting entire industries or even \nthe entire market. Exogenous or 'black swan' events tend to fit into this category, \ncausing market volatility and investor flight to quality. A black swan risk is an event \nthat is rare and difficult to predict but has an important impact. Investors with the \nappropriate time horizon and risk tolerance may make tactical changes to their \ninvestment choices as a result of these events. Long-term changes are unlikely to be \nnecessary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6b64c246-0c06-4bbf-a388-a46d63f85855",
+              "itemBody": "<p>A. Tactical.</p>",
+              "position": 1
+            },
+            {
+              "id": "98eed19f-7b9b-4d8e-988a-c32bffc45326",
+              "itemBody": "<p>B. Sector specific.</p>",
+              "position": 2
+            },
+            {
+              "id": "aad05631-83b6-450d-932f-f3738104d696",
+              "itemBody": "<p>C. Asset allocation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "6b64c246-0c06-4bbf-a388-a46d63f85855"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-21",
+      "entry": {
+        "title": "2027 Economics Mod5-Q21",
+        "itemBody": "<p>Cyber threats most likely fall into the category of:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because cyber threats are another example of thematic risk.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cbf79459-4d04-48f8-8941-dc92090eff27",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "b83631ff-f09e-4624-b506-4dc9a6928193",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "a4df1146-d6fe-44ce-b4cc-f15b5820ef11",
+              "itemBody": "<p>C. exogenous risk.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b83631ff-f09e-4624-b506-4dc9a6928193"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-22",
+      "entry": {
+        "title": "2027 Economics Mod5-Q22",
+        "itemBody": "<p>Natural disasters are an example of:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because exogenous risk is a sudden or unanticipated risk that impacts \neither a country’s cooperative stance, the ability of non-state actors to globalize, or \nboth. Examples include sudden uprisings, invasions, or the aftermath of natural \ndisasters.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3bf4061b-63e1-4c61-810e-de8e3ad1d2a0",
+              "itemBody": "<p>A. event risk.</p>",
+              "position": 1
+            },
+            {
+              "id": "050ba593-06e5-41d1-83ca-00348b11ccac",
+              "itemBody": "<p>B. thematic risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "1a55ad6e-9165-41fb-a66d-dcd40768a462",
+              "itemBody": "<p>C. exogenous risk. Introduction to Geopolitics Faculty: Page 4 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1a55ad6e-9165-41fb-a66d-dcd40768a462"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-23",
+      "entry": {
+        "title": "2027 Economics Mod5-Q23",
+        "itemBody": "<p>Which of the following is most likely a benefit of globalization?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the opportunity to generate higher profits may motivate \ncompanies to globalize. The first way to generate profit is to increase sales. \nCompanies may choose to engage in globalization in order to access new customers \nfor their goods and  services. Another way to increase profits is to reduce costs. \nGlobalization allows companies to access lower tax -operating environments, reduce \nlabor costs, or seek other supply chain efficiency gains.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9a70a7c-2411-45b9-90d9-6541965fdfdf",
+              "itemBody": "<p>A. Increased profits</p>",
+              "position": 1
+            },
+            {
+              "id": "04230714-faec-4d6c-b70f-3b0ecae44182",
+              "itemBody": "<p>B. More equal income distribution</p>",
+              "position": 2
+            },
+            {
+              "id": "bd45e913-fa68-4493-bf24-b9347813d201",
+              "itemBody": "<p>C. Stronger environmental, social, and governance standards</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c9a70a7c-2411-45b9-90d9-6541965fdfdf"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-24",
+      "entry": {
+        "title": "2027 Economics Mod5-Q24",
+        "itemBody": "<p>The main objective of the World Bank Group is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the World Bank's main objective is to help developing countries \nfight poverty and enhance environmentally sound economic growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "98003aef-dbc3-47d5-97b4-5a838fedb989",
+              "itemBody": "<p>A. support exchange rate stability and an open system of international payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "c299948f-2869-40ac-bd9d-be7fd9b0cd98",
+              "itemBody": "<p>B. provide the legal and institutional foundation of the multinational trading system.</p>",
+              "position": 2
+            },
+            {
+              "id": "cf164dbb-90da-4448-8051-eefc8413c4c5",
+              "itemBody": "<p>C. help developing countries fight poverty and enhance environmentally sound economic growth.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cf164dbb-90da-4448-8051-eefc8413c4c5"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-25",
+      "entry": {
+        "title": "2027 Economics Mod5-Q25",
+        "itemBody": "<p>A nation that cooperates with a neighboring country is most likely characterized as:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because bilateralism is the conduct of political, economic, financial, or \ncultural cooperation between two countries. Countries engaging in bilateralism may \nhave relations with many different countries, but they are one-at-a-time agreements \nwithout multiple partners.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a7bf613c-72fa-4590-a23c-0664bcf19fea",
+              "itemBody": "<p>A. autarkic.</p>",
+              "position": 1
+            },
+            {
+              "id": "455e2ac6-0e3b-4fe4-9857-57fd9adb1dee",
+              "itemBody": "<p>B. bilateral.</p>",
+              "position": 2
+            },
+            {
+              "id": "1865bf0a-a90b-4372-87fd-3d497357d4d8",
+              "itemBody": "<p>C. hegemonic.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "455e2ac6-0e3b-4fe4-9857-57fd9adb1dee"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-5-26",
+      "entry": {
+        "title": "2027 Economics Mod5-Q26",
+        "itemBody": "<p>Which of the following is most likely a motivation for globalization?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because non-state actors, such as companies and investors, who choose \nto participate in globalization consider three potential gains, including: intrinsic gain. \nOne example of intrinsic gain is the personal growth or education that individuals may \nreceive from expanding their horizons, experiencing new places, or learning new ideas.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a7f1228c-ee5f-459d-a78d-3fbc3d1ba1e9",
+              "itemBody": "<p>A. Increasing interdependence of supply chains</p>",
+              "position": 1
+            },
+            {
+              "id": "d1e680d2-0e13-4886-b7e1-1d3e6b43f963",
+              "itemBody": "<p>B. Personal growth by expanding personal horizons</p>",
+              "position": 2
+            },
+            {
+              "id": "cf83e3b7-a646-4589-a05a-3ef0fe1e5f2f",
+              "itemBody": "<p>C. Creating jobs in a new country and reducing them at home SUMMARY: - (LOS 16.a): – 1, 25 (LOS 16.b): – 2, 3, 12, 15, 17, 19, 23, 26 (LOS 16.c): – 11, 16, 24 (LOS 16.d): – 6, 7, 9, 10, 21, 22 (LOS 16.e): – 4, 5, 14, 18 (LOS 16.f): – 8, 13, 20 Introduction to Geopolitics Faculty: Page 5 of 8</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d1e680d2-0e13-4886-b7e1-1d3e6b43f963"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

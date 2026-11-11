@@ -1,0 +1,168 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Portfolio Construction_6",
+  "curriculum_year": "2027",
+  "topic": "Portfolio Construction",
+  "module_number": 6,
+  "module_name": "Introduction to Risk Management",
+  "question_count": 5,
+  "points_possible": 5.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Portfolio Construction - Module 6 Introduction to Risk Management",
+    "topic": "Portfolio Construction",
+    "module_id": 6,
+    "question_count": 5,
+    "type": "practice",
+    "points_possible": 5.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Port-6-1",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod6-Q1",
+        "itemBody": "<p>A firm’s risk management committee would be expected to do all of the following except: A. approving the governing body’s proposed risk policies. B. deliberating the governing body’s risk policies at the operational level. C. providing top decision-makers with a forum for considering risk management issues. 9. Once an enterprise’s risk tolerance is determined, the role of risk management is to: A. analyze risk drivers. B. align risk exposures with risk appetite. C. identify the extent to which the enterprise is willing to fail in meeting its objectives. 10. Which factor should most affect a company’s ability to tolerate risk? A. A stable market environment B. The beliefs of the individual board members C. The ability to dynamically respond to adverse events 11. Which of the following is the correct sequence of events for risk governance and management that focuses on the entire enterprise? Establishing: A. risk tolerance, then risk budgeting, and then risk exposures. B. risk exposures, then risk tolerance, and then risk budgeting. C. risk budgeting, then risk exposures, and then risk tolerance. 12. Risk budgeting includes all of the following except: A. determining the target return. B. quantifying tolerable risk by specific metrics. C. allocating a portfolio by some risk characteristics of the investments. 13. A benefit of risk budgeting is that it: A. considers risk tradeoffs. B. establishes a firm’s risk tolerance. C. reduces uncertainty facing the firm. 14. Which of the following risks is best described as a financial risk? A. Credit B. Solvency C. Operational 15. Liquidity risk is most associated with: A. the probability of default. B. a widening bid–ask spread. C. a poorly functioning market. Introduction to Risk Management Faculty: Page 3 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-6-2",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod6-Q2",
+        "itemBody": "<p>An example of a non-financial risk is: A. market risk. B. liquidity risk. C. settlement risk. 17. If a company has a one-day 5% Value at Risk of $1 million, this means: A. 5% of the time the firm is expected to lose at least $1 million in one day. B. 95% of the time the firm is expected to lose at least $1 million in one day. C. 5% of the time the firm is expected to lose no more than $1 million in one day. 18. An organization choosing to accept a risk exposure may: A. buy insurance. B. enter into a derivative contract. C. establish a reserve fund to cover losses. 19. The choice of risk-modification method is based on: A. minimizing risk at the lowest cost. B. maximizing returns at the lowest cost. C. weighing costs versus benefits in light of the organization’s risk tolerance. 20. A major benefit of employing a risk budgeting process is that it most likely: A. allows the organization to determine its enterprise risk tolerance. B. forces risk tradeoffs across the organization. C. eliminates the need for hedging within the organization. 21. Risk management is most likely the process by which an organization: A. minimizes its exposure to potential losses. B. adjusts its risk to a predetermined level. C. maximizes its risk-adjusted return. 22. Among other things, an organization’s risk tolerance should most likely reflect its: A. perception of market stability. B. size. C. competitive position. 23. A good risk governance process would most likely: A. provide guidance on the size of the largest acceptable loss for the organization. B. provide different risk targets for each unit within the organization. C. be a bottom-up process that reflects the current risk exposures of all parts of the organization. 24. The German firm IHK AG has entered into a three-month forward currency contract to purchase USD35 million versus euros from US firm GED Corp. to hedge a future payment obligation. The US dollar appreciates 5% in the coming three months. IHK should most likely focus on: Introduction to Risk Management Faculty: Page 4 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "020dd564-d3b4-4ab2-b528-4667c645dcdc",
+              "itemBody": "<p>A. market risk. B. liquidity risk. C. counterparty risk. 25. Risk budgeting most likely: A. limits the cost of hedging a portfolio. B. can be defined by a measure such as beta or scenario loss. C. focuses on the appetite for risk and what exposures are acceptable. 26. An example of risk transfer combined with self-insurance is most likely: A. a bond portfolio hedged with an interest rate option. B. an insurance policy with a deductible. C. a bank that establishes a loan loss reserve fund. 27. A risk metric that measures how different an actual investment outcome could be from what the investor expects is most likely a: A. vega. B. duration. C. standard deviation. 28. Which of the following pairs of risks are most closely related? A. Model risk and tail risk B. Liquidity risk and operational risk C. Credit risk and solvency risk 29. The top level of a risk management system most likely is: A. risk governance. B. strategic analysis or integration. C. defined policies or procedures. 30. A top-down process that offers guidance and directs activities that seek to maximize the value of an enterprise is most likely an element of: A. risk governance. B. risk infrastructure. C. risk monitoring and mitigation. 31. Which of the following is best classified as a non-financial risk? A. Credit risk B. Liquidity risk C. Accounting risk 32. In risk management, which of the following should be taken into account when determining an enterprise’s risk tolerance? A. Management compensation B. The enterprise’s value at risk (VaR) Introduction to Risk Management Faculty: Page 5 of 10</p>",
+              "position": 1
+            },
+            {
+              "id": "441d9962-6ccd-4bba-9a3b-6a903221022d",
+              "itemBody": "<p>C. The government and regulatory landscape 33. The risk management measure that captures the sensitivity of a derivative’s delta to a change in the value of the underlying best describes: A. rho. B. vega. C. gamma. 34. A good risk management process should: A. predict when a crisis will occur. B. consider the balance between expected returns and losses. C. only consider losses occurring from events that have a high likelihood. 35. A bank determines that its value at risk (VaR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every: A. 5 business days. B. 13 business days. C. 20 business days. 36. Which of the following metrics is most appropriate to estimate a bond's average extreme loss? A. VaR of loss B. Standard deviation of loss C. Expected loss given default 37. The process of risk management is best described as the set of decisions that maximizes a company's value while: A. minimizing the risk taken. B. bearing a tolerable level of risk. C. predicting the potential risk correctly. 38. Which of the following is best classified as a financial risk? A. Tax risk B. Credit risk C. Accounting risk 39. Which of the following is least consistent with effective risk governance? A. Taking an enterprise-wide view B. Defining the enterprise's risk tolerance C. Following a bottom-up process to direct risk management activities 40. A benefit of risk budgeting is that it: A. forces risk trade-offs. B. provides risk oversight. C. defines an organization’s risk tolerance. Introduction to Risk Management Faculty: Page 6 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "020dd564-d3b4-4ab2-b528-4667c645dcdc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-6-3",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod6-Q3",
+        "itemBody": "<p>Within a risk management framework, risk tolerance: A. and risk exposure should be kept in alignment. B. includes the qualitative assessment and evaluation of risk. C. is determined as a result of establishing how and where risk is taken. Solutions 1. B is correct. For individuals, risk management concerns maximizing utility while taking risk consistent with individual’s level of risk tolerance. 2. A is correct. Many decision makers focus on return, which is not something that is easily controlled, as opposed to risk, or exposure to risk, which may actually be managed or controlled 3. C is correct. Risks need to be defined and measured so as to be consistent with the organization’s chosen level of risk tolerance and target for returns or other outcomes. 4. C is correct. While risk infrastructure, which a risk management framework must address, refers to the people and systems required to track risk exposures, there is no requirement to actually name the responsible individuals. 5. C is correct. Risk infrastructure refers to the people and systems required to track risk exposures and perform most of the quantitative risk analysis to allow an assessment of the organization’s risk profile. The risk management infrastructure identifies, measures, and monitors risks (among other things). 6. A is correct. Risk governance is the top-down process that defines risk tolerance, provides risk oversight and guidance to align risk with enterprise goals. 7. C is correct. Risk governance is not about specifying methods to mitigate risk at the business line level. Rather, it is about establishing an appropriate level of risk for the entire enterprise. Specifics of dealing with risk fall under risk management and the risk infrastructure framework. 8. A is correct. The risk management committee is a part of the risk governance structure at the operational level—as such, it does not approve the governing body’s policies. 9. B is correct. When risk tolerance has been determined, the risk framework should be geared toward measuring, managing, and complying with the risk tolerance, or aligning risk exposure with risk tolerance. The risk tolerance decision begins by looking at what shortfalls within an organization would cause it to fail to achieve some critical goals and what are the organization’s risk drivers. Introduction to Risk Management Faculty: Page 7 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-6-4",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod6-Q4",
+        "itemBody": "<p>C is correct. If a company has the ability to adapt quickly to adverse events may allow for a higher risk tolerance. There are other factors, such as beliefs of board members and a stable market environment, which may but should not affect risk tolerance. 11. A is correct. In establishing a risk management system, determining risk tolerance must happen before specific risks can be accepted or reduced. Risk tolerance defines the appetite for risk. Risk budgeting determine how or where the risk is taken and quantifies the tolerable risk by specific metrics. Risk exposures can then be measured and compared against the acceptable risk. 12. A is correct. Risk budgeting does not include determining the target return. Risk budgeting quantifies and allocates the tolerable risk by specific metrics. 13. A is correct. The process of risk budgeting forces the firm to consider risk tradeoffs. As a result, the firm should choose to invest where the return per unit of risk is the highest. 14. A is correct. A financial risk originates from the financial markets. Credit risk is one of three financial risks identified in the reading: Credit risk is the chance of loss due to an outside party defaulting on an obligation. Solvency risk depends at least in part on factors internal to the organization and operational risk is an internal risk arising from the people and processes within the organization. 15. B is correct. Liquidity risk is also called transaction cost risk. When the bid–ask spread widens, purchase and sale transactions become increasingly costly. The risk arises from the uncertainty of the spread. 16. C is correct. Settlement risk is related to default risk but deals with the timing of payments rather than the risk of default. 17. A is correct. The VaR measure indicates the probability of a loss of at least a certain level in a time period. 18. C is correct. Risk acceptance is similar to self-insurance. An organization choosing to self-insure may set up a reserve fund to cover losses. Buying insurance is a form of risk transfer and using derivatives is a form of risk-shifting, not risk acceptance. 19. C is correct. Among the risk-modification methods of risk avoidance, risk acceptance, risk transfer, and risk shifting none has a clear advantage. One must weigh benefits and costs in light of the firm’s risk tolerance when choosing the method to use. 20. B is correct. Adding a risk budgeting process causes the organization to consider how its total risk tolerance will be allocated across its subsidiaries. Either the total Introduction to Risk Management Faculty: Page 8 of 10 current risks the subsidiaries are engaging in will exceed the risk tolerance and subsidiaries will have to compete for risk by demonstrating highest returns per unit of risk or the total current risks will be less than the risk tolerance and a search will be underway for the subsidiaries that can best utilize the remaining risk budget. The risk tolerance is determined and then sets the risk budget, rather than being determined by it. Hedging can be a part of risk budgeting if hedging produces the superior risk adjusted returns. 21. B is correct. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore, an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability. 22. C is correct. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability. 23. A is correct. A quality risk governance process takes a top-down approach and is charged with risk oversight for the entire organization. It should operate on an enterprise-wise basis rather than viewing each unit in isolation. It will determine the organization’s risk tolerance and provide a sense of the maximum loss the organization can absorb. 24. C is correct. IHK’s potential risk is settlement risk, which is a type of counterparty risk. Settlement risk deals with the settling of payments that occur just before a default. If IHK wires the euros to GED and GED then declares bankruptcy, IHK will not be able to get the money back. 25. B is correct. Risk budgeting quantifies and allocates the tolerable risk according to specific metrics. A risk budget can be multidimensional or a simple, one-dimensional risk measure, such as standard deviation, beta, value at risk, or scenario loss, among others. 26. B is correct. Risk transfer is accomplished through an insurance policy. A deductible in an insurance policy means the insured is bearing some of the risk of loss and thereby (partially) self-insuring. Hedging with derivatives accomplishes risk shifting, not risk transfer. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer. Introduction to Risk Management Faculty: Page 9 of 10</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Port-6-5",
+      "entry": {
+        "title": "2027 Portfolio Construction Mod6-Q5",
+        "itemBody": "<p>C is correct. Standard deviation is a measure of dispersion in a probability distribution and is used to describe the range of outcomes (minimum and maximum, centered on the expected outcome) that can occur with a particular probability. In contrast, duration measures the sensitivity of a security or portfolio to a change in market interest rates, and vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset. 28. A is correct. Model risk is the risk of using the wrong model to analyze an investment or the risk of using the right model for the analysis but using it incorrectly. Tail risk, although it involves unlikely but substantial losses, typically results from using inappropriate modeling assumptions such as assuming that returns are normally distributed. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems. 29. A is correct. Normally a role of the board of directors of a company, risk governance is where goals and responsibilities are defined and top-level decisions (such as determining the company’s risk tolerance) are made. 30. A is correct. Risk governance is the top-down process and guidance that directs risk management activities to align with and support the overall enterprise. 31. C is correct because although most risks have monetary consequences, there are a number of risks that are typically classified as non-financial in nature. These risks arise from a variety of sources, such as the relationship between the entity and counterparties, regulators, governments, the environment, suppliers, customers, and employees. The following three non-financial risks are related: regulatory risk, accounting risk, and tax risk. They could even be collectively referred to as compliance risk because they all deal with the matter of conforming to policies, laws, rules, and regulations as set forth by governments and authoritative bodies, such as accounting governing boards. 32. C is correct because, in the context of risk management, factors such as a company’s goals, its expertise in certain areas, and its strategies will help a board determine which risks the company may pursue and with how much intensity. The government and regulatory landscape is important too, both in their ex ante demands on how companies approach risk and in the likely ex post reaction in the event of disasters. 33. C is correct because the sensitivity of the derivative price to a small change in the value of the underlying asset is called the delta. Large changes are captured by the Introduction to Risk Management Faculty: Page 10 of 10 concept of gamma. Whereas delta is a first-order risk, gamma is considered a second-order risk because it reflects the risk of changes in delta. Gamma is a numerical measure of how sensitive an option’s delta is to a change in the value of the underlying. 34. B is correct because a good risk management process would include a deep discussion at the governance level about the balance between the likely returns and the unlikely—but sizable—losses and whether such losses are tolerable. 35. C is correct because with a probability of 5% and a measurement period of one day, we can interpret the bank’s VaR as expecting a minimum loss of £5 million once every 20 business days. 36. C is correct because the statistics used to estimate VaR can be used to gauge average extreme losses. Conditional VaR or CVaR is a common tail loss measure, defined as the weighted average of all loss outcomes in the statistical distribution that exceed the VaR loss. Another tail risk metric in the credit risk space that is analogous to CVaR is expected loss given default, which answers the question for a debt security, If the underlying company or asset defaults, how much do we lose on average? 37. B is correct because risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company’s or portfolio’s value. Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk. 38. B is correct because the risk management industry has come to classify three types of risks as primarily financial in nature and the second primary financial risk is credit risk. 39. C is correct because risk governance is the top-down (not bottom-up) process and guidance that directs risk management activities to align with and support the overall enterprise. 40. A is correct because one major benefit of even the most basic risk budgeting is that it forces risk trade-offs and supports a culture in which risk is considered as a part of all key decisions. 41. A is correct. The process of risk monitoring, mitigation, and management is the most obvious facet of the risk management framework and requires recognizing when risk exposure is not aligned with risk tolerance.</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

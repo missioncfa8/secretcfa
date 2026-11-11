@@ -1,0 +1,1665 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Economics_4",
+  "curriculum_year": "2027",
+  "topic": "Economics",
+  "module_number": 4,
+  "module_name": "Monetary Policy",
+  "question_count": 39,
+  "points_possible": 39.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Economics - Module 4 Monetary Policy",
+    "topic": "Economics",
+    "module_id": 4,
+    "question_count": 39,
+    "type": "practice",
+    "points_possible": 39.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Econ-4-1",
+      "entry": {
+        "title": "2027 Economics Mod4-Q1",
+        "itemBody": "<p>When a central bank announces a decrease in its official policy rate, the desired impact is an increase in:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Investment is expected to move inversely with the official policy rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bc6f71fc-f930-453d-97ea-1b0071a11a03",
+              "itemBody": "<p>A. investment.</p>",
+              "position": 1
+            },
+            {
+              "id": "ec3c1a43-fbdb-4e47-ba8f-84cbc99ee828",
+              "itemBody": "<p>B. interbank borrowing rates.</p>",
+              "position": 2
+            },
+            {
+              "id": "2a886cf2-326f-4630-b43a-6ea3bb7a8cfd",
+              "itemBody": "<p>C. the national currency’s value in exchange for other currencies.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bc6f71fc-f930-453d-97ea-1b0071a11a03"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-2",
+      "entry": {
+        "title": "2027 Economics Mod4-Q2",
+        "itemBody": "<p>Which action is a central bank least likely to take if it wants to encourage businesses and households to borrow for investment and consumption purposes?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Such action would tend to constrict the money supply and increase  \ninterest rates, all else being equal.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0ead5330-2c1b-4033-a68d-6bc6bfe5e6c4",
+              "itemBody": "<p>A. Sell long-dated government securities</p>",
+              "position": 1
+            },
+            {
+              "id": "94761bf7-71de-40e7-95be-61c595a53674",
+              "itemBody": "<p>B. Purchase long-dated government treasuries</p>",
+              "position": 2
+            },
+            {
+              "id": "5552032f-35bb-4301-b202-4c83073fce06",
+              "itemBody": "<p>C. Purchase mortgage bonds or other securities</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0ead5330-2c1b-4033-a68d-6bc6bfe5e6c4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-3",
+      "entry": {
+        "title": "2027 Economics Mod4-Q3",
+        "itemBody": "<p>A central bank’s repeated open market purchases of government bonds:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The purchase of government bonds through open market operations  \nincreases banking reserves and the money supply; it is consistent with an expansionary \nmonetary policy.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c6a6845a-4779-4da0-8924-df705cdb8fd2",
+              "itemBody": "<p>A. decreases the money supply.</p>",
+              "position": 1
+            },
+            {
+              "id": "e6442e8d-8439-4c63-8c6b-4aff30497a22",
+              "itemBody": "<p>B. is prohibited in most countries.</p>",
+              "position": 2
+            },
+            {
+              "id": "d4b93f98-6df1-4e67-adcb-eb2b61f03895",
+              "itemBody": "<p>C. is consistent with an expansionary monetary policy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d4b93f98-6df1-4e67-adcb-eb2b61f03895"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-4",
+      "entry": {
+        "title": "2027 Economics Mod4-Q4",
+        "itemBody": "<p>A prolonged period of an official interest rate very close to zero without an increase in economic growth most likely suggests:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. A central bank would decrease an official interest rate to stimulate the \neconomy. The setting in which an official interest rate is lowered to zero (or  even \nslightly below zero) without stimulating economic growth suggests that  there are \nlimits to monetary policy.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "366036fb-4723-4e84-921e-965aa3b28fef",
+              "itemBody": "<p>A. quantitative easing must be limited to be successful.</p>",
+              "position": 1
+            },
+            {
+              "id": "0e0a7f04-7672-42ef-9ea4-65c83c3fcae4",
+              "itemBody": "<p>B. the effectiveness of monetary policy may be limited.</p>",
+              "position": 2
+            },
+            {
+              "id": "693641d7-c329-4298-b24c-878ab90a446e",
+              "itemBody": "<p>C. targeting reserve levels is more important than targeting interest rates.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0e0a7f04-7672-42ef-9ea4-65c83c3fcae4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-5",
+      "entry": {
+        "title": "2027 Economics Mod4-Q5",
+        "itemBody": "<p>Raising the reserve requirement is most likely an example of which type of monetary policy?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Raising reserve requirements should slow money supply growth.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4de17013-5393-4956-bd3e-303dc74687e6",
+              "itemBody": "<p>A. Neutral</p>",
+              "position": 1
+            },
+            {
+              "id": "03332c59-369a-48b5-b892-6ca2842f3719",
+              "itemBody": "<p>B. Expansionary</p>",
+              "position": 2
+            },
+            {
+              "id": "817a0094-2cf3-433f-94cc-d7d787493a7c",
+              "itemBody": "<p>C. Contractionary</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "817a0094-2cf3-433f-94cc-d7d787493a7c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-6",
+      "entry": {
+        "title": "2027 Economics Mod4-Q6",
+        "itemBody": "<p>Which of the following is a limitation on the ability of central banks to stimulate growth in periods of deflation?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. Deflation poses a challenge to conventional monetary policy because once \nthe central bank has cut nominal interest rates to zero (or slightly less than zero) to \nstimulate the economy, they cannot cut them further.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "eaabd3d1-59a4-4685-a159-e3ab8d06b415",
+              "itemBody": "<p>A. Ricardian equivalence</p>",
+              "position": 1
+            },
+            {
+              "id": "2b7abaa1-eb8b-46b7-adfe-6d8957337086",
+              "itemBody": "<p>B. Interaction of monetary and fiscal policy</p>",
+              "position": 2
+            },
+            {
+              "id": "64689c0a-454b-43a2-9504-0e9e706aabe2",
+              "itemBody": "<p>C. Interest rates cannot fall significantly below zero</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "64689c0a-454b-43a2-9504-0e9e706aabe2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-7",
+      "entry": {
+        "title": "2027 Economics Mod4-Q7",
+        "itemBody": "<p>The least likely limitation to the effectiveness of monetary policy is that central banks cannot:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The inability to determine exactly the neutral rate of interest does not \nnecessarily limit the power of monetary policy.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bd1baea8-fc27-459b-bac4-8498d5b20c49",
+              "itemBody": "<p>A. accurately determine the neutral rate of interest.</p>",
+              "position": 1
+            },
+            {
+              "id": "48fcbff9-fb09-43d9-a5bc-0afc7d5b7dbc",
+              "itemBody": "<p>B. regulate the willingness of financial institutions to lend.</p>",
+              "position": 2
+            },
+            {
+              "id": "fb0970ae-6c28-4861-aa7c-c5c727bf4096",
+              "itemBody": "<p>C. control amounts that economic agents deposit into banks. Monetary Policy Faculty: Page 2 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "bd1baea8-fc27-459b-bac4-8498d5b20c49"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-8",
+      "entry": {
+        "title": "2027 Economics Mod4-Q8",
+        "itemBody": "<p>Quantitative easing, the purchase of government or private securities by the central banks from individuals or institutions, is an example of which monetary policy stance?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Quantitative easing is an example of an expansionary monetary  policy \nstance. It attempts to spur aggregate demand by drastically increasing the  money \nsupply.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "04a5dfcf-acf0-4a57-b199-3033d97f13cc",
+              "itemBody": "<p>A. Neutral</p>",
+              "position": 1
+            },
+            {
+              "id": "1bcaba80-d6dd-4ef5-b3d3-9e718cb5dda3",
+              "itemBody": "<p>B. Expansionary</p>",
+              "position": 2
+            },
+            {
+              "id": "c1448281-8515-4f4e-a1b8-c112fb02d029",
+              "itemBody": "<p>C. Contractionary</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1bcaba80-d6dd-4ef5-b3d3-9e718cb5dda3"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-9",
+      "entry": {
+        "title": "2027 Economics Mod4-Q9",
+        "itemBody": "<p>If there is a policy rate of 3%, a real trend rate of growth in the underlying economy of 1%, and long -run expected inflation of 3%, then the central bank policy stance operating within a credible inflation -targeting regime is best described as:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. A real trend rate of growth of 1%, coupled with 3% long -run expected \ninflation, suggests a 4% neutral rate of interest that neither spurs on nor slows down \nthe underlying economy. The 3% policy rate is less than the 4% neutral rate of \ninterest. When the policy rate is below the neutral rate, monetary policy is described \nas expansionary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b62c6283-c341-4df6-97f6-73a5b18f65a7",
+              "itemBody": "<p>A. neutral.</p>",
+              "position": 1
+            },
+            {
+              "id": "958a4f0a-0206-4eab-b485-b26b9c96ba1d",
+              "itemBody": "<p>B. contractionary.</p>",
+              "position": 2
+            },
+            {
+              "id": "4c738029-c2b3-4561-ad1f-6cff523d129f",
+              "itemBody": "<p>C. expansionary.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4c738029-c2b3-4561-ad1f-6cff523d129f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-10",
+      "entry": {
+        "title": "2027 Economics Mod4-Q10",
+        "itemBody": "<p>The tools used by central banks to implement monetary policy most likely include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Central banks have three primary tools available to them: open market \noperations, setting the official policy rate, and reserve requirements.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4f3466a1-b078-4519-b6ac-3d3aec634bda",
+              "itemBody": "<p>A. transfer payments.</p>",
+              "position": 1
+            },
+            {
+              "id": "fb4e95c2-e231-46f2-ab34-f8155edd21ca",
+              "itemBody": "<p>B. open market operations.</p>",
+              "position": 2
+            },
+            {
+              "id": "853d5ded-9a8b-4356-a330-f9b59e6cbc6d",
+              "itemBody": "<p>C. raising or lowering income taxes.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fb4e95c2-e231-46f2-ab34-f8155edd21ca"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-11",
+      "entry": {
+        "title": "2027 Economics Mod4-Q11",
+        "itemBody": "<p>As a monetary policy tool, quantitative easing (QE) will most likely help revive an ailing economy in which of the following environments?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Quantitative easing (QE) is an “unconventional” approach to monetary \npolicy and is operationally similar to open market purchase operations but conducted \non a much larger scale. The additional reserves created by central banks in a policy \nof quantitative easing can be used to buy any assets. The idea is that this additional \nreserve will kick -start lending, causing broad money growth to expand, which will \neventually lead to an increase in real economic activity. \n \nMonetary Policy \nFaculty:                                                                         Page 8 of 10</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2014bd32-ca36-49a9-bc8a-7fc8e553b035",
+              "itemBody": "<p>A. Deflationary trap</p>",
+              "position": 1
+            },
+            {
+              "id": "5f835c34-4c29-4c8d-9508-fb97213d70de",
+              "itemBody": "<p>B. Declining bank reserves and economic activity</p>",
+              "position": 2
+            },
+            {
+              "id": "3ee2dbb5-bd2c-4e33-aeb3-36b9e4da64a4",
+              "itemBody": "<p>C. Liquidity trap</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5f835c34-4c29-4c8d-9508-fb97213d70de"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-12",
+      "entry": {
+        "title": "2027 Economics Mod4-Q12",
+        "itemBody": "<p>Given stable inflation, a tight fiscal policy accompanied by easy monetary policy will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. If tight fiscal policy is accompanied by easy monetary policy and low \ninterest rates, the private sector will be stimulated and will increase as a share of \nGDP.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a68b4248-3937-4afc-b723-0a59ebcd6e0e",
+              "itemBody": "<p>A. increase the private sector share of GDP.</p>",
+              "position": 1
+            },
+            {
+              "id": "7003f80d-310b-46ce-9928-740cd5ff2ecd",
+              "itemBody": "<p>B. have no impact on the private sector share of GDP.</p>",
+              "position": 2
+            },
+            {
+              "id": "19ed561f-141d-42b2-85ac-fdcbd60e0422",
+              "itemBody": "<p>C. decrease the private sector share of GDP.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a68b4248-3937-4afc-b723-0a59ebcd6e0e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-13",
+      "entry": {
+        "title": "2027 Economics Mod4-Q13",
+        "itemBody": "<p>In an effort to influence the economy, a central bank conducted open market activities by selling government bonds. This action implies that the central bank is most likely attempting to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. Selling government bonds results in a reduction of bank reserves and \nreduces their ability to lend, causing a decline in money growth through the multiplier \nmechanism and hence a contraction in the economy.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "92b09deb-e631-4f9d-aa8c-44cc123cd9fd",
+              "itemBody": "<p>A. contract the economy by reducing bank reserves.</p>",
+              "position": 1
+            },
+            {
+              "id": "b3489976-3088-4700-936c-d43f652b3f9f",
+              "itemBody": "<p>B. expand the economy through a lower policy interest rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "69992487-3b38-48f7-a05a-c9d4fd6213e7",
+              "itemBody": "<p>C. contract the economy through a lower policy interest rate.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "92b09deb-e631-4f9d-aa8c-44cc123cd9fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-14",
+      "entry": {
+        "title": "2027 Economics Mod4-Q14",
+        "itemBody": "<p>The transmission of a central bank’s policy rate action through the economy ultimately affects:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The monetary transmission mechanism is the process whereby a central \nbank’s interest rate gets transmitted through the economy and ultimately affects \nthe rate of increase of prices (inflation).</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "21963b49-3e8c-49ad-a6ca-1c2ac1f5933b",
+              "itemBody": "<p>A. total demand.</p>",
+              "position": 1
+            },
+            {
+              "id": "2c8da0c9-b60d-4693-9141-29dc80e41618",
+              "itemBody": "<p>B. inflation.</p>",
+              "position": 2
+            },
+            {
+              "id": "8726936a-bb4c-4926-8727-bd3727691043",
+              "itemBody": "<p>C. long-term interest rates. Monetary Policy Faculty: Page 3 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2c8da0c9-b60d-4693-9141-29dc80e41618"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-15",
+      "entry": {
+        "title": "2027 Economics Mod4-Q15",
+        "itemBody": "<p>A developing country that maintains a fixed value for its currency relative to the US dollar is experiencing a decline in its economic activity, and its inflation rate falls below the level of inflation in the United States. The most likely result of the developing country’s actions to maintain the fixed exchange rate target is that its:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. With a decline in economic activity and domestic inflation, the currency \nof the developing country would start to rise against the dollar. To protect the \nexchange rate target, the developing country’s monetary authority will purchase \nforeign exchange reserves and sell its own currency. This will increase the domestic \nmoney supply, decrease short -term interest rates, and increase foreign exchange \nreserves.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d9269366-39e3-43d4-97dd-c079669bc0eb",
+              "itemBody": "<p>A. foreign exchange reserves will decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "0f9010e1-ad31-4d9c-b4ab-d88a3c4a8f61",
+              "itemBody": "<p>B. short-term interest rates will fall.</p>",
+              "position": 2
+            },
+            {
+              "id": "4d0d014a-fadc-4695-82bc-9dd465d75314",
+              "itemBody": "<p>C. money supply will contract.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0f9010e1-ad31-4d9c-b4ab-d88a3c4a8f61"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-16",
+      "entry": {
+        "title": "2027 Economics Mod4-Q16",
+        "itemBody": "<p>Which of the following actions on the part of a central bank is most consistent with increasing the quantity of money?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. When a central bank purchases securities, bank reserves increase. The \nbanks therefore have excess reserves and are able to increase their lending, \nincreasing the money supply.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0aa294e6-29bf-4e18-82f5-2873bdf154f5",
+              "itemBody": "<p>A. Increasing reserve requirements</p>",
+              "position": 1
+            },
+            {
+              "id": "1df0ac28-1885-4c81-9077-27e86cf32f6b",
+              "itemBody": "<p>B. Increasing the central bank policy rate</p>",
+              "position": 2
+            },
+            {
+              "id": "c9417a8f-0ff7-4777-8c99-baca53f5ce36",
+              "itemBody": "<p>C. Purchasing securities on the open market</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c9417a8f-0ff7-4777-8c99-baca53f5ce36"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-17",
+      "entry": {
+        "title": "2027 Economics Mod4-Q17",
+        "itemBody": "<p>Assuming wages and prices are rigid, which of the following policy combinations most likely leads to the private sector increasing its share of GDP?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because if a fiscal contraction is accompanied by expansionary monetary \npolicy and low interest rates, then the private sector will be stimulated and will rise \nas a share of GDP, while the public sector will shrink.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3a9c5124-fcf0-42c5-b187-42c75bec43c1",
+              "itemBody": "<p>A. Easy fiscal policy and tight monetary policy</p>",
+              "position": 1
+            },
+            {
+              "id": "9090ee63-3b92-410a-934d-1b4865ea91cc",
+              "itemBody": "<p>B. Tight monetary policy and tight fiscal policy</p>",
+              "position": 2
+            },
+            {
+              "id": "058ca44a-f99e-4c19-8d5c-9b8e2a14de54",
+              "itemBody": "<p>C. Tight fiscal policy and easy monetary policy</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "058ca44a-f99e-4c19-8d5c-9b8e2a14de54"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-18",
+      "entry": {
+        "title": "2027 Economics Mod4-Q18",
+        "itemBody": "<p>The main objective of most central banks is to maintain:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because for a central bank there is one overarching objective that most \nseem to acknowledge explicitly, and that is the objective of maintaining price \nstability.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a290000c-08a5-47ba-bb81-6a5959a2c357",
+              "itemBody": "<p>A. price stability.</p>",
+              "position": 1
+            },
+            {
+              "id": "3c1c2c0d-3f57-4707-a125-02cc6a2fab31",
+              "itemBody": "<p>B. gold reserves.</p>",
+              "position": 2
+            },
+            {
+              "id": "152ebc3b-87e5-4af1-b64f-ea3048de2dbb",
+              "itemBody": "<p>C. an employment target.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a290000c-08a5-47ba-bb81-6a5959a2c357"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-19",
+      "entry": {
+        "title": "2027 Economics Mod4-Q19",
+        "itemBody": "<p>The neutral policy rate is equal to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the neutral policy rate for any economy comprises two \ncomponents: Real trend rate of growth of the underlying economy, and long -run \nexpected inflation. Also note Neutral rate = Trend growth + Inflation target.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "aebdd7b5-39d6-456b-b630-47f801eb930c",
+              "itemBody": "<p>A. long-run expected inflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "1646c1ff-8ce5-49f8-824b-6bdc396560d2",
+              "itemBody": "<p>B. the real trend rate of growth of the underlying economy.</p>",
+              "position": 2
+            },
+            {
+              "id": "8e886753-827c-4f46-9800-730a0c272044",
+              "itemBody": "<p>C. long-run expected inflation plus the real trend rate of growth of the underlying economy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "8e886753-827c-4f46-9800-730a0c272044"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-20",
+      "entry": {
+        "title": "2027 Economics Mod4-Q20",
+        "itemBody": "<p>As an economy moves from the gold standard to a system of fiat currency, the role of the central bank most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because once an economy has moved to a system of fiat money, the role \nof the supplier of that money (the central bank) becomes even more crucial because \nthey could, for example, expand the supply of this money indefinitely should they \nwish to do so. Central banks therefore play a crucial role in modern economies as the \nsuppliers and guardians of the value of their fiat currencies and as institutions \ncharged with the role of maintaining confidence in their currencies.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b6ca97da-7784-451a-aa35-2c7cb7c91d72",
+              "itemBody": "<p>A. becomes less crucial.</p>",
+              "position": 1
+            },
+            {
+              "id": "a2cb6ea5-ed19-45a0-956e-3c17e222cfb4",
+              "itemBody": "<p>B. remains unchanged.</p>",
+              "position": 2
+            },
+            {
+              "id": "e10df59f-29f8-44de-a57d-8554e69694e8",
+              "itemBody": "<p>C. becomes more crucial.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e10df59f-29f8-44de-a57d-8554e69694e8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-21",
+      "entry": {
+        "title": "2027 Economics Mod4-Q21",
+        "itemBody": "<p>A decrease in taxes and an increase in interest rates most likely reflect:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because decreasing taxes reflects easy fiscal policy. If taxes are cut \nthe expansionary fiscal policy will lead to a rise in aggregate output. Increasing \nMonetary Policy \nFaculty:                                                                         Page 9 of 10 \n \ninterest rates reflects tight monetary policy. If this is accompanied by a reduction \nin money supply to offset the fiscal expansion, then interest rates will rise.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f1e46157-8c36-474d-8667-a6afb167be5d",
+              "itemBody": "<p>A. easy fiscal policy and tight monetary policy.</p>",
+              "position": 1
+            },
+            {
+              "id": "45de5d31-9b47-4675-a5a1-f30c78158b32",
+              "itemBody": "<p>B. tight fiscal policy and easy monetary policy.</p>",
+              "position": 2
+            },
+            {
+              "id": "dc455f56-cd4e-4e71-8cc6-c12c557ef335",
+              "itemBody": "<p>C. tight fiscal policy and tight monetary policy. Monetary Policy Faculty: Page 4 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1e46157-8c36-474d-8667-a6afb167be5d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-22",
+      "entry": {
+        "title": "2027 Economics Mod4-Q22",
+        "itemBody": "<p>If an economy has a long-term growth potential of 2% per year and the central bank's inflation target is 3% per year, the neutral rate of interest is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because the Neutral rate = Trend growth + Inflation target = 2% + 3% = \n5%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ea0bc660-ca65-4289-b80f-7318b0073e07",
+              "itemBody": "<p>A. 1%.</p>",
+              "position": 1
+            },
+            {
+              "id": "d3576e1b-707e-4256-b30c-539db4108f3a",
+              "itemBody": "<p>B. 3%.</p>",
+              "position": 2
+            },
+            {
+              "id": "c324692f-c866-450a-a43e-d5bf8ea51cd7",
+              "itemBody": "<p>C. 5%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c324692f-c866-450a-a43e-d5bf8ea51cd7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-23",
+      "entry": {
+        "title": "2027 Economics Mod4-Q23",
+        "itemBody": "<p>The inflation target of an effective central bank is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because an inflation-targeting framework normally has a clear, symmetric \nand forward-looking medium-term inflation target, sufficiently above 0 percent to \navoid the risk of deflation but low enough to ensure a significant degree of price \nstability.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ea1cbdac-23b6-45d1-9c71-609ee49e69d4",
+              "itemBody": "<p>A. equal to zero to avoid the risk of deflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "c0b17ce7-86a3-499f-ae6f-bc922e4e924f",
+              "itemBody": "<p>B. sufficiently below zero to maintain high credibility.</p>",
+              "position": 2
+            },
+            {
+              "id": "9fb2df02-1f48-4acb-8f8c-3b0da218a5f7",
+              "itemBody": "<p>C. low enough to ensure a significant degree of price stability.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "9fb2df02-1f48-4acb-8f8c-3b0da218a5f7"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-24",
+      "entry": {
+        "title": "2027 Economics Mod4-Q24",
+        "itemBody": "<p>Which of the following is most likely to limit the effectiveness of monetary policy?</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because there may be occasions where the demand for money becomes \ninfinitely elastic so that further injections of money into the economy will not serve \nto further lower interest rates or affect real activity. This is known as a liquidity \ntrap. In this ex treme circumstance, monetary policy can become completely \nineffective.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2a246a4a-5df6-456d-b63b-ae2e89118b93",
+              "itemBody": "<p>A. A liquidity trap</p>",
+              "position": 1
+            },
+            {
+              "id": "01fc9cc8-5da3-4cf9-9148-2159232c33ce",
+              "itemBody": "<p>B. The crowding out effect</p>",
+              "position": 2
+            },
+            {
+              "id": "e2cda65a-1ab2-4759-92a3-238f0846c0d4",
+              "itemBody": "<p>C. A time lag to implement government spending</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "2a246a4a-5df6-456d-b63b-ae2e89118b93"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-25",
+      "entry": {
+        "title": "2027 Economics Mod4-Q25",
+        "itemBody": "<p>When a central bank sells government bonds to commercial banks, broad money growth:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because when a central bank sells government bonds to a commercial \nbank the reserves of commercial banks decline, reducing their capacity to make loans \n(i.e., create credit) to households and corporations and thus causing broad money \ngrowth to decline through the money multiplier mechanism.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "900b50f4-fc86-4b1b-ac3f-17b438707135",
+              "itemBody": "<p>A. decreases.</p>",
+              "position": 1
+            },
+            {
+              "id": "0f34a082-1414-46b9-be6e-48bf7280e2ba",
+              "itemBody": "<p>B. remains the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "4a8d1e05-9543-413a-94ab-a6e7955899a3",
+              "itemBody": "<p>C. increases.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "900b50f4-fc86-4b1b-ac3f-17b438707135"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-26",
+      "entry": {
+        "title": "2027 Economics Mod4-Q26",
+        "itemBody": "<p>Independence, credibility, and transparency are most likely:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because although inflation-targeting regimes vary a little from economy \nto economy, their success is thought to depend on three key concepts: central bank \nindependence, credibility, and transparency.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c9fd03c2-af02-485f-958f-a17759fddf44",
+              "itemBody": "<p>A. key objectives of fiscal policy.</p>",
+              "position": 1
+            },
+            {
+              "id": "112d1c2a-f016-4da8-a6d0-214c302dc3c3",
+              "itemBody": "<p>B. properties of the monetary transmission mechanism.</p>",
+              "position": 2
+            },
+            {
+              "id": "396e919e-4f76-481f-b818-3d3f275fdc56",
+              "itemBody": "<p>C. qualities that determine the success of an inflation-targeting central bank.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "396e919e-4f76-481f-b818-3d3f275fdc56"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-27",
+      "entry": {
+        "title": "2027 Economics Mod4-Q27",
+        "itemBody": "<p>With respect to conventional monetary policy, combating inflation is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because deflation is more difficult for conventional monetary policy to \ndeal with than inflation. This is because once the monetary authority has cut nominal \ninterest rates to zero to stimulate the economy, it cannot cut them any further.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "885e881a-fde4-4ad0-a7a3-3f0c6b67b32f",
+              "itemBody": "<p>A. less difficult than combating deflation.</p>",
+              "position": 1
+            },
+            {
+              "id": "9295b378-ba30-40b7-a5b5-7bf27d5b931b",
+              "itemBody": "<p>B. equally difficult as combating deflation.</p>",
+              "position": 2
+            },
+            {
+              "id": "92cb5873-77df-432f-a79b-d18824ece80b",
+              "itemBody": "<p>C. more difficult than combating deflation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "885e881a-fde4-4ad0-a7a3-3f0c6b67b32f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-28",
+      "entry": {
+        "title": "2027 Economics Mod4-Q28",
+        "itemBody": "<p>Fiat money:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because fiat money derives its value via government decree and because \npeople accept it for payment of goods and services and for debt repayment.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1c324ae1-0ac6-4d18-b581-27b4c1de61d3",
+              "itemBody": "<p>A. is not currently used in any major economy.</p>",
+              "position": 1
+            },
+            {
+              "id": "36fe8ecc-959a-446d-b3bf-13225819fe62",
+              "itemBody": "<p>B. can be exchanged for a precious metal at the country's central bank.</p>",
+              "position": 2
+            },
+            {
+              "id": "0678afdd-5c75-4978-92ff-3b05e4b2261c",
+              "itemBody": "<p>C. derives its value via government decree and because people accept it for payment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0678afdd-5c75-4978-92ff-3b05e4b2261c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-29",
+      "entry": {
+        "title": "2027 Economics Mod4-Q29",
+        "itemBody": "<p>Which of the following is a limitation of monetary policy?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because this is a limitation of monetary policy. The limitations of \nmonetary policy include problems in the transmission mechanism and the relative \nineffectiveness of interest rate adjustment as a policy tool in deflationary \nenvironments.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "3dd0de6b-13d8-42e2-bc85-6b37c00858ba",
+              "itemBody": "<p>A. The presence of automatic stabilizers in the economy</p>",
+              "position": 1
+            },
+            {
+              "id": "27e10441-143d-413b-91ef-f2cfefc4a21c",
+              "itemBody": "<p>B. The ineffectiveness of interest rate adjustments in deflationary environments Monetary Policy Faculty: Page 5 of 10</p>",
+              "position": 2
+            },
+            {
+              "id": "f6f23ffe-7dc1-4577-9bbf-81d7a51a2d64",
+              "itemBody": "<p>C. The uneven distribution of income and wealth among different segments of the population</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "27e10441-143d-413b-91ef-f2cfefc4a21c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-30",
+      "entry": {
+        "title": "2027 Economics Mod4-Q30",
+        "itemBody": "<p>To be effective in targeting inflation a central bank is least likely to need:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because an inflation-targeting framework normally has an independent \nand credible central bank. Such an independent central back does not \nneed government oversight.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "34091eb0-174b-406f-b4da-ecc536432035",
+              "itemBody": "<p>A. government oversight.</p>",
+              "position": 1
+            },
+            {
+              "id": "052c2a8c-6b6c-4f64-855f-78b5eb2e5a5a",
+              "itemBody": "<p>B. transparency of decisions.</p>",
+              "position": 2
+            },
+            {
+              "id": "42751b8c-0ae3-475f-954c-3083ae07617b",
+              "itemBody": "<p>C. credibility with market participants.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "34091eb0-174b-406f-b4da-ecc536432035"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-31",
+      "entry": {
+        "title": "2027 Economics Mod4-Q31",
+        "itemBody": "<p>An analyst gathers the following data about an economy: Real trend growth rate 0.5% Central bank's policy rate 1.5% If monetary policy is contractionary, the central bank's inflation target is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because when policy rates are above the neutral rate, monetary policy is \ncontractionary; when they are below the neutral rate, monetary policy is \nexpansionary. The calculation of the neutral rate is as follows: Neutral rate = Trend \nMonetary Policy \nFaculty:                                                                         Page 10 of 10 \n \ngrowth + Inflation target. Therefore, if monetary policy is contractionary then the \npolicy rate (1.5%) must be greater than the neutral rate. Hence the long -term \ninflation rate must be less than 1.0% in order for the policy rate to be greater than \nthe neutral rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "87c5c33f-8560-45d8-a44e-9257170243fd",
+              "itemBody": "<p>A. less than 1.0%.</p>",
+              "position": 1
+            },
+            {
+              "id": "5c3bbdaa-c0a5-4eba-bab8-53d29af93577",
+              "itemBody": "<p>B. equal to 1.0%.</p>",
+              "position": 2
+            },
+            {
+              "id": "78ab2c9c-af0e-42a3-aec9-097bb4a190af",
+              "itemBody": "<p>C. greater than 1.0%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "87c5c33f-8560-45d8-a44e-9257170243fd"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-32",
+      "entry": {
+        "title": "2027 Economics Mod4-Q32",
+        "itemBody": "<p>To reduce inflation, a central bank most likely implements an interest rate policy that is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because when central banks  believe that economic activity is likely to \nlead to an increase in inflation, they might increase interest rates, thereby reducing \nliquidity. In these cases, market analysts describe such actions as contractionary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0ca00e3c-a585-4dab-8dfd-c8f5d90a4324",
+              "itemBody": "<p>A. contractionary.</p>",
+              "position": 1
+            },
+            {
+              "id": "fccf8bf9-b2d1-4555-8dd4-74a6c9377abb",
+              "itemBody": "<p>B. neutral.</p>",
+              "position": 2
+            },
+            {
+              "id": "648c82a2-00e9-45cc-95a3-da828ee4900e",
+              "itemBody": "<p>C. expansionary.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0ca00e3c-a585-4dab-8dfd-c8f5d90a4324"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-33",
+      "entry": {
+        "title": "2027 Economics Mod4-Q33",
+        "itemBody": "<p>Under which of the following conditions is monetary policy most effective? When the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because deflation is more problematic for the central bank than inflation. \nDeflation is a pervasive and persistent fall in a general price index and is more \ndifficult for conventional monetary policy to deal with than inflation. This is because \ncutting nominal interest rates much below zero to stimulate the economy is difficult. \nIt is at this point that the economic conditions for a liquidity trap arise.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "758546d4-ad6c-4962-a6cf-0f576d0c69be",
+              "itemBody": "<p>A. demand for money is infinitely elastic.</p>",
+              "position": 1
+            },
+            {
+              "id": "e18145b6-f927-4d47-88a7-01318fb82ded",
+              "itemBody": "<p>B. central bank targets an exchange rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "860469ce-b1e7-4d98-9e0b-420df4bbd7ce",
+              "itemBody": "<p>C. risk of inflation is greater than deflation.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "860469ce-b1e7-4d98-9e0b-420df4bbd7ce"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-34",
+      "entry": {
+        "title": "2027 Economics Mod4-Q34",
+        "itemBody": "<p>Which of the following monetary policy actions is most likely considered expansionary? The central bank:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because if the central bank wishes to increase the supply of money, it \nmight buy bonds (usually government bonds) from the banks, with an agreement to \nsell them back at some time in the future. This transaction is known as a repurchase \nagreement. The lender in a repurchase agreement is the party that initially buys the \nbonds and agrees to sell them back at a later point in time. By purchasing bonds from \nbanks, the central bank is increasing the money supply, or increasing liquidity, which \nis expansionary.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5c0ae41b-28a0-4c8b-9991-b2aa8d1a3a52",
+              "itemBody": "<p>A. acts as the lender in a repurchase agreement.</p>",
+              "position": 1
+            },
+            {
+              "id": "354f2a79-a318-4092-9537-d1387182bd13",
+              "itemBody": "<p>B. sells government bonds to commercial banks.</p>",
+              "position": 2
+            },
+            {
+              "id": "5abdd882-d535-40a1-9ba4-820a844be3d2",
+              "itemBody": "<p>C. raises reserve requirements of commercial banks.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5c0ae41b-28a0-4c8b-9991-b2aa8d1a3a52"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-35",
+      "entry": {
+        "title": "2027 Economics Mod4-Q35",
+        "itemBody": "<p>The overarching objective of most central banks is to maintain:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because there is one overarching objective that most central banks seem \nto acknowledge explicitly, and that is the objective of maintaining price stability.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7ba6ed2a-c09f-44d6-9e97-677fa9396b2d",
+              "itemBody": "<p>A. price stability.</p>",
+              "position": 1
+            },
+            {
+              "id": "22971633-9e18-41e4-ae19-1c489f8b0890",
+              "itemBody": "<p>B. full employment.</p>",
+              "position": 2
+            },
+            {
+              "id": "120bdd39-61a6-44c0-9750-e9f295d5e19c",
+              "itemBody": "<p>C. the government's ability to service its debt. Monetary Policy Faculty: Page 6 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7ba6ed2a-c09f-44d6-9e97-677fa9396b2d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-36",
+      "entry": {
+        "title": "2027 Economics Mod4-Q36",
+        "itemBody": "<p>All else being equal, and assuming that wages and prices of goods are rigid, a decrease in government spending and decreasing interest rates most likely reflect:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because it's a tight fiscal policy/easy monetary policy: if a fiscal \ncontraction is accompanied by expansionary monetary policy and low interest rates, \nthen the private sector will be stimulated and will rise as a share of GDP, while the \npublic sector wil l shrink. Falling government spending leads  to a drop in aggregate \ndemand or contraction.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fcaa5449-f88c-4f5c-a062-e59ecceb40be",
+              "itemBody": "<p>A. easy fiscal policy and easy monetary policy.</p>",
+              "position": 1
+            },
+            {
+              "id": "c5c2c025-ca46-4978-b95e-0839e144f8e0",
+              "itemBody": "<p>B. tight fiscal policy and easy monetary policy.</p>",
+              "position": 2
+            },
+            {
+              "id": "e5725b45-9255-412e-9ae1-c6e47f4580c8",
+              "itemBody": "<p>C. easy fiscal policy and tight monetary policy.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c5c2c025-ca46-4978-b95e-0839e144f8e0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-37",
+      "entry": {
+        "title": "2027 Economics Mod4-Q37",
+        "itemBody": "<p>A role of most central banks is to:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because central banks play several key roles in modern economies. \nGenerally, a central bank is the regulator and supervisor of the payments system.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "dd1d2604-abcc-41ec-893a-b75d569eeb29",
+              "itemBody": "<p>A. set income tax rates.</p>",
+              "position": 1
+            },
+            {
+              "id": "467d9893-517e-40f5-91b3-9c40a97f659f",
+              "itemBody": "<p>B. decide on government expenditures.</p>",
+              "position": 2
+            },
+            {
+              "id": "43be6de7-29b3-41bf-bca6-71ae7359aa99",
+              "itemBody": "<p>C. regulate their country's payments system.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "43be6de7-29b3-41bf-bca6-71ae7359aa99"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-38",
+      "entry": {
+        "title": "2027 Economics Mod4-Q38",
+        "itemBody": "<p>If contractionary fiscal policy and expansionary monetary policy have offsetting effects on GDP, the public sector's share of GDP will most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because if a fiscal contraction is accompanied by expansionary monetary \npolicy and low interest rates, then the private sector will be stimulated and will rise \nas a share of GDP, while the public sector will shrink.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "be7af3f2-eb2a-45d9-aed9-90ef9c5890a0",
+              "itemBody": "<p>A. decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "c0a3f56d-bd62-4d4e-b144-fa88b0c4c756",
+              "itemBody": "<p>B. remain the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "525f5be4-24b1-4c66-82e9-64031abce811",
+              "itemBody": "<p>C. increase.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "be7af3f2-eb2a-45d9-aed9-90ef9c5890a0"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Econ-4-39",
+      "entry": {
+        "title": "2027 Economics Mod4-Q39",
+        "itemBody": "<p>The primary monetary policy goal of most major central banks is best characterized as:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The primary monetary policy goal of most major central banks is to \nmaintain price stability.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "76f3c574-a43a-4669-adcd-06b8971e9809",
+              "itemBody": "<p>A. maintaining price stability.</p>",
+              "position": 1
+            },
+            {
+              "id": "07bb084d-204d-49cf-b2c0-f820443ea68b",
+              "itemBody": "<p>B. stimulating economic growth.</p>",
+              "position": 2
+            },
+            {
+              "id": "84f991ec-ab06-4435-b408-8c3a7a348a51",
+              "itemBody": "<p>C. maintaining low interest rates. SUMMARY: - (LOS 15.a): – 1, 15, 18, 20, 28, 35, 37, 39. (LOS 15.b): – 2, 3, 5, 10, 13, 14, 16, 19, 22, 25, 32, 34. (LOS 15.c): – 4, 6, 7, 8, 9, 11, 23, 24, 26, 27, 29, 30, 33. (LOS 15.d): – 12, 17, 21, 31, 36, 38. Monetary Policy Faculty: Page 7 of 10</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "76f3c574-a43a-4669-adcd-06b8971e9809"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

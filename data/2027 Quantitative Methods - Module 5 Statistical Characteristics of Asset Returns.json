@@ -1,0 +1,741 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Quantitative Methods_5",
+  "curriculum_year": "2027",
+  "topic": "Quantitative Methods",
+  "module_number": 5,
+  "module_name": "Statistical Characteristics of Asset Returns",
+  "question_count": 17,
+  "points_possible": 17.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Quantitative Methods - Module 5 Statistical Characteristics of Asset Returns",
+    "topic": "Quantitative Methods",
+    "module_id": 5,
+    "question_count": 17,
+    "type": "practice",
+    "points_possible": 17.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Quan-5-1",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q1",
+        "itemBody": "<p>The annual returns for three portfolios are shown in the following table. Portfolios P and R were created in Year 1. Portfolio Q was created in Year 2. Annual Portfolio Returns (%) Year 1 Year 2 Year 3 Year 4 Year 5 Portfolio P −3.0 4.0 5.0 3.0 7.0 Portfolio Q NA −3.0 6.0 4.0 8.0 Portfolio R 1.0 −1.0 4.0 4.0 3.0 The median annual return from the time the portfolio is created to Year 5 for:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cf76f8ec-6516-4667-8492-be4ee1d35026",
+              "itemBody": "<p>A. Portfolio P is 4.5%.</p>",
+              "position": 1
+            },
+            {
+              "id": "2a6624da-902f-4b30-b80e-f28b9b5a9e2e",
+              "itemBody": "<p>B. Portfolio Q is 4.0%.</p>",
+              "position": 2
+            },
+            {
+              "id": "da8bb997-f80e-4f5d-aada-9e2efd8fd28e",
+              "itemBody": "<p>C. Portfolio R is higher than its arithmetic annual return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cf76f8ec-6516-4667-8492-be4ee1d35026"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-2",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q2",
+        "itemBody": "<p>What is the purpose of dividing data into quantiles?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fb7092ec-78db-4ca3-928f-cc7f95434770",
+              "itemBody": "<p>A. To rank the data in ascending order only</p>",
+              "position": 1
+            },
+            {
+              "id": "fc8db313-ff03-43eb-8e39-3e66c1358d5c",
+              "itemBody": "<p>B. To divide up data into meaningful subsets, allowing for comparison of data based on distinguishing characteristics</p>",
+              "position": 2
+            },
+            {
+              "id": "eb2fa899-9357-4b38-b5a2-02f106edd50d",
+              "itemBody": "<p>C. To calculate the average value of each data segment</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fb7092ec-78db-4ca3-928f-cc7f95434770"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-3",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q3",
+        "itemBody": "<p>Why is Bessel’s correction used in sample variance and standard deviation calculations?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0a2256ba-e5b6-4448-96c4-394a9a96eb48",
+              "itemBody": "<p>A. To adjust for the underestimation of population variance and standard deviation</p>",
+              "position": 1
+            },
+            {
+              "id": "0f92f4ae-5038-4518-ac0e-ddbcb9c226a2",
+              "itemBody": "<p>B. To increase the complexity of statistical calculations</p>",
+              "position": 2
+            },
+            {
+              "id": "2afc115d-8bd5-4d37-abf3-67d5e7a4354f",
+              "itemBody": "<p>C. To align with the total number of observations in the sample</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0a2256ba-e5b6-4448-96c4-394a9a96eb48"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-4",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q4",
+        "itemBody": "<p>Unlike standard deviation, the mean absolute deviation:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e7fb1ea-b405-4f07-9837-cfda67c85e26",
+              "itemBody": "<p>A. squares each deviation from the mean, providing a measure that is more sensitive to outliers.</p>",
+              "position": 1
+            },
+            {
+              "id": "c1826fb3-800a-4b6f-b982-c803bf0d7c77",
+              "itemBody": "<p>B. is calculated only for data points above the median, making it suitable for distributions that are asymmetric about the mean.</p>",
+              "position": 2
+            },
+            {
+              "id": "fe877bc3-2f84-4c31-ab58-5ae7730d1a76",
+              "itemBody": "<p>C. uses the values of the distances from the mean, making it less sensitive to extreme values.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5e7fb1ea-b405-4f07-9837-cfda67c85e26"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-5",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q5",
+        "itemBody": "<p>When analyzing a dataset with pronounced skewness and kurtosis, which measure of central tendency is least likely to be affected by extreme values?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fdb0144e-2dec-4be1-8f75-98f57205acf1",
+              "itemBody": "<p>A. The mean</p>",
+              "position": 1
+            },
+            {
+              "id": "f147e5da-c410-4ff9-8e07-21cc84d947c6",
+              "itemBody": "<p>B. The mode</p>",
+              "position": 2
+            },
+            {
+              "id": "f0c397f0-e3f3-4c15-afd1-458d351a5900",
+              "itemBody": "<p>C. The median</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fdb0144e-2dec-4be1-8f75-98f57205acf1"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-6",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q6",
+        "itemBody": "<p>The following 10 observations are a sample drawn from an approximately normal population: Observation 1 2 3 4 5 6 7 8 9 10 Value – 3 –11 3 –18 18 20 – 6 9 2 –16 The sample standard deviation is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c161a932-830d-4208-8d4f-b369fda73a82",
+              "itemBody": "<p>A. 11.92.</p>",
+              "position": 1
+            },
+            {
+              "id": "0e01d090-0479-42bb-ab88-c4cccea636e1",
+              "itemBody": "<p>B. 12.50.</p>",
+              "position": 2
+            },
+            {
+              "id": "9d5b233e-83b8-4679-81a7-c2131a39393b",
+              "itemBody": "<p>C. 13.18.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c161a932-830d-4208-8d4f-b369fda73a82"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-7",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q7",
+        "itemBody": "<p>Which of the following statements is most accurate? The first quintile generally exceeds the:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e7adecb3-e77b-4c6f-9a66-c00dffd10c98",
+              "itemBody": "<p>A. median.</p>",
+              "position": 1
+            },
+            {
+              "id": "36f54775-e809-46fb-974f-5f8f27d60726",
+              "itemBody": "<p>B. first decile.</p>",
+              "position": 2
+            },
+            {
+              "id": "d3d7f67e-6148-4feb-b795-74e4f52d5678",
+              "itemBody": "<p>C. first quartile.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e7adecb3-e77b-4c6f-9a66-c00dffd10c98"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-8",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q8",
+        "itemBody": "<p>An analyst gathers the following information about a portfolio's returns: Yea r Return 1 6% 2 7% 3 3% 4 2% 5 4% If the target return is 5%, the target downside deviation is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cce91f7c-7f36-443e-b2e1-eabd14b3588f",
+              "itemBody": "<p>A. 1.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "6c094256-fbcb-4582-90c0-220844043d86",
+              "itemBody": "<p>B. 1.9%.</p>",
+              "position": 2
+            },
+            {
+              "id": "a026c935-3d15-4be3-a7aa-33240410cb7f",
+              "itemBody": "<p>C. 2.2%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cce91f7c-7f36-443e-b2e1-eabd14b3588f"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-9",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q9",
+        "itemBody": "<p>For a positively skewed unimodal distribution, which of the following measures is most accurately described as the largest?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "c7d83580-d9d7-4955-b19f-b28233eaf0f4",
+              "itemBody": "<p>A. Mean</p>",
+              "position": 1
+            },
+            {
+              "id": "fdc0950b-39fb-482f-83a5-720bd3301208",
+              "itemBody": "<p>B. Mode</p>",
+              "position": 2
+            },
+            {
+              "id": "855fb8b5-10dc-4bc5-a45e-1e43c6a45532",
+              "itemBody": "<p>C. Median</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c7d83580-d9d7-4955-b19f-b28233eaf0f4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-10",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q10",
+        "itemBody": "<p>The figure below shows the histogram for the distribution of weekly returns on an index. The median of the returns on the index, if compared to the mean, will most likely be:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "91729930-f3ca-4bff-aa87-81e632aaf9c8",
+              "itemBody": "<p>A. smaller.</p>",
+              "position": 1
+            },
+            {
+              "id": "293bdd25-776e-4580-a1b3-cfb60817e9ff",
+              "itemBody": "<p>B. equal.</p>",
+              "position": 2
+            },
+            {
+              "id": "e52672f3-f555-470e-b7bc-8431046784b2",
+              "itemBody": "<p>C. greater.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "91729930-f3ca-4bff-aa87-81e632aaf9c8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-11",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q11",
+        "itemBody": "<p>For a given expected return and standard deviation, investors are most likely to be attracted to return distributions that are:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc16ab54-980c-4037-869f-1ce9f603d7ec",
+              "itemBody": "<p>A. negatively skewed.</p>",
+              "position": 1
+            },
+            {
+              "id": "2d04e0df-e6dd-4c3b-ac61-a9ba30c9c1a3",
+              "itemBody": "<p>B. normal.</p>",
+              "position": 2
+            },
+            {
+              "id": "ff567198-46d0-4fef-bf9f-327b60a91cff",
+              "itemBody": "<p>C. positively skewed</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fc16ab54-980c-4037-869f-1ce9f603d7ec"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-12",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q12",
+        "itemBody": "<p>A return distribution with negative skew and a mean of zero most likely has:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc7de1f8-01b8-4919-9d39-4a7509178a2b",
+              "itemBody": "<p>A. frequent small gains and a few extreme losses.</p>",
+              "position": 1
+            },
+            {
+              "id": "1f9ef242-c379-4d05-af42-f459915a4102",
+              "itemBody": "<p>B. frequent small losses and a few extreme gains.</p>",
+              "position": 2
+            },
+            {
+              "id": "79980128-ee63-409d-90a0-f6256055fed5",
+              "itemBody": "<p>C. frequent extreme losses and a few small gains.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fc7de1f8-01b8-4919-9d39-4a7509178a2b"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-13",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q13",
+        "itemBody": "<p>If the covariance between two positively correlated random variables remains the same but the variance of both variables increases, the correlation between the two variables:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "414d414d-0fdd-4b4d-92de-ac7089760d72",
+              "itemBody": "<p>A. decreases.</p>",
+              "position": 1
+            },
+            {
+              "id": "9c1a9a7f-95c7-49f6-9a8c-17983bd2a1fe",
+              "itemBody": "<p>B. stays the same.</p>",
+              "position": 2
+            },
+            {
+              "id": "002f4c62-0539-4a5c-b54a-1b89ef9e3513",
+              "itemBody": "<p>C. increases.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "414d414d-0fdd-4b4d-92de-ac7089760d72"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-14",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q14",
+        "itemBody": "<p>The correlation coefficient:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "923bf25c-847d-41fe-8d26-31a962ab4796",
+              "itemBody": "<p>A. ranges from 0 to 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "bec7f6bf-a4eb-4c3e-ba49-bdc2f3a22f93",
+              "itemBody": "<p>B. is not affected by outliers.</p>",
+              "position": 2
+            },
+            {
+              "id": "93c74473-ba97-4cfc-aaa8-e12706f3406e",
+              "itemBody": "<p>C. indicates the strength of the linear relationship between two random variables.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "923bf25c-847d-41fe-8d26-31a962ab4796"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-15",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q15",
+        "itemBody": "<p>Which of the following visualizations is most appropriate for interpreting the correlation between two variables?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "d36eb8bc-4f88-47de-9ebb-53bf00e2d1fe",
+              "itemBody": "<p>A. Tree-map</p>",
+              "position": 1
+            },
+            {
+              "id": "b066e451-9ee6-4e7e-9378-90520e858426",
+              "itemBody": "<p>B. Scatter plot</p>",
+              "position": 2
+            },
+            {
+              "id": "34bba931-4cc1-4f82-aea0-faa2fb0ecd68",
+              "itemBody": "<p>C. Clustered bar chart</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "d36eb8bc-4f88-47de-9ebb-53bf00e2d1fe"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-16",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q16",
+        "itemBody": "<p>A risk manager would like to calculate the coefficient of variation of a portfolio. The following table reports the annual returns of the portfolio and of the risk-free rate over the most recent five years: Year Portfolio Return Risk-Free Rate 1 4.0% 2.0% 2 –1.0% 1.5% 3 7.0% 1.0% 4 11.0% 1.0% 5 2.0% 0.5% The coefficient of variation of the portfolio is closest to:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "39ca9baf-147b-46dc-9353-7f983c060615",
+              "itemBody": "<p>A. 0.74.</p>",
+              "position": 1
+            },
+            {
+              "id": "4168174f-1482-4735-b531-cffaafa3d9ed",
+              "itemBody": "<p>B. 0.90.</p>",
+              "position": 2
+            },
+            {
+              "id": "c06518f1-2bad-43f3-919c-b5007e1112ed",
+              "itemBody": "<p>C. 1.00.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "39ca9baf-147b-46dc-9353-7f983c060615"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Quan-5-17",
+      "entry": {
+        "title": "2027 Quantitative Methods Mod5-Q17",
+        "itemBody": "<p>For a set of return observations, the coefficient of variation is best described as a measure of:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a36513e7-2236-48ee-8354-9ca0d8655df2",
+              "itemBody": "<p>A. risk per unit of mean return.</p>",
+              "position": 1
+            },
+            {
+              "id": "546dea55-0ba0-412e-84e9-884fbf0ee5ab",
+              "itemBody": "<p>B. mean excess return earned per unit of risk.</p>",
+              "position": 2
+            },
+            {
+              "id": "8ac8cf99-e798-4dc0-828d-98048001addf",
+              "itemBody": "<p>C. average absolute deviation around the mean return.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a36513e7-2236-48ee-8354-9ca0d8655df2"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Equities_4",
+  "curriculum_year": "2027",
+  "topic": "Equities",
+  "module_number": 4,
+  "module_name": "Sources of Equity Returns",
+  "question_count": 8,
+  "points_possible": 8.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Equities - Module 4 Sources of Equity Returns",
+    "topic": "Equities",
+    "module_id": 4,
+    "question_count": 8,
+    "type": "practice",
+    "points_possible": 8.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Equi-4-1",
+      "entry": {
+        "title": "2027 Equities Mod4-Q1",
+        "itemBody": "<p>Which one of the following is typically a more predictable part of an expected holding period return?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "393371b9-86a9-4dfb-879d-8e82cabb7b3a",
+              "itemBody": "<p>A. Dividend portion of total return</p>",
+              "position": 1
+            },
+            {
+              "id": "329d8fc6-7273-44c0-8561-0d923df0cc7d",
+              "itemBody": "<p>B. Capital gains portion of total return</p>",
+              "position": 2
+            },
+            {
+              "id": "3fe06b96-4f79-4342-85a2-13db32c10e89",
+              "itemBody": "<p>C. Dividend and capital gains portions are equally unpredictable. Feedback Choice A is correct. Issuers typically attempt to maintain some consistency in their dividends, which allows investors to be able to view recent dividends as a somewhat predictable source of expected returns. Choice B is incorrect because future prices are highly uncertain. Although analysts will build target prices into their expected return models, the fact that future target prices are very unpredictable implies that the capital gains proportion is much less predictable. An investor is evaluating three different stocks as candidates for purchase. The following statements provide basic descriptions of each of the three stocks. Addison Company’s stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of GBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison’s dividends in the past have typically been a small portion of its ability to pay shareholders, and Addison has commonly repurchased significant amounts of its stock in the past. Bryce Limited’s stock traded two years ago at a price of GBP76 per share. One year ago, the company paid a GBP5.00 per share dividend when its stock price was GBP96 per share; it then completed a 2-for-1 stock split immediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at GBP82 per share. Caddell Corporation operates in a commodity-based industry with high current cash flows and negative long- run growth. Caddell’s stock is currently trading at GBP80.76 per share and is expected to pay dividends of GBP10 per share for the next five years. The expectation is that Caddell’s share price will be GBP60 per share in five years. Analysts believe that 8% is an appropriate discount rate for Caddell stock. Addison Company's stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of GBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison's dividends in the past have typically been a small portion of its ability to pay shareholders, and Addison has commonly repurchased significant amounts of its stick in the past.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "393371b9-86a9-4dfb-879d-8e82cabb7b3a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-2",
+      "entry": {
+        "title": "2027 Equities Mod4-Q2",
+        "itemBody": "<p>Which one of the following is closest to Addison’s expected stock return over the next one-year holding period if the dividend stays constant, dividends are reinvested at 1% per quarter, and analysts’ target price estimate is correct?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "0a25f8f8-1285-4b2b-b674-208f03045658",
+              "itemBody": "<p>A. 11.1%</p>",
+              "position": 1
+            },
+            {
+              "id": "bd9bd867-73da-4f4a-8753-f9dc7dfe8a8e",
+              "itemBody": "<p>B. 14.8%</p>",
+              "position": 2
+            },
+            {
+              "id": "00140ceb-95a5-47c2-94a2-f18a3fe21427",
+              "itemBody": "<p>C. 14.9% Feedback Choice C is correct. The expected return combines the price increase from GBP54 to GBP60, the dividends paid, and the return generated from the return on reinvested dividends as follows: Price return = 11.11% [= (60 – 54) ÷ 54] Dividend return incorporating reinvestment = 3.76% (= 2.03 ÷ 54) Compounded value of dividends = GBP2.03 [= 0.50(1.01)3 + 0.50(1.01)2 + 0.50(1.01)1 + 0.50] Total return = 14.87% (= 11.11% + 3.76%), which rounds to 14.9%. Choice A is incorrect because 11.11% reflects only the price change. Choice B is incorrect because 14.8% reflects only the dividends paid without incorporating the return earned on dividend reinvestment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0a25f8f8-1285-4b2b-b674-208f03045658"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-3",
+      "entry": {
+        "title": "2027 Equities Mod4-Q3",
+        "itemBody": "<p>Addison Company's stock is trading at a price of GBP54 per share and recently paid a quarterly dividend of GBP0.50 per share. On average, analysts have set a one-year target price of GBP60. Addison's dividends in the past have typically been a small portion of its ability to pay shareholders, and Addison has commonly repurchased significant amounts of its stick in the past. Which one of the following statements is likely most correct as to how the investor may assess Addison’s policy regarding dividend payments compared to money spent on repurchasing stock?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "7e56881b-068e-4647-b04f-11b6ad70626e",
+              "itemBody": "<p>A. The investor may value Addison’s policy if tax rates on capital gains are lower than tax rates on dividend income.</p>",
+              "position": 1
+            },
+            {
+              "id": "f0e75dea-0d70-463b-94db-381e4005849e",
+              "itemBody": "<p>B. The investor may value Addison’s policy if the company has stable investment opportunities.</p>",
+              "position": 2
+            },
+            {
+              "id": "71d70a55-dde6-49fd-ad35-7ae068621bdc",
+              "itemBody": "<p>C. The investor likely is not in favor of Addison’s policy because cash flows from repurchase are not of equivalent value to cash flows from dividends. Feedback Choice A is correct. Payout to shareholders through share repurchases generates a possible capital gain for shareholders who sell shares back to the company. Thus, repurchases may be favored over dividends when capital gains tax rates are lower than those on dividend income. Choice B is incorrect because repurchases provide flexibility for the company to pay less to shareholders when investment opportunities fluctuate higher. This statement implies that this flexibility is not necessary. Choice C is incorrect. Assuming all else equal, a cash flow from repurchasing stock is equivalent in value to a cash flow from payment of dividends.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "7e56881b-068e-4647-b04f-11b6ad70626e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-4",
+      "entry": {
+        "title": "2027 Equities Mod4-Q4",
+        "itemBody": "<p>Bryce Limited's stock traded two years ago at a price of GBP76 per share. One year ago, the company paid a GBP5.00 per share dividend when its stock price was GBP 96 per share; it then completed a 2-for-1 stock split immediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at GBP82 per share. Which one of the following statements provides the most correct rationale to justify Bryce Limited’s decision to complete a stock split?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5e830132-c6cf-4d6e-83f8-d48bd66e7c13",
+              "itemBody": "<p>A. Bryce is attempting to attract more institutional investors to buy its stock.</p>",
+              "position": 1
+            },
+            {
+              "id": "05556e74-a861-4705-ab1a-e916d7abc1ad",
+              "itemBody": "<p>B. Bryce wants a higher per share price on its stock to improve its reputation in the equity market.</p>",
+              "position": 2
+            },
+            {
+              "id": "c5eb97fd-3d78-4ea4-b5a6-35606c6f4752",
+              "itemBody": "<p>C. Bryce is attempting to keep its stock price within a reasonable price range to attract individual investors Feedback Choice C is correct. A stock split lowers the per share price by increasing the number of shares outstanding to keep the price per share at a level low enough to attract interest from retail investors. Choice A is incorrect because institutional investors are less likely to respond to the price per share changes created by stock splits. Choice B is incorrect because this statement better describes a reverse stock split as an attempt to improve the stock price optics by increasing the price per share.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5e830132-c6cf-4d6e-83f8-d48bd66e7c13"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-5",
+      "entry": {
+        "title": "2027 Equities Mod4-Q5",
+        "itemBody": "<p>Bryce Limited's stock traded two years ago at a price of GBP76 per share. One year ago, the company paid a GBP5.00 per share dividend when its stock price was GBP 96 per share; it then completed a 2-for-1 stock split immediately after. Today, Bryce paid a GBP5.00 per share dividend, and its stock trades at GBP82 per share. Which one of the following is closest to the two-year holding return on Bryce’s stock if the dividend from one year ago is reinvested?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "4ee86d3a-d4b0-4d82-8fc3-592114cbcd1a",
+              "itemBody": "<p>A. 20.4%</p>",
+              "position": 1
+            },
+            {
+              "id": "641e5eef-f502-49a0-9e5e-a2071c7f371c",
+              "itemBody": "<p>B. 127%</p>",
+              "position": 2
+            },
+            {
+              "id": "e5c83df3-9389-479d-9e0d-860195303ddb",
+              "itemBody": "<p>C. 141%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4ee86d3a-d4b0-4d82-8fc3-592114cbcd1a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-6",
+      "entry": {
+        "title": "2027 Equities Mod4-Q6",
+        "itemBody": "<p>Caddell Corporation operates in a commodity-based industry with high current cash flows and negative long-run growth. Caddell's stock is currently trading at GBP80.76 per share and is expected to pay dividends of GBP10 per share for the next five years. The expectation is that Caddell's share price will be GBP60 per share in five years. Analysts believe that 8% is an appropriate discount rate for Caddell stock. Which one of the following most correctly states the relative percentage impact of Caddell Corporation’s future share price of USD60 on its current price?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a3aa81fa-70e5-4d06-bf74-122bb899e0c6",
+              "itemBody": "<p>A. −25.7%</p>",
+              "position": 1
+            },
+            {
+              "id": "a1000efb-b6c8-446d-b80b-eb4760addb5b",
+              "itemBody": "<p>B. 50.6%</p>",
+              "position": 2
+            },
+            {
+              "id": "c0e4c50b-5291-4197-9647-494b3a92483b",
+              "itemBody": "<p>C. 74.3%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a3aa81fa-70e5-4d06-bf74-122bb899e0c6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-7",
+      "entry": {
+        "title": "2027 Equities Mod4-Q7",
+        "itemBody": "<p>Which of the following dates in the dividend chronology can fall on a weekend?</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "e6959e8f-c67e-4311-bdc5-4be56e280836",
+              "itemBody": "<p>A. The ex-date.</p>",
+              "position": 1
+            },
+            {
+              "id": "adfaf65b-051f-4e0a-af34-ca9a8f09bee4",
+              "itemBody": "<p>B. The record date.</p>",
+              "position": 2
+            },
+            {
+              "id": "fbd60560-4758-448c-883a-c6b0c17937eb",
+              "itemBody": "<p>C. The payment date. Feedback: C is correct. The payment date can occur on a weekend or holiday unlike other pertinent dates, such as the ex- date and record date, which occur only on business days.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e6959e8f-c67e-4311-bdc5-4be56e280836"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Equi-4-8",
+      "entry": {
+        "title": "2027 Equities Mod4-Q8",
+        "itemBody": "<p>The first date that a share trades without the declared dividend is the:</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "16960a5f-fa2e-47ed-8509-2efb24fcb679",
+              "itemBody": "<p>A. ex-date.</p>",
+              "position": 1
+            },
+            {
+              "id": "ababdc35-94d9-4875-8332-620e469667c1",
+              "itemBody": "<p>B. payable date.</p>",
+              "position": 2
+            },
+            {
+              "id": "6042fa09-5953-4d9b-ad87-175bf3598386",
+              "itemBody": "<p>C. declaration date Feedback: A is correct because the ex-dividend date (or ex-date), the first date that a share trades without (i.e., “ex”) the dividend. B is incorrect because payment date (or payable date), which is the day that the company actually mails out (or electronically transfers) a dividend payment to shareholders. C is incorrect because the declaration date, is the day that the company issues a statement declaring a specific dividend.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "16960a5f-fa2e-47ed-8509-2efb24fcb679"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

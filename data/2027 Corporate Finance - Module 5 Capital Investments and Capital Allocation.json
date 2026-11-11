@@ -1,0 +1,1287 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Corporate Finance_5",
+  "curriculum_year": "2027",
+  "topic": "Corporate Finance",
+  "module_number": 5,
+  "module_name": "Capital Investments and Capital Allocation",
+  "question_count": 30,
+  "points_possible": 30.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Corporate Finance - Module 5 Capital Investments and Capital Allocation",
+    "topic": "Corporate Finance",
+    "module_id": 5,
+    "question_count": 30,
+    "type": "practice",
+    "points_possible": 30.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Corp-5-1",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q1",
+        "itemBody": "<p>When preparing the cash-flow forecasts for both projects, Soroka should include:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. Capital allocation analysis should include only incremental cash  flows \nassociated with a new investment. The loss of revenue from existing products  is an \nincremental negative effect that should be included in the analysis.  The market \nresearch costs in this case are a sunk cost because the research has  already been \ncompleted and therefore does not affect cash -flow estimates, no  matter whether \nABC undertakes either of these projects or neither of them.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "bdd8bf58-038d-40f3-a3f3-233d98c97fd4",
+              "itemBody": "<p>A. only the cost of the market research.</p>",
+              "position": 1
+            },
+            {
+              "id": "1c08a287-e319-4f84-b61d-29b45615e985",
+              "itemBody": "<p>B. only the loss of revenue from existing products.</p>",
+              "position": 2
+            },
+            {
+              "id": "783a1915-5db4-4133-bd1e-084e27df4000",
+              "itemBody": "<p>C. both the market research cost and the loss of revenue from existing products.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "1c08a287-e319-4f84-b61d-29b45615e985"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-2",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q2",
+        "itemBody": "<p>With regard to Project A and Project B, which of the following is true?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The IRR decision rule is to invest if the IRR exceeds the required rate \nof return or hurdle rate. Project B’s IRR is 8.97%, which exceeds the required rate  \nof return of 8%; however, Project A’s IRR is 7.04%, which is below the required rate \nof return of 8%. \nThe NPV of both projects can be calculated as follows: \n𝑁𝑃𝑉𝐴 = −18.5 + 4.5\n(1 + 0.08)1 + 6\n(1 + 0.08)2 + 6\n(1 + 0.08)3 + 5.5\n(1 + 0.08)4 = −0.38 \n𝑁𝑃𝑉𝐵 = −33.5 + −2.5\n(1 + 0.08)1 + −2.5\n(1 + 0.08)2 + 24\n(1 + 0.08)3 + 25.5\n(1 + 0.08)4 = 1.12 \n \nUsing the same equation, we can solve for the IRRs by assuming that NPV = 0. \n0 = −18.5 + 4.5\n(1 + IRR𝐴)1 + 6\n(1 + IRR𝐴)2 + 6\n(1 + IRR𝐴)3 + 5.5\n(1 + IRR𝐴)4 \nIRR𝐴 = 7.04% \n \n0 = −33.5 + −2.5\n(1 + IRR𝐵)1 + −2.5\n(1 + IRR𝐵)2 + 24\n(1 + IRR𝐵)3 + 25.5\n(1 + IRR𝐵)4 \nIRR𝐵 = 8.97%</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "30d2837c-0503-48db-867b-4a3440fda416",
+              "itemBody": "<p>A. Both projects should be invested in according to the IRR decision rule.</p>",
+              "position": 1
+            },
+            {
+              "id": "e4aacbb5-253c-42ff-b519-deeb60c6b8db",
+              "itemBody": "<p>B. Both projects should be invested in according to the NPV decision rule.</p>",
+              "position": 2
+            },
+            {
+              "id": "f0aa2191-66b4-4c07-b6ba-dca550a50648",
+              "itemBody": "<p>C. Only Project B should be invested in according to the IRR decision rule.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f0aa2191-66b4-4c07-b6ba-dca550a50648"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-3",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q3",
+        "itemBody": "<p>The most likely impact from the cash -flow timing considered by Soroka is that:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. The forecasted timing of cash flow is an important factor affecting  \nboth projects’ IRR and NPV. In the case of delaying all future cash flows from both \nprojects by six months, the result would be a lower IRR and a lower NPV. Given that \nall future cash flows are to be received six months later, their present  value \ndecreases; hence, the NPV and IRR of an entire project also decrease. B is incorrect \nbecause when cash flows from the investment projects are delayed  by six months, \nboth projects’ NPV  and IRR would decrease, not stay unchanged.  C is incorrect \nbecause when cash flows from the investment projects are delayed  by six months, \nboth project’s NPV and IRR would decrease.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "614806a4-914b-4393-a063-bea5d05cb70c",
+              "itemBody": "<p>A. both IRR and NPV would decrease.</p>",
+              "position": 1
+            },
+            {
+              "id": "fc7b36f0-d7a6-4f1c-9fe0-efd271bb438e",
+              "itemBody": "<p>B. both IRR and NPV stay unchanged.</p>",
+              "position": 2
+            },
+            {
+              "id": "7f7bbdc5-8805-4101-b041-99e218ea97f4",
+              "itemBody": "<p>C. only IRR would decrease but NPV would increase.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "614806a4-914b-4393-a063-bea5d05cb70c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-4",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q4",
+        "itemBody": "<p>Based on ABC’s balance sheet presented in Exhibit 2, Soroka should calculate:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. To calculate ROIC, we can use the following formula: \n \nROIC = (1 − Tax rate) × Operating profit𝑡\nAverage invested capital𝑡−1,𝑡\n, \nWhere \n \nAverage invested capital𝑡−1,𝑡 = (Debt + Equity)20𝑋1 + (Debt + Equity)20𝑋2\n2  \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 9 of 12 \n \nAverage invested capital𝑡−1,𝑡 = (25,040 + 39,800 + 6,500) + (25,910 + 40,990 + 6,780)\n2  \nAverage invested capital𝑡−1,𝑡 = 72,510 \nROIC = 9.50%</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "23d86ae2-39c7-4203-a7f4-5a54478bc38e",
+              "itemBody": "<p>A. average invested capital of $72,510 and ROIC of 9.50%.</p>",
+              "position": 1
+            },
+            {
+              "id": "7a565d62-7ff0-47d9-be7f-e6ecf75f777e",
+              "itemBody": "<p>B. average invested capital of $80,720 and ROIC of 10.94%.</p>",
+              "position": 2
+            },
+            {
+              "id": "f0724b71-c55f-452d-9e5f-945cf7dfc3a9",
+              "itemBody": "<p>C. average invested capital of $92,995 and ROIC of 9.50%. Capital Investments and Capital Allocation Faculty: Page 3 of 12</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "23d86ae2-39c7-4203-a7f4-5a54478bc38e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-5",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q5",
+        "itemBody": "<p>Considering ABC management’s ROIC-based investment criterion and the IRR and NPV of both projects, Soroka should recommend to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. ABC’s management aims to achieve a minimum ROIC above 9.20%,  but \nthe IRR of both projects fails to meet this investment criterion. Even though Project \nB has a positive NPV, if it were undertaken, it would reduce ROIC.  B is incorrect \nbecause even though Project B’s NPV is $1.12 million (which increases ABC’s value to \nshareholders), its IRR is 8.97%, which is below the target  ROIC of 9.20%. \nConsequently, if Project B was undertaken, it would lower ABC’s ROIC. C is incorrect \nbecause Project A’s I RR is below ABC management’s target ROIC  of 9.2%. \nAdditionally, Project A’s NPV is negative, so it decreases ABC’s shareholder value.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "f4cc16de-889f-4d23-a8f4-c13679991d16",
+              "itemBody": "<p>A. reject both projects A and B.</p>",
+              "position": 1
+            },
+            {
+              "id": "002420b0-20d7-49e9-beb3-6f8ebf049766",
+              "itemBody": "<p>B. invest only in Project B because it has a higher NPV.</p>",
+              "position": 2
+            },
+            {
+              "id": "05d9e54a-62f9-43e6-9985-15c0a19fa85f",
+              "itemBody": "<p>C. invest only in Project A because has positive cash flow during all four years.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f4cc16de-889f-4d23-a8f4-c13679991d16"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-6",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q6",
+        "itemBody": "<p>Given a discount rate of 10%, the net present value (NPV) of the following investment is closest to: Time 0 1 2 3 4 5 6 Cash flow −1,500 300 600 1,000 200 500 300</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. The given cash flows are inserted into a financial calculator along with  \nthe 10% discount rate: CF0 = −1,500, CF1 = 300, CF2 = 600, CF3 = 1,000, CF4 = 200,  \nCF5 = 500, CF6 = 300, I = 10. Computing NPV the result is 636.32 ~ 636.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "2bc98ca9-9175-4a4b-b46c-f261513371a6",
+              "itemBody": "<p>A. 605.</p>",
+              "position": 1
+            },
+            {
+              "id": "c45c7dc3-56de-4858-8043-01bffda8a078",
+              "itemBody": "<p>B. 578.</p>",
+              "position": 2
+            },
+            {
+              "id": "178dc0de-878d-41ae-b588-dd59b8d1ba0c",
+              "itemBody": "<p>C. 636.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "178dc0de-878d-41ae-b588-dd59b8d1ba0c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-7",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q7",
+        "itemBody": "<p>The incremental after-tax cash flows (in € thousands) and information on two mutually exclusive projects are as follows: Year 0 1 2 3 4 Net Present Value (NPV, € thousands) Internal Rate of Return (IRR, %) Project X −15,000 2,000 5,000 8,000 8,000 354 16 Project Y −13,250 200 500 7,000 15,000 --- --- The appropriate hurdle rate to use in evaluating the projects is 15.0%. Which of the following statements is most accurate? The company should accept:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The NPV (in € thousands) and IRR of Project Y are calculated as follows: \n \nBecause these projects are mutually exclusive, only one can be undertaken: It should \nbe Project Y, which has the highest NPV and thus increases shareholder wealth the \nmost. Both projects’ IRRs exceed the hurdle rate, and the IRR of Project Y exceeds \nthat of Project X. The decision, however, should be based on the superior NPV of \nProject Y.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cc54f159-2a84-4ea8-b289-3bfaf0dae9ba",
+              "itemBody": "<p>A. Both projects.</p>",
+              "position": 1
+            },
+            {
+              "id": "762c7447-c2dc-4425-ac23-c4114510a4e8",
+              "itemBody": "<p>B. Project Y only.</p>",
+              "position": 2
+            },
+            {
+              "id": "ec298ed1-e3c8-4582-9b43-e053bd26003d",
+              "itemBody": "<p>C. Project X only.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "762c7447-c2dc-4425-ac23-c4114510a4e8"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-8",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q8",
+        "itemBody": "<p>A project has the following annual cash flows: Year 0 Year 1 Year 2 Year 3 Year 4 ‒$4,662,005 $22,610,723 ‒$41,072,261 $33,116,550 ‒$10,000,000 Which of the following discount rates most likely produces the highest net present value (NPV)?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The NPV at 15% is $99.93. The NPV at 10% is –$0.01. The NPV at 8% is \n–$307.59.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "6234fbd2-47f9-4f30-ba6b-f425dea70300",
+              "itemBody": "<p>A. 8%</p>",
+              "position": 1
+            },
+            {
+              "id": "c78af253-ae58-4523-93a0-557e512dbe02",
+              "itemBody": "<p>B. 15%</p>",
+              "position": 2
+            },
+            {
+              "id": "5365650f-3d83-45d5-89d2-5ba1c4a45f75",
+              "itemBody": "<p>C. 10%</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "c78af253-ae58-4523-93a0-557e512dbe02"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-9",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q9",
+        "itemBody": "<p>A measure of how effectively capital is converted into after-tax operating profits is the:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because ROIC reflects how effectively a company’s management is able \nto convert capital into after-tax operating profits.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b81a3843-791e-411e-a164-3602f09d90d3",
+              "itemBody": "<p>A. hurdle rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "5003cdcf-9ae5-480b-b2e8-4869619f76e4",
+              "itemBody": "<p>B. cost of capital.</p>",
+              "position": 2
+            },
+            {
+              "id": "4f6cf8ca-dfbb-4a10-989f-5af050d7f665",
+              "itemBody": "<p>C. return on invested capital. Capital Investments and Capital Allocation Faculty: Page 4 of 12</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "4f6cf8ca-dfbb-4a10-989f-5af050d7f665"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-10",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q10",
+        "itemBody": "<p>Which of the following is considered a capital allocation pitfall? Basing investment decisions on:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because one common pitfall is basing investment decisions on EPS, net \nincome, or ROE: Companies sometimes have incentives to boost earnings per share, \nnet income, or return on equity. Many investments, even those with strong NPVs, do \nnot increase these accounting numbers in the short run and may even reduce them. \nPaying too much attention to short -run accounting numbers can result in a company \nProject X NPV = €354.0 (given) IRR = 16.0% (given) \nProject Y \nUsing a financial calculator: CF0 = \n−13,250, CF1 = 200, CF2 = 500, \nCF3 = 7,000, CF4 = 15,000, i = 15%, \nand solving for NPV, NPV = €480.9 \nUsing a financial calculator: \nCF0 = −13,250, CF1 = 200, \nCF2 = 500, CF3 = 7,000, and \nCF4 = 15,000, and solving for \nIRR, IRR = 16.2% \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 10 of 12 \n \nchoosing investments that are not in the long -run economic interests of its \nshareholders.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "20220568-1996-4dbc-a86a-e2be2fb08b37",
+              "itemBody": "<p>A. opportunity costs.</p>",
+              "position": 1
+            },
+            {
+              "id": "bfc73e2b-4f21-4bcc-80f8-c98837929b5b",
+              "itemBody": "<p>B. after-tax cash flows.</p>",
+              "position": 2
+            },
+            {
+              "id": "b10ed607-fb6f-4f59-93a5-09fe221e0340",
+              "itemBody": "<p>C. short-run accounting numbers.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b10ed607-fb6f-4f59-93a5-09fe221e0340"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-11",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q11",
+        "itemBody": "<p>When choosing between mutually exclusive projects, an analyst should:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. We referred to the rate used in discounting the cash flows as the \n“required rate of return.” The required rate of return is the discount rate that the \nissuer’s suppliers of capital require given the riskiness of the project. This discount \nrate is frequently called the “opportunity cost of funds” or the “cost of capital.” For \na capital investment with one investment outlay, made initially, the net present value \n(NPV) is the present value of the future after -tax cash flows minus the investment \noutlay, where the discount rate equals the required rate of return.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "ca1d3f2d-51a0-4699-ae41-b104d804283f",
+              "itemBody": "<p>A. accept the project with the highest IRR.</p>",
+              "position": 1
+            },
+            {
+              "id": "f07bec8b-1a9f-4bfa-a03e-fdef4fd80cde",
+              "itemBody": "<p>B. use the opportunity cost of funds as the discount rate.</p>",
+              "position": 2
+            },
+            {
+              "id": "6c259df7-2387-4372-856d-5f80534f726a",
+              "itemBody": "<p>C. accept the projects for which the IRR is greater than the opportunity cost of funds.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f07bec8b-1a9f-4bfa-a03e-fdef4fd80cde"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-12",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q12",
+        "itemBody": "<p>A company is evaluating the following mutually exclusive capital projects: Project 1 Project 2 NPV $180,000 $100,000 IRR 10% 15% If the hurdle rate is 8%, the company should invest in:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because Project 1 has a higher NPV. For mutually exclusive investments \nthat are ranked differently by the NPV and IRR, the NPV criterion is more \neconomically sound.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "31aa0fdd-f268-4201-a108-f49b6a05e6fb",
+              "itemBody": "<p>A. Project 1 only.</p>",
+              "position": 1
+            },
+            {
+              "id": "c90de15f-deb0-4124-95f1-804590b4a28b",
+              "itemBody": "<p>B. Project 2 only.</p>",
+              "position": 2
+            },
+            {
+              "id": "bf61eeda-35d0-442f-a602-7c07ef0a909b",
+              "itemBody": "<p>C. both Project 1 and Project 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "31aa0fdd-f268-4201-a108-f49b6a05e6fb"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-13",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q13",
+        "itemBody": "<p>Compared to going concern projects, expansion projects most likely involve:</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because expansion projects typically involve greater uncertainty, time, \nand amounts of capital than going concern projects.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "a646a9ac-9eed-498a-b237-da7dd8f25fc7",
+              "itemBody": "<p>A. greater uncertainty only.</p>",
+              "position": 1
+            },
+            {
+              "id": "3387f29c-4070-4338-b4a0-377907dfbba3",
+              "itemBody": "<p>B. greater amounts of capital only.</p>",
+              "position": 2
+            },
+            {
+              "id": "a11c2725-d6d0-4803-b6ec-3db5805ff722",
+              "itemBody": "<p>C. both greater uncertainty and greater amounts of capital.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "a11c2725-d6d0-4803-b6ec-3db5805ff722"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-14",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q14",
+        "itemBody": "<p>An electric vehicle manufacturer invests in a new technology to meet new safety standards. This project is best classified as a(n):</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because regulatory and compliance projects are required by third \nparties, such as government regulatory bodies, to meet safety and regulatory \ncompliance standards. The investment in new technology to meet improved safety \nstandards is therefore a compliance project.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "fc536d1f-4558-45a3-a2cb-076b3a3fb7de",
+              "itemBody": "<p>A. expansion project.</p>",
+              "position": 1
+            },
+            {
+              "id": "0084f2de-e94e-4bf6-a0f9-c53616684402",
+              "itemBody": "<p>B. compliance project.</p>",
+              "position": 2
+            },
+            {
+              "id": "a0b0672b-8167-4850-99a2-3cc096a8baaa",
+              "itemBody": "<p>C. going concern project.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "0084f2de-e94e-4bf6-a0f9-c53616684402"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-15",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q15",
+        "itemBody": "<p>A company should exercise the abandonment option on an investment if the present value of the cash flows from continuing the investment is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because if the cash flow from abandoning an investment exceeds the \npresent value of the cash flows from continuing the investment, the company should \nexercise the abandonment option. Conversely, if the PV of the cash flows from \ncontinuing the investment is lower than the cash flow from abandoning the \ninvestment, the company should exercise the abandonment option.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "cf00a16c-5f50-4bad-9cd5-8cd0d57ccc72",
+              "itemBody": "<p>A. lower than the cash flow from abandoning the investment.</p>",
+              "position": 1
+            },
+            {
+              "id": "1a4c4f2f-ada4-4f8c-b1cd-8a116b5e5963",
+              "itemBody": "<p>B. the same as the cash flow from abandoning the investment.</p>",
+              "position": 2
+            },
+            {
+              "id": "be9f5259-c55c-44d9-9a6c-18bf7ccb4974",
+              "itemBody": "<p>C. greater than the cash flow from abandoning the investment.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "cf00a16c-5f50-4bad-9cd5-8cd0d57ccc72"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-16",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q16",
+        "itemBody": "<p>A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions): Initial Outlay Year 1 Year 2 Cash flow −£150 £8 £175 Capital Investments and Capital Allocation Faculty: Page 5 of 12 The expected IRR for this project is most likely:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the IRR is the discount rate that makes the present value of \nthe future after-tax cash flows equal that investment outlay or ∑nt=1 CFt ÷ (1 + IRR)t \n= Outlay, where IRR is the internal rate of return. Solved using the following \ncalculator inputs: CF0 = −150, CF1 = 8, CF2 = 175, Calculate IRR = 10.7119, rounded to \n10.71% which is less than 12%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b609b160-b01b-409e-b21d-256a841008b6",
+              "itemBody": "<p>A. less than 12%.</p>",
+              "position": 1
+            },
+            {
+              "id": "a1e9ee37-00cf-43d0-be87-4734dd6c1b1a",
+              "itemBody": "<p>B. equal to 12%.</p>",
+              "position": 2
+            },
+            {
+              "id": "8cc03537-5ec0-4f4e-91b2-d0a4ffe36e90",
+              "itemBody": "<p>C. greater than 12%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "b609b160-b01b-409e-b21d-256a841008b6"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-17",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q17",
+        "itemBody": "<p>Subsequent to making a capital investment, a company reacts to poor financial results from the project by abandoning it. This action alone best exemplifies the exercise of a:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because sizing options encompass abandonment or expansion of capacity. \nIf after investing the company can abandon the investment if the financial results \nare disappointing, it has an abandonment option. At some future date, if the cash flow \nfrom abandoning an investment exceeds the present value of the cash flows from \ncontinuing the investment, the company should exercise the abandonment option. \nConversely, if the company can make additional investments when future financial \nresults are strong, the company has a growth option or an expansion option. \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 11 of 12</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "23cd8e98-d4e1-4c99-a911-e2df9c141744",
+              "itemBody": "<p>A. sizing option.</p>",
+              "position": 1
+            },
+            {
+              "id": "ea99a3a5-7e1d-4211-a754-b8d497908d73",
+              "itemBody": "<p>B. timing option.</p>",
+              "position": 2
+            },
+            {
+              "id": "5708111c-c712-4bb8-9642-7d1ad01bde9c",
+              "itemBody": "<p>C. flexibility option.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "23cd8e98-d4e1-4c99-a911-e2df9c141744"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-18",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q18",
+        "itemBody": "<p>An analyst gathers the following information about a project: Initial outlay €100 million Cash flow at end of Year 1 €65 million Cash flow at end of Year 2 €65 million Cash flow at end of Year 3 €65 million If the required rate of return is 15%, the NPV is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because it discounts all the cash flows at the required return and sums \nthem as follows: NPV = t=1nΣCFt /(1 + r)t − Outlay, where CFt = After-tax cash flow at \ntime t, r = Required rate of return for the investment, Outlay = Investment cash flow \nat time zero, NPV = 65/(1 + 15%) + 65/(1 + 15%)2 + 65/(1 + 15%)3 – 100 ≈ 56.52 + 49.15 \n+ 42.74 – 100 = 148.41 ≈ 48.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "336fc7c9-1f00-4b65-88f6-3c2b879d1a4c",
+              "itemBody": "<p>A. €48 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "5f5e22bd-9e4e-4deb-b4be-e657f41da4f0",
+              "itemBody": "<p>B. €95 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "e6f10359-6f44-4e0e-887b-51eb35b7f7cf",
+              "itemBody": "<p>C. €148 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "336fc7c9-1f00-4b65-88f6-3c2b879d1a4c"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-19",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q19",
+        "itemBody": "<p>The NPV of a new project is expected to be –$0.20 million. An incremental investment of $0.40 million would give management the flexibility to switch to a lower cost input in the future. If this option has an estimated value of $0.80 million, the value of the project including the option is:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the NPV, including the real option, should be: Project NPV = NPV \n(based on DCF alone) – Cost of options + Value of options. Project NPV = –$0.2 million \n– $0.4 million + $0.8 million = $0.2 million.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "5862e7b7-ce23-413f-a683-210807f173cc",
+              "itemBody": "<p>A. $0.20 million.</p>",
+              "position": 1
+            },
+            {
+              "id": "7d50875c-6b44-4344-ae0b-eb3352b1c4bd",
+              "itemBody": "<p>B. $0.40 million.</p>",
+              "position": 2
+            },
+            {
+              "id": "b98a6ff4-e4ce-4379-adee-b5cd6276f60b",
+              "itemBody": "<p>C. $1.00 million.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "5862e7b7-ce23-413f-a683-210807f173cc"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-20",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q20",
+        "itemBody": "<p>A company is deciding whether to invest in one of two mutually exclusive projects with positive NPVs. If Project 1 has a higher NPV but a lower IRR than Project 2, the company should:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. ... As a practical matter, once a corporation has the data to calculate the \nNPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. \nHowever, the most appropriate and theoretically sound criterion is the NPV.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "89f2b5df-72c2-488f-be14-2a236b002393",
+              "itemBody": "<p>A. prefer Project 1.</p>",
+              "position": 1
+            },
+            {
+              "id": "2be012ef-7934-4483-9b57-5b10a9891c51",
+              "itemBody": "<p>B. prefer Project 2.</p>",
+              "position": 2
+            },
+            {
+              "id": "3aee9fa0-0bb1-48aa-bf30-172425864c06",
+              "itemBody": "<p>C. be indifferent between Project 1 and Project 2.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "89f2b5df-72c2-488f-be14-2a236b002393"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-21",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q21",
+        "itemBody": "<p>Management most likely has the least amount of discretion when deciding to invest in a(n):</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because unlike going concern and expansion projects, for which \nmanagement has discretion in deciding whether or not to invest, regulatory and \ncompliance projects are required by third parties, such as government regulatory \nbodies, to meet safety and regulatory compliance standards.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "459c0f5e-e5a5-411f-9df5-a90e8ba97b0e",
+              "itemBody": "<p>A. regulatory project.</p>",
+              "position": 1
+            },
+            {
+              "id": "580b845d-00fc-42fc-b3a9-4a507e5f42e5",
+              "itemBody": "<p>B. expansion project.</p>",
+              "position": 2
+            },
+            {
+              "id": "4e2ecfb7-ee69-426f-a623-c8b735c7d241",
+              "itemBody": "<p>C. going concern project. Capital Investments and Capital Allocation Faculty: Page 6 of 12</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "459c0f5e-e5a5-411f-9df5-a90e8ba97b0e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-22",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q22",
+        "itemBody": "<p>The ability to abandon an investment if it has produced disappointing financial results is most likely a type of:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because an abandonment option is a type of sizing option. If after \ninvesting the company can abandon the investment if the financial results are \ndisappointing, it has an abandonment option. At some future date, if the cash flow \nfrom abandoning an investme nt exceeds the present value of the cash flows from \ncontinuing the investment, the company should exercise the abandonment option.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "43249d4c-f1ac-4413-ba31-bc9ad09a23db",
+              "itemBody": "<p>A. sizing option.</p>",
+              "position": 1
+            },
+            {
+              "id": "b7d07e8b-ce96-4ab2-9df3-fb4730a3c707",
+              "itemBody": "<p>B. flexibility option.</p>",
+              "position": 2
+            },
+            {
+              "id": "183b450c-bf1b-44a5-a94c-9afcc4cc7a5b",
+              "itemBody": "<p>C. fundamental option.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "43249d4c-f1ac-4413-ba31-bc9ad09a23db"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-23",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q23",
+        "itemBody": "<p>Which statement regarding capital investments is correct?</p>",
+        "feedback": {
+          "neutral": "<p>C is correct. because capital investments are also usually necessary if an established \nfirm decides to extend its existing operations to adjacent products and services or \nexpand to new regions or markets.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "18fb0c17-180f-4cc4-a40d-14cf58fd4c4c",
+              "itemBody": "<p>A. Going concern projects are investments to increase the size of the business</p>",
+              "position": 1
+            },
+            {
+              "id": "bc3358ca-4f13-43d9-b731-6ea9392984b4",
+              "itemBody": "<p>B. Regulatory compliance projects seldom increase a firm’s expenses with no added revenue</p>",
+              "position": 2
+            },
+            {
+              "id": "fe41933c-edab-4274-968f-337d35a044db",
+              "itemBody": "<p>C. Capital investments are usually necessary if a firm extends its existing operations to adjacent products and services</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "fe41933c-edab-4274-968f-337d35a044db"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-24",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q24",
+        "itemBody": "<p>Maintenance capital expenditures include:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because continuous improvements of existing facilities are going concern \nprojects. Going concern projects, often known as maintenance capital expenditures, \nare investments to continue the company’s current operations and maintain the \nexisting size of the business. Common going concern projects include replacing assets \nnearing the end of their useful life, maintaining IT hardware and software, and \ncontinuous improvements of existing facilities.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "836d984f-b393-4132-b5d3-e4b08d23ea8a",
+              "itemBody": "<p>A. continuous improvements of existing facilities.</p>",
+              "position": 1
+            },
+            {
+              "id": "a20fc16b-7c68-4a33-9902-83e48fbbdf8f",
+              "itemBody": "<p>B. anti-money-laundering training for employees.</p>",
+              "position": 2
+            },
+            {
+              "id": "aafc118e-4a5a-4a12-962c-f073bac443f2",
+              "itemBody": "<p>C. investing in solar panel production to benefit from government subsidies.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "836d984f-b393-4132-b5d3-e4b08d23ea8a"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-25",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q25",
+        "itemBody": "<p>Which of the following is a common capital allocation pitfall?</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because this is often a sign of inertia, which is a common mistake in \ncapital allocation. Inertia is the result of management anchoring their capital \ninvestment budgets to prior year amounts. If capital investment each year is static \nor increasing despite falling returns on investment, the analyst should question the \nissuer’s justification for its capital investment and whether management should be \nconsidering alternative uses. \n \nCapital Investments and Capital Allocation \nFaculty:                                                                         Page 12 of 12</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "b301ce45-a1f4-44ac-8c18-349410b26786",
+              "itemBody": "<p>A. Ignoring sunk costs</p>",
+              "position": 1
+            },
+            {
+              "id": "f6be4e75-d846-4899-9ba1-f35b2a66fb70",
+              "itemBody": "<p>B. Anchoring capital investment budgets to prior year amounts</p>",
+              "position": 2
+            },
+            {
+              "id": "7b35a903-9920-493c-ba6a-02b2379b426c",
+              "itemBody": "<p>C. Considering different states of the world for investment alternatives</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f6be4e75-d846-4899-9ba1-f35b2a66fb70"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-26",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q26",
+        "itemBody": "<p>With respect to capital budgeting, which of the following statements is most accurate? The internal rate of return calculation assumes that a project's interim cash flows are reinvested at the project's:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the IRR assumes reinvestment at the IRR. Mathematically, \nwhenever you discount a cash flow at a particular discount rate, you are implicitly \nassuming that you can reinvest a cash flow at that same discount rate.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1a6bbbaf-ee7d-436c-bea7-2899dff58731",
+              "itemBody": "<p>A. hurdle rate.</p>",
+              "position": 1
+            },
+            {
+              "id": "e5cd5871-f1ff-4539-9f83-a33f1e93da86",
+              "itemBody": "<p>B. internal rate of return.</p>",
+              "position": 2
+            },
+            {
+              "id": "ca05a7b4-c905-4f57-a358-40b4ae7dbad3",
+              "itemBody": "<p>C. weighted average cost of capital.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e5cd5871-f1ff-4539-9f83-a33f1e93da86"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-27",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q27",
+        "itemBody": "<p>When evaluating potential capital investments, the most appropriate discount rate is the:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the required rate of return for an investment is the rate of \nreturn that a corporate issuer’s investors could earn on a similarly risky investment.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "464383a7-d209-47e3-949c-b7e6e23e1fc5",
+              "itemBody": "<p>A. overall cost of capital for the company.</p>",
+              "position": 1
+            },
+            {
+              "id": "f1cdc825-e849-48b7-a5ee-ae5e4b543855",
+              "itemBody": "<p>B. individual investment's required rate of return.</p>",
+              "position": 2
+            },
+            {
+              "id": "f91dca67-e462-44f3-9d51-f0974a9fc7da",
+              "itemBody": "<p>C. cost of debt or cost of equity, depending on the financing source.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "f1cdc825-e849-48b7-a5ee-ae5e4b543855"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-28",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q28",
+        "itemBody": "<p>An analyst gathers the following information (in $ millions) about two mutually exclusive capital projects: NPV at 9% Required Rate of Return NPV at 12% Required Rate of Return NPV at 15% Required Rate of Return Project 1 50 17 −10 Project 2 61 13 −31 Capital Investments and Capital Allocation Faculty: Page 7 of 12 Project 1 should be selected for investment if the required rate of return is:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. because the decision rule for the NPV is: Invest if NPV > 0. In the case \nof mutually exclusive investment projects, a company should choose the one with the \nhigher NPV.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "65618eaf-b86d-4994-b132-05bb81ee6974",
+              "itemBody": "<p>A. 9%.</p>",
+              "position": 1
+            },
+            {
+              "id": "e86e792f-4a3d-448d-baff-b4e384af978e",
+              "itemBody": "<p>B. 12%.</p>",
+              "position": 2
+            },
+            {
+              "id": "2dbc015e-7294-43d1-84f2-88b81897139a",
+              "itemBody": "<p>C. 15%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "e86e792f-4a3d-448d-baff-b4e384af978e"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-29",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q29",
+        "itemBody": "<p>A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions): Initial Outlay Year 1 Year 2 Cash flow −£150 £8 £175 The expected IRR for the project is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>A is correct. because the IRR is the discount rate that makes the present value of \nthe future after-tax cash flows equal that investment outlay or: \n∑nt=1 CFt ÷ (1 + IRR)t = Outlay,  \nwhere IRR is the internal rate of return. Solved using the following calculator inputs: \nCF0 = −150, CF1 = 8, CF2 = 175, Calculate IRR = 10.7119, rounded to 10.71%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "42c4fd0e-8e70-457a-8b07-3cc4bac129d4",
+              "itemBody": "<p>A. 10.7%.</p>",
+              "position": 1
+            },
+            {
+              "id": "64aff064-7966-48af-ab90-edcd89085a8d",
+              "itemBody": "<p>B. 12.0%.</p>",
+              "position": 2
+            },
+            {
+              "id": "52a0ff7c-8a34-48e8-beff-5b466721860c",
+              "itemBody": "<p>C. 13.2%.</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "42c4fd0e-8e70-457a-8b07-3cc4bac129d4"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Corp-5-30",
+      "entry": {
+        "title": "2027 Corporate Finance Mod5-Q30",
+        "itemBody": "<p>A firm is considering a project that would require an initial investment of THB270 million (Thai baht). The project will help increase the firm’s after -tax net cash flows by THB30 million per year in perpetuity, and it is found to have a negative NPV of THB20 million. The IRR (%) of the project is closest to:</p>",
+        "feedback": {
+          "neutral": "<p>B is correct. The IRR is the discount rate that makes the NPV = 0. Because the cash \nflow stream is in perpetuity, it can be solved as follows: \n0 = –270 + (30/IRR) \nIRR = 11.1%.</p>"
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "1de511f8-e960-4f7d-a78f-45510069b658",
+              "itemBody": "<p>A. 10.3%.</p>",
+              "position": 1
+            },
+            {
+              "id": "580adfe7-def3-4c50-898d-e86a25b44c20",
+              "itemBody": "<p>B. 11.1%.</p>",
+              "position": 2
+            },
+            {
+              "id": "2ce3c75a-1998-4b40-9c39-a058b60e1974",
+              "itemBody": "<p>C. 12.0%. SUMMARY: - (LOS 24.a): - 13, 14, 21, 23, 24 (LOS 24.b): - 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 16, 18, 20, 26, 27, 28, 29, 30 (LOS 24.c): - 1, 10, 25 (LOS 24.d): - 15, 17, 19, 22 Capital Investments and Capital Allocation Faculty: Page 8 of 12</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "580adfe7-def3-4c50-898d-e86a25b44c20"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}

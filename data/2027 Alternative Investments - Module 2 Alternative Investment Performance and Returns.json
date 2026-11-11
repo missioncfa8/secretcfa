@@ -1,0 +1,267 @@
+{
+  "user_id": 2027,
+  "quiz_id": "2027_Alternative Investments_2",
+  "curriculum_year": "2027",
+  "topic": "Alternative Investments",
+  "module_number": 2,
+  "module_name": "Alternative Investment Performance and Returns",
+  "question_count": 9,
+  "points_possible": 9.0,
+  "workflow_state": "in_progress",
+  "quiz": {
+    "name": "2027 Alternative Investments - Module 2 Alternative Investment Performance and Returns",
+    "topic": "Alternative Investments",
+    "module_id": 2,
+    "question_count": 9,
+    "type": "practice",
+    "points_possible": 9.0,
+    "settings": {
+      "has_time_limit": false,
+      "allow_backtracking": true,
+      "shuffle_questions": false,
+      "shuffle_answers": false
+    }
+  },
+  "items": [
+    {
+      "id": "2027-Alte-2-1",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q1",
+        "itemBody": "<p>A commodity hedge fund has three investors: • €100 million from Investor A invested at Year 0, • €100 million from Investor B invested at the beginning of Year 2, and • €100 million from Investor C invested at the beginning of Year 3. The gross returns before fees of the fund are as follows: Year Annual Gross Return Investor A’s Investment (€ millions) Investor B’s Investment (€ millions) Investor C’s Investment (€ millions) 0 — 100 — 1 20% — — 2 –15% — 100 — 3 15% — 100 4 10% — — The management fee is 2% based on end-of-year value. The incentive fee is 20% above the high-water mark and is calculated based on end-of-year value net of management fee. Which investor has earned the highest net return after the end of Year 4? A. Investor A B. Investor B C. Investor C 5. (LOS 77.b) Buyout Capital, LLC, is a private equity fund that has the following characteristics: • Capital committed: $200 million • Preferred return: 8% soft hurdle, with full catch-up • Fund distribution: after five years • Management fee: none • Carried interest: 20% above preferred return • Waterfall structure: American (deal by deal) with clawback The fund made five investments, tabulated as follows: Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % 1 0 4 40 60 20 10.67% Alternative Investment Performance and Returns Faculty: Page 3 of 19 Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % 2 0 4 40 100 60 25.74% 3 1 5 40 50 10 5.74% 4 1 5 40 120 80 31.61% 5 2 5 40 30 (10) neg. Total 200 360 160 12.47% What is the total carried interest to the GP? A. $30 million B. $32 million C. $34 million 6. (LOS 77.b) Buyout Capital, LLC, is a private equity fund that has the following characteristics: • Capital committed: $200 million • Preferred return: 8% soft hurdle, with full catch-up • Fund distribution: after five years • Management fee: none • Carried interest: 20% above preferred return • Waterfall structure: European (whole of fund) The fund made five investments, tabulated as follows: Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % 1 0 4 40 60 20 10.67% 2 0 4 40 100 60 25.74% 3 1 5 40 50 10 5.74% 4 1 5 40 120 80 31.61% Alternative Investment Performance and Returns Faculty: Page 4 of 19 Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % 5 2 5 40 30 (10) neg. Total 200 360 160 12.47% What is the total carried interest to the GP? A. $30 million B. $32 million C. $34 million 7. (LOS 77.b) A hedge fund has the following fee structure: • Annual management fee based on year-end AUM: 2% • Incentive fee: 20% • Hurdle rate before incentive fee collection starts: 4% • Current high-water mark: $610 million The fund has a value of $583.1 million at the beginning of the year. After one year, it has a value of $642 million before fees. The net percentage return to an investor for this year is closest to: A. 6.72%. B. 6.80%. C. 7.64%. 8. (LOS 77.b) The following information is available about a hedge fund: Initial fund assets $100 million Fund assets at the end of the period (before fees) $110 million Management fee based on assets under management 2% Incentive fee based on the return 20% Soft hurdle rate 8% No deposits to the fund or withdrawals from the fund occurred during the year. Management fees are calculated using end-of-period valuation. Management fees and incentive fees are calculated independently. The net-of-fees return of the investor is closest to: A. 7.8%. B. 7.4%. C. 5.8%. Alternative Investment Performance and Returns Faculty: Page 5 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-2",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q2",
+        "itemBody": "<p>High Plains Capital is a hedge fund with a portfolio valued at $475,000,000 at the beginning of the year. One year later, the value of assets under management is $541,500,000. The hedge fund charges a 1.5% management fee based on the end-of-year portfolio value as well as a 10% incentive fee. If the incentive fee and management fee are calculated independently, the effective return for a hedge fund investor is closest to: A. 10.89%. B. 11.06%. C. 12.29%. 10. (LOS 77.b) An analyst gathers the following information about a hedge fund: $200 million in assets under management at the beginning of year a 2% management fee based on year-end assets under management a 20% incentive fee calculated net of the management fee If the fund's gross return is 25% during the year, the total fees earned by the fund manager are: A. $11 million. B. $14 million. C. $15 million. 11. (LOS 77.b) A hedge fund has the following characteristics: Assets under management, beginning of year $100 million Assets under management, end of year $120 million Management fee 1% of year-end assets under management Performance fee 15% of the annual return above a 3% hurdle rate If the performance fee is calculated net of the management fee and there were no capital contributions or withdrawals, the net annual return to the investor is closest to: A. 16.3%. B. 16.4%. C. 16.5%. Alternative Investment Performance and Returns Faculty: Page 6 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-3",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q3",
+        "itemBody": "<p>An analyst collects the following information about a hedge fund: Assets under management $1.5 billion, beginning of year Annual return 20% Management fee 2%, based on year-end valuation Incentive fee 20%, calculated net of management fees If the incentive fee is calculated on returns in excess of a 6% hurdle rate, total annual fees earned by the fund manager are closest to: A. $34,800,000. B. $70,800,000. C. $78,000,000. 13. (LOS 77.b) Which of the following has most likely been designed to provide an opportunity for a hedge fund manager to liquidate positions in an orderly fashion without magnifying the losses? A. Notice periods B. Lockup periods C. Redemption fees 14. (LOS 77.b) The lag in marking private equity investments to market most likely makes private equity appear: A. less volatile than it really is. B. less resilient than it really is. C. more correlated with traditional assets than it really is. 15. (LOS 77.b) A hedge fund has the following characteristics: Initial investment capital of $200 million; 2% management fee, based on assets under management at the end of the year; 20% incentive fee, calculated independent of the management fee and based on returns in excess of a 7% hurdle rate. If the fund's return is 18% at the end of the first year, the fund's investors' net return is closest to: A. 12.0%. B. 13.4%. C. 13.9%. 16. (LOS 77.b) A hedge fund has assets under management of $20 million at the beginning of the year and $24 million at the end of the year. The fund charges a 2% management fee based on year-end assets under management and a 20% incentive fee. If the incentive fee is calculated net of the management fee, the total fee charged for the year is closest to: A. $0.88 million. B. $1.18 million. C. $1.28 million. Alternative Investment Performance and Returns Faculty: Page 7 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-4",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q4",
+        "itemBody": "<p>An analyst collects the following information about a hedge fund: Assets under management, beginning of year $200 million Management fee 2% Incentive fee, net of management fee 20% Hard hurdle rate 5% The management fee and incentive fee are based on the year-end value. If the fund generates a gross return of 10%, the net return is closest to: A. 6.2%. B. 6.8%. C. 7.2%. 18. (LOS 77.b) When market prices are used to value underlying positions held by a hedge fund, the most conservative approach uses: A. bid prices only. B. the average of bid and ask prices. C. bid prices for longs and ask prices for shorts. 19. (LOS 77.b) A hedge fund has the following fee structure based on year-end assets under management: Assets under management, beginning of year $10 million Management fee 2% Incentive fee 20% The incentive fee is calculated net of the management fee. If the gross annual return is 15%, the net-of-fees return to investors is closest to: A. 8.8%. B. 10.2%. C. 11.7%. 20. (LOS 77.b) A hedge fund has the following characteristics: Management fee 2% of year-end assets under management Incentive fee 20% of the annual return above a 6% hurdle rate Assets under management at end of Year 1 $800 million Assets under management at end of Year 2 $960 million If the management and incentive fees are calculated independently and there were no capital contributions or withdrawals, total fees for Year 2 are closest to: A. $37.8 million. B. $39.7 million. Alternative Investment Performance and Returns Faculty: Page 8 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": [
+            {
+              "id": "03f32572-7f76-4466-b454-b3414208199d",
+              "itemBody": "<p>C. $41.6 million. 21. (LOS 77.b) A perceived benefit of adding alternative assets to a portfolio of traditional assets is most likely the higher: A. risk-adjusted return profile of the resulting portfolio. B. regulation and transparency of alternative assets relative to traditional assets. C. expected correlation of returns between alternative assets and traditional assets. 22. (LOS 77.b) Hedge fund mark-to-model valuations most likely reflect a: A. liquidation value. B. theoretical value. C. publicly traded price. 23. (LOS 77.b) An investor gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) $300,000,000 Current high-water mark $320,000,000 Annual return before fees 10% Management fee, based on end-of-year AUM before fees 2% Incentive fee 20% If the incentive fee is based on returns net of management fees and the fee structure includes the use of a high-water mark, the investor's net return for the year is closest to: A. 6.24%. B. 6.96%. C. 7.57%. 24. (LOS 77.b) Which of the following is the most conservative approach to valuing a hedge fund's underlying positions? A. Using bid prices for long positions and ask prices for short positions B. Using bid prices for short positions and ask prices for long positions C. Using the average of the bid and ask prices for both long and short positions 25. (LOS 77.b) Which of the following hedge fund mechanisms is most likely used to impose a temporary restriction on redemptions if needed? A. Gate B. Notice period C. Lockup period 26. (LOS 77.b) Which of the following statements about private equity performance evaluation is most accurate? A. Private equity fund management fees are based on capital called. B. Cash flows are frequently described in terms of the J-curve effect. C. Managers have no discretion on the timing of the distribution of proceeds. Alternative Investment Performance and Returns Faculty: Page 9 of 19</p>",
+              "position": 3
+            }
+          ]
+        },
+        "scoringData": {
+          "value": "03f32572-7f76-4466-b454-b3414208199d"
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-5",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q5",
+        "itemBody": "<p>A measure that restricts new investors in a hedge fund from redeeming their capital for a set amount of time in order to implement the fund's investment strategy is known as a: A. gate. B. notice period. C. lockup period. 28. (LOS 77.b) Which of the following hedge fund investments require the highest level of scrutiny and due diligence? A. Level 1 assets B. Level 2 assets C. Level 3 assets 29. (LOS 77.b) An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) €200 million Management fee, based on end-of-year AUM before fees 1.5% Incentive fee 20% Hard hurdle rate 5% Annual return before fees 15% If the incentive fee is based on returns net of management fees, total fees for the year are closest to: A. €6.8 million. B. €7.5 million. C. €8.8 million. 30. (LOS 77.b) An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) $50 million Annual return before fees 20% Management fee (based on end-of-year AUM before fees) 2% Incentive fee (based on return net of management fees) 20% An investor's net return is: A. 13.60%. B. 14.08%. C. 14.40%. Alternative Investment Performance and Returns Faculty: Page 10 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-6",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q6",
+        "itemBody": "<p>An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) $500 million Annual return before fees 22% Management fee, based on end-of-year AUM before fees 2% Incentive fee 15% Hard hurdle rate 10% The incentive fee (in $ millions) based on returns net of management fees is closest to: A. 7.2. B. 13.0. C. 14.7. Alternative Investment Performance and Returns Faculty: Page 11 of 19 Solutions 1. A is correct. Although the gross return of Rotunda results in a $360 million gross NAV, the deduction of the $7.2 million management fee brings NAV to $352.8 million, which is below the prior high-water mark. Rotunda earns a management fee of $7.20 million but does not earn an incentive fee because the year-end fund value net of management fee does not exceed the prior high-water mark of $357 million. Since Rotunda is still also below the prior-year high-water mark, the hurdle rate of return is also basically irrelevant in this fee calculation. The specifics of this calculation are as follows: End-of-year AUM = Prior year-end AUM × (1 + Fund return) = $288 million × 1.25 = $360 million. $360 million × 2% = $7.20 million management fee. $360 million − $7.2 million = $352.8 million AUM net of management fee. The year-end AUM net of fees do not exceed the $357 million high-water mark. Therefore, no incentive fee is earned. 2. B is correct. rL = Leveraged portfolio return/Cash position = [r × (Vb + Vc) – (Vb × rb)] /Vc. Or, after re-arranging the formula, 𝑟=(𝑉!×𝑟\")+(𝑉#×𝑟#)(𝑉!+𝑉#) Substituting rL = 0.15, Vb = 200, Vc = 500, rb = 0.045, r = (500 × 0.15) + (200 × 0.045)/(200 + 500) = 12%. Since leverage magnifies return when the borrowing cost is lower than asset returns, the unleveraged asset return must be lower than 15%. 3. B is correct. Accounting rules require that investments be recorded at their fair value for financial reporting purposes. The fair value of private equity that owns illiquid assets requires certain estimates, rather than observable transaction prices, to be factored into valuation. A model that relies on Level 3 inputs may reflect an imperfect theoretical valuation and not a true liquidation value. The lack of new market information over time may anchor the interim valuation at or near initial cost. The relatively stable accounting valuations may give investors a false sense that they are less volatile. At the same time, there is a potential conflict of interest for the GP to overstate interim return because of the implication for carried interest. As a result, returns may be smoothed or overstated and the volatility of returns understated. Alternative Investment Performance and Returns Faculty: Page 12 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-7",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q7",
+        "itemBody": "<p>C is correct. Despite investing for the shortest period of time in the fund (i.e., two years), Investor C has earned the highest net return compared to the other two investors. The following table illustrates the calculations based on the “2 and 20” fee structure and the high-water marks facing each investor in any particular year; in each case, the incentive fee is calculated using Equation: RGP (High-Water Mark) = (P2 × rm) + max {0, [P2 (1 - rm) – PHWM] × p}. The net return is calculated using Equation: ri = (P 2 – P 1 – RGP)/P1. Year Annual Gross Return Investor A’s Investment Year-End AUM High-Water Mark Management Fee (2%) Incentive Fee (20%) Year-End AUM (Before Fee) (After Fee) (Before Fee) 0 — 100 100 — — — 100 1 20% — 120 100 2.4 3.52 114.08 2 -15% — 96.97 114.08 1.94 — 95.03 3 15% — 109.28 114.08 2.19 — 107.1 4 10% — 117.81 114.08 2.36 0.27 115.18 Investor A's net return 15.18% Year Annual Gross Return Investor B’s Investment Year-End AUM High-Water Mark Management Fee (2%) Incentive Fee (20%) Year-End AUM (Before Fee) (Before Fee) 0 — — — — — — — 1 20% — — — — — — 2 -15% 100 85 100 1.7 — 83.3 3 15% 95.8 100 1.92 — 93.88 4 10% — 103.27 100 2.07 0.24 100.96 Investor B's net return 0.96% Alternative Investment Performance and Returns Faculty: Page 13 of 19 Year Annual Gross Return Investor C’s Investment Year-End AUM High-Water Mark Management Fee (2%) Incentive Fee (20%) Year-End AUM (Before Fee) (Before Fee) 0 — — — — — — — 1 20% — — — — — — 2 -15% — — — — — — 3 15% 100 115 100 2.3 2.54 110.16 4 10% — 121.18 110.16 2.42 1.72 117.03 Investor C's Net Return 17.03% 5. A is correct. The distribution of profit of each investment is as follows: Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % LPs at 80% GP at 20% 1 0 4 40 60 20 10.67% 16 4 2 0 4 40 100 60 25.74% 48 12 3 1 5 40 50 10 5.74% 10 0 4 1 5 40 120 80 31.61% 64 16 5 2 5 40 30 -10 neg. -8 -2 Total 200 360 160 12.47% 130 30 Since the preferred return of the LP is 8%, Investments 1, 2, and 4 all meet the criterion and the profit is split 80/20 between the LPs and GP. Investment 3 does not earn the GP any carry because it fails to meet the preferred return; neither does Investment 5, whose profit is negative. Because of the clawback clause, the GP’s carry is reduced by $2 million (or 20% of the loss on Investment 5). Therefore, the total carried interest adds up to $30 million, or 30/160 = 18.75% of the total profit made by the fund. 6. B is correct. A European waterfall occurs at the aggregate fund level. As long as the fund exit IRR exceeds 8% after five years, the GP will be eligible for the full 20% Alternative Investment Performance and Returns Faculty: Page 14 of 19 carried interest on the profit made from all investments—that is, $160 million × 20% = $32 million. Investment No. Year Amount ($ m) Profit Invested Sold Invested Sold $ m % LPs at 80% GP at 20% 1 0 4 40 60 20 10.67% 2 0 4 40 100 60 25.74% 3 1 5 40 50 10 5.74% 4 1 5 40 120 80 31.61% 5 2 5 40 30 -10 neg. Total 200 360 160 12.47% 128 32 7. C is correct. The management fee for the year is $642 million × 0.02 = $12.84 million. Because the ending gross value of the fund of $642 million exceeds the high-water mark of $610 million, the hedge fund can collect an incentive fee on gains above this high-water mark but net of the hurdle rate of return. The incentive fee calculation becomes {$642 – [$610 × (1 + 0.04)]} × 0.20 = $1.52 million. The net return to the investor for the year is [($642 – $12.84 – $1.52)/$583.1] – 1 = 0.07638 ≈ 7.64%. 8. C is correct. The soft hurdle rate is surpassed because the return of the fund is 10%. For that reason, the full fee, based on the full performance, is due. Management fee: 2% of $110 million = $2.2 million Incentive fee: 20% of $10 million = $2 million Total fees: $4.2 million Therefore, the fund assets at the end of the period after fees are $105.8 million. The return for the investor is 5.8%. 9. A is correct. Management fee = $541,500,000 × 0.015 = $8,122,500 Incentive fee = ($541,500,000 – $475,000,000) × 0.10 = $6,650,000 Total fees = $14,772,500 Return = ($541,500,000 – $475,000,000 – $14,772,500)/$475,000,000 = 0.1089 or 10.89% 10. B is correct because it calculates the incentive fee net of the management fee. That is, the total fee is the sum of the management fee of $5 million ($250 million AUM Alternative Investment Performance and Returns Faculty: Page 15 of 19 times 0.02) and the incentive fee of $9 million ($250 million less $200 million less the $5 million incentive times 0.20), which is $14 million. 11. B is correct because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) – ($100 million × 3%) − $1.200 million)] × 15% = $2.370 million. Total fee = $1.200 million + $2.370 million = $3.570 million. Investor return = ($20 – $3.570) / $100 = 16.430% ≈ 16.4%. 12. B is correct because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. The management fee is calculated as $1,500,000,000 × (1 + 20%) × 2% = $36,000,000 and the incentive fee is calculated as [$1,800,000,000 − $1,500,000,000 – ($1,500,000,000 × 6%) − $36,000,000] × 20% = $34,800,000. Therefore, the total fees earned by the manager are $36,000,000 + $34,800,000 = $70,800,000. 13. A is correct because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses. 14. A is correct because the lagging impact of shorter-term economic events on the interim accounting valuations of these strategies makes them appear more resilient and less correlated than they really are. A more realistic picture may emerge when premature portfolio liquidations are forced on managers. The lack of transparency around such investments and the slowness to mark them to market can be incorrectly construed by investors as an overall lack of volatility. 15. B is correct because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Accordingly, (in $ millions): AUM at the beginning of the year: 200 Alternative Investment Performance and Returns Faculty: Page 16 of 19 AUM at the end of the year: 200 × (1 + 0.18) = 236 Management fee: 236 × 0.02 = 4.72 Incentive fee: [236 – 200 – (200 × 0.07)] × 0.20 = 4.40 Total fees paid to the hedge fund manager: 4.72 + 4.40 = 9.12 Investor's return: (236 – 200 – 9.12) ÷ 200 = 13.44% ≈ 13.4%. 16. B is correct because: $24 million × 2% = $480,000 management fee ($24 million – $20 million – $480,000) × 20% = $704,000 incentive fee Total fees = $480,000 + $704,000 = $1,184,000. 17. C is correct because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. AUM at year end = $200 million × 110% = $220 million Management fee = $220 million × 2% = $4.4 million Hard hurdle = $200 million × 5% = $10 million Incentive fee = ($220 − $200 − $10 − $4.4) × 20% = $1.12 million Total fees = $5.52 million Investor return = ($20 − $5.52) / $200 = 0.0724 ≈ 7.2%. 18. C is correct because when market prices or quotes are used for valuation, funds may diﬀer in which price or quote they use (bid price, ask price, average quote, or median quote). A common practice is to use an average of the bid and the ask. A more conservative and theoretically more accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. 19. B is correct because: AUM at period end = $10 million × 115% = $11.5 million Management fee = $11.5 million × 2% = $230,000 Incentive fee = ($11.5 million − $10.0 million − $230,000) × 20% = $254,000 Total fee = $230,000 + $254,000 = $484,000 Investor return = ($11.5 million − $10.0 million − $484,000) / $10.0 million = 10.16%. 20. C is correct because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Total fees are calculated as follows: Alternative Investment Performance and Returns Faculty: Page 17 of 19 Management fee = $960 million × 0.02 = $19.2 million Hard hurdle = $800 million × 0.06 = $48 million Incentive fee = ($960 million – $800 million – $48 million) × 0.2 = $22.4 million Total fees = $19.2 million + $22.4 million = $41.6 million. 21. A is correct because alternative investments offer broader diversification (because of their lower correlation with traditional asset classes), opportunities for enhanced returns (by increasing the portfolio’s risk–return profile), and potentially increased income through higher yields (particularly compared with traditional investments in low–interest rate periods). Alternative investments’ diversifying potential is part of the motivation for investing in them: Investors perceive an opportunity to improve the risk–return relationship in the portfolio context. Given the historical return, volatility, and correlation profiles of alternative investments, combining a portfolio of alternative investments with a portfolio of traditional investments should improve the overall portfolio’s risk–return profile. Doing so can increase the risk-adjusted return of the overall portfolio because of potentially higher returns to the portfolio and a less-than-perfect correlation with traditional investments. 22. B is correct because the very nature of assets that can be valued only on a mark-to-model basis can and should be a concern for the alternative asset investor. A model may reflect an imperfect theoretical valuation and not a true liquidation value. 23. C is correct because in hedge funds, fee calculations also take into account a high-water mark, which reﬂects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits. End-of-year AUM = Beginning-of-year AUM × (1 + Annual return before fees) = $300,000,000 × (1 + 10%) = $330,000,000. Management fee = Management fee based on end-of-year AUM × End-of-year AUM = 2% × $330,000,000 = $6,600,000. The incentive fee is payable if the current high water-mark is exceeded and is based on the excess return above this high-water mark. Return in excess of current high-water mark = End-of-year AUM – Current high-water mark – Management fee = $330,000,000 – $320,000,000 – $6,600,000 = $3,400,000. Incentive fee = 20% × Return in excess of current high-water mark = 20% × $3,400,000 = $680,000. Total fees = Management fee + Incentive fee (as applicable) = $6,600,000 + $680,000 = $7,280,000. Net return = (End-of-year AUM – Beginning-of-year AUM – Total fees) / Beginning-of-year AUM = ($330,000,000 – $300,000,000 – $7,280,000) / $300,000,000 = $22,720,000 / $300,000,000 ≈ 7.57%. Alternative Investment Performance and Returns Faculty: Page 18 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-8",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q8",
+        "itemBody": "<p>A is correct because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading. 25. A is correct because in addition to lockup periods, funds sometimes impose a gate, which limits or restricts redemptions for a period of time. 26. B is correct because private equity investments generally involve an initial capital commitment, but actual capital flows often lag that commitment because capital 'calls' are staggered over substantive periods of time. Private equity returns are frequently described in terms of the J-curve effect. 27. C is correct because lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy’s expected results. Lockup periods apply to new investors in a hedge fund with the goal of allowing the hedge fund manager time to implement the fund's investment strategy. 28. C is correct because any investment vehicle that is heavily involved with Level 3–priced assets deserve increased scrutiny and due diligence. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing. Level 3 asset values are computed using only internal models when outsider broker (Level 2) quotes are not available or not reliable. 29. A is correct because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. AUM at year-end = €200 million × 115% = €230 million. Management fee = €230 million × 1.5% = €3.45 million. The incentive fee is calculated net of management fees and there is also a hard hurdle rate. Accordingly, Incentive fee = (€230 million – €200 million – €3.45 million – €10 million) × 20% = €16.55 million × 20% = €3.31 million; where hard hurdle = €200 million × 5% = €10 million. Thus, total fees = €3.45 million + €3.31 million = €6.76 million ≈ €6.8 million. Alternative Investment Performance and Returns Faculty: Page 19 of 19</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    },
+    {
+      "id": "2027-Alte-2-9",
+      "entry": {
+        "title": "2027 Alternative Investments Mod2-Q9",
+        "itemBody": "<p>B is correct because: $60 million × 2% = $1.2 million management fee. ($60 – $50 – $1.2) million × 20% = $1.76 million incentive fee. Total fees = $2.96 million. Investor return = ($60 – $50 – $2.96)/$50 million = 14.08%. 31. A is correct because End-of-year AUM = $500 million × 22% = $610 million. Management fee = $610 million × 2% = $12.2 million. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Hard hurdle = $500 million × 10% = $50 million. Incentive fee (based on returns net of management fees) = ($610 million – $500 million – $50 million – $12.2 million) × 15% = $47.8 million × 15% = $7.17 million ≈ $7.2 million.</p>",
+        "feedback": {
+          "neutral": ""
+        },
+        "interactionData": {
+          "choices": []
+        },
+        "scoringData": {
+          "value": null
+        },
+        "properties": {
+          "shuffleRules": {
+            "choices": {
+              "toLock": [],
+              "shuffled": false
+            }
+          }
+        },
+        "scoringAlgorithm": "Equivalence",
+        "interactionTypeSlug": "choice"
+      }
+    }
+  ]
+}
